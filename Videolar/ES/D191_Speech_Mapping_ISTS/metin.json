@@ -1,0 +1,1215 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D191_Speech_Mapping_ISTS_ES",
+ "kapak": {
+  "ust": "LECCIÓN 191",
+  "baslik": "Mapeo<br>*del habla*",
+  "alt": "Verificación con ISTS y SII",
+  "cizim": "rem_duzenegi"
+ },
+ "youtube": {
+  "baslik": "Mapeo del habla y verificación con ISTS | Lección 191 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Dónde coloca un audífono el habla dentro del oído? En esta lección vemos cómo se creó la señal de prueba ISTS, cómo leer en un mapa del habla los umbrales, el habla amplificada y el nivel de molestia, qué son los percentiles y qué es el índice de inteligibilidad del habla (SII).\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Holube, Fredelake, Vlaming y Kollmeier (2010), Development and analysis of an International Speech Test Signal (ISTS), International Journal of Audiology; IEC 60118-15, Methods for characterizing signal processing in hearing aids with a speech-like signal; ANSI/ASA S3.5-1997, Methods for Calculation of the Speech Intelligibility Index; Dillon, Hearing Aids; Mueller, Ricketts y Bentler, Modern Hearing Aids.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "ISTS"
+  ],
+  "etiketler": [
+   "mapeo del habla",
+   "ISTS",
+   "señal internacional de prueba del habla",
+   "SII",
+   "índice de inteligibilidad del habla",
+   "LTASS",
+   "medición en oído real",
+   "verificación de audífonos",
+   "percentiles del habla",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 191",
+   "baslik": "Mapeo *del habla*",
+   "alt": "ISTS, LTASS y SII",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprenderemos a verificar un audífono con una señal que se parece al habla real, es decir, el mapeo del habla.",
+    "Veremos paso a paso la Señal Internacional de Prueba del Habla, o ISTS, el habla en el oído y el índice de inteligibilidad del habla."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La señal de prueba ISTS",
+   "baslik": "¿Por qué una señal *de habla*?",
+   "maddeler": [
+    {
+     "metin": "Los audífonos responden al habla",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Un tono puro puede parecer ruido",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "La compresión reacciona a la dinámica real",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Objetivo: ver el habla en el oído",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "rem_duzenegi",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "hoparlor",
+      "metin": "señal similar al habla",
+      "cumle": 0
+     },
+     {
+      "parca": "prob_tupu",
+      "metin": "tubo de sonda",
+      "cumle": 5
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "hoparlor",
+      "cumle": 0
+     },
+     {
+      "parca": "prob_tupu",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Los audífonos actuales analizan la señal de forma continua y cambian su comportamiento según lo que oyen.",
+    "La reducción de ruido, la cancelación de la retroalimentación y la compresión responden al tipo de sonido entrante y a cómo cambia en el tiempo.",
+    "Un tono puro estable o un ruido continuo pueden ser tratados como ruido por estos sistemas y atenuados.",
+    "La compresión también responde a las subidas y bajadas rápidas del habla de forma distinta que a una señal estable.",
+    "Por eso, la ganancia medida con tonos puros puede no reflejar del todo lo que el audífono hace realmente con el habla.",
+    "El mapeo del habla muestra directamente dónde queda una señal similar al habla dentro del conducto auditivo."
+   ]
+  },
+  {
+   "id": "ists",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "La señal de prueba ISTS",
+   "baslik": "¿Qué es la *ISTS?*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Seis hablantes",
+     "cumle": 1,
+     "metin": "Voces femeninas"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Seis idiomas",
+     "cumle": 2,
+     "metin": "El mismo texto breve"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Ininteligible",
+     "cumle": 3,
+     "metin": "Pero similar al habla"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Espectro estándar",
+     "cumle": 4,
+     "metin": "LTASS femenino internacional"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "60 segundos",
+     "cumle": 5,
+     "metin": "Los primeros segundos, para estabilizarse"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Norma",
+     "cumle": 6,
+     "metin": "IEC 60118-15"
+    }
+   ],
+   "cumleler": [
+    "La Señal Internacional de Prueba del Habla, o ISTS, es una señal desarrollada para medir audífonos.",
+    "Está hecha a partir de grabaciones de seis hablantes mujeres.",
+    "Las grabaciones están en inglés estadounidense, árabe, chino mandarín, francés, alemán y español.",
+    "Las grabaciones se cortaron en segmentos breves y se mezclaron, de modo que la señal es ininteligible pero conserva el ritmo y las variaciones del habla.",
+    "Su espectro promedio del habla a largo plazo, o LTASS, coincide con el promedio del habla femenina.",
+    "La señal dura 60 segundos; los primeros segundos se dejan para que el audífono se estabilice, y el análisis usa la parte que sigue.",
+    {
+     "yazi": "La ISTS y su método de análisis están definidos en una norma internacional IEC para la medición de audífonos."
+    }
+   ]
+  },
+  {
+   "id": "uretim",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La señal de prueba ISTS",
+   "baslik": "¿*Cómo* se creó la ISTS?",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Grabación",
+     "cumle": 0,
+     "metin": "Seis idiomas, una fábula"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Segmentación",
+     "cumle": 1,
+     "metin": "Fragmentos breves"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Mezcla",
+     "cumle": 2,
+     "metin": "Entre idiomas"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Espectro",
+     "cumle": 3,
+     "metin": "Promedio femenino"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Señal de prueba",
+     "cumle": 4,
+     "metin": "Independiente del idioma"
+    }
+   ],
+   "cumleler": [
+    "Cada hablante leyó el mismo texto breve en su propio idioma: la fábula del viento del norte y el sol.",
+    "Las grabaciones se cortaron en segmentos breves, de aproximadamente la duración de una sílaba.",
+    "Los segmentos se mezclaron entre idiomas y se reordenaron, de modo que no quedó ninguna oración con sentido en ningún idioma.",
+    "Por último, el espectro de la señal resultante se ajustó al promedio internacional del habla femenina.",
+    "El resultado es una señal similar al habla, independiente del idioma, que puede usarse de la misma manera en todo el mundo."
+   ]
+  },
+  {
+   "id": "harita",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El mapa del habla",
+   "baslik": "El *mapa del habla* en el oído",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Nivel en el conducto (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        40
+       ],
+       [
+        500,
+        42
+       ],
+       [
+        1000,
+        48
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        3000,
+        68
+       ],
+       [
+        4000,
+        72
+       ],
+       [
+        6000,
+        78
+       ],
+       [
+        8000,
+        80
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "umbral",
+      "cumle": 1
+     },
+     {
+      "ad": "ucl",
+      "noktalar": [
+       [
+        250,
+        105
+       ],
+       [
+        500,
+        105
+       ],
+       [
+        1000,
+        107
+       ],
+       [
+        2000,
+        110
+       ],
+       [
+        4000,
+        112
+       ],
+       [
+        8000,
+        112
+       ]
+      ],
+      "renk": "turuncu",
+      "kesik": true,
+      "etiket": "nivel de molestia",
+      "cumle": 2
+     },
+     {
+      "ad": "cihazsiz",
+      "noktalar": [
+       [
+        250,
+        56
+       ],
+       [
+        500,
+        58
+       ],
+       [
+        1000,
+        52
+       ],
+       [
+        2000,
+        52
+       ],
+       [
+        3000,
+        50
+       ],
+       [
+        4000,
+        45
+       ],
+       [
+        6000,
+        40
+       ],
+       [
+        8000,
+        36
+       ]
+      ],
+      "renk": "gri",
+      "yumusak": true,
+      "etiket": "habla sin audífono",
+      "cumle": 3
+     },
+     {
+      "ad": "cihazli",
+      "noktalar": [
+       [
+        250,
+        58
+       ],
+       [
+        500,
+        63
+       ],
+       [
+        1000,
+        66
+       ],
+       [
+        2000,
+        73
+       ],
+       [
+        3000,
+        78
+       ],
+       [
+        4000,
+        79
+       ],
+       [
+        6000,
+        74
+       ],
+       [
+        8000,
+        66
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "habla con audífono",
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "eksik",
+      "x": [
+       5500,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "inaudible",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "En un mapa del habla, todo se muestra como nivel de presión sonora frente a la membrana timpánica, en dB SPL.",
+    "La línea roja son los umbrales auditivos de la persona convertidos a esta escala; los sonidos por debajo de la línea no se oyen.",
+    "La línea discontinua de arriba muestra el nivel de molestia de la persona.",
+    "La curva gris es el nivel promedio del habla media de 65 dB SPL en el oído sin audífono; su parte aguda queda por debajo del umbral.",
+    "La curva azul es el nivel que alcanza esa misma habla con el audífono.",
+    "En este ejemplo, el habla amplificada supera el umbral hasta 4000 Hz, pero por encima de unos 5000 Hz todavía no se oye.",
+    "Así, en una sola pantalla vemos qué parte del habla es audible y qué parte falta."
+   ]
+  },
+  {
+   "id": "yuzdelik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El mapa del habla",
+   "baslik": "Un *rango*, no un promedio",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Nivel en el conducto (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        40
+       ],
+       [
+        500,
+        42
+       ],
+       [
+        1000,
+        48
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        3000,
+        68
+       ],
+       [
+        4000,
+        72
+       ],
+       [
+        6000,
+        78
+       ],
+       [
+        8000,
+        80
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "umbral",
+      "cumle": 1
+     },
+     {
+      "ad": "p99",
+      "noktalar": [
+       [
+        250,
+        70
+       ],
+       [
+        500,
+        75
+       ],
+       [
+        1000,
+        78
+       ],
+       [
+        2000,
+        85
+       ],
+       [
+        3000,
+        90
+       ],
+       [
+        4000,
+        91
+       ],
+       [
+        6000,
+        86
+       ],
+       [
+        8000,
+        78
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "percentil 99",
+      "cumle": 2
+     },
+     {
+      "ad": "ltass",
+      "noktalar": [
+       [
+        250,
+        58
+       ],
+       [
+        500,
+        63
+       ],
+       [
+        1000,
+        66
+       ],
+       [
+        2000,
+        73
+       ],
+       [
+        3000,
+        78
+       ],
+       [
+        4000,
+        79
+       ],
+       [
+        6000,
+        74
+       ],
+       [
+        8000,
+        66
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "etiket": "promedio",
+      "cumle": 2
+     },
+     {
+      "ad": "p30",
+      "noktalar": [
+       [
+        250,
+        40
+       ],
+       [
+        500,
+        45
+       ],
+       [
+        1000,
+        48
+       ],
+       [
+        2000,
+        55
+       ],
+       [
+        3000,
+        60
+       ],
+       [
+        4000,
+        61
+       ],
+       [
+        6000,
+        56
+       ],
+       [
+        8000,
+        48
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "percentil 30",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "dinamik",
+      "y": [
+       48,
+       78
+      ],
+      "xk": 1000,
+      "etiket": "unos 30 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "El habla no es un sonido estable; su nivel cambia de un momento a otro en cada banda de frecuencia.",
+    "En el análisis estándar, la señal se examina en bandas de tercio de octava, con ventanas breves de 125 milisegundos.",
+    {
+     "yazi": "En cada banda, los picos se muestran como el percentil 99 y las partes suaves como el 30; el percentil 65 y el promedio a largo plazo quedan entre ambos."
+    },
+    {
+     "yazi": "En la ISTS sin audífono, la diferencia entre los percentiles 99 y 30, el rango dinámico del habla, es de unos 30 dB."
+    },
+    "En un audífono con compresión este rango puede estrecharse, y ese estrechamiento se ve directamente en la pantalla.",
+    "El objetivo es que las partes suaves del habla superen el umbral tanto como sea posible, y que los picos no superen el nivel de molestia."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "El mapa del habla",
+   "baslik": "*Pasos* de la medición",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Convertir umbrales",
+     "cumle": 0,
+     "metin": "De dB HL a dB SPL"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tubo de sonda",
+     "cumle": 1,
+     "metin": "Cerca del tímpano"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Tres niveles",
+     "cumle": 2,
+     "metin": "55, 65, 75 a 80"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Comparar con el objetivo",
+     "cumle": 3,
+     "metin": "En cada nivel"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Salida máxima",
+     "cumle": 4,
+     "metin": "85 a 90 dB"
+    }
+   ],
+   "cumleler": [
+    "Primero, los umbrales de la persona en dB HL se convierten a dB SPL en el conducto auditivo con valores promedio o medidos del oído.",
+    "Como vimos en la lección anterior, el tubo de sonda se coloca a unos 5 mm de la membrana timpánica.",
+    "La ISTS suele presentarse a unos 55, 65 y 75 a 80 dB SPL, para el habla suave, media y fuerte.",
+    "En cada nivel, la curva promedio medida se compara con el objetivo prescriptivo en la misma pantalla, y se ajustan las ganancias por canal.",
+    "Por último, la salida máxima del audífono se comprueba con un barrido de 85 a 90 dB SPL.",
+    "Para la salida máxima se usa un barrido en lugar de una señal de habla, porque el objetivo es captar la salida más intensa del audífono."
+   ]
+  },
+  {
+   "id": "ekran",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "El mapa del habla",
+   "baslik": "¿Qué *buscamos?*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Audibilidad",
+     "cumle": 0,
+     "metin": "Habla por encima del umbral"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Confort",
+     "cumle": 1,
+     "metin": "Picos bajo el nivel de molestia"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Separación",
+     "cumle": 2,
+     "metin": "Tres niveles separados"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Ajuste al objetivo",
+     "cumle": 3,
+     "metin": "Cercano en cada nivel"
+    }
+   ],
+   "cumleler": [
+    "En la pantalla, lo primero que nos preguntamos es si el promedio del habla de nivel medio supera el umbral en las frecuencias importantes.",
+    "Segundo, ¿los picos del habla fuerte y la salida máxima quedan por debajo del nivel de molestia?",
+    "Tercero, ¿las curvas del habla suave, media y fuerte están separadas entre sí, o hay demasiada compresión?",
+    "Por último, ¿la curva medida en cada nivel está lo bastante cerca del objetivo prescriptivo?",
+    "Estas cuatro preguntas muestran si el audífono cumple su función básica antes de pasar al ajuste fino."
+   ]
+  },
+  {
+   "id": "sii",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "SII",
+   "baslik": "El índice de *inteligibilidad del habla*",
+   "maddeler": [
+    {
+     "metin": "Valor: entre _0 y 1_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Banda audible por importancia de banda",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_No_ es un porcentaje de aciertos",
+     "cumle": 4,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Se compara sin y con audífono",
+     "cumle": 5,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "cumle": 0,
+    "ayar": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        30,
+        35,
+        40,
+        50,
+        60,
+        65
+       ],
+       "cumle": 0
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "El índice de inteligibilidad del habla, o SII, resume en un solo número qué parte del habla es audible.",
+    "El valor va de 0 a 1: 0 significa que no se oye ninguna información, y 1 que toda la información del habla es audible.",
+    "En el cálculo, se determina en cada banda de frecuencia la parte del habla que supera el umbral y se multiplica por el peso de importancia de esa banda.",
+    {
+     "yazi": "El método de cálculo del índice está definido en la norma estadounidense ANSI S3.5.",
+     "ses": "El método de cálculo del índice está definido en la norma estadounidense ANSI ese tres punto cinco."
+    },
+    {
+     "yazi": "El SII no es un porcentaje de inteligibilidad; por ejemplo, un valor de 0,5 no significa que se vaya a entender la mitad de las palabras.",
+     "ses": "El SII no es un porcentaje de inteligibilidad; por ejemplo, un valor de cero coma cinco no significa que se vaya a entender la mitad de las palabras."
+    },
+    "Muchos sistemas de medición muestran el SII sin y con audífono; la diferencia resume el aporte del audífono a la audibilidad."
+   ]
+  },
+  {
+   "id": "bant",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "SII",
+   "baslik": "Las bandas *no son iguales*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Banda de octava (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 30,
+     "adim": 10,
+     "ad": "Importancia de banda (porcentaje)"
+    },
+    "seriler": [
+     {
+      "ad": "onem",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        250,
+        6
+       ],
+       [
+        500,
+        17
+       ],
+       [
+        1000,
+        24
+       ],
+       [
+        2000,
+        26
+       ],
+       [
+        4000,
+        21
+       ],
+       [
+        8000,
+        5
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "orta",
+      "x": [
+       800,
+       2600
+      ],
+      "renk": "sari",
+      "etiket": "región más importante",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "En el cálculo del SII, no todas las bandas de frecuencia tienen el mismo peso.",
+    "Este gráfico muestra de forma aproximada los pesos de importancia estándar del habla promedio para las bandas de octava.",
+    "La mayor importancia está en las bandas de 1000 y 2000 Hz; juntas aportan alrededor de la mitad de la información total.",
+    "La banda de 4000 Hz también tiene una participación de alrededor de un quinto.",
+    "Las bandas de 250 y 8000 Hz, en cambio, tienen participaciones pequeñas.",
+    "Por eso, hacer audible el habla en las frecuencias medias y agudas eleva el SII mucho más que hacerlo en las graves."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "SII",
+   "baslik": "Cómo *interpretar* el SII",
+   "ogeler": [
+    {
+     "ikon": "yanlis",
+     "baslik": "No es un porcentaje",
+     "cumle": 0,
+     "metin": "Un resumen de la audibilidad"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Individual",
+     "cumle": 1,
+     "metin": "Mismo SII, distinto resultado"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Según la edad",
+     "cumle": 2,
+     "metin": "Hay normas para niños"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "No es el único objetivo",
+     "cumle": 3,
+     "metin": "El confort también importa"
+    }
+   ],
+   "cumleler": [
+    "El SII es un resumen de la audibilidad; por sí solo no indica cuánto entenderá realmente la persona.",
+    "Dos personas con el mismo SII pueden obtener resultados distintos, según el estado de la cóclea y cómo procesa el sonido el cerebro.",
+    "En niños hay estudios normativos que muestran los valores de SII con audífono esperables para cada grado de pérdida auditiva.",
+    "Forzar demasiado la ganancia para maximizar el SII puede causar molestia y retroalimentación; el objetivo es el equilibrio.",
+    "Por eso, el SII debe interpretarse junto con el ajuste al objetivo y la opinión de la persona."
+   ]
+  },
+  {
+   "id": "duzeltme",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ajuste e interpretación",
+   "baslik": "Ejemplo: *por debajo del objetivo*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Nivel en el conducto (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        40
+       ],
+       [
+        500,
+        42
+       ],
+       [
+        1000,
+        48
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        3000,
+        68
+       ],
+       [
+        4000,
+        72
+       ],
+       [
+        6000,
+        78
+       ],
+       [
+        8000,
+        80
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "umbral",
+      "cumle": 1
+     },
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        250,
+        58
+       ],
+       [
+        500,
+        63
+       ],
+       [
+        1000,
+        67
+       ],
+       [
+        2000,
+        74
+       ],
+       [
+        3000,
+        78
+       ],
+       [
+        4000,
+        80
+       ],
+       [
+        6000,
+        78
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "objetivo",
+      "cumle": 1
+     },
+     {
+      "ad": "ilk",
+      "noktalar": [
+       [
+        250,
+        59
+       ],
+       [
+        500,
+        63
+       ],
+       [
+        1000,
+        66
+       ],
+       [
+        2000,
+        68
+       ],
+       [
+        3000,
+        68
+       ],
+       [
+        4000,
+        66
+       ],
+       [
+        6000,
+        60
+       ]
+      ],
+      "renk": "gri",
+      "yumusak": true,
+      "etiket": "primera medición",
+      "cumle": 1
+     },
+     {
+      "ad": "son",
+      "noktalar": [
+       [
+        250,
+        59
+       ],
+       [
+        500,
+        63
+       ],
+       [
+        1000,
+        67
+       ],
+       [
+        2000,
+        73
+       ],
+       [
+        3000,
+        77
+       ],
+       [
+        4000,
+        78
+       ],
+       [
+        6000,
+        74
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "tras el ajuste",
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "acik",
+      "x": [
+       2000,
+       6000
+      ],
+      "renk": "sari",
+      "etiket": "bajo el objetivo",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Veamos ahora un ejemplo de ajuste: después de la primera adaptación, se midió el habla de nivel medio.",
+    "La línea discontinua muestra el objetivo prescriptivo, y la curva gris, la primera medición.",
+    "Por encima de 2000 Hz, la curva medida queda claramente por debajo del objetivo.",
+    "Esto significa que las consonantes agudas del habla no son lo bastante audibles.",
+    "Al aumentar la ganancia en los canales correspondientes y repetir la medición, la curva azul se acerca al objetivo.",
+    "Después del ajuste, se le pregunta a la persona cómo percibe el sonido y se comprueba que no haya retroalimentación."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de medir, pide a la persona que no hable ni mueva la cabeza. Las funciones adaptativas se estabilizan en los primeros segundos de la señal; lee el resultado después.",
+   "cumleler": [
+    "Un consejo de la práctica: antes de empezar la medición, recuérdenle a la persona que no hable ni mueva la cabeza.",
+    "La propia voz de la persona y las conversaciones en la sala se mezclan con la curva del habla medida.",
+    "Las funciones adaptativas del audífono, como la reducción de ruido y la compresión, se estabilizan en los primeros segundos de la señal.",
+    "Por eso, interpreten la curva no apenas empieza la señal, sino una vez que se ha estabilizado.",
+    "Si el resultado parece inesperado, revisen primero la posición del tubo de sonda y en qué programa está el audífono."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "ISTS: habla ininteligible de seis idiomas",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Mapa: umbral, habla y molestia",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Los percentiles muestran el rango del habla",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "SII: audibilidad ponderada por importancia",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que la ISTS es una señal de prueba ininteligible pero similar al habla, creada con seis hablantes mujeres en seis idiomas.",
+    "El mapa del habla muestra los umbrales, el habla amplificada y el nivel de molestia en la misma pantalla, en dB SPL.",
+    "Los percentiles muestran las partes suaves y los picos del habla, es decir, su rango dinámico.",
+    "El SII resume entre 0 y 1 el habla audible según la importancia de cada banda; no es un porcentaje de inteligibilidad."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué es cierto para una persona con un SII de 0,5?",
+   "secenekler": [
+    "Entiende la mitad de las palabras",
+    "Parte de la información del habla es audible",
+    "No necesita audífono",
+    "Sus umbrales son normales"
+   ],
+   "dogru": 1,
+   "aciklama": "El SII es un resumen de la _audibilidad_; no se puede convertir directamente en porcentaje de aciertos.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: para una persona cuyo SII es 0,5, ¿qué afirmación es cierta?",
+     "sonra_bekle": 5,
+     "ses": "Pon a prueba lo aprendido: para una persona cuyo SII es cero coma cinco, ¿qué afirmación es cierta?"
+    },
+    "La respuesta correcta es la B: una parte de la información del habla, ponderada por su importancia, es audible.",
+    "El SII es un resumen de la audibilidad; no significa que se vaya a entender el cincuenta por ciento de las palabras."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Diferencia oído real-acoplador (RECD) en *niños*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo el conducto auditivo pequeño de un niño cambia la salida, y la diferencia oído real-acoplador, o RECD.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

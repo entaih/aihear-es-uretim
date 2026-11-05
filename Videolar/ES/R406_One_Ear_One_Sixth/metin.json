@@ -1,0 +1,179 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R406_One_Ear_One_Sixth_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #406",
+  "baslik": "La parte de *un oído*",
+  "alt": "Ejemplo: pérdida total en un oído",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 110,
+    "ad": "Promedio de cuatro frecuencias (dB HL)",
+    "isaretler": [
+     0,
+     25,
+     45,
+     65,
+     92,
+     110
+    ]
+   },
+   "y": {
+    "min": 0,
+    "max": 100,
+    "adim": 20,
+    "ad": "Porcentaje monoaural"
+   },
+   "seriler": [
+    {
+     "ad": "yuzde",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       25,
+       0
+      ],
+      [
+       45,
+       30
+      ],
+      [
+       65,
+       60
+      ],
+      [
+       91.7,
+       100
+      ],
+      [
+       110,
+       100
+      ]
+     ],
+     "renk": "mavi",
+     "kalin": true,
+     "cumle": 1
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "alt_sinir",
+     "x": 25,
+     "y": 0,
+     "cizgi": "dikey",
+     "etiket": "límite inferior: 25 dB",
+     "cumle": 1
+    },
+    {
+     "ad": "ornek",
+     "x": 45,
+     "y": 30,
+     "dus": "xy",
+     "etiket": "45 dB: 30 %",
+     "cumle": 3
+    },
+    {
+     "ad": "ust_sinir",
+     "x": 91.7,
+     "y": 100,
+     "cizgi": "dikey",
+     "etiket": "límite superior: cerca de 92 dB",
+     "cumle": 4
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "kayip_yok",
+     "x": [
+      0,
+      25
+     ],
+     "renk": "gri",
+     "etiket": "0 %",
+     "cumle": 1
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Si un oído no oye nada, ¿qué porcentaje da el cálculo? #shorts",
+  "aciklama": "En el método de 1979 de la Academia Estadounidense de Otorrinolaringología (AAO-1979), el cálculo binaural multiplica por cinco el porcentaje del mejor oído, le suma el porcentaje del peor oído y divide el total entre seis. En un cálculo de ejemplo en el que un oído es normal y el otro tiene una pérdida total, el resultado es de alrededor del 16,7 por ciento, es decir, un sexto; las calificaciones oficiales se rigen por la normativa vigente.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "medicinalegal",
+   "perdidaauditiva"
+  ],
+  "etiketler": [
+   "porcentaje de pérdida auditiva",
+   "evaluación médico-legal",
+   "AAO-1979",
+   "cálculo binaural",
+   "pérdida auditiva unilateral",
+   "evaluación de discapacidad",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Si un oído no oye nada, ¿qué porcentaje da el cálculo?",
+  "bilgiler": [
+   "El mejor oído por cinco, más el peor oído, dividido entre seis.",
+   "En el ejemplo, la pérdida total en un oído da alrededor del 16,7 por ciento.",
+   "Las calificaciones oficiales se rigen por la normativa vigente."
+  ],
+  "hashtag": [
+   "audiologia",
+   "medicinalegal",
+   "perdidaauditiva"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #406",
+   "metin": "¿Qué *porcentaje?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Si un oído no oye nada, ¿qué porcentaje da el cálculo?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Cálculo *binaural*",
+   "sayi": "1/6",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Este ejemplo usa el método de la Academia Estadounidense de Otorrinolaringología.",
+    "El mejor oído por cinco, más el peor oído, dividido entre seis.",
+    "Ejemplo: un oído es normal y el otro tiene una pérdida total.",
+    "El resultado es de alrededor del dieciséis coma siete por ciento, es decir, un sexto.",
+    "Las dificultades en ruido y en la localización no se reflejan del todo en este número."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D227",
+ "kaynak_baslik": "Medicina legal: cálculo de la discapacidad auditiva"
+}

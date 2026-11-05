@@ -1,0 +1,761 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D209_Bilateral_Vestibulopathy_ES",
+ "kapak": {
+  "ust": "LECCIÓN 209",
+  "baslik": "Vestibulopatía<br>*bilateral*",
+  "alt": "Oscilopsia e inestabilidad en la oscuridad",
+  "cizim": "faz_egrileri",
+  "ayar": {
+   "faz": 0,
+   "kazanc": 0.3
+  }
+ },
+ "youtube": {
+  "baslik": "Vestibulopatía bilateral y oscilopsia | Lección 209 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué ocurre cuando la función vestibular disminuye en ambos oídos internos? En esta lección vemos los síntomas de la vestibulopatía bilateral, la oscilopsia y la inestabilidad en la oscuridad, sus causas, entre ellas la ototoxicidad por gentamicina, los criterios de la Sociedad Bárány de 2017 y los hallazgos en el vHIT, la prueba calórica y las pruebas rotatorias.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Strupp et al., Bilateral vestibulopathy: Diagnostic criteria, Journal of Vestibular Research (2017) y corrigendum (2023); Jacobson y Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "vestibular",
+   "oscilopsia"
+  ],
+  "etiketler": [
+   "vestibulopatía bilateral",
+   "oscilopsia",
+   "gentamicina",
+   "ototoxicidad",
+   "vHIT",
+   "prueba calórica",
+   "silla rotatoria",
+   "inestabilidad",
+   "agudeza visual dinámica",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 209",
+   "baslik": "Vestibulopatía *bilateral*",
+   "alt": "Oscilopsia, inestabilidad en la oscuridad y pruebas",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos la vestibulopatía bilateral, en la que la función vestibular disminuye a la vez en ambos oídos internos.",
+    {
+     "yazi": "Revisaremos la oscilopsia, las causas y los hallazgos en la prueba de impulso cefálico con video (vHIT), en la prueba calórica y en las pruebas rotatorias."
+    }
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definición y síntomas",
+   "baslik": "Ambos lados débiles *a la vez*",
+   "maddeler": [
+    {
+     "metin": "Ambos laberintos o nervios _afectados a la vez_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Por lo general sin_ sensación de giro",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "_Inestabilidad_ crónica y persistente",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "El diagnóstico puede _demorarse_",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "_No es rara_ en la población",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "bas_donmesi",
+      "baslik": "Giro",
+      "metin": "Suele estar ausente",
+      "cumle": 1
+     },
+     {
+      "ikon": "denge",
+      "baslik": "Inestabilidad",
+      "metin": "Persistente",
+      "cumle": 2
+     },
+     {
+      "ikon": "goz",
+      "baslik": "Oscilopsia",
+      "metin": "Con el movimiento",
+      "cumle": 2
+     }
+    ],
+    "ust": "BVP"
+   },
+   "cumleler": [
+    "La vestibulopatía bilateral (BVP) es una reducción de la función vestibular en ambos lados a la vez.",
+    "Como ambos lados se afectan de forma parecida, no surge un gran desequilibrio entre ellos, por eso no suele haber un giro intenso.",
+    "Las quejas principales de la persona son la inestabilidad persistente y el rebote de la escena visual durante el movimiento.",
+    "La pérdida a veces se instala de forma súbita, pero con más frecuencia lo hace lentamente y sin que se note.",
+    "Por eso el diagnóstico puede demorarse años; las molestias pueden atribuirse a la edad, a la vista o a la ansiedad.",
+    "Un estudio en Estados Unidos estimó su prevalencia en adultos en unos veintiocho por cada cien mil.",
+    {
+     "yazi": "En 2017, la Sociedad Bárány publicó criterios diagnósticos para este cuadro."
+    }
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definición y síntomas",
+   "baslik": "*Síntomas* típicos",
+   "ogeler": [
+    {
+     "ikon": "denge",
+     "baslik": "Marcha inestable",
+     "metin": "De pie y al caminar",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Oscilopsia",
+     "metin": "La escena rebota",
+     "cumle": 2
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Peor en la oscuridad",
+     "metin": "Y en suelo irregular",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Ausente al estar sentado",
+     "metin": "En condiciones estáticas",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los síntomas de la vestibulopatía bilateral están muy ligados al movimiento y al entorno.",
+    "La persona se siente inestable de pie y al caminar; su marcha puede ser de base amplia y cautelosa.",
+    "Describe que la escena salta o se vuelve borrosa al caminar o al girar rápido la cabeza; esto se llama oscilopsia.",
+    "La inestabilidad aumenta claramente en la oscuridad y en suelo irregular, porque disminuyen la visión y la información de las plantas de los pies.",
+    "Sentada o acostada con la cabeza quieta, la persona no suele tener síntomas; esto forma parte de los criterios diagnósticos.",
+    "Es frecuente que describan dificultad para levantarse de noche al baño o para caminar por la arena."
+   ]
+  },
+  {
+   "id": "osilopsi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definición y síntomas",
+   "baslik": "*Oscilopsia*: los ojos no alcanzan",
+   "cizim": "faz_egrileri",
+   "ayar": {
+    "faz": 0,
+    "kazanc": 0.3,
+    "bas_cumle": 1,
+    "goz_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "bas_hizi",
+     "metin": "Velocidad de la cabeza",
+     "cumle": 1
+    },
+    {
+     "parca": "goz_hizi",
+     "metin": "Velocidad ocular: baja",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ganancia del RVO _baja_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La imagen _se desliza_ en la retina",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Cuesta leer y reconocer _caras_",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Para entender la oscilopsia, recordemos el reflejo vestíbulo-ocular (RVO).",
+    "Cuando la cabeza se mueve, el RVO gira los ojos a la misma velocidad en sentido contrario, y así la imagen queda quieta en la retina.",
+    "En la vestibulopatía bilateral, la velocidad ocular queda muy por debajo de la velocidad de la cabeza; es decir, la ganancia del RVO cae mucho.",
+    "La imagen se desliza por la retina con cada movimiento de la cabeza, y la persona lo percibe como un rebote de la escena.",
+    "Como la cabeza hace pequeños movimientos con cada paso al caminar, cuesta leer los carteles de la calle o reconocer caras.",
+    "En una prueba de agudeza visual dinámica, el número de líneas que se pueden leer con la cabeza en movimiento disminuye mucho.",
+    "En la pérdida unilateral, el lado sano asume en gran parte esta tarea, por eso la oscilopsia no suele ser tan marcada."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Causas",
+   "baslik": "*Causas*",
+   "ogeler": [
+    {
+     "ikon": "soru",
+     "baslik": "Idiopática",
+     "metin": "Sin causa hallada",
+     "cumle": 1
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Ototóxica",
+     "metin": "Sobre todo gentamicina",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Ménière bilateral",
+     "metin": "Con los años",
+     "cumle": 3
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Meningitis",
+     "metin": "Daño del oído interno",
+     "cumle": 4
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genética",
+     "metin": "Algunos cuadros hereditarios",
+     "cumle": 5
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Neurodegenerativa",
+     "metin": "Con signos cerebelosos",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "La vestibulopatía bilateral tiene muchas causas, y en algunas personas concurre más de un factor.",
+    "En las series grandes, en una proporción importante de casos, cerca de la mitad en algunas, no se halla una causa clara; se llaman idiopáticos.",
+    "Entre las causas conocidas, una de las más frecuentes es el efecto ototóxico de los antibióticos aminoglucósidos, sobre todo la gentamicina.",
+    "La enfermedad de Ménière puede afectar ambos oídos con los años y llevar a una pérdida vestibular bilateral.",
+    "La meningitis bacteriana puede dañar a la vez la audición y la función vestibular de ambos lados.",
+    "Algunos cuadros hereditarios también causan pérdida vestibular junto con una pérdida auditiva progresiva.",
+    "Los síndromes neurológicos como el CANVAS, con ataxia cerebelosa, neuropatía y pérdida vestibular, también están entre las causas."
+   ]
+  },
+  {
+   "id": "gentamisin",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Causas",
+   "baslik": "*Gentamicina* y ototoxicidad",
+   "maddeler": [
+    {
+     "metin": "_Tóxica_ para las células ciliadas vestibulares",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Los síntomas pueden notarse _tarde_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "La audición puede _conservarse_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "El daño suele ser _permanente_",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Monitoreo_ de las personas en riesgo",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "OTOTOXICIDAD",
+    "metin": "Puede haber *daño* aun con niveles sanguíneos normales",
+    "cumle": 1
+   },
+   "cumleler": [
+    "La gentamicina es un antibiótico que se usa en infecciones graves y que puede dañar en particular las células ciliadas vestibulares.",
+    "El riesgo de ototoxicidad depende de la dosis total y de la duración del tratamiento, pero puede haber daño aun con niveles sanguíneos en el rango objetivo.",
+    "Como una persona hospitalizada casi no se mueve, los síntomas pueden notarse solo cuando se levanta y empieza a caminar.",
+    "Como la gentamicina afecta sobre todo al sistema vestibular, puede producirse una pérdida vestibular grave con la audición conservada.",
+    "El daño vestibular resultante suele ser permanente; la persona depende de la compensación central y de la rehabilitación.",
+    "Monitorear la audición y el equilibrio en quienes reciben fármacos ototóxicos ayuda a detectar el daño a tiempo.",
+    "La decisión de usar el fármaco y el plan de monitoreo corresponden al médico; el audiólogo forma parte del equipo de monitoreo."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Diagnóstico y pruebas",
+   "baslik": "Los *criterios* Bárány de 2017",
+   "sutunlar": [
+    "Criterio",
+    "Requisito"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Síntoma",
+      "Inestabilidad de pie, marcha"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Síntoma adicional",
+      "Oscilopsia u oscuridad"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Condiciones estáticas",
+      "Sentado, sin síntomas"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "vHIT",
+      "Menor de 0,6 bilateral"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Calórica",
+      "Suma menor de 6 °/s"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Silla rotatoria",
+      "Ganancia de 0,1 o menos"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El diagnóstico definido requiere, en primer lugar, inestabilidad persistente de pie o al caminar.",
+    "Debe acompañarse de al menos uno de estos síntomas: oscilopsia o inestabilidad que empeora en la oscuridad o en suelo irregular.",
+    "La persona no debe tener síntomas sentada o acostada, en condiciones estáticas.",
+    {
+     "yazi": "Como evidencia de laboratorio, basta una ganancia horizontal menor de cero coma seis en ambos lados en la prueba de impulso cefálico con video (vHIT)."
+    },
+    "O bien, en la prueba calórica, la suma de las respuestas caliente y fría de cada lado debe ser menor de seis grados por segundo.",
+    "O bien, en la silla rotatoria a cero coma un hertz, la ganancia debe ser de cero coma uno o menos, con un adelanto de fase de al menos quince grados.",
+    "Basta con cumplir el criterio en una de estas tres pruebas; el cuadro no debe explicarse mejor por otra enfermedad.",
+    "Si la prueba de impulso cefálico a pie de cama es anormal en ambos lados y los síntomas concuerdan, se usa el término vestibulopatía bilateral probable."
+   ]
+  },
+  {
+   "id": "vhit",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Diagnóstico y pruebas",
+   "baslik": "Un ejemplo de resultado del *vHIT*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 6.6,
+     "ad": "Canal",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "yazilar": {
+      "1": "R lat.",
+      "2": "L lat.",
+      "3": "R ant.",
+      "4": "L ant.",
+      "5": "R post.",
+      "6": "L post.",
+      "1": "D lat.",
+      "2": "I lat.",
+      "3": "D ant.",
+      "4": "I ant.",
+      "5": "D post.",
+      "6": "I post."
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "adim": 0.2,
+     "ad": "Ganancia del vHIT",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "kazanc",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        0.35
+       ],
+       [
+        2,
+        0.3
+       ],
+       [
+        3,
+        0.4
+       ],
+       [
+        4,
+        0.45
+       ],
+       [
+        5,
+        0.38
+       ],
+       [
+        6,
+        0.42
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "ganancias de ejemplo",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "normal_sinir",
+      "x": 0.5,
+      "y": 0.8,
+      "cizgi": "yatay",
+      "etiket": "lateral normal: cerca de 0,8",
+      "cumle": 2
+     },
+     {
+      "ad": "bvp_siniri",
+      "x": 0.5,
+      "y": 0.6,
+      "cizgi": "yatay",
+      "etiket": "criterio: 0,6",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Ganancia _baja_ en los seis canales",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Respuesta calórica _muy pequeña_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Este gráfico muestra ganancias de vHIT de ejemplo de una persona con vestibulopatía bilateral."
+    },
+    "La ganancia es claramente baja en los seis canales, y aparecen sacadas correctoras con cada impulso.",
+    {
+     "yazi": "En la lección sobre el vHIT vimos que normalmente se espera una ganancia del canal lateral superior a cero coma ocho, aproximadamente."
+    },
+    {
+     "yazi": "En este ejemplo, las dos ganancias de los canales laterales son menores de cero coma seis, así que se cumple el criterio del vHIT."
+    },
+    "En la prueba calórica, las cuatro respuestas son muy pequeñas; a veces ni siquiera el agua helada da una respuesta clara.",
+    "Como la silla rotatoria estimula ambos oídos a la vez, es valiosa para confirmar la pérdida bilateral y medir la función residual.",
+    "Como la función otolítica puede conservarse en parte, los resultados de los potenciales evocados miogénicos vestibulares (VEMP) pueden variar."
+   ]
+  },
+  {
+   "id": "yatak_basi",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Diagnóstico y pruebas",
+   "baslik": "*Pistas* a pie de cama",
+   "maddeler": [
+    {
+     "metin": "Impulso cefálico: _sacadas en ambos lados_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Agudeza visual dinámica _reducida_",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Sobre espuma, ojos cerrados: _tiende a caer_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Audición: siempre un _audiograma_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "denge_durus",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "salinim",
+      "cumle": 2
+     },
+     {
+      "parca": "destek_yuzeyi",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "En la prueba de impulso cefálico a pie de cama, aparecen sacadas correctoras con los impulsos en ambas direcciones.",
+    "Con una cartilla de optotipos sencilla, se puede evaluar cuántas líneas menos se leen mientras la cabeza se mueve de lado a lado.",
+    "En la prueba de Romberg sobre espuma y con los ojos cerrados, la persona no logra mantener el equilibrio: la información vestibular es insuficiente.",
+    "En esta situación, la persona mantiene el equilibrio casi solo con la visión y con la información de las plantas de los pies.",
+    "Siempre se hace un audiograma; una pérdida auditiva asociada puede sugerir enfermedad de Ménière, meningitis o causas hereditarias."
+   ]
+  },
+  {
+   "id": "yasam",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Vivir con ella y seguimiento",
+   "baslik": "Vida diaria y *seguridad*",
+   "maddeler": [
+    {
+     "metin": "Riesgo de caídas _alto_",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "_Luces_ encendidas de noche",
+     "cumle": 1,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Desorientación en el agua: _precaución_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Estrategias de _sustitución_ con rehabilitación",
+     "cumle": 4,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Implante vestibular: en _investigación_",
+     "cumle": 6,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ampul",
+      "baslik": "Iluminación",
+      "metin": "Al levantarse de noche",
+      "cumle": 1
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Bajo el agua",
+      "metin": "Desorientación",
+      "cumle": 2
+     },
+     {
+      "ikon": "denge",
+      "baslik": "Rehabilitación",
+      "metin": "Sustitución",
+      "cumle": 4
+     }
+    ],
+    "ust": "SEGURIDAD"
+   },
+   "cumleler": [
+    "Las personas con vestibulopatía bilateral tienen un riesgo de caídas claramente mayor.",
+    "Iluminar el camino al levantarse de noche y retirar obstáculos en casa son medidas sencillas pero eficaces.",
+    "En la oscuridad o bajo el agua disminuyen la visión y la información de los pies, así que la desorientación puede ser peligrosa; hay que tener cuidado al nadar.",
+    "Para actividades como conducir, la seguridad de la persona se evalúa junto con el médico.",
+    "La rehabilitación vestibular crea estrategias de sustitución, enseñando a usar mejor otras informaciones, como la visión y la sensibilidad corporal.",
+    "Los ejercicios de la mirada que aprovechan la función vestibular residual también pueden formar parte del programa.",
+    "Los implantes vestibulares, que estimulan eléctricamente el nervio vestibular, todavía están en fase de investigación."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Vivir con ella y seguimiento",
+   "baslik": "El *papel* del audiólogo",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Historia clínica",
+     "metin": "Oscilopsia, oscuridad",
+     "cumle": 0
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Fármacos",
+     "metin": "Fármacos ototóxicos",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Batería de pruebas",
+     "metin": "vHIT, calórica, silla",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audición",
+     "metin": "Pérdida asociada",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Equipo",
+     "metin": "Búsqueda de la causa",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ante una queja de inestabilidad crónica, pregunten de forma específica por oscilopsia y por inestabilidad que empeora en la oscuridad.",
+    "Pregunten siempre por antecedentes de fármacos ototóxicos, como hospitalizaciones previas y tratamientos antibióticos prolongados.",
+    {
+     "yazi": "Con el vHIT, la prueba calórica y, si es posible, la silla rotatoria, se demuestra y se gradúa la pérdida bilateral."
+    },
+    "La evaluación auditiva ayuda a buscar la causa y muestra si hace falta una rehabilitación auditiva.",
+    "La persona se deriva al médico para buscar la causa, y el plan de rehabilitación vestibular se elabora con el equipo."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Piensen en una pérdida bilateral si la inestabilidad empeora en la oscuridad y la visión rebota al caminar; pregunten por fármacos ototóxicos.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo desde la práctica: la inestabilidad sin giro que empeora en la oscuridad y al caminar es la historia clásica de la pérdida bilateral.",
+    "Pregunten a estas personas si alguna vez tuvieron una hospitalización prolongada y recibieron antibióticos por vía intravenosa.",
+    {
+     "yazi": "Si todas las respuestas calóricas son pequeñas, primero descarten un problema técnico y luego confirmen la pérdida bilateral con el vHIT."
+    },
+    "Decidir con pruebas complementarias, y no con una sola prueba, evita un diagnóstico erróneo."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Ambos lados débiles: _sin giro_, inestabilidad",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Oscilopsia, peor _en la oscuridad_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Ganancia del vHIT menor de _0,6_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "A menudo idiopática; la _gentamicina_, causa clave",
+     "cumle": 3,
+     "ikon": "ilac"
+    }
+   ],
+   "cumleler": [
+    "En la vestibulopatía bilateral no se espera un giro intenso; la queja principal es la inestabilidad persistente.",
+    "Son típicos el rebote de la visión al caminar, u oscilopsia, y la inestabilidad que empeora en la oscuridad o en suelo irregular.",
+    {
+     "yazi": "El diagnóstico requiere una ganancia del vHIT menor de cero coma seis en ambos lados, o respuestas calóricas o rotatorias muy pequeñas."
+    },
+    "Una proporción importante de los casos es idiopática; entre las causas conocidas destaca la ototoxicidad por gentamicina."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Queja típica en la vestibulopatía bilateral?",
+   "secenekler": [
+    "Giro de segundos",
+    "Inestabilidad peor en la oscuridad",
+    "Pérdida fluctuante en graves",
+    "Oído tapado"
+   ],
+   "dogru": 1,
+   "aciklama": "En la pérdida bilateral, _la inestabilidad aumenta_ cuando disminuyen la visión y la información de los pies.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál es la queja típica en la vestibulopatía bilateral?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: la inestabilidad que empeora en la oscuridad.",
+    "Con la información vestibular reducida en ambos lados, el equilibrio depende de la visión; en la oscuridad se pierde ese apoyo y la inestabilidad aumenta."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Trastornos vestibulares centrales y alarma de *ACV*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos los trastornos vestibulares centrales y los signos de alarma de accidente cerebrovascular que exigen una derivación urgente.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

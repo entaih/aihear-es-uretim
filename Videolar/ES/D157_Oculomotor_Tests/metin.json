@@ -1,0 +1,1501 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D157_Oculomotor_Tests_ES",
+ "kapak": {
+  "ust": "LECCIÓN 157",
+  "baslik": "Pruebas<br>*oculomotoras*",
+  "alt": "Sacadas, seguimiento, NOC, mirada",
+  "cizim": "nistagmus_izi"
+ },
+ "youtube": {
+  "baslik": "Pruebas oculomotoras: sacadas, seguimiento y NOC | Lección 157 | AIHEAR Academia de Audiología",
+  "aciklama": "Esta lección explica las pruebas oculomotoras de la batería de VNG: latencia, velocidad y precisión de las sacadas, ganancia del seguimiento lento, nistagmo optocinético, nistagmo de la mirada y supresión por fijación. Vemos qué hallazgos sugieren un problema central y qué factores pueden distorsionar los resultados.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Jacobson and Shepard, Balance Function Assessment and Management; Leigh and Zee, The Neurology of Eye Movements; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "VNG",
+   "vestibular"
+  ],
+  "etiketler": [
+   "pruebas oculomotoras",
+   "sacadas",
+   "seguimiento lento",
+   "nistagmo optocinético",
+   "NOC",
+   "nistagmo evocado por la mirada",
+   "supresión por fijación",
+   "dismetría",
+   "VNG",
+   "evaluación vestibular",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 157",
+   "baslik": "Pruebas *oculomotoras*",
+   "alt": "Sacadas, seguimiento, optocinética y mirada",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos la parte oculomotora de la batería de videonistagmografía (VNG): pruebas de sacadas, seguimiento, optocinéticas y de la mirada.",
+    "En cada prueba veremos qué se mide y qué hallazgos sugieren una causa central."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué oculomotoras?",
+   "baslik": "¿Por qué pruebas *oculomotoras?*",
+   "maddeler": [
+    {
+     "metin": "Evalúan las vías _centrales_",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Tronco cerebral y _cerebelo_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Influyen en la _interpretación_ calórica",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Se hacen _primero_ en la batería",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_sapi_vestibuler",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "beyincik",
+      "metin": "Cerebelo",
+      "cumle": 1
+     },
+     {
+      "parca": "mlf",
+      "metin": "FLM",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "beyincik",
+      "cumle": 1
+     },
+     {
+      "parca": "mlf",
+      "cumle": 2
+     },
+     {
+      "parca": "abdusens_cekirdek",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Las pruebas oculomotoras no evalúan el oído interno, sino las vías centrales que controlan los movimientos oculares.",
+    "Estas vías incluyen núcleos del tronco cerebral, el cerebelo y algunas áreas de la corteza cerebral.",
+    "Una alteración en estas pruebas sugiere que puede haber una causa central detrás del mareo.",
+    "Además, si hay un problema oculomotor, cambia la interpretación del nistagmo en las pruebas calóricas y posicionales.",
+    "Por eso las pruebas oculomotoras se hacen antes que las pruebas vestibulares.",
+    "Los hallazgos no hacen un diagnóstico; los resultados que sugieren un patrón central se comunican al médico."
+   ]
+  },
+  {
+   "id": "sakkad",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Sacadas",
+   "baslik": "La prueba de *sacadas*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 600,
+     "ad": "Tiempo (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600
+     ]
+    },
+    "y": {
+     "min": -5,
+     "max": 30,
+     "adim": 10,
+     "ad": "Posición (grados)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        100,
+        0
+       ],
+       [
+        100,
+        20
+       ],
+       [
+        600,
+        20
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "objetivo",
+      "cumle": 1
+     },
+     {
+      "ad": "goz",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        300,
+        0
+       ],
+       [
+        315,
+        6
+       ],
+       [
+        330,
+        15
+       ],
+       [
+        345,
+        19.5
+       ],
+       [
+        360,
+        20
+       ],
+       [
+        600,
+        20
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "yumusak": true,
+      "etiket": "ojo",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "latans",
+      "x": [
+       100,
+       300
+      ],
+      "y": 25,
+      "etiket": "latencia",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Se mide: _latencia_, velocidad, precisión",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Los objetivos saltan _al azar_",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "Una sacada es el movimiento ocular que lleva la mirada muy rápido de un punto a otro.",
+    "En la prueba, el paciente sigue con los ojos un punto que salta de un lugar a otro en una pantalla o barra de luces.",
+    "En el gráfico, la línea gris discontinua muestra el objetivo y la línea azul, el movimiento del ojo.",
+    "El tiempo entre el salto del objetivo y el inicio del movimiento ocular se llama latencia.",
+    "En los adultos, la latencia de las sacadas suele rondar los doscientos milisegundos; los límites normales varían con la edad y el equipo.",
+    "La posición y el momento de los objetivos se aleatorizan para que el paciente no pueda predecir el salto."
+   ]
+  },
+  {
+   "id": "sakkad_olcut",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Sacadas",
+   "baslik": "*Tres medidas* de una sacada",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Latencia",
+     "metin": "Prolongada: atención, edad o vías corticales.",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Velocidad",
+     "metin": "Más amplitud, más velocidad; lentitud: tronco o fármacos.",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Precisión",
+     "metin": "Errar el objetivo: dismetría, a menudo cerebelosa.",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La prueba de sacadas analiza tres medidas: latencia, velocidad y precisión.",
+    "Una latencia prolongada puede asociarse a menor atención, a la edad avanzada y a problemas que afectan las vías corticales.",
+    "La velocidad máxima de la sacada aumenta con su amplitud; esta relación natural se llama secuencia principal.",
+    "Un enlentecimiento marcado de las sacadas puede sugerir problemas del tronco cerebral, o el efecto de algunos fármacos y del cansancio.",
+    "Un enlentecimiento en un solo ojo o en una sola dirección puede indicar en particular un problema de un músculo ocular o de una vía nerviosa.",
+    "La precisión muestra con qué exactitud el ojo llega al objetivo; errar el objetivo se llama dismetría."
+   ]
+  },
+  {
+   "id": "dismetri",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Sacadas",
+   "baslik": "*Errar* el objetivo",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 500,
+     "ad": "Tiempo (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500
+     ]
+    },
+    "y": {
+     "min": -5,
+     "max": 30,
+     "adim": 10,
+     "ad": "Posición (grados)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        50,
+        0
+       ],
+       [
+        50,
+        20
+       ],
+       [
+        500,
+        20
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "objetivo",
+      "cumle": 0
+     },
+     {
+      "ad": "hipometrik",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        250,
+        0
+       ],
+       [
+        280,
+        12
+       ],
+       [
+        300,
+        16
+       ],
+       [
+        400,
+        16
+       ],
+       [
+        420,
+        19
+       ],
+       [
+        430,
+        20
+       ],
+       [
+        500,
+        20
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "etiket": "hipométrica",
+      "cumle": 1
+     },
+     {
+      "ad": "hipermetrik",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        250,
+        0
+       ],
+       [
+        280,
+        18
+       ],
+       [
+        300,
+        25
+       ],
+       [
+        380,
+        25
+       ],
+       [
+        400,
+        21
+       ],
+       [
+        410,
+        20
+       ],
+       [
+        500,
+        20
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": true,
+      "etiket": "hipermétrica",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Hipometría leve: _frecuente y normal_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Hipermetría marcada: _cerebelo_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Este gráfico muestra dos sacadas distintas hacia el mismo objetivo.",
+    "En la línea azul, el ojo se queda corto y alcanza el objetivo con una pequeña segunda sacada; esto se llama hipometría.",
+    "La hipometría leve es frecuente también en personas sanas y por sí sola no tiene significado.",
+    "En la línea roja, el ojo sobrepasa el objetivo y vuelve; esto se llama hipermetría.",
+    "La hipermetría marcada y constante o la hipometría grave están entre los hallazgos que sugieren problemas cerebelosos.",
+    "Un hallazgo importa más si se repite en una dirección en varios intentos; una sola sacada errónea no se interpreta."
+   ]
+  },
+  {
+   "id": "takip",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Seguimiento y optocinética",
+   "baslik": "*Seguimiento lento*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 4,
+     "ad": "Tiempo (s)",
+     "isaretler": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 20,
+     "adim": 10,
+     "ad": "Posición (grados)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.1,
+        3.73
+       ],
+       [
+        0.2,
+        7.23
+       ],
+       [
+        0.3,
+        10.27
+       ],
+       [
+        0.4,
+        12.66
+       ],
+       [
+        0.5,
+        14.27
+       ],
+       [
+        0.6,
+        14.97
+       ],
+       [
+        0.7,
+        14.73
+       ],
+       [
+        0.8,
+        13.57
+       ],
+       [
+        0.9,
+        11.56
+       ],
+       [
+        1.0,
+        8.82
+       ],
+       [
+        1.1,
+        5.52
+       ],
+       [
+        1.2,
+        1.88
+       ],
+       [
+        1.3,
+        -1.88
+       ],
+       [
+        1.4,
+        -5.52
+       ],
+       [
+        1.5,
+        -8.82
+       ],
+       [
+        1.6,
+        -11.56
+       ],
+       [
+        1.7,
+        -13.57
+       ],
+       [
+        1.8,
+        -14.73
+       ],
+       [
+        1.9,
+        -14.97
+       ],
+       [
+        2.0,
+        -14.27
+       ],
+       [
+        2.1,
+        -12.66
+       ],
+       [
+        2.2,
+        -10.27
+       ],
+       [
+        2.3,
+        -7.23
+       ],
+       [
+        2.4,
+        -3.73
+       ],
+       [
+        2.5,
+        -0.0
+       ],
+       [
+        2.6,
+        3.73
+       ],
+       [
+        2.7,
+        7.23
+       ],
+       [
+        2.8,
+        10.27
+       ],
+       [
+        2.9,
+        12.66
+       ],
+       [
+        3.0,
+        14.27
+       ],
+       [
+        3.1,
+        14.97
+       ],
+       [
+        3.2,
+        14.73
+       ],
+       [
+        3.3,
+        13.57
+       ],
+       [
+        3.4,
+        11.56
+       ],
+       [
+        3.5,
+        8.82
+       ],
+       [
+        3.6,
+        5.52
+       ],
+       [
+        3.7,
+        1.88
+       ],
+       [
+        3.8,
+        -1.88
+       ],
+       [
+        3.9,
+        -5.52
+       ],
+       [
+        4.0,
+        -8.82
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "yumusak": true,
+      "etiket": "objetivo",
+      "cumle": 1
+     },
+     {
+      "ad": "goz",
+      "noktalar": [
+       [
+        0.001,
+        0.0
+       ],
+       [
+        0.051,
+        1.03
+       ],
+       [
+        0.101,
+        2.05
+       ],
+       [
+        0.151,
+        3.04
+       ],
+       [
+        0.201,
+        3.97
+       ],
+       [
+        0.251,
+        4.85
+       ],
+       [
+        0.3,
+        5.65
+       ],
+       [
+        0.301,
+        10.27
+       ],
+       [
+        0.351,
+        10.98
+       ],
+       [
+        0.401,
+        11.59
+       ],
+       [
+        0.451,
+        12.09
+       ],
+       [
+        0.501,
+        12.47
+       ],
+       [
+        0.551,
+        12.72
+       ],
+       [
+        0.601,
+        12.85
+       ],
+       [
+        0.651,
+        12.85
+       ],
+       [
+        0.701,
+        12.72
+       ],
+       [
+        0.751,
+        12.47
+       ],
+       [
+        0.801,
+        12.09
+       ],
+       [
+        0.851,
+        11.59
+       ],
+       [
+        0.901,
+        10.98
+       ],
+       [
+        0.951,
+        10.27
+       ],
+       [
+        1.001,
+        9.47
+       ],
+       [
+        1.051,
+        8.6
+       ],
+       [
+        1.101,
+        7.66
+       ],
+       [
+        1.151,
+        6.67
+       ],
+       [
+        1.201,
+        5.65
+       ],
+       [
+        1.25,
+        4.62
+       ],
+       [
+        1.251,
+        0.0
+       ],
+       [
+        1.301,
+        -1.03
+       ],
+       [
+        1.351,
+        -2.05
+       ],
+       [
+        1.401,
+        -3.04
+       ],
+       [
+        1.451,
+        -3.97
+       ],
+       [
+        1.501,
+        -4.85
+       ],
+       [
+        1.55,
+        -5.65
+       ],
+       [
+        1.551,
+        -10.27
+       ],
+       [
+        1.601,
+        -10.98
+       ],
+       [
+        1.651,
+        -11.59
+       ],
+       [
+        1.701,
+        -12.09
+       ],
+       [
+        1.751,
+        -12.47
+       ],
+       [
+        1.801,
+        -12.72
+       ],
+       [
+        1.851,
+        -12.85
+       ],
+       [
+        1.901,
+        -12.85
+       ],
+       [
+        1.951,
+        -12.72
+       ],
+       [
+        2.001,
+        -12.47
+       ],
+       [
+        2.051,
+        -12.09
+       ],
+       [
+        2.101,
+        -11.59
+       ],
+       [
+        2.151,
+        -10.98
+       ],
+       [
+        2.201,
+        -10.27
+       ],
+       [
+        2.251,
+        -9.47
+       ],
+       [
+        2.301,
+        -8.6
+       ],
+       [
+        2.351,
+        -7.66
+       ],
+       [
+        2.401,
+        -6.67
+       ],
+       [
+        2.451,
+        -5.65
+       ],
+       [
+        2.5,
+        -4.62
+       ],
+       [
+        2.501,
+        -0.0
+       ],
+       [
+        2.551,
+        1.03
+       ],
+       [
+        2.601,
+        2.05
+       ],
+       [
+        2.651,
+        3.04
+       ],
+       [
+        2.701,
+        3.97
+       ],
+       [
+        2.751,
+        4.85
+       ],
+       [
+        2.8,
+        5.65
+       ],
+       [
+        2.801,
+        10.27
+       ],
+       [
+        2.851,
+        10.98
+       ],
+       [
+        2.901,
+        11.59
+       ],
+       [
+        2.951,
+        12.09
+       ],
+       [
+        3.001,
+        12.47
+       ],
+       [
+        3.051,
+        12.72
+       ],
+       [
+        3.101,
+        12.85
+       ],
+       [
+        3.151,
+        12.85
+       ],
+       [
+        3.201,
+        12.72
+       ],
+       [
+        3.251,
+        12.47
+       ],
+       [
+        3.301,
+        12.09
+       ],
+       [
+        3.351,
+        11.59
+       ],
+       [
+        3.401,
+        10.98
+       ],
+       [
+        3.451,
+        10.27
+       ],
+       [
+        3.501,
+        9.47
+       ],
+       [
+        3.551,
+        8.6
+       ],
+       [
+        3.601,
+        7.66
+       ],
+       [
+        3.651,
+        6.67
+       ],
+       [
+        3.701,
+        5.65
+       ],
+       [
+        3.75,
+        4.62
+       ],
+       [
+        3.751,
+        0.0
+       ],
+       [
+        3.801,
+        -1.03
+       ],
+       [
+        3.851,
+        -2.05
+       ],
+       [
+        3.901,
+        -3.04
+       ],
+       [
+        3.951,
+        -3.97
+       ],
+       [
+        4.001,
+        -4.85
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": true,
+      "etiket": "ojo: seguimiento sacádico",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Ganancia = velocidad ocular / _velocidad del objetivo_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Trazado escalonado: _seguimiento sacádico_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "El seguimiento lento nos permite seguir con los ojos, sin interrupciones, un objetivo pequeño que se mueve despacio.",
+    "En la prueba, el paciente sigue un punto que se mueve de forma sinusoidal a derecha e izquierda en una pantalla, sin mover la cabeza.",
+    "El valor principal que se mide es la ganancia del seguimiento, es decir, la relación entre la velocidad del ojo y la del objetivo.",
+    {
+     "yazi": "Con objetivos lentos, la ganancia en un adulto sano es cercana a uno; muchos laboratorios esperan que supere aproximadamente 0,8.",
+     "ses": "Con objetivos lentos, la ganancia en un adulto sano es cercana a uno; muchos laboratorios esperan que supere aproximadamente cero coma ocho."
+    },
+    "Si la ganancia baja, el ojo se queda atrás y hace pequeñas sacadas para alcanzar el objetivo; este aspecto escalonado se llama seguimiento sacádico.",
+    "El trazado rojo del gráfico muestra en este ejemplo un seguimiento escalonado de baja ganancia."
+   ]
+  },
+  {
+   "id": "takip_yorum",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Seguimiento y optocinética",
+   "baslik": "*Interpretar* el seguimiento",
+   "maddeler": [
+    {
+     "metin": "La ganancia disminuye _con la edad_",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "_Baja_ al acelerar el objetivo",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Reducida en ambos sentidos: _inespecífica_",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Alterada en un sentido: sospecha _central_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "yasli",
+      "baslik": "Edad",
+      "metin": "La ganancia disminuye",
+      "cumle": 0
+     },
+     {
+      "ikon": "ilac",
+      "baslik": "Fármacos, alcohol",
+      "metin": "Alteran el seguimiento",
+      "cumle": 2
+     },
+     {
+      "ikon": "dikkat",
+      "baslik": "Atención",
+      "metin": "Mantener al paciente alerta",
+      "cumle": 2
+     }
+    ],
+    "ust": "FACTORES DE CONFUSIÓN"
+   },
+   "cumleler": [
+    "La ganancia del seguimiento disminuye con la edad, por lo que se usan normas adecuadas a la edad.",
+    "Al aumentar la frecuencia y la velocidad del objetivo, la ganancia también baja en las personas sanas.",
+    "Una reducción leve en ambos sentidos suele ser inespecífica; la atención, el cansancio, los medicamentos y el alcohol también alteran el seguimiento.",
+    "En una hipofunción periférica aguda, un nistagmo espontáneo intenso también puede distorsionar el trazado, así que primero se revisa el registro espontáneo.",
+    "En cambio, una alteración marcada y repetida en un solo sentido es un hallazgo más significativo que sugiere un problema central.",
+    "El resultado del seguimiento siempre se interpreta junto con las pruebas de sacadas y de la mirada."
+   ]
+  },
+  {
+   "id": "okn",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Seguimiento y optocinética",
+   "baslik": "Nistagmo *optocinético*",
+   "maddeler": [
+    {
+     "metin": "Se siguen _franjas_ en movimiento",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Fase lenta _con las franjas_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Estímulo de campo completo, _más válido_",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Ambos sentidos deben ser _simétricos_",
+     "cumle": 4,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Asimetría: importante a nivel _central_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "nistagmus_izi",
+    "cumle": 1,
+    "ayar": {
+     "yon": "sol",
+     "tur": "sicramali",
+     "yavas_cumle": 1,
+     "hizli_cumle": 1,
+     "baslik": "Franjas hacia la derecha"
+    },
+    "etiketler": [
+     {
+      "parca": "yavas_faz",
+      "metin": "Fase lenta: con las franjas",
+      "cumle": 1
+     },
+     {
+      "parca": "hizli_faz",
+      "metin": "Fase rápida: de vuelta",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "El nistagmo optocinético (NOC) es un nistagmo normal que aparece al mirar franjas que se desplazan por el campo visual.",
+    "Cuando las franjas se mueven a la derecha, la fase lenta las sigue hacia la derecha y la fase rápida devuelve los ojos a la izquierda.",
+    "El movimiento ocular que hacemos al mirar por la ventana de un tren es un ejemplo cotidiano.",
+    "Un verdadero estímulo optocinético llena todo el campo visual; un estímulo pequeño en una barra de luces evalúa sobre todo el sistema de seguimiento.",
+    "Normalmente, las respuestas al movimiento hacia la derecha y hacia la izquierda son similares, es decir, simétricas.",
+    "Una asimetría marcada sugiere un problema central; el hallazgo suele coincidir con una alteración en la prueba de seguimiento."
+   ]
+  },
+  {
+   "id": "bakis",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Mirada e interpretación",
+   "baslik": "La prueba de la *mirada*",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sag",
+    "tur": "sicramali",
+    "yavas_cumle": 2,
+    "hizli_cumle": 2,
+    "baslik": "Bate a la derecha al mirar a la derecha"
+   },
+   "etiketler": [
+    {
+     "parca": "hizli_faz",
+     "metin": "Fase rápida: hacia la mirada",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Cambia de dirección_ con la mirada: precaución",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "También por fármacos y _alcohol_",
+     "cumle": 3,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Nistagmo de mirada extrema: _normal_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "En la prueba de la mirada, el paciente mira al frente, luego a la derecha, a la izquierda, arriba y abajo, y mantiene la mirada allí.",
+    "El ángulo de la mirada suele ser de unos veinte a treinta grados; en cada dirección se registra con fijación y sin ella.",
+    "El nistagmo que bate en la dirección de la mirada y cambia de dirección con ella se llama nistagmo evocado por la mirada.",
+    "Este hallazgo puede sugerir problemas cerebelosos y del tronco cerebral; los antiepilépticos, los sedantes y el alcohol pueden producir el mismo cuadro.",
+    "El nistagmo de mirada extrema, que aparece en la mirada lateral máxima, dura unas pocas sacudidas y es simétrico en ambos lados, suele ser normal.",
+    "El nistagmo periférico, en cambio, no cambia de dirección; según la ley de Alexander, aumenta al mirar hacia la fase rápida."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Mirada e interpretación",
+   "baslik": "Lo que no hay que *pasar por alto*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Onda cuadrada",
+     "metin": "Pequeño salto y regreso; relevante si es frecuente.",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Rebote",
+     "metin": "Nistagmo inverso al volver al centro.",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Vertical puro",
+     "metin": "Nistagmo vertical con la mirada: signo central.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Hay otros hallazgos que vigilar en los registros de la mirada y de las sacadas.",
+    "Las sacudidas de onda cuadrada son pequeñas sacadas que apartan el ojo del objetivo, seguidas poco después de un regreso.",
+    "Las sacudidas de onda cuadrada ocasionales se consideran normales, sobre todo en adultos mayores; las muy frecuentes y marcadas tienen significado central.",
+    "Si al volver al centro tras una mirada lateral prolongada aparece un nistagmo breve en dirección opuesta, se llama nistagmo de rebote.",
+    "Un nistagmo puro hacia arriba o hacia abajo provocado por la mirada también es un signo central.",
+    "Estos hallazgos se marcan en el registro y se anotan por separado en el informe.",
+    "Observar la imagen de video durante el registro también facilita distinguir estos pequeños movimientos de los artefactos."
+   ]
+  },
+  {
+   "id": "fiksasyon",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Mirada e interpretación",
+   "baslik": "Supresión por *fijación*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "ad": "Condición",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Darkness",
+      "2": "Fixation",
+      "1": "Oscuridad",
+      "2": "Fijación"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 15,
+     "adim": 5,
+     "ad": "Velocidad de fase lenta (grados/s)"
+    },
+    "seriler": [
+     {
+      "ad": "karanlik",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        12
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "12",
+      "cumle": 1,
+      "genislik": 0.6
+     },
+     {
+      "ad": "fiksasyon",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        3
+       ]
+      ],
+      "renk": "yesil",
+      "etiket": "3",
+      "cumle": 2,
+      "genislik": 0.6
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Periférico: _disminuye_ con la fijación",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Si no: sospecha _central_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La supresión por fijación es la reducción del nistagmo cuando los ojos se fijan en un punto.",
+    "En este ejemplo, la velocidad de la fase lenta en la oscuridad fue de doce grados por segundo.",
+    "Cuando el paciente miró una luz, la velocidad bajó a tres grados por segundo, así que el nistagmo se suprimió claramente.",
+    "El nistagmo vestibular periférico suele reducirse a menos de la mitad con la fijación; esta supresión depende en gran parte del cerebelo.",
+    "Un nistagmo que no disminuye, o que aumenta, con la fijación es un hallazgo importante que sugiere un problema central.",
+    "Esta medición se hace con el nistagmo espontáneo y en la prueba calórica, encendiendo una luz en el pico de la respuesta."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Mirada e interpretación",
+   "baslik": "Patrones periférico y *central*",
+   "sutunlar": [
+    "Prueba",
+    "Problema periférico",
+    "Sospecha central"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Sacadas",
+      "Normales",
+      "Lentas o dismétricas"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Seguimiento lento",
+      "En general normal",
+      "Alterado en un sentido"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Optocinética",
+      "Simétrica",
+      "Muy asimétrica"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Nistagmo de la mirada",
+      "Unidireccional",
+      "Cambia de dirección"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Fijación",
+      "Suprime el nistagmo",
+      "No lo suprime"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Ahora reunamos los hallazgos oculomotores en una sola tabla.",
+    "En un problema vestibular periférico, las sacadas son normales; las sacadas lentas o muy dismétricas despiertan sospecha central.",
+    "El seguimiento lento suele conservarse en los problemas periféricos; una alteración marcada en un sentido tiene más significado central.",
+    "La respuesta optocinética se mantiene simétrica en los problemas periféricos; una asimetría marcada es un signo central.",
+    "El nistagmo que cambia de dirección con la mirada es compatible con un patrón central, y el unidireccional, con uno periférico.",
+    "Un nistagmo que no se suprime con la fijación es un hallazgo de importancia central."
+   ]
+  },
+  {
+   "id": "karistirici",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Mirada e interpretación",
+   "baslik": "Lo que puede *distorsionar* el resultado",
+   "ogeler": [
+    {
+     "ikon": "yasli",
+     "baslik": "Edad",
+     "metin": "Normas según la edad",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Estado de alerta",
+     "metin": "Mantener al paciente conversando",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Visión",
+     "metin": "Debe ver bien el objetivo",
+     "cumle": 3
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Fármacos y alcohol",
+     "metin": "Se preguntan en la historia",
+     "cumle": 4
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Calibración",
+     "metin": "Se verifica primero",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Los hallazgos oculomotores no solo dependen de la enfermedad, sino también de las condiciones de la prueba.",
+    "Con la edad, la latencia de las sacadas se alarga y la ganancia del seguimiento disminuye, por lo que se usan normas según la edad.",
+    "En un paciente somnoliento o distraído, las sacadas y el seguimiento pueden alterarse, así que se lo mantiene alerta durante toda la prueba.",
+    "El paciente debe poder ver bien el objetivo; los problemas visuales graves y quitarse los anteojos pueden afectar el resultado.",
+    "Los sedantes, los antiepilépticos y el alcohol alteran en particular las pruebas de seguimiento y de la mirada.",
+    "Por último, una calibración defectuosa puede volver engañosa toda medición numérica."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si ven una alteración oculomotora, revisen primero la calibración, la atención y los medicamentos. Comuniquen al médico los hallazgos centrales constantes.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: cuando vean un hallazgo oculomotor anormal, descarten primero las causas técnicas y las relacionadas con el paciente.",
+    "Revisen la calibración, asegúrense de que el paciente esté alerta y atento al objetivo, y repasen sus medicamentos.",
+    "Si el hallazgo se repite en varios intentos, por ejemplo un seguimiento siempre alterado en un sentido, déjenlo claro en el informe.",
+    "Los hallazgos constantes que sugieren un patrón central se comunican al médico, sea cual sea el resultado calórico."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Sacadas: _latencia_, velocidad, precisión",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Ganancia del seguimiento: velocidad ocular / _del objetivo_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Nistagmo que cambia con la mirada: _central_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sin supresión por fijación: sospecha _central_",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "La prueba de sacadas mide latencia, velocidad y precisión; las sacadas lentas o muy dismétricas despiertan sospecha central.",
+    "La ganancia del seguimiento depende de la edad y la atención; una alteración marcada en un sentido tiene más significado.",
+    "El nistagmo evocado por la mirada que cambia de dirección y el nistagmo vertical puro son signos centrales.",
+    "El nistagmo periférico disminuye con la fijación; si no disminuye, sugiere un problema central."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué hallazgo oculomotor despierta sospecha central?",
+   "secenekler": [
+    "Sacadas levemente hipométricas",
+    "Nistagmo de mirada extrema simétrico",
+    "Nistagmo que la fijación no reduce",
+    "Leve descenso del seguimiento por edad"
+   ],
+   "dogru": 2,
+   "aciklama": "El nistagmo periférico disminuye con la fijación; _que no disminuya_ sugiere un problema central.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál de los siguientes hallazgos oculomotores sugiere un problema central?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: un nistagmo que no disminuye con la fijación.",
+    "La hipometría leve, el nistagmo de mirada extrema y un leve descenso del seguimiento por la edad también pueden verse en personas sanas."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Pruebas calóricas: método *bitérmico* e interpretación",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la parte más conocida de la batería de VNG, la prueba calórica, con su método bitérmico y su interpretación.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

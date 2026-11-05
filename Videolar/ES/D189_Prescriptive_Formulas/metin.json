@@ -1,0 +1,718 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D189_Prescriptive_Formulas_ES",
+ "kapak": {
+  "ust": "LECCIÓN 189",
+  "baslik": "*NAL-NL2*<br>y DSL v5",
+  "alt": "Fórmulas prescriptivas y ganancia objetivo",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      30,
+      35,
+      40,
+      50,
+      60,
+      65
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Fórmulas prescriptivas: NAL-NL2 y DSL v5 | Lección 189 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo decidimos cuánta ganancia debe dar un audífono? En esta lección explicamos la lógica de las fórmulas prescriptivas y de la ganancia objetivo, y comparamos el enfoque en la inteligibilidad del habla de NAL-NL2 con el enfoque en la audibilidad de DSL v5, sobre todo en los niños.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Dillon, Hearing Aids; Keidser y cols., The NAL-NL2 prescription procedure, Audiology Research (2011); Scollie y cols., The Desired Sensation Level multistage input/output algorithm, Trends in Amplification (2005); Mueller, Ricketts y Bentler, Modern Hearing Aids; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "NALNL2"
+  ],
+  "etiketler": [
+   "NAL-NL2",
+   "DSL v5",
+   "fórmula prescriptiva",
+   "objetivo prescriptivo",
+   "ganancia objetivo",
+   "adaptación de audífonos",
+   "prescripción de audífonos",
+   "Desired Sensation Level",
+   "audífonos en niños",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 189",
+   "baslik": "*NAL-NL2* y DSL v5",
+   "alt": "Fórmulas prescriptivas: ¿cómo se fija la ganancia objetivo?",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo se determina cuánta ganancia debe dar un audífono.",
+    {
+     "yazi": "Compararemos las dos fórmulas prescriptivas más usadas, NAL-NL2 y DSL v5, y sus objetivos."
+    }
+   ]
+  },
+  {
+   "id": "mantik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La lógica prescriptiva",
+   "baslik": "¿Qué es una *fórmula* prescriptiva?",
+   "maddeler": [
+    {
+     "metin": "Calcula la _ganancia objetivo_ desde el audiograma",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Un objetivo para cada frecuencia",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Un objetivo para cada nivel de entrada",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "También edad, experiencia y mediciones",
+     "cumle": 5,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "OBJETIVO PRESCRIPTIVO",
+    "metin": "*Objetivo prescriptivo*: la ganancia o salida que predice la fórmula",
+    "cumle": 6
+   },
+   "cumleler": [
+    "Una fórmula prescriptiva es un conjunto de reglas que calcula, a partir de los umbrales auditivos de una persona, la ganancia que debe dar un audífono.",
+    "El objetivo es tener un punto de partida científicamente defendible, en lugar de dejar la adaptación al ensayo y error.",
+    "La fórmula da un objetivo distinto para cada frecuencia, porque la pérdida auditiva suele variar entre frecuencias.",
+    "Como los audífonos actuales usan compresión, los objetivos se calculan por separado para niveles de entrada suaves, medios e intensos.",
+    "En otras palabras, un sonido suave necesita más ganancia que un sonido intenso.",
+    "Además de los umbrales, el cálculo usa datos como la edad, la experiencia con audífonos y si la adaptación es unilateral o bilateral.",
+    "El valor que predice la fórmula se llama objetivo prescriptivo."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La lógica prescriptiva",
+   "baslik": "Un poco de *historia*",
+   "adimlar": [
+    {
+     "ikon": "kitap",
+     "baslik": "Regla de la mitad",
+     "metin": "Lybarger, 1944",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "NAL-R",
+     "metin": "Fórmulas lineales",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "NAL-NL2",
+     "metin": "No lineal",
+     "cumle": 4
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "DSL v5",
+     "metin": "Centrada en niños",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El ejemplo temprano más conocido de prescripción es la regla de la mitad de la ganancia, propuesta por Lybarger en 1944.",
+    "Según esta regla, el audífono debe dar en cada frecuencia una ganancia igual a cerca de la mitad de la pérdida en el umbral.",
+    {
+     "yazi": "En los años siguientes, fórmulas lineales como NAL-R ajustaron el equilibrio entre frecuencias a la banda del habla."
+    },
+    "Pero las fórmulas lineales se diseñaron para un solo nivel de entrada; los audífonos con compresión necesitaban nuevos enfoques.",
+    {
+     "yazi": "Los National Acoustic Laboratories de Australia publicaron las fórmulas no lineales NAL-NL1 y, en 2011, NAL-NL2."
+    },
+    {
+     "yazi": "El método DSL, desarrollado en la Universidad de Western Ontario, en Canadá, llegó en 2005 a DSL v5."
+    },
+    "Hoy son las dos fórmulas genéricas que más se encuentran en la clínica."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 1",
+   "bolum": "La lógica prescriptiva",
+   "baslik": "Mismo audiograma, *objetivos distintos*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Rango _normal_",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       30,
+       35,
+       40,
+       50,
+       60,
+       65
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "Este ejemplo muestra una pérdida del oído derecho que desciende hacia las frecuencias agudas, de leve a moderadamente severa.",
+    "Al compararla con el rango normal, queda claro que la mayoría de los sonidos agudos del habla no se oyen.",
+    "Cuando este audiograma se introduce en una fórmula, el resultado es una curva objetivo con más ganancia en las frecuencias agudas.",
+    {
+     "yazi": "Pero para el mismo audiograma, NAL-NL2 y DSL v5 recomiendan objetivos distintos."
+    },
+    "Incluso la misma fórmula puede dar un objetivo distinto si cambian la edad de la persona o su experiencia con audífonos.",
+    "Estas diferencias surgen porque, en realidad, las dos fórmulas intentan responder preguntas distintas."
+   ]
+  },
+  {
+   "id": "nal",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "NAL-NL2",
+   "baslik": "*NAL-NL2*: el foco en la inteligibilidad",
+   "maddeler": [
+    {
+     "metin": "Objetivo: maximizar la _inteligibilidad_ del habla",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Sonoridad global no mayor que la normal",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Modelos de inteligibilidad y de sonoridad",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Objetivo: ganancia o salida en el conducto",
+     "cumle": 6,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "NAL-NL2 es una fórmula no lineal desarrollada por los National Acoustic Laboratories de Australia."
+    },
+    "Su objetivo principal es maximizar la inteligibilidad del habla para una entrada sonora dada.",
+    "Al hacerlo, procura que la sonoridad global no supere la que percibiría una persona con audición normal.",
+    "La fórmula se obtuvo usando un modelo de inteligibilidad del habla junto con un modelo de sonoridad.",
+    "También se añadieron correcciones empíricas de estudios con usuarios de audífonos.",
+    {
+     "yazi": "Como resultado, NAL-NL2 prioriza las regiones que más aportan a la inteligibilidad, en lugar de hacer audible cada sonido."
+    },
+    "Sus objetivos pueden mostrarse como ganancia de inserción en oído real o como nivel de salida en el conducto auditivo."
+   ]
+  },
+  {
+   "id": "duyarlilik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "NAL-NL2",
+   "baslik": "¿Por qué *menos ganancia* en los agudos?",
+   "maddeler": [
+    {
+     "metin": "Una pérdida severa extrae menos información",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Más audibilidad aporta poco beneficio",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Costo en sonoridad y retroalimentación",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "AUDIBILIDAD EFECTIVA",
+    "metin": "El *aporte real* del sonido audible a la inteligibilidad",
+    "cumle": 4
+   },
+   "cumleler": [
+    {
+     "yazi": "Una característica importante de NAL-NL2 es que limita la ganancia en las frecuencias donde la pérdida es muy severa."
+    },
+    "Las investigaciones mostraron que, en las regiones con pérdida severa, el oído extrae menos información del sonido aunque se haga audible.",
+    "Por eso, dar mucha ganancia en esa región puede no aportar el beneficio esperado a la inteligibilidad.",
+    "Además, la ganancia adicional aumenta la sonoridad y el riesgo de retroalimentación.",
+    "La fórmula logra este equilibrio con la audibilidad efectiva: lo que importa no es oír un sonido, sino su aporte a la inteligibilidad.",
+    {
+     "yazi": "Este enfoque hace que NAL-NL2 sea sólida para equilibrar confort e inteligibilidad, sobre todo en usuarios adultos."
+    },
+    "Así que, en una frecuencia con una pérdida muy severa, una ganancia objetivo menor de la que sugeriría el umbral no es un error."
+   ]
+  },
+  {
+   "id": "duzeltme",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "NAL-NL2",
+   "baslik": "*Correcciones* de NAL-NL2",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Usuario nuevo",
+     "metin": "Menos ganancia al principio",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Niño",
+     "metin": "Más ganancia",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Usuarias",
+     "metin": "Algo menos de ganancia",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Adaptación bilateral",
+     "metin": "Menos que la unilateral",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "NAL-NL2 ajusta el objetivo en pequeñas cantidades según ciertos datos personales."
+    },
+    "En las personas que usan audífonos por primera vez, sobre todo con pérdidas moderadas y severas, la ganancia inicial se mantiene algo más baja.",
+    "En los niños se prescribe más ganancia de la que prefieren los adultos.",
+    "Los estudios encontraron que las mujeres usuarias, en promedio, preferían algo menos de ganancia, así que esto también se tiene en cuenta.",
+    "Con audífonos en ambos oídos se necesita menos ganancia que en una adaptación unilateral, porque los dos oídos suman la sonoridad.",
+    "Por eso, cada dato que se introduce en el software debe ser correcto para que el objetivo sea correcto."
+   ]
+  },
+  {
+   "id": "dsl",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "DSL v5",
+   "baslik": "*DSL v5*: el foco en la audibilidad",
+   "maddeler": [
+    {
+     "metin": "Desired Sensation Level",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Objetivo: habla audible _en banda ancha_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Objetivos en dB SPL en el conducto",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Objetivos distintos para niños y adultos",
+     "cumle": 6,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "DSL significa Desired Sensation Level, es decir, nivel de sensación deseado.",
+    "Su objetivo principal es entregar el habla en una banda de frecuencias amplia, a un nivel audible y cómodo.",
+    "El método se desarrolló primero para niños, porque un niño que está aprendiendo el lenguaje no puede aprender un sonido que no oye.",
+    "Por eso, DSL da importancia a llevar por encima del umbral la mayor parte posible del habla.",
+    "Los objetivos suelen darse como nivel de presión sonora en el conducto auditivo, en dB SPL.",
+    "Como los conductos auditivos de los niños son pequeños, se tiene en cuenta la diferencia oído real-acoplador medida, la RECD.",
+    {
+     "yazi": "DSL v5 también tiene objetivos propios para adultos, y estos son más bajos que los objetivos para niños."
+    },
+    "También pueden definirse objetivos separados para entornos silenciosos y ruidosos."
+   ]
+  },
+  {
+   "id": "muz",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "DSL v5",
+   "baslik": "Hacer el habla *audible*",
+   "cizim": "konusma_muzu",
+   "notlar": [
+    {
+     "metin": "La región de los sonidos del habla",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Bajo el umbral: sonidos que no se oyen",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "DSL: subir la banda sobre el umbral",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "ayar": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       30,
+       35,
+       40,
+       50,
+       60,
+       65
+      ],
+      "cumle": 1
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "muz",
+     "metin": "sonidos del habla",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "metin": "consonantes agudas",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "unsuzler",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Este dibujo muestra la región que ocupan los sonidos del habla en el audiograma.",
+    {
+     "yazi": "Los sonidos por debajo del umbral, como las consonantes agudas s, sh y f, no se oyen sin amplificación."
+    },
+    "Perder estas consonantes dificulta distinguir palabras parecidas y dificulta el desarrollo del lenguaje.",
+    {
+     "yazi": "DSL v5 busca llevar la mayor parte posible de la banda del habla por encima del umbral y a un nivel cómodo."
+    },
+    {
+     "yazi": "NAL-NL2, en cambio, mira el mismo cuadro en función de las regiones que más inteligibilidad aportarán."
+    },
+    {
+     "yazi": "Por eso, DSL v5 suele prescribir más ganancia que NAL-NL2, sobre todo en niños y con entradas suaves."
+    }
+   ]
+  },
+  {
+   "id": "karsilastirma",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Comparación y elección",
+   "baslik": "Las dos fórmulas, *lado a lado*",
+   "sutunlar": [
+    "Característica",
+    "NAL-NL2",
+    "DSL v5"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Desarrollada por",
+      "NAL, Australia",
+      "Western Ontario, Canadá"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Objetivo principal",
+      "Inteligibilidad del habla",
+      "Audibilidad del habla"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Sonoridad",
+      "Normal o menor",
+      "Nivel cómodo"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Formato del objetivo",
+      "Ganancia o salida",
+      "dB SPL en conducto"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Tendencia de ganancia",
+      "Relativamente menor",
+      "Relativamente mayor"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Pongamos ahora las dos fórmulas lado a lado: NAL-NL2 se desarrolló en Australia, y DSL v5, en Canadá."
+    },
+    {
+     "yazi": "NAL-NL2 se centra en la inteligibilidad del habla, mientras que DSL v5 se centra en su audibilidad."
+    },
+    {
+     "yazi": "NAL-NL2 intenta mantener la sonoridad global en un nivel normal o menor; DSL v5 sitúa el sonido en un nivel cómodo."
+    },
+    {
+     "yazi": "Los objetivos de NAL-NL2 pueden darse como ganancia o como salida; los de DSL v5 son niveles de presión sonora en el conducto auditivo."
+    },
+    {
+     "yazi": "Como tendencia general, DSL v5 prescribe más ganancia que NAL-NL2."
+    },
+    "Conocer estas diferencias ayuda a interpretar correctamente la curva objetivo que ves en la pantalla de medición.",
+    "Por eso tampoco sorprende que la curva objetivo se desplace notablemente cuando cambias la fórmula en el software."
+   ]
+  },
+  {
+   "id": "seviyeler",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Comparación y elección",
+   "baslik": "Tres entradas, *tres objetivos*",
+   "maddeler": [
+    {
+     "metin": "Habla suave: _50 a 55_ dB SPL",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Habla media: _65_ dB SPL",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Habla intensa: _75 a 80_ dB SPL",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Salida máxima: por debajo del umbral de molestia",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Las fórmulas no lineales dan objetivos por separado para al menos tres niveles de entrada distintos.",
+    "Para el habla suave suele usarse una entrada de 50 a 55 dB SPL.",
+    "Para el habla de intensidad media suele usarse 65 dB SPL.",
+    "Para el habla intensa suele elegirse una entrada de 75 a 80 dB SPL.",
+    "La diferencia entre los objetivos para sonidos suaves e intensos muestra cuánta compresión debe aplicar el audífono.",
+    "Además, la salida máxima del audífono debe limitarse para que no supere el umbral de molestia de la persona.",
+    "Acercarse al objetivo en los tres niveles es importante para que el audífono funcione de forma coherente en silencio y en ruido."
+   ]
+  },
+  {
+   "id": "secim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Comparación y elección",
+   "baslik": "¿Cuál *en la práctica*?",
+   "maddeler": [
+    {
+     "metin": "Ambas son fórmulas genéricas basadas en evidencia",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "DSL v5, _frecuente_ en niños",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Primer ajuste del fabricante: _no es el objetivo_",
+     "cumle": 3,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "El objetivo es un inicio; verificar es imprescindible",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "rem_duzenegi",
+    "cumle": 5,
+    "etiketler": [
+     {
+      "parca": "prob_tupu",
+      "metin": "tubo de sonda",
+      "cumle": 5
+     },
+     {
+      "parca": "isitme_cihazi",
+      "metin": "audífono",
+      "cumle": 5
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "prob_tupu",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Ambas son fórmulas genéricas, respaldadas por la investigación e independientes de los fabricantes.",
+    {
+     "yazi": "DSL v5 se usa mucho en niños, sobre todo en Norteamérica; NAL-NL2 también se usa en niños, especialmente en Australia."
+    },
+    "Los estudios comparativos no han mostrado una ventaja constante de una fórmula sobre la otra en los resultados globales.",
+    "En cambio, los primeros ajustes propios de los fabricantes pueden diferir de las fórmulas genéricas y a menudo quedan por debajo del objetivo.",
+    "Por eso, el primer ajuste que ves en el software no significa que se haya alcanzado el objetivo prescriptivo.",
+    "Sea cual sea la fórmula elegida, hay que verificar con una medición en oído real que el objetivo se cumple realmente en el oído.",
+    "El objetivo es un punto de partida; después viene el ajuste fino según la opinión del usuario."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de aplicar la fórmula, introduce bien la edad, la experiencia, la vía ósea, el transductor y si la adaptación es unilateral o bilateral; un dato erróneo cambia el objetivo.",
+   "cumleler": [
+    "Un consejo de la práctica: el objetivo prescriptivo solo es tan preciso como los datos que introduces en el software.",
+    "Si la fecha de nacimiento se introduce mal, un adulto puede recibir un objetivo infantil, o un niño, uno de adulto.",
+    "Si no se introducen los umbrales por vía ósea, el objetivo puede calcularse mal en una pérdida con componente conductivo.",
+    "El auricular con que se midieron los umbrales, y si la adaptación es unilateral o bilateral, también cambian el objetivo.",
+    "Revisar estos campos con una breve lista de verificación antes de la adaptación acorta después el tiempo de ajuste fino."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Fórmula: ganancia objetivo a partir de umbrales",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "NAL-NL2: inteligibilidad, sonoridad normal",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "DSL v5: audibilidad en banda ancha",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "El objetivo se verifica con REM",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que las fórmulas prescriptivas calculan objetivos a partir de los umbrales para cada frecuencia y nivel de entrada.",
+    {
+     "yazi": "NAL-NL2 busca mejorar la inteligibilidad del habla manteniendo una sonoridad normal."
+    },
+    {
+     "yazi": "DSL v5, sobre todo en niños, busca hacer el habla audible y cómoda en una banda ancha."
+    },
+    "Sea cual sea la fórmula elegida, el objetivo debe verificarse con una medición en oído real."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Por qué NAL-NL2 limita la ganancia donde la pérdida es muy severa?",
+   "secenekler": [
+    "Para alargar la duración de la pila",
+    "Ahí la audibilidad aporta menos",
+    "Es un objetivo infantil",
+    "Para desactivar la compresión"
+   ],
+   "dogru": 1,
+   "aciklama": "Con una pérdida severa, el sonido audible aporta _menos información_; NAL-NL2 lo tiene en cuenta.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿por qué NAL-NL2 limita la ganancia en las frecuencias donde la pérdida es muy severa?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: porque en esas regiones aumentar la audibilidad aporta menos a la inteligibilidad.",
+    "Con la audibilidad efectiva, la fórmula dirige la ganancia a las regiones donde más ayudará."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Medición en oído real: *REUG, REAR y REIG*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo la medición en oído real comprueba si el objetivo prescriptivo se cumple realmente en el oído.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,851 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D216_Tinnitus_Assessment_MML_ES",
+ "kapak": {
+  "ust": "LECCIÓN 216",
+  "baslik": "Medir el<br>*tinnitus*",
+  "alt": "Tono, sonoridad y MML",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Evaluación del tinnitus: tono, sonoridad y MML | Lección 216 | AIHEAR Academia de Audiología",
+  "aciklama": "El tinnitus es una percepción subjetiva; entonces, ¿cómo se miden su tono, su sonoridad y su enmascarabilidad? En esta lección vemos la igualación de tono y la confusión de octava, por qué la igualación de sonoridad da un nivel de sensación bajo, el nivel mínimo de enmascaramiento (MML), la inhibición residual y las limitaciones de estas medidas psicoacústicas.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Tyler, Tinnitus Handbook; Henry et al., Computer-automated tinnitus assessment: noise-band matching, maskability, and residual inhibition, J Am Acad Audiol (2013); Vernon and Meikle, Tinnitus: clinical measurement, Otolaryngologic Clinics of North America (2003); NICE, Tinnitus: assessment and management (NG155, 2020); Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "tinnitus",
+   "audicion"
+  ],
+  "etiketler": [
+   "evaluación del tinnitus",
+   "igualación de tono",
+   "igualación de sonoridad",
+   "nivel mínimo de enmascaramiento",
+   "MML",
+   "inhibición residual",
+   "acufenometría",
+   "confusión de octava",
+   "nivel de sensación",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 216",
+   "baslik": "Evaluación del tinnitus: tono, sonoridad y *MML*",
+   "alt": "Medidas psicoacústicas y sus límites",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo igualamos el tono y la sonoridad del tinnitus con sonidos externos.",
+    "También veremos el nivel mínimo de enmascaramiento, la inhibición residual y lo que estas medidas muestran y no muestran."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Primeros pasos",
+   "baslik": "*Medir* un sonido subjetivo",
+   "maddeler": [
+    {
+     "metin": "_No_ hay una señal medible directamente",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Comparación con un sonido externo",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tono, sonoridad, MML, inhibición residual",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Un punto de partida para la orientación",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_No muestran_ el malestar",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "isitme_korteksi",
+      "metin": "donde surge la percepción",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "El tinnitus es una percepción subjetiva; no hay en el oído ni en el cerebro una señal que podamos medir directamente.",
+    "Las medidas psicoacústicas permiten que la persona describa su tinnitus comparándolo con sonidos presentados desde fuera.",
+    "Las más utilizadas son la igualación de tono, la igualación de sonoridad, el nivel mínimo de enmascaramiento y la inhibición residual.",
+    "Estas medidas hacen sentir a la persona que su tinnitus se toma en serio y dan a la orientación un punto de partida concreto.",
+    "También pueden guiar la planificación de la terapia sonora o los ajustes de los dispositivos.",
+    "Pero es importante saber desde el principio que estas medidas no muestran cuánto le molesta el tinnitus a la persona."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "Primeros pasos",
+   "baslik": "*Orden* de la evaluación",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Anamnesis y escala",
+     "metin": "Impacto en la vida",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiograma",
+     "metin": "Sobre 8 kHz si es posible",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tono y sonoridad",
+     "metin": "Igualación",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "MML e inhibición",
+     "metin": "Enmascarabilidad",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Las medidas psicoacústicas se realizan después de una evaluación audiológica completa.",
+    "Primero se toma la anamnesis y se registra con una escala el impacto del tinnitus en la vida.",
+    "Luego se realiza la audiometría tonal; si es posible, también se evalúan las frecuencias por encima de 8000 Hz.",
+    "La igualación de sonoridad no puede interpretarse sin los umbrales, porque el resultado se expresa respecto del umbral en esa frecuencia.",
+    "Después vienen la igualación de tono y de sonoridad y, al final, el nivel mínimo de enmascaramiento y la inhibición residual.",
+    "En el tinnitus unilateral, el sonido de igualación suele presentarse en el oído contrario, para que el sonido externo no afecte al propio tinnitus."
+   ]
+  },
+  {
+   "id": "tarif",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Igualación de tono",
+   "baslik": "Primero, la *descripción*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tonal",
+     "metin": "Silbido, pitido",
+     "cumle": 1
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Tipo ruido",
+     "metin": "Siseo, zumbido",
+     "cumle": 2
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Varios componentes",
+     "metin": "Más de un sonido",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Antes de la igualación, se le pide a la persona que describa su tinnitus con sus propias palabras.",
+    "El tinnitus tonal es como un silbido o un pitido de un solo tono.",
+    "El tinnitus de tipo ruido se describe como un siseo, un zumbido o un sonido como el del viento.",
+    "Algunas personas oyen varios sonidos a la vez; en ese caso, por lo general se iguala el más molesto.",
+    "La descripción decide si para la igualación se usará un tono o un ruido de banda estrecha."
+   ]
+  },
+  {
+   "id": "perde",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Igualación de tono",
+   "baslik": "Igualación de *tono*",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Dos tonos",
+     "metin": "Uno tras otro",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "¿Cuál se parece?",
+     "metin": "La persona elige",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Acotar",
+     "metin": "El rango se reduce",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Control de octava",
+     "metin": "Una arriba, una abajo",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La igualación de tono consiste en encontrar la frecuencia del sonido que más se parece al tinnitus.",
+    "En un método habitual se presentan dos tonos, uno tras otro, y se pregunta a la persona cuál se parece más a su tinnitus.",
+    "El rango de frecuencias se acota paso a paso según el tono elegido; esto se llama método de elección forzada entre dos alternativas.",
+    "Los tonos se presentan a un nivel que la persona oye con comodidad, cercano a la sonoridad del tinnitus.",
+    "Un error frecuente es la confusión de octava: la persona puede elegir un tono una octava por debajo o por encima del tono real.",
+    "Por eso, la frecuencia encontrada se comprueba presentando también la octava superior y la octava inferior.",
+    "En el tinnitus de tipo ruido, la igualación se hace con ruido de banda estrecha en lugar de un tono.",
+    "También se anota el nivel usado para la igualación, porque el tono percibido puede desplazarse un poco cuando cambia el nivel."
+   ]
+  },
+  {
+   "id": "perde_kayip",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Igualación de tono",
+   "baslik": "Tono y *pérdida auditiva*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 80,
+     "adim": 10,
+     "ters": true,
+     "ad": "Nivel (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        15
+       ],
+       [
+        2000,
+        20
+       ],
+       [
+        3000,
+        35
+       ],
+       [
+        4000,
+        45
+       ],
+       [
+        6000,
+        50
+       ],
+       [
+        8000,
+        55
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "umbrales de ejemplo",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "kayip_bolgesi",
+      "x": [
+       3000,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "región de la pérdida",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "perde",
+      "x": 6000,
+      "y": 50,
+      "cizgi": "dikey",
+      "etiket": "tono: 6 kHz",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Tono a menudo en la región de pérdida",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Baja repetibilidad",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Resultado registrado como un rango",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "En este gráfico de ejemplo, los umbrales empiezan a descender por encima de 2000 Hz.",
+    "El tono del tinnitus de esta persona se igualó alrededor de 6000 Hz.",
+    "En la mayoría de las personas, el tono del tinnitus se ubica en la región de frecuencias agudas donde está la pérdida auditiva.",
+    "Pero la igualación de tono tiene baja repetibilidad; los resultados pueden cambiar mucho incluso en el mismo día.",
+    "Por eso la medición se repite varias veces y el resultado se registra como un rango y no como un solo número.",
+    "Conocer el tono puede ayudar, por ejemplo, a elegir el sonido que se usará en la terapia sonora."
+   ]
+  },
+  {
+   "id": "siddet",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Igualación de sonoridad",
+   "baslik": "Igualación de *sonoridad*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 80,
+     "adim": 10,
+     "ters": true,
+     "ad": "Nivel (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        15
+       ],
+       [
+        2000,
+        20
+       ],
+       [
+        3000,
+        35
+       ],
+       [
+        4000,
+        45
+       ],
+       [
+        6000,
+        50
+       ],
+       [
+        8000,
+        55
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "umbral",
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "eslesme",
+      "x": 6000,
+      "y": 55,
+      "dolu": true,
+      "etiket": "igualación 55 dB HL",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "sl",
+      "y": [
+       50,
+       55
+      ],
+      "xk": 7000,
+      "etiket": "5 dB SL",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Desde el umbral, en pasos pequeños",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Resultado como nivel de sensación: dB SL",
+     "cumle": 2,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "SL bajo _no significa_ tinnitus leve",
+     "cumle": 6,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "La igualación de sonoridad compara la intensidad con que se percibe el tinnitus con la de un sonido externo.",
+    "En la frecuencia igualada, un tono se sube en pasos pequeños desde el umbral, hasta que la persona lo oye tan fuerte como su tinnitus.",
+    "El resultado se expresa respecto del umbral en esa frecuencia, como nivel de sensación en decibeles SL.",
+    "En este ejemplo el umbral es de 50 y la igualación de 55 decibeles HL, así que el tinnitus se iguala a solo 5 decibeles SL.",
+    "En la mayoría de las personas, la igualación de sonoridad queda solo unos pocos decibeles por encima del umbral; es un hallazgo frecuente en la clínica.",
+    "Una razón es el reclutamiento: en una frecuencia con pérdida auditiva, incluso un pequeño aumento justo sobre el umbral se oye fuerte.",
+    "Por eso, un valor de SL bajo no significa que el tinnitus sea leve."
+   ]
+  },
+  {
+   "id": "rahatsizlik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Igualación de sonoridad",
+   "baslik": "Sonoridad y *malestar* no son lo mismo",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Igualación de sonoridad",
+     "metin": "Equivalente externo de la percepción",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Malestar",
+     "metin": "Depende de atención y emoción",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Para medirlo",
+     "metin": "Escalas de autoinforme",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "No hay una relación fuerte entre la igualación de sonoridad y cuánto le molesta el tinnitus a la persona.",
+    "Alguien con una igualación de sonoridad baja puede referir un malestar intenso, y alguien con una igualación alta puede haberse adaptado bien.",
+    "Esto se debe a que el malestar depende en gran medida de las redes de la atención y de las emociones.",
+    "Para medir el malestar no usamos pruebas psicoacústicas, sino las escalas que veremos en la próxima lección.",
+    "Aun así, los cambios de sonoridad a lo largo del tiempo en la misma persona pueden aportar información en el seguimiento.",
+    "Explicar esta diferencia también es importante en la orientación, para validar el malestar que vive la persona."
+   ]
+  },
+  {
+   "id": "mml",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Medidas de enmascaramiento",
+   "baslik": "El *nivel* mínimo de enmascaramiento",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Umbral del ruido",
+     "metin": "Se busca primero",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Subirlo",
+     "metin": "En pasos pequeños",
+     "cumle": 2
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Tinnitus cubierto",
+     "metin": "La persona avisa",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registrar el MML",
+     "metin": "En dB SL",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El nivel mínimo de enmascaramiento, o MML, es el nivel de ruido más bajo necesario para cubrir por completo el tinnitus.",
+    "Por lo general se usa ruido de banda ancha, y primero se busca el umbral de la persona para ese ruido.",
+    "Luego el ruido se sube en pasos pequeños, hasta que la persona dice que ya no oye su tinnitus.",
+    "El resultado se registra en decibeles SL, respecto del umbral del ruido.",
+    "En la mayoría de las personas el MML es bajo, pero en algunas el tinnitus no se logra cubrir ni siquiera con ruido de nivel alto.",
+    "La medición puede hacerse en ambos oídos a la vez o por separado; se registra el método utilizado.",
+    "El MML muestra con qué facilidad los sonidos externos cubren el tinnitus y puede orientar el plan de terapia sonora.",
+    "Una vez hallado el MML, por lo general se mide a continuación la inhibición residual con el mismo ruido."
+   ]
+  },
+  {
+   "id": "ri",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Medidas de enmascaramiento",
+   "baslik": "*Inhibición* residual",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -60,
+     "max": 180,
+     "adim": 60,
+     "ad": "Tiempo (segundos)"
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Sonoridad del tinnitus (0 a 10)"
+    },
+    "bolgeler": [
+     {
+      "ad": "gurultu",
+      "x": [
+       -60,
+       0
+      ],
+      "renk": "sari",
+      "etiket": "ruido: MML + 10 dB, 60 s",
+      "cumle": 1
+     }
+    ],
+    "seriler": [
+     {
+      "ad": "tinnitus",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        30,
+        0
+       ],
+       [
+        60,
+        2
+       ],
+       [
+        90,
+        4
+       ],
+       [
+        120,
+        6
+       ],
+       [
+        150,
+        6
+       ],
+       [
+        180,
+        6
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "tinnitus de ejemplo",
+      "cumle": 3
+     },
+     {
+      "ad": "onceki",
+      "noktalar": [
+       [
+        -60,
+        6
+       ],
+       [
+        180,
+        6
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "nivel inicial",
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kesilme",
+      "x": 0,
+      "y": 0,
+      "cizgi": "dikey",
+      "etiket": "fin del ruido",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "El tinnitus baja al cesar el ruido",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Duración medida con cronómetro",
+     "cumle": 4,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Temporal; _no_ es un tratamiento duradero",
+     "cumle": 6,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "La inhibición residual es la reducción o desaparición temporal del tinnitus después de detener el ruido enmascarante.",
+    "En un protocolo habitual, el ruido se presenta a 10 decibeles por encima del MML durante 60 segundos.",
+    "Cuando el ruido se detiene, se pregunta a la persona si su tinnitus sigue igual, está más suave o desapareció por completo.",
+    "En este ejemplo, el tinnitus desaparece justo después del ruido y vuelve a su nivel anterior en unos dos minutos.",
+    "El tiempo que el tinnitus permanece reducido se mide con un cronómetro; si la reducción es parcial, también se anota.",
+    "Muchas personas muestran inhibición residual parcial o completa, pero el efecto suele durar de segundos a minutos.",
+    "Esta medida muestra que el tinnitus puede suprimirse temporalmente; no significa un tratamiento duradero."
+   ]
+  },
+  {
+   "id": "sinirlilik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Limitaciones",
+   "baslik": "Limitaciones y *guías*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Repetibilidad",
+     "metin": "Baja, sobre todo del tono",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Malestar",
+     "metin": "No lo muestran con fiabilidad",
+     "cumle": 2
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "NICE 2020",
+     "metin": "No recomendadas para el tinnitus",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Las medidas psicoacústicas tienen limitaciones importantes.",
+    "Los resultados pueden cambiar en un mismo día en la misma persona, y la repetibilidad es baja, sobre todo para el tono.",
+    "No muestran de forma fiable el grado de malestar por tinnitus ni la respuesta al tratamiento.",
+    {
+     "yazi": "En 2020, la guía NICE de Inglaterra no recomendó pruebas psicoacústicas como la igualación de tono y de sonoridad para evaluar el tinnitus."
+    },
+    "La misma guía tampoco recomienda medir los umbrales de molestia ni realizar pruebas de reflejo acústico para estudiar el tinnitus.",
+    "Estas medidas se usan en algunas clínicas y en investigación; cuando se realizan, se interpretan teniendo en cuenta sus limitaciones."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Limitaciones",
+   "baslik": "*Registrar* los resultados",
+   "maddeler": [
+    {
+     "metin": "Oído evaluado y tipo de sonido",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sonoridad: en dB HL y en SL",
+     "cumle": 2,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "MML, duración y tipo de inhibición",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Mismo equipo, mismo método",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "kulaklik",
+      "metin": "auricular",
+      "cumle": 1
+     },
+     {
+      "parca": "hasta_butonu",
+      "metin": "pulsador de respuesta",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Los resultados psicoacústicos se registran en un formulario estándar.",
+    "El formulario incluye el oído evaluado, el oído que recibe el sonido de igualación, el tipo de sonido usado y la frecuencia.",
+    "La igualación de sonoridad se anota tanto en decibeles HL como en decibeles SL.",
+    "Se anotan el MML y la duración y el tipo de inhibición residual, parcial o completa.",
+    "Solo así pueden compararse las mediciones repetidas hechas con el mismo equipo y el mismo método.",
+    "La fecha de la medición y el estado del tinnitus de la persona ese día también forman parte del registro."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "No le des al paciente la igualación de sonoridad como un número aislado. Explica que refleja el sistema auditivo y que el malestar se abordará por separado.",
+   "cumleler": [
+    "Un consejo clínico: al compartir la igualación de sonoridad con el paciente, no den el número por sí solo.",
+    "Una frase como «su tinnitus es de solo 5 decibeles» puede sentirse como si menospreciara el malestar que vive la persona.",
+    "En cambio, expliquen que la medida muestra el equivalente del sonido en el sistema auditivo y que el malestar se abordará por separado.",
+    "Experimentar la inhibición residual puede ser tranquilizador para muchas personas, porque muestra que el tinnitus puede cambiar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Tono: dos alternativas, control de octava",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sonoridad: a menudo pocos dB SL",
+     "cumle": 1,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "MML e inhibición residual",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "No miden malestar; NICE no las recomienda",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "La igualación de tono usa un método de dos alternativas, y siempre debe controlarse la confusión de octava.",
+    "La igualación de sonoridad a menudo queda solo unos pocos decibeles por encima del umbral; una razón es el reclutamiento.",
+    "El MML es el nivel de ruido más bajo que cubre el tinnitus; la inhibición residual es la reducción temporal después del ruido.",
+    "Estas medidas no muestran el malestar por tinnitus, y la guía NICE no las recomienda para evaluar el tinnitus."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Por qué la igualación de sonoridad suele dar un SL bajo?",
+   "secenekler": [
+    "Reclutamiento",
+    "Pérdida conductiva",
+    "Error de enmascaramiento",
+    "El tinnitus es leve"
+   ],
+   "dogru": 0,
+   "aciklama": "En una frecuencia con pérdida auditiva, incluso un pequeño aumento se oye _fuerte_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿por qué la igualación de sonoridad del tinnitus suele quedar solo unos pocos decibeles por encima del umbral?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: el reclutamiento.",
+    "En una frecuencia con pérdida auditiva, incluso un pequeño aumento justo sobre el umbral se oye fuerte, así que un SL bajo no significa un tinnitus leve."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cuestionarios de tinnitus: *THI* y TFI",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos el Inventario de Discapacidad por Tinnitus y el Índice Funcional del Tinnitus, que miden su impacto en la vida.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,777 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D232_Aging_Auditory_System_ES",
+ "kapak": {
+  "ust": "LECCIÓN 232",
+  "baslik": "Envejecimiento<br>*auditivo*",
+  "alt": "Cambios periféricos y centrales",
+  "cizim": "isitme_yolu"
+ },
+ "youtube": {
+  "baslik": "Envejecimiento auditivo: periférico y central | Lección 232 | AIHEAR Academia de Audiología",
+  "aciklama": "¿El envejecimiento afecta la audición solo en la cóclea? En esta lección vemos la pérdida de la estría vascular y de las sinapsis, la presbiacusia central, el deterioro del procesamiento temporal, los cambios en la escucha dicótica y por qué a los adultos mayores les cuesta entender el habla en ruido.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Gates and Mills (2005), Presbycusis, The Lancet; Dubno et al. (2013), Classifying human audiometric phenotypes of age-related hearing loss from animal models, JARO; Committee on Hearing, Bioacoustics and Biomechanics (CHABA, 1988), Speech understanding and aging, JASA; Gordon-Salant et al. (ed.), The Aging Auditory System, Springer; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "presbiacusia",
+   "envejecimientoauditivo"
+  ],
+  "etiketler": [
+   "envejecimiento auditivo",
+   "presbiacusia",
+   "presbiacusia central",
+   "procesamiento temporal",
+   "sinaptopatía coclear",
+   "estría vascular",
+   "habla en ruido",
+   "escucha dicótica",
+   "detección de silencios",
+   "adultos mayores",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 232",
+   "baslik": "Envejecimiento *auditivo*",
+   "alt": "Cambios periféricos y centrales",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo el envejecimiento afecta al sistema auditivo, desde la cóclea hasta el cerebro.",
+    "Veremos el deterioro del procesamiento temporal y por qué a los adultos mayores les cuesta entender el habla en ruido."
+   ]
+  },
+  {
+   "id": "sistem",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "Todo el sistema envejece",
+   "baslik": "Envejecimiento *en cada nivel*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Oído externo y medio",
+     "cumle": 1,
+     "metin": "Cerumen, colapso del conducto"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Cóclea",
+     "cumle": 2,
+     "metin": "Células ciliadas, estría"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Nervio",
+     "cumle": 3,
+     "metin": "Sinapsis, ganglio"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Vías centrales",
+     "cumle": 4,
+     "metin": "Sincronía, inhibición"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Cognición",
+     "cumle": 5,
+     "metin": "Memoria, velocidad de procesamiento"
+    }
+   ],
+   "cumleler": [
+    "Antes conocimos la presbiacusia desde el punto de vista de la cóclea; en esta lección vemos el envejecimiento auditivo como un sistema completo.",
+    "En el oído externo se vuelven más frecuentes el tapón de cerumen y el colapso del conducto; no causan la pérdida, pero pueden alterar los resultados.",
+    "La cóclea es el blanco más conocido del envejecimiento: se afectan las células ciliadas y la estría vascular.",
+    "Las sinapsis entre las células ciliadas y las fibras nerviosas, y las neuronas del ganglio espiral, también disminuyen con la edad.",
+    "En las vías centrales, desde el tronco cerebral hasta la corteza, cambian la precisión temporal y el equilibrio inhibitorio.",
+    "Por último, funciones cognitivas como la memoria de trabajo y la velocidad de procesamiento influyen en cómo damos sentido a lo que oímos."
+   ]
+  },
+  {
+   "id": "stria",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Cambios periféricos",
+   "baslik": "La *batería* que envejece: la estría vascular",
+   "cizim": "koklea_kesit",
+   "ayar": {
+    "potasyum": true,
+    "potasyum_cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "stria_vaskularis",
+     "metin": "estría vascular",
+     "cumle": 0
+    },
+    {
+     "parca": "endolenf",
+     "metin": "endolinfa",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Cae el potencial endococlear",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Se debilita la amplificación",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Aparece incluso sin ruido",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    }
+   ],
+   "cumleler": [
+    "La estría vascular es el tejido que produce la alta concentración de potasio de la endolinfa y el potencial endococlear.",
+    "Las flechas en pantalla muestran el ciclo del potasio dentro de la cóclea; la estría es la bomba de este ciclo.",
+    "En animales que envejecen en silencio, los vasos y las células de la estría se deterioran y el potencial endococlear cae.",
+    "Cuando el potencial cae, la amplificación de las células ciliadas externas se debilita en un amplio rango de frecuencias.",
+    "Como esto puede ocurrir sin ningún daño por ruido, se considera un componente propio del envejecimiento.",
+    {
+     "yazi": "La revisión de Gates y Mills de 2005 destaca este componente metabólico como una causa importante de la pérdida auditiva relacionada con la edad."
+    }
+   ]
+  },
+  {
+   "id": "sinaps",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Cambios periféricos",
+   "baslik": "Las *sinapsis* se pierden primero",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "célula ciliada interna",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "sinapsis y fibras nerviosas",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "células ciliadas externas",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "La pérdida sináptica empieza pronto",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "El audiograma puede no cambiar",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Cuesta más entender en ruido",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Durante mucho tiempo se pensó que la pérdida de células ciliadas era el signo más temprano del envejecimiento.",
+    "Pero estudios en animales y en huesos temporales humanos mostraron que las sinapsis de las células ciliadas internas pueden perderse antes que estas.",
+    "Esta pérdida se llama sinaptopatía coclear relacionada con la edad; luego también disminuyen las neuronas del ganglio espiral.",
+    "La pérdida sináptica por sí sola casi no modifica el audiograma, porque las fibras que determinan el umbral se conservan en gran parte.",
+    "Pero como se pierden fibras que codifican el sonido en ruido y a niveles altos, entender el habla puede volverse más difícil.",
+    "Estos hallazgos ayudan a explicar por qué dos personas mayores con audiogramas similares tienen dificultades tan distintas en la vida diaria."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Cambios periféricos",
+   "baslik": "Una *huella* en la electrofisiología",
+   "cizim": "abr",
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "onda I: nervio auditivo",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "onda V",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "La amplitud de la onda I puede bajar",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Gran variabilidad individual",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Por ahora, un marcador de investigación",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    "El componente neural del envejecimiento también puede seguirse con pruebas electrofisiológicas.",
+    "La onda I de los potenciales evocados auditivos de tronco cerebral, o PEATC, se origina en el nervio auditivo.",
+    "En animales y en algunos estudios en humanos, la amplitud de esta onda a niveles altos disminuye con la edad.",
+    "Una amplitud menor, incluso con umbrales similares, sugiere que llega al nervio una respuesta sincrónica más débil.",
+    "Sin embargo, la amplitud varía mucho entre personas y también depende de factores como el conducto auditivo y el sexo.",
+    "Por eso, hoy este hallazgo es un marcador que se usa más en investigación que en el diagnóstico individual."
+   ]
+  },
+  {
+   "id": "fenotip",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Cambios periféricos",
+   "baslik": "*Huellas* en el audiograma",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Metabólico",
+     "cumle": 1,
+     "metin": "Pérdida plana, de pendiente suave"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Sensorial",
+     "cumle": 2,
+     "metin": "Caída abrupta en agudos"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Mixto",
+     "cumle": 3,
+     "metin": "Ambos a la vez"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Mayor pero normal",
+     "cumle": 4,
+     "metin": "Umbrales conservados"
+    }
+   ],
+   "cumleler": [
+    "A partir de modelos animales, los investigadores intentaron ordenar los audiogramas humanos en grupos similares.",
+    {
+     "yazi": "En el estudio de Dubno y colaboradores de 2013, el patrón metabólico era una pérdida leve en graves que aumenta lentamente hacia los agudos."
+    },
+    "En el patrón sensorial, las frecuencias graves se conservan y hay una caída abrupta en las agudas; este patrón se asocia a antecedentes de ruido.",
+    "Muchas personas muestran ambos patrones a la vez.",
+    "También hay personas mayores con umbrales en gran parte conservados; la edad por sí sola no es un destino.",
+    "Este enfoque es una visión actual que intenta vincular los tipos de Schuknecht que vimos antes con el audiograma humano."
+   ]
+  },
+  {
+   "id": "santral",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cambios centrales",
+   "baslik": "Presbiacusia *central*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "colículo inferior",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "corteza auditiva",
+     "cumle": 1
+    },
+    {
+     "parca": "koklea",
+     "metin": "cóclea",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Disminuye la transmisión inhibitoria",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Se altera la sincronía",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "El audiograma no lo explica",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "El envejecimiento no afecta solo a la cóclea, sino también a las vías auditivas centrales, desde la cóclea hasta la corteza.",
+    "Estudios en animales mostraron que la transmisión inhibitoria, o supresora, disminuye con la edad en el colículo inferior y en la corteza auditiva.",
+    "La menor inhibición altera la sincronización de las neuronas y la precisión de sus respuestas.",
+    "La sincronía de las respuestas neurales en el tiempo también disminuye, y cuesta más codificar los rasgos del sonido que cambian rápido.",
+    "El término presbiacusia central se usa para describir una dificultad de procesamiento auditivo que el audiograma de la persona no explica.",
+    "Sin embargo, en la mayoría de las personas la pérdida periférica, los cambios centrales y el envejecimiento cognitivo se entrelazan y cuesta separarlos."
+   ]
+  },
+  {
+   "id": "zamansal",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cambios centrales",
+   "baslik": "Procesamiento *temporal*",
+   "cizim": "atim_dizisi",
+   "ayar": {
+    "frekans_hz": 500,
+    "periyot": 6,
+    "ates": [
+     1,
+     0,
+     1,
+     1,
+     0,
+     1
+    ],
+    "cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "atimlar",
+     "metin": "descargas del nervio",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga",
+     "metin": "onda sonora",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "evre",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El procesamiento temporal es la capacidad de detectar y aprovechar los cambios del sonido en el tiempo.",
+    "Ante sonidos graves, las fibras nerviosas descargan sincronizadas con una fase concreta de la onda; esto se llama sincronía de fase.",
+    "Esta sincronía transmite la estructura fina temporal del sonido, importante para percibir el tono y para separar el habla del ruido.",
+    "Con la edad, la precisión de esta sincronía disminuye; las descargas quedan ligadas de forma más laxa a la fase de la onda.",
+    "Los estudios mostraron que la sensibilidad a la estructura fina temporal puede disminuir incluso en adultos mayores con audiograma normal.",
+    "Es decir, parte del envejecimiento ocurre en una dimensión que el audiograma no mide en absoluto."
+   ]
+  },
+  {
+   "id": "bosluk",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cambios centrales",
+   "baslik": "*Oír* el silencio",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 3.5,
+     "ad": " ",
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "Young",
+      "2": "Older, normal thresholds",
+      "3": "Older, with loss",
+      "1": "Joven",
+      "2": "Mayor, umbrales normales",
+      "3": "Mayor, con pérdida"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Umbral de silencio (ilustrativo, ms)"
+    },
+    "seriler": [
+     {
+      "ad": "genc",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        1,
+        3
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "breve",
+      "etiket_konum": [
+       1,
+       3
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "yasli_normal",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        2,
+        5.5
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "más largo",
+      "etiket_konum": [
+       2,
+       5.5
+      ],
+      "cumle": 3
+     },
+     {
+      "ad": "yasli_kayip",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        3,
+        6.5
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "más largo",
+      "etiket_konum": [
+       3,
+       6.5
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "La medida clásica de la resolución temporal es la detección de silencios: notar un silencio muy breve dentro de un ruido.",
+    "Las barras del gráfico son valores ilustrativos del silencio más corto que una persona puede notar, es decir, del umbral de detección de silencios.",
+    "En las personas jóvenes, este umbral suele ser de unos pocos milisegundos.",
+    "En los oyentes mayores, el umbral es en promedio más largo, incluso cuando sus audiogramas son similares.",
+    "Un deterioro similar se observa en la discriminación de duración y en la comprensión del habla comprimida en el tiempo y en salas reverberantes.",
+    "Distinguir consonantes, por ejemplo por el breve silencio de una consonante oclusiva, depende de estas claves temporales."
+   ]
+  },
+  {
+   "id": "dikotik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cambios centrales",
+   "baslik": "Dos oídos, *un cerebro*",
+   "cizim": "beyin_ustten",
+   "ayar": {
+    "mod": "dikotik",
+    "sozcukler": [
+     "siete",
+     "cuatro"
+    ],
+    "yol_cumleleri": {
+     "capraz_yol_sag": 1,
+     "capraz_yol_sol": 2,
+     "kallozal_yol": 2
+    }
+   },
+   "etiketler": [
+    {
+     "parca": "corpus_callosum",
+     "metin": "cuerpo calloso",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "corpus_callosum",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En la escucha dicótica se presentan palabras distintas a los dos oídos al mismo tiempo.",
+    "Una palabra del oído derecho llega directamente por la vía cruzada al hemisferio izquierdo, donde predomina el procesamiento del lenguaje.",
+    "Una palabra del oído izquierdo va primero al hemisferio derecho y debe cruzar el cuerpo calloso para llegar al hemisferio izquierdo.",
+    "Con los cambios del cuerpo calloso relacionados con la edad, el rendimiento del oído izquierdo cae más y la ventaja del oído derecho aumenta.",
+    "Este hallazgo muestra que el envejecimiento no afecta solo al oído, sino también a la comunicación entre los dos hemisferios.",
+    "Por eso, las pruebas dicóticas están entre las herramientas para evaluar el procesamiento central en adultos mayores."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Habla en ruido",
+   "baslik": "¿Por qué el ruido es *tan difícil?*",
+   "maddeler": [
+    {
+     "metin": "Audibilidad: se pierden las consonantes agudas",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Las claves temporales se desdibujan",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Cuesta más separar las fuentes sonoras",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Se exigen más recursos cognitivos",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Esfuerzo auditivo y fatiga",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 2,
+    "ayar": {
+     "mod": "golge",
+     "gurultu_yonu": "sol"
+    }
+   },
+   "cumleler": [
+    "La primera razón de la dificultad para entender el habla en ruido es que las consonantes agudas no se oyen lo suficiente.",
+    "La segunda es que las claves temporales y la estructura fina se codifican con menos precisión.",
+    "Estas claves son necesarias para separar las voces de dos personas que hablan al mismo tiempo.",
+    "La tercera es una mayor demanda de recursos cognitivos, como la memoria de trabajo y la velocidad de procesamiento, para completar por contexto lo perdido.",
+    "Todo esto aumenta el esfuerzo auditivo; por eso una persona mayor termina agotada después de una cena concurrida.",
+    "Así, aunque dos personas tengan el mismo audiograma, su rendimiento en ruido puede ser muy diferente."
+   ]
+  },
+  {
+   "id": "bilis",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Habla en ruido",
+   "baslik": "El *papel* de la cognición",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Memoria de trabajo",
+     "cumle": 0,
+     "metin": "Retener lo que se oyó"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Velocidad de procesamiento",
+     "cumle": 1,
+     "metin": "Seguir el habla rápida"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Atención e inhibición",
+     "cumle": 2,
+     "metin": "Suprimir el fondo"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Conocimiento del lenguaje",
+     "cumle": 3,
+     "metin": "Aprovechar el contexto"
+    }
+   ],
+   "cumleler": [
+    "La memoria de trabajo mantiene en mente una oración escuchada hasta que se forma su significado, y suele disminuir con la edad.",
+    "Cuando la velocidad de procesamiento se enlentece, seguir el habla rápida se vuelve más difícil.",
+    "La atención y la inhibición nos permiten suprimir las conversaciones de fondo y concentrarnos en el hablante que nos interesa.",
+    "En cambio, el vocabulario y la capacidad de aprovechar el contexto a menudo se conservan con la edad, o incluso se fortalecen.",
+    "Por eso, los oyentes mayores se benefician claramente más de las oraciones con sentido y predecibles.",
+    "Este estrecho vínculo entre audición y cognición es también la base del debate sobre la demencia, el tema de la próxima lección."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "En la clínica",
+   "baslik": "¿Qué *incluir* en la evaluación?",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Tonos puros",
+     "cumle": 0,
+     "metin": "Incluidas las frecuencias altas"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Habla en silencio",
+     "cumle": 1,
+     "metin": "Reconocimiento de palabras"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Habla en ruido",
+     "cumle": 2,
+     "metin": "Lo más cercano a la vida diaria"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Pruebas centrales",
+     "cumle": 3,
+     "metin": "Dicóticas, temporales"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Cuestionario",
+     "cumle": 4,
+     "metin": "La visión de la propia persona"
+    }
+   ],
+   "cumleler": [
+    "La evaluación comienza con la audiometría tonal, incluidas, si es posible, las frecuencias por encima de 8000 Hz.",
+    "El porcentaje de reconocimiento de palabras en silencio muestra la capacidad de comprensión en las mejores condiciones.",
+    "Las pruebas de habla en ruido reflejan mucho mejor las dificultades cotidianas de la persona mayor.",
+    "Cuando hace falta, pueden añadirse pruebas dicóticas y pruebas temporales, como la detección de silencios.",
+    "Las dificultades que refiere la persona se registran con cuestionarios estandarizados, porque las pruebas no pueden captar todas las situaciones.",
+    "Esta información ayuda a planificar no solo los audífonos, sino también apoyos como las estrategias de comunicación y los micrófonos remotos."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Al hablar con una persona mayor, habla más despacio y con claridad, no más fuerte; haz pausas breves entre oraciones. Enséñaselo también a la familia.",
+   "cumleler": [
+    "Un consejo de la práctica: al hablar con una persona mayor, hablen más despacio y con claridad, en lugar de levantar la voz.",
+    "Las pausas breves entre oraciones dan tiempo al procesamiento temporal y a la memoria de trabajo.",
+    "Gritar distorsiona el sonido y causa molestia, mientras que hablar despacio y con claridad a menudo mejora mucho la comprensión.",
+    "Muestren esta estrategia en la práctica a los familiares durante la sesión; es lo que más rápido mejora la comunicación en casa."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Envejecimiento: de la cóclea a la corteza",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Importan la estría y las sinapsis",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "El procesamiento temporal declina con la edad",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Ruido: audición y cognición juntas",
+     "cumle": 3,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "El envejecimiento auditivo no afecta solo a la cóclea, sino también a las fibras nerviosas, las vías centrales y las funciones cognitivas.",
+    "El debilitamiento de la estría vascular y la pérdida de sinapsis son partes importantes del envejecimiento, junto con la pérdida de células ciliadas.",
+    "Habilidades temporales y centrales como la sincronía de fase, la detección de silencios y la escucha dicótica disminuyen con la edad.",
+    "La dificultad para entender el habla en ruido surge de la audibilidad, el procesamiento temporal y los recursos cognitivos actuando en conjunto."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué explica mejor la dificultad en ruido de un adulto mayor con audiograma normal?",
+   "secenekler": [
+    "Rigidez del oído medio",
+    "Pérdida sináptica, deterioro temporal",
+    "Cerumen",
+    "Resonancia del oído externo"
+   ],
+   "dogru": 1,
+   "aciklama": "La pérdida sináptica y el deterioro del procesamiento temporal _pueden no verse en el audiograma_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué puede explicar mejor la dificultad para entender el habla en ruido en una persona mayor con audiograma normal?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: la pérdida de sinapsis y el deterioro del procesamiento temporal.",
+    "Estos cambios pueden alterar la codificación del habla en ruido sin afectar claramente los umbrales."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Pérdida auditiva y *demencia*: ¿qué dice la evidencia?",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección leeremos juntos la evidencia sobre la relación entre la pérdida auditiva y la demencia.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

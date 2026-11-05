@@ -1,0 +1,869 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D177_Adult_Hearing_Screening_ES",
+ "kapak": {
+  "ust": "LECCIÓN 177",
+  "baslik": "Tamizaje auditivo<br>en *adultos*",
+  "alt": "HHIE-S y la prueba de dígitos en ruido",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 24,
+    "ad": "Número de trío de dígitos",
+    "isaretler": [
+     1,
+     5,
+     10,
+     15,
+     20,
+     23
+    ]
+   },
+   "y": {
+    "min": -14,
+    "max": 2,
+    "adim": 2,
+    "ad": "SNR (dB)"
+   },
+   "seriler": [
+    {
+     "ad": "iz",
+     "noktalar": [
+      [
+       1,
+       0
+      ],
+      [
+       2,
+       -2
+      ],
+      [
+       3,
+       -4
+      ],
+      [
+       4,
+       -6
+      ],
+      [
+       5,
+       -8
+      ],
+      [
+       6,
+       -10
+      ],
+      [
+       7,
+       -8
+      ],
+      [
+       8,
+       -10
+      ],
+      [
+       9,
+       -12
+      ],
+      [
+       10,
+       -10
+      ],
+      [
+       11,
+       -8
+      ],
+      [
+       12,
+       -10
+      ],
+      [
+       13,
+       -12
+      ],
+      [
+       14,
+       -10
+      ],
+      [
+       15,
+       -12
+      ],
+      [
+       16,
+       -10
+      ],
+      [
+       17,
+       -8
+      ],
+      [
+       18,
+       -10
+      ],
+      [
+       19,
+       -12
+      ],
+      [
+       20,
+       -10
+      ],
+      [
+       21,
+       -12
+      ],
+      [
+       22,
+       -10
+      ],
+      [
+       23,
+       -12
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "sure": 3,
+     "etiket": "recorrido adaptativo",
+     "cumle": 1
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "dalgalanma",
+     "y": [
+      -12,
+      -8
+     ],
+     "renk": "sari",
+     "etiket": "zona de oscilación",
+     "cumle": 3
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "srt",
+     "x": 18,
+     "y": -10,
+     "cizgi": "yatay",
+     "etiket": "URP cerca de -10 dB",
+     "cumle": 4
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Tamizaje auditivo en adultos y adultos mayores | Lección 177 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo se tamiza la audición en adultos? En esta lección vemos la audiometría de tamizaje a 25 dB HL, la puntuación del cuestionario HHIE-S, la prueba de dígitos en ruido y su método adaptativo, la aplicación hearWHO de la Organización Mundial de la Salud, la prueba de la voz susurrada y la revisión de 2021 del USPSTF.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: ASHA, Guidelines for Audiologic Screening; US Preventive Services Task Force, Screening for Hearing Loss in Older Adults (2021); Ventry y Weinstein, Identification of elderly people with hearing problems (Asha, 1983); Smits, Kapteyn y Houtgast, Development and validation of an automatic speech-in-noise screening test by telephone (Int J Audiol, 2004); WHO, hearWHO; Pirozzo et al., Whispered voice test for screening for hearing impairment (BMJ, 2003).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "tamizajeauditivo",
+   "presbiacusia"
+  ],
+  "etiketler": [
+   "tamizaje auditivo en adultos",
+   "HHIE-S",
+   "Inventario de Handicap Auditivo para Adultos Mayores",
+   "prueba de dígitos en ruido",
+   "hearWHO",
+   "audiometría de tamizaje",
+   "prueba de la voz susurrada",
+   "USPSTF",
+   "presbiacusia",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 177",
+   "baslik": "Tamizaje en adultos y *adultos mayores*",
+   "alt": "Audiometría, HHIE-S y prueba de dígitos en ruido",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección completamos la sección de programas de tamizaje con el tamizaje auditivo en adultos y adultos mayores.",
+    {
+     "yazi": "Veremos la audiometría de tamizaje, la versión de tamizaje del Inventario de Handicap Auditivo para Adultos Mayores, los dígitos en ruido y hearWHO."
+    }
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué y a quién?",
+   "baslik": "¿*Por qué* es difícil tamizar en adultos?",
+   "ogeler": [
+    {
+     "ikon": "yasli",
+     "baslik": "Frecuente pero insidiosa",
+     "metin": "Inicio lento, se nota tarde",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Debate sobre la evidencia",
+     "metin": "USPSTF 2021: evidencia insuficiente",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Enfoque de la OMS",
+     "metin": "La audición en la atención de mayores",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Según la Organización Mundial de la Salud (OMS), más de una cuarta parte de las personas mayores de sesenta años tiene una pérdida auditiva discapacitante.",
+    "Como la pérdida progresa lentamente, las personas a menudo no la notan o no la aceptan durante mucho tiempo; buscar ayuda puede demorarse años.",
+    "El tamizaje busca detectar la pérdida temprano en personas sin quejas y derivarlas a evaluación.",
+    {
+     "yazi": "El Grupo de Trabajo de Servicios Preventivos de los Estados Unidos (USPSTF) publicó una declaración sobre este tema en 2021."
+    },
+    "Consideró insuficiente la evidencia para evaluar los beneficios y los daños del tamizaje en adultos de cincuenta años o más sin síntomas.",
+    "Esto no significa que el tamizaje sea inútil; la Asociación Estadounidense del Habla, Lenguaje y Audición (ASHA) defendió que se recomiende.",
+    "En su enfoque de atención integrada para personas mayores, la OMS también incluye la audición entre las funciones básicas que deben revisarse con regularidad."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audiometría de tamizaje",
+   "baslik": "Nivel de tamizaje: *25 dB HL*",
+   "lejant": [
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Límite de tamizaje de 25 dB HL",
+     "cumle": 1
+    },
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: no pasa en 4000 Hz",
+     "cumle": 3
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: pasa",
+     "cumle": 4
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       20,
+       40,
+       50
+      ],
+      "cumle": 3
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       15,
+       20,
+       25,
+       40
+      ],
+      "cumle": 4
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Tamizaje",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "El método más común en adultos es la audiometría de tamizaje: no se busca el umbral; solo se comprueba si se oye un tono a un nivel fijo.",
+    "La guía de tamizaje en adultos de la ASHA usa veinticinco decibeles HL en uno, dos y cuatro kilohertz en cada oído.",
+    "Si no hay respuesta en alguna de estas tres frecuencias en cualquiera de los oídos, la persona no pasa.",
+    "En el ejemplo, el oído derecho oye el tono en uno y dos kilohertz, pero en cuatro kilohertz queda fuera del límite, con cuarenta decibeles.",
+    "El oído izquierdo está dentro del límite en las tres frecuencias evaluadas.",
+    "En los adultos mayores es muy común no pasar en cuatro kilohertz.",
+    "La guía acepta una tasa de derivación más alta a cambio de un criterio único y claro para todos."
+   ]
+  },
+  {
+   "id": "pratik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audiometría de tamizaje",
+   "baslik": "La audiometría de tamizaje en la *práctica*",
+   "maddeler": [
+    {
+     "metin": "Primero otoscopia y una anamnesis breve",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Sala más silenciosa, control biológico",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "No pasó: evaluación diagnóstica",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Con quejas: evaluar aunque pase",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Antes del tamizaje se hace una anamnesis breve y se revisa el conducto auditivo con el otoscopio; un tapón de cerumen puede alterar el resultado.",
+    "El tamizaje se hace con un equipo de calibración vigente en la sala más silenciosa posible; el día empieza con un control biológico.",
+    "Si el ruido ambiental es alto, los auriculares de inserción o con reducción de ruido disminuyen los falsos no pasa.",
+    "A quien no pasa no se le da un diagnóstico; se le deriva a una evaluación audiológica completa.",
+    "Aunque pase, también debe evaluarse a toda persona con quejas auditivas, síntomas de un solo lado, tinnitus o mareo.",
+    "El resultado del tamizaje y la recomendación de derivación se entregan por escrito, lo que reduce la pérdida de seguimiento."
+   ]
+  },
+  {
+   "id": "hhie_yapi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "El cuestionario HHIE-S",
+   "baslik": "*HHIE-S*: un cuestionario breve",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Diez preguntas",
+     "metin": "Cinco emocionales, cinco sociales",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Tres respuestas",
+     "metin": "Sí 4, a veces 2, no 0",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Puntuación total",
+     "metin": "De 0 a 40",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La audiometría mide el grado de la pérdida auditiva, pero no muestra su impacto en la vida de la persona.",
+    {
+     "yazi": "La herramienta más usada para esto es la versión de tamizaje del Inventario de Handicap Auditivo para Adultos Mayores (HHIE-S)."
+    },
+    "El formulario tiene diez preguntas.",
+    "Cinco preguntan por el impacto emocional, como la vergüenza y la frustración, y cinco por el impacto social y situacional.",
+    "Cada pregunta se responde con sí, a veces o no; sí vale cuatro puntos, a veces dos y no, cero.",
+    "Los puntos se suman; el total va de cero a cuarenta, y una puntuación más alta indica un mayor handicap percibido.",
+    {
+     "yazi": "El formulario se abrevió en 1983 a partir del inventario original de veinticinco ítems de Ventry y Weinstein."
+    }
+   ]
+  },
+  {
+   "id": "hhie_puan",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "El cuestionario HHIE-S",
+   "baslik": "La *puntuación* del HHIE-S",
+   "sutunlar": [
+    "Puntuación total",
+    "Interpretación habitual"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "0 a 8",
+      "Sin handicap significativo"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "10 a 24",
+      "Handicap leve a moderado"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "26 a 40",
+      "Handicap significativo"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Más de 8",
+      "Se aconseja más evaluación"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Como los puntos suben de cuatro en cuatro o de dos en dos, el total siempre es un número par.",
+    "En una clasificación habitual, una puntuación de cero a ocho indica que no hay un handicap auditivo significativo.",
+    "Una puntuación de diez a veinticuatro sugiere un handicap leve a moderado, y de veintiséis a cuarenta, un handicap significativo.",
+    "La guía de tamizaje en adultos de la ASHA también recomienda usar el cuestionario junto con la audiometría.",
+    "En muchos programas de tamizaje, una puntuación mayor de ocho se usa como criterio para derivar a una evaluación adicional.",
+    "Cuando el cuestionario se usa en otro idioma, como el turco, debe elegirse una traducción con validez y confiabilidad demostradas."
+   ]
+  },
+  {
+   "id": "birlikte",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "El cuestionario HHIE-S",
+   "baslik": "¿Por qué usar *ambos* juntos?",
+   "ogeler": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Audiometría",
+     "metin": "Grado de la pérdida",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Cuestionario",
+     "metin": "Impacto en la vida",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Juntos",
+     "metin": "La persona correcta en el momento justo",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La audiometría de tamizaje muestra de forma objetiva si el umbral auditivo es mejor o peor que un nivel fijo.",
+    "El cuestionario muestra cómo vive la persona esta pérdida en su día a día.",
+    "De dos personas con el mismo grado de pérdida, una puede no referir problemas mientras la otra describe una dificultad clara.",
+    "Usar ambos juntos permite detectar pérdidas ocultas y ayuda a identificar a las personas que están listas para recibir ayuda.",
+    "Una puntuación alta en el cuestionario también da una pista sobre la motivación de la persona para la rehabilitación."
+   ]
+  },
+  {
+   "id": "din",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "La prueba de dígitos en ruido",
+   "baslik": "La prueba de *dígitos* en ruido",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Tríos de dígitos",
+     "metin": "Por ejemplo 2, 5, 1",
+     "cumle": 0
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido",
+     "metin": "Con espectro de habla",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "SNR adaptativa",
+     "metin": "Más difícil tras un acierto",
+     "cumle": 2
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "A distancia",
+     "metin": "Teléfono o aplicación",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Resultado: URP",
+     "metin": "dB SNR",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En la prueba de dígitos en ruido, la persona oye secuencias de tres dígitos en ruido y marca los dígitos que oyó.",
+    "El ruido se parece al espectro del habla a largo plazo y enmascara los dígitos.",
+    "Tras un trío correcto, la relación señal-ruido (SNR) baja para el siguiente trío; tras un error, sube. Es un método adaptativo.",
+    {
+     "yazi": "La prueba se basa en una prueba de tamizaje telefónica desarrollada en los Países Bajos por Smits y colaboradores en 2004, y dura unos tres minutos."
+    },
+    "Los dígitos son un conjunto pequeño de palabras conocidas, así que el nivel de lenguaje influye poco; puede hacerse por teléfono o con una aplicación.",
+    "El resultado es la relación señal-ruido en la que se entiende la mitad de los tríos: el umbral de recepción de la palabra en ruido (URP), en dB SNR."
+   ]
+  },
+  {
+   "id": "din_iz",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "La prueba de dígitos en ruido",
+   "baslik": "El recorrido adaptativo: *un ejemplo*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 24,
+     "ad": "Número de trío de dígitos",
+     "isaretler": [
+      1,
+      5,
+      10,
+      15,
+      20,
+      23
+     ]
+    },
+    "y": {
+     "min": -14,
+     "max": 2,
+     "adim": 2,
+     "ad": "SNR (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "iz",
+      "noktalar": [
+       [
+        1,
+        0
+       ],
+       [
+        2,
+        -2
+       ],
+       [
+        3,
+        -4
+       ],
+       [
+        4,
+        -6
+       ],
+       [
+        5,
+        -8
+       ],
+       [
+        6,
+        -10
+       ],
+       [
+        7,
+        -8
+       ],
+       [
+        8,
+        -10
+       ],
+       [
+        9,
+        -12
+       ],
+       [
+        10,
+        -10
+       ],
+       [
+        11,
+        -8
+       ],
+       [
+        12,
+        -10
+       ],
+       [
+        13,
+        -12
+       ],
+       [
+        14,
+        -10
+       ],
+       [
+        15,
+        -12
+       ],
+       [
+        16,
+        -10
+       ],
+       [
+        17,
+        -8
+       ],
+       [
+        18,
+        -10
+       ],
+       [
+        19,
+        -12
+       ],
+       [
+        20,
+        -10
+       ],
+       [
+        21,
+        -12
+       ],
+       [
+        22,
+        -10
+       ],
+       [
+        23,
+        -12
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "sure": 3,
+      "etiket": "recorrido adaptativo",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "dalgalanma",
+      "y": [
+       -12,
+       -8
+      ],
+      "renk": "sari",
+      "etiket": "zona de oscilación",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "srt",
+      "x": 18,
+      "y": -10,
+      "cizgi": "yatay",
+      "etiket": "URP cerca de -10 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Acierto: la SNR baja",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Error: la SNR sube",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Promedio: URP",
+     "cumle": 4,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "Este gráfico muestra un recorrido adaptativo de ejemplo en la prueba de dígitos en ruido; los valores son didácticos.",
+    "La prueba empieza con una relación fácil; mientras la persona responde bien, la relación señal-ruido baja en pasos de dos decibeles.",
+    "Cuando la persona falla un trío, la relación vuelve a subir.",
+    "Al cabo de un tiempo, el recorrido sube y baja alrededor del nivel en que la persona entiende cerca de la mitad de los tríos.",
+    "El promedio de estas oscilaciones da el umbral de recepción en ruido; en este ejemplo, unos menos diez decibeles.",
+    "Cuanto más bajo es el umbral, es decir, cuanto más negativo, mejor entiende la persona el habla en ruido."
+   ]
+  },
+  {
+   "id": "hearwho",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "La prueba de dígitos en ruido",
+   "baslik": "La aplicación *hearWHO* de la OMS",
+   "ogeler": [
+    {
+     "ikon": "telefon",
+     "baslik": "Aplicación gratuita",
+     "metin": "Tríos de dígitos, 23 series",
+     "cumle": 0
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Menos de 50",
+     "metin": "Consultar a un profesional",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "De 50 a 75",
+     "metin": "Repetir una vez al año",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Más de 75",
+     "metin": "Buena audición, control anual",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La aplicación hearWHO de la Organización Mundial de la Salud es una herramienta de tamizaje gratuita que usa la tecnología de dígitos en ruido."
+    },
+    "La persona escucha con auriculares veintitrés tríos de dígitos en ruido; el resultado es una puntuación de cero a cien.",
+    "Una puntuación menor de cincuenta sugiere algún grado de pérdida auditiva, y se aconseja consultar a un profesional.",
+    "Con una puntuación de cincuenta a setenta y cinco, se aconseja repetir la prueba alrededor de una vez al año y protegerse de los sonidos fuertes.",
+    "Una puntuación mayor de setenta y cinco indica buena audición; se aconseja repetir la prueba cada año o cuando se note un cambio.",
+    "La aplicación está pensada para personas de doce años o más; su resultado no es un diagnóstico, sino una señal para derivar."
+   ]
+  },
+  {
+   "id": "basit",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "La prueba de dígitos en ruido",
+   "baslik": "Métodos *más simples*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Prueba de la voz susurrada",
+     "metin": "Desde atrás, un oído a la vez",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Una sola pregunta",
+     "metin": "¿Tiene un problema de audición?",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Limitación",
+     "metin": "No estandarizada, variable",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Cuando no se dispone de equipos, puede usarse la prueba de la voz susurrada.",
+    "El evaluador se coloca detrás de la persona, enmascara el otro oído y susurra números o letras.",
+    "En una revisión sistemática en adultos, su sensibilidad fue del noventa al cien por ciento y su especificidad, del setenta al ochenta y siete por ciento.",
+    "Vimos la sensibilidad y la especificidad en detalle en las lecciones de investigación; estos valores muestran que la prueba puede rendir bastante bien.",
+    "Simplemente preguntarle a la persona si tiene un problema de audición también es un primer paso sencillo pero valioso.",
+    "Pero la intensidad del susurro varía entre evaluadores, así que estos métodos no están estandarizados; si es posible, se prefiere la audiometría de tamizaje."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Expliquen a quien no pasó que el resultado no es un diagnóstico, solo una señal de que hace falta una evaluación completa, y planifiquen juntos la cita.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la clínica: el eslabón más débil del tamizaje en adultos es la persona que no pasa pero nunca acude a la evaluación diagnóstica.",
+    "Expliquen con calma y claridad que el resultado no es un diagnóstico; solo significa que hay que medir su audición en detalle.",
+    "Si es posible, planifiquen la cita juntos durante el tamizaje e involucren a alguien cercano a la persona.",
+    "En las personas con puntuaciones altas en el cuestionario, recordarles sus propias quejas aumenta su motivación para acudir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "_25 dB HL_ en 1, 2, 4 kHz",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "HHIE-S: 10 preguntas, de 0 a 40 puntos",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Prueba de dígitos: _URP_ en ruido",
+     "cumle": 2,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "No pasó: evaluación diagnóstica",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "La audiometría de tamizaje en adultos usa veinticinco decibeles HL en uno, dos y cuatro kilohertz en cada oído.",
+    {
+     "yazi": "El HHIE-S es un cuestionario breve de diez ítems; una puntuación mayor de ocho es un criterio habitual para una evaluación adicional."
+    },
+    {
+     "yazi": "La prueba de dígitos en ruido mide de forma adaptativa el umbral de recepción de la palabra en ruido; hearWHO usa esta tecnología."
+    },
+    "El tamizaje no diagnostica; quien no pasa o tiene quejas se deriva a una evaluación audiológica completa."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "HHIE-S de 14 puntos: ¿qué se aconseja?",
+   "secenekler": [
+    "El resultado es normal",
+    "Evaluación adicional",
+    "Solo cuestionario anual",
+    "La prueba no es válida"
+   ],
+   "dogru": 1,
+   "aciklama": "Una puntuación mayor de ocho es el criterio para una _evaluación adicional_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: un adulto mayor tiene una puntuación de catorce en el HHIE-S. Según el criterio habitual, ¿qué se aconseja?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: una evaluación adicional.",
+    "Una puntuación de catorce sugiere un handicap percibido leve a moderado; la persona se deriva a una evaluación audiológica completa."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cómo funcionan los audífonos: componentes *básicos*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección empezamos la sección de audífonos y conocemos los componentes básicos de un audífono.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

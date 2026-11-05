@@ -1,0 +1,1030 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D272_Case_One_Sided_Conductive_Loss_Type_B_ES",
+ "kapak": {
+  "ust": "LECCIÓN 272",
+  "baslik": "Caso: timpanograma<br>*tipo B*",
+  "alt": "Pérdida conductiva unilateral",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      35,
+      40,
+      35,
+      30,
+      30,
+      40
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      10,
+      10,
+      10,
+      15
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      10,
+      15
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Caso: conductiva unilateral con timpanograma plano | Lección 272 | AIHEAR Academia de Audiología",
+  "aciklama": "Analizamos paso a paso un caso ficticio de un adulto con hipoacusia conductiva unilateral: otoscopia, vía ósea enmascarada y meseta, logoaudiometría, interpretación del volumen del conducto auditivo con un timpanograma tipo B, el patrón de los reflejos acústicos, la derivación al otorrinolaringólogo y un ejemplo de redacción del informe.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Jerger, Clinical experience with impedance audiometry (1970); BSA, Recommended Procedure: Pure-tone Air-conduction and Bone-conduction Threshold Audiometry with and without Masking.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "timpanometria",
+   "casoclinico"
+  ],
+  "etiketler": [
+   "hipoacusia conductiva",
+   "timpanograma tipo B",
+   "timpanograma plano",
+   "volumen del conducto auditivo",
+   "otitis media con efusión",
+   "vía ósea enmascarada",
+   "método de la meseta",
+   "reflejo acústico",
+   "caso clínico de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 272",
+   "baslik": "Caso: pérdida *conductiva* unilateral",
+   "alt": "Timpanograma tipo B y volumen del conducto",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección analizamos paso a paso nuestro primer caso de adulto: una pérdida conductiva en un oído y un timpanograma tipo B.",
+    "Aplicaremos juntos la otoscopia, la vía ósea enmascarada, el volumen del conducto auditivo y los pasos de derivación e informe del audiólogo."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis y otoscopia",
+   "baslik": "Caso de ejemplo: *anamnesis*",
+   "maddeler": [
+    {
+     "metin": "Un adulto de ejemplo, de 34 años",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Plenitud_ en el oído derecho hace tres semanas",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Comenzó después de un resfriado",
+     "cumle": 2,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "_Sin_ dolor, secreción ni mareo",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Su propia voz resuena a la derecha",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "ostaki_borusu",
+      "metin": "trompa de Eustaquio",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "orta_kulak",
+      "cumle": 1
+     },
+     {
+      "parca": "ostaki_borusu",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Nuestro caso es totalmente ficticio; un adulto de treinta y cuatro años consulta por disminución de la audición en el oído derecho.",
+    "La molestia comenzó hace unas tres semanas con una sensación de plenitud y taponamiento en el oído.",
+    "En la anamnesis aparece un resfriado poco antes del inicio.",
+    "No hay dolor de oído, secreción, tinnitus ni mareo; tampoco hay cirugía de oído ni exposición al ruido.",
+    "La persona dice que su propia voz resuena en el oído derecho, una sensación que se describe a menudo en los problemas conductivos.",
+    "La anamnesis nos orienta, pero las decisiones siempre se basan en el conjunto de los hallazgos."
+   ]
+  },
+  {
+   "id": "otoskopi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis y otoscopia",
+   "baslik": "Otoscopia del *oído derecho*",
+   "cizim": "kulak_zari_otoskopik",
+   "ayar": {
+    "kulak": "sag",
+    "patoloji": {
+     "tur": "efuzyon",
+     "cumle": 2
+    }
+   },
+   "etiketler": [
+    {
+     "parca": "efuzyon",
+     "metin": "color ámbar detrás del tímpano",
+     "cumle": 2
+    },
+    {
+     "parca": "hava_sivi_seviyesi",
+     "metin": "nivel hidroaéreo",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kabarciklar",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Siempre comenzamos la evaluación con la otoscopia; el conducto auditivo y la membrana timpánica izquierdos se ven normales.",
+    "En el oído derecho el conducto está libre; no hay tapón de cerumen.",
+    "Detrás de la membrana timpánica se observa un aspecto amarillento, de color ámbar.",
+    "En la parte superior del tímpano se ven una delgada línea hidroaérea y algunas burbujas; el triángulo luminoso no es nítido.",
+    "Este aspecto sugiere líquido en el oído medio, pero la otoscopia también se interpreta junto con las pruebas, no de forma aislada.",
+    "En el informe describimos lo que vemos solo como un aspecto, sin hacer un diagnóstico."
+   ]
+  },
+  {
+   "id": "odyo1",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audiograma",
+   "baslik": "Tonos puros: el cuadro *sin enmascarar*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Derecho_: vía ósea sin enmascarar",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       40,
+       35,
+       30,
+       30,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       5,
+       10,
+       10
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "En la audiometría tonal, los umbrales por vía aérea derechos están entre 30 y 40 dB HL; la prueba se hace con auriculares supraaurales.",
+    "Los umbrales por vía aérea izquierdos están dentro de los límites normales.",
+    "Los umbrales por vía ósea derechos sin enmascarar están en el rango normal, entre 5 y 10 dB HL.",
+    "Es decir, hay una brecha aéreo-ósea de 20 a 30 dB en el oído derecho.",
+    "Primero, la regla de la vía aérea: la diferencia entre la vía aérea derecha y el oído izquierdo es de 30 dB como máximo, menos de cuarenta.",
+    "Por lo tanto, los umbrales por vía aérea derechos no necesitan enmascaramiento; pero la vía ósea es otra historia."
+   ]
+  },
+  {
+   "id": "plato",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audiograma",
+   "baslik": "Vía ósea: *enmascaramiento*",
+   "cizim": "plato_grafigi",
+   "ayar": {
+    "esik": 10,
+    "plato": [
+     25,
+     45
+    ],
+    "bolge_cumleleri": [
+     2,
+     4,
+     5
+    ],
+    "esik_cumle": 5
+   },
+   "vurgula": [
+    {
+     "parca": "plato",
+     "cumle": 4
+    },
+    {
+     "parca": "gercek_esik",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "AI de la vía ósea: cerca de _cero_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Enmascaramiento inicial: _25 dB EM_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Meseta: el umbral _no cambia_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "En la vía ósea, la atenuación interaural (AI) se considera cercana a cero; una respuesta sin enmascarar puede venir de la mejor de las dos cócleas.",
+    "Como la brecha aéreo-ósea es de 15 dB o más, la vía ósea derecha se mide de nuevo con ruido en el oído izquierdo.",
+    "Por ejemplo, en 1000 hertz el umbral por vía aérea izquierdo es de 5 dB HL; el enmascaramiento inicial está 10 dB por encima.",
+    "Como el auricular supraaural cubre el oído izquierdo, se suma una corrección por oclusión de 10 dB en 1000 hertz; el enmascaramiento inicial es de 25 dB EM.",
+    "Al subir el ruido paso a paso, el umbral por vía ósea derecho se mantiene en 10 dB HL; es decir, hay una meseta.",
+    "Este valor de meseta es el verdadero umbral por vía ósea de la cóclea derecha y se registra con el símbolo enmascarado."
+   ]
+  },
+  {
+   "id": "odyo2",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audiograma",
+   "baslik": "Tonos puros: el cuadro *enmascarado*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Derecho_: vía ósea enmascarada",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: normal",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Brecha aéreo-ósea _confirmada_",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       40,
+       35,
+       30,
+       30,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Después del enmascaramiento, los umbrales por vía ósea derechos están entre 10 y 15 dB HL; los marcamos con corchetes.",
+    "Los umbrales quedaron muy cerca de los valores sin enmascarar, así que las respuestas por vía ósea realmente vienen de la cóclea derecha.",
+    "El oído izquierdo está dentro de los límites normales en todas las frecuencias.",
+    "El oído derecho tiene una brecha aéreo-ósea de unos 15 a 30 dB, confirmada con enmascaramiento.",
+    "El promedio de tonos puros, la media de 500, 1000 y 2000 hertz, es de 35 dB HL; corresponde a un grado leve.",
+    "El cuadro es compatible con una hipoacusia conductiva leve en el oído derecho."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audiograma",
+   "baslik": "Logoaudiometría y *diapasones*",
+   "maddeler": [
+    {
+     "metin": "URP derecho 35 dB HL: _igual_ al PTP",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Reconocimiento derecho 96 %: _bueno_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Oído izquierdo _enmascarado_ en la prueba de palabras",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Weber _a la derecha_, Rinne negativo derecho",
+     "cumle": 4,
+     "ikon": "diyapazon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "diyapazon",
+    "cumle": 4,
+    "ayar": {
+     "test": "weber"
+    },
+    "vurgula": [
+     {
+      "parca": "alin",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "El umbral de recepción de la palabra (URP) derecho es de 35 dB HL; coincide exactamente con el promedio de tonos puros (PTP).",
+    "El reconocimiento de palabras derecho es del 96 por ciento; en la pérdida conductiva, se suele entender bien cuando el sonido es lo bastante fuerte.",
+    "Como la prueba de palabras se hizo a 75 dB HL, se enmascaró el oído izquierdo para evitar la audición cruzada hacia el oído opuesto.",
+    "En el oído izquierdo, el URP es de 10 dB HL y el reconocimiento de palabras es del 100 por ciento.",
+    "En la prueba de Weber con diapasón, el sonido se lateraliza a la derecha, el oído afectado; la prueba de Rinne es negativa a la derecha.",
+    "Los hallazgos con diapasón apuntan en la misma dirección que el audiograma; que las pruebas se confirmen entre sí es el principio de verificación cruzada."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Inmitancia",
+   "baslik": "Timpanograma: *tipo B* a la derecha",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0,
+      "kulak": "sol"
+     },
+     {
+      "tip": "B",
+      "cumle": 1,
+      "kulak": "sag"
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Izquierdo: _tipo A_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Derecho: _tipo B_, sin pico",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "ECV derecho: _1,0 mL_, normal",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Pasemos a los hallazgos de inmitancia; el oído izquierdo tiene un timpanograma tipo A con un pico de altura normal cerca de la presión cero.",
+    "En el oído derecho la curva es plana; no se forma un pico claro al cambiar la presión, es decir, es un timpanograma tipo B.",
+    "Una curva tipo B tiene más de un significado, así que el primer paso es mirar el volumen del conducto auditivo externo (ECV).",
+    "El ECV derecho es de un mililitro; el izquierdo es similar, de 0,9 mililitros.",
+    "En los adultos, el ECV es de aproximadamente 0,6 a 1,5 mililitros, así que el volumen del oído derecho está en el rango normal.",
+    "Una curva tipo B con volumen normal sugiere un tímpano íntegro con un espacio inmóvil detrás."
+   ]
+  },
+  {
+   "id": "ecv",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Inmitancia",
+   "baslik": "¿Qué nos dice el *volumen* en el tipo B?",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Volumen normal",
+     "metin": "Tímpano íntegro, líquido en oído medio",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Volumen grande",
+     "metin": "Perforación o tubo permeable",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Volumen pequeño",
+     "metin": "Cerumen o sonda contra la pared",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Si el volumen es normal para la edad con una curva tipo B, la posibilidad más frecuente es una efusión del oído medio, es decir, líquido en el oído medio.",
+    "En nuestro caso, la otoscopia también muestra un aspecto de líquido detrás del tímpano, así que los hallazgos se apoyan entre sí.",
+    "Si el volumen es claramente grande, por ejemplo de unos tres mililitros, el tono de sonda está pasando por una abertura hacia el oído medio.",
+    "En ese caso se considera una perforación o un tubo de ventilación permeable; en la otoscopia se busca una abertura en el tímpano.",
+    "Si el volumen es muy pequeño, la punta de la sonda puede estar contra la pared del conducto, o el conducto puede estar obstruido por cerumen.",
+    "Por eso, informar una curva tipo B sin mirar su volumen es una interpretación incompleta."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Inmitancia",
+   "baslik": "*Reflejos* acústicos",
+   "sutunlar": [
+    "Medida",
+    "Estímulo",
+    "Sonda",
+    "Reflejo"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Ipsi derecho",
+      "Derecho",
+      "Derecho",
+      "Ausente"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Contra izquierdo",
+      "Izquierdo",
+      "Derecho",
+      "Ausente"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Contra derecho",
+      "Derecho",
+      "Izquierdo",
+      "Ausente"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Ipsi izquierdo",
+      "Izquierdo",
+      "Izquierdo",
+      "85 dB HL"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Leemos los resultados del reflejo acústico nombrándolos según el oído que recibe el estímulo.",
+    "Con la sonda en el oído derecho, en la medida ipsilateral derecha, no hay reflejo; un oído medio lleno de líquido no muestra cambio de admitancia.",
+    "El reflejo contralateral izquierdo, con el estímulo a la izquierda y la sonda a la derecha, está ausente por la misma razón.",
+    "Con el estímulo a la derecha y la sonda a la izquierda, el reflejo también está ausente; la pérdida conductiva derecha reduce el nivel que llega a la cóclea.",
+    "Con la sonda y el estímulo a la izquierda, el reflejo está presente a 85 dB HL, el nivel esperado.",
+    "Este es el patrón típico de un problema conductivo unilateral: no hay reflejo cuando el oído afectado tiene la sonda o recibe el estímulo."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación y derivación",
+   "baslik": "*Integrar* los hallazgos",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia",
+     "metin": "Líquido detrás del tímpano",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiograma",
+     "metin": "Conductiva leve",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Inmitancia",
+     "metin": "Tipo B, ECV normal",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Interpretación",
+     "metin": "Compatible con efusión",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La otoscopia muestra un aspecto de líquido detrás del tímpano derecho.",
+    "El audiograma muestra una pérdida conductiva leve a la derecha, una brecha aéreo-ósea confirmada con enmascaramiento y un buen reconocimiento de palabras.",
+    "La inmitancia muestra un timpanograma tipo B derecho con volumen normal y reflejos compatibles con un patrón conductivo unilateral.",
+    "En conjunto, estos hallazgos son compatibles con una efusión del oído medio; es una interpretación, y el diagnóstico lo hace el médico.",
+    "Como la vía ósea derecha es normal, estas pruebas no muestran un problema del oído interno."
+   ]
+  },
+  {
+   "id": "yonlendir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación y derivación",
+   "baslik": "Lo que *hace* el audiólogo",
+   "maddeler": [
+    {
+     "metin": "Derivación al otorrinolaringólogo",
+     "cumle": 0,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Hallazgos escritos por completo",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Efusión unilateral persistente: _señalarla_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Prueba de control_ después del tratamiento",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "hekim",
+      "baslik": "Derivar",
+      "metin": "Otorrinolaringólogo",
+      "cumle": 0
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Documentar",
+      "metin": "Con valores",
+      "cumle": 1
+     },
+     {
+      "ikon": "takvim",
+      "baslik": "Seguir",
+      "metin": "Repetir la prueba",
+      "cumle": 4
+     }
+    ],
+    "ust": "NUESTRO PAPEL"
+   },
+   "cumleler": [
+    "El primer paso del audiólogo es derivar a la persona, con los hallazgos, a un médico otorrinolaringólogo (ORL).",
+    "La nota de derivación incluye el aspecto otoscópico, el audiograma, los valores del timpanograma y del ECV, y los hallazgos de los reflejos.",
+    "En un adulto, una efusión unilateral que no se resuelve puede requerir que el médico investigue más a fondo su causa.",
+    "Por eso, la duración y el carácter unilateral se indican claramente en la nota; decisiones como examinar la nasofaringe corresponden al médico.",
+    "El médico decide el tratamiento; el audiólogo no recomienda medicamentos ni procedimientos y solo explica por qué importa la prueba de control.",
+    "Después de la evaluación médica, un audiograma y un timpanograma de control documentan la recuperación."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Con una curva tipo B, revisa primero el volumen y luego compáralo con la otoscopia. Si no coinciden, vuelve a colocar la sonda.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: cuando veas una curva plana, revisa el volumen antes de interpretarla.",
+    "Si el volumen es muy pequeño, revisa la punta de la sonda y, si hace falta, mide de nuevo con una punta mejor ajustada y el ángulo correcto.",
+    "Luego compara con tu otoscopia; un aspecto de líquido en la otoscopia y una curva tipo B con volumen normal se apoyan entre sí.",
+    "Si los hallazgos no coinciden, repetir la medición siempre es mejor que escribir una nota de derivación equivocada."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación y derivación",
+   "baslik": "Ejemplo de redacción del *informe*",
+   "maddeler": [
+    {
+     "metin": "Derecho: hipoacusia conductiva leve",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Derecho: tipo B, ECV 1,0 mL",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Reflejos: ausentes con sonda derecha",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Comentario: puede ser compatible con efusión",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Recomendación: ORL, luego nueva prueba",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        35,
+        40,
+        35,
+        30,
+        30,
+        40
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sag",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        10,
+        10,
+        10,
+        10,
+        15
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "aralik": {
+      "konum": [
+       1,
+       10,
+       40
+      ],
+      "etiket": "30 dB"
+     }
+    }
+   },
+   "cumleler": [
+    "En un informe de ejemplo, el resultado tonal podría decir: hipoacusia conductiva leve en el oído derecho, oído izquierdo dentro de los límites normales.",
+    "Sección de inmitancia: timpanograma tipo B derecho, volumen del conducto auditivo de un mililitro; timpanograma tipo A izquierdo.",
+    "Sección de reflejos: ausentes con la sonda en el oído derecho y con estimulación derecha; reflejo ipsilateral izquierdo en el nivel esperado.",
+    "Comentario: los hallazgos pueden ser compatibles con líquido en el oído medio derecho; la vía ósea es normal en ambos oídos.",
+    "Recomendación: evaluación otorrinolaringológica, y audiograma y timpanometría de control en el momento que indique el médico.",
+    "El informe también indica el tipo de auricular usado y los niveles de enmascaramiento."
+   ]
+  },
+  {
+   "id": "kontrol",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación y derivación",
+   "baslik": "El *oído derecho* en el control",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 60,
+     "adim": 10,
+     "ad": "Nivel de audición (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "ilk",
+      "noktalar": [
+       [
+        250,
+        35
+       ],
+       [
+        500,
+        40
+       ],
+       [
+        1000,
+        35
+       ],
+       [
+        2000,
+        30
+       ],
+       [
+        4000,
+        30
+       ],
+       [
+        8000,
+        40
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "derecho: primera prueba",
+      "cumle": 1,
+      "kesik": true
+     },
+     {
+      "ad": "kontrol",
+      "noktalar": [
+       [
+        250,
+        15
+       ],
+       [
+        500,
+        15
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "derecho: control",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "duzelme",
+      "y": [
+       35,
+       10
+      ],
+      "xk": 1000,
+      "etiket": "25 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Mismos auriculares, _mismo método_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "La brecha se _cerró_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Timpanograma: _tipo A_",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Veamos una prueba de control de ejemplo, hecha unas semanas después de la evaluación médica.",
+    "La línea roja discontinua muestra los primeros umbrales por vía aérea derechos, y la línea verde, los umbrales del control.",
+    "Los umbrales por vía aérea derechos volvieron a estar entre 10 y 20 dB HL; la vía ósea está en el mismo nivel.",
+    "En 1000 hertz hay una mejoría de 25 dB; la brecha aéreo-ósea se cerró.",
+    "Ahora el timpanograma es tipo A, y los reflejos están presentes con la sonda en el oído derecho.",
+    "Si no hubiera habido mejoría, esto también se habría informado al médico con la misma claridad."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Primero otoscopia, luego vía ósea enmascarada",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Volumen en tipo B: líquido, abertura u obstrucción",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Integrar hallazgos; el médico diagnostica",
+     "cumle": 2,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Informe con valores, planificar control",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Para confirmar una pérdida conductiva, la brecha aéreo-ósea se mide con vía ósea enmascarada.",
+    "Con un timpanograma tipo B, el volumen del conducto guía la interpretación: normal sugiere líquido; grande, una abertura; pequeño, una obstrucción.",
+    "La otoscopia, el audiograma y la inmitancia se interpretan juntos; las decisiones de diagnóstico y tratamiento corresponden al médico.",
+    "El informe incluye los valores medidos, la persona se deriva al otorrinolaringólogo y se planifica una prueba de control."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Tipo B derecho, ECV 3,2 mL. ¿Qué se considera?",
+   "secenekler": [
+    "Líquido en el oído medio",
+    "Perforación o tubo permeable",
+    "Punta de sonda obstruida",
+    "Oído medio normal"
+   ],
+   "dogru": 1,
+   "aciklama": "El volumen es muy grande: el tono de sonda llega al oído medio _por una abertura en el tímpano_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: un adulto tiene un timpanograma tipo B derecho con un volumen del conducto auditivo de 3,2 mililitros. ¿Qué se considera?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: una perforación o un tubo de ventilación permeable.",
+    "El volumen está muy por encima del rango del adulto; a través de una abertura en el tímpano, el tono de sonda también mide el oído medio."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Caso: brecha aéreo-ósea y muesca de *Carhart*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En el próximo caso veremos a un adulto con una brecha aéreo-ósea a pesar de un timpanograma normal.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

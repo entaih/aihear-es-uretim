@@ -1,0 +1,902 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D227_Calculating_Hearing_Handicap_ES",
+ "kapak": {
+  "ust": "LECCIÓN 227",
+  "baslik": "*Porcentaje* de<br>pérdida auditiva",
+  "alt": "Evaluación médico-legal",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 110,
+    "ad": "Promedio de cuatro frecuencias (dB HL)",
+    "isaretler": [
+     0,
+     25,
+     45,
+     65,
+     92,
+     110
+    ]
+   },
+   "y": {
+    "min": 0,
+    "max": 100,
+    "adim": 20,
+    "ad": "Porcentaje monoaural"
+   },
+   "seriler": [
+    {
+     "ad": "yuzde",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       25,
+       0
+      ],
+      [
+       45,
+       30
+      ],
+      [
+       65,
+       60
+      ],
+      [
+       91.7,
+       100
+      ],
+      [
+       110,
+       100
+      ]
+     ],
+     "renk": "mavi",
+     "kalin": true,
+     "cumle": 1
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "alt_sinir",
+     "x": 25,
+     "y": 0,
+     "cizgi": "dikey",
+     "etiket": "límite inferior: 25 dB",
+     "cumle": 1
+    },
+    {
+     "ad": "ornek",
+     "x": 45,
+     "y": 30,
+     "dus": "xy",
+     "etiket": "45 dB: 30 %",
+     "cumle": 3
+    },
+    {
+     "ad": "ust_sinir",
+     "x": 91.7,
+     "y": 100,
+     "cizgi": "dikey",
+     "etiket": "límite superior: cerca de 92 dB",
+     "cumle": 4
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "kayip_yok",
+     "x": [
+      0,
+      25
+     ],
+     "renk": "gri",
+     "etiket": "0 %",
+     "cumle": 1
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Medicina legal: cálculo de la discapacidad auditiva | Lección 227 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo se convierte una pérdida auditiva en un solo porcentaje? En esta lección vemos el método AAO de 1979, el límite inferior de 25 dB y la regla del 1,5 % por decibel, la fórmula binaural, ejemplos resueltos y la confiabilidad de los umbrales en la evaluación médico-legal. Los cálculos son ejemplos; las calificaciones oficiales se rigen por la normativa vigente.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: American Academy of Otolaryngology, Guide for the Evaluation of Hearing Handicap, JAMA (1979); American Medical Association, Guides to the Evaluation of Permanent Impairment; Dobie, Medical-Legal Evaluation of Hearing Loss; Katz, Handbook of Clinical Audiology; Organización Mundial de la Salud, International Classification of Impairments, Disabilities, and Handicaps (1980).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "medicinalegal",
+   "perdidaauditiva"
+  ],
+  "etiketler": [
+   "minusvalía auditiva",
+   "porcentaje de pérdida auditiva",
+   "evaluación médico-legal",
+   "AAO-1979",
+   "límite inferior 25 dB",
+   "deficiencia auditiva binaural",
+   "deficiencia auditiva monoaural",
+   "seudohipoacusia",
+   "hipoacusia inducida por ruido",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 227",
+   "baslik": "Cálculo del *porcentaje* de pérdida auditiva",
+   "alt": "Bases de la evaluación médico-legal",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo una pérdida auditiva se convierte en un porcentaje numérico, la base de la evaluación médico-legal.",
+    "Veremos el método de la Academia Estadounidense de Otorrinolaringología, el límite inferior, el cálculo binaural y puntos clave de la evaluación."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos",
+   "baslik": "¿Por qué un *porcentaje?*",
+   "ogeler": [
+    {
+     "ikon": "is_yeri",
+     "baslik": "Enfermedad profesional",
+     "metin": "Indemnización y seguros",
+     "cumle": 0
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Certificado de discapacidad",
+     "metin": "Derechos y apoyos",
+     "cumle": 1
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Tribunales y peritos",
+     "metin": "Procesos judiciales",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Cuando la pérdida auditiva de alguien que trabaja con ruido se evalúa como enfermedad profesional, su magnitud se expresa con un número.",
+    "Los certificados de discapacidad, los seguros y los apoyos sociales también exigen convertir la pérdida auditiva en una calificación.",
+    "Los tribunales y los peritos hacen la misma pregunta: ¿en qué porcentaje afecta esta pérdida a la vida de la persona?",
+    "Un audiograma contiene muchos valores en decibeles, mientras que la ley necesita un solo número.",
+    "Calcular el porcentaje de pérdida auditiva es el método que convierte el audiograma en una sola calificación con reglas definidas.",
+    "Esta conversión usa una fórmula estándar, para que todos lleguen al mismo resultado con el mismo audiograma."
+   ]
+  },
+  {
+   "id": "terim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos",
+   "baslik": "Deficiencia, discapacidad, *minusvalía*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Deficiencia",
+     "metin": "Pérdida de función del órgano",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Discapacidad",
+     "metin": "Dificultad en las actividades",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Minusvalía",
+     "metin": "Desventaja en la vida",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En la clasificación de 1980 de la Organización Mundial de la Salud, la deficiencia es una pérdida en la estructura o la función de un órgano."
+    },
+    "En la audición, la deficiencia es la elevación de los umbrales en el audiograma.",
+    "La discapacidad es la dificultad que esa pérdida causa en las actividades diarias, como entender el habla.",
+    "La minusvalía es la desventaja que vive la persona como resultado, en el trabajo y en la vida social.",
+    {
+     "yazi": "En el método de 1979 de la Academia Estadounidense de Otorrinolaringología, el resultado se daba como minusvalía auditiva."
+    },
+    {
+     "yazi": "Las guías de evaluación de la Asociación Médica Estadounidense, o AMA, usan el mismo cálculo con el nombre de deficiencia auditiva."
+    },
+    "Los términos cambian, pero el método numérico es el mismo; la fórmula intenta estimar el efecto en la vida diaria a partir de los umbrales."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos",
+   "baslik": "*Historia* de la fórmula",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "1959",
+     "metin": "500, 1000, 2000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "1979",
+     "metin": "Se agregan 3000 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "¿Por qué?",
+     "metin": "Habla en ruido",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El método anterior, de 1959, usaba solo el promedio de quinientos, mil y dos mil hertz."
+    },
+    {
+     "yazi": "En 1979, la Academia Estadounidense de Otorrinolaringología, o AAO, agregó tres mil hertz al promedio."
+    },
+    "En la pérdida inducida por ruido, los umbrales suben sobre todo entre tres mil y seis mil hertz.",
+    "Agregar tres mil hertz reconoció que estas pérdidas dificultan entender el habla, sobre todo en ruido.",
+    {
+     "yazi": "El método se usa casi sin cambios desde 1979, y las guías de la AMA también lo adoptan."
+    }
+   ]
+  },
+  {
+   "id": "adim",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "El método AAO de 1979",
+   "baslik": "*Cuatro pasos* del cálculo",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Promediar",
+     "metin": "500, 1000, 2000, 3000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Restar 25",
+     "metin": "Límite inferior",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Multiplicar por 1,5",
+     "metin": "Porcentaje monoaural",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Ambos oídos",
+     "metin": "Mejor oído por 5",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En el primer paso, se toma para cada oído el promedio de los umbrales por vía aérea en 500, 1000, 2000 y 3000 Hz."
+    },
+    "Es un promedio de cuatro frecuencias, distinto del promedio de tonos puros de tres frecuencias que vimos antes.",
+    "En el segundo paso, se restan veinticinco decibeles al promedio; este valor se llama límite inferior.",
+    "En el tercer paso, el resto se multiplica por uno y medio; el resultado es el porcentaje de pérdida de ese oído.",
+    "Si el promedio es de veinticinco decibeles o mejor, el porcentaje de ese oído se toma como cero.",
+    "En el cuarto paso, los porcentajes de los dos oídos se combinan con una fórmula que da más peso al mejor oído."
+   ]
+  },
+  {
+   "id": "grafik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El método AAO de 1979",
+   "baslik": "De decibeles a *porcentaje*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 110,
+     "ad": "Promedio de cuatro frecuencias (dB HL)",
+     "isaretler": [
+      0,
+      25,
+      45,
+      65,
+      92,
+      110
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Porcentaje monoaural"
+    },
+    "seriler": [
+     {
+      "ad": "yuzde",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        25,
+        0
+       ],
+       [
+        45,
+        30
+       ],
+       [
+        65,
+        60
+       ],
+       [
+        91.7,
+        100
+       ],
+       [
+        110,
+        100
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "alt_sinir",
+      "x": 25,
+      "y": 0,
+      "cizgi": "dikey",
+      "etiket": "límite inferior: 25 dB",
+      "cumle": 1
+     },
+     {
+      "ad": "ornek",
+      "x": 45,
+      "y": 30,
+      "dus": "xy",
+      "etiket": "45 dB: 30 %",
+      "cumle": 3
+     },
+     {
+      "ad": "ust_sinir",
+      "x": 91.7,
+      "y": 100,
+      "cizgi": "dikey",
+      "etiket": "límite superior: cerca de 92 dB",
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "kayip_yok",
+      "x": [
+       0,
+       25
+      ],
+      "renk": "gri",
+      "etiket": "0 %",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "1,5 % por cada dB",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "92 dB: 100 %",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Este gráfico muestra la relación entre el promedio de cuatro frecuencias y el porcentaje monoaural.",
+    "Los promedios de hasta veinticinco decibeles cuentan como cero por ciento; a ese nivel la fórmula no prevé dificultad clara con el habla cotidiana.",
+    "Cada decibel por encima de veinticinco suma uno y medio por ciento.",
+    "Por ejemplo, un promedio de cuarenta y cinco decibeles está veinte decibeles por encima de veinticinco; veinte por uno y medio da treinta por ciento.",
+    "El cien por ciento se alcanza cuando el promedio llega a unos noventa y dos decibeles; esto se llama límite superior.",
+    "Por qué el límite inferior es de veinticinco decibeles se ha debatido; algunos expertos propusieron un límite más alto y otros, uno más bajo."
+   ]
+  },
+  {
+   "id": "iki_kulak",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El método AAO de 1979",
+   "baslik": "La *fórmula* binaural",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "ad": "",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "better ear",
+      "2": "poorer ear",
+      "1": "mejor oído",
+      "2": "peor oído"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 6,
+     "adim": 1,
+     "ad": "Peso"
+    },
+    "seriler": [
+     {
+      "ad": "iyi",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        5
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "5 veces",
+      "cumle": 1
+     },
+     {
+      "ad": "kotu",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        1
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "1 vez",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "iyi",
+     "cumle": 2
+    },
+    {
+     "parca": "kotu",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "(5 x mejor + peor) / 6",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Nos apoyamos en el mejor oído",
+     "cumle": 2,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "La deficiencia binaural es el promedio ponderado de los porcentajes de los dos oídos.",
+    "El porcentaje del mejor oído se multiplica por cinco, se le suma el porcentaje del peor oído y el total se divide entre seis.",
+    "La lógica de la fórmula es esta: en la vida diaria, la persona se apoya más en el oído que oye mejor.",
+    "Por eso, incluso una pérdida pequeña en el mejor oído cambia claramente el resultado.",
+    "Una pérdida en el peor oído, en cambio, se refleja menos en el resultado.",
+    "Una consecuencia de esta fórmula aparece en la pérdida unilateral total, que veremos en breve."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Ejemplos resueltos",
+   "baslik": "Ejemplo: pérdida *inducida por ruido*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: promedio 35 dB",
+     "cumle": 2
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: promedio 45 dB",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "frekanslar": [
+     250,
+     500,
+     1000,
+     2000,
+     3000,
+     4000,
+     6000,
+     8000
+    ],
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       25,
+       40,
+       55,
+       65,
+       60,
+       45
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       30,
+       35,
+       50,
+       65,
+       70,
+       65,
+       55
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Límite inferior",
+     "cumle": 4
+    }
+   },
+   "cumleler": [
+    "Ahora hagamos el cálculo con un audiograma solo ilustrativo; imaginemos a una persona que trabajó muchos años en un empleo ruidoso.",
+    "Ambos oídos tienen una pérdida neurosensorial de alta frecuencia, más marcada cerca de cuatro mil hertz; la vía ósea coincide con la vía aérea.",
+    {
+     "yazi": "En el oído derecho, los umbrales en 500, 1000, 2000 y 3000 Hz son 20, 25, 40 y 55 decibeles; el promedio es de 35 decibeles."
+    },
+    {
+     "yazi": "En el oído izquierdo se midieron 30, 35, 50 y 65 decibeles en las mismas frecuencias; el promedio es de 45 decibeles."
+    },
+    "La zona sombreada muestra los umbrales hasta el límite inferior de veinticinco decibeles.",
+    "La pérdida en cuatro mil y seis mil hertz no entra en el cálculo; esta es una de las limitaciones conocidas del método."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Ejemplos resueltos",
+   "baslik": "Un *cálculo* resuelto",
+   "sutunlar": [
+    "Paso",
+    "Derecho",
+    "Izquierdo"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Promedio de cuatro frecuencias",
+      "35 dB",
+      "45 dB"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Restar 25",
+      "10",
+      "20"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Multiplicar por 1,5",
+      "15 %",
+      "30 %"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Ambos oídos",
+      "17,5 %",
+      ""
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Vamos paso a paso: el promedio del oído derecho es de treinta y cinco decibeles, y el del izquierdo, de cuarenta y cinco.",
+    "Al restar veinticinco a cada uno quedan diez decibeles a la derecha y veinte a la izquierda.",
+    "Al multiplicar por uno y medio se obtiene quince por ciento para el oído derecho y treinta por ciento para el izquierdo.",
+    "Para ambos oídos, el mejor oído es el derecho: quince por cinco es setenta y cinco; más los treinta del izquierdo, ciento cinco.",
+    "Al dividir ciento cinco entre seis se obtiene una deficiencia binaural de diecisiete y medio por ciento.",
+    "Cómo afecta este resultado a la situación legal de la persona depende de la legislación correspondiente y de las juntas autorizadas."
+   ]
+  },
+  {
+   "id": "tek_taraf",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Ejemplos resueltos",
+   "baslik": "Pérdida *unilateral* total",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Mejor oído",
+     "metin": "0 %",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Peor oído",
+     "metin": "100 %",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Resultado",
+     "metin": "Cerca de 16,7 %",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En el segundo ejemplo, supongamos que un oído es completamente normal y el otro tiene una pérdida profunda.",
+    "El oído normal se calcula como cero por ciento, y el oído con la pérdida, como cien por ciento.",
+    "Según la fórmula, cero por cinco es cero; se suma cien, y el total se divide entre seis.",
+    "El resultado es de unos dieciséis coma siete por ciento.",
+    "Así, con este método, la pérdida total de la audición en un oído equivale solo a cerca de un sexto en la calificación binaural.",
+    "Las dificultades que tienen las personas con pérdida unilateral en ruido y para localizar sonidos no se reflejan del todo en este número."
+   ]
+  },
+  {
+   "id": "tutarlilik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Precauciones médico-legales",
+   "baslik": "Primero, umbrales *confiables*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Concordancia entre URP y PTP",
+     "metin": "Dentro de unos 10 dB",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Test-retest",
+     "metin": "Umbrales consistentes",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Pruebas objetivas",
+     "metin": "PEATC, PEAEE, reflejos",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Inconsistencia",
+     "metin": "Sospecha de seudohipoacusia",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la evaluación médico-legal, una pérdida puede parecer mayor de lo que realmente es; lo vimos en la lección sobre seudohipoacusia.",
+    "Por eso primero se verifica la confiabilidad: el umbral de recepción de la palabra y el promedio de tonos puros suelen diferir diez decibeles o menos.",
+    "Los umbrales repetidos en la misma sesión o en días distintos deben ser parecidos entre sí.",
+    "Los umbrales se confirman de forma objetiva con reflejos acústicos, otoemisiones y, si hace falta, potenciales de tronco cerebral o de estado estable.",
+    "Si hay inconsistencia, no se hace ningún cálculo; primero se buscan los umbrales verdaderos.",
+    "Un hallazgo de inconsistencia no se usa para culpar a la persona, sino para llegar al resultado correcto, y se informa con lenguaje neutral."
+   ]
+  },
+  {
+   "id": "kosul",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Precauciones médico-legales",
+   "baslik": "*Condiciones* de la prueba",
+   "maddeler": [
+    {
+     "metin": "Reposo auditivo previo",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Certificado de calibración vigente",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Sin audífonos, enmascaramiento según reglas",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Informe detallado y neutral",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "odyometre",
+      "baslik": "Calibración",
+      "metin": "Fecha y certificado",
+      "cumle": 1
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Informe",
+      "metin": "Valores brutos y cálculo",
+      "cumle": 4
+     }
+    ],
+    "ust": "DOCUMENTACIÓN"
+   },
+   "cumleler": [
+    "Para evitar un desplazamiento temporal del umbral por ruido, la persona debe estar alejada del ruido el tiempo suficiente antes de la prueba.",
+    "La calibración del audiómetro debe estar vigente y documentada; en un informe médico-legal, este certificado puede cuestionarse.",
+    "Los umbrales se miden sin audífonos, aplicando enmascaramiento según las reglas siempre que haga falta.",
+    "También se miden los umbrales por vía ósea, porque una pérdida conductiva tiene otra causa y otra interpretación.",
+    "El informe indica con claridad las condiciones de la prueba, el método usado, los umbrales brutos y los pasos del cálculo."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Precauciones médico-legales",
+   "baslik": "*Límites* del método",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Sin 4000 Hz",
+     "metin": "Pérdida en agudos poco representada",
+     "cumle": 0
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Corrección por edad",
+     "metin": "Varía según el país",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Pérdida unilateral",
+     "metin": "El impacto parece pequeño",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Legislación",
+     "metin": "Varía según el país",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Como el método ignora cuatro mil hertz y más, a menudo califica como cero por ciento una pérdida temprana inducida por ruido.",
+    "La fórmula se basa en los umbrales; no mide directamente quejas como entender el habla en ruido o el tinnitus.",
+    "Si se descuenta o no una parte por pérdida relacionada con la edad varía entre países y sistemas.",
+    "Como vimos, el impacto real de las pérdidas unilaterales parece pequeño en la fórmula.",
+    "Los países usan métodos distintos; en Turquía, las calificaciones oficiales siguen la normativa vigente, y conviene consultar la legislación actual.",
+    "En esta lección usamos como ejemplo el método más citado en la literatura internacional, para aprender la lógica del cálculo."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En un informe médico-legal, no escribas solo el resultado: anota los umbrales brutos, las condiciones de la prueba y cada paso del cálculo. Si los umbrales son inconsistentes, no calcules.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: los informes médico-legales pueden ser revisados de nuevo por otros expertos años después.",
+    "Por eso, escriban no solo el porcentaje final, sino también los umbrales brutos, la fórmula usada y cada paso del cálculo.",
+    "Registren también las condiciones de la prueba, la colaboración de la persona y los resultados de los controles de consistencia.",
+    "Si los umbrales son inconsistentes, no calculen un porcentaje; primero planifiquen más pruebas para llegar a umbrales confiables."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Promedio: 500, 1000, 2000, 3000 Hz",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Límite inferior 25 dB, 1,5 % por dB",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ambos oídos: mejor oído por cinco",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Primero, umbrales confiables",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En el método AAO de 1979, se toma para cada oído el promedio de los umbrales en 500, 1000, 2000 y 3000 Hz."
+    },
+    "Se restan veinticinco decibeles y el resto se multiplica por uno y medio; el cien por ciento se alcanza en unos noventa y dos decibeles.",
+    "Para la calificación binaural, el porcentaje del mejor oído se multiplica por cinco, se suma al del peor oído y se divide entre seis.",
+    "En la evaluación médico-legal, primero se confirma la confiabilidad de los umbrales; las calificaciones oficiales las fija la normativa vigente."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Si el oído derecho es 10 % y el izquierdo 40 %, ¿cuál es la calificación binaural?",
+   "secenekler": [
+    "15 %",
+    "25 %",
+    "10 %",
+    "40 %"
+   ],
+   "dogru": 0,
+   "aciklama": "El mejor oído se multiplica por cinco: 10 x 5 = 50; 50 + 40 = 90; 90 / 6 = 15 %.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si el oído derecho de una persona es diez por ciento y el izquierdo cuarenta por ciento, ¿cuál es la deficiencia binaural?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: quince por ciento.",
+    "El porcentaje del mejor oído por cinco da cincuenta; más cuarenta da noventa, y al dividir entre seis se obtiene quince por ciento."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Farmacología* básica para audiólogos",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección comenzamos la sección de ototoxicidad y veremos las bases de la farmacología para audiólogos.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,701 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D250_Active_Middle_Ear_Implants_ES",
+ "kapak": {
+  "ust": "LECCIÓN 250",
+  "baslik": "Implantes activos<br>de *oído medio*",
+  "alt": "Vibración entregada directamente a los huesecillos",
+  "cizim": "orta_kulak",
+  "vurgula": [
+   "incus"
+  ]
+ },
+ "youtube": {
+  "baslik": "Implantes activos de oído medio | Lección 250 | AIHEAR Academia de Audiología",
+  "aciklama": "Los implantes activos de oído medio no entregan el sonido amplificado en el conducto auditivo, sino como vibración a los huesecillos o a la ventana redonda. En esta lección vemos los transductores electromagnéticos y piezoeléctricos, los sistemas semiimplantables y totalmente implantables, la vibroplastia de ventana redonda, los criterios de candidatura, las ventajas y las limitaciones.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Dillon, Hearing Aids; Colletti et al., Treatment of mixed hearing losses via implantation of a vibratory transducer on the round window, International Journal of Audiology (2006); Shohet and Bibee, New considerations for a totally implantable active middle ear implant, Frontiers in Neurology (2021).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "implanteoidomedio",
+   "implantesauditivos"
+  ],
+  "etiketler": [
+   "implante activo de oído medio",
+   "AMEI",
+   "transductor de masa flotante",
+   "vibroplastia de ventana redonda",
+   "transductor piezoeléctrico",
+   "implante auditivo totalmente implantable",
+   "hipoacusia mixta",
+   "implantes auditivos",
+   "cadena osicular",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 250",
+   "baslik": "Implantes activos de *oído medio*",
+   "alt": "Dispositivos que hacen vibrar directamente los huesecillos",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos los implantes que entregan el sonido como vibración a los huesecillos o a las ventanas del oído interno, no al conducto auditivo.",
+    "Hablaremos de cómo funcionan, los sitios de fijación, los criterios de candidatura, las ventajas y las limitaciones."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Cómo funciona",
+   "baslik": "*Vibración* en lugar de sonido",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 2,
+     "olcek": 2.3
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    },
+    {
+     "parca": "kemikcikler",
+     "cumle": 3
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "timpanik_membran",
+     "metin": "Membrana timpánica",
+     "cumle": 1
+    },
+    {
+     "parca": "incus",
+     "metin": "Yunque",
+     "cumle": 3
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Ventana redonda",
+     "cumle": 3
+    },
+    {
+     "parca": "donusturucu",
+     "metin": "Transductor vibratorio",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Un audífono convencional capta el sonido, lo amplifica y lo entrega en el conducto auditivo, de nuevo como sonido.",
+    "Este sonido llega al oído interno haciendo vibrar la membrana timpánica y la cadena osicular.",
+    "Un implante activo de oído medio, en cambio, convierte directamente la señal amplificada en vibración mecánica.",
+    "Esta vibración se aplica a la cadena osicular o a una de las ventanas del oído interno.",
+    "Así, el conducto auditivo queda abierto y el sonido llega al oído interno sin pasar por la etapa del auricular y el tímpano.",
+    "Se llama activo porque el sistema contiene una fuente de energía y un transductor que genera la vibración.",
+    "La diferencia con los implantes de vía ósea es que la vibración va a las estructuras del oído medio, no al cráneo."
+   ],
+   "ayar": {
+    "implant": "orta_kulak",
+    "implant_cumle": 2,
+    "titresim_cumle": 3
+   }
+  },
+  {
+   "id": "parcalar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Cómo funciona",
+   "baslik": "Las *partes* del sistema",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Procesador de sonido",
+     "cumle": 1,
+     "metin": "Micrófono, procesador, batería"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Receptor",
+     "cumle": 2,
+     "metin": "Bajo la piel, decodifica la señal"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Cable conductor",
+     "cumle": 3,
+     "metin": "Del receptor al oído medio"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Transductor",
+     "cumle": 4,
+     "metin": "Convierte la señal en vibración"
+    }
+   ],
+   "cumleler": [
+    "Los sistemas semiimplantables suelen tener cuatro partes principales.",
+    "El procesador de sonido externo, detrás de la oreja y bajo el cabello, contiene el micrófono, el procesador y la batería; un imán lo sujeta a la piel.",
+    "La señal del procesador pasa de forma inalámbrica a través de la piel hasta un receptor colocado bajo la piel.",
+    "Un cable fino sale del receptor y atraviesa la mastoides hasta el oído medio.",
+    "El transductor del extremo del cable convierte la señal eléctrica en un movimiento que hace vibrar los huesecillos o una ventana.",
+    "En los sistemas totalmente implantables, todas las partes están bajo la piel y nada se ve desde afuera."
+   ]
+  },
+  {
+   "id": "yari_tam",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Cómo funciona",
+   "baslik": "¿Semiimplantable o *totalmente* implantable?",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Semiimplantable",
+     "cumle": 0,
+     "metin": "Procesador externo, batería fácil de cambiar"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Totalmente implantable",
+     "cumle": 3,
+     "metin": "Invisible, batería bajo la piel"
+    }
+   ],
+   "cumleler": [
+    "En los sistemas semiimplantables, el micrófono y la batería están en el procesador externo, detrás de la oreja.",
+    "La batería se cambia fácilmente cuando hace falta, y el procesador puede actualizarse con nueva tecnología.",
+    "Pero el procesador se retira para bañarse y nadar, y durante ese tiempo la persona no oye con ese oído.",
+    "Los sistemas totalmente implantables son invisibles y pueden usarse todo el día, incluso al dormir y en el agua.",
+    "En estos sistemas, el sonido lo capta un micrófono bajo la piel o un sensor que detecta la vibración de los huesecillos.",
+    "Según el sistema, la batería se carga desde afuera o se reemplaza cada pocos años con una cirugía menor."
+   ]
+  },
+  {
+   "id": "donusturucu",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Transductor y fijación",
+   "baslik": "Dos tipos de *transductor*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Electromagnético",
+     "cumle": 1,
+     "metin": "La corriente de la bobina mueve un imán"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Piezoeléctrico",
+     "cumle": 4,
+     "metin": "El cristal cambia de forma con voltaje"
+    }
+   ],
+   "cumleler": [
+    "El transductor es el corazón del implante y puede funcionar con dos principios básicos.",
+    "Un transductor electromagnético tiene una bobina, con un imán en su interior o a su lado.",
+    "Una corriente variable que pasa por la bobina crea un campo magnético y hace vibrar el imán al ritmo del sonido.",
+    "El transductor de masa flotante es un ejemplo conocido de este tipo; es un cilindro de pocos milímetros de largo.",
+    "En un transductor piezoeléctrico, un cristal o una cerámica especial cambia muy levemente de forma al aplicarle voltaje.",
+    "El mismo material funciona también a la inversa y genera voltaje con la vibración; por eso algunos sistemas totalmente implantables lo usan como sensor."
+   ]
+  },
+  {
+   "id": "baglanti",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Transductor y fijación",
+   "baslik": "¿*Dónde* se aplica la vibración?",
+   "cizim": "orta_kulak",
+   "yakinlastir": [
+    {
+     "parca": "incus",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "stapes",
+     "cumle": 3,
+     "olcek": 2.2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 4,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "incus",
+     "cumle": 1
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "stapes",
+     "cumle": 3
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "incus",
+     "metin": "Apófisis larga del yunque",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "metin": "Estribo",
+     "cumle": 3
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Ventana redonda",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La vibración del transductor puede aplicarse en varios puntos distintos del oído medio.",
+    "En el primer método, y el más común, el transductor se engancha a la apófisis larga del yunque.",
+    "Si la cadena osicular está íntegra, la vibración recorre la cadena hasta el estribo y la ventana oval.",
+    "Si falta una parte de la cadena, el transductor puede conectarse a la cabeza o a la platina del estribo con acopladores especiales.",
+    "Otra opción es colocar el transductor en la ventana redonda.",
+    "El sitio de fijación se elige según el tipo de pérdida de la persona, la anatomía del oído medio y la evaluación del cirujano.",
+    "En todos los casos, el objetivo es transmitir la vibración a los líquidos del oído interno con la mayor eficiencia posible."
+   ]
+  },
+  {
+   "id": "vibroplasti",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Transductor y fijación",
+   "baslik": "Vibroplastia de *ventana redonda*",
+   "maddeler": [
+    {
+     "metin": "Transductor en la _ventana redonda_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Descrita para la pérdida mixta severa",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Cuando la cadena osicular no sirve",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Líquidos del oído interno movidos _a la inversa_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "La vía ósea limita la capacidad",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "yuvarlak_pencere",
+      "cumle": 0
+     },
+     {
+      "parca": "oval_pencere",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "yuvarlak_pencere",
+      "metin": "ventana redonda",
+      "cumle": 0
+     },
+     {
+      "parca": "oval_pencere",
+      "metin": "ventana oval",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "La vibroplastia de ventana redonda consiste en colocar el transductor sobre la membrana de la ventana redonda.",
+    {
+     "yazi": "El método se describió a mediados de la década de 2000, sobre todo para personas con pérdida mixta severa que no se habían beneficiado de cirugías previas."
+    },
+    "Si la cadena osicular está dañada o ya no sirve tras cirugías repetidas, esta vía puede ser una opción.",
+    "La vibración mueve los líquidos del oído interno desde la dirección opuesta a la ventana oval.",
+    "Mientras se forme una diferencia de presión entre las dos ventanas, la membrana basilar aun así vibra y el sonido se percibe.",
+    "Como la señal llega directamente a la cóclea, los umbrales por vía ósea, es decir, la función coclear restante, determinan la ganancia posible."
+   ]
+  },
+  {
+   "id": "aday_odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Candidatura",
+   "baslik": "Ejemplo: audiograma de un *candidato*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "<",
+     "renk": "sag",
+     "metin": "Vía ósea: _igual_ que la aérea",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       45,
+       50,
+       60,
+       65,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       35,
+       45,
+       50,
+       55,
+       65,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       40,
+       45,
+       50,
+       60,
+       65,
+       null
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": 40,
+     "alt": 70,
+     "etiket": "Moderada a moderadamente severa",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Este audiograma de ejemplo muestra una pérdida auditiva simétrica en ambos oídos que aumenta hacia las frecuencias altas.",
+    "Los umbrales por vía ósea están al mismo nivel que la vía aérea; es decir, la pérdida es neurosensorial.",
+    "La pérdida es moderada a moderadamente severa; esto está dentro del rango de candidatura para la pérdida neurosensorial.",
+    "Técnicamente, a esta persona también podrían ayudarla los audífonos.",
+    "Un implante se considera solo si los audífonos no pueden usarse o no dan suficiente beneficio.",
+    "Por ejemplo, las otitis externas recurrentes, la estenosis del conducto o la alergia a los moldes pueden impedir el uso de audífonos."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Candidatura",
+   "baslik": "Criterios de *candidatura*",
+   "maddeler": [
+    {
+     "metin": "Pérdida estable, moderada a severa",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Porcentaje de discriminación_ adecuado",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Oído medio y trompa sanos",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Anatomía adecuada: imágenes",
+     "cumle": 3,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "_Expectativas_ realistas",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "ostaki_borusu",
+      "cumle": 2
+     },
+     {
+      "parca": "orta_kulak",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "ostaki_borusu",
+      "metin": "Trompa de Eustaquio",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "El primer requisito de candidatura es que la pérdida auditiva sea estable y de un grado dentro de la capacidad del dispositivo.",
+    "El porcentaje de discriminación también debe ser adecuado; el límite inferior varía según el dispositivo, por ejemplo cuarenta o cincuenta por ciento.",
+    "En la pérdida neurosensorial, el oído medio debe estar sano; las otitis medias recurrentes o los problemas de la trompa de Eustaquio pueden excluirla.",
+    "La estructura del oído medio y de la mastoides se evalúa con imágenes antes de la cirugía.",
+    "Se conversan abiertamente las expectativas de la persona, la cirugía y el seguimiento; la mayoría de los sistemas están pensados sobre todo para adultos.",
+    "La pérdida auditiva fluctuante, la enfermedad de Ménière o una patología retrococlear suelen descartar la candidatura.",
+    "Para la pérdida conductiva y mixta, el fabricante define criterios aparte según el sitio de fijación y los umbrales por vía ósea."
+   ]
+  },
+  {
+   "id": "arti_eksi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ventajas y limitaciones",
+   "baslik": "Ventajas y *limitaciones*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Conducto abierto",
+     "cumle": 0,
+     "metin": "Sin oclusión ni irritación"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Poca retroalimentación",
+     "cumle": 1,
+     "metin": "La salida es vibración, no sonido"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Comodidad",
+     "cumle": 3,
+     "metin": "Invisible, uso todo el día"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Cirugía",
+     "cumle": 4,
+     "metin": "Riesgos quirúrgicos, costo alto"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Límites de RM",
+     "cumle": 6,
+     "metin": "Varían según el implante"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Intervención permanente",
+     "cumle": 7,
+     "metin": "La cadena puede separarse"
+    }
+   ],
+   "cumleler": [
+    "La principal ventaja es que el conducto auditivo queda abierto; desaparecen el efecto de oclusión y la irritación del conducto.",
+    "Como la salida es vibración y no sonido, la retroalimentación acústica es un problema mucho menor que con los audífonos convencionales.",
+    "El estímulo mecánico directo puede ayudar a que la señal pase con menos distorsión, sobre todo en las frecuencias altas.",
+    "La invisibilidad y el uso durante todo el día dan una comodidad importante, sobre todo con los sistemas totalmente implantables.",
+    "Por otro lado, todos los sistemas requieren cirugía, y la cirugía tiene sus propios riesgos.",
+    "El costo del dispositivo y de la cirugía es alto; los sistemas totalmente implantables pueden requerir cirugías adicionales por la batería.",
+    "La posibilidad de hacer una resonancia magnética, o RM, varía según el implante; en algunos es condicional o restringida.",
+    "En algunos sistemas la cadena osicular se separa de forma permanente; si se retira el implante, la conducción natural puede no recuperarse del todo."
+   ]
+  },
+  {
+   "id": "surec",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ventajas y limitaciones",
+   "baslik": "De la candidatura al *seguimiento*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Evaluación",
+     "cumle": 0,
+     "metin": "Audiológica y quirúrgica"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Cirugía",
+     "cumle": 2,
+     "metin": "Colocación del transductor"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Cicatrización",
+     "cumle": 3,
+     "metin": "Unas semanas"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Activación",
+     "cumle": 4,
+     "metin": "Programación y medición"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Seguimiento",
+     "cumle": 5,
+     "metin": "Pruebas de umbral y habla"
+    }
+   ],
+   "cumleler": [
+    "El proceso comienza con la evaluación audiológica y el examen del otorrinolaringólogo.",
+    "Una prueba con audífonos bien realizada es un punto de partida valioso para comparar.",
+    "Durante la cirugía, el transductor se coloca en el sitio elegido y el receptor se fija bajo la piel.",
+    "En general se dejan pasar unas semanas para que cicatricen el oído medio y la herida.",
+    "Luego se activa el sistema; se miden los umbrales a través del dispositivo y con ellos se ajusta la ganancia.",
+    "En el seguimiento, el beneficio se evalúa con regularidad con umbrales en campo libre con el implante, pruebas de habla y escalas de autoevaluación."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Comparen los umbrales por vía ósea antes y después de la cirugía. Así se documenta que se preservó la audición residual y se obtiene una base para la programación.",
+   "cumleler": [
+    "Un consejo de la clínica: midan y registren con cuidado los umbrales por vía ósea antes y después de la cirugía.",
+    "Esta comparación documenta que la función coclear restante se preservó durante la cirugía.",
+    "Se ha descrito que los umbrales por vía aérea sin dispositivo en el oído con el transductor pueden cambiar levemente; registren esto también.",
+    "Estas mediciones dan una línea de base confiable para la programación y para el seguimiento en los años siguientes."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "La señal llega al oído medio como _vibración_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Transductor electromagnético o piezoeléctrico",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Yunque, estribo o ventana redonda",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Conducto abierto; limitan cirugía y costo",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Un implante activo de oído medio entrega la señal amplificada como vibración a las estructuras del oído medio, no al conducto auditivo.",
+    "La vibración la genera un transductor electromagnético o piezoeléctrico; el sistema puede ser semiimplantable o totalmente implantable.",
+    "El transductor puede fijarse al yunque, al estribo o a la ventana redonda; la elección depende del tipo de pérdida y de la anatomía.",
+    "El conducto auditivo abierto es una ventaja importante; la cirugía, el costo y las restricciones para la RM son las principales limitaciones."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cuándo se considera sobre todo la vibroplastia de ventana redonda?",
+   "secenekler": [
+    "Pérdida neurosensorial leve",
+    "Pérdida mixta, cadena inutilizable",
+    "Pérdida auditiva fluctuante",
+    "Audición normal"
+   ],
+   "dogru": 1,
+   "aciklama": "El transductor se coloca en la _ventana redonda_; es una vía al oído interno cuando la cadena no sirve.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿en qué situación se considera sobre todo la vibroplastia de ventana redonda?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: pérdida mixta con una cadena osicular inutilizable.",
+    "Cuando el transductor se coloca en la ventana redonda, la vibración evita la cadena y llega directamente a los líquidos del oído interno."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "¿Qué es el *trastorno* del procesamiento auditivo (TPA)?",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos a un nuevo módulo y veremos qué es el trastorno del procesamiento auditivo.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

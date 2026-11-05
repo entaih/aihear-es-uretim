@@ -1,0 +1,593 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D172_Newborn_Hearing_Screening_ES",
+ "kapak": {
+  "ust": "LECCIÓN 172",
+  "baslik": "*Tamizaje auditivo*<br>neonatal",
+  "alt": "¿Por qué se evalúa a todos los bebés?",
+  "cizim": "oae"
+ },
+ "youtube": {
+  "baslik": "¿Por qué hacer tamizaje auditivo a todo recién nacido? | Lección 172 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué tan frecuente es la pérdida auditiva congénita y por qué se evalúa a todos los recién nacidos? En esta lección comparamos el tamizaje basado en riesgo con el tamizaje universal, explicamos las metas 1-3-6 y las metas 1-2-3 del JCIH 2019, repasamos el papel de las OEA y los PEATC automatizados, y vemos el programa nacional de tamizaje auditivo neonatal de Turquía.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Joint Committee on Infant Hearing, Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; Joint Committee on Infant Hearing, Year 2007 Position Statement; World Health Organization, World Report on Hearing (2021); Yoshinaga-Itano et al., Language of early- and later-identified children with hearing loss, Pediatrics (1998); Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "tamizajeauditivo",
+   "audicion"
+  ],
+  "etiketler": [
+   "tamizaje auditivo neonatal",
+   "tamizaje auditivo neonatal universal",
+   "TANU",
+   "JCIH",
+   "EHDI",
+   "meta 1-3-6",
+   "otoemisiones acústicas",
+   "PEATC automatizados",
+   "hipoacusia congénita",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 172",
+   "baslik": "*Tamizaje auditivo* neonatal",
+   "alt": "¿Por qué se evalúa a todos los bebés? Las metas 1-3-6 y 1-2-3",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos por qué se hace el tamizaje auditivo neonatal y en qué metas se basa.",
+    "También veremos brevemente, como ejemplo, el programa nacional de tamizaje de Turquía."
+   ]
+  },
+  {
+   "id": "siklik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Pérdida auditiva congénita",
+   "baslik": "¿Qué tan *frecuente* es?",
+   "maddeler": [
+    {
+     "metin": "Recién nacidos sanos: _1 a 3 por 1000_",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Cuidados intensivos: alrededor del _2 al 4 %_",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Una de las condiciones congénitas más frecuentes",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_No se ve_ al nacer",
+     "cumle": 5,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "TANU",
+    "metin": "Tamizaje auditivo neonatal *universal*",
+    "cumle": 6
+   },
+   "cumleler": [
+    "La pérdida auditiva congénita permanente se presenta en alrededor de 1 a 3 de cada 1000 recién nacidos sanos.",
+    "Esta tasa es mucho mayor que la de algunas condiciones metabólicas que se tamizan al nacer, como la fenilcetonuria.",
+    {
+     "yazi": "En los bebés ingresados en la unidad de cuidados intensivos neonatales, la tasa sube a alrededor del 2 al 4 por ciento."
+    },
+    "Es decir, los bebés con antecedente de cuidados intensivos tienen un riesgo claramente mayor de pérdida auditiva.",
+    "Por eso, la pérdida auditiva se considera una de las condiciones congénitas más frecuentes en los recién nacidos.",
+    "El problema es que la pérdida auditiva no se ve al nacer; el bebé parece sano y puede dar la impresión de reaccionar a los sonidos.",
+    "Por eso se desarrolló el tamizaje auditivo neonatal universal, o TANU, en el que se evalúa a todos los bebés."
+   ]
+  },
+  {
+   "id": "kritik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Pérdida auditiva congénita",
+   "baslik": "El *período crítico* del lenguaje",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "cóclea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "corteza auditiva",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "La estimulación sonora madura las vías",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Período crítico: los primeros años",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Intervención antes de los 6 meses",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Entonces, ¿por qué es tan importante el diagnóstico temprano?",
+    "El sistema auditivo comienza en la cóclea y se extiende por el tronco cerebral hasta la corteza auditiva.",
+    "La maduración de estas vías depende de la estimulación sonora en los primeros años de vida.",
+    "Sin estimulación sonora, las vías auditivas centrales no pueden madurar como se espera durante este período.",
+    "Los primeros años de vida son la etapa más fértil para el desarrollo del habla y el lenguaje; esto se llama período crítico.",
+    "Los estudios mostraron que los niños cuya intervención empieza antes de los 6 meses tienen un desarrollo del lenguaje claramente mejor.",
+    "Este hallazgo cobró relevancia sobre todo con el estudio de 1998 de Yoshinaga-Itano y colaboradores."
+   ]
+  },
+  {
+   "id": "evrensel",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "¿Por qué tamizaje universal?",
+   "baslik": "¿Basado en riesgo o *universal*?",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Basado en riesgo",
+     "metin": "No detecta cerca de la mitad",
+     "cumle": 0
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Universal",
+     "metin": "Se tamiza a todo recién nacido",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Antes, solo se evaluaba a los bebés con factores de riesgo, como antecedentes familiares o una estancia en cuidados intensivos.",
+    "Sin embargo, alrededor de la mitad de los bebés con pérdida auditiva congénita no tiene ningún factor de riesgo conocido.",
+    "Por eso, antes del tamizaje universal, la edad del diagnóstico en muchos países llegaba a los 2 o 3 años.",
+    "En el tamizaje universal se evalúa a todo recién nacido, independientemente de su situación de riesgo.",
+    "Así, también se detectan a tiempo las pérdidas de los bebés sin factores de riesgo.",
+    "A medida que se extendieron los programas de tamizaje, la edad del diagnóstico bajó a unos pocos meses.",
+    "La observación de los padres o el seguimiento conductual no sirven para tamizar; las pérdidas leves o unilaterales se pasan por alto fácilmente."
+   ]
+  },
+  {
+   "id": "amac",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "¿Por qué tamizaje universal?",
+   "baslik": "El *propósito* del tamizaje",
+   "maddeler": [
+    {
+     "metin": "El tamizaje _no_ diagnostica",
+     "cumle": 0,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Meta: identificar quién necesita más pruebas",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Objetivo, rápido e indoloro",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Pasar _no descarta_ una pérdida posterior",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Aclaremos una distinción importante: el tamizaje no es una prueba diagnóstica.",
+    "El propósito del tamizaje es identificar rápidamente a los bebés que necesitan una evaluación diagnóstica más completa.",
+    "Las pruebas de tamizaje son objetivas; el bebé no necesita responder ni colaborar.",
+    "La prueba suele completarse en pocos minutos, con el bebé dormido o tranquilo.",
+    "Pasar el tamizaje no significa que la audición vaya a mantenerse normal toda la vida.",
+    "Por causas como la infección por citomegalovirus, la pérdida puede aparecer más tarde o progresar."
+   ]
+  },
+  {
+   "id": "hedefler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Las metas 1-3-6 y 1-2-3",
+   "baslik": "*Metas* de detección temprana",
+   "sutunlar": [
+    "Paso",
+    "Meta 1-3-6",
+    "Meta 1-2-3"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Tamizaje",
+      "Antes de 1 mes",
+      "Antes de 1 mes"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Diagnóstico",
+      "Antes de 3 meses",
+      "Antes de 2 meses"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Intervención",
+      "Antes de 6 meses",
+      "Antes de 3 meses"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Los programas de detección e intervención auditiva temprana, o EHDI, trabajan con metas de tiempo medibles.",
+    "Estas metas las establece el Comité Conjunto de Audición Infantil, o JCIH.",
+    {
+     "yazi": "Durante muchos años, el JCIH recomendó la meta 1-3-6: el tamizaje se completa en el primer mes.",
+     "ses": "Durante muchos años, el JCIH recomendó la meta uno, tres, seis: el tamizaje se completa en el primer mes."
+    },
+    {
+     "yazi": "El diagnóstico se hace antes de que termine el mes 3.",
+     "ses": "El diagnóstico se hace antes de que termine el tercer mes."
+    },
+    {
+     "yazi": "La intervención comienza antes de que termine el mes 6.",
+     "ses": "La intervención comienza antes de que termine el sexto mes."
+    },
+    {
+     "yazi": "La declaración de posición del JCIH de 2019 propuso una meta 1-2-3 más ambiciosa para los programas que ya cumplían esa meta.",
+     "ses": "La declaración de posición del JCIH de 2019 propuso una meta uno, dos, tres más ambiciosa para los programas que ya cumplían esa meta."
+    },
+    {
+     "yazi": "Con esta meta, el tamizaje se hace antes de 1 mes, el diagnóstico antes de 2 meses y la intervención antes de 3 meses.",
+     "ses": "Con esta meta, el tamizaje se hace antes de un mes, el diagnóstico antes de dos meses y la intervención antes de tres meses."
+    },
+    "Aquí, intervención significa iniciar la adaptación de dispositivos adecuada y los servicios de intervención temprana para la familia."
+   ]
+  },
+  {
+   "id": "bilesenler",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Las metas 1-3-6 y 1-2-3",
+   "baslik": "*Componentes* del programa",
+   "adimlar": [
+    {
+     "ikon": "tarama",
+     "baslik": "Tamizaje",
+     "metin": "Retamizaje si es necesario",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Diagnóstico",
+     "metin": "Evaluación audiológica diagnóstica",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Intervención temprana",
+     "metin": "Dispositivos, educación, apoyo familiar",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Seguimiento y datos",
+     "metin": "Une los pasos entre sí",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Un programa de tamizaje es más que una prueba; el primer eslabón es el tamizaje y, si es necesario, el retamizaje.",
+    "El segundo eslabón es la evaluación audiológica diagnóstica de los bebés que no pasaron.",
+    "El tercer eslabón es la intervención temprana, que abarca la adaptación de dispositivos, la educación y el apoyo a la familia.",
+    "También se necesita un sistema de seguimiento y de datos que una todos estos pasos.",
+    "Esto se debe a que algunos bebés que no pasan nunca llegan al paso diagnóstico; esto se llama pérdida de seguimiento.",
+    {
+     "yazi": "Como indicador de calidad, la meta es que al menos el 95 por ciento de los bebés se tamice en el primer mes."
+    },
+    {
+     "yazi": "Además, se espera en general que la proporción de bebés derivados a diagnóstico se mantenga por debajo del 4 por ciento."
+    }
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Pruebas de tamizaje",
+   "baslik": "Tamizaje con *otoemisiones acústicas*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "estímulo (clic)",
+     "cumle": 1
+    },
+    {
+     "parca": "yanit",
+     "metin": "respuesta coclear",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Función de las células ciliadas externas",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Rápida y sencilla",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "No evalúa la vía neural",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "En el tamizaje neonatal se usan dos pruebas principales; la primera es la de otoemisiones acústicas, u OEA.",
+    "Una pequeña sonda colocada en el conducto auditivo envía estímulos sonoros breves.",
+    "En una cóclea sana, las células ciliadas externas producen una respuesta acústica débil que puede medirse en el conducto auditivo.",
+    "La prueba es rápida, de bajo costo y fácil de realizar, por eso suele preferirse en los bebés sanos.",
+    "Sin embargo, si hay líquido en el oído medio o restos del parto, llamados vérnix, en el conducto auditivo, puede no obtenerse respuesta.",
+    "Además, las OEA no evalúan el nervio auditivo ni el tronco cerebral."
+   ]
+  },
+  {
+   "id": "aabr",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Pruebas de tamizaje",
+   "baslik": "Tamizaje con *PEATC automatizados*",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "onda V",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vía hasta el tronco cerebral",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Pasa o no pasa automático",
+     "cumle": 4,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Recomendado en cuidados intensivos",
+     "cumle": 5,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    "La segunda prueba son los potenciales evocados auditivos de tronco cerebral automatizados, o PEATC-A.",
+    "Los electrodos colocados en la cabeza del bebé registran la respuesta eléctrica del tronco cerebral al sonido.",
+    {
+     "yazi": "El equipo busca estadísticamente una respuesta que se parezca, en particular, a la onda V."
+    },
+    {
+     "yazi": "El estímulo suele ser de 35 dB nHL; si no hay respuesta a este nivel, el resultado es \"no pasa\"."
+    },
+    "El resultado se da automáticamente como \"pasa\" o \"no pasa\", sin necesidad de la interpretación de un experto.",
+    "Como los PEATC-A también abarcan el nervio auditivo y la vía del tronco cerebral, se recomiendan para los bebés de cuidados intensivos.",
+    "Esto se debe a que la neuropatía auditiva, que las OEA no pueden detectar, es más frecuente en estos bebés."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En las primeras 24 horas, la tasa de \"no pasa\" con OEA es mayor. Mantengan al bebé tranquilo y alimentado; verifiquen que la sonda ajuste bien.",
+   "cumleler": [
+    "Un consejo de la práctica: en las primeras 24 horas tras el nacimiento, la tasa de resultados \"no pasa\" con OEA es mayor.",
+    "Esto suele deberse al vérnix en el conducto auditivo y al líquido del oído medio que aún no se ha eliminado.",
+    "Si es posible, hagan el tamizaje después de alimentar al bebé, mientras duerme y con la sala en silencio.",
+    "Verificar que la punta de la sonda ajuste bien en el conducto auditivo reduce los resultados \"no pasa\" innecesarios.",
+    "Expliquen a la familia un resultado \"no pasa\" como la necesidad de más pruebas, no como una pérdida auditiva."
+   ]
+  },
+  {
+   "id": "turkiye",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "Tamizaje en Turquía",
+   "baslik": "Un *programa nacional* de tamizaje",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Programa nacional",
+     "metin": "Ministerio de Salud",
+     "cumle": 0
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Primer tamizaje",
+     "metin": "Antes del alta",
+     "cumle": 2
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Retamizaje",
+     "metin": "Para bebés que no pasaron",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Diagnóstico",
+     "metin": "En unidades de audiología",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registro y seguimiento",
+     "metin": "Reduce la pérdida de seguimiento",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En Turquía, el tamizaje auditivo neonatal se realiza dentro del programa nacional de tamizaje auditivo neonatal del Ministerio de Salud.",
+    {
+     "yazi": "El programa se puso en marcha en 2004 y se extendió de forma gradual a los hospitales con maternidad de todo el país."
+    },
+    "Los bebés suelen tamizarse después del nacimiento, antes de recibir el alta del hospital.",
+    "Los bebés que no pasan el primer tamizaje se vuelven a tamizar en poco tiempo.",
+    "Los bebés que tampoco pasan el retamizaje se derivan a unidades de audiología para una evaluación diagnóstica.",
+    "Registrar los resultados es un paso clave para reducir la pérdida de seguimiento.",
+    "El Informe mundial sobre la audición de 2021 de la Organización Mundial de la Salud también recomienda el tamizaje neonatal en todos los países."
+   ]
+  },
+  {
+   "id": "sonuc",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Tamizaje en Turquía",
+   "baslik": "¿Qué *significa* el resultado?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Pasa",
+     "metin": "Respuesta al nivel del tamizaje",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "No pasa",
+     "metin": "No es diagnóstico; requiere más evaluación",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Un resultado \"pasa\" muestra que el bebé respondió al nivel del tamizaje.",
+    "Aun así, la familia debe seguir observando las reacciones del bebé a los sonidos y su desarrollo del lenguaje.",
+    "Los bebés con factores de riesgo son citados a controles audiológicos a intervalos establecidos, aunque hayan pasado el tamizaje.",
+    "En cambio, un resultado \"no pasa\" no es un diagnóstico de pérdida auditiva; solo indica que se necesita más evaluación.",
+    "La evaluación diagnóstica de estos bebés debe completarse en los primeros meses, de acuerdo con las metas.",
+    "Que la familia acuda a tiempo a la cita es uno de los factores más importantes para el éxito del programa."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Pérdida congénita: 1 a 3 por 1000",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "El tamizaje por riesgo omite cerca de la mitad",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Meta 1-3-6, propuesta reciente 1-2-3",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Tamizar no es diagnosticar; el seguimiento es esencial",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que la pérdida auditiva congénita es frecuente y pasa inadvertida al nacer.",
+    "Un tamizaje basado solo en factores de riesgo no detecta alrededor de la mitad de las pérdidas.",
+    {
+     "yazi": "Para la detección temprana se usa la meta 1-3-6, y la propuesta actual usa la meta 1-2-3.",
+     "ses": "Para la detección temprana se usa la meta uno, tres, seis, y la propuesta actual usa la meta uno, dos, tres."
+    },
+    "El tamizaje no diagnostica; el verdadero éxito es el seguimiento completo de los bebés que no pasan."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Según la meta 1-2-3 del JCIH 2019, ¿antes de cuándo debe hacerse el diagnóstico?",
+   "secenekler": [
+    "Antes del final del mes 1",
+    "Antes del final del mes 2",
+    "Antes del final del mes 3",
+    "Antes del final del mes 6"
+   ],
+   "dogru": 1,
+   "aciklama": "1-2-3: tamizaje al mes 1, _diagnóstico al mes 2_, intervención al mes 3.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: según la meta 1-2-3 del JCIH 2019, ¿antes del final de qué mes debe hacerse el diagnóstico?",
+     "sonra_bekle": 5,
+     "ses": "Pon a prueba lo aprendido: según la meta uno, dos, tres del JCIH 2019, ¿antes del final de qué mes debe hacerse el diagnóstico?"
+    },
+    "La respuesta correcta es la B: el diagnóstico debe hacerse antes del final del segundo mes.",
+    "El tamizaje se completa en el primer mes, y la intervención comienza antes del final del tercer mes."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Protocolos de tamizaje: OEA, PEATC-A y *dos etapas*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección analizaremos los protocolos de tamizaje en bebés sanos y en cuidados intensivos, con las decisiones de pasa y no pasa.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

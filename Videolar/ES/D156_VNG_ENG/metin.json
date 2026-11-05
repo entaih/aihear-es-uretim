@@ -1,0 +1,771 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D156_VNG_ENG_ES",
+ "kapak": {
+  "ust": "LECCIÓN 156",
+  "baslik": "*VNG* y ENG",
+  "alt": "El registro de los movimientos oculares",
+  "cizim": "nistagmus_izi"
+ },
+ "youtube": {
+  "baslik": "VNG y ENG: cómo se registran los movimientos oculares | Lección 156 | AIHEAR Academia de Audiología",
+  "aciklama": "Esta lección explica los principios de la videonistagmografía (VNG) y la electronistagmografía (ENG), por qué importa la calibración, los componentes de la batería de pruebas vestibulares y la preparación del paciente. También comparamos las ventajas y limitaciones de ambos métodos.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Jacobson and Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology; Jacobson, Newman and Kartush, Handbook of Balance Function Testing.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "VNG",
+   "vestibular"
+  ],
+  "etiketler": [
+   "VNG",
+   "videonistagmografía",
+   "ENG",
+   "electronistagmografía",
+   "calibración",
+   "potencial corneorretiniano",
+   "batería de pruebas vestibulares",
+   "nistagmo",
+   "registro de movimientos oculares",
+   "evaluación vestibular",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 156",
+   "baslik": "*VNG* y ENG",
+   "alt": "Registro de los movimientos oculares y calibración",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos dos métodos para registrar los movimientos oculares: la videonistagmografía y la electronistagmografía.",
+    "Veremos por qué importa la calibración, los componentes de la batería de pruebas y la preparación del paciente."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué registrar?",
+   "baslik": "¿Por qué *registramos?*",
+   "maddeler": [
+    {
+     "metin": "Medir el nistagmo _con números_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Eliminar_ la fijación visual",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Captar_ lo que el ojo no ve",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "_Guardar_ y comparar registros",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "nistagmus_izi",
+    "cumle": 0,
+    "ayar": {
+     "yon": "sol",
+     "tur": "sicramali",
+     "yavas_cumle": 0,
+     "hizli_cumle": 0,
+     "baslik": "Trazado horizontal de VNG"
+    },
+    "etiketler": [
+     {
+      "parca": "yavas_faz",
+      "metin": "Se mide la velocidad de la fase lenta",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Registrar los movimientos oculares permite no solo ver el nistagmo, sino también medirlo numéricamente, por la velocidad de su fase lenta.",
+    "Cuando el registro se hace a oscuras o con lentes tapados, se elimina la fijación visual y el nistagmo periférico se hace más claro.",
+    "Un nistagmo demasiado pequeño para notarlo a simple vista también se hace visible en el registro.",
+    "Mediciones como las sacadas, el seguimiento y la respuesta calórica solo pueden hacerse con un sistema de registro.",
+    "El registro se guarda, así que el médico y el próximo examinador pueden volver a revisar el mismo hallazgo."
+   ]
+  },
+  {
+   "id": "yontemler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué registrar?",
+   "baslik": "*Tres formas* de observar los ojos",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Lentes de Frenzel",
+     "metin": "Observación con lentes de aumento; sin medición",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ENG",
+     "metin": "Registro eléctrico con electrodos en la piel",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "VNG",
+     "metin": "Registro de imagen con cámaras infrarrojas",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Como vimos en la lección sobre el nistagmo, hay tres formas básicas de observar los ojos.",
+    "Los lentes de Frenzel reducen la fijación y agrandan los ojos, pero no registran ni miden nada.",
+    "La electronistagmografía (ENG) registra el movimiento ocular con electrodos colocados en la piel.",
+    "La videonistagmografía (VNG) registra los ojos captando su imagen con cámaras infrarrojas.",
+    "Hoy, la mayoría de los laboratorios vestibulares usan la VNG.",
+    "Aun así, conocer el principio de la ENG ayuda a entender los registros antiguos y algunas limitaciones."
+   ]
+  },
+  {
+   "id": "eng",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "ENG y VNG",
+   "baslik": "*ENG*: el ojo como una batería",
+   "maddeler": [
+    {
+     "metin": "Córnea _positiva_ respecto de la retina",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "El _voltaje_ cambia al girar el ojo",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Horizontal: _ángulos externos_ de ambos ojos",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Vertical: _arriba y abajo_ de un ojo",
+     "cumle": 4,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Electrodo de tierra: _frente_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "elektrot_yerlesimi",
+    "cumle": 0,
+    "ayar": {
+     "mod": "eng",
+     "goster": {
+      "dipol": 0,
+      "yatay_elektrotlar": 3,
+      "dikey_elektrotlar": 4,
+      "toprak": 5
+     }
+    }
+   },
+   "cumleler": [
+    "La ENG se basa en la diferencia de voltaje entre los polos anterior y posterior del ojo, llamada potencial corneorretiniano.",
+    "La córnea es positiva respecto de la retina, así que el ojo actúa como una pequeña batería, y el voltaje a su alrededor cambia al girar.",
+    "Cuando el ojo gira a la derecha, el polo positivo se acerca al electrodo derecho, y la diferencia de voltaje entre los electrodos aumenta.",
+    "Para registrar los movimientos horizontales, se colocan electrodos en los ángulos externos de ambos ojos.",
+    "Para los movimientos verticales, se coloca un electrodo por encima de un ojo y otro por debajo.",
+    "El electrodo de tierra suele ir en la frente; para un buen registro, se limpia la piel y se logra una impedancia baja.",
+    "Como el voltaje registrado cambia de forma casi lineal con el ángulo del ojo, la calibración puede convertirlo en grados."
+   ]
+  },
+  {
+   "id": "eng_sinir",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "ENG y VNG",
+   "baslik": "ENG: *ventajas y desventajas*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Ojos cerrados",
+     "metin": "Registra incluso con los ojos cerrados",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Sin torsión",
+     "metin": "No registra el movimiento rotatorio",
+     "cumle": 2
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Sensible a la luz",
+     "metin": "El potencial cambia con la luz; recalibrar",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Artefactos",
+     "metin": "Parpadeos, ruido muscular y de electrodos",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La ENG tiene sus propias ventajas y limitaciones.",
+    "Su principal ventaja es que puede registrar con los ojos cerrados, lo que ayuda en pacientes que no pueden mantenerlos abiertos.",
+    "Pero no puede registrar el movimiento torsional, es decir, la rotación del ojo sobre su propio eje, una gran carencia en las pruebas posicionales.",
+    "Como el potencial corneorretiniano cambia con la luz ambiental, la calibración debe repetirse durante la prueba.",
+    "Los parpadeos, la tensión de los músculos faciales y un mal contacto de los electrodos también pueden crear artefactos en el registro.",
+    "Los movimientos de los párpados son un problema especial en el registro vertical, por lo que los registros verticales de ENG se interpretan con cuidado."
+   ]
+  },
+  {
+   "id": "vng",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "ENG y VNG",
+   "baslik": "*VNG*: registro con cámaras",
+   "maddeler": [
+    {
+     "metin": "Cámaras _infrarrojas_ en los lentes",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "El software sigue la _pupila_",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Tapa cerrada: _oscuridad_, sin fijación",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "La torsión se ve _en el video_",
+     "cumle": 4,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Los ojos deben estar _abiertos_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vng_gozlugu",
+    "cumle": 0,
+    "ayar": {
+     "izleme_cumle": 1,
+     "kapak_cumle": 2
+    },
+    "etiketler": [
+     {
+      "parca": "kamera",
+      "metin": "cámara infrarroja",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "En la VNG, el paciente usa unos lentes livianos que contienen una fuente de luz infrarroja y cámaras.",
+    "En cada imagen, el software localiza el centro de la pupila y sigue su posición horizontal y vertical en el tiempo.",
+    "Cuando se tapa el frente de los lentes, el paciente queda en oscuridad total; la luz infrarroja es invisible, así que se elimina la fijación.",
+    "Como se graba la imagen de la cámara, el examinador puede seguir el nistagmo tanto en el trazado como en el video.",
+    "El nistagmo torsional puede evaluarse a ojo en la imagen de video, incluso en los sistemas que no lo miden.",
+    "La principal limitación de la VNG es que los ojos deben permanecer abiertos; un párpado que se cierra o cae arruina el registro."
+   ]
+  },
+  {
+   "id": "karsilastir",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "ENG y VNG",
+   "baslik": "¿ENG o *VNG?*",
+   "sutunlar": [
+    "Característica",
+    "ENG",
+    "VNG"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Detección",
+      "Electrodos en la piel",
+      "Cámara infrarroja"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Ojos cerrados",
+      "Puede registrar",
+      "No puede registrar"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Torsión",
+      "No se registra",
+      "Visible en el video"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Calibración",
+      "Cambia con la luz",
+      "Más estable"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Problema frecuente",
+      "Artefacto de electrodos",
+      "Párpados y maquillaje"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Ahora comparemos los dos métodos.",
+    "La ENG mide el movimiento ocular de forma eléctrica, mientras que la VNG lo mide a partir de la imagen.",
+    "La ENG puede registrar con los ojos cerrados; la VNG necesita que los ojos estén abiertos.",
+    "El movimiento torsional no puede registrarse con la ENG, pero en la VNG puede seguirse en la imagen de video.",
+    "La calibración de la VNG no se ve afectada por la luz ambiental, por lo que suele ser más estable.",
+    "En la ENG, los artefactos de electrodos y musculares pueden arruinar el registro; en la VNG, los párpados, las pestañas y el maquillaje de ojos."
+   ]
+  },
+  {
+   "id": "kal_adim",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Calibración",
+   "baslik": "Los *pasos* de la calibración",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Ajustar los lentes",
+     "metin": "Firmes y sin deslizarse",
+     "cumle": 0
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Mirar los objetivos",
+     "metin": "Puntos en ángulos conocidos",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Asociar",
+     "metin": "La señal se convierte en grados",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Verificar",
+     "metin": "Simetría y coherencia",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Repetir",
+     "metin": "Si los lentes se deslizan",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Antes de calibrar, los lentes se ajustan firmemente a la cabeza; unos lentes que se deslizan arruinan todas las mediciones.",
+    "El paciente mira por turnos puntos que aparecen en ángulos conocidos en una pantalla o barra de luces.",
+    "El software asocia el desplazamiento del ojo en el registro con esos ángulos conocidos, y así la señal se convierte en grados.",
+    "Se verifica el resultado; se esperan valores coherentes para los objetivos a la derecha y a la izquierda, arriba y abajo.",
+    "Si los lentes se deslizan durante la prueba, o si en la ENG cambia la luz ambiental, se repite la calibración."
+   ]
+  },
+  {
+   "id": "kal_neden",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Calibración",
+   "baslik": "¿*Por qué* importa la calibración?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Tiempo (s)",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ]
+    },
+    "y": {
+     "min": -15,
+     "max": 15,
+     "adim": 5,
+     "ad": "Posición ocular (grados)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        2,
+        0
+       ],
+       [
+        2,
+        10
+       ],
+       [
+        4,
+        10
+       ],
+       [
+        4,
+        0
+       ],
+       [
+        6,
+        0
+       ],
+       [
+        6,
+        -10
+       ],
+       [
+        8,
+        -10
+       ],
+       [
+        8,
+        0
+       ],
+       [
+        10,
+        0
+       ],
+       [
+        10,
+        10
+       ],
+       [
+        12,
+        10
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "objetivo",
+      "cumle": 1
+     },
+     {
+      "ad": "goz",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        2.2,
+        0
+       ],
+       [
+        2.3,
+        9.6
+       ],
+       [
+        2.4,
+        10
+       ],
+       [
+        4.2,
+        10
+       ],
+       [
+        4.3,
+        0.4
+       ],
+       [
+        4.4,
+        0
+       ],
+       [
+        6.2,
+        0
+       ],
+       [
+        6.3,
+        -9.5
+       ],
+       [
+        6.4,
+        -10
+       ],
+       [
+        8.2,
+        -10
+       ],
+       [
+        8.3,
+        -0.3
+       ],
+       [
+        8.4,
+        0
+       ],
+       [
+        10.2,
+        0
+       ],
+       [
+        10.3,
+        9.7
+       ],
+       [
+        10.4,
+        10
+       ],
+       [
+        12,
+        10
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "etiket": "ojo",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "on_derece",
+      "x": 3,
+      "y": 10,
+      "etiket": "10 grados",
+      "cizgi": "yatay",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "La señal se convierte en _grados_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Error: velocidad y asimetría _falsas_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La calibración fija la unidad de medida del registro; todos los valores de ángulo y velocidad dependen de ella.",
+    "En el gráfico, la línea gris discontinua muestra un objetivo que salta del centro a la derecha y a la izquierda en ángulos fijos.",
+    "La línea azul muestra el ojo del paciente siguiendo el objetivo; con una buena calibración, las dos líneas se superponen.",
+    "En este ejemplo, cuando el objetivo se mueve diez grados a la derecha, el ojo también debería detenerse en diez grados en el registro.",
+    "Si la calibración es errónea, las velocidades de la fase lenta, las mediciones de sacadas y las comparaciones calóricas también se calculan mal.",
+    "Por ejemplo, una calibración errónea en un ojo puede parecer una diferencia entre los dos oídos que no existe."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Batería y preparación",
+   "baslik": "La *batería* de pruebas",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Espontáneo",
+     "metin": "Mirada y espontáneo",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Oculomotoras",
+     "metin": "Sacadas, seguimiento, NOC",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Posicionales",
+     "metin": "Dix-Hallpike y giro en supino",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Calórica",
+     "metin": "Ambos oídos, al final",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Informe",
+     "metin": "Hallazgos en conjunto",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La evaluación con VNG o ENG es una batería formada por pruebas que se aplican en un orden establecido.",
+    "Primero se registran el nistagmo espontáneo y el evocado por la mirada, con fijación y sin ella.",
+    "Luego vienen las pruebas oculomotoras, es decir, sacadas, seguimiento lento y pruebas optocinéticas; las veremos en la próxima lección.",
+    "Después, las pruebas posicionales buscan un nistagmo que dependa de la posición de la cabeza y del cuerpo.",
+    "Como puede causar náuseas, la prueba calórica suele dejarse para el final de la batería.",
+    "Todos los hallazgos se informan en conjunto, porque la interpretación de una prueba a menudo depende de los resultados de las demás."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Batería y preparación",
+   "baslik": "*Preparación* del paciente",
+   "maddeler": [
+    {
+     "metin": "Fármacos supresores: _con aprobación médica_",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Sin _alcohol_ antes de la prueba",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Retirar el _maquillaje_ de ojos",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Comida _liviana_ antes de la prueba",
+     "cumle": 4,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Preguntar por cuello y espalda",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Nunca indiquen ustedes a un paciente que suspenda un medicamento; esas decisiones siempre las toma el médico.",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Algunos medicamentos suprimen las respuestas vestibulares, por ejemplo los fármacos para el mareo y las náuseas, y los sedantes.",
+    "Según el protocolo del laboratorio, estos fármacos suelen suspenderse unas cuarenta y ocho horas antes de la prueba, solo con aprobación médica.",
+    "El alcohol también puede afectar el nistagmo y los hallazgos oculomotores, así que se pide evitarlo en los días previos a la prueba.",
+    "El maquillaje de ojos, sobre todo el rímel, puede ser detectado por la cámara como si fuera la pupila, así que se retira antes de la prueba.",
+    "Para reducir las náuseas, se recomienda solo una comida liviana unas horas antes de la prueba.",
+    "Para las pruebas posicionales se pregunta por problemas de cuello y espalda; también se anotan los problemas de visión y el uso de anteojos."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "No omitan la calibración y revisen los lentes durante la prueba. Los lentes que se deslizan o una mala calibración producen hallazgos falsos.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: revisen en pantalla el resultado de la calibración en cada paciente; no sigan la prueba con un resultado incoherente.",
+    "Después de cada cambio de posición, comprueben siempre que los lentes no se hayan movido.",
+    "Si ven una asimetría inesperada en el registro, sospechen primero de los lentes y de la calibración, y después del paciente.",
+    "Anoten en el informe todo lo que afecte la calidad del registro, como un párpado caído."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "ENG: _potencial corneorretiniano_, electrodos",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "VNG: cámara _infrarroja_, pupila",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Calibración: la señal pasa a _grados_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Batería: espontáneo, oculomotoras, posicionales, _calórica_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "La ENG registra con electrodos el potencial corneorretiniano del ojo; funciona con los ojos cerrados, pero no ve la torsión.",
+    "La VNG sigue la pupila con una cámara infrarroja; elimina la fijación y guarda la imagen.",
+    "La calibración convierte el registro en grados; una mala calibración arruina todos los resultados numéricos.",
+    "La batería incluye nistagmo espontáneo y pruebas oculomotoras, posicionales y calóricas; la preparación del paciente influye directamente en los resultados."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cuál es una limitación de la ENG?",
+   "secenekler": [
+    "No registra con los ojos cerrados",
+    "No registra la torsión",
+    "No necesita calibración"
+   ],
+   "dogru": 1,
+   "aciklama": "La ENG registra el movimiento horizontal y vertical, pero no puede registrar el movimiento _torsional_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál de las siguientes es una limitación de la electronistagmografía (ENG)?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: no puede registrar el movimiento ocular torsional.",
+    "La ENG puede registrar con los ojos cerrados y necesita calibraciones frecuentes; la torsión solo puede seguirse con el método de video."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Pruebas oculomotoras: *sacadas*, seguimiento y NOC",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos las pruebas oculomotoras de la batería de VNG: sacadas, seguimiento, pruebas optocinéticas y de la mirada.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

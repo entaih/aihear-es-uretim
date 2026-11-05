@@ -1,0 +1,858 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D193_First_Fit_Fine_Tuning_ES",
+ "kapak": {
+  "ust": "LECCIÓN 193",
+  "baslik": "Primera adaptación,<br>*ajuste fino*",
+  "alt": "Soluciones según la queja",
+  "cizim": "rem_duzenegi"
+ },
+ "youtube": {
+  "baslik": "Primera adaptación y ajuste fino según las quejas | Lección 193 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo resolvemos las quejas de sonido apagado, metálico, con eco o de la propia voz después de adaptar un audífono? En esta lección vemos la primera adaptación, la aclimatación, cómo relacionar las quejas con regiones de frecuencia y niveles de entrada, y la lógica del ajuste fino paso a paso.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Dillon, Hearing Aids; Mueller, Ricketts y Bentler, Modern Hearing Aids; Jenstad, Van Tasell y Ewert (2003), Hearing aid troubleshooting based on patients' descriptions, Journal of the American Academy of Audiology; American Academy of Audiology, Guidelines for the Audiologic Management of Adult Hearing Impairment.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "ajustefino"
+  ],
+  "etiketler": [
+   "ajuste fino de audífonos",
+   "solución de problemas de audífonos",
+   "voz propia",
+   "aclimatación al audífono",
+   "registro de datos",
+   "primera adaptación",
+   "quejas con audífonos",
+   "salida máxima de potencia",
+   "medición en oído real",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 193",
+   "baslik": "Primera adaptación y *ajuste fino*",
+   "alt": "Soluciones según la queja",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos el día en que se adapta el audífono por primera vez y el ajuste fino según las quejas del usuario en las visitas siguientes.",
+    "Relacionaremos las quejas de sonido apagado, metálico, con eco y de la propia voz con regiones de frecuencia y con la ganancia."
+   ]
+  },
+  {
+   "id": "ilk",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La primera adaptación",
+   "baslik": "El *día* de la primera adaptación",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Ajuste físico",
+     "cumle": 0,
+     "metin": "Cómodo y sellado"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Software",
+     "cumle": 2,
+     "metin": "Umbrales y experiencia"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Retroalimentación",
+     "cumle": 3,
+     "metin": "Medición de la vía"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Verificación",
+     "cumle": 4,
+     "metin": "Medición en oído real"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Orientación",
+     "cumle": 5,
+     "metin": "Colocación, cuidado, expectativas"
+    }
+   ],
+   "cumleler": [
+    "La primera adaptación empieza comprobando el ajuste físico del audífono en el oído: ¿es cómodo, se mantiene en su lugar, hay fugas?",
+    "La persona se coloca y se quita el audífono varias veces; si se omite este paso, muchas quejas posteriores vienen de aquí.",
+    "En el software se ingresan correctamente el audiograma, la edad y la experiencia con audífonos, y se elige una fórmula prescriptiva.",
+    "El software mide la vía de retroalimentación del audífono, de modo que el sistema de cancelación queda ajustado a ese oído.",
+    "Luego se verifica el ajuste al objetivo con la medición en oído real.",
+    "Por último, se explican la colocación, la limpieza, las pilas o la carga, y qué esperar en las primeras semanas.",
+    "Una primera adaptación bien hecha reduce notablemente las quejas que aparecen en los controles posteriores."
+   ]
+  },
+  {
+   "id": "alisma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La primera adaptación",
+   "baslik": "Las primeras semanas: *aclimatación*",
+   "maddeler": [
+    {
+     "metin": "Ganancia inicial menor en usuarios nuevos",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "La ganancia se sube en semanas",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Al principio, los sonidos pueden parecer _artificiales_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Uso regular, durante todo el día",
+     "cumle": 5,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PRIMEROS DÍAS",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "muzik",
+      "baslik": "Crujidos",
+      "cumle": 3,
+      "metin": "Papel, bolsas de plástico"
+     },
+     {
+      "ikon": "ev",
+      "baslik": "Sonidos de la casa",
+      "cumle": 4,
+      "metin": "Agua, refrigerador"
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Voz propia",
+      "cumle": 4,
+      "metin": "Suena distinta"
+     }
+    ]
+   },
+   "cumleler": [
+    "La adaptación del cerebro a los sonidos que vuelve a oír se llama aclimatación.",
+    "En usuarios nuevos, sobre todo con pérdida moderada o severa, la ganancia inicial puede mantenerse algo por debajo del objetivo.",
+    "Muchos programas de adaptación ofrecen la opción de subir la ganancia a lo largo de las semanas, automáticamente o por pasos en los controles.",
+    "En los primeros días, el crujido del papel, el agua que corre y los pasos pueden sonar inusualmente fuertes y artificiales.",
+    "Algunos son sonidos del entorno que no se oían desde hacía años, pero que en realidad son normales.",
+    "La forma más eficaz de aclimatarse es usar el audífono con regularidad todo el día, no solo en situaciones difíciles."
+   ]
+  },
+  {
+   "id": "dil",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "El lenguaje de las quejas",
+   "baslik": "Las *palabras* del usuario",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Apagado",
+     "cumle": 1,
+     "metin": "Tapado, como algodón"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Metálico",
+     "cumle": 2,
+     "metin": "A lata, como un robot"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Con eco",
+     "cumle": 3,
+     "metin": "En un barril, mi voz"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Chillón",
+     "cumle": 4,
+     "metin": "Punzante, estridente"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruidoso",
+     "cumle": 5,
+     "metin": "Todo suena demasiado fuerte"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Débil",
+     "cumle": 6,
+     "metin": "Oigo, pero no entiendo"
+    }
+   ],
+   "cumleler": [
+    "Los usuarios no describen sus problemas con términos técnicos, sino con sus propias palabras; la solución de problemas empieza por esas palabras.",
+    "Se oyen a menudo expresiones como apagado, tapado o como si tuviera algodón.",
+    "Algunos usuarios perciben los sonidos metálicos, como de lata o como la voz de un robot.",
+    "Muchos también describen su propia voz con eco, como si hablaran dentro de un barril.",
+    "Una molestia chillona, punzante o estridente es otro grupo de quejas.",
+    "Que todo suene demasiado ruidoso, o que se oiga pero no se entienda, también son quejas frecuentes.",
+    "El primer paso del ajuste fino es descubrir a qué problema acústico corresponden estas palabras."
+   ]
+  },
+  {
+   "id": "bolgeler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El lenguaje de las quejas",
+   "baslik": "La *dirección en frecuencia* de la queja",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 40,
+     "adim": 10,
+     "ad": "Ganancia de ejemplo (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "kazanc",
+      "noktalar": [
+       [
+        250,
+        5
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        18
+       ],
+       [
+        2000,
+        26
+       ],
+       [
+        3000,
+        30
+       ],
+       [
+        4000,
+        30
+       ],
+       [
+        6000,
+        26
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "ganancia de ejemplo",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "pes",
+      "x": [
+       250,
+       750
+      ],
+      "renk": "mavi",
+      "etiket": "apagado, eco, voz propia",
+      "cumle": 1
+     },
+     {
+      "ad": "orta",
+      "x": [
+       750,
+       2000
+      ],
+      "renk": "gri",
+      "etiket": "nasal, como en caja",
+      "cumle": 2
+     },
+     {
+      "ad": "tiz",
+      "x": [
+       2000,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "metálico, chillón, crepitante",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "La mayoría de las quejas pueden relacionarse, a grandes rasgos, con una región de frecuencia.",
+    "Las quejas de sonido apagado, eco y voz propia suelen relacionarse con la región grave, aproximadamente por debajo de 750 Hz.",
+    "Las quejas de que el habla suena nasal o como si saliera de una caja suelen relacionarse con las frecuencias medias.",
+    "Los sonidos metálicos, chillones o crepitantes, o las sibilantes punzantes, suelen indicar la región aguda, por encima de 2000 Hz.",
+    "Pero una misma palabra puede significar cosas distintas para distintas personas; el sonido apagado también puede deberse a poca ganancia en agudos.",
+    "Por eso, el mapa es un punto de partida; la decisión se toma con mediciones y junto con la persona."
+   ]
+  },
+  {
+   "id": "tablo",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "De la queja al ajuste",
+   "baslik": "Quejas y *ajustes de ejemplo*",
+   "sutunlar": [
+    "Queja",
+    "Causa posible",
+    "Ajuste de ejemplo"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Apagado",
+      "Pocos agudos, muchos graves",
+      "Subir agudos"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Metálico, a lata",
+      "Exceso de agudos",
+      "Bajar agudos"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Mi voz retumba",
+      "Oclusión, exceso de graves",
+      "Ventilación, bajar graves"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Molestan sonidos fuertes",
+      "Exceso en entradas fuertes",
+      "Entrada fuerte, MPO"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "No oye sonidos suaves",
+      "Poca ganancia, entradas suaves",
+      "Subir ganancia, entradas suaves"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "Difícil en ruido",
+      "Entorno, expectativas",
+      "Programa, micrófono direccional"
+     ],
+     "cumle": 6,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Reunamos ahora en una tabla las quejas frecuentes con sus causas posibles y ajustes de ejemplo; son ejemplos, no recetas fijas.",
+    "Ante un sonido apagado, la ganancia en agudos puede ser muy baja o la de graves relativamente alta; en general se sube la ganancia en agudos.",
+    "Ante un sonido metálico o de lata, la ganancia en agudos puede ser excesiva; se reduce, o se suben un poco los graves.",
+    "Ante una queja de eco en la propia voz, se piensa primero en la oclusión; se agranda la ventilación o se reduce la ganancia en graves.",
+    "La molestia con sonidos fuertes puede indicar que la ganancia para entradas altas, o el nivel de salida máxima, es demasiado alto.",
+    "No oír los sonidos suaves, en cambio, indica poca ganancia para las entradas suaves.",
+    "La dificultad en el ruido no siempre es un problema de ajuste; los programas para ruido, la direccionalidad y las expectativas realistas van de la mano.",
+    "Volver a medir después de cada ajuste asegura que resolver la queja no cueste audibilidad del habla."
+   ]
+  },
+  {
+   "id": "giris",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "De la queja al ajuste",
+   "baslik": "¿Suave o *fuerte?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 40,
+     "max": 100,
+     "ad": "Entrada (dB SPL)",
+     "isaretler": [
+      40,
+      55,
+      65,
+      80,
+      100
+     ]
+    },
+    "y": {
+     "min": 60,
+     "max": 120,
+     "adim": 10,
+     "ad": "Salida (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "once",
+      "noktalar": [
+       [
+        40,
+        75
+       ],
+       [
+        55,
+        88
+       ],
+       [
+        65,
+        95
+       ],
+       [
+        80,
+        104
+       ],
+       [
+        100,
+        110
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "antes",
+      "cumle": 1
+     },
+     {
+      "ad": "sonra",
+      "noktalar": [
+       [
+        40,
+        82
+       ],
+       [
+        55,
+        93
+       ],
+       [
+        65,
+        97
+       ],
+       [
+        80,
+        104
+       ],
+       [
+        100,
+        110
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "etiket": "entrada suave aumentada",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "mpo",
+      "x": 100,
+      "y": 112,
+      "cizgi": "yatay",
+      "etiket": "salida máxima",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "En los audífonos con compresión, la ganancia puede ajustarse por separado para cada nivel de entrada.",
+    "Este gráfico muestra, como ejemplo, la salida del audífono en el conducto auditivo en función del nivel de entrada.",
+    "Si la persona dice que no oye los susurros o el habla lejana, puede subirse la ganancia solo para las entradas suaves.",
+    "En la curva azul, la salida para las entradas suaves ha subido, mientras que la salida para las entradas fuertes no ha cambiado.",
+    "Este ajuste hace audibles los sonidos suaves sin aumentar la molestia por los sonidos fuertes.",
+    "A la inversa, si solo molestan los sonidos fuertes, se reduce la ganancia para las entradas fuertes y no se tocan las suaves.",
+    "La línea superior es la salida máxima de potencia, o MPO; este nivel no debe superar el nivel de molestia de la persona."
+   ]
+  },
+  {
+   "id": "veri",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "De la queja al ajuste",
+   "baslik": "¿Qué dice el *audífono*?",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Horas de uso",
+     "cumle": 0,
+     "metin": "¿Cuántas horas al día?"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Entornos",
+     "cumle": 1,
+     "metin": "Silencio, ruido, música"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Volumen",
+     "cumle": 2,
+     "metin": "¿Lo baja la persona?"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Programas",
+     "cumle": 3,
+     "metin": "¿Cuáles se usan?"
+    }
+   ],
+   "cumleler": [
+    "En un control, el registro de datos del audífono ayuda a entender la queja.",
+    "El registro de datos muestra cuántas horas al día se usa el audífono y en qué entornos sonoros pasa tiempo la persona.",
+    "Si la persona baja el volumen una y otra vez, la ganancia general o la ganancia para sonidos fuertes puede ser demasiado alta.",
+    "Si un programa nunca se usa, o no es necesario o la persona no sabe cómo activarlo.",
+    "Algunos audífonos aprenden de las preferencias de volumen de la persona y cambian la ganancia con el tiempo; este cambio también queda registrado.",
+    "Un tiempo de uso corto puede indicar molestia, expectativas no cumplidas o un problema físico; pregunten siempre por qué."
+   ]
+  },
+  {
+   "id": "vaka",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "De la queja al ajuste",
+   "baslik": "Ejemplo: sonidos *metálicos*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Vía aérea del oído derecho",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Vía aérea del oído izquierdo",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Rango normal",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       35,
+       50,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       35,
+       55,
+       60,
+       70
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, ambos oídos muestran una pérdida simétrica que cae hacia las frecuencias agudas; la persona usa audífonos por primera vez.",
+    "En la segunda semana, cuenta que el ruido de los cubiertos y su propia voz suenan metálicos.",
+    "En la medición en oído real, el habla media coincide con el objetivo, pero con entradas altas la salida en agudos queda algo por encima.",
+    "En este ejemplo, puede reducirse unos pocos decibeles solo la ganancia en agudos para entradas fuertes; las entradas medias y suaves no se tocan.",
+    "Se le explica a la persona que la aclimatación sigue en curso y que la ganancia en agudos se revisará de nuevo en unas semanas.",
+    "Así se logra confort y no se pierden las consonantes agudas del habla."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ajuste fino paso a paso",
+   "baslik": "*Ajuste fino* paso a paso",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Concretar",
+     "cumle": 0,
+     "metin": "¿Cuándo, dónde?"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Control físico",
+     "cumle": 1,
+     "metin": "Cerumen, molde, colocación"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Un cambio",
+     "cumle": 2,
+     "metin": "Paso pequeño"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Medir",
+     "cumle": 4,
+     "metin": "Comparar con el objetivo"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registrar",
+     "cumle": 5,
+     "metin": "Motivo y resultado"
+    }
+   ],
+   "cumleler": [
+    "El primer paso es concretar la queja: ¿cuándo, dónde, con qué sonido y hablando con quién le molesta a la persona?",
+    "El segundo paso es descartar causas físicas: cerumen, un filtro obstruido, un molde mal colocado o el programa equivocado.",
+    "En el tercer paso se cambia una sola cosa a la vez, en pasos pequeños, por ejemplo unos pocos decibeles.",
+    "Cambiar varios parámetros a la vez hace imposible saber cuál funcionó.",
+    "En el cuarto paso se comprueba el resultado con la medición en oído real, asegurándose de no perder audibilidad al resolver la queja.",
+    "En el último paso se registran el cambio y su motivo; en la visita siguiente se le pregunta a la persona por su efecto.",
+    "Este ciclo a veces lleva varias consultas; la paciencia y el seguimiento regular son parte del éxito."
+   ]
+  },
+  {
+   "id": "ayar_disi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ajuste fino paso a paso",
+   "baslik": "No todo es *programación*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Molde y ventilación",
+     "cumle": 0,
+     "metin": "Solución acústica"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Agregar un programa",
+     "cumle": 1,
+     "metin": "Música, ruido, teléfono"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Enseñar la colocación",
+     "cumle": 2,
+     "metin": "Colocación correcta"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Dispositivo de ayuda",
+     "cumle": 3,
+     "metin": "Micrófono remoto"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Orientación",
+     "cumle": 4,
+     "metin": "Expectativas realistas"
+    }
+   ],
+   "cumleler": [
+    "La solución de algunas quejas no está en el software sino en el molde; pueden cambiarse la ventilación, el largo del molde o el tipo de domo.",
+    "Los programas separados para música, ruido o teléfono ayudan a las personas a quienes un solo ajuste no les sirve en todos los entornos.",
+    "Un molde o un domo mal colocados pueden causar tanto sonido apagado como silbidos; se repite el entrenamiento en la colocación.",
+    "Si se llegó al límite del ajuste para el ruido y la distancia, se recomiendan dispositivos de ayuda como los micrófonos remotos.",
+    "Por último, hablar de la distancia entre lo que se espera del audífono y lo que es posible alivia muchas quejas sin ningún ajuste."
+   ]
+  },
+  {
+   "id": "denge",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ajuste fino paso a paso",
+   "baslik": "Equilibrar la *desviación* del objetivo",
+   "maddeler": [
+    {
+     "metin": "El ajuste fino puede alejar del objetivo",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Comprobar audibilidad con mapeo del habla",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Registrar la desviación y su motivo",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Reevaluar tras la aclimatación",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "cumle": 2,
+    "ayar": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        35,
+        50,
+        60,
+        65
+       ],
+       "cumle": 2
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Cada ajuste hecho por una queja puede alejar un poco el audífono del objetivo prescriptivo.",
+    "Las desviaciones pequeñas por confort son normales; el problema es cuando la desviación vuelve inaudibles partes importantes del habla.",
+    "Por eso, después del ajuste, miren el mapa del habla y comprueben si las consonantes agudas siguen por encima del umbral.",
+    "Cuando uno se aparta del objetivo a propósito, el motivo se anota en la historia clínica.",
+    "Así, otro profesional también puede entender por qué la adaptación es como es.",
+    "Una vez que la persona se ha aclimatado, puede intentarse acercar de nuevo al objetivo las regiones reducidas."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Anota la queja con las palabras de la persona y cuándo ocurrió. Si puedes, recrea un sonido similar en la consulta, ajusta con él y verifica midiendo.",
+   "cumleler": [
+    "Un consejo de la práctica: anoten la queja con las propias palabras de la persona, junto con el momento concreto en que la vivió.",
+    "Decir \"los platos en la cocina me perforan los oídos\" da mucha más información que decir \"los sonidos me molestan\".",
+    "Si es posible, recreen un sonido similar en la consulta; por ejemplo, usen un manojo de llaves o un sonido ambiental grabado.",
+    "Prueben el ajuste juntos mientras suena ese sonido, y pregúntenle a la persona por la diferencia.",
+    "Luego verifiquen el cambio con la medición en oído real, porque no todo ajuste que suena bien es el ajuste correcto para el habla."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Primera adaptación: ajuste físico, verificación, orientación",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Relacionar quejas con regiones de frecuencia",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Un cambio, pasos pequeños, volver a medir",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "No toda queja se resuelve programando",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que la primera adaptación se completa con el ajuste físico, la verificación frente al objetivo y la orientación del usuario.",
+    "Las quejas de sonido apagado, metálico, con eco y de la propia voz pueden relacionarse a grandes rasgos con las regiones grave, media y aguda.",
+    "En el ajuste fino se hace un cambio a la vez, con pasos pequeños, y se vuelve a medir el resultado.",
+    "Los moldes, los programas, el entrenamiento, los dispositivos de ayuda y la orientación sobre expectativas también son parte del ajuste fino."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Una persona dice que los sonidos son metálicos. ¿En qué se piensa primero?",
+   "secenekler": [
+    "Poca ganancia en graves",
+    "Demasiada ganancia en agudos",
+    "Ventilación demasiado pequeña",
+    "Pila baja"
+   ],
+   "dogru": 1,
+   "aciklama": "Descripciones como metálico o a lata suelen indicar _demasiada ganancia en los agudos_; el resultado se comprueba con mediciones.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: un usuario dice que los sonidos son metálicos, como de lata. ¿En qué posibilidad se piensa primero?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: demasiada ganancia en agudos.",
+    "Esta descripción suele indicar demasiada ganancia en agudos; ajusta en pasos pequeños y compruébalo con el mapa del habla."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Adaptación bilateral, *CROS* y BiCROS",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "En la próxima lección veremos los beneficios de adaptar ambos oídos y los sistemas CROS y BiCROS, que llevan el sonido al otro lado."
+    },
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

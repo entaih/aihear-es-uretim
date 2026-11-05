@@ -1,0 +1,882 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D223_Noise_Measurement_Dosimetry_ES",
+ "kapak": {
+  "ust": "LECCIÓN 223",
+  "baslik": "Medición del ruido y<br>*dosimetría*",
+  "alt": "Ponderación, Leq y LEX,8h",
+  "cizim": "gurultu_spektrumu"
+ },
+ "youtube": {
+  "baslik": "Medición del ruido y dosimetría | Lección 223 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo se mide el ruido en el trabajo y cómo se calcula la exposición diaria de un trabajador? En esta lección vemos el sonómetro, la ponderación en frecuencia A y C, la ponderación temporal, el nivel sonoro continuo equivalente (Leq), el nivel de exposición diaria al ruido (LEX,8h), el dosímetro personal, las estrategias de medición y cómo se suman los decibeles como energía.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: IEC 61672-1, Electroacoustics: Sound level meters; IEC 61252, Electroacoustics: Specifications for personal sound exposure meters; ISO 9612, Acoustics: Determination of occupational noise exposure, Engineering method; ISO 1999; NIOSH, Criteria for a Recommended Standard: Occupational Noise Exposure (1998); Regulation on the Protection of Employees from Noise-Related Risks, Turquía, Boletín Oficial 28.07.2013, n.º 28721.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "saludocupacional",
+   "ruido"
+  ],
+  "etiketler": [
+   "medición del ruido",
+   "dosimetría",
+   "dosímetro de ruido",
+   "sonómetro",
+   "ponderación A",
+   "ponderación C",
+   "Leq",
+   "LEX,8h",
+   "dosis de ruido",
+   "ISO 9612",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 223",
+   "baslik": "Medición del ruido y *dosimetría*",
+   "alt": "Sonómetro, ponderación y exposición diaria",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo se mide el ruido en el trabajo y cómo se calcula la exposición diaria de un trabajador.",
+    "Veremos el sonómetro, la ponderación en frecuencia y en tiempo, el nivel sonoro continuo equivalente y el dosímetro personal."
+   ]
+  },
+  {
+   "id": "ses_olcer",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El equipo de medición",
+   "baslik": "El *sonómetro*",
+   "maddeler": [
+    {
+     "metin": "Nivel de presión sonora en un punto",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Micrófono, filtros, pantalla",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "IEC 61672: clase 1 y clase 2",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Control de _calibración_ antes y después",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ses_duzeyi_olcer",
+    "cumle": 1,
+    "ayar": {
+     "kalibrator_cumle": 4
+    },
+    "etiketler": [
+     {
+      "parca": "mikrofon",
+      "metin": "Micrófono",
+      "cumle": 1
+     },
+     {
+      "parca": "gosterge",
+      "metin": "Pantalla",
+      "cumle": 1
+     },
+     {
+      "parca": "kalibrator",
+      "metin": "Calibrador",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "El sonómetro es un equipo que mide el nivel de presión sonora en un punto.",
+    "Sus partes básicas son un micrófono, un amplificador, filtros de ponderación en frecuencia y en tiempo, y una pantalla.",
+    {
+     "yazi": "La norma internacional IEC 61672 define el desempeño de los sonómetros.",
+     "ses": "La norma internacional IEC sesenta y uno seiscientos setenta y dos define el desempeño de los sonómetros."
+    },
+    "La norma define dos clases de precisión: la clase 1 es más precisa, y la clase 2 se usa para mediciones generales de campo.",
+    "Antes y después de medir, el equipo se controla con un calibrador acústico.",
+    {
+     "yazi": "El calibrador es un pequeño dispositivo que entrega al micrófono un sonido de frecuencia y nivel conocidos, por ejemplo 94 decibeles a 1000 hertz."
+    },
+    "Si hay una diferencia clara entre los dos controles, la medición no se considera confiable y se repite."
+   ]
+  },
+  {
+   "id": "agirlik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El equipo de medición",
+   "baslik": "Ponderación *A y C*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 31.5,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      31.5,
+      63,
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -40,
+     "max": 5,
+     "adim": 10,
+     "ad": "Corrección (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "a_egrisi",
+      "noktalar": [
+       [
+        31.5,
+        -39.4
+       ],
+       [
+        63,
+        -26.2
+       ],
+       [
+        125,
+        -16.1
+       ],
+       [
+        250,
+        -8.6
+       ],
+       [
+        500,
+        -3.2
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        1.2
+       ],
+       [
+        4000,
+        1.0
+       ],
+       [
+        8000,
+        -1.1
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "A",
+      "cumle": 1
+     },
+     {
+      "ad": "c_egrisi",
+      "noktalar": [
+       [
+        31.5,
+        -3.0
+       ],
+       [
+        63,
+        -0.8
+       ],
+       [
+        125,
+        -0.2
+       ],
+       [
+        250,
+        0
+       ],
+       [
+        500,
+        0
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        -0.2
+       ],
+       [
+        4000,
+        -0.8
+       ],
+       [
+        8000,
+        -3.0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "C",
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "a125",
+      "x": 125,
+      "y": -16.1,
+      "etiket": "cerca de -16 dB",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "A: similar a la sensibilidad del oído",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "dB(A) para la exposición laboral",
+     "cumle": 3,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "C: casi plana, valor pico",
+     "cumle": 5,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "El oído humano no es igual de sensible en todas las frecuencias; es menos sensible a los sonidos graves, sobre todo a niveles moderados.",
+    "La ponderación A filtra el sonido medido de un modo que se parece a esta sensibilidad del oído.",
+    {
+     "yazi": "Como muestra la curva azul, el filtro A es cero a 1000 Hz, cerca de menos 16 decibeles a 125 Hz y cerca de menos 39 a 31,5 Hz."
+    },
+    {
+     "yazi": "Un resultado con ponderación A se escribe dB(A), y se usa para la exposición laboral porque se relaciona bien con el riesgo de pérdida auditiva."
+    },
+    "La ponderación C, como muestra la línea discontinua, es casi plana; solo atenúa un poco en los extremos muy graves y muy agudos.",
+    {
+     "yazi": "Por eso la presión acústica pico se mide con ponderación C, y el resultado se escribe dB(C)."
+    },
+    "Una medición sin ningún filtro se llama ponderación Z, es decir, ponderación cero."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "El equipo de medición",
+   "baslik": "Ponderación *temporal*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Rápida (F)",
+     "metin": "Unos 125 milisegundos",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Lenta (S)",
+     "metin": "1 segundo",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Pico",
+     "metin": "Mayor valor instantáneo",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Integradora",
+     "metin": "Promedio de energía",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El nivel sonoro fluctúa con el tiempo; la rapidez con que el equipo sigue esas fluctuaciones se llama ponderación temporal.",
+    "El modo rápido usa una constante de tiempo de unos 125 milisegundos y sigue de cerca los cambios.",
+    "El modo lento usa una constante de tiempo de 1 segundo y da una lectura más estable.",
+    "Estos modos muestran el nivel instantáneo, pero por sí solos no dan la energía total de una jornada laboral.",
+    "El mayor valor instantáneo de los sonidos impulsivos se mide por separado como valor pico.",
+    "Lo que de verdad necesita la exposición laboral es una medición integradora, que promedia la energía en el tiempo.",
+    "Por eso, en las mediciones laborales se registra el nivel equivalente que veremos en la próxima parte, y no un valor instantáneo."
+   ]
+  },
+  {
+   "id": "olcum_adim",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "El equipo de medición",
+   "baslik": "Medición en un *punto fijo*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Calibrar",
+     "metin": "Control con calibrador",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Configurar",
+     "metin": "Ponderación, tipo de medición",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Ubicar",
+     "metin": "A la altura del oído",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Medir y registrar",
+     "metin": "Durante tiempo suficiente",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La medición en un punto fijo con sonómetro también sigue pasos definidos.",
+    "Primero se controla el equipo con el calibrador, y se eligen la ponderación y el tipo de medición.",
+    "El micrófono se coloca en el puesto del trabajador a la altura del oído; quien mide lo aleja del cuerpo para no bloquear el sonido.",
+    "La medición dura lo suficiente para reflejar cómo varía el sonido, y se registra su duración.",
+    "Donde hay movimiento de aire, se coloca una pantalla antiviento en el micrófono.",
+    "Este método también se usa para elaborar mapas de ruido de máquinas y zonas de trabajo."
+   ]
+  },
+  {
+   "id": "leq",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Leq y nivel diario",
+   "baslik": "Nivel sonoro continuo *equivalente*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 8,
+     "adim": 1,
+     "ad": "Turno (horas)"
+    },
+    "y": {
+     "min": 75,
+     "max": 100,
+     "adim": 5,
+     "ad": "Nivel (dB(A))"
+    },
+    "seriler": [
+     {
+      "ad": "duzey",
+      "noktalar": [
+       [
+        0,
+        85
+       ],
+       [
+        2,
+        85
+       ],
+       [
+        2,
+        95
+       ],
+       [
+        3,
+        95
+       ],
+       [
+        3,
+        80
+       ],
+       [
+        5,
+        80
+       ],
+       [
+        5,
+        92
+       ],
+       [
+        6,
+        92
+       ],
+       [
+        6,
+        85
+       ],
+       [
+        8,
+        85
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "etiket": "día de ejemplo",
+      "cumle": 2
+     },
+     {
+      "ad": "leq",
+      "noktalar": [
+       [
+        0,
+        89
+       ],
+       [
+        8,
+        89
+       ]
+      ],
+      "renk": "kirmizi",
+      "kesik": true,
+      "etiket": "Leq cerca de 89",
+      "cumle": 5
+     },
+     {
+      "ad": "ortalama",
+      "noktalar": [
+       [
+        0,
+        86
+       ],
+       [
+        8,
+        86
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "media aritmética 86",
+      "cumle": 5
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "tepe_saat",
+      "x": 2.5,
+      "y": 95,
+      "etiket": "1 hora a 95",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Nivel constante con igual energía",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Promedio de energía, no aritmético",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Los picos breves dominan",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El nivel sonoro continuo equivalente, o Leq, es el nivel constante que tiene la misma energía que un sonido fluctuante."
+    },
+    {
+     "yazi": "Cuando se mide con ponderación A, se escribe LAeq."
+    },
+    {
+     "yazi": "En este gráfico de ejemplo, el nivel del trabajador varía entre 80 y 95 dB(A) durante el día."
+    },
+    {
+     "yazi": "El Leq es el promedio energético de estas fluctuaciones, no la media aritmética."
+    },
+    {
+     "yazi": "Los períodos breves de nivel alto aportan mucha energía, así que elevan el Leq de forma marcada."
+    },
+    {
+     "yazi": "En este ejemplo el Leq da cerca de 89 dB(A), mientras que la media aritmética de los niveles es de unos 86."
+    },
+    {
+     "yazi": "Así, una hora de trabajo a 95 dB(A) pesa mucho más que las horas más tranquilas del día."
+    }
+   ]
+  },
+  {
+   "id": "lex",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Leq y nivel diario",
+   "baslik": "Nivel de exposición diaria: *LEX,8h*",
+   "maddeler": [
+    {
+     "metin": "Nivel normalizado a ocho horas",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Turno corto lo baja, largo lo sube",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Ejemplo: 4 horas a 91 = 88 dB(A)",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La normativa usa este nivel",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "CÁLCULO DE EJEMPLO",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kronometre",
+      "baslik": "4 horas",
+      "metin": "91 dB(A)",
+      "cumle": 3
+     },
+     {
+      "ikon": "saat",
+      "baslik": "Repartido en 8 horas",
+      "metin": "La energía se reduce a la mitad",
+      "cumle": 4
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Resultado",
+      "metin": "88 dB(A)",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "El nivel de exposición diaria al ruido se escribe LEX,8h."
+    },
+    {
+     "yazi": "Este valor es el LAeq durante el tiempo real de trabajo, normalizado a una jornada laboral de ocho horas."
+    },
+    "Si el tiempo de trabajo con ruido es menor de ocho horas, el nivel diario baja; si es mayor, sube.",
+    {
+     "yazi": "Por ejemplo, quien trabaja 4 horas a 91 dB(A), sin ruido relevante el resto del día, tiene un nivel diario de 88 dB(A)."
+    },
+    "Esto se debe a que reducir el tiempo a la mitad reduce la energía a la mitad, lo que equivale a 3 decibeles menos.",
+    "Los valores de acción y el valor límite del reglamento de Turquía se comparan con este nivel diario.",
+    {
+     "yazi": "Para calcular los niveles diario y semanal, el reglamento remite a la norma turca TS 2607 ISO 1999.",
+     "ses": "Para calcular los niveles diario y semanal, el reglamento remite a la norma turca te ese veintiséis cero siete, ISO mil novecientos noventa y nueve."
+    }
+   ]
+  },
+  {
+   "id": "dozimetre",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Dosimetría",
+   "baslik": "El *dosímetro* personal",
+   "maddeler": [
+    {
+     "metin": "Se mueve con el trabajador",
+     "cumle": 1,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Norma IEC 61252",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Micrófono: hombro del lado expuesto",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Leq, LEX,8h, pico, dosis",
+     "cumle": 4,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Golpes y gritos _engañan_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "dozimetre",
+    "cumle": 1,
+    "ayar": {
+     "mikrofon_cumle": 3,
+     "sonuc_cumle": 4
+    },
+    "etiketler": [
+     {
+      "parca": "dozimetre",
+      "metin": "Dosímetro",
+      "cumle": 1
+     },
+     {
+      "parca": "mikrofon",
+      "metin": "Micrófono: en el hombro",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Si un trabajador se desplaza entre lugares y tareas durante el día, una medición en un punto fijo no basta.",
+    "El dosímetro de ruido es un medidor que lleva puesto el trabajador y que acumula la exposición durante todo el turno.",
+    {
+     "yazi": "El desempeño de los medidores personales de exposición sonora lo define la norma IEC 61252.",
+     "ses": "El desempeño de los medidores personales de exposición sonora lo define la norma IEC sesenta y uno doscientos cincuenta y dos."
+    },
+    "El micrófono suele colocarse en el hombro del lado más cercano a la fuente de ruido, cerca del oído.",
+    {
+     "yazi": "Al final del turno, el equipo da resultados como el Leq, el nivel de exposición diaria, el valor pico y el porcentaje de dosis."
+    },
+    "El dosímetro refleja los movimientos reales del trabajador, pero puede verse afectado por sonidos artificiales, como golpes en el micrófono o gritos.",
+    "Por eso se le indica al trabajador que no toque el micrófono, y luego se revisa el registro a lo largo del tiempo.",
+    "El dosímetro también se controla con un calibrador antes y después del turno."
+   ]
+  },
+  {
+   "id": "strateji",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Dosimetría",
+   "baslik": "*Estrategias* de medición",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Por tarea",
+     "metin": "Nivel y duración de cada tarea",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Por puesto",
+     "metin": "Muestras de un grupo",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Jornada completa",
+     "metin": "Dosímetro durante todo el turno",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La norma internacional ISO 9612 define tres estrategias para medir el ruido laboral."
+    },
+    "En la medición por tarea, la jornada se divide en tareas, y el nivel y la duración de cada una se obtienen por separado.",
+    "En la medición por puesto de trabajo, se toman mediciones de muestra en un grupo de trabajadores que hacen el mismo trabajo.",
+    "En la medición de jornada completa, se sigue al trabajador con un dosímetro durante todo el turno.",
+    "La elección depende de cuán regular es el trabajo y de cuánto se desplaza el trabajador durante el día.",
+    "Sea cual sea la estrategia, también se calcula la incertidumbre de medición y se indica en el informe.",
+    "La medición por tarea muestra además qué tarea debe priorizarse para reducir el ruido."
+   ]
+  },
+  {
+   "id": "toplama",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Cálculo e interpretación",
+   "baslik": "Los decibeles *no se suman sin más*",
+   "ogeler": [
+    {
+     "ikon": "fabrika",
+     "baslik": "Dos máquinas",
+     "metin": "85 + 85 = 88 dB(A)",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Dosis del 100 %",
+     "metin": "85 dB(A), 8 horas",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Cada 3 dB",
+     "metin": "La dosis se duplica",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los decibeles no se suman aritméticamente; lo que se suma es la energía de los sonidos.",
+    {
+     "yazi": "Por ejemplo, cuando funcionan juntas dos máquinas que producen 85 dB(A) cada una, el total es de unos 88 dB(A), no 170."
+    },
+    "El porcentaje de dosis que da el dosímetro se basa en el mismo principio de energía.",
+    {
+     "yazi": "Con una referencia de 85 dB(A) y una tasa de intercambio de 3 decibeles, 85 dB(A) durante ocho horas equivalen a una dosis del 100 por ciento."
+    },
+    {
+     "yazi": "Cada aumento de 3 decibeles duplica la dosis: ocho horas a 88 dB(A) son una dosis del 200 por ciento, y a 91 dB(A), del 400 por ciento."
+    },
+    "El nivel de referencia y la tasa de intercambio del dosímetro deben ajustarse según la normativa que se aplica.",
+    "La fuente más ruidosa entre las que funcionan juntas determina el nivel total, así que la reducción del ruido empieza por ella."
+   ]
+  },
+  {
+   "id": "odyolog",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Cálculo e interpretación",
+   "baslik": "El audiólogo y los *resultados de medición*",
+   "maddeler": [
+    {
+     "metin": "Medir es sobre todo higiene ocupacional",
+     "cumle": 0,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Leer e interpretar los resultados",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Junto con los cambios del audiograma",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Una base para elegir protectores",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "gurultu_spektrumu",
+    "ayar": {
+     "tur": "pembe",
+     "gosterim": "oktav",
+     "oktav_cumle": 3
+    },
+    "cumle": 3,
+    "vurgula": [
+     {
+      "parca": "oktav_bantlari",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "La medición del ruido es sobre todo campo de los especialistas en higiene y seguridad ocupacional.",
+    "Sin embargo, el audiólogo debe saber leer los resultados e interpretarlos junto con los hallazgos audiométricos.",
+    "Por ejemplo, si los cambios audiométricos se concentran en un área con exposición alta, hay que revisar el programa.",
+    "Los resultados de medición, junto con el análisis por bandas de octava, también sirven para decidir cuánta atenuación necesita un protector auditivo.",
+    "Seguir juntos los resultados de medición y de audiometría facilita evaluar qué tan bien funciona el programa de conservación auditiva.",
+    "En la próxima lección veremos los tipos de protectores auditivos y la protección que dan en la vida real."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En el informe, incluye no solo el resultado, sino también la clase del equipo, los controles de calibración, la ponderación, la duración y la referencia y la tasa del dosímetro.",
+   "cumleler": [
+    "Un consejo clínico: en el informe de medición, anoten no solo el resultado, sino también las condiciones de medición.",
+    "La clase del equipo, los controles de calibración, la ponderación elegida y la duración de la medición deben figurar en el informe.",
+    "En el caso del dosímetro, anoten siempre en qué valores se ajustaron el nivel de referencia y la tasa de intercambio.",
+    "Sin esta información, los resultados de dos mediciones no pueden compararse con confianza."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "A: exposición; C: valor pico",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Leq: promedio de energía",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "LEX,8h: normalizado a ocho horas",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Dosímetro: personal, todo el turno",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "La exposición laboral se mide con ponderación A, y la presión acústica pico, con ponderación C.",
+    {
+     "yazi": "El Leq es el promedio energético de un sonido fluctuante; los períodos breves de nivel alto lo elevan de forma marcada."
+    },
+    "El nivel de exposición diaria es el nivel durante el tiempo de trabajo normalizado a una jornada de ocho horas.",
+    "El dosímetro personal acumula la exposición durante el turno y da el resultado como nivel y como porcentaje de dosis."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Dos máquinas de 85 dB(A) juntas, ¿cuántos dB(A) dan?",
+   "secenekler": [
+    "85",
+    "Cerca de 88",
+    "95",
+    "170"
+   ],
+   "dogru": 1,
+   "aciklama": "La energía se duplica: un aumento de _3 decibeles_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: dos máquinas producen 85 dB(A) cada una. Si funcionan juntas, ¿cuál es el nivel total aproximado?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: unos 88 dB(A)."
+    },
+    "La energía se duplica, lo que equivale a un aumento de 3 decibeles; los decibeles no se suman aritméticamente."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Protectores auditivos: tipos y *protección real*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos los tipos de protectores auditivos y la protección que dan en el uso real.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,741 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D196_Fitting_Hearing_Aids_Children_ES",
+ "kapak": {
+  "ust": "LECCIÓN 196",
+  "baslik": "Audífonos<br>para *niños*",
+  "alt": "DSL v5, RECD y seguimiento familiar",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "BTE"
+  }
+ },
+ "youtube": {
+  "baslik": "Adaptación de audífonos en bebés y niños | Lección 196 | AIHEAR Academia de Audiología",
+  "aciklama": "¿En qué se diferencia la adaptación de audífonos en bebés y niños de la adaptación en adultos? En esta lección vemos los plazos de adaptación, la cadena que va de los umbrales específicos por frecuencia a la RECD y los objetivos de DSL v5, la seguridad de las pilas y el cambio de moldes, y el registro de datos con el seguimiento familiar.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: American Academy of Audiology, Clinical Practice Guidelines: Pediatric Amplification (2013); Joint Committee on Infant Hearing, Year 2007 Position Statement y Year 2019 Position Statement; Walker y cols. (2013), Language, Speech, and Hearing Services in Schools; Tomblin y cols. (2015), Ear and Hearing; Bagatto y cols. (2005), Trends in Amplification; Institución de Seguridad Social (SGK), Comunicado de Aplicación en Salud (SUT), Turquía.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "audiologiapediatrica"
+  ],
+  "etiketler": [
+   "adaptación pediátrica de audífonos",
+   "DSL v5",
+   "RECD",
+   "registro de datos",
+   "retención del audífono",
+   "seguridad de las pilas",
+   "JCIH",
+   "intervención temprana",
+   "seis sonidos de Ling",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 196",
+   "baslik": "Audífonos para *niños*",
+   "alt": "DSL v5, RECD, seguridad y seguimiento familiar",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos por qué y en qué se diferencia la adaptación de audífonos en bebés y niños de la adaptación en adultos.",
+    "Veremos la adaptación según objetivos prescriptivos y la medición en el conducto, los moldes, la seguridad y el seguimiento familiar con registro de datos."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué los niños son distintos?",
+   "baslik": "El tiempo es *crítico*",
+   "adimlar": [
+    {
+     "ikon": "tarama",
+     "baslik": "Tamizaje",
+     "cumle": 0,
+     "metin": "Primer mes"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Diagnóstico",
+     "cumle": 1,
+     "metin": "Tercer mes"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Audífono",
+     "cumle": 2,
+     "metin": "En el mes siguiente al diagnóstico"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Intervención",
+     "cumle": 3,
+     "metin": "Sexto mes"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Recordemos la meta 1-3-6 del Comité Conjunto de Audición Infantil, o JCIH: el tamizaje se completa en el primer mes.",
+     "ses": "Recordemos la meta uno, tres, seis del Comité Conjunto de Audición Infantil, o JCIH: el tamizaje se completa en el primer mes."
+    },
+    "El diagnóstico se hace antes de que termine el tercer mes.",
+    {
+     "yazi": "Si la familia elige audífonos, la declaración del JCIH de 2007 indica que deben adaptarse dentro del mes siguiente al diagnóstico."
+    },
+    {
+     "yazi": "La intervención temprana empieza antes del fin del sexto mes; la declaración de 2019 propone plazos más cortos a los programas que ya cumplen esta meta."
+    },
+    "La razón es simple: los primeros años son el período más sensible para el lenguaje, y lo que no se oye no se puede aprender.",
+    "Por eso, la adaptación de audífonos en un niño se hace sin demora, pero con una planificación cuidadosa."
+   ]
+  },
+  {
+   "id": "farklar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué los niños son distintos?",
+   "baslik": "Un niño no es un *adulto pequeño*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Aprende el lenguaje",
+     "cumle": 0,
+     "metin": "La audibilidad es lo primero"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Oído en crecimiento",
+     "cumle": 1,
+     "metin": "Cambian la RECD y el molde"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "No puede decirlo",
+     "cumle": 2,
+     "metin": "Observación y medición"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Seguridad",
+     "cumle": 3,
+     "metin": "Pilas y piezas pequeñas"
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Entornos",
+     "cumle": 4,
+     "metin": "Casa, guardería, escuela"
+    }
+   ],
+   "cumleler": [
+    "Un adulto vuelve a oír con el audífono un idioma que ya conoce; un niño aprende el lenguaje a partir de los sonidos que oye con el audífono.",
+    "El conducto auditivo de un niño crece rápido; la diferencia oído real-acoplador, o RECD, y el tamaño del molde cambian constantemente.",
+    "Un bebé no puede decir si el sonido le molesta o no le alcanza, así que la adaptación se apoya sobre todo en la medición y la observación familiar.",
+    "Las pilas y las piezas pequeñas implican riesgo de ingestión y de asfixia, por lo que la seguridad es un tema aparte.",
+    "Un niño pasa tiempo en distintos entornos de escucha en casa, la guardería y la escuela; sistemas como los micrófonos remotos se consideran pronto.",
+    "Todas estas diferencias hacen de la adaptación pediátrica de audífonos una especialidad en sí misma."
+   ]
+  },
+  {
+   "id": "esik",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "La cadena de adaptación",
+   "baslik": "Ejemplo: umbrales estimados *con PEATC*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Oído derecho, estimado",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Oído izquierdo, estimado",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Rango normal",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       null,
+       50,
+       55,
+       60,
+       65,
+       null
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       null,
+       55,
+       55,
+       65,
+       70,
+       null
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, se estimaron los umbrales de un bebé de tres meses con potenciales evocados auditivos de tronco cerebral específicos por frecuencia, o PEATC.",
+    "Se obtuvieron umbrales a 500, 1000, 2000 y 4000 Hz; ambos oídos muestran una pérdida moderada a moderadamente severa.",
+    "Los umbrales de PEATC no son umbrales conductuales; se convierten en niveles auditivos estimados con las correcciones apropiadas.",
+    "El audífono se adapta a estas estimaciones y, a medida que el niño crece, los umbrales se actualizan continuamente con pruebas conductuales.",
+    "La corrección usada para obtener los umbrales estimados debe ingresarse correctamente en el software; de lo contrario, el objetivo se desplaza.",
+    "Por eso, la primera adaptación no es un punto final, sino un punto de partida que se sigue de cerca."
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "La cadena de adaptación",
+   "baslik": "La *cadena* de adaptación",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Umbral",
+     "cumle": 0,
+     "metin": "Específico por frecuencia"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "RECD",
+     "cumle": 1,
+     "metin": "Preferiblemente medida"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Objetivo",
+     "cumle": 2,
+     "metin": "DSL v5 o NAL-NL2"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Ajuste en acoplador",
+     "cumle": 4,
+     "metin": "Medición simulada"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Validación",
+     "cumle": 5,
+     "metin": "Observación familiar"
+    }
+   ],
+   "cumleler": [
+    "La adaptación en un niño es como una cadena de eslabones unidos; el primer eslabón son los umbrales específicos por frecuencia.",
+    {
+     "yazi": "El segundo eslabón es la RECD; la guía de 2013 de la Academia Estadounidense de Audiología recomienda una RECD medida siempre que sea posible."
+    },
+    {
+     "yazi": "Para el objetivo, la guía recomienda una fórmula prescriptiva genérica y validada, como el nivel de sensación deseado, DSL v5, o NAL-NL2."
+    },
+    {
+     "yazi": "Como DSL v5 se desarrolló para niños, busca especialmente hacer audible el habla en una banda amplia."
+    },
+    "El audífono se ajusta en la caja de pruebas, y el nivel en el oído, obtenido al sumar la RECD a la salida en el acoplador, se compara con el objetivo.",
+    "El último eslabón es la validación: la familia observa las respuestas del niño al sonido en la vida diaria y las informa en cuestionarios estructurados.",
+    "Si un eslabón de la cadena es débil, por ejemplo si la estimación del umbral está desactualizada, toda la adaptación puede desviarse."
+   ]
+  },
+  {
+   "id": "bte",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "La cadena de adaptación",
+   "baslik": "¿Por qué *retroauricular?*",
+   "cizim": "isitme_cihazi",
+   "ayar": {
+    "tip": "BTE"
+   },
+   "etiketler": [
+    {
+     "parca": "kalip",
+     "metin": "el molde blando se renueva",
+     "cumle": 1
+    },
+    {
+     "parca": "pil",
+     "metin": "portapilas con seguro",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kalip",
+     "cumle": 1
+    },
+    {
+     "parca": "pil",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Molde nuevo para un oído que crece",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Potente, compatible con micrófonos remotos",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Seguros de protección",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "En los niños, los audífonos retroauriculares son los que más se eligen.",
+    "A medida que el oído crece, solo se renueva el molde y no el audífono; esto es práctico y económico.",
+    "Un audífono retroauricular puede dar la potencia necesaria para pérdidas severas y se conecta fácilmente con sistemas de micrófono remoto.",
+    "Las funciones de seguridad, como el seguro del portapilas, también se encuentran sobre todo en este modelo.",
+    "En Turquía, la Institución de Seguridad Social no cubre los audífonos intraauriculares ni intracanales usados por menores de 13 años.",
+    "Según la misma normativa, para los menores de 18 años se aplica un pago mayor según el grupo de edad.",
+    "Como estos montos y condiciones pueden cambiar, siempre hay que consultar la normativa vigente."
+   ]
+  },
+  {
+   "id": "muz",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "La cadena de adaptación",
+   "baslik": "El objetivo: *todo* el habla",
+   "cizim": "konusma_muzu",
+   "ayar": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       null,
+       50,
+       55,
+       60,
+       65,
+       null
+      ],
+      "cumle": 0
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "unsuzler",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "En este dibujo, los umbrales del niño del ejemplo se superponen a la región del habla.",
+    "Sin audífono, la mayoría de los sonidos del habla, sobre todo las consonantes agudas, quedan por debajo del umbral.",
+    "Un niño que no oye los sonidos agudos s y sh aprende con dificultad las palabras y terminaciones que los llevan; en inglés, la s marca el plural y el posesivo.",
+    "Por eso, en un niño el objetivo es hacer audible la mayor parte posible del habla, a un nivel seguro y cómodo.",
+    "Por esta razón, los objetivos para niños suelen pedir más audibilidad que los objetivos para adultos con el mismo audiograma.",
+    "Si no se logra suficiente audibilidad en agudos, pueden considerarse con cuidado opciones como la reducción de frecuencias, siempre con verificación."
+   ]
+  },
+  {
+   "id": "guvenlik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Seguridad y retención",
+   "baslik": "La seguridad *primero*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Portapilas con seguro",
+     "cumle": 0,
+     "metin": "Para niños pequeños"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Ajustes fijos",
+     "cumle": 2,
+     "metin": "Control de volumen desactivado"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Ingestión de pila",
+     "cumle": 3,
+     "metin": "Una emergencia"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Luz indicadora",
+     "cumle": 4,
+     "metin": "Muestra que funciona"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Clip y cordón",
+     "cumle": 5,
+     "metin": "Evita la pérdida"
+    }
+   ],
+   "cumleler": [
+    "Para los niños pequeños se recomienda un portapilas con seguro; el niño no debe poder sacar la pila solo.",
+    "Las pilas y las piezas pequeñas pueden llevarse a la boca; se indica a las familias guardar las pilas bajo llave y desechar enseguida las usadas.",
+    "En los niños pequeños, el control de volumen suele desactivarse o bloquearse, para que el ajuste no cambie por accidente.",
+    "Tragar una pila es una emergencia; se les da a las familias el número del centro de toxicología y se les indica acudir de inmediato a urgencias.",
+    "Algunos audífonos tienen una luz que indica que están funcionando; esto facilita los controles a las familias y a los docentes.",
+    "Un clip o un cordón sujeto a la ropa evita que el audífono se caiga y se pierda.",
+    "Las familias deben acostumbrarse a guardar siempre el audífono que se quitan en la misma caja cerrada."
+   ]
+  },
+  {
+   "id": "tutma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Seguridad y retención",
+   "baslik": "Moldes y *retención*",
+   "maddeler": [
+    {
+     "metin": "En bebés, moldes nuevos _cada mes_",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Se prefiere material blando",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Silbido: el molde puede quedar pequeño",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Cinta, gorros, clips: ayudas de retención",
+     "cumle": 4,
+     "ikon": "bebek"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "etiketler": [
+     {
+      "parca": "kalip",
+      "metin": "molde que quedó pequeño: silbido",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "La guía pediátrica de 2013 de la Academia Estadounidense de Audiología señala que en los bebés los moldes pueden necesitar cambio incluso cada mes."
+    },
+    "Para los moldes se suelen preferir materiales blandos; no lastiman el oído ante un golpe y son más cómodos.",
+    "Si un audífono que antes no silbaba empieza a silbar, la causa más común es que al niño le quedó pequeño el molde.",
+    "En ese caso se toma una nueva impresión en lugar de reducir la ganancia, porque bajar la ganancia reduce la audibilidad del niño.",
+    "Mantener el audífono en el oído, lo que se llama retención, es un gran desafío, sobre todo cuando el bebé empieza a quitárselo.",
+    "La cinta adhesiva de doble cara, los gorros blandos y los clips ayudan a mantener el audífono en su lugar."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "El uso y la familia",
+   "baslik": "Estimación de los padres y *registro de datos*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 2.5,
+     "ad": " ",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Parent report",
+      "2": "Data logging",
+      "1": "Informe de los padres",
+      "2": "Registro de datos"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 14,
+     "adim": 2,
+     "ad": "Uso diario (horas)"
+    },
+    "seriler": [
+     {
+      "ad": "ebeveyn",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        1,
+        10.8
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "unas 11 horas",
+      "etiket_konum": [
+       1,
+       10.8
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "kayit",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        2,
+        8.3
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "unas 8 horas",
+      "etiket_konum": [
+       2,
+       8.3
+      ],
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "on_saat",
+      "x": 2.5,
+      "y": 10,
+      "cizgi": "yatay",
+      "etiket": "10 horas",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Saber cuánto se usa el audífono es uno de los datos de seguimiento más importantes en los niños.",
+    "El registro de datos del audífono, su registro de uso, muestra de forma objetiva cuántas horas al día está encendido.",
+    "En un estudio, los padres informaron que sus hijos usaban los audífonos unas 11 horas al día en promedio.",
+    "El registro de datos de esos mismos niños mostró unas 8 horas en promedio; la mayoría de los padres sobreestimó el uso.",
+    {
+     "yazi": "En el estudio Outcomes of Children with Hearing Loss, u OCHL, los niños que usaban audífonos 10 horas o más al día desarrollaron el lenguaje más rápido.",
+     "ses": "En el estudio OCHL, sobre niños con pérdida auditiva, los niños que usaban audífonos 10 horas o más al día desarrollaron el lenguaje más rápido."
+    },
+    "Por eso, en cada visita se revisa el registro de datos junto con la familia; el objetivo no es culpar, sino aumentar el uso entre todos."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "El uso y la familia",
+   "baslik": "La familia es *parte del equipo*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Control de escucha",
+     "cumle": 0,
+     "metin": "Cada mañana"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Sonidos de Ling",
+     "cumle": 1,
+     "metin": "Control con seis sonidos"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Horas de vigilia",
+     "cumle": 2,
+     "metin": "Meta: todo el día"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Momentos difíciles",
+     "cumle": 3,
+     "metin": "Auto, baño, comidas"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Apoyo",
+     "cumle": 4,
+     "metin": "Grupos de familias"
+    }
+   ],
+   "cumleler": [
+    "Se enseña a las familias a escuchar ellas mismas el audífono cada mañana con un estetoscopio de escucha.",
+    "En la prueba de los seis sonidos de Ling se pronuncian los sonidos m, u, a, i, sh y s, y se observa la respuesta del niño.",
+    "El objetivo es que el niño lleve el audífono durante todas sus horas de vigilia.",
+    "Con la familia se identifican los momentos en que el audífono suele quitarse, como los viajes en auto, las comidas y el juego, y se buscan soluciones.",
+    "Conocer a familias que pasaron por experiencias similares, y los grupos de apoyo, fortalecen la motivación de la familia.",
+    "El predictor más fuerte del éxito con audífonos a menudo no es el audífono en sí, sino la participación diaria de la familia."
+   ]
+  },
+  {
+   "id": "takip",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "El uso y la familia",
+   "baslik": "El *ciclo* de seguimiento",
+   "adimlar": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Actualizar umbrales",
+     "cumle": 0,
+     "metin": "Pruebas conductuales"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "RECD y molde",
+     "cumle": 1,
+     "metin": "Renovar con el crecimiento"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Volver a verificar",
+     "cumle": 2,
+     "metin": "Ajuste al objetivo"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Desarrollo",
+     "cumle": 3,
+     "metin": "Lenguaje y escucha"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Reunión con la familia",
+     "cumle": 4,
+     "metin": "Uso y metas"
+    }
+   ],
+   "cumleler": [
+    "En el seguimiento, primero se actualizan los umbrales con pruebas conductuales adecuadas a la edad del niño.",
+    "A medida que el oído crece, se vuelve a medir la RECD y se renueva el molde.",
+    "Después de cada cambio, la salida del audífono se compara de nuevo con el objetivo.",
+    "El desarrollo del lenguaje y de la escucha se sigue con escalas adecuadas a la edad y con cuestionarios para padres.",
+    "En los primeros años las visitas son frecuentes; las guías recomiendan una evaluación regular según las necesidades del niño y no un calendario fijo.",
+    "En la edad escolar, la acústica del aula y la necesidad de un micrófono remoto también se suman a la agenda del seguimiento.",
+    "Si el desarrollo se retrasa, se reconsideran la adaptación, las horas de uso y opciones como el micrófono remoto o el implante coclear."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si un audífono empieza a silbar, no bajes la ganancia; casi siempre el molde quedó pequeño. Toma una nueva impresión, vuelve a medir la RECD y verifica la salida.",
+   "cumleler": [
+    "Un consejo de la práctica: si el audífono de un bebé, que antes no silbaba, empieza a silbar, el primer paso no debe ser bajar la ganancia.",
+    "Este silbido suele indicar que el niño creció y que el molde ya no sella por completo el conducto auditivo.",
+    "Se toma una nueva impresión; cuando llega el molde nuevo, se vuelve a medir la RECD y se compara otra vez la salida del audífono con el objetivo.",
+    "Hasta que llegue el molde, pueden usarse como soluciones temporales las sugerencias del fabricante, pero la solución real es un molde nuevo.",
+    "Explicarle a la familia que el silbido puede ser una señal de crecimiento y no una falla alivia su preocupación."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Audífono dentro del mes del diagnóstico",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Umbral, RECD, DSL v5 o NAL-NL2",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Portapilas con seguro y moldes nuevos frecuentes",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Seguimiento familiar con registro de datos",
+     "cumle": 3,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que, si la familia lo elige, el audífono del niño debe adaptarse dentro del mes siguiente al diagnóstico.",
+    "La cadena de adaptación consta de umbrales por frecuencia, una RECD medida, un objetivo prescriptivo y la verificación en la caja de pruebas.",
+    "El portapilas con seguro, los ajustes fijos y el cambio frecuente de moldes son partes esenciales de la adaptación en niños.",
+    "El registro de datos y el control de escucha diario de la familia aseguran que el audífono realmente se use y realmente funcione."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "El audífono de un bebé empieza a silbar. ¿Qué debe hacerse primero?",
+   "secenekler": [
+    "Reducir la ganancia",
+    "Revisar y renovar el molde",
+    "Cambiar el audífono",
+    "Reducir el tiempo de uso"
+   ],
+   "dogru": 1,
+   "aciklama": "El silbido suele indicar que _el molde quedó pequeño_; bajar la ganancia reduce la audibilidad.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si el audífono de un bebé, que antes no silbaba, empieza a silbar, ¿qué debe hacerse primero?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: revisar y renovar el molde.",
+    "El silbido suele indicar que el niño creció y el molde le quedó pequeño; bajar la ganancia reduciría la audibilidad del niño."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cuidado del audífono y *fallas frecuentes*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos el cuidado del audífono y cómo se resuelven las fallas frecuentes.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

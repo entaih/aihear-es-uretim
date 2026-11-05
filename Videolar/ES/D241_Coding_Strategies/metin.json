@@ -1,0 +1,3535 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D241_Coding_Strategies_ES",
+ "kapak": {
+  "ust": "LECCIÓN 241",
+  "baslik": "Estrategias de<br>*codificación*",
+  "alt": "CIS, ACE y estructura fina",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "Estrategias de codificación: CIS, ACE, estructura fina | Lección 241 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo convierte un implante coclear el sonido que llega al micrófono en pulsos para los electrodos? En esta lección vemos el muestreo continuo intercalado (CIS), la lógica n-de-m y el ACE, la diferencia entre la envolvente y la estructura fina temporal, el direccionamiento de corriente y los enfoques que intentan transmitir la estructura fina.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Wilson et al. (1991), Better speech recognition with cochlear implants, Nature; Shannon et al. (1995), Speech recognition with primarily temporal cues, Science; Friesen et al. (2001), Speech recognition in noise as a function of the number of spectral channels: comparison of acoustic hearing and cochlear implants, Journal of the Acoustical Society of America; Smith, Delgutte y Oxenham (2002), Chimaeric sounds reveal dichotomies in auditory perception, Nature; Wilson y Dorman (2008), Cochlear implants: a remarkable past and a brilliant future, Hearing Research; Zeng et al. (2008), Cochlear implants: system design, integration, and evaluation, IEEE Reviews in Biomedical Engineering; Wolfe, Cochlear Implants.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "implantecoclear",
+   "audicion"
+  ],
+  "etiketler": [
+   "implante coclear",
+   "estrategia de codificación",
+   "CIS",
+   "muestreo continuo intercalado",
+   "ACE",
+   "n-de-m",
+   "envolvente",
+   "estructura fina temporal",
+   "direccionamiento de corriente",
+   "canales virtuales",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 241",
+   "baslik": "Estrategias de *codificación*",
+   "alt": "CIS, ACE y estructura fina",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos las reglas que sigue un implante coclear para convertir el sonido en pulsos eléctricos: las estrategias de codificación.",
+    "Veremos el muestreo continuo intercalado, el codificador de combinación avanzada, la envolvente frente a la estructura fina y enfoques afines."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El problema básico",
+   "baslik": "Tres preguntas: ¿*dónde*, cuándo, cuánto?",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "base: tonos agudos",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "ápice: tonos graves",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Dónde: ¿qué electrodo?",
+     "cumle": 2,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Cuándo: momento del pulso",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Cuánto: nivel de corriente",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "El procesador del implante analiza el sonido continuamente y calcula los pulsos; las reglas de este cálculo se llaman estrategia de codificación.",
+    "Como vimos en lecciones anteriores, la cóclea separa las frecuencias por lugar: la base responde a los sonidos agudos y el ápice, a los graves.",
+    "La estrategia responde primero a esta pregunta: ¿qué información de frecuencia del sonido actual va a qué electrodo?",
+    "La segunda pregunta es el momento: ¿a qué velocidad y en qué orden se entregan los pulsos?",
+    "La tercera pregunta es la magnitud: ¿qué tan fuerte es cada pulso, entre los niveles de umbral y de confort de la persona?",
+    "Cada estrategia responde de forma distinta a estas tres preguntas, pero todas buscan transmitir el habla con la mayor claridad posible."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "El problema básico",
+   "baslik": "Una *breve historia* de las estrategias",
+   "adimlar": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Un solo canal",
+     "cumle": 0,
+     "metin": "Percepción del sonido"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Analógica, simultánea",
+     "cumle": 1,
+     "metin": "Los canales interfieren"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Pulsos por turnos",
+     "cumle": 3,
+     "metin": "CIS, 1991"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Canales más fuertes",
+     "cumle": 4,
+     "metin": "n-de-m, ACE"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Estructura fina",
+     "cumle": 5,
+     "metin": "Tono y temporización"
+    }
+   ],
+   "cumleler": [
+    "Los primeros implantes eran monocanales; daban percepción del sonido y apoyaban la lectura labial, pero rara vez bastaban para entender el habla.",
+    "Algunos de los primeros sistemas multicanal entregaban a los electrodos la señal analógica de cada canal al mismo tiempo.",
+    "Las corrientes simultáneas se mezclaban en el líquido y degradaban los canales; esto se llama interacción entre canales.",
+    {
+     "yazi": "En 1991, Wilson y sus colegas mostraron que enviar los pulsos a los canales por turnos mejoraba claramente el reconocimiento del habla."
+    },
+    {
+     "yazi": "Luego llegaron el enfoque n-de-m, que selecciona solo los canales más fuertes en cada momento, y su versión, el codificador de combinación avanzada.",
+     "ses": "Luego llegaron el enfoque ene de eme, que selecciona solo los canales más fuertes en cada momento, y su versión, el codificador de combinación avanzada."
+    },
+    "Las estrategias desarrolladas en los últimos años intentan ir más allá de la envolvente y transmitir también parte de la estructura fina temporal."
+   ]
+  },
+  {
+   "id": "cis",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "CIS",
+   "baslik": "*CIS* paso a paso",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Preprocesamiento",
+     "cumle": 0,
+     "metin": "Micrófono y ganancia"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Banco de filtros",
+     "cumle": 1,
+     "metin": "Bandas de frecuencia"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Envolvente",
+     "cumle": 2,
+     "metin": "Cambios de amplitud"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Compresión",
+     "cumle": 3,
+     "metin": "Entre umbral y confort"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Pulsos",
+     "cumle": 4,
+     "metin": "A los canales por turnos"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El muestreo continuo intercalado (CIS) es la base de la mayoría de las estrategias actuales."
+    },
+    "El sonido del micrófono se divide primero, con un banco de filtros, en tantas bandas de frecuencia como electrodos hay.",
+    "En cada banda se extrae el cambio de amplitud en el tiempo, es decir, la envolvente; las oscilaciones rápidas de la banda se descartan.",
+    "Una curva logarítmica comprime el amplio rango acústico de la envolvente en el estrecho rango eléctrico de la persona, del umbral al confort.",
+    "Al final, cada electrodo recibe un tren de pulsos a velocidad fija, y la magnitud de cada pulso sigue la envolvente de esa banda.",
+    "Los pulsos son bifásicos: la corriente circula primero en un sentido y luego en el otro, para que no se acumule carga en el tejido."
+   ]
+  },
+  {
+   "id": "zarf",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "CIS",
+   "baslik": "Envolvente y *estructura fina*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 48,
+     "ad": "Tiempo (milisegundos)",
+     "isaretler": [
+      0,
+      12,
+      24,
+      36,
+      48
+     ]
+    },
+    "y": {
+     "min": -1.1,
+     "max": 1.1,
+     "isaretler": [
+      -1,
+      0,
+      1
+     ],
+     "ad": "Amplitud (relativa)",
+     "ond": 0
+    },
+    "seriler": [
+     {
+      "ad": "ince_yapi",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.2,
+        0.055
+       ],
+       [
+        0.4,
+        0.103
+       ],
+       [
+        0.6,
+        0.137
+       ],
+       [
+        0.8,
+        0.152
+       ],
+       [
+        1.0,
+        0.146
+       ],
+       [
+        1.2,
+        0.12
+       ],
+       [
+        1.4,
+        0.076
+       ],
+       [
+        1.6,
+        0.02
+       ],
+       [
+        1.8,
+        -0.04
+       ],
+       [
+        2.0,
+        -0.097
+       ],
+       [
+        2.2,
+        -0.141
+       ],
+       [
+        2.4,
+        -0.168
+       ],
+       [
+        2.6,
+        -0.171
+       ],
+       [
+        2.8,
+        -0.15
+       ],
+       [
+        3.0,
+        -0.107
+       ],
+       [
+        3.2,
+        -0.046
+       ],
+       [
+        3.4,
+        0.024
+       ],
+       [
+        3.6,
+        0.095
+       ],
+       [
+        3.8,
+        0.155
+       ],
+       [
+        4.0,
+        0.197
+       ],
+       [
+        4.2,
+        0.212
+       ],
+       [
+        4.4,
+        0.198
+       ],
+       [
+        4.6,
+        0.154
+       ],
+       [
+        4.8,
+        0.085
+       ],
+       [
+        5.0,
+        0.0
+       ],
+       [
+        5.2,
+        -0.09
+       ],
+       [
+        5.4,
+        -0.172
+       ],
+       [
+        5.6,
+        -0.234
+       ],
+       [
+        5.8,
+        -0.266
+       ],
+       [
+        6.0,
+        -0.261
+       ],
+       [
+        6.2,
+        -0.218
+       ],
+       [
+        6.4,
+        -0.14
+       ],
+       [
+        6.6,
+        -0.037
+       ],
+       [
+        6.8,
+        0.076
+       ],
+       [
+        7.0,
+        0.186
+       ],
+       [
+        7.2,
+        0.275
+       ],
+       [
+        7.4,
+        0.328
+       ],
+       [
+        7.6,
+        0.337
+       ],
+       [
+        7.8,
+        0.298
+       ],
+       [
+        8.0,
+        0.213
+       ],
+       [
+        8.2,
+        0.093
+       ],
+       [
+        8.4,
+        -0.048
+       ],
+       [
+        8.6,
+        -0.189
+       ],
+       [
+        8.8,
+        -0.31
+       ],
+       [
+        9.0,
+        -0.392
+       ],
+       [
+        9.2,
+        -0.422
+       ],
+       [
+        9.4,
+        -0.392
+       ],
+       [
+        9.6,
+        -0.304
+       ],
+       [
+        9.8,
+        -0.167
+       ],
+       [
+        10.0,
+        -0.0
+       ],
+       [
+        10.2,
+        0.175
+       ],
+       [
+        10.4,
+        0.333
+       ],
+       [
+        10.6,
+        0.45
+       ],
+       [
+        10.8,
+        0.508
+       ],
+       [
+        11.0,
+        0.494
+       ],
+       [
+        11.2,
+        0.409
+       ],
+       [
+        11.4,
+        0.261
+       ],
+       [
+        11.6,
+        0.069
+       ],
+       [
+        11.8,
+        -0.14
+       ],
+       [
+        12.0,
+        -0.338
+       ],
+       [
+        12.2,
+        -0.495
+       ],
+       [
+        12.4,
+        -0.587
+       ],
+       [
+        12.6,
+        -0.598
+       ],
+       [
+        12.8,
+        -0.523
+       ],
+       [
+        13.0,
+        -0.371
+       ],
+       [
+        13.2,
+        -0.16
+       ],
+       [
+        13.4,
+        0.082
+       ],
+       [
+        13.6,
+        0.32
+       ],
+       [
+        13.8,
+        0.519
+       ],
+       [
+        14.0,
+        0.651
+       ],
+       [
+        14.2,
+        0.694
+       ],
+       [
+        14.4,
+        0.639
+       ],
+       [
+        14.6,
+        0.491
+       ],
+       [
+        14.8,
+        0.268
+       ],
+       [
+        15.0,
+        0.0
+       ],
+       [
+        15.2,
+        -0.275
+       ],
+       [
+        15.4,
+        -0.519
+       ],
+       [
+        15.6,
+        -0.695
+       ],
+       [
+        15.8,
+        -0.776
+       ],
+       [
+        16.0,
+        -0.749
+       ],
+       [
+        16.2,
+        -0.614
+       ],
+       [
+        16.4,
+        -0.389
+       ],
+       [
+        16.6,
+        -0.102
+       ],
+       [
+        16.8,
+        0.205
+       ],
+       [
+        17.0,
+        0.49
+       ],
+       [
+        17.2,
+        0.711
+       ],
+       [
+        17.4,
+        0.836
+       ],
+       [
+        17.6,
+        0.844
+       ],
+       [
+        17.8,
+        0.732
+       ],
+       [
+        18.0,
+        0.515
+       ],
+       [
+        18.2,
+        0.22
+       ],
+       [
+        18.4,
+        -0.112
+       ],
+       [
+        18.6,
+        -0.433
+       ],
+       [
+        18.8,
+        -0.698
+       ],
+       [
+        19.0,
+        -0.868
+       ],
+       [
+        19.2,
+        -0.917
+       ],
+       [
+        19.4,
+        -0.837
+       ],
+       [
+        19.6,
+        -0.638
+       ],
+       [
+        19.8,
+        -0.345
+       ],
+       [
+        20.0,
+        -0.0
+       ],
+       [
+        20.2,
+        0.349
+       ],
+       [
+        20.4,
+        0.653
+       ],
+       [
+        20.6,
+        0.867
+       ],
+       [
+        20.8,
+        0.961
+       ],
+       [
+        21.0,
+        0.92
+       ],
+       [
+        21.2,
+        0.749
+       ],
+       [
+        21.4,
+        0.47
+       ],
+       [
+        21.6,
+        0.123
+       ],
+       [
+        21.8,
+        -0.244
+       ],
+       [
+        22.0,
+        -0.579
+       ],
+       [
+        22.2,
+        -0.834
+       ],
+       [
+        22.4,
+        -0.973
+       ],
+       [
+        22.6,
+        -0.975
+       ],
+       [
+        22.8,
+        -0.84
+       ],
+       [
+        23.0,
+        -0.586
+       ],
+       [
+        23.2,
+        -0.248
+       ],
+       [
+        23.4,
+        0.125
+       ],
+       [
+        23.6,
+        0.481
+       ],
+       [
+        23.8,
+        0.77
+       ],
+       [
+        24.0,
+        0.951
+       ],
+       [
+        24.2,
+        0.998
+       ],
+       [
+        24.4,
+        0.904
+       ],
+       [
+        24.6,
+        0.684
+       ],
+       [
+        24.8,
+        0.367
+       ],
+       [
+        25.0,
+        0.0
+       ],
+       [
+        25.2,
+        -0.366
+       ],
+       [
+        25.4,
+        -0.68
+       ],
+       [
+        25.6,
+        -0.896
+       ],
+       [
+        25.8,
+        -0.986
+       ],
+       [
+        26.0,
+        -0.937
+       ],
+       [
+        26.2,
+        -0.757
+       ],
+       [
+        26.4,
+        -0.472
+       ],
+       [
+        26.6,
+        -0.122
+       ],
+       [
+        26.8,
+        0.242
+       ],
+       [
+        27.0,
+        0.569
+       ],
+       [
+        27.2,
+        0.813
+       ],
+       [
+        27.4,
+        0.942
+       ],
+       [
+        27.6,
+        0.937
+       ],
+       [
+        27.8,
+        0.801
+       ],
+       [
+        28.0,
+        0.554
+       ],
+       [
+        28.2,
+        0.233
+       ],
+       [
+        28.4,
+        -0.117
+       ],
+       [
+        28.6,
+        -0.446
+       ],
+       [
+        28.8,
+        -0.708
+       ],
+       [
+        29.0,
+        -0.868
+       ],
+       [
+        29.2,
+        -0.904
+       ],
+       [
+        29.4,
+        -0.813
+       ],
+       [
+        29.6,
+        -0.61
+       ],
+       [
+        29.8,
+        -0.325
+       ],
+       [
+        30.0,
+        -0.0
+       ],
+       [
+        30.2,
+        0.319
+       ],
+       [
+        30.4,
+        0.588
+       ],
+       [
+        30.6,
+        0.77
+       ],
+       [
+        30.8,
+        0.841
+       ],
+       [
+        31.0,
+        0.793
+       ],
+       [
+        31.2,
+        0.636
+       ],
+       [
+        31.4,
+        0.393
+       ],
+       [
+        31.6,
+        0.101
+       ],
+       [
+        31.8,
+        -0.198
+       ],
+       [
+        32.0,
+        -0.463
+       ],
+       [
+        32.2,
+        -0.657
+       ],
+       [
+        32.4,
+        -0.754
+       ],
+       [
+        32.6,
+        -0.745
+       ],
+       [
+        32.8,
+        -0.631
+       ],
+       [
+        33.0,
+        -0.434
+       ],
+       [
+        33.2,
+        -0.181
+       ],
+       [
+        33.4,
+        0.09
+       ],
+       [
+        33.6,
+        0.34
+       ],
+       [
+        33.8,
+        0.536
+       ],
+       [
+        34.0,
+        0.651
+       ],
+       [
+        34.2,
+        0.673
+       ],
+       [
+        34.4,
+        0.6
+       ],
+       [
+        34.6,
+        0.447
+       ],
+       [
+        34.8,
+        0.236
+       ],
+       [
+        35.0,
+        -0.0
+       ],
+       [
+        35.2,
+        -0.228
+       ],
+       [
+        35.4,
+        -0.416
+       ],
+       [
+        35.6,
+        -0.54
+       ],
+       [
+        35.8,
+        -0.585
+       ],
+       [
+        36.0,
+        -0.547
+       ],
+       [
+        36.2,
+        -0.434
+       ],
+       [
+        36.4,
+        -0.266
+       ],
+       [
+        36.6,
+        -0.068
+       ],
+       [
+        36.8,
+        0.132
+       ],
+       [
+        37.0,
+        0.305
+       ],
+       [
+        37.2,
+        0.429
+       ],
+       [
+        37.4,
+        0.489
+       ],
+       [
+        37.6,
+        0.478
+       ],
+       [
+        37.8,
+        0.402
+       ],
+       [
+        38.0,
+        0.273
+       ],
+       [
+        38.2,
+        0.113
+       ],
+       [
+        38.4,
+        -0.056
+       ],
+       [
+        38.6,
+        -0.209
+       ],
+       [
+        38.8,
+        -0.326
+       ],
+       [
+        39.0,
+        -0.392
+       ],
+       [
+        39.2,
+        -0.401
+       ],
+       [
+        39.4,
+        -0.355
+       ],
+       [
+        39.6,
+        -0.262
+       ],
+       [
+        39.8,
+        -0.137
+       ],
+       [
+        40.0,
+        -0.0
+       ],
+       [
+        40.2,
+        0.13
+       ],
+       [
+        40.4,
+        0.235
+       ],
+       [
+        40.6,
+        0.302
+       ],
+       [
+        40.8,
+        0.325
+       ],
+       [
+        41.0,
+        0.301
+       ],
+       [
+        41.2,
+        0.237
+       ],
+       [
+        41.4,
+        0.144
+       ],
+       [
+        41.6,
+        0.036
+       ],
+       [
+        41.8,
+        -0.07
+       ],
+       [
+        42.0,
+        -0.161
+       ],
+       [
+        42.2,
+        -0.225
+       ],
+       [
+        42.4,
+        -0.255
+       ],
+       [
+        42.6,
+        -0.247
+       ],
+       [
+        42.8,
+        -0.207
+       ],
+       [
+        43.0,
+        -0.14
+       ],
+       [
+        43.2,
+        -0.057
+       ],
+       [
+        43.4,
+        0.028
+       ],
+       [
+        43.6,
+        0.105
+       ],
+       [
+        43.8,
+        0.164
+       ],
+       [
+        44.0,
+        0.197
+       ],
+       [
+        44.2,
+        0.201
+       ],
+       [
+        44.4,
+        0.178
+       ],
+       [
+        44.6,
+        0.131
+       ],
+       [
+        44.8,
+        0.069
+       ],
+       [
+        45.0,
+        0.0
+       ],
+       [
+        45.2,
+        -0.066
+       ],
+       [
+        45.4,
+        -0.119
+       ],
+       [
+        45.6,
+        -0.155
+       ],
+       [
+        45.8,
+        -0.167
+       ],
+       [
+        46.0,
+        -0.156
+       ],
+       [
+        46.2,
+        -0.125
+       ],
+       [
+        46.4,
+        -0.077
+       ],
+       [
+        46.6,
+        -0.02
+       ],
+       [
+        46.8,
+        0.039
+       ],
+       [
+        47.0,
+        0.09
+       ],
+       [
+        47.2,
+        0.129
+       ],
+       [
+        47.4,
+        0.149
+       ],
+       [
+        47.6,
+        0.148
+       ],
+       [
+        47.8,
+        0.127
+       ],
+       [
+        48.0,
+        0.088
+       ]
+      ],
+      "renk": "gri",
+      "cumle": 0,
+      "etiket": "estructura fina"
+     },
+     {
+      "ad": "zarf",
+      "noktalar": [
+       [
+        0.0,
+        0.15
+       ],
+       [
+        0.8,
+        0.152
+       ],
+       [
+        1.6,
+        0.159
+       ],
+       [
+        2.4,
+        0.171
+       ],
+       [
+        3.2,
+        0.187
+       ],
+       [
+        4.0,
+        0.207
+       ],
+       [
+        4.8,
+        0.231
+       ],
+       [
+        5.6,
+        0.259
+       ],
+       [
+        6.4,
+        0.291
+       ],
+       [
+        7.2,
+        0.325
+       ],
+       [
+        8.0,
+        0.362
+       ],
+       [
+        8.8,
+        0.402
+       ],
+       [
+        9.6,
+        0.444
+       ],
+       [
+        10.4,
+        0.487
+       ],
+       [
+        11.2,
+        0.531
+       ],
+       [
+        12.0,
+        0.575
+       ],
+       [
+        12.8,
+        0.619
+       ],
+       [
+        13.6,
+        0.663
+       ],
+       [
+        14.4,
+        0.706
+       ],
+       [
+        15.2,
+        0.748
+       ],
+       [
+        16.0,
+        0.787
+       ],
+       [
+        16.8,
+        0.825
+       ],
+       [
+        17.6,
+        0.859
+       ],
+       [
+        18.4,
+        0.891
+       ],
+       [
+        19.2,
+        0.919
+       ],
+       [
+        20.0,
+        0.943
+       ],
+       [
+        20.8,
+        0.963
+       ],
+       [
+        21.6,
+        0.979
+       ],
+       [
+        22.4,
+        0.991
+       ],
+       [
+        23.2,
+        0.998
+       ],
+       [
+        24.0,
+        1.0
+       ],
+       [
+        24.8,
+        0.998
+       ],
+       [
+        25.6,
+        0.991
+       ],
+       [
+        26.4,
+        0.979
+       ],
+       [
+        27.2,
+        0.963
+       ],
+       [
+        28.0,
+        0.943
+       ],
+       [
+        28.8,
+        0.919
+       ],
+       [
+        29.6,
+        0.891
+       ],
+       [
+        30.4,
+        0.859
+       ],
+       [
+        31.2,
+        0.825
+       ],
+       [
+        32.0,
+        0.788
+       ],
+       [
+        32.8,
+        0.748
+       ],
+       [
+        33.6,
+        0.706
+       ],
+       [
+        34.4,
+        0.663
+       ],
+       [
+        35.2,
+        0.619
+       ],
+       [
+        36.0,
+        0.575
+       ],
+       [
+        36.8,
+        0.531
+       ],
+       [
+        37.6,
+        0.487
+       ],
+       [
+        38.4,
+        0.444
+       ],
+       [
+        39.2,
+        0.402
+       ],
+       [
+        40.0,
+        0.362
+       ],
+       [
+        40.8,
+        0.325
+       ],
+       [
+        41.6,
+        0.291
+       ],
+       [
+        42.4,
+        0.259
+       ],
+       [
+        43.2,
+        0.231
+       ],
+       [
+        44.0,
+        0.207
+       ],
+       [
+        44.8,
+        0.187
+       ],
+       [
+        45.6,
+        0.171
+       ],
+       [
+        46.4,
+        0.159
+       ],
+       [
+        47.2,
+        0.152
+       ],
+       [
+        48.0,
+        0.15
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 1,
+      "etiket": "envolvente"
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "zarf",
+     "cumle": 2
+    },
+    {
+     "parca": "ince_yapi",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Este gráfico muestra la salida de una banda de frecuencia; la línea gris es la oscilación rápida dentro de la banda.",
+    "La línea azul es la envolvente, que cambia lentamente y une los picos de estas oscilaciones.",
+    {
+     "yazi": "Las estrategias basadas en la envolvente, como el CIS, transmiten solo la línea azul, es decir, cuándo el sonido se hace más fuerte o más débil."
+    },
+    "El ritmo silábico del habla, el acento y muchas claves de las consonantes viajan en estos cambios lentos.",
+    "La oscilación rápida de la línea gris se llama estructura fina temporal.",
+    "La estructura fina importa para el tono, la música y el habla en ruido; en las estrategias basadas en la envolvente se pierde en gran parte."
+   ]
+  },
+  {
+   "id": "sirayla",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "CIS",
+   "baslik": "Pulsos *por turnos*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 4,
+     "ad": "Tiempo (milisegundos)",
+     "isaretler": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    "y": {
+     "min": 0.5,
+     "max": 5,
+     "ad": "Canal",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    "seriler": [
+     {
+      "ad": "kanal1",
+      "noktalar": [
+       [
+        0,
+        1
+       ],
+       [
+        0.25,
+        1
+       ],
+       [
+        0.25,
+        1.81
+       ],
+       [
+        0.31,
+        1.81
+       ],
+       [
+        0.31,
+        1
+       ],
+       [
+        0.49,
+        1
+       ],
+       [
+        1.25,
+        1
+       ],
+       [
+        1.25,
+        1.837
+       ],
+       [
+        1.31,
+        1.837
+       ],
+       [
+        1.31,
+        1
+       ],
+       [
+        1.49,
+        1
+       ],
+       [
+        2.25,
+        1
+       ],
+       [
+        2.25,
+        1.684
+       ],
+       [
+        2.31,
+        1.684
+       ],
+       [
+        2.31,
+        1
+       ],
+       [
+        2.49,
+        1
+       ],
+       [
+        3.25,
+        1
+       ],
+       [
+        3.25,
+        1.468
+       ],
+       [
+        3.31,
+        1.468
+       ],
+       [
+        3.31,
+        1
+       ],
+       [
+        3.49,
+        1
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 1
+     },
+     {
+      "ad": "kanal2",
+      "noktalar": [
+       [
+        0,
+        2
+       ],
+       [
+        0.5,
+        2
+       ],
+       [
+        0.5,
+        2.827
+       ],
+       [
+        0.56,
+        2.827
+       ],
+       [
+        0.56,
+        2
+       ],
+       [
+        0.74,
+        2
+       ],
+       [
+        1.5,
+        2
+       ],
+       [
+        1.5,
+        2.66
+       ],
+       [
+        1.56,
+        2.66
+       ],
+       [
+        1.56,
+        2
+       ],
+       [
+        1.74,
+        2
+       ],
+       [
+        2.5,
+        2
+       ],
+       [
+        2.5,
+        2.447
+       ],
+       [
+        2.56,
+        2.447
+       ],
+       [
+        2.56,
+        2
+       ],
+       [
+        2.74,
+        2
+       ],
+       [
+        3.5,
+        2
+       ],
+       [
+        3.5,
+        2.35
+       ],
+       [
+        3.56,
+        2.35
+       ],
+       [
+        3.56,
+        2
+       ],
+       [
+        3.74,
+        2
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 1
+     },
+     {
+      "ad": "kanal3",
+      "noktalar": [
+       [
+        0,
+        3
+       ],
+       [
+        0.75,
+        3
+       ],
+       [
+        0.75,
+        3.635
+       ],
+       [
+        0.81,
+        3.635
+       ],
+       [
+        0.81,
+        3
+       ],
+       [
+        0.99,
+        3
+       ],
+       [
+        1.75,
+        3
+       ],
+       [
+        1.75,
+        3.428
+       ],
+       [
+        1.81,
+        3.428
+       ],
+       [
+        1.81,
+        3
+       ],
+       [
+        1.99,
+        3
+       ],
+       [
+        2.75,
+        3
+       ],
+       [
+        2.75,
+        3.351
+       ],
+       [
+        2.81,
+        3.351
+       ],
+       [
+        2.81,
+        3
+       ],
+       [
+        2.99,
+        3
+       ],
+       [
+        3.75,
+        3
+       ],
+       [
+        3.75,
+        3.462
+       ],
+       [
+        3.81,
+        3.462
+       ],
+       [
+        3.81,
+        3
+       ],
+       [
+        3.99,
+        3
+       ]
+      ],
+      "renk": "turuncu",
+      "cumle": 1
+     },
+     {
+      "ad": "kanal4",
+      "noktalar": [
+       [
+        0,
+        4
+       ],
+       [
+        1.0,
+        4
+       ],
+       [
+        1.0,
+        4.411
+       ],
+       [
+        1.06,
+        4.411
+       ],
+       [
+        1.06,
+        4
+       ],
+       [
+        1.24,
+        4
+       ],
+       [
+        2.0,
+        4
+       ],
+       [
+        2.0,
+        4.354
+       ],
+       [
+        2.06,
+        4.354
+       ],
+       [
+        2.06,
+        4
+       ],
+       [
+        2.24,
+        4
+       ],
+       [
+        3.0,
+        4
+       ],
+       [
+        3.0,
+        4.484
+       ],
+       [
+        3.06,
+        4.484
+       ],
+       [
+        3.06,
+        4
+       ],
+       [
+        3.24,
+        4
+       ],
+       [
+        4.0,
+        4
+       ],
+       [
+        4.0,
+        4.701
+       ],
+       [
+        4.06,
+        4.701
+       ],
+       [
+        4.06,
+        4
+       ],
+       [
+        4.24,
+        4
+       ]
+      ],
+      "renk": "mor",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "dongu",
+      "x": [
+       0,
+       1
+      ],
+      "y": 4.85,
+      "etiket": "un ciclo",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kanal1",
+     "cumle": 2
+    },
+    {
+     "parca": "kanal2",
+     "cumle": 2
+    },
+    {
+     "parca": "dongu",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La palabra intercalado, en el nombre del CIS, describe la temporización de los pulsos."
+    },
+    "Este diagrama muestra los pulsos de cuatro canales; en ningún momento se estimulan dos electrodos a la vez.",
+    "El pulso del siguiente electrodo empieza solo cuando termina el anterior, así las corrientes no se superponen y se reduce la interacción entre canales.",
+    "El tiempo en que cada electrodo se estimula una vez se llama ciclo; el ciclo se repite de forma rápida y continua.",
+    "La velocidad por canal suele fijarse entre unos cientos y unos miles de pulsos por segundo; los pulsos más rápidos siguen mejor la envolvente.",
+    "Observen que las alturas de los pulsos son distintas; cada una refleja la envolvente de su propia banda en ese momento."
+   ]
+  },
+  {
+   "id": "nofm",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "n-de-m y ACE",
+   "baslik": "*Seleccionar* los canales más fuertes",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 22.5,
+     "ad": "Canal (de grave a agudo)",
+     "isaretler": [
+      1,
+      4,
+      8,
+      12,
+      16,
+      20,
+      22
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 40,
+     "adim": 10,
+     "ad": "Energía de banda (dB relativos)"
+    },
+    "seriler": [
+     {
+      "ad": "diger",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        12
+       ],
+       [
+        2,
+        18
+       ],
+       [
+        6,
+        22
+       ],
+       [
+        10,
+        15
+       ],
+       [
+        11,
+        12
+       ],
+       [
+        12,
+        10
+       ],
+       [
+        13,
+        14
+       ],
+       [
+        14,
+        20
+       ],
+       [
+        17,
+        18
+       ],
+       [
+        18,
+        12
+       ],
+       [
+        19,
+        9
+       ],
+       [
+        20,
+        13
+       ],
+       [
+        21,
+        16
+       ],
+       [
+        22,
+        11
+       ]
+      ],
+      "renk": "gri",
+      "cumle": 1
+     },
+     {
+      "ad": "secilen",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        3,
+        30
+       ],
+       [
+        4,
+        34
+       ],
+       [
+        5,
+        28
+       ],
+       [
+        7,
+        26
+       ],
+       [
+        8,
+        31
+       ],
+       [
+        9,
+        24
+       ],
+       [
+        15,
+        27
+       ],
+       [
+        16,
+        25
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 2,
+      "etiket": "8 canales seleccionados"
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "secilen",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Cuando aumenta el número de electrodos, estimular cada canal por turnos en cada ciclo lleva tiempo y reduce la velocidad de estimulación.",
+    {
+     "yazi": "En el enfoque n-de-m, el procesador calcula la energía de m canales en cada ciclo de análisis.",
+     "ses": "En el enfoque ene de eme, el procesador calcula la energía de eme canales en cada ciclo de análisis."
+    },
+    {
+     "yazi": "Luego selecciona solo los n canales con más energía y envía pulsos únicamente a esos canales.",
+     "ses": "Luego selecciona solo los ene canales con más energía y envía pulsos únicamente a esos canales."
+    },
+    "En este ejemplo se seleccionan 8 de 22 canales; los canales elegidos suelen corresponder a las regiones de los formantes del habla.",
+    "Los canales no seleccionados quedan en silencio en ese ciclo; si el sonido cambia, en el ciclo siguiente pueden elegirse otros.",
+    "Así se conserva la información espectral más importante y cada canal estimulado puede actualizarse a mayor velocidad.",
+    "En ruido, sin embargo, también pueden seleccionarse canales donde el ruido es fuerte; esta es una limitación del método."
+   ]
+  },
+  {
+   "id": "ace",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "n-de-m y ACE",
+   "baslik": "CIS y *ACE*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "CIS",
+     "cumle": 0,
+     "metin": "Todos los canales en cada ciclo"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "ACE",
+     "cumle": 1,
+     "metin": "Los más fuertes en cada ciclo"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Ajustes",
+     "cumle": 3,
+     "metin": "Número de canales y velocidad"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Resultado",
+     "cumle": 5,
+     "metin": "Resultados de habla similares"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En el CIS, todos los canales activos se estimulan en cada ciclo; el número de canales suele ser igual al número de electrodos."
+    },
+    {
+     "yazi": "El codificador de combinación avanzada (ACE) es una estrategia que combina la lógica n-de-m con una velocidad de estimulación alta.",
+     "ses": "El codificador de combinación avanzada (ACE) es una estrategia que combina la lógica ene de eme con una velocidad de estimulación alta."
+    },
+    {
+     "yazi": "El ACE surgió como versión mejorada de una estrategia n-de-m anterior, de menor velocidad.",
+     "ses": "El ACE surgió como versión mejorada de una estrategia ene de eme anterior, de menor velocidad."
+    },
+    "En la programación pueden cambiarse el número de canales seleccionados y la velocidad por canal; son ajustables para cada persona.",
+    "En la clínica, la velocidad por canal suele fijarse en torno a mil pulsos por segundo, pero también se usan valores muy distintos.",
+    "En los estudios, ambas suelen dar resultados medios de habla similares; las diferencias entre personas pesan más que las diferencias entre estrategias."
+   ]
+  },
+  {
+   "id": "kanal",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "n-de-m y ACE",
+   "baslik": "¿Cuántos canales *bastan?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1,
+     "max": 20,
+     "ad": "Número de canales",
+     "isaretler": [
+      1,
+      4,
+      8,
+      12,
+      16,
+      20
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Aciertos en ruido (porcentaje)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        1,
+        8
+       ],
+       [
+        2,
+        30
+       ],
+       [
+        4,
+        55
+       ],
+       [
+        6,
+        68
+       ],
+       [
+        8,
+        76
+       ],
+       [
+        12,
+        86
+       ],
+       [
+        16,
+        90
+       ],
+       [
+        20,
+        92
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "audición normal, simulación",
+      "cumle": 2
+     },
+     {
+      "ad": "implant",
+      "noktalar": [
+       [
+        1,
+        8
+       ],
+       [
+        2,
+        28
+       ],
+       [
+        4,
+        50
+       ],
+       [
+        6,
+        60
+       ],
+       [
+        8,
+        63
+       ],
+       [
+        12,
+        64
+       ],
+       [
+        16,
+        64
+       ],
+       [
+        20,
+        64
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "usuarios de implante",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "plato",
+      "x": [
+       7,
+       20
+      ],
+      "renk": "sari",
+      "etiket": "meseta",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "plato",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En 1995, Shannon y sus colegas mostraron que, con la envolvente de cuatro bandas, los normoyentes entendían en gran parte el habla en silencio.",
+     "ses": "En 1995, Shánon y sus colegas mostraron que, con la envolvente de cuatro bandas, los normoyentes entendían en gran parte el habla en silencio."
+    },
+    "Este hallazgo explica por qué un implante puede transmitir el habla incluso con pocos canales.",
+    "En ruido, en cambio, los puntajes de los oyentes con audición normal siguen subiendo a medida que aumenta el número de canales.",
+    {
+     "yazi": "En el estudio de 2001 de Friesen y sus colegas, los puntajes de los usuarios de implante se estancaron en torno a siete u ocho canales."
+    },
+    "Esta meseta muestra que lo limitado no es el número de electrodos, sino el número de canales efectivos que funcionan de forma independiente.",
+    "La razón es que la corriente se dispersa en el líquido y los electrodos vecinos estimulan las mismas fibras nerviosas.",
+    "Los valores del gráfico son esquemáticos; el mensaje clave es que más electrodos no significan automáticamente más información."
+   ]
+  },
+  {
+   "id": "ince",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Estructura fina",
+   "baslik": "¿Qué transmite la envolvente y qué la *estructura fina?*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Envolvente",
+     "cumle": 1,
+     "metin": "Habla en silencio"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Estructura fina",
+     "cumle": 2,
+     "metin": "Tono y melodía"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "En ruido",
+     "cumle": 3,
+     "metin": "Separar a los hablantes"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Localización",
+     "cumle": 4,
+     "metin": "Diferencias de tiempo"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En 2002, Smith, Delgutte y Oxenham crearon sonidos quiméricos tomando la envolvente y la estructura fina de sonidos distintos."
+    },
+    "Con cuatro bandas o más, la envolvente determinaba el habla; para entender el habla en silencio, la envolvente basta en gran medida.",
+    "Para percibir la melodía y el tono, en cambio, la estructura fina era decisiva.",
+    "La estructura fina también ayuda a separar a dos hablantes en ruido por el tono de su voz.",
+    "Las diferencias interaurales de tiempo en las frecuencias graves también viajan en la estructura fina, lo que influye en la localización.",
+    "Una razón importante por la que a los usuarios de implante les cuestan la música y el ruido es que esta información se transmite de forma incompleta."
+   ]
+  },
+  {
+   "id": "yaklasimlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Estructura fina",
+   "baslik": "*Enfoques* para la estructura fina",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Temporización",
+     "cumle": 0,
+     "metin": "Momento del pulso en canales graves"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Estimulación profunda",
+     "cumle": 2,
+     "metin": "Electrodos cerca del ápice"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Canal virtual",
+     "cumle": 3,
+     "metin": "Direccionamiento de corriente"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Audición acústica",
+     "cumle": 5,
+     "metin": "Audición residual en graves"
+    }
+   ],
+   "cumleler": [
+    "Algunas estrategias entregan los pulsos de los canales graves no a velocidad fija, sino sincronizados con puntos de la oscilación de esa banda.",
+    "Así, en los sonidos graves, la temporización de los pulsos puede llevar parte de la estructura fina; el nervio la transmite por sincronía de fase.",
+    "Estos enfoques suelen combinarse con electrodos largos que pueden estimular las regiones de frecuencias graves cerca del ápice de la cóclea.",
+    "Otro enfoque son los canales virtuales, que crean una percepción tonal intermedia entre dos electrodos vecinos.",
+    "Los canales virtuales buscan aumentar el detalle espectral; no transmiten directamente la estructura fina temporal.",
+    "Si hay audición acústica residual en los graves, esa audición es la fuente más natural de estructura fina; lo veremos en lecciones posteriores."
+   ]
+  },
+  {
+   "id": "sanal",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Estructura fina",
+   "baslik": "*Direccionamiento* de corriente",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 20,
+     "ad": "Posición a lo largo de la cóclea (relativa)",
+     "isaretler": [
+      8,
+      10,
+      12
+     ],
+     "yazilar": {
+      "8": "electrode A",
+      "10": "midpoint",
+      "12": "electrode B",
+      "8": "electrodo A",
+      "10": "punto medio",
+      "12": "electrodo B"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ad": "Excitación (relativa)",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "a",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.25,
+        0.0
+       ],
+       [
+        0.5,
+        0.0
+       ],
+       [
+        0.75,
+        0.0
+       ],
+       [
+        1.0,
+        0.0
+       ],
+       [
+        1.25,
+        0.0
+       ],
+       [
+        1.5,
+        0.0
+       ],
+       [
+        1.75,
+        0.0
+       ],
+       [
+        2.0,
+        0.0
+       ],
+       [
+        2.25,
+        0.0
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.75,
+        0.0
+       ],
+       [
+        3.0,
+        0.0
+       ],
+       [
+        3.25,
+        0.0
+       ],
+       [
+        3.5,
+        0.0
+       ],
+       [
+        3.75,
+        0.0
+       ],
+       [
+        4.0,
+        0.0
+       ],
+       [
+        4.25,
+        0.001
+       ],
+       [
+        4.5,
+        0.002
+       ],
+       [
+        4.75,
+        0.005
+       ],
+       [
+        5.0,
+        0.01
+       ],
+       [
+        5.25,
+        0.021
+       ],
+       [
+        5.5,
+        0.041
+       ],
+       [
+        5.75,
+        0.076
+       ],
+       [
+        6.0,
+        0.13
+       ],
+       [
+        6.25,
+        0.21
+       ],
+       [
+        6.5,
+        0.317
+       ],
+       [
+        6.75,
+        0.451
+       ],
+       [
+        7.0,
+        0.6
+       ],
+       [
+        7.25,
+        0.751
+       ],
+       [
+        7.5,
+        0.88
+       ],
+       [
+        7.75,
+        0.969
+       ],
+       [
+        8.0,
+        1.0
+       ],
+       [
+        8.25,
+        0.969
+       ],
+       [
+        8.5,
+        0.88
+       ],
+       [
+        8.75,
+        0.751
+       ],
+       [
+        9.0,
+        0.6
+       ],
+       [
+        9.25,
+        0.451
+       ],
+       [
+        9.5,
+        0.317
+       ],
+       [
+        9.75,
+        0.21
+       ],
+       [
+        10.0,
+        0.13
+       ],
+       [
+        10.25,
+        0.076
+       ],
+       [
+        10.5,
+        0.041
+       ],
+       [
+        10.75,
+        0.021
+       ],
+       [
+        11.0,
+        0.01
+       ],
+       [
+        11.25,
+        0.005
+       ],
+       [
+        11.5,
+        0.002
+       ],
+       [
+        11.75,
+        0.001
+       ],
+       [
+        12.0,
+        0.0
+       ],
+       [
+        12.25,
+        0.0
+       ],
+       [
+        12.5,
+        0.0
+       ],
+       [
+        12.75,
+        0.0
+       ],
+       [
+        13.0,
+        0.0
+       ],
+       [
+        13.25,
+        0.0
+       ],
+       [
+        13.5,
+        0.0
+       ],
+       [
+        13.75,
+        0.0
+       ],
+       [
+        14.0,
+        0.0
+       ],
+       [
+        14.25,
+        0.0
+       ],
+       [
+        14.5,
+        0.0
+       ],
+       [
+        14.75,
+        0.0
+       ],
+       [
+        15.0,
+        0.0
+       ],
+       [
+        15.25,
+        0.0
+       ],
+       [
+        15.5,
+        0.0
+       ],
+       [
+        15.75,
+        0.0
+       ],
+       [
+        16.0,
+        0.0
+       ],
+       [
+        16.25,
+        0.0
+       ],
+       [
+        16.5,
+        0.0
+       ],
+       [
+        16.75,
+        0.0
+       ],
+       [
+        17.0,
+        0.0
+       ],
+       [
+        17.25,
+        0.0
+       ],
+       [
+        17.5,
+        0.0
+       ],
+       [
+        17.75,
+        0.0
+       ],
+       [
+        18.0,
+        0.0
+       ],
+       [
+        18.25,
+        0.0
+       ],
+       [
+        18.5,
+        0.0
+       ],
+       [
+        18.75,
+        0.0
+       ],
+       [
+        19.0,
+        0.0
+       ],
+       [
+        19.25,
+        0.0
+       ],
+       [
+        19.5,
+        0.0
+       ],
+       [
+        19.75,
+        0.0
+       ],
+       [
+        20.0,
+        0.0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "cumle": 0,
+      "etiket": "solo A"
+     },
+     {
+      "ad": "b",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.25,
+        0.0
+       ],
+       [
+        0.5,
+        0.0
+       ],
+       [
+        0.75,
+        0.0
+       ],
+       [
+        1.0,
+        0.0
+       ],
+       [
+        1.25,
+        0.0
+       ],
+       [
+        1.5,
+        0.0
+       ],
+       [
+        1.75,
+        0.0
+       ],
+       [
+        2.0,
+        0.0
+       ],
+       [
+        2.25,
+        0.0
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.75,
+        0.0
+       ],
+       [
+        3.0,
+        0.0
+       ],
+       [
+        3.25,
+        0.0
+       ],
+       [
+        3.5,
+        0.0
+       ],
+       [
+        3.75,
+        0.0
+       ],
+       [
+        4.0,
+        0.0
+       ],
+       [
+        4.25,
+        0.0
+       ],
+       [
+        4.5,
+        0.0
+       ],
+       [
+        4.75,
+        0.0
+       ],
+       [
+        5.0,
+        0.0
+       ],
+       [
+        5.25,
+        0.0
+       ],
+       [
+        5.5,
+        0.0
+       ],
+       [
+        5.75,
+        0.0
+       ],
+       [
+        6.0,
+        0.0
+       ],
+       [
+        6.25,
+        0.0
+       ],
+       [
+        6.5,
+        0.0
+       ],
+       [
+        6.75,
+        0.0
+       ],
+       [
+        7.0,
+        0.0
+       ],
+       [
+        7.25,
+        0.0
+       ],
+       [
+        7.5,
+        0.0
+       ],
+       [
+        7.75,
+        0.0
+       ],
+       [
+        8.0,
+        0.0
+       ],
+       [
+        8.25,
+        0.001
+       ],
+       [
+        8.5,
+        0.002
+       ],
+       [
+        8.75,
+        0.005
+       ],
+       [
+        9.0,
+        0.01
+       ],
+       [
+        9.25,
+        0.021
+       ],
+       [
+        9.5,
+        0.041
+       ],
+       [
+        9.75,
+        0.076
+       ],
+       [
+        10.0,
+        0.13
+       ],
+       [
+        10.25,
+        0.21
+       ],
+       [
+        10.5,
+        0.317
+       ],
+       [
+        10.75,
+        0.451
+       ],
+       [
+        11.0,
+        0.6
+       ],
+       [
+        11.25,
+        0.751
+       ],
+       [
+        11.5,
+        0.88
+       ],
+       [
+        11.75,
+        0.969
+       ],
+       [
+        12.0,
+        1.0
+       ],
+       [
+        12.25,
+        0.969
+       ],
+       [
+        12.5,
+        0.88
+       ],
+       [
+        12.75,
+        0.751
+       ],
+       [
+        13.0,
+        0.6
+       ],
+       [
+        13.25,
+        0.451
+       ],
+       [
+        13.5,
+        0.317
+       ],
+       [
+        13.75,
+        0.21
+       ],
+       [
+        14.0,
+        0.13
+       ],
+       [
+        14.25,
+        0.076
+       ],
+       [
+        14.5,
+        0.041
+       ],
+       [
+        14.75,
+        0.021
+       ],
+       [
+        15.0,
+        0.01
+       ],
+       [
+        15.25,
+        0.005
+       ],
+       [
+        15.5,
+        0.002
+       ],
+       [
+        15.75,
+        0.001
+       ],
+       [
+        16.0,
+        0.0
+       ],
+       [
+        16.25,
+        0.0
+       ],
+       [
+        16.5,
+        0.0
+       ],
+       [
+        16.75,
+        0.0
+       ],
+       [
+        17.0,
+        0.0
+       ],
+       [
+        17.25,
+        0.0
+       ],
+       [
+        17.5,
+        0.0
+       ],
+       [
+        17.75,
+        0.0
+       ],
+       [
+        18.0,
+        0.0
+       ],
+       [
+        18.25,
+        0.0
+       ],
+       [
+        18.5,
+        0.0
+       ],
+       [
+        18.75,
+        0.0
+       ],
+       [
+        19.0,
+        0.0
+       ],
+       [
+        19.25,
+        0.0
+       ],
+       [
+        19.5,
+        0.0
+       ],
+       [
+        19.75,
+        0.0
+       ],
+       [
+        20.0,
+        0.0
+       ]
+      ],
+      "renk": "gri",
+      "yumusak": true,
+      "cumle": 0,
+      "etiket": "solo B"
+     },
+     {
+      "ad": "ara",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.25,
+        0.0
+       ],
+       [
+        0.5,
+        0.0
+       ],
+       [
+        0.75,
+        0.0
+       ],
+       [
+        1.0,
+        0.0
+       ],
+       [
+        1.25,
+        0.0
+       ],
+       [
+        1.5,
+        0.0
+       ],
+       [
+        1.75,
+        0.0
+       ],
+       [
+        2.0,
+        0.0
+       ],
+       [
+        2.25,
+        0.0
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.75,
+        0.0
+       ],
+       [
+        3.0,
+        0.0
+       ],
+       [
+        3.25,
+        0.0
+       ],
+       [
+        3.5,
+        0.0
+       ],
+       [
+        3.75,
+        0.0
+       ],
+       [
+        4.0,
+        0.0
+       ],
+       [
+        4.25,
+        0.0
+       ],
+       [
+        4.5,
+        0.0
+       ],
+       [
+        4.75,
+        0.0
+       ],
+       [
+        5.0,
+        0.0
+       ],
+       [
+        5.25,
+        0.0
+       ],
+       [
+        5.5,
+        0.001
+       ],
+       [
+        5.75,
+        0.002
+       ],
+       [
+        6.0,
+        0.004
+       ],
+       [
+        6.25,
+        0.007
+       ],
+       [
+        6.5,
+        0.013
+       ],
+       [
+        6.75,
+        0.023
+       ],
+       [
+        7.0,
+        0.04
+       ],
+       [
+        7.25,
+        0.066
+       ],
+       [
+        7.5,
+        0.104
+       ],
+       [
+        7.75,
+        0.156
+       ],
+       [
+        8.0,
+        0.225
+       ],
+       [
+        8.25,
+        0.312
+       ],
+       [
+        8.5,
+        0.413
+       ],
+       [
+        8.75,
+        0.524
+       ],
+       [
+        9.0,
+        0.637
+       ],
+       [
+        9.25,
+        0.741
+       ],
+       [
+        9.5,
+        0.825
+       ],
+       [
+        9.75,
+        0.881
+       ],
+       [
+        10.0,
+        0.9
+       ],
+       [
+        10.25,
+        0.881
+       ],
+       [
+        10.5,
+        0.825
+       ],
+       [
+        10.75,
+        0.741
+       ],
+       [
+        11.0,
+        0.637
+       ],
+       [
+        11.25,
+        0.524
+       ],
+       [
+        11.5,
+        0.413
+       ],
+       [
+        11.75,
+        0.312
+       ],
+       [
+        12.0,
+        0.225
+       ],
+       [
+        12.25,
+        0.156
+       ],
+       [
+        12.5,
+        0.104
+       ],
+       [
+        12.75,
+        0.066
+       ],
+       [
+        13.0,
+        0.04
+       ],
+       [
+        13.25,
+        0.023
+       ],
+       [
+        13.5,
+        0.013
+       ],
+       [
+        13.75,
+        0.007
+       ],
+       [
+        14.0,
+        0.004
+       ],
+       [
+        14.25,
+        0.002
+       ],
+       [
+        14.5,
+        0.001
+       ],
+       [
+        14.75,
+        0.0
+       ],
+       [
+        15.0,
+        0.0
+       ],
+       [
+        15.25,
+        0.0
+       ],
+       [
+        15.5,
+        0.0
+       ],
+       [
+        15.75,
+        0.0
+       ],
+       [
+        16.0,
+        0.0
+       ],
+       [
+        16.25,
+        0.0
+       ],
+       [
+        16.5,
+        0.0
+       ],
+       [
+        16.75,
+        0.0
+       ],
+       [
+        17.0,
+        0.0
+       ],
+       [
+        17.25,
+        0.0
+       ],
+       [
+        17.5,
+        0.0
+       ],
+       [
+        17.75,
+        0.0
+       ],
+       [
+        18.0,
+        0.0
+       ],
+       [
+        18.25,
+        0.0
+       ],
+       [
+        18.5,
+        0.0
+       ],
+       [
+        18.75,
+        0.0
+       ],
+       [
+        19.0,
+        0.0
+       ],
+       [
+        19.25,
+        0.0
+       ],
+       [
+        19.5,
+        0.0
+       ],
+       [
+        19.75,
+        0.0
+       ],
+       [
+        20.0,
+        0.0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 2,
+      "etiket": "A y B juntos"
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ara",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Este diagrama muestra la excitación a lo largo de la cóclea cuando se estimulan por separado dos electrodos vecinos.",
+    "En el direccionamiento de corriente, los dos electrodos se estimulan al mismo tiempo y se reparten la corriente.",
+    "Según cómo se reparta la corriente entre ambos electrodos, el pico de excitación se desplaza a un punto intermedio.",
+    "Algunos usuarios perciben estos puntos intermedios como tonos distintos de los de ambos electrodos; se llaman canales virtuales.",
+    "Pero, como este método usa estimulación simultánea, controlar la interacción entre canales es un desafío de diseño aparte."
+   ]
+  },
+  {
+   "id": "secim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "La estrategia en la clínica",
+   "baslik": "¿*Cómo* se elige una estrategia?",
+   "ogeler": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Dispositivo",
+     "cumle": 0,
+     "metin": "La estrategia depende del equipo"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Persona",
+     "cumle": 2,
+     "metin": "Preferencia y resultado"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Adaptación",
+     "cumle": 3,
+     "metin": "Puede llevar semanas"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Medición",
+     "cumle": 4,
+     "metin": "Comparar con pruebas"
+    }
+   ],
+   "cumleler": [
+    "Las estrategias disponibles dependen del fabricante y del modelo del implante y del procesador de sonido.",
+    "La mayoría de los centros empieza con la estrategia predeterminada del fabricante y modifica los parámetros si hace falta.",
+    "La preferencia de la persona sobre la calidad del sonido y sus resultados en pruebas de habla son los criterios principales de la decisión.",
+    "Al cambiar la estrategia o la velocidad, todo suena distinto por un tiempo; el cerebro puede tardar unas semanas en adaptarse al nuevo código.",
+    "Por eso la comparación con pruebas de habla se hace tras un período de adaptación, no justo después del cambio.",
+    "La evidencia muestra que ninguna estrategia es la mejor para todos; el ajuste individual sigue siendo el paso más importante."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Al cambiar la estrategia o la velocidad, guardar el ajuste anterior en un segundo programa. Comparar tras unas semanas de uso, con la misma prueba de habla.",
+   "cumleler": [
+    "Un consejo de la clínica: al probar una nueva estrategia o velocidad, guarden en otro programa el ajuste anterior al que la persona está acostumbrada.",
+    "La primera impresión suele reflejar el hábito; un ajuste nuevo puede sonar peor al principio.",
+    "Comparen tras unas semanas de uso regular, con la misma prueba de habla grabada y en las mismas condiciones.",
+    "Pidan a la persona que anote brevemente cómo se comparan ambos programas en situaciones cotidianas."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Estrategia: dónde, cuándo, cuánto",
+     "cumle": 0,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "CIS: envolvente y pulsos intercalados",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "ACE: se eligen los n canales más fuertes",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Estructura fina: tono y música",
+     "cumle": 3,
+     "ikon": "muzik"
+    }
+   ],
+   "cumleler": [
+    "Una estrategia de codificación decide a qué electrodo llega el sonido, con qué temporización y con qué magnitud.",
+    {
+     "yazi": "El CIS extrae la envolvente de cada banda y reduce la interacción entre canales al enviar los pulsos a los canales por turnos."
+    },
+    {
+     "yazi": "El enfoque n-de-m y el ACE conservan la información espectral importante al seleccionar solo los canales más fuertes en cada ciclo.",
+     "ses": "El enfoque ene de eme y el ACE conservan la información espectral importante al seleccionar solo los canales más fuertes en cada ciclo."
+    },
+    "La envolvente lleva gran parte del habla en silencio; el tono, la música y la separación en ruido requieren estructura fina, que el implante transmite solo en parte."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Por qué se entregan los pulsos por turnos?",
+   "secenekler": [
+    "Para que la batería dure más",
+    "Para reducir la interacción entre canales",
+    "Para transmitir la estructura fina",
+    "Para agregar más electrodos"
+   ],
+   "dogru": 1,
+   "aciklama": "Las corrientes simultáneas se mezclan; estimular por turnos reduce la _interacción entre canales_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en la estrategia CIS, ¿cuál es el objetivo principal de enviar los pulsos a los electrodos por turnos?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: reducir la interacción entre canales.",
+    "Las corrientes simultáneas se mezclan en el líquido coclear; con pulsos por turnos, cada canal estimula una región nerviosa más separada."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Activación y programación: *niveles T* y C/M",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la activación y la programación, es decir, cómo se ajustan los niveles de umbral y de confort.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

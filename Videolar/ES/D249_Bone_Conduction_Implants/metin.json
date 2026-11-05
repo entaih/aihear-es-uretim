@@ -1,0 +1,885 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D249_Bone_Conduction_Implants_ES",
+ "kapak": {
+  "ust": "LECCIÓN 249",
+  "baslik": "Implantes<br>de *vía ósea*",
+  "alt": "Sistemas percutáneos y transcutáneos",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "temporal_kemik"
+  ]
+ },
+ "youtube": {
+  "baslik": "Implantes de vía ósea: percutáneos y transcutáneos | Lección 249 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo hacemos llegar el sonido a la cóclea cuando no hay conducto auditivo o el oído supura constantemente? En esta lección vemos la candidatura a los implantes de vía ósea, los sistemas percutáneos y transcutáneos pasivos y activos, la prueba con banda elástica, la elección de la potencia según los umbrales por vía ósea, la medición in situ y su uso en la sordera unilateral.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Tjellström, Håkansson and Granström (2001), Bone-anchored hearing aids: current status in adults and children, Otolaryngologic Clinics of North America; Holgers et al. (1988), Soft tissue reactions around percutaneous implants, American Journal of Otology; Reinfeldt et al. (2015), New developments in bone-conduction hearing implants: a review, Medical Devices: Evidence and Research; Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "viaosea",
+   "audicion"
+  ],
+  "etiketler": [
+   "implante de vía ósea",
+   "audífono osteointegrado",
+   "sistema percutáneo",
+   "sistema transcutáneo",
+   "pilar del implante",
+   "banda elástica",
+   "medición in situ",
+   "osteointegración",
+   "atresia aural",
+   "clasificación de Holgers",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 249",
+   "baslik": "Implantes de *vía ósea*",
+   "alt": "Sistemas percutáneos y transcutáneos",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos los implantes de vía ósea, que envían el sonido directamente a la cóclea mediante la vibración del cráneo.",
+    "Hablaremos de la candidatura, los sistemas que atraviesan la piel y los que quedan debajo de ella, la prueba con banda y la elección de la potencia."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué la vía ósea?",
+   "baslik": "*Evitar* el oído externo y el medio",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "conducto auditivo: se evita",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "oído medio: se evita",
+     "cumle": 1
+    },
+    {
+     "parca": "temporal_kemik",
+     "metin": "el hueso temporal vibra",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "metin": "cóclea",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "temporal_kemik",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklea",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En la lección sobre la vía ósea vimos que, cuando el cráneo vibra, el sonido llega a la cóclea evitando en gran parte el oído externo y el medio.",
+    "Los implantes de vía ósea usan este principio: el sonido no necesita pasar por el conducto auditivo ni por el oído medio.",
+    "El dispositivo convierte en vibración el sonido que capta y transmite esa vibración al hueso temporal.",
+    "La vibración se propaga por el cráneo y mueve los líquidos cocleares, lo que genera la sensación auditiva.",
+    "Así, mientras la cóclea funcione bien, el sonido puede llegar a ella, por grave que sea el problema del oído externo o medio.",
+    "Para tener éxito, los umbrales por vía ósea, es decir, la sensibilidad coclear, deben estar dentro del rango que cubre la potencia del dispositivo."
+   ],
+   "ayar": {
+    "implant": "kemik_yolu",
+    "tur": "perkutan",
+    "implant_cumle": 1,
+    "titresim_cumle": 2
+   }
+  },
+  {
+   "id": "aday",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué la vía ósea?",
+   "baslik": "¿Quién es *candidato?*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Sin conducto auditivo",
+     "cumle": 0,
+     "metin": "Atresia, microtia"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Oído que supura",
+     "cumle": 1,
+     "metin": "Enfermedad crónica del oído medio"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "No tolera audífono",
+     "cumle": 3,
+     "metin": "Alergia, problema del conducto"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Pérdida mixta",
+     "cumle": 4,
+     "metin": "Vía ósea adecuada"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Sordera unilateral",
+     "cumle": 5,
+     "metin": "Lleva el sonido al otro lado"
+    }
+   ],
+   "cumleler": [
+    "La atresia, en la que el conducto auditivo nunca se desarrolló, y la microtia, en la que el pabellón está poco desarrollado, son indicaciones clásicas.",
+    "En la enfermedad crónica del oído medio con supuración constante o frecuente, un dispositivo que ocluye el conducto puede empeorar la supuración.",
+    "En estos oídos, el conducto auditivo queda abierto y el sonido se entrega por vía ósea.",
+    "También son candidatas las personas que no pueden usar audífono por alergia en el conducto o por un conducto estrecho o modificado quirúrgicamente.",
+    "En las pérdidas conductivas o mixtas, estos sistemas funcionan bien cuando los umbrales por vía ósea están dentro del rango del dispositivo.",
+    "En la sordera unilateral, el dispositivo lleva por vía ósea el sonido del lado sordo a la cóclea sana del otro lado.",
+    "La candidatura la decide el equipo, según los hallazgos audiológicos, el estado médico del oído y la preferencia de la persona."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué la vía ósea?",
+   "baslik": "Ejemplo: *atresia*",
+   "lejant": [
+    {
+     "isaret": "△",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea enmascarada",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Derecho_: vía ósea enmascarada",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Rango _normal_",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava_maskeli",
+      "degerler": [
+       60,
+       60,
+       65,
+       60,
+       65,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       15,
+       20,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "aralik": {
+     "konum": [
+      2,
+      15,
+      65
+     ],
+     "etiket": "50 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, el oído derecho tiene una atresia congénita; los umbrales por vía aérea están entre sesenta y setenta decibeles.",
+    "Los umbrales por vía ósea enmascarada, en cambio, están dentro de los límites normales; es decir, la cóclea funciona bien.",
+    "Hay una brecha aéreo-ósea de unos cincuenta decibeles; esto se acerca a la mayor pérdida conductiva esperable en la atresia.",
+    "Sin conducto auditivo no puede usarse un audífono de vía aérea; pero la vía ósea normal indica que un dispositivo de vía ósea puede funcionar muy bien.",
+    "Los valores son solo un ejemplo; la decisión real se toma junto con las imágenes y la evaluación del cirujano otólogo."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tipos de sistema",
+   "baslik": "Cuatro *enfoques*",
+   "ogeler": [
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "No quirúrgico",
+     "cumle": 0,
+     "metin": "Banda o adhesivo"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Percutáneo",
+     "cumle": 1,
+     "metin": "Pilar a través de la piel"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Transcutáneo pasivo",
+     "cumle": 3,
+     "metin": "Imán, piel intacta"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Transcutáneo activo",
+     "cumle": 5,
+     "metin": "Vibrador bajo la piel"
+    }
+   ],
+   "cumleler": [
+    "Las formas no quirúrgicas de los dispositivos de vía ósea se llevan con una banda elástica o con un parche adhesivo pegado a la piel.",
+    "En los sistemas percutáneos, que atraviesan la piel, una pieza unida a un implante en el hueso sale a través de la piel.",
+    "El procesador de sonido se acopla directamente a esa pieza y transmite la vibración directamente al hueso.",
+    "En los sistemas transcutáneos, que quedan bajo la piel, la piel permanece intacta.",
+    "En los sistemas transcutáneos pasivos, el procesador se sujeta a un imán bajo la piel, y la vibración atraviesa la piel hasta el hueso.",
+    "En los sistemas transcutáneos activos, la pieza que vibra está bajo la piel, sobre el hueso; el procesador externo le envía energía y señal.",
+    "Cada enfoque tiene ventajas distintas en cuanto a transmisión del sonido, problemas de piel, estética y cuidado."
+   ]
+  },
+  {
+   "id": "perkutan",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tipos de sistema",
+   "baslik": "El sistema *percutáneo*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "vida",
+     "metin": "implante de titanio aquí",
+     "cumle": 1
+    },
+    {
+     "parca": "abutment",
+     "metin": "Pilar",
+     "cumle": 3
+    },
+    {
+     "parca": "koklea",
+     "metin": "cóclea",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vida",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "El tornillo de titanio se integra al hueso",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "El pilar sale a través de la piel",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "La vibración va directo al hueso",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El primer audífono osteointegrado fue adaptado en 1977 en Gotemburgo, Suecia, por Tjellström y colaboradores."
+    },
+    "Se coloca un pequeño tornillo de titanio en el hueso temporal, detrás de la oreja.",
+    "Con el tiempo, el titanio se une directamente al hueso; esto se llama osteointegración, y solo entonces se acopla el procesador.",
+    "El pilar, la pieza de conexión unida al tornillo, sale a través de la piel, y el procesador de sonido se engancha en él.",
+    "Como la vibración va directo al hueso sin atravesar piel ni tejidos blandos, este es uno de los sistemas más eficientes.",
+    "En general, estos sistemas se llaman sistemas auditivos de anclaje óseo.",
+    "En Estados Unidos, estos implantes se limitan a niños de cinco años o más; los niños menores usan el dispositivo con banda."
+   ],
+   "ayar": {
+    "implant": "kemik_yolu",
+    "tur": "perkutan",
+    "implant_cumle": 1,
+    "titresim_cumle": 4
+   }
+  },
+  {
+   "id": "bakim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tipos de sistema",
+   "baslik": "La *piel* en los sistemas percutáneos",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Reacción cutánea",
+     "cumle": 0,
+     "metin": "Enrojecimiento, secreción"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Holgers",
+     "cumle": 1,
+     "metin": "De 0 a 4"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Pérdida del implante",
+     "cumle": 4,
+     "metin": "Si falla la osteointegración"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Cuidado diario",
+     "cumle": 5,
+     "metin": "Limpieza suave"
+    }
+   ],
+   "cumleler": [
+    "Alrededor del pilar que atraviesa la piel pueden verse reacciones cutáneas, como enrojecimiento, secreción o crecimiento excesivo de tejido.",
+    "Estas reacciones se registran con la clasificación de Holgers, que las gradúa de cero a cuatro.",
+    "El grado cero significa ausencia de reacción, y el grado cuatro, una reacción grave que puede obligar a retirar el implante.",
+    "La mayoría de las reacciones son leves y ceden con cuidados locales; pero las decisiones de tratamiento corresponden al médico.",
+    "Con menos frecuencia, la unión del titanio con el hueso falla, y el implante puede aflojarse y perderse.",
+    "Se enseña a la persona a limpiar con suavidad alrededor del pilar todos los días y a informar cualquier cambio en la piel."
+   ]
+  },
+  {
+   "id": "transkutan",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tipos de sistema",
+   "baslik": "Transcutáneo *pasivo* y activo",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Pasivo: imán",
+     "cumle": 0,
+     "metin": "Piel intacta, buena estética"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Pasivo: el costo",
+     "cumle": 1,
+     "metin": "La piel atenúa los agudos"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Activo: vibrador",
+     "cumle": 3,
+     "metin": "Vibración bajo la piel"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Activo: procesador",
+     "cumle": 4,
+     "metin": "Envía energía y señal"
+    }
+   ],
+   "cumleler": [
+    "En un sistema transcutáneo pasivo, un imán bajo la piel sostiene el procesador; con la piel intacta, hay pocos problemas de cuidado cutáneo.",
+    "Sin embargo, al atravesar la piel y los tejidos blandos, la vibración puede perder hasta unos diez a veinte decibeles, sobre todo en las frecuencias altas.",
+    "Además, la presión del imán puede causar dolor o enrojecimiento de la piel con el uso prolongado; por eso la fuerza del imán se elige con cuidado.",
+    "En un sistema transcutáneo activo, el transductor que genera la vibración se coloca bajo la piel, directamente sobre el hueso.",
+    "El procesador externo capta el sonido y envía energía y señal a través de la piel hacia la parte interna, de forma parecida a un implante coclear.",
+    "Como la vibración se genera bajo la piel, no hay pérdida por la piel; pero estos sistemas requieren una cirugía más amplia.",
+    "En todos los sistemas que contienen un imán, la resonancia magnética se planifica según las condiciones del fabricante."
+   ]
+  },
+  {
+   "id": "deri_kaybi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tipos de sistema",
+   "baslik": "La piel atenúa los *agudos*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 500,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -25,
+     "max": 5,
+     "adim": 5,
+     "ad": "Vibración que llega al hueso (dB relativos)"
+    },
+    "seriler": [
+     {
+      "ad": "dogrudan",
+      "noktalar": [
+       [
+        500,
+        0
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        0
+       ],
+       [
+        4000,
+        0
+       ],
+       [
+        6000,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "conexión directa",
+      "cumle": 0
+     },
+     {
+      "ad": "deri_uzerinden",
+      "noktalar": [
+       [
+        500,
+        -3
+       ],
+       [
+        1000,
+        -5
+       ],
+       [
+        2000,
+        -9
+       ],
+       [
+        4000,
+        -14
+       ],
+       [
+        6000,
+        -17
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "a través de la piel",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kayip",
+      "y": [
+       -14,
+       0
+      ],
+      "xk": 4000,
+      "etiket": "pérdida por la piel",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kayip",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "En este gráfico esquemático, la línea azul marino representa la vibración transmitida directamente al hueso.",
+    "La línea azul muestra la misma vibración transmitida a través de la piel y los tejidos blandos.",
+    "La piel atenúa la vibración, sobre todo en las frecuencias altas; la diferencia crece a medida que sube la frecuencia.",
+    "Esta pérdida aparece tanto en los sistemas transcutáneos pasivos como en las pruebas en las que el dispositivo se lleva con banda.",
+    "Por eso, en la prueba con banda el sonido suele parecer algo peor de lo que realmente será después del implante.",
+    "Los valores varían según la persona y el grosor de la piel; el gráfico solo muestra la tendencia."
+   ]
+  },
+  {
+   "id": "deneme",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Prueba y selección",
+   "baslik": "Una *prueba* antes de decidir",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Vía ósea",
+     "cumle": 0,
+     "metin": "Umbrales enmascarados"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Banda elástica",
+     "cumle": 1,
+     "metin": "Probarlo en la vida diaria"
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Elección de potencia",
+     "cumle": 4,
+     "metin": "Según la vía ósea"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Decisión",
+     "cumle": 5,
+     "metin": "Persona y equipo"
+    }
+   ],
+   "cumleler": [
+    "La evaluación comienza con umbrales por vía ósea confiables, obtenidos en cada oído por separado y con enmascaramiento cuando es necesario.",
+    "Luego se prueba el procesador de sonido en la cabeza con una banda elástica o un parche adhesivo.",
+    "La persona usa el dispositivo durante unos días o semanas en sus propios ambientes cotidianos y se forma expectativas concretas.",
+    "Durante la prueba también pueden obtenerse umbrales en campo libre con el dispositivo y hacerse pruebas de habla.",
+    "Según los umbrales por vía ósea, se elige un modelo estándar, potente o superpotente del dispositivo.",
+    "La decisión final la toma el equipo, junto con los resultados de la prueba, el estado médico del oído y la preferencia de la persona.",
+    "En los niños menores de cinco años, la banda elástica a menudo no es solo una prueba, sino la forma de llevar el dispositivo a largo plazo."
+   ]
+  },
+  {
+   "id": "guc",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Prueba y selección",
+   "baslik": "Umbral por vía ósea y *potencia*",
+   "sutunlar": [
+    "Potencia del dispositivo",
+    "Promedio de vía ósea"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Estándar",
+      "Unos 45 dB HL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Potente",
+      "Unos 55 dB HL"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Superpotente",
+      "Unos 65 dB HL"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Unilateral, mejor oído",
+      "20 dB HL (aérea)"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "La potencia se elige según el promedio de umbrales por vía ósea, en general el promedio en quinientos, mil, dos mil y tres mil hertz.",
+    "Los dispositivos percutáneos de potencia estándar se recomiendan para personas con un promedio de vía ósea de unos cuarenta y cinco decibeles HL o mejor.",
+    "Según el fabricante, los modelos potentes sirven hasta unos cincuenta y cinco decibeles HL de vía ósea, y los superpotentes, hasta unos sesenta y cinco.",
+    "Estos límites varían según el fabricante, el modelo y el tipo de sistema; los sistemas transcutáneos pueden tener rangos distintos.",
+    "En la sordera unilateral se exigen umbrales por vía aérea en el mejor oído de unos veinte decibeles HL o mejores.",
+    "Si los umbrales por vía ósea están cerca del límite, también se habla de la opción de pasar a un modelo más potente si la pérdida avanza."
+   ]
+  },
+  {
+   "id": "tek_tarafli",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Prueba y selección",
+   "baslik": "La *vía ósea* en la sordera unilateral",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "ild",
+    "frekanslar": [
+     4000,
+     500
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "yakin_kulak",
+     "metin": "dispositivo: lado sordo",
+     "cumle": 0
+    },
+    {
+     "parca": "uzak_kulak",
+     "metin": "cóclea sana",
+     "cumle": 1
+    },
+    {
+     "parca": "bas_golgesi",
+     "metin": "sombra de la cabeza",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yakin_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "uzak_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "bas_golgesi",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "En la sordera unilateral, el dispositivo de vía ósea se coloca del lado sordo y capta el sonido de ese lado.",
+    "La vibración atraviesa el cráneo hasta la cóclea sana del otro lado.",
+    "Así, el habla del lado sordo llega al oído bueno sin que la bloquee la sombra de la cabeza.",
+    "Aunque en la clínica la atenuación interaural por vía ósea se toma como cero, en las frecuencias altas puede llegar a quince decibeles.",
+    "Como con el enrutamiento contralateral de la señal, o CROS, aquí todos los sonidos llegan a una sola cóclea; la localización no se recupera.",
+    "Como vimos en las lecciones anteriores, en la sordera unilateral se elige entre las opciones después de explicar todos los caminos sin sesgos."
+   ]
+  },
+  {
+   "id": "insitu",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Adaptación y verificación",
+   "baslik": "Medición *in situ*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 80,
+     "adim": 10,
+     "ad": "Umbral (dB)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "odyometrik",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        15
+       ],
+       [
+        2000,
+        20
+       ],
+       [
+        4000,
+        15
+       ]
+      ],
+      "renk": "gri",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "vía ósea audiométrica",
+      "cumle": 0
+     },
+     {
+      "ad": "in_situ",
+      "noktalar": [
+       [
+        500,
+        20
+       ],
+       [
+        1000,
+        25
+       ],
+       [
+        2000,
+        30
+       ],
+       [
+        3000,
+        30
+       ],
+       [
+        4000,
+        35
+       ],
+       [
+        6000,
+        40
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "umbral in situ con el dispositivo",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "in_situ",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Los umbrales medidos con el vibrador óseo del audiómetro no reflejan con exactitud la vibración que el procesador entrega a la cabeza de la persona.",
+    "La estructura del cráneo, el grosor de la piel y la forma de fijar el dispositivo cambian la transmisión de una persona a otra.",
+    "Por eso, en la adaptación se miden los umbrales usando el propio procesador como fuente de vibración; esto se llama medición in situ.",
+    "El software de adaptación calcula la ganancia a partir de estos umbrales in situ, de modo que se tiene en cuenta la vibración real que llega a la persona.",
+    "Con los dispositivos de vía ósea no es posible la medición en oído real en el conducto; en su lugar, la salida puede medirse con un simulador de cráneo.",
+    "El resultado se verifica con umbrales en campo libre con el dispositivo y con pruebas de habla en ruido.",
+    "Para el reembolso de los implantes de vía ósea en Turquía, siempre debe revisarse el Comunicado de Aplicación en Salud vigente."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "En la prueba con banda, expliquen que la pérdida por la piel hace el sonido más débil que tras el implante. Pruébenlo en los ambientes cotidianos de la persona.",
+   "cumleler": [
+    "Un consejo de la clínica: durante la prueba con banda, díganle a la persona que después del implante el sonido suele ser algo más fuerte y claro.",
+    "Esto se debe a que, con la banda, la vibración atraviesa la piel y se debilita, sobre todo en las frecuencias altas.",
+    "Hagan la prueba no solo en una sala silenciosa de la clínica, sino en la casa, el trabajo y la escuela de la persona.",
+    "En la sordera unilateral, al final de la prueba anoten juntos en qué ambientes la persona notó un beneficio."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "El sonido llega a la cóclea por hueso",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Percutáneo: eficiente, requiere cuidado de piel",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Transcutáneo: pasivo o activo",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "La vía ósea define la potencia",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Los implantes de vía ósea evitan el oído externo y el medio y entregan el sonido a la cóclea mediante la vibración del cráneo.",
+    "Los sistemas percutáneos transmiten la vibración directamente al hueso y son eficientes; el pilar que atraviesa la piel requiere cuidado regular.",
+    "En los sistemas transcutáneos pasivos la piel está intacta, pero se pierden frecuencias altas; en los activos, el vibrador está bajo la piel.",
+    "La potencia se elige según los umbrales por vía ósea, la decisión sigue a una prueba con banda y la adaptación usa la medición in situ."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿En qué se basa la potencia del dispositivo?",
+   "secenekler": [
+    "Umbrales por vía aérea",
+    "Umbrales por vía ósea",
+    "Timpanometría",
+    "Reflejo acústico"
+   ],
+   "dogru": 1,
+   "aciklama": "El dispositivo estimula directamente la cóclea; la clave son los umbrales por _vía ósea_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿en qué medición se basa la elección de la potencia de un implante de vía ósea?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: los umbrales por vía ósea.",
+    "El dispositivo evita el oído externo y el medio para estimular la cóclea, así que la potencia necesaria depende de los umbrales por vía ósea."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Implantes activos de *oído medio*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos los implantes activos de oído medio, que transmiten la vibración a los huesecillos o a la ventana redonda.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

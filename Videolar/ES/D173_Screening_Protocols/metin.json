@@ -1,0 +1,587 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D173_Screening_Protocols_ES",
+ "kapak": {
+  "ust": "LECCIÓN 173",
+  "baslik": "Protocolos<br>de *tamizaje*",
+  "alt": "OEA, PEATC-A y tamizaje en dos etapas",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "Protocolos de tamizaje: OEA, PEATC-A y dos etapas | Lección 173 | AIHEAR Academia de Audiología",
+  "aciklama": "En el tamizaje auditivo neonatal, ¿qué prueba se usa, en qué bebé y en qué orden? En esta lección vemos qué evalúan las OEA y los PEATC automatizados, los protocolos para bebés sanos y para cuidados intensivos, el tamizaje en dos etapas y las reglas de las decisiones \"pasa\" y \"no pasa\".\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Joint Committee on Infant Hearing, Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; Joint Committee on Infant Hearing, Year 2007 Position Statement; Johnson et al., A multicenter evaluation of how many infants with permanent hearing loss pass a two-stage otoacoustic emissions/automated auditory brainstem response newborn hearing screening protocol, Pediatrics (2005); Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "tamizajeauditivo",
+   "audicion"
+  ],
+  "etiketler": [
+   "tamizaje auditivo neonatal",
+   "protocolo de tamizaje",
+   "otoemisiones acústicas",
+   "PEATC-A",
+   "PEATC automatizados",
+   "tamizaje en dos etapas",
+   "UCIN",
+   "cuidados intensivos neonatales",
+   "neuropatía auditiva",
+   "pasa no pasa",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 173",
+   "baslik": "Protocolos de *tamizaje*",
+   "alt": "OEA, PEATC-A y tamizaje en dos etapas",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos los protocolos del tamizaje auditivo neonatal, distinguiendo entre bebés sanos y bebés de cuidados intensivos.",
+    "También veremos cómo se toman las decisiones de pasa y no pasa, y qué errores de protocolo son frecuentes."
+   ]
+  },
+  {
+   "id": "kapsam",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Qué abarca cada prueba",
+   "baslik": "¿Qué *ve* cada prueba?",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "cóclea: OEA",
+     "cumle": 3
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "nervio auditivo: PEATC-A",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 3
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 3
+    },
+    {
+     "parca": "koklea",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 5
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklea",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Ya conocimos las dos pruebas básicas de tamizaje: otoemisiones acústicas, u OEA, y potenciales evocados auditivos de tronco cerebral automatizados, o PEATC-A.",
+    "Antes de elegir un protocolo, aclaremos qué parte de la vía auditiva evalúa cada prueba.",
+    "El sonido pasa por el conducto auditivo, el oído medio lo conduce y en la cóclea se convierte en una señal neural.",
+    "Las OEA reflejan el conducto auditivo, el oído medio y la función de las células ciliadas externas de la cóclea.",
+    "Es decir, si el sonido llega a la cóclea y las células ciliadas externas funcionan, puede registrarse una respuesta de OEA.",
+    "Los PEATC-A abarcan además las células ciliadas internas, el nervio auditivo y la vía del tronco cerebral.",
+    "Esta diferencia es decisiva en el trastorno del espectro de la neuropatía auditiva, o TENA, en el que se altera la transmisión neural.",
+    "En el TENA las células ciliadas externas suelen funcionar, por eso las OEA pueden ser normales mientras los PEATC-A no muestran respuesta."
+   ]
+  },
+  {
+   "id": "olcut",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Qué abarca cada prueba",
+   "baslik": "¿*Cómo* se decide que pasa?",
+   "maddeler": [
+    {
+     "metin": "El algoritmo del equipo decide automáticamente",
+     "cumle": 0,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "OEA: respuesta por encima del ruido",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "PEATC-A: por lo general _35 dB nHL_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Objetivo: unos 30 a 40 dB o más",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Una pérdida muy leve puede pasar",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "abr",
+    "cumle": 3,
+    "ayar": {
+     "latans_kayma": 0
+    },
+    "vurgula": [
+     {
+      "parca": "dalga_V",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Los equipos de tamizaje dan el resultado automáticamente mediante un algoritmo estadístico, sin necesidad de la interpretación de un experto.",
+    "En el tamizaje con OEA, el equipo comprueba si la respuesta supera lo suficiente el piso de ruido en ciertas bandas de frecuencia.",
+    "Cuántas bandas deben mostrar respuesta y cuán grande debe ser la diferencia varía según el equipo y el programa.",
+    {
+     "yazi": "En el tamizaje con PEATC-A, el estímulo suele ser de 35 dB nHL, o nivel de audición normalizado; el equipo busca una respuesta del tronco a ese nivel."
+    },
+    "El Comité Conjunto de Audición Infantil, o JCIH, apunta a pérdidas permanentes de treinta a cuarenta decibeles o más de promedio en las frecuencias del habla.",
+    "Por eso, las pérdidas más leves y algunas pérdidas en una región de frecuencias estrecha pueden pasar el tamizaje."
+   ]
+  },
+  {
+   "id": "iki_asama",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Bebés sanos",
+   "baslik": "Tamizaje en *dos etapas*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Tamizaje con OEA",
+     "cumle": 0,
+     "metin": "Un primer paso rápido"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "OEA no pasa",
+     "cumle": 1,
+     "metin": "PEATC-A en la misma estancia"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "PEATC-A pasa",
+     "cumle": 3,
+     "metin": "Tamizaje completo"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "PEATC-A no pasa",
+     "cumle": 4,
+     "metin": "Derivación a diagnóstico"
+    }
+   ],
+   "cumleler": [
+    "Un enfoque frecuente en las salas de recién nacidos sanos es el tamizaje en dos etapas, que usa ambas tecnologías una tras otra.",
+    "Primero se hacen las OEA, rápidas y de bajo costo; al bebé que no pasa las OEA se le hacen PEATC-A, por lo general antes del alta.",
+    "El vérnix y el líquido en el oído medio, causas habituales de un \"no pasa\" en las OEA, afectan menos el resultado de los PEATC-A.",
+    "Por eso, en muchos protocolos, se considera que el bebé que pasa los PEATC-A pasó el tamizaje.",
+    "El bebé que tampoco pasa los PEATC-A se deriva a una evaluación audiológica diagnóstica.",
+    "El tamizaje en dos etapas reduce claramente la tasa de derivación y evita a las familias preocupaciones innecesarias.",
+    "Pero los estudios mostraron que una pequeña parte de los bebés que no pasaron las OEA pero sí los PEATC-A tenía luego una pérdida permanente.",
+    "La mayoría de estas pérdidas eran leves, es decir, por debajo del nivel de tamizaje de los PEATC-A.",
+    "Por eso, incluso en un protocolo de dos etapas, se pide a la familia que siga observando la audición y el desarrollo del habla del niño."
+   ]
+  },
+  {
+   "id": "secenek",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Bebés sanos",
+   "baslik": "*Opciones* para bebés sanos",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Solo OEA",
+     "cumle": 0,
+     "metin": "Rápido, económico, sencillo"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Solo PEATC-A",
+     "cumle": 3,
+     "metin": "Abarca también la vía neural"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "OEA y PEATC-A",
+     "cumle": 5,
+     "metin": "Baja tasa de derivación"
+    }
+   ],
+   "cumleler": [
+    "Para bebés sanos, el JCIH acepta el tamizaje con OEA o con PEATC-A; los programas eligen según sus propias condiciones.",
+    "Las ventajas de un protocolo solo con OEA son la rapidez, el bajo costo y la facilidad de uso.",
+    "Pero la tasa de \"no pasa\" puede ser mayor en los primeros días por el vérnix y el líquido.",
+    "Un protocolo solo con PEATC-A puede dar una tasa de \"no pasa\" menor, ya que abarca la vía neural y se afecta menos en los primeros días.",
+    "Por otro lado, requiere electrodos y material desechable, y tarda un poco más en realizarse.",
+    "El protocolo de dos etapas, que usa juntos OEA y PEATC-A, combina las fortalezas de ambos métodos.",
+    "Sea cual sea el protocolo elegido, el personal capacitado y el control de calidad regular determinan la confiabilidad del resultado.",
+    "El número de nacimientos, el personal, el equipamiento y cuánto tiempo permanecen las madres en el hospital también influyen en la elección."
+   ]
+  },
+  {
+   "id": "ybu",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cuidados intensivos",
+   "baslik": "¿Por qué *PEATC-A* en cuidados intensivos?",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "Respuesta de OEA: posible en el TENA",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Estancia de más de cinco días",
+     "cumle": 1,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Mayor riesgo de TENA",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Pasar las OEA no cuenta",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En la unidad de cuidados intensivos neonatales, o UCIN, el protocolo es diferente."
+    },
+    "El JCIH recomienda que los bebés que permanecen más de cinco días en cuidados intensivos se tamicen con PEATC-A.",
+    "Este límite de cinco días aparece de la misma forma en las declaraciones de posición del JCIH de 2007 y de 2019.",
+    "Esto se debe a que estos bebés tienen un mayor riesgo de TENA por causas como la prematurez, la hiperbilirrubinemia y la hipoxia.",
+    "La respuesta de OEA que muestra el dibujo también puede registrarse en un bebé con TENA, siempre que las células ciliadas externas estén intactas.",
+    "Por eso, un tamizaje solo con OEA puede clasificar como \"pasa\" a un bebé con TENA.",
+    "No se recomienda volver a tamizar con OEA a un bebé que no pasó los PEATC-A y darlo por aprobado.",
+    "Los bebés de la UCIN que no pasan los PEATC-A se derivan directamente a un audiólogo para el retamizaje y, si es necesario, PEATC diagnósticos."
+   ]
+  },
+  {
+   "id": "yeniden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cuidados intensivos",
+   "baslik": "El bebé *reingresado*",
+   "maddeler": [
+    {
+     "metin": "Reingreso en el primer mes",
+     "cumle": 0,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Ictericia que requiere exanguinotransfusión",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Sepsis con hemocultivo positivo",
+     "cumle": 2,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "_Retamizaje_ antes del alta",
+     "cumle": 3,
+     "ikon": "tarama"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Pasó antes",
+      "cumle": 0,
+      "metin": "Normal al nacer"
+     },
+     {
+      "ikon": "hastane",
+      "baslik": "Nuevo riesgo",
+      "cumle": 1,
+      "metin": "Ictericia, sepsis"
+     },
+     {
+      "ikon": "tarama",
+      "baslik": "Retamizar",
+      "cumle": 3,
+      "metin": "Antes del alta"
+     }
+    ],
+    "ust": "NUEVO RIESGO"
+   },
+   "cumleler": [
+    "Un bebé que pasó el tamizaje puede reingresar en el primer mes por una condición asociada a pérdida auditiva.",
+    "Un ejemplo es la hiperbilirrubinemia, o ictericia grave, que requiere exanguinotransfusión.",
+    "Otro es la sepsis con hemocultivo positivo, una infección grave confirmada por el crecimiento de bacterias en la sangre.",
+    "El JCIH recomienda repetir el tamizaje auditivo antes del alta en estos bebés.",
+    "Esto se debe a que estas condiciones pueden causar una pérdida que aparece después del resultado del tamizaje al nacer.",
+    "Aunque el tamizaje anterior haya sido \"pasa\", un nuevo riesgo exige una nueva evaluación."
+   ]
+  },
+  {
+   "id": "kurallar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Pasa y no pasa",
+   "baslik": "*Reglas* de decisión",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Un oído no pasa",
+     "cumle": 0,
+     "metin": "Cuenta como no pasa"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Ambos oídos juntos",
+     "cumle": 2,
+     "metin": "Ambos en el retamizaje"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Repeticiones ilimitadas",
+     "cumle": 3,
+     "metin": "Riesgo de falso pasa"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registro",
+     "cumle": 6,
+     "metin": "Cada intento registrado"
+    }
+   ],
+   "cumleler": [
+    "No pasar en un oído también es un resultado \"no pasa\", y el bebé se deriva a retamizaje o a diagnóstico según el protocolo.",
+    "Este resultado no es menor, porque la pérdida unilateral también puede afectar el desarrollo del niño.",
+    "En el retamizaje se recomienda evaluar ambos oídos, aunque solo uno no haya pasado el primer tamizaje.",
+    "Repetir la prueba una y otra vez en una misma sesión hasta que aparezca un \"pasa\" aumenta la probabilidad de un falso pasa por azar.",
+    "Por eso, los programas limitan el número de intentos por sesión.",
+    "Qué oído no pasó también se anota claramente en el registro y en la información escrita que se entrega a la familia.",
+    "Se registran la fecha, el método y el resultado de cada intento; este registro es la base del sistema de seguimiento."
+   ]
+  },
+  {
+   "id": "yontem",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Pasa y no pasa",
+   "baslik": "*Resumen* de protocolos",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Bebé sano",
+     "cumle": 1,
+     "metin": "OEA o PEATC-A"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Dos etapas",
+     "cumle": 2,
+     "metin": "OEA, luego PEATC-A"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Cuidados intensivos",
+     "cumle": 3,
+     "metin": "PEATC-A, derivar al audiólogo"
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Reingreso",
+     "cumle": 4,
+     "metin": "Retamizar antes del alta"
+    }
+   ],
+   "cumleler": [
+    "Pongamos ahora los protocolos uno al lado del otro.",
+    "En los bebés sanos, el primer tamizaje se hace con OEA o con PEATC-A; el bebé que no pasa se vuelve a tamizar.",
+    "En el protocolo de dos etapas, al bebé que no pasa las OEA se le hacen PEATC-A; si tampoco los pasa, se deriva a diagnóstico.",
+    "Los bebés con más de cinco días en cuidados intensivos se tamizan con PEATC-A; si no pasan, van directamente a un audiólogo.",
+    "En un bebé reingresado en el primer mes por una condición asociada a pérdida auditiva, el tamizaje se repite antes del alta.",
+    "Los detalles pueden variar de un país a otro y de un programa a otro, pero la lógica básica es la misma."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Pasa y no pasa",
+   "baslik": "¿Qué *le decimos a la familia*?",
+   "maddeler": [
+    {
+     "metin": "Breve información antes del tamizaje",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Pasa: seguir observando",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "No pasa: no es diagnóstico, más pruebas",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Cita e información por escrito",
+     "cumle": 6,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Pasa",
+      "cumle": 2,
+      "metin": "Observar el desarrollo"
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "No pasa",
+      "cumle": 4,
+      "metin": "Se necesitan más pruebas"
+     },
+     {
+      "ikon": "takvim",
+      "baslik": "Cita",
+      "cumle": 6,
+      "metin": "Antes de irse"
+     }
+    ],
+    "ust": "SEGÚN EL RESULTADO"
+   },
+   "cumleler": [
+    "El éxito de un protocolo también depende de una información clara y coherente para la familia.",
+    "Antes del tamizaje, se explica brevemente a la familia qué es la prueba, que es indolora y que es rápida.",
+    "Con un resultado \"pasa\", se le explica a la familia que muestra una respuesta al nivel del tamizaje.",
+    "Como la audición puede cambiar más adelante, se le pide que siga observando las respuestas al sonido y el desarrollo del habla.",
+    "Con un \"no pasa\", se recalca claramente que el resultado no es un diagnóstico y que solo significa que se necesitan más pruebas.",
+    "También se explica por qué importa el seguimiento, ya que algunos bebés que no pasan sí tienen una pérdida real.",
+    "Si es posible, la cita de retamizaje o de diagnóstico se entrega por escrito antes de que la familia salga del hospital."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Pidan a las familias de bebés que pasaron los PEATC-A tras no pasar las OEA, o que no pasaron en un oído, que vigilen la audición y el habla.",
+   "cumleler": [
+    "Un consejo de la práctica: el eslabón más débil de un protocolo de tamizaje a menudo no es técnico, sino la comunicación.",
+    "La familia de un bebé que no pasó en un oído puede faltar a la cita porque el otro oído está bien.",
+    "La familia de un bebé que pasó un protocolo de dos etapas también debe saber que el tamizaje puede no detectar pérdidas leves.",
+    "Expliquen de forma breve y concreta cómo pueden observar las respuestas del bebé al sonido y el desarrollo del habla.",
+    "Indíquenles por escrito adónde acudir si tienen alguna preocupación."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "OEA hasta la cóclea, PEATC-A hasta el tronco",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Bebés sanos: OEA, PEATC-A o ambos",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "UCIN más de cinco días: PEATC-A",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "No pasar en un oído es no pasa",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que las OEA evalúan la vía hasta la cóclea, mientras que los PEATC-A la evalúan hasta el tronco cerebral.",
+    "En los bebés sanos pueden usarse OEA, PEATC-A o un protocolo de dos etapas que use ambos en secuencia.",
+    "Los bebés con más de cinco días en cuidados intensivos se tamizan con PEATC-A por el riesgo de TENA.",
+    "No pasar en un oído también es un resultado \"no pasa\"; en el retamizaje se evalúan ambos oídos juntos."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cómo se tamiza a un bebé con 10 días en la UCIN?",
+   "secenekler": [
+    "Solo con OEA",
+    "Con PEATC-A",
+    "Un mes después del alta",
+    "Por observación conductual"
+   ],
+   "dogru": 1,
+   "aciklama": "En cuidados intensivos el _riesgo de TENA_ es mayor; las OEA no evalúan la vía neural.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿con qué prueba debe tamizarse a un bebé que pasó diez días en cuidados intensivos?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: con PEATC-A.",
+    "Estos bebés tienen mayor riesgo de neuropatía auditiva; como las OEA pueden ser normales, se necesitan PEATC-A, que abarcan también la vía neural."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Indicadores de riesgo* y seguimiento de pérdida tardía",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos a los bebés que necesitan seguimiento aun después de pasar el tamizaje: indicadores de riesgo y pérdida tardía.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

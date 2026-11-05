@@ -1,0 +1,629 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D221_Intro_To_Occupational_Audiology_ES",
+ "kapak": {
+  "ust": "LECCIÓN 221",
+  "baslik": "Audiología<br>*ocupacional*",
+  "alt": "El ruido en el trabajo",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "Introducción a la audiología ocupacional | Lección 221 | AIHEAR Academia de Audiología",
+  "aciklama": "La hipoacusia inducida por ruido es permanente, pero en gran medida se puede prevenir. En esta lección vemos los objetivos de la audiología ocupacional, la magnitud del ruido ocupacional, los conceptos de exposición al ruido y dosis de ruido, el orden de prioridad del control del ruido, los componentes de un programa de conservación auditiva y el marco legal en Turquía.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: NIOSH, Criteria for a Recommended Standard: Occupational Noise Exposure (1998); OSHA, 29 CFR 1910.95 Occupational Noise Exposure; Nelson et al., The global burden of occupational noise-induced hearing loss, American Journal of Industrial Medicine (2005); European Union Directive 2003/10/EC on noise; Regulation on the Protection of Employees from Noise-Related Risks, Türkiye, Official Gazette 28.07.2013, No. 28721; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "saludocupacional",
+   "ruido"
+  ],
+  "etiketler": [
+   "audiología ocupacional",
+   "audiología industrial",
+   "ruido en el trabajo",
+   "exposición al ruido",
+   "dosis de ruido",
+   "programa de conservación auditiva",
+   "hipoacusia inducida por ruido",
+   "ruido ocupacional",
+   "normativa de ruido",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 221",
+   "baslik": "Introducción a la audiología *ocupacional*",
+   "alt": "El ruido en el trabajo y la conservación auditiva",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección comenzamos un nuevo módulo y veremos la audiología ocupacional, es decir, la protección de la audición en el trabajo.",
+    "Veremos la exposición al ruido, el concepto de dosis de ruido y los componentes de un programa de conservación auditiva."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El campo y el problema",
+   "baslik": "¿Qué es la audiología *ocupacional?*",
+   "maddeler": [
+    {
+     "metin": "Proteger la audición de los trabajadores",
+     "cumle": 0,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Medición, audiometría, protectores, capacitación",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Trabajo en equipo con el médico laboral",
+     "cumle": 2,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "El verdadero objetivo: la _prevención_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "test_kabini",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "test_odasi",
+      "cumle": 1
+     },
+     {
+      "parca": "odyometre",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "La audiología ocupacional es el campo de la audiología que busca proteger la audición de los trabajadores frente a los riesgos del lugar de trabajo.",
+    "Sus tareas principales son la medición del ruido, la audiometría preocupacional y periódica, la elección de protectores auditivos y la capacitación.",
+    "En este trabajo, el audiólogo colabora con el médico laboral, el especialista en seguridad y el empleador.",
+    "La hipoacusia inducida por ruido es permanente, pero en gran medida se puede prevenir.",
+    "Por eso, el verdadero objetivo de la audiología ocupacional no es detectar la pérdida, sino prevenirla antes de que se produzca.",
+    "Este trabajo exige combinar el conocimiento audiométrico con la normativa de seguridad y salud en el trabajo."
+   ]
+  },
+  {
+   "id": "boyut",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "El campo y el problema",
+   "baslik": "La *magnitud* del problema",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "En el mundo",
+     "metin": "Cerca del 16 por ciento de las pérdidas",
+     "cumle": 0
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "En Estados Unidos",
+     "metin": "Más de 22 millones de trabajadores",
+     "cumle": 2
+    },
+    {
+     "ikon": "fabrika",
+     "baslik": "Sectores de alto riesgo",
+     "metin": "Industria, construcción, minería",
+     "cumle": 4
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Sustancias químicas",
+     "metin": "Solventes ototóxicos",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Un estudio realizado para la Organización Mundial de la Salud atribuyó al ruido ocupacional cerca del 16 por ciento de la pérdida auditiva discapacitante en adultos.",
+    "Esta proporción varía según la región y es mayor en las regiones en desarrollo.",
+    "En Estados Unidos se estima que más de 22 millones de trabajadores están expuestos a ruido peligroso en el trabajo.",
+    "El ruido ocupacional afecta más a los hombres, porque representan una mayor proporción de los trabajadores en empleos ruidosos.",
+    "La industria, la construcción, la minería, la agricultura y el ámbito militar son las principales áreas de alto riesgo.",
+    "Además del ruido, algunas sustancias químicas, como ciertos solventes, también pueden dañar la audición; se llaman sustancias ototóxicas."
+   ]
+  },
+  {
+   "id": "maruziyet",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El campo y el problema",
+   "baslik": "*Exposición* al ruido",
+   "cizim": "desibel_olcegi",
+   "etiketler": [
+    {
+     "parca": "konusma",
+     "metin": "habla cotidiana",
+     "cumle": 2
+    },
+    {
+     "parca": "konser",
+     "metin": "ruido intenso",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "konusma",
+     "cumle": 2
+    },
+    {
+     "parca": "trafik",
+     "cumle": 2
+    },
+    {
+     "parca": "konser",
+     "cumle": 3
+    },
+    {
+     "parca": "agri_esigi",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Nivel y duración en conjunto",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Valor de pico en ruido impulsivo",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La exposición al ruido es la energía sonora total que recibe un trabajador durante la jornada laboral.",
+    "Dos factores determinan la exposición: el nivel del sonido y cuánto dura.",
+    "El habla cotidiana ronda los 60 decibeles; el tránsito intenso está claramente por encima.",
+    {
+     "yazi": "Muchas máquinas industriales pueden producir sonidos de entre 85 y 100 dB(A)."
+    },
+    "Los sonidos impulsivos, breves pero muy intensos, como martillazos, prensas o disparos, también se evalúan por su presión sonora de pico.",
+    "Por eso, en el trabajo se miden tanto el nivel promedio como los valores de pico.",
+    "El daño del ruido no depende de que el sonido sea agradable, sino de la energía que transporta; incluso la música que nos gusta puede causar daño."
+   ]
+  },
+  {
+   "id": "doz",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Dosis y controles",
+   "baslik": "*Dosis* de ruido",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 9,
+     "adim": 1,
+     "ad": "Horas trabajadas a 88 dB(A)"
+    },
+    "y": {
+     "min": 0,
+     "max": 220,
+     "adim": 50,
+     "ad": "Dosis (por ciento)"
+    },
+    "seriler": [
+     {
+      "ad": "doz",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        25
+       ],
+       [
+        2,
+        50
+       ],
+       [
+        4,
+        100
+       ],
+       [
+        8,
+        200
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "dosis",
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yuzde100",
+      "x": 0,
+      "y": 100,
+      "cizgi": "yatay",
+      "etiket": "100 por ciento",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Referencia: 85 dB(A), 8 horas",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "3 dB más: la mitad del tiempo",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "88 dB(A), 8 horas: 200 por ciento",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La dosis de ruido es la relación entre la energía sonora que recibe un trabajador y la cantidad diaria permitida, expresada en porcentaje.",
+    "Una dosis del 100 por ciento significa una exposición igual al nivel de referencia durante una jornada laboral de ocho horas.",
+    {
+     "yazi": "Muchas guías toman como referencia 85 dB(A)."
+    },
+    "Según el principio de igual energía, un aumento de 3 decibeles duplica la energía, así que la misma dosis se alcanza en la mitad del tiempo.",
+    {
+     "yazi": "En este ejemplo, trabajar 4 horas en un lugar con 88 dB(A) basta para alcanzar una dosis del 100 por ciento."
+    },
+    "Trabajar 8 horas en el mismo lugar significa una dosis del 200 por ciento.",
+    "La dosis diaria total se obtiene sumando las dosis de los períodos pasados a distintos niveles durante el día.",
+    "En la próxima lección compararemos en detalle las tasas de intercambio y los valores límite."
+   ]
+  },
+  {
+   "id": "hiyerarsi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Dosis y controles",
+   "baslik": "El *orden de prioridad* de los controles",
+   "ogeler": [
+    {
+     "ikon": "fabrika",
+     "baslik": "Reducir en la fuente",
+     "metin": "Máquinas más silenciosas, mantenimiento",
+     "cumle": 1
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Bloquear la transmisión",
+     "metin": "Cerramientos, aislamiento",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Limitar el tiempo",
+     "metin": "Rotación, pausas en silencio",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Protección personal",
+     "metin": "La última línea de defensa",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En el control del ruido, las medidas se aplican según un orden de prioridad.",
+    "La forma más eficaz es reducir el ruido en su fuente, por ejemplo eligiendo una máquina más silenciosa o dándole mantenimiento.",
+    "En segundo lugar están los controles de ingeniería que bloquean la propagación del ruido: cerramientos de máquinas y aislamiento acústico y antivibratorio.",
+    "Luego vienen los controles administrativos: limitar el tiempo de trabajo, rotar las tareas ruidosas y ofrecer zonas de descanso silenciosas.",
+    "Los protectores auditivos personales son la última línea de defensa; se usan junto con las demás medidas, no en lugar de ellas.",
+    "En Turquía, la normativa también exige eliminar o reducir al mínimo los riesgos primero en la fuente.",
+    "Otra desventaja de depender solo de los protectores es que la protección que se logra en el uso real suele ser menor que la esperada."
+   ]
+  },
+  {
+   "id": "program",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Programa de conservación auditiva",
+   "baslik": "*Programa* de conservación auditiva",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Medición",
+     "metin": "Identificar a los expuestos",
+     "cumle": 1
+    },
+    {
+     "ikon": "fabrika",
+     "baslik": "Control",
+     "metin": "Ingeniería, administrativo",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Protectores",
+     "metin": "Selección y uso",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiometría",
+     "metin": "Basal y vigilancia",
+     "cumle": 4
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Capacitación",
+     "metin": "Riesgos y uso",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Un programa de conservación auditiva es un programa sistemático para proteger la audición de los trabajadores expuestos al ruido.",
+    "El primer componente es la medición del ruido y la identificación de los trabajadores expuestos.",
+    "El segundo componente son los controles de ingeniería y administrativos que reducen el ruido.",
+    "El tercer componente es seleccionar protectores auditivos adecuados para cada trabajador y asegurarse de que se usen correctamente.",
+    "El cuarto componente es la vigilancia audiométrica: un audiograma basal y pruebas repetidas a intervalos regulares.",
+    "El quinto componente es la capacitación; los trabajadores aprenden sobre los riesgos, cómo colocarse los protectores y por qué se les evalúa.",
+    "Llevar registros y evaluar con regularidad la eficacia del programa también son partes esenciales de él."
+   ]
+  },
+  {
+   "id": "mevzuat",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Programa de conservación auditiva",
+   "baslik": "El *marco legal* en Turquía",
+   "maddeler": [
+    {
+     "metin": "El reglamento de ruido de 2013",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Acorde con la directiva de la UE",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Evaluación de riesgos y medición",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "80 dB(A): protectores disponibles, capacitación",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "85 dB(A): uso, señalización, pruebas",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "VALORES DE ACCIÓN",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kulaklik",
+      "baslik": "80 dB(A)",
+      "metin": "Protectores a disposición",
+      "cumle": 3
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "85 dB(A)",
+      "metin": "Uso garantizado y exigido",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En Turquía, este ámbito está regulado por el Reglamento de 2013 sobre la protección de los trabajadores frente a los riesgos del ruido."
+    },
+    {
+     "yazi": "El reglamento está en línea con la directiva sobre ruido de 2003 de la Unión Europea."
+    },
+    "El empleador realiza una evaluación de riesgos y organiza la medición del ruido cuando es necesario.",
+    {
+     "yazi": "Si la exposición diaria supera los 80 dB(A), se ponen protectores auditivos a disposición y los trabajadores reciben capacitación."
+    },
+    {
+     "yazi": "A partir de 85 dB(A), se garantiza y se exige el uso de protectores, y las áreas de trabajo se señalizan."
+    },
+    "El empleador organiza pruebas auditivas para los trabajadores cuya exposición supera este valor superior de exposición que da lugar a una acción.",
+    "Veremos en detalle los valores límite y de acción en la próxima lección; en la práctica, consulten siempre la normativa vigente."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "El papel del audiólogo",
+   "baslik": "Las *tareas* del audiólogo",
+   "ogeler": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Pruebas confiables",
+     "metin": "Equipo calibrado, entorno adecuado",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Comparación",
+     "metin": "Con pruebas anteriores",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Ajuste del protector",
+     "metin": "Selección y controles",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Informe",
+     "metin": "Al médico laboral",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En la audiología ocupacional, las tareas del audiólogo se agrupan en unos pocos apartados.",
+    "La primera tarea es una audiometría confiable, en una sala adecuada y con un equipo correctamente calibrado.",
+    "La segunda tarea es comparar los audiogramas con las pruebas anteriores e informar a tiempo los cambios significativos.",
+    "Elegir un protector adecuado para el trabajador y comprobar que lo use correctamente es otra área en la que aporta el audiólogo.",
+    "Para el éxito del programa, la capacitación y la motivación importan al menos tanto como las medidas técnicas.",
+    "El audiólogo informa sus hallazgos al médico laboral; la evaluación médica y las decisiones de aptitud laboral corresponden al médico.",
+    "Responder las preguntas de los trabajadores también fortalece su confianza en el uso de protectores y en el programa."
+   ]
+  },
+  {
+   "id": "baslangic",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "El papel del audiólogo",
+   "baslik": "El *audiograma* basal",
+   "cizim": "test_kabini",
+   "etiketler": [
+    {
+     "parca": "hasta",
+     "metin": "trabajador",
+     "cumle": 0
+    },
+    {
+     "parca": "odyolog",
+     "metin": "audiólogo",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "test_odasi",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "La base de las comparaciones posteriores",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Reposo auditivo previo",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Ejemplo: al menos 14 horas",
+     "cumle": 2,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "El audiograma preocupacional, o basal, es la base de todas las comparaciones posteriores.",
+    "Esta prueba debe hacerse después de un período de reposo en el que el trabajador no haya estado expuesto al ruido.",
+    "Por ejemplo, la normativa estadounidense de salud ocupacional exige al menos 14 horas sin ruido laboral antes de la prueba basal.",
+    "De lo contrario, un desplazamiento temporal del umbral se registra como pérdida permanente, y los cambios posteriores pueden pasar inadvertidos.",
+    "En la evaluación basal también se registran antecedentes: trabajos ruidosos anteriores, servicio militar y tiro, enfermedades del oído y medicamentos.",
+    "Las pruebas periódicas y los criterios de desplazamiento del umbral se verán por separado en una lección posterior."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Programa las pruebas periódicas al inicio del turno cuando sea posible. Pregunta por la última exposición al ruido y el uso de protectores, y anota ambos en el registro.",
+   "cumleler": [
+    "Un consejo clínico: programen las pruebas periódicas al inicio del turno cuando sea posible.",
+    "Una prueba al final del turno puede hacer que el resultado parezca peor de lo que es, por un desplazamiento temporal del umbral.",
+    "Durante la prueba, pregunten al trabajador cuándo fue su última exposición al ruido y si usó protectores.",
+    "Anotar esta información en el registro de la prueba permite interpretar correctamente las comparaciones posteriores."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Objetivo: prevenir la pérdida antes de que empiece",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Dosis: nivel y duración en conjunto",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Primero la fuente, los protectores al final",
+     "cumle": 2,
+     "ikon": "fabrika"
+    },
+    {
+     "metin": "Programa: medir, proteger, evaluar, capacitar",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "El objetivo de la audiología ocupacional es prevenir la hipoacusia inducida por ruido antes de que se produzca.",
+    "La dosis de ruido depende del nivel y de la duración; con un aumento de 3 decibeles se alcanza la misma dosis en la mitad del tiempo.",
+    "La prioridad en el control del ruido es reducirlo en la fuente; los protectores personales son la última línea de defensa.",
+    "Un programa de conservación auditiva incluye medición, controles, protectores, vigilancia audiométrica, capacitación y registros."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cuál es la medida de control del ruido más eficaz?",
+   "secenekler": [
+    "Reducirlo en la fuente",
+    "Repartir tapones auditivos",
+    "Audiometría anual",
+    "Señales de advertencia"
+   ],
+   "dogru": 0,
+   "aciklama": "Los protectores personales son _la última línea de defensa_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál es la medida más eficaz para controlar el ruido en el lugar de trabajo?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: reducir el ruido en su fuente.",
+    "Los protectores auditivos y la audiometría son importantes, pero no pueden reemplazar la reducción del ruido en su fuente."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Límites de exposición al ruido: *80, 85 y 87* dB(A)",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "En la próxima lección veremos en detalle los valores de 80, 85 y 87 dB(A) y la tasa de intercambio."
+    },
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

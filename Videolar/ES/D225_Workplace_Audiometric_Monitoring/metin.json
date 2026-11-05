@@ -1,0 +1,883 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D225_Workplace_Audiometric_Monitoring_ES",
+ "kapak": {
+  "ust": "LECCIÓN 225",
+  "baslik": "Vigilancia audiométrica<br>y *STS*",
+  "alt": "Audiograma basal y desplazamiento del umbral",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      5,
+      5,
+      10,
+      20,
+      30,
+      35,
+      25,
+      15
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Audiometría laboral y desplazamiento del umbral | Lección 225 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo se vigila la audición de quienes trabajan con ruido? En esta lección vemos el audiograma basal, las condiciones de las pruebas periódicas, cómo calcular un cambio estándar del umbral (STS), la corrección por edad, el criterio de NIOSH y los pasos que se siguen cuando se encuentra un desplazamiento.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: OSHA 29 CFR 1910.95, Occupational Noise Exposure (incluido el Appendix F); NIOSH (1998), Criteria for a Recommended Standard: Occupational Noise Exposure; Berger et al., The Noise Manual (AIHA); Katz, Handbook of Clinical Audiology; Regulation on the Protection of Employees from Noise-Related Risks, Turquía (Boletín Oficial, 28.07.2013, n.º 28721).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "saludocupacional",
+   "conservacionauditiva"
+  ],
+  "etiketler": [
+   "vigilancia audiométrica",
+   "cambio estándar del umbral",
+   "STS",
+   "audiograma basal",
+   "corrección por edad",
+   "programa de conservación auditiva",
+   "OSHA",
+   "NIOSH",
+   "hipoacusia inducida por ruido",
+   "audiología ocupacional",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 225",
+   "baslik": "Vigilancia audiométrica y *desplazamiento del umbral*",
+   "alt": "Audiograma basal, STS y corrección por edad",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos la vigilancia audiométrica de quienes trabajan con ruido y por qué el audiograma basal es tan importante.",
+    "Veremos cómo calcular un cambio estándar del umbral, la corrección por edad y los pasos que se siguen cuando se encuentra un desplazamiento."
+   ]
+  },
+  {
+   "id": "program",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "El papel de la vigilancia",
+   "baslik": "Programa de *conservación auditiva*",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Medición",
+     "cumle": 1,
+     "metin": "¿Quién, cuánta exposición?"
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Controles de ingeniería",
+     "cumle": 2,
+     "metin": "Reducir en fuente y trayecto"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Protectores",
+     "cumle": 3,
+     "metin": "Selección, ajuste, capacitación"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Vigilancia audiométrica",
+     "cumle": 4,
+     "metin": "Sistema de alerta temprana"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registros",
+     "cumle": 5,
+     "metin": "Evaluar, mejorar"
+    }
+   ],
+   "cumleler": [
+    "La vigilancia audiométrica no es una prueba aislada, sino una parte de un programa de conservación auditiva.",
+    "El programa empieza con mediciones que muestran quién está expuesto a cuánto ruido.",
+    "Los controles de ingeniería, que reducen el ruido en su fuente y en su trayecto, son la base del programa.",
+    "Elegir protectores, comprobar su ajuste y capacitar a los trabajadores en su uso son los pasos que vimos en la lección anterior.",
+    "La vigilancia audiométrica es el sistema de alerta temprana que muestra si el programa realmente funciona.",
+    "Todos estos pasos se registran, porque las comparaciones que se hagan años después dependen de esos registros."
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "El papel de la vigilancia",
+   "baslik": "El *flujo* de la vigilancia",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Basal",
+     "cumle": 0,
+     "metin": "Referencia al ingresar"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Prueba periódica",
+     "cumle": 1,
+     "metin": "Por lo general, anual"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Comparar",
+     "cumle": 2,
+     "metin": "Cambio respecto del basal"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Confirmar",
+     "cumle": 3,
+     "metin": "Repetir la prueba"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Notificar, actuar",
+     "cumle": 4,
+     "metin": "Se revisa la protección"
+    }
+   ],
+   "cumleler": [
+    "Todo empieza con el audiograma basal, tomado al ingresar al trabajo; es el audiograma de referencia de la persona.",
+    "Los trabajadores que siguen expuestos al ruido se evalúan periódicamente, en muchos programas una vez al año.",
+    "Cada nuevo audiograma se compara con el audiograma basal, frecuencia por frecuencia.",
+    "Un cambio que parece significativo se confirma con una nueva prueba antes de tomar cualquier decisión.",
+    "Un cambio confirmado se comunica al trabajador, y se revisan las medidas de protección.",
+    "El objetivo no es documentar una pérdida permanente, sino detectar el cambio antes de que la pérdida avance."
+   ]
+  },
+  {
+   "id": "baslangic",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "El audiograma basal",
+   "baslik": "El *audiograma* basal",
+   "maddeler": [
+    {
+     "metin": "En los 6 meses tras iniciar la exposición",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "_14 horas_ previas sin ruido",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "De 500 a 6000 Hz, ambos oídos",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Turquía: pruebas por encima de 85 dB(A)",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "El médico laboral fija el intervalo",
+     "cumle": 6,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "AUDIOGRAMA BASAL",
+    "metin": "El punto de *referencia* de todas las comparaciones posteriores",
+    "cumle": 0
+   },
+   "cumleler": [
+    "OSHA, la Administración de Seguridad y Salud Ocupacional de Estados Unidos, exige un audiograma basal en los seis meses siguientes al inicio de la exposición.",
+    "Antes de la prueba, el trabajador debe estar al menos catorce horas sin ruido laboral; para cumplirlo también pueden usarse protectores auditivos.",
+    "De lo contrario, un desplazamiento temporal del umbral se introduce en los valores basales y todas las comparaciones posteriores resultan engañosas.",
+    "La prueba se hace en 500, 1000, 2000, 3000, 4000 y 6000 Hz, por separado en cada oído.",
+    {
+     "yazi": "En Turquía, el reglamento de ruido de 2013 obliga al empleador a organizar pruebas auditivas cuando la exposición supera el valor superior de acción."
+    },
+    "Si la evaluación de riesgos lo indica, también pueden organizarse pruebas auditivas para quienes superan el valor inferior de acción.",
+    "El intervalo de la vigilancia de la salud lo fija el médico laboral según la evaluación de riesgos; consulten la normativa vigente."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "El audiograma basal",
+   "baslik": "Una *prueba* comparable",
+   "ogeler": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Sala silenciosa",
+     "cumle": 0,
+     "metin": "Ruido de cabina dentro del límite"
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Calibración",
+     "cumle": 1,
+     "metin": "Control diario, calibración anual"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Mismo método",
+     "cumle": 2,
+     "metin": "Mismos auriculares, mismos pasos"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia",
+     "cumle": 3,
+     "metin": "El cerumen cambia los umbrales"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Anamnesis",
+     "cumle": 4,
+     "metin": "Pasatiempos, armas, fármacos, enfermedad"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Momento de la prueba",
+     "cumle": 5,
+     "metin": "Mejor al inicio del turno"
+    }
+   ],
+   "cumleler": [
+    "Comparar de un año a otro solo tiene sentido si las pruebas se hacen en las mismas condiciones; el ruido de la sala no debe enmascarar los umbrales.",
+    "El audiómetro debe pasar un control auditivo diario y calibrarse a intervalos regulares.",
+    "En la medida de lo posible, deben usarse el mismo tipo de auricular y el mismo método de umbral.",
+    "Antes de la prueba se hace una otoscopia; un tapón de cerumen puede empeorar temporalmente los umbrales.",
+    "En cada prueba se pregunta y se registra el ruido fuera del trabajo, el uso de armas de fuego, los medicamentos y las enfermedades del oído.",
+    "Hacer la prueba periódica al inicio del turno evita que un desplazamiento temporal por el ruido de ese día afecte el resultado."
+   ]
+  },
+  {
+   "id": "sts",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cambio estándar del umbral",
+   "baslik": "Cambio estándar *del umbral*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 500,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      3000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 60,
+     "adim": 10,
+     "ad": "Nivel auditivo (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "baslangic",
+      "noktalar": [
+       [
+        500,
+        5
+       ],
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        3000,
+        15
+       ],
+       [
+        4000,
+        20
+       ],
+       [
+        6000,
+        15
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "isaretli": true,
+      "etiket": "basal",
+      "cumle": 0
+     },
+     {
+      "ad": "yillik",
+      "noktalar": [
+       [
+        500,
+        5
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        20
+       ],
+       [
+        3000,
+        30
+       ],
+       [
+        4000,
+        35
+       ],
+       [
+        6000,
+        25
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "año 5",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "sts_bolgesi",
+      "x": [
+       1800,
+       4400
+      ],
+      "renk": "sari",
+      "etiket": "2, 3 y 4 kHz",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       15,
+       30
+      ],
+      "xk": 3000,
+      "etiket": "15 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "En este ejemplo, la línea azul marino discontinua muestra el audiograma basal del oído derecho de un trabajador.",
+    "La línea roja es el audiograma anual del mismo oído cinco años después.",
+    "Según la definición de OSHA, el cambio estándar del umbral, o STS, considera solo tres frecuencias.",
+    "Esas frecuencias son 2000, 3000 y 4000 Hz, la región donde el daño por ruido aparece primero.",
+    "Un empeoramiento promedio de diez decibeles o más en estas tres frecuencias, respecto del basal, cuenta como cambio estándar del umbral.",
+    "Cada oído se evalúa por separado; basta con un desplazamiento en un oído.",
+    "Los valores del ejemplo son didácticos; ahora hagamos el cálculo en una tabla."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cambio estándar del umbral",
+   "baslik": "El cálculo *paso a paso*",
+   "sutunlar": [
+    "Frecuencia",
+    "Basal",
+    "Anual",
+    "Diferencia"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "2000 Hz",
+      "10 dB",
+      "20 dB",
+      "10 dB"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "3000 Hz",
+      "15 dB",
+      "30 dB",
+      "15 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "20 dB",
+      "35 dB",
+      "15 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Diferencia promedio",
+      "",
+      "",
+      "13,3 dB"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "En 2000 Hz, el umbral empeoró de 10 a 20 decibeles; la diferencia es de 10 decibeles.",
+    "En 3000 Hz, de 15 a 30 decibeles; la diferencia es de 15 decibeles.",
+    "En 4000 Hz, de 20 a 35 decibeles; la diferencia es de nuevo de 15 decibeles.",
+    "Las tres diferencias suman 40, un promedio de unos 13 decibeles; esto supera el criterio de diez decibeles.",
+    "Así, sin corrección por edad, este oído muestra un cambio estándar del umbral."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cambio estándar del umbral",
+   "baslik": "Corrección *por edad*",
+   "maddeler": [
+    {
+     "metin": "Los umbrales empeoran con la edad",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "OSHA: permite corregir con tablas",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Se resta el efecto esperado de la edad",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "NIOSH: sin corrección por edad",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DOS ENFOQUES",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "tablo",
+      "baslik": "OSHA",
+      "cumle": 1,
+      "metin": "Permite corrección por edad"
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "NIOSH",
+      "cumle": 5,
+      "metin": "Sin corrección por edad"
+     }
+    ]
+   },
+   "cumleler": [
+    "En cinco años, parte del cambio en los umbrales puede deberse no al ruido, sino simplemente al envejecimiento.",
+    "OSHA permite la corrección por edad al decidir si hay un cambio estándar del umbral.",
+    "Los valores que se usan figuran en tablas de un apéndice de la norma.",
+    "Estas tablas son distintas para mujeres y hombres; el cambio de umbral esperado entre las dos edades se resta del medido.",
+    "Si tras la corrección la diferencia promedio queda por debajo de diez decibeles, el desplazamiento no cuenta como cambio estándar del umbral.",
+    "NIOSH, el Instituto Nacional de Seguridad y Salud Ocupacional de Estados Unidos, no recomienda la corrección por edad.",
+    "Esto se debe a que las tablas basadas en grupos pueden ocultar el daño por ruido en una persona concreta.",
+    "El enfoque que se aplica depende de la normativa que sigue el programa; el registro debe indicar con claridad cuál se usó."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Cuando se encuentra un desplazamiento",
+   "baslik": "¿Qué pasa cuando hay un *desplazamiento?*",
+   "adimlar": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Repetir",
+     "cumle": 0,
+     "metin": "En 30 días"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Aviso escrito",
+     "cumle": 1,
+     "metin": "En 21 días"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Protección",
+     "cumle": 2,
+     "metin": "Ajuste, capacitación, cambio"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Derivación",
+     "cumle": 4,
+     "metin": "Al médico si hace falta"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Nuevo audiograma basal",
+     "cumle": 5,
+     "metin": "Se revisa si persiste"
+    }
+   ],
+   "cumleler": [
+    "Según OSHA, si una prueba anual muestra un desplazamiento, puede repetirse en treinta días y usarse en lugar del audiograma anual.",
+    "Si el desplazamiento se confirma, se informa al trabajador por escrito dentro de los veintiún días.",
+    "A quien no tiene protectores se le entregan; a quien los tiene, se le revisa el ajuste, se repite la capacitación o se elige un protector mejor.",
+    "En esta etapa, la prueba de ajuste individual puede mostrar si el problema está en el protector o en cómo se usa.",
+    "Si el desplazamiento sugiere una causa distinta del ruido o una enfermedad del oído, el trabajador se deriva a un médico.",
+    "Cuando el desplazamiento es persistente, el audiograma basal puede revisarse para las comparaciones posteriores."
+   ]
+  },
+  {
+   "id": "niosh",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Cuando se encuentra un desplazamiento",
+   "baslik": "Criterios de OSHA y *NIOSH*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "STS de OSHA",
+     "cumle": 0,
+     "metin": "10 dB promedio, tres frecuencias"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Desplazamiento según NIOSH",
+     "cumle": 2,
+     "metin": "15 dB en una frecuencia"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Confirmación",
+     "cumle": 3,
+     "metin": "Repetición inmediata"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registro OSHA",
+     "cumle": 5,
+     "metin": "Promedio de 25 dB HL o más"
+    }
+   ],
+   "cumleler": [
+    "Como el criterio de OSHA mira el promedio de tres frecuencias, puede pasar por alto un cambio claro en una sola frecuencia.",
+    {
+     "yazi": "Por eso, el documento de criterios de NIOSH de 1998 propuso un criterio más sensible."
+    },
+    "Según este criterio, un empeoramiento de 15 decibeles en cualquier frecuencia de 500 a 6000 Hz, en cualquiera de los oídos, es significativo.",
+    "El cambio se confirma con una repetición inmediata y luego con una prueba de confirmación aparte.",
+    "Un criterio más sensible avisa antes, pero también aumenta un poco la probabilidad de falsas alarmas.",
+    "OSHA también exige registrar un desplazamiento confirmado como enfermedad laboral si el promedio de las tres frecuencias es de 25 dB HL o más."
+   ]
+  },
+  {
+   "id": "yonlendir",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Derivación",
+   "baslik": "Derivación al *médico*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Asimetría",
+     "cumle": 0,
+     "metin": "Diferencia clara entre oídos"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Cambio repentino",
+     "cumle": 1,
+     "metin": "Gran pérdida en poco tiempo"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Enfermedad del oído",
+     "cumle": 2,
+     "metin": "Secreción, dolor, plenitud"
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Mareo",
+     "cumle": 3,
+     "metin": "Tinnitus unilateral"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Brecha aéreo-ósea",
+     "cumle": 4,
+     "metin": "Componente conductivo"
+    }
+   ],
+   "cumleler": [
+    "El ruido suele afectar ambos oídos de forma similar; una asimetría clara y sin explicación requiere derivación al médico.",
+    "Un gran empeoramiento en poco tiempo sugiere una causa distinta del ruido.",
+    "Los signos de enfermedad del oído, como secreción, dolor o sensación de plenitud, también son motivo de derivación.",
+    "El tinnitus unilateral y el mareo pueden requerir una evaluación de causas retrococleares.",
+    "Una brecha aéreo-ósea sugiere un problema conductivo distinto del ruido.",
+    "El audiólogo no diagnostica; documenta el hallazgo con precisión y lo comparte con el médico laboral y el otorrinolaringólogo."
+   ]
+  },
+  {
+   "id": "asimetri",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 5",
+   "bolum": "Derivación",
+   "baslik": "Ejemplo: desplazamiento *en un oído*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: vía aérea",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Rango _normal_",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "frekanslar": [
+     250,
+     500,
+     1000,
+     2000,
+     3000,
+     4000,
+     6000,
+     8000
+    ],
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       25,
+       30,
+       25,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       30,
+       50,
+       60,
+       50,
+       35
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, el audiograma anual de un trabajador muestra una muesca leve en el oído derecho.",
+    "El oído izquierdo, en cambio, tiene una pérdida mucho más profunda en la misma región; se ha formado una diferencia clara entre los oídos.",
+    "Si la anamnesis revela que la persona usa una escopeta los fines de semana, la asimetría puede explicarse por el oído más cercano a la boca del cañón.",
+    "Pero si la anamnesis no da esa explicación, la asimetría requiere derivación al médico para descartar causas retrococleares.",
+    "En ambos casos se registra la exposición fuera del trabajo, porque los consejos de protección también deben abarcar la vida fuera del trabajo.",
+    "El ejemplo es didáctico; determinar la causa corresponde a la evaluación médica."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Derivación",
+   "baslik": "Registros y *comunicación*",
+   "maddeler": [
+    {
+     "metin": "Cada prueba, registrada completa",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Resultado explicado al trabajador",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Datos grupales evalúan el programa",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Se protege la confidencialidad",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "OBJETIVO",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Proteger a la persona",
+      "cumle": 1,
+      "metin": "Alerta temprana"
+     },
+     {
+      "ikon": "is_yeri",
+      "baslik": "Mejorar el programa",
+      "cumle": 3,
+      "metin": "Datos grupales"
+     }
+    ]
+   },
+   "cumleler": [
+    "En cada prueba se registran completos la fecha, el equipo, el estado de calibración, el evaluador y la anamnesis.",
+    "El resultado se explica al trabajador en lenguaje sencillo y se compara con el audiograma basal.",
+    "Ver el cambio en su propio audiograma suele ser la motivación más fuerte para usar protectores.",
+    "Al revisar juntos los datos de los trabajadores de un mismo sector, podemos saber si el programa funciona allí.",
+    "Estos registros son datos personales de salud; se comparten según la normativa correspondiente y los principios de confidencialidad."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Evalúa al inicio del turno y pregunta por el uso del protector en cada prueba. Si ves un desplazamiento, confírmalo primero con una nueva prueba y luego decide.",
+   "cumleler": [
+    "Un consejo práctico: si es posible, hagan la prueba periódica al inicio del turno, antes de la exposición al ruido de ese día.",
+    "Una prueba al final del turno puede hacer que un desplazamiento temporal del umbral parezca permanente.",
+    "En cada prueba, pregunten y registren el tipo de protector, el tiempo de uso y el ruido fuera del trabajo.",
+    "Si ven un desplazamiento, vuelvan a colocar los auriculares y repitan la prueba; no decidan con una sola medición."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "El audiograma basal es la referencia",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "STS: 10 dB promedio, 2, 3, 4 kHz",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "OSHA y NIOSH difieren en la edad",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Desplazamiento: confirmar, notificar, corregir",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "El audiograma basal se toma tras al menos catorce horas sin ruido y es la referencia de todas las pruebas posteriores.",
+    "Según OSHA, el cambio estándar del umbral es un empeoramiento promedio de diez decibeles o más en 2000, 3000 y 4000 Hz.",
+    "OSHA permite la corrección por edad; NIOSH no recomienda corregir y usa un criterio de 15 decibeles en una sola frecuencia.",
+    "Cuando se encuentra un desplazamiento, se confirma con una nueva prueba, se comunica al trabajador y se revisan las medidas de protección."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Cambios de 5, 10 y 15 dB en 2, 3 y 4 kHz: ¿resultado según OSHA?",
+   "secenekler": [
+    "Sin STS",
+    "Hay STS",
+    "Solo desplazamiento NIOSH",
+    "No se puede decidir"
+   ],
+   "dogru": 1,
+   "aciklama": "Diferencia promedio (5 + 10 + 15) / 3 = _10 dB_; el criterio es 10 dB o más.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si los umbrales en 2000, 3000 y 4000 Hz empeoran 5, 10 y 15 decibeles, ¿cuál es el resultado según el criterio de OSHA?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: hay un cambio estándar del umbral.",
+    "El promedio de las tres diferencias es exactamente diez decibeles, y el criterio es diez o más; la corrección por edad puede cambiar el resultado."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Ruido recreativo y *escucha segura*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasaremos al ruido fuera del trabajo: reproductores de música personales, conciertos y criterios de escucha segura.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

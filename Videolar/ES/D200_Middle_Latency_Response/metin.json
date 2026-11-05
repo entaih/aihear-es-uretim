@@ -1,0 +1,1302 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D200_Middle_Latency_Response_ES",
+ "kapak": {
+  "ust": "LECCIÓN 200",
+  "baslik": "Potenciales de<br>*latencia media*",
+  "alt": "PEALM: las ondas Na y Pa",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 80,
+    "ad": "Tiempo (ms)",
+    "isaretler": [
+     0,
+     10,
+     20,
+     30,
+     40,
+     50,
+     60,
+     70,
+     80
+    ]
+   },
+   "y": {
+    "min": -1.2,
+    "max": 1.2,
+    "adim": 0.5,
+    "ad": "Amplitud (µV)",
+    "ond": 1
+   },
+   "seriler": [
+    {
+     "ad": "mlr",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       3,
+       0.1
+      ],
+      [
+       6,
+       0.25
+      ],
+      [
+       8,
+       0.1
+      ],
+      [
+       12,
+       -0.2
+      ],
+      [
+       18,
+       -0.6
+      ],
+      [
+       23,
+       -0.1
+      ],
+      [
+       30,
+       0.75
+      ],
+      [
+       36,
+       0.2
+      ],
+      [
+       42,
+       -0.45
+      ],
+      [
+       47,
+       0.0
+      ],
+      [
+       52,
+       0.5
+      ],
+      [
+       60,
+       0.1
+      ],
+      [
+       70,
+       0
+      ],
+      [
+       80,
+       0
+      ]
+     ],
+     "renk": "lacivert",
+     "yumusak": true,
+     "kalin": true,
+     "cumle": 0
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "abr_v",
+     "x": 6,
+     "y": 0.25,
+     "etiket": "PEATC V",
+     "cumle": 1
+    },
+    {
+     "ad": "na",
+     "x": 18,
+     "y": -0.6,
+     "etiket": "Na",
+     "cumle": 2
+    },
+    {
+     "ad": "pa",
+     "x": 30,
+     "y": 0.75,
+     "etiket": "Pa",
+     "cumle": 3
+    },
+    {
+     "ad": "nb",
+     "x": 42,
+     "y": -0.45,
+     "etiket": "Nb",
+     "cumle": 4
+    },
+    {
+     "ad": "pb",
+     "x": 52,
+     "y": 0.5,
+     "etiket": "Pb",
+     "cumle": 4
+    }
+   ],
+   "araliklar": [
+    {
+     "ad": "na_pa",
+     "y": [
+      -0.6,
+      0.75
+     ],
+     "xk": 33,
+     "etiket": "amplitud Na-Pa",
+     "cumle": 5
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Potenciales evocados auditivos de latencia media | Lección 200 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué son los potenciales evocados auditivos de latencia media y de dónde provienen? En esta lección vemos las ondas Na y Pa de los PEALM (en inglés MLR), sus generadores talamocorticales, la técnica de registro y el artefacto muscular, los efectos del sueño, la edad y la sedación, la respuesta de 40 Hz y los usos clínicos.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Kraus et al., Auditory middle latency responses in children: effects of age and diagnostic category, Electroencephalography and Clinical Neurophysiology (1985); Galambos, Makeig y Talmachoff, A 40-Hz auditory potential recorded from the human scalp, PNAS (1981).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "PEALM",
+   "electrofisiologia"
+  ],
+  "etiketler": [
+   "potenciales de latencia media",
+   "PEALM",
+   "onda Pa",
+   "onda Na",
+   "vía talamocortical",
+   "músculo auricular posterior",
+   "respuesta de 40 Hz",
+   "potencial evocado auditivo",
+   "electrofisiología auditiva",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 200",
+   "baslik": "Potenciales de *latencia media*",
+   "alt": "PEALM: las ondas Na y Pa",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    {
+     "yazi": "En esta lección vamos más allá del tronco cerebral y veremos los potenciales evocados auditivos de latencia media (PEALM)."
+    },
+    {
+     "yazi": "Veremos las ondas Na y Pa, sus generadores talamocorticales, los efectos del sueño, la edad y la sedación, y su uso clínico.",
+     "ses": "Veremos las ondas ene a y pe a, sus generadores talamocorticales, los efectos del sueño, la edad y la sedación, y su uso clínico."
+    }
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué son los PEALM?",
+   "baslik": "Una *línea de tiempo* de respuestas",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1,
+     "max": 500,
+     "log": true,
+     "ad": "Tiempo tras el estímulo (ms, logarítmico)",
+     "isaretler": [
+      1,
+      10,
+      50,
+      100,
+      500
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "adim": 1,
+     "ad": ""
+    },
+    "bolgeler": [
+     {
+      "ad": "ecochg",
+      "x": [
+       1,
+       3
+      ],
+      "renk": "gri",
+      "etiket": "ECochG",
+      "cumle": 1
+     },
+     {
+      "ad": "abr",
+      "x": [
+       1.5,
+       10
+      ],
+      "renk": "lacivert",
+      "etiket": "PEATC",
+      "cumle": 1
+     },
+     {
+      "ad": "mlr",
+      "x": [
+       10,
+       60
+      ],
+      "renk": "mavi",
+      "etiket": "PEALM",
+      "cumle": 2
+     },
+     {
+      "ad": "gec",
+      "x": [
+       60,
+       500
+      ],
+      "renk": "sari",
+      "etiket": "Respuestas corticales",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "PEATC: hasta unos 10 ms",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "PEALM: unos 10 a 50 ms",
+     "cumle": 2,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Hemos ordenado los potenciales evocados auditivos según el momento en que aparecen tras el estímulo.",
+    "Primero aparece la electrococleografía y luego los potenciales evocados auditivos de tronco cerebral (PEATC), hasta unos diez milisegundos.",
+    {
+     "yazi": "Los potenciales evocados auditivos de latencia media (PEALM) se observan entre unos diez y cincuenta milisegundos."
+    },
+    "De ahí su nombre: ocupan una ventana de tiempo intermedia, entre la respuesta del tronco cerebral y las respuestas corticales.",
+    "Después, entre cincuenta y trescientos milisegundos, vienen las respuestas corticales que clasificamos en la lección introductoria.",
+    {
+     "yazi": "Cuanto más tardía es la respuesta, más alto está su generador en la vía auditiva; así, los PEALM son un puente entre el tronco y la corteza."
+    }
+   ]
+  },
+  {
+   "id": "dalgalar",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué son los PEALM?",
+   "baslik": "Na, Pa y *Pb*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 80,
+     "ad": "Tiempo (ms)",
+     "isaretler": [
+      0,
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80
+     ]
+    },
+    "y": {
+     "min": -1.2,
+     "max": 1.2,
+     "adim": 0.5,
+     "ad": "Amplitud (µV)",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "mlr",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        3,
+        0.1
+       ],
+       [
+        6,
+        0.25
+       ],
+       [
+        8,
+        0.1
+       ],
+       [
+        12,
+        -0.2
+       ],
+       [
+        18,
+        -0.6
+       ],
+       [
+        23,
+        -0.1
+       ],
+       [
+        30,
+        0.75
+       ],
+       [
+        36,
+        0.2
+       ],
+       [
+        42,
+        -0.45
+       ],
+       [
+        47,
+        0.0
+       ],
+       [
+        52,
+        0.5
+       ],
+       [
+        60,
+        0.1
+       ],
+       [
+        70,
+        0
+       ],
+       [
+        80,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "abr_v",
+      "x": 6,
+      "y": 0.25,
+      "etiket": "PEATC V",
+      "cumle": 1
+     },
+     {
+      "ad": "na",
+      "x": 18,
+      "y": -0.6,
+      "etiket": "Na",
+      "cumle": 2
+     },
+     {
+      "ad": "pa",
+      "x": 30,
+      "y": 0.75,
+      "etiket": "Pa",
+      "cumle": 3
+     },
+     {
+      "ad": "nb",
+      "x": 42,
+      "y": -0.45,
+      "etiket": "Nb",
+      "cumle": 4
+     },
+     {
+      "ad": "pb",
+      "x": 52,
+      "y": 0.5,
+      "etiket": "Pb",
+      "cumle": 4
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "na_pa",
+      "y": [
+       -0.6,
+       0.75
+      ],
+      "xk": 33,
+      "etiket": "amplitud Na-Pa",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Na: unos 18 ms",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Pa: unos 30 ms",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Amplitud: alrededor de 1 µV",
+     "cumle": 6,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "La curva esquemática en pantalla muestra unos potenciales de latencia media registrados en un adulto con un estímulo de clic.",
+    "Al comienzo aparece la onda V de los PEATC como un pequeño pico.",
+    {
+     "yazi": "Luego, a unos dieciocho milisegundos, viene un valle negativo; se llama onda Na.",
+     "ses": "Luego, a unos dieciocho milisegundos, viene un valle negativo; se llama onda ene a."
+    },
+    {
+     "yazi": "El componente más destacado es la onda positiva Pa, a unos treinta milisegundos.",
+     "ses": "El componente más destacado es la onda positiva pe a, a unos treinta milisegundos."
+    },
+    {
+     "yazi": "Más tarde pueden verse Nb a unos cuarenta milisegundos y Pb a unos cincuenta; en la mayoría de las fuentes, Pb equivale a la P1 cortical.",
+     "ses": "Más tarde pueden verse ene be a unos cuarenta milisegundos y pe be a unos cincuenta; en la mayoría de las fuentes, pe be equivale a la P1 cortical."
+    },
+    {
+     "yazi": "En la clínica se usan sobre todo la presencia y la latencia de la onda Pa y la amplitud de Na a Pa.",
+     "ses": "En la clínica se usan sobre todo la presencia y la latencia de la onda pe a y la amplitud de ene a a pe a."
+    },
+    "La amplitud es de alrededor de un microvoltio: mayor que la de los PEATC, pero menor que la de las respuestas corticales."
+   ]
+  },
+  {
+   "id": "kaynak",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Generadores",
+   "baslik": "Generadores *talamocorticales*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "colículo inferior",
+     "cumle": 1
+    },
+    {
+     "parca": "mgb",
+     "metin": "cuerpo geniculado medial",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "corteza auditiva",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 1
+    },
+    {
+     "parca": "mgb",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Los generadores de los PEALM se ubican a lo largo de la vía que va desde la parte alta del tronco cerebral hasta la corteza auditiva."
+    },
+    {
+     "yazi": "Se cree que contribuyen a la onda Na estructuras de la parte alta del tronco, sobre todo el colículo inferior, y el tálamo.",
+     "ses": "Se cree que contribuyen a la onda ene a estructuras de la parte alta del tronco, sobre todo el colículo inferior, y el tálamo."
+    },
+    "La estación auditiva del tálamo es el cuerpo geniculado medial; las fibras que salen de él llegan a la corteza auditiva.",
+    {
+     "yazi": "El generador principal de la onda Pa es la corteza auditiva primaria del lóbulo temporal, es decir, el giro de Heschl y su entorno.",
+     "ses": "El generador principal de la onda pe a es la corteza auditiva primaria del lóbulo temporal, es decir, el giro de Heschl y su entorno."
+    },
+    "Estas conexiones entre el tálamo y la corteza se denominan vía talamocortical.",
+    {
+     "yazi": "También se cree que redes profundas del cerebro que regulan la vigilia contribuyen a Pa; esto explica el efecto del sueño.",
+     "ses": "También se cree que redes profundas del cerebro que regulan la vigilia contribuyen a la onda pe a; esto explica el efecto del sueño."
+    }
+   ]
+  },
+  {
+   "id": "korteks",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Generadores",
+   "baslik": "*Giro de Heschl*",
+   "cizim": "beyin_yan",
+   "ayar": {
+    "loblar": true,
+    "yarik_acik": true,
+    "acilma_cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "temporal_lob",
+     "metin": "lóbulo temporal",
+     "cumle": 0
+    },
+    {
+     "parca": "heschl_girusu",
+     "metin": "giro de Heschl",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "temporal_lob",
+     "cumle": 0
+    },
+    {
+     "parca": "heschl_girusu",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "La corteza auditiva primaria se encuentra en la cara superior del lóbulo temporal, en la profundidad de la cisura lateral.",
+    "Esta zona es el giro de Heschl, que puede verse cuando se abre la cisura lateral.",
+    {
+     "yazi": "Contribuye la corteza auditiva de ambos hemisferios, por eso los PEALM pueden registrarse en ambos lados aunque se estimule un solo oído."
+    },
+    "Si hay una lesión en el lóbulo temporal de un hemisferio, la respuesta puede ser menor en el electrodo colocado sobre ese lado.",
+    "Esta es la base de los usos clínicos que veremos en breve."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Registro",
+   "baslik": "¿*Cómo* se registran?",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Despierto, relajado",
+     "metin": "Ojos cerrados",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Electrodos",
+     "metin": "Cz, C3, C4",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Estímulo",
+     "metin": "Clic o tone burst",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ventana y filtro",
+     "metin": "Unos 100 ms",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Promediación",
+     "metin": "Cientos de barridos",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Durante el registro de los PEALM la persona está despierta, relajada y tranquila, con los ojos cerrados y el cuello y la mandíbula sueltos."
+    },
+    {
+     "yazi": "El electrodo activo se coloca en la parte superior de la cabeza, en el punto Cz; el de referencia, en el lóbulo de la oreja o la mastoides."
+    },
+    {
+     "yazi": "Para comparar los hemisferios, también pueden colocarse electrodos en C3 y C4, a cada lado; ya vimos el sistema de electrodos."
+    },
+    "Como estímulo se usa un clic o tone burst breves que estimulan frecuencias más graves.",
+    "La ventana de análisis es más larga que en los PEATC, de unos cien milisegundos, y el filtro se ajusta para dejar pasar ondas más lentas.",
+    "Un ajuste habitual es de unos diez a doscientos hertz; un filtro demasiado estrecho puede deformar las ondas y crear picos falsos.",
+    "La respuesta se obtiene promediando de unos cientos a mil barridos, y el registro siempre se repite."
+   ]
+  },
+  {
+   "id": "pam",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Registro",
+   "baslik": "Artefacto *muscular*",
+   "maddeler": [
+    {
+     "metin": "Músculo auricular posterior: unos 13 ms",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Puede confundirse con Pa",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Cabeza apoyada, cuello relajado",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "La referencia en el lóbulo ayuda",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "uyari",
+      "baslik": "Respuesta muscular",
+      "metin": "Grande, aguda, temprana",
+      "cumle": 1
+     },
+     {
+      "ikon": "noron",
+      "baslik": "Respuesta cerebral",
+      "metin": "Menor, redondeada",
+      "cumle": 1
+     }
+    ],
+    "ust": "DIFERENCIAR"
+   },
+   "cumleler": [
+    {
+     "yazi": "La trampa más conocida de los PEALM es la contracción refleja del músculo auricular posterior ante el sonido."
+    },
+    {
+     "yazi": "Esta respuesta muscular aparece a unos trece milisegundos, es grande y puede mezclarse con la región Na-Pa como una onda engañosa.",
+     "ses": "Esta respuesta muscular aparece a unos trece milisegundos, es grande y puede mezclarse con la región de ene a y pe a como una onda engañosa."
+    },
+    "La respuesta muscular aumenta sobre todo con estímulos de nivel alto y en personas tensas o que sostienen la cabeza.",
+    "Se apoya la cabeza de la persona y se le pide que relaje el cuello; durante el registro se observa la señal bruta en pantalla.",
+    "Colocar la referencia en el lóbulo de la oreja en lugar de la mastoides y evitar niveles muy altos también reduce el artefacto.",
+    {
+     "yazi": "Si la respuesta muscular se toma por una verdadera Pa, puede pasarse por alto un problema central, así que hay que diferenciarla con cuidado.",
+     "ses": "Si la respuesta muscular se toma por una verdadera onda pe a, puede pasarse por alto un problema central, así que hay que diferenciarla con cuidado."
+    }
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Registro",
+   "baslik": "¿Qué los *afecta*?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Edad",
+     "metin": "Variables en niños",
+     "cumle": 0
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Sueño",
+     "metin": "Cambian según la fase",
+     "cumle": 3
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Sedación",
+     "metin": "Suprime la respuesta",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "A diferencia de los PEATC, los PEALM se ven claramente afectados por la edad y el estado de la persona."
+    },
+    {
+     "yazi": "Las vías talamocorticales siguen madurando durante la infancia; en niños pequeños la onda Pa no siempre puede registrarse.",
+     "ses": "Las vías talamocorticales siguen madurando durante la infancia; en niños pequeños la onda pe a no siempre puede registrarse."
+    },
+    {
+     "yazi": "La tasa de detección de Pa aumenta con la edad, y una fiabilidad similar a la del adulto solo se alcanza hacia la adolescencia.",
+     "ses": "La tasa de detección de la onda pe a aumenta con la edad, y una fiabilidad similar a la del adulto solo se alcanza hacia la adolescencia."
+    },
+    "El sueño también importa: los estudios de Kraus y colaboradores mostraron que en niños la respuesta cambia según la fase del sueño.",
+    {
+     "yazi": "En el sueño profundo de ondas lentas, Pa puede reducirse o desaparecer; se registra mejor en vigilia y en el sueño REM.",
+     "ses": "En el sueño profundo de ondas lentas, la onda pe a puede reducirse o desaparecer; se registra mejor en vigilia y en el sueño rem."
+    },
+    {
+     "yazi": "Los fármacos sedantes y la anestesia general también suprimen los PEALM, y este efecto aumenta con la dosis."
+    },
+    {
+     "yazi": "Por eso, la ausencia de PEALM, sobre todo en un niño pequeño o bajo sedación, no indica por sí sola un problema."
+    }
+   ]
+  },
+  {
+   "id": "hiz",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Registro",
+   "baslik": "*Tasa* de estímulo y cuarenta hertz",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "ad": "Tiempo (ms)",
+     "isaretler": [
+      0,
+      25,
+      50,
+      75,
+      100
+     ]
+    },
+    "y": {
+     "min": -1.2,
+     "max": 1.2,
+     "adim": 0.5,
+     "ad": "Amplitud (µV)",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "kirk_hz",
+      "noktalar": [
+       [
+        0,
+        0.0
+       ],
+       [
+        2,
+        0.39
+       ],
+       [
+        4,
+        0.68
+       ],
+       [
+        6,
+        0.8
+       ],
+       [
+        8,
+        0.72
+       ],
+       [
+        10,
+        0.47
+       ],
+       [
+        12,
+        0.1
+       ],
+       [
+        14,
+        -0.29
+       ],
+       [
+        16,
+        -0.62
+       ],
+       [
+        18,
+        -0.79
+       ],
+       [
+        20,
+        -0.76
+       ],
+       [
+        22,
+        -0.55
+       ],
+       [
+        24,
+        -0.2
+       ],
+       [
+        26,
+        0.2
+       ],
+       [
+        28,
+        0.55
+       ],
+       [
+        30,
+        0.76
+       ],
+       [
+        32,
+        0.79
+       ],
+       [
+        34,
+        0.62
+       ],
+       [
+        36,
+        0.29
+       ],
+       [
+        38,
+        -0.1
+       ],
+       [
+        40,
+        -0.47
+       ],
+       [
+        42,
+        -0.72
+       ],
+       [
+        44,
+        -0.8
+       ],
+       [
+        46,
+        -0.68
+       ],
+       [
+        48,
+        -0.39
+       ],
+       [
+        50,
+        -0.0
+       ],
+       [
+        52,
+        0.39
+       ],
+       [
+        54,
+        0.68
+       ],
+       [
+        56,
+        0.8
+       ],
+       [
+        58,
+        0.72
+       ],
+       [
+        60,
+        0.47
+       ],
+       [
+        62,
+        0.1
+       ],
+       [
+        64,
+        -0.29
+       ],
+       [
+        66,
+        -0.62
+       ],
+       [
+        68,
+        -0.79
+       ],
+       [
+        70,
+        -0.76
+       ],
+       [
+        72,
+        -0.55
+       ],
+       [
+        74,
+        -0.2
+       ],
+       [
+        76,
+        0.2
+       ],
+       [
+        78,
+        0.55
+       ],
+       [
+        80,
+        0.76
+       ],
+       [
+        82,
+        0.79
+       ],
+       [
+        84,
+        0.62
+       ],
+       [
+        86,
+        0.29
+       ],
+       [
+        88,
+        -0.1
+       ],
+       [
+        90,
+        -0.47
+       ],
+       [
+        92,
+        -0.72
+       ],
+       [
+        94,
+        -0.8
+       ],
+       [
+        96,
+        -0.68
+       ],
+       [
+        98,
+        -0.39
+       ],
+       [
+        100,
+        -0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "periyot",
+      "x": [
+       6.25,
+       31.25
+      ],
+      "y": 1.0,
+      "etiket": "25 ms",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "40/s: las respuestas se superponen",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Menor durante el sueño",
+     "cumle": 5,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "En adultos, los estímulos pueden presentarse unas diez veces por segundo; en niños pequeños se recomiendan tasas más lentas.",
+    "Cuando los estímulos se presentan unas cuarenta veces por segundo, ocurre algo interesante.",
+    "Las respuestas sucesivas se superponen con unos veinticinco milisegundos de separación y forman una onda rítmica de cuarenta hertz.",
+    {
+     "yazi": "Esta respuesta, descrita por Galambos y colaboradores en 1981, se llama respuesta de cuarenta hertz."
+    },
+    "La respuesta modulada de cuarenta hertz que vimos en la lección de estado estable también se vincula con estos generadores talamocorticales.",
+    {
+     "yazi": "Como los PEALM, esta respuesta disminuye durante el sueño y la sedación, por eso en bebés se prefieren ochenta hertz o más."
+    }
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso clínico",
+   "baslik": "¿Para qué *se usan?*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Estimación del umbral",
+     "metin": "Adultos despiertos, frecuencias graves",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Evaluación central",
+     "metin": "Tálamo y corteza",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Profundidad anestésica",
+     "metin": "Monitorización en el quirófano",
+     "cumle": 4
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "PEALM eléctricos",
+     "metin": "Investigación en implantes",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En adultos despiertos, los PEALM pueden usarse para estimar el umbral, sobre todo en frecuencias graves como quinientos hertz."
+    },
+    {
+     "yazi": "El umbral de PEALM con tone burst suele ser cercano al umbral conductual, lo que ayuda cuando se sospecha una pérdida funcional."
+    },
+    "La segunda área de uso es la evaluación de la vía auditiva central.",
+    {
+     "yazi": "Unos PEALM anormales con PEATC normales sugieren que el problema puede estar por encima del tronco cerebral, en el tálamo o la corteza."
+    },
+    {
+     "yazi": "También hay índices basados en los PEALM para monitorizar la profundidad anestésica, porque la respuesta disminuye al profundizarse la anestesia."
+    },
+    {
+     "yazi": "Los PEALM registrados con estimulación eléctrica desde un implante coclear se usan sobre todo en investigación."
+    }
+   ]
+  },
+  {
+   "id": "elektrot_etkisi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso clínico",
+   "baslik": "Efecto de electrodo y de *oído*",
+   "cizim": "beyin_ustten",
+   "etiketler": [
+    {
+     "parca": "sag_isitme_korteksi",
+     "metin": "electrodo derecho",
+     "cumle": 1
+    },
+    {
+     "parca": "sol_isitme_korteksi",
+     "metin": "electrodo izquierdo",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "sag_isitme_korteksi",
+     "cumle": 1
+    },
+    {
+     "parca": "sol_isitme_korteksi",
+     "cumle": 2
+    },
+    {
+     "parca": "sag_kulak",
+     "cumle": 3
+    },
+    {
+     "parca": "sol_kulak",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En la evaluación central se hacen dos comparaciones.",
+    {
+     "yazi": "Para el efecto de electrodo, se comparan las amplitudes de Pa registradas en los electrodos sobre los hemisferios derecho e izquierdo.",
+     "ses": "Para el efecto de electrodo, se comparan las amplitudes de la onda pe a registradas en los electrodos sobre los hemisferios derecho e izquierdo."
+    },
+    {
+     "yazi": "Si Pa es siempre menor en el electrodo de un lado, sea cual sea el oído estimulado, la vía talamocortical de ese lado puede estar afectada.",
+     "ses": "Si la onda pe a es siempre menor en el electrodo de un lado, sea cual sea el oído estimulado, la vía talamocortical de ese lado puede estar afectada."
+    },
+    "Para el efecto de oído, se comparan las respuestas obtenidas al estimular el oído derecho y el izquierdo.",
+    "Estas comparaciones son información de apoyo; el diagnóstico surge de la evaluación médica y las imágenes.",
+    "Como las diferencias naturales entre personas son grandes, no se saca una conclusión firme de un solo registro."
+   ],
+   "ayar": {
+    "mod": "dikotik",
+    "sozcukler": [
+     "clic",
+     "clic"
+    ],
+    "yol_cumleleri": {
+     "ayni_taraf_yol": 3,
+     "capraz_yol_sag": 3,
+     "capraz_yol_sol": 3,
+     "kallozal_yol": 5
+    },
+    "yollar": [
+     "ayni_taraf_yol",
+     "capraz_yol_sag",
+     "capraz_yol_sol"
+    ]
+   }
+  },
+  {
+   "id": "ornek",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso clínico",
+   "baslik": "Ejemplo: *PEATC normales, PEALM anormales*",
+   "maddeler": [
+    {
+     "metin": "PEATC: latencias normales",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "PEALM: Pa pequeña a la izquierda",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Despierto, sin artefacto",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Hallazgo compartido con el equipo",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_yan",
+    "cumle": 1,
+    "ayar": {
+     "loblar": true
+    },
+    "vurgula": [
+     {
+      "parca": "temporal_lob",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Un caso puramente ilustrativo: en un adulto con quejas auditivas, el audiograma y los PEATC son normales.",
+    {
+     "yazi": "En los PEALM, Pa es claramente pequeña en el electrodo C3, sobre el hemisferio izquierdo, sea cual sea el oído estimulado.",
+     "ses": "En los PEALM, la onda pe a es claramente pequeña en el electrodo C3, sobre el hemisferio izquierdo, sea cual sea el oído estimulado."
+    },
+    "La persona estuvo despierta durante el registro, no hubo artefacto muscular y una repetición dio el mismo resultado.",
+    "Este hallazgo puede ser compatible con un compromiso de las vías auditivas por encima del tronco cerebral.",
+    "El resultado se comparte con el equipo para interpretarlo junto con las pruebas de procesamiento auditivo central y la evaluación médica."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si falta Pa, revisa primero las condiciones: ¿la persona duerme, está sedada o interfiere un artefacto muscular? Corrige las condiciones y repite.",
+   "cumle": 0,
+   "cumleler": [
+    {
+     "yazi": "Un consejo de la clínica: cuando no se obtiene la onda Pa en los PEALM, no saltes a la conclusión de un trastorno.",
+     "ses": "Un consejo de la clínica: cuando no se obtiene la onda pe a en los PEALM, no saltes a la conclusión de un trastorno."
+    },
+    "Primero verifica si la persona está dormida, si tomó un sedante o si hay artefacto muscular.",
+    "Mantén a la persona despierta, apoya su cabeza y repite el registro; en niños, anota en especial la fase del sueño.",
+    "Solo cuando la respuesta falta en buenas condiciones, el hallazgo adquiere significado clínico."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "PEALM: unos 10 a 50 ms",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Generador: tálamo y corteza auditiva",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Influyen el sueño, la sedación y la edad",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Estimación del umbral y evaluación central",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Los potenciales de latencia media aparecen entre unos diez y cincuenta milisegundos; su onda más destacada es Pa, a unos treinta milisegundos.",
+     "ses": "Los potenciales de latencia media aparecen entre unos diez y cincuenta milisegundos; su onda más destacada es pe a, a unos treinta milisegundos."
+    },
+    "Sus generadores son las vías talamocorticales, que incluyen el tálamo y la corteza auditiva.",
+    {
+     "yazi": "El sueño, la sedación y la edad afectan claramente los PEALM; en niños pequeños la respuesta no siempre puede registrarse."
+    },
+    "En adultos despiertos se usan para estimar el umbral y para evaluar las vías auditivas centrales."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Dónde se origina Pa, la onda más destacada de los PEALM?",
+   "secenekler": [
+    "Cóclea",
+    "Nervio auditivo",
+    "Corteza auditiva",
+    "Respuesta muscular"
+   ],
+   "dogru": 2,
+   "aciklama": "El generador principal de la onda Pa es la corteza auditiva primaria del lóbulo temporal, es decir, el giro de Heschl y su entorno.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál es el generador principal de la onda Pa de los potenciales de latencia media?",
+     "sonra_bekle": 5,
+     "ses": "Pon a prueba lo aprendido: ¿cuál es el generador principal de la onda pe a de los potenciales de latencia media?"
+    },
+    "La respuesta correcta es la C: la corteza auditiva.",
+    {
+     "yazi": "El generador principal de Pa es el giro de Heschl y su entorno; también contribuyen el tálamo y las redes profundas de la vigilia.",
+     "ses": "El generador principal de la onda pe a es el giro de Heschl y su entorno; también contribuyen el tálamo y las redes profundas de la vigilia."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Potenciales evocados auditivos corticales: *P1-N1-P2*",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "En la próxima lección veremos los potenciales evocados auditivos corticales: las ondas P1, N1 y P2."
+    },
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

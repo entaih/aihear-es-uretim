@@ -1,0 +1,1821 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D288_Case_Auditory_Neuropathy_ES",
+ "kapak": {
+  "ust": "LECCIÓN 288",
+  "baslik": "OEA presentes,<br>*PEATC ausentes*",
+  "alt": "Caso: neuropatía auditiva",
+  "cizim": "oae"
+ },
+ "youtube": {
+  "baslik": "Caso: OEA presentes y PEATC ausentes | Lección 288 | AIHEAR Academia de Audiología",
+  "aciklama": "Interpretamos los hallazgos del trastorno del espectro de la neuropatía auditiva en el caso ficticio de un lactante prematuro: el conflicto entre los resultados de PEATC automatizados y de otoemisiones acústicas, los antecedentes de riesgo, la timpanometría con 1000 Hz y el reflejo acústico, los PEATC con clic en dos polaridades con el microfónico coclear, el control con el tubo pinzado y el seguimiento con VRA y potenciales corticales con audífono.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Joint Committee on Infant Hearing, Year 2019 Position Statement; Guidelines for Identification and Management of Infants and Young Children with Auditory Neuropathy Spectrum Disorder (Como, 2008); Hall, eHandbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "neuropatiaauditiva",
+   "casoclinico"
+  ],
+  "etiketler": [
+   "neuropatía auditiva",
+   "TENA",
+   "trastorno del espectro de la neuropatía auditiva",
+   "microfónico coclear",
+   "polaridad del estímulo",
+   "potenciales evocados auditivos corticales",
+   "PEAC",
+   "recién nacido prematuro",
+   "caso clínico de audiología",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 288",
+   "baslik": "Caso: OEA presentes, *PEATC ausentes*",
+   "alt": "Microfónico coclear, antecedentes de riesgo y seguimiento cortical",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección interpretamos paso a paso a un lactante con otoemisiones acústicas pero sin potenciales evocados auditivos de tronco cerebral (PEATC).",
+    "Juntos aplicaremos el microfónico coclear y la inversión de polaridad, los antecedentes de riesgo y el seguimiento con potenciales corticales."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis y tamizaje",
+   "baslik": "Caso de ejemplo: *anamnesis*",
+   "maddeler": [
+    {
+     "metin": "Lactante de ejemplo nacido a las 30 semanas",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Siete semanas en la _UCIN_",
+     "cumle": 1,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Ictericia grave: _exanguinotransfusión_",
+     "cumle": 2,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "PEATC-A en UCIN: no pasa en ambos oídos",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Familia: pasó OEA en otro centro",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Nacimiento",
+      "metin": "30 semanas",
+      "cumle": 0
+     },
+     {
+      "ikon": "hastane",
+      "baslik": "UCIN",
+      "metin": "Siete semanas",
+      "cumle": 1
+     },
+     {
+      "ikon": "tarama",
+      "baslik": "Tamizaje",
+      "metin": "PEATC-A: no pasa",
+      "cumle": 3
+     }
+    ],
+    "ust": "ANAMNESIS"
+   },
+   "cumleler": [
+    "Nuestro caso es totalmente ficticio: un lactante de bajo peso al nacer, nacido a las treinta semanas de gestación.",
+    "El lactante pasó siete semanas en la unidad de cuidados intensivos neonatales y en los primeros días necesitó brevemente asistencia respiratoria.",
+    "En la unidad de cuidados intensivos desarrolló una ictericia grave y necesitó una exanguinotransfusión.",
+    {
+     "yazi": "Antes del alta se le hizo un tamizaje con potenciales evocados auditivos de tronco cerebral automatizados, o PEATC-A, y no pasó en ningún oído."
+    },
+    "La familia cuenta que después el bebé fue evaluado en otro centro con otoemisiones acústicas, u OEA, y pasó.",
+    "Ahora el lactante tiene un mes de edad corregida y lo traen para una evaluación diagnóstica."
+   ]
+  },
+  {
+   "id": "risk",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis y tamizaje",
+   "baslik": "Preguntar por los *antecedentes de riesgo*",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "UCIN",
+     "metin": "Más de cinco días",
+     "cumle": 0
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Prematuridad",
+     "metin": "Bajo peso al nacer",
+     "cumle": 1
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Hiperbilirrubinemia",
+     "metin": "Requirió exanguinotransfusión",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Hipoxia",
+     "metin": "Asistencia respiratoria",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Antecedentes familiares",
+     "metin": "Genes como OTOF",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Preguntar sistemáticamente por los antecedentes de riesgo es el primer paso de la interpretación; más de cinco días en UCIN es un indicador clave."
+    },
+    "La prematuridad y el bajo peso al nacer están entre los factores de riesgo conocidos de la neuropatía auditiva.",
+    "La hiperbilirrubinemia, o ictericia grave, que requiere exanguinotransfusión puede dañar sobre todo las partes neurales de la vía auditiva.",
+    "También se pregunta por la falta de oxígeno durante o después del parto, es decir, la hipoxia.",
+    {
+     "yazi": "También se preguntan los antecedentes familiares; genes como OTOF pueden causar este cuadro incluso en lactantes sin factores de riesgo."
+    }
+   ]
+  },
+  {
+   "id": "tarama",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis y tamizaje",
+   "baslik": "¿Por qué *pasó* las OEA?",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "OEA: hasta la cóclea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "PEATC-A: hasta el tronco cerebral",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 2
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "OEA: _células ciliadas externas_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "PEATC-A: _nervio y tronco cerebral_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Conflicto: ¿un problema _neural_?",
+     "cumle": 3,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "Primero, expliquemos el conflicto entre los resultados del tamizaje.",
+    "Las OEA reflejan la función del conducto auditivo, del oído medio y de las células ciliadas externas de la cóclea.",
+    {
+     "yazi": "Los PEATC-A abarcan además la célula ciliada interna, el nervio auditivo y la vía del tronco cerebral."
+    },
+    {
+     "yazi": "Si el problema está más allá de las células ciliadas externas, en la sinapsis o en el nervio, el bebé pasa las OEA, pero no los PEATC-A."
+    },
+    {
+     "yazi": "Por eso a los lactantes con más de cinco días en UCIN se les tamiza con PEATC-A; no se recomienda reemplazar un no pasa en PEATC-A por un pasa con OEA."
+    }
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos diagnósticos",
+   "baslik": "Oído medio y *reflejo*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Presión (daPa)"
+    },
+    "y": {
+     "min": 0.4,
+     "max": 1.6,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Admitancia (mmho)"
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "noktalar": [
+       [
+        -400,
+        0.7
+       ],
+       [
+        -300,
+        0.75
+       ],
+       [
+        -200,
+        0.82
+       ],
+       [
+        -150,
+        0.9
+       ],
+       [
+        -100,
+        1.05
+       ],
+       [
+        -60,
+        1.25
+       ],
+       [
+        -30,
+        1.38
+       ],
+       [
+        0,
+        1.4
+       ],
+       [
+        30,
+        1.32
+       ],
+       [
+        60,
+        1.15
+       ],
+       [
+        100,
+        1.0
+       ],
+       [
+        150,
+        0.95
+       ],
+       [
+        200,
+        0.93
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "derecho",
+      "etiket_konum": [
+       40,
+       1.45
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        -400,
+        0.68
+       ],
+       [
+        -300,
+        0.73
+       ],
+       [
+        -200,
+        0.8
+       ],
+       [
+        -150,
+        0.88
+       ],
+       [
+        -100,
+        1.02
+       ],
+       [
+        -60,
+        1.21
+       ],
+       [
+        -30,
+        1.33
+       ],
+       [
+        0,
+        1.35
+       ],
+       [
+        30,
+        1.27
+       ],
+       [
+        60,
+        1.11
+       ],
+       [
+        100,
+        0.97
+       ],
+       [
+        150,
+        0.92
+       ],
+       [
+        200,
+        0.9
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "izquierdo",
+      "etiket_konum": [
+       -330,
+       1.1
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "taban",
+      "noktalar": [
+       [
+        -400,
+        0.7
+       ],
+       [
+        200,
+        0.93
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "línea de base",
+      "etiket_konum": [
+       -330,
+       0.6
+      ],
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "1000 Hz: _pico positivo_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Reflejo acústico: _ausente_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "En la evaluación diagnóstica, el oído medio se mide con un tono de sonda de mil hertz.",
+    "Ambos oídos muestran un pico positivo claro que se eleva sobre la línea de base; la función del oído medio parece normal.",
+    "El reflejo acústico se evalúa con el mismo tono de sonda, pero no se obtiene en ningún oído, ni siquiera al nivel más alto.",
+    "Un reflejo ausente a pesar de un timpanograma normal obliga a pensar en una pérdida auditiva o en un problema de la vía neural.",
+    "Un oído medio normal nos permite interpretar con confianza el resultado de las OEA en la siguiente prueba."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos diagnósticos",
+   "baslik": "OEA: *presentes* en ambos oídos",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "Emisión: presente",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Piso de ruido",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Células ciliadas externas: _funcionan_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Vía neural: _desconocida_",
+     "cumle": 2,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "Las OEA de productos de distorsión, u OEAPD, superan claramente el piso de ruido en la mayoría de las frecuencias evaluadas, en ambos oídos.",
+    "Este hallazgo muestra que las células ciliadas externas de la cóclea muy probablemente funcionan.",
+    "Pero las OEA no evalúan el nervio auditivo ni nos dicen cuánto oye el lactante.",
+    "La familia recibió antes este resultado como una buena noticia, así que ahora hay que explicar la importancia de la siguiente prueba.",
+    "La reducción de la emisión con ruido en el oído opuesto, llamada supresión contralateral, suele estar ausente en la neuropatía auditiva."
+   ]
+  },
+  {
+   "id": "klik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos diagnósticos",
+   "baslik": "Dos polaridades: una respuesta que *se invierte*",
+   "cizim": "abr",
+   "ayar": {
+    "polarite": true,
+    "sikisma_cumle": 1,
+    "seyrelme_cumle": 2,
+    "cm_cumle": 3,
+    "v_cumle": 4
+   },
+   "notlar": [
+    {
+     "metin": "Clic: _85 dB nHL_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Se invierte: _MC_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Onda V: _ausente_",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Durante el sueño natural se registran los PEATC con clic a ochenta y cinco decibeles nHL, con auriculares de inserción."
+    },
+    "La línea azul marino muestra el registro con polaridad de condensación: hay oscilaciones regulares en los primeros milisegundos.",
+    "La línea roja es la polaridad de rarefacción: las mismas oscilaciones, esta vez exactamente en la dirección opuesta.",
+    {
+     "yazi": "Una respuesta que sigue la forma de onda del estímulo y se invierte con la polaridad es el rasgo distintivo del microfónico coclear, o MC."
+    },
+    "Cuando las oscilaciones se apagan, no hay ninguna onda repetible en la región donde se espera la onda V.",
+    "Las ondas neurales no se invierten con la polaridad; aquí no queda ninguna onda que no se invierta.",
+    {
+     "yazi": "El cuadro es igual en ambos oídos: un MC grande que dura unos pocos milisegundos y ninguna onda neural de los PEATC."
+    }
+   ]
+  },
+  {
+   "id": "artefakt",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos diagnósticos",
+   "baslik": "¿MC o *artefacto*?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Tiempo (ms)",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ]
+    },
+    "y": {
+     "min": -2,
+     "max": 1,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Amplitud (µV)"
+    },
+    "seriler": [
+     {
+      "ad": "sikisma",
+      "noktalar": [
+       [
+        0,
+        0.0
+       ],
+       [
+        0.9,
+        0.0
+       ],
+       [
+        1.0,
+        0.65
+       ],
+       [
+        1.25,
+        0.0
+       ],
+       [
+        1.5,
+        -0.476
+       ],
+       [
+        1.75,
+        -0.0
+       ],
+       [
+        2.0,
+        0.348
+       ],
+       [
+        2.25,
+        0.0
+       ],
+       [
+        2.5,
+        -0.255
+       ],
+       [
+        2.75,
+        -0.0
+       ],
+       [
+        3.0,
+        0.186
+       ],
+       [
+        3.25,
+        0.0
+       ],
+       [
+        3.5,
+        -0.136
+       ],
+       [
+        3.75,
+        -0.0
+       ],
+       [
+        4.0,
+        0.1
+       ],
+       [
+        4.25,
+        -0.0
+       ],
+       [
+        4.5,
+        -0.073
+       ],
+       [
+        4.75,
+        -0.0
+       ],
+       [
+        5.5,
+        0.02
+       ],
+       [
+        6.5,
+        -0.03
+       ],
+       [
+        7.5,
+        0.02
+       ],
+       [
+        8.5,
+        -0.02
+       ],
+       [
+        10,
+        0.01
+       ],
+       [
+        12,
+        0.0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "condensación",
+      "etiket_konum": [
+       8.5,
+       0.35
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "seyrelme",
+      "noktalar": [
+       [
+        0,
+        0.0
+       ],
+       [
+        0.9,
+        0.0
+       ],
+       [
+        1.0,
+        -0.65
+       ],
+       [
+        1.25,
+        -0.0
+       ],
+       [
+        1.5,
+        0.476
+       ],
+       [
+        1.75,
+        0.0
+       ],
+       [
+        2.0,
+        -0.348
+       ],
+       [
+        2.25,
+        -0.0
+       ],
+       [
+        2.5,
+        0.255
+       ],
+       [
+        2.75,
+        0.0
+       ],
+       [
+        3.0,
+        -0.186
+       ],
+       [
+        3.25,
+        -0.0
+       ],
+       [
+        3.5,
+        0.136
+       ],
+       [
+        3.75,
+        0.0
+       ],
+       [
+        4.0,
+        -0.1
+       ],
+       [
+        4.25,
+        0.0
+       ],
+       [
+        4.5,
+        0.073
+       ],
+       [
+        4.75,
+        0.0
+       ],
+       [
+        5.5,
+        0.02
+       ],
+       [
+        6.5,
+        -0.03
+       ],
+       [
+        7.5,
+        0.02
+       ],
+       [
+        8.5,
+        -0.02
+       ],
+       [
+        10,
+        0.01
+       ],
+       [
+        12,
+        0.0
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "rarefacción",
+      "etiket_konum": [
+       8.5,
+       -0.35
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "kontrol",
+      "noktalar": [
+       [
+        0,
+        -1.4
+       ],
+       [
+        0.9,
+        -1.4
+       ],
+       [
+        1.0,
+        -1.4
+       ],
+       [
+        1.25,
+        -1.4
+       ],
+       [
+        1.5,
+        -1.4
+       ],
+       [
+        1.75,
+        -1.4
+       ],
+       [
+        2.0,
+        -1.4
+       ],
+       [
+        2.25,
+        -1.4
+       ],
+       [
+        2.5,
+        -1.4
+       ],
+       [
+        2.75,
+        -1.4
+       ],
+       [
+        3.0,
+        -1.4
+       ],
+       [
+        3.25,
+        -1.4
+       ],
+       [
+        3.5,
+        -1.4
+       ],
+       [
+        3.75,
+        -1.4
+       ],
+       [
+        4.0,
+        -1.4
+       ],
+       [
+        4.25,
+        -1.4
+       ],
+       [
+        4.5,
+        -1.4
+       ],
+       [
+        4.75,
+        -1.4
+       ],
+       [
+        5.5,
+        -1.38
+       ],
+       [
+        6.5,
+        -1.43
+       ],
+       [
+        7.5,
+        -1.38
+       ],
+       [
+        8.5,
+        -1.42
+       ],
+       [
+        10,
+        -1.39
+       ],
+       [
+        12,
+        -1.4
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "tubo pinzado: plano",
+      "etiket_konum": [
+       8.5,
+       -1.7
+      ],
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "dalga_v_yeri",
+      "x": 6.5,
+      "y": 0,
+      "cizgi": "dikey",
+      "etiket": "sin onda V",
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "cm",
+      "x": [
+       1,
+       4.5
+      ],
+      "renk": "sari",
+      "etiket": "respuesta que se invierte",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Retardo: _tiempo de paso por el tubo_",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Tubo pinzado: _la respuesta desaparece_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Resultado: _MC verdadero_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "El artefacto del estímulo también se invierte con la polaridad, así que debemos confirmar que lo que vemos proviene realmente del oído.",
+    "Con auriculares de inserción, el sonido llega al oído con un retardo de algo menos de un milisegundo; la respuesta debe empezar después de ese retardo.",
+    "Como control, se hace un registro más con el tubo de sonido pinzado, lo que impide que el sonido llegue al oído.",
+    "La línea gris discontinua es este registro de control: las oscilaciones desaparecen por completo.",
+    "Una respuesta que desaparece cuando el sonido no llega al oído es el microfónico coclear; un artefacto eléctrico se mantendría."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Interpretación y familia",
+   "baslik": "*Integrar* los hallazgos",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Oído medio",
+     "metin": "Normal, sin reflejo",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "OEA y MC",
+     "metin": "Presentes: células ciliadas externas",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "PEATC",
+     "metin": "Sin ondas neurales",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Equipo",
+     "metin": "Evaluación médica y del equipo",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El oído medio es normal, pero el reflejo acústico está ausente.",
+    "Las OEA y el microfónico coclear están presentes, así que las células ciliadas externas funcionan.",
+    "Los PEATC con clic no muestran ondas neurales, ni siquiera a intensidad alta.",
+    "Esta combinación de hallazgos es compatible con un trastorno del espectro de la neuropatía auditiva, o TENA.",
+    "El diagnóstico y la búsqueda de la causa se hacen con el médico y el equipo; el audiólogo informa los hallazgos con claridad.",
+    "La conclusión más importante: en este lactante, los PEATC no pueden usarse para estimar los umbrales auditivos."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Interpretación y familia",
+   "baslik": "Hablar con *honestidad* con la familia",
+   "maddeler": [
+    {
+     "metin": "Explicar el resultado con palabras sencillas",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Reconocer la incertidumbre con honestidad",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Dejar espacio a las emociones",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Dar un plan de seguimiento concreto",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Nota escrita y un contacto",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Claro",
+      "metin": "Frases sencillas",
+      "cumle": 0
+     },
+     {
+      "ikon": "soru",
+      "baslik": "Honesto",
+      "metin": "Decir lo que no se sabe",
+      "cumle": 1
+     },
+     {
+      "ikon": "takvim",
+      "baslik": "Concreto",
+      "metin": "El siguiente paso",
+      "cumle": 3
+     }
+    ],
+    "ust": "PRINCIPIO"
+   },
+   "cumleler": [
+    "Con palabras sencillas se explica a la familia que el oído interno responde al sonido, pero que el sonido no viaja de forma ordenada por el nervio.",
+    "Se dice con honestidad que, en esta etapa, no sabemos cuánto oye el lactante; no se da un grado exacto ni se hacen promesas.",
+    "Para una familia que antes recibió un resultado pasa, esta noticia es sorprendente; se deja espacio a las emociones y se reciben bien las preguntas.",
+    "Luego se habla de un plan concreto: evaluación médica, repetición de pruebas y cuándo se harán las pruebas conductuales.",
+    "Al final del encuentro se entrega una nota breve por escrito con los mensajes principales y una forma de contactar a la clínica."
+   ]
+  },
+  {
+   "id": "hekim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Interpretación y familia",
+   "baslik": "Evaluación médica y del *equipo*",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "ORL, neurología infantil",
+     "metin": "Buscar la causa",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Imagen",
+     "metin": "Nervio coclear, RM",
+     "cumle": 1
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genética",
+     "metin": "Genes como OTOF",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Seguimiento neurológico",
+     "metin": "Control del desarrollo",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El lactante se deriva, con los hallazgos, para evaluación por otorrinolaringología y neurología infantil.",
+    "Un nervio auditivo ausente o muy delgado da hallazgos similares; el médico puede investigarlo con resonancia magnética.",
+    "La evaluación genética puede revelar causas como el gen de la otoferlina; esto puede influir después en lo que se espera de la intervención.",
+    "El seguimiento del desarrollo y neurológico también forma parte del plan."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Alerta clínica",
+   "metin": "En un lactante con antecedente de UCIN, pasar las OEA no descarta un TENA. Agreguen siempre PEATC en dos polaridades a la batería.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: que un lactante tenga un resultado pasa en las OEA no descarta una neuropatía auditiva.",
+    {
+     "yazi": "Sobre todo con antecedentes de estancia en UCIN, prematuridad o ictericia grave, agreguen siempre a la batería PEATC en dos polaridades."
+    },
+    {
+     "yazi": "En un registro hecho con una sola polaridad, un MC grande puede confundirse con una onda neural."
+    },
+    "Examinen las polaridades por separado y agreguen a su registro el control con el tubo pinzado."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento e intervención",
+   "baslik": "*Plan* de seguimiento",
+   "adimlar": [
+    {
+     "ikon": "noron",
+     "baslik": "Repetir PEATC",
+     "metin": "Tercer mes, edad corregida",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "VRA",
+     "metin": "Cuando el desarrollo lo permita",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Respuesta cortical",
+     "metin": "Sin y con audífono",
+     "cumle": 3
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Prueba de audífono",
+     "metin": "Con vigilancia estrecha",
+     "cumle": 4
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Desarrollo",
+     "metin": "Lenguaje y escucha",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Los hallazgos pueden mejorar con el tiempo en algunos lactantes con ictericia, así que aquí los PEATC se repiten a los tres meses de edad corregida.",
+    "El nuevo registro no cambia el cuadro; por eso ninguna conclusión definitiva debe basarse en un solo registro.",
+    {
+     "yazi": "Cuando el lactante está listo según su desarrollo, los umbrales conductuales se obtienen con audiometría por refuerzo visual, o VRA."
+    },
+    {
+     "yazi": "Los potenciales evocados auditivos corticales, o PEAC, muestran si el sonido llega a la corteza."
+    },
+    "La intervención se basa en umbrales conductuales y observaciones funcionales, no en los PEATC; el audífono se adapta como una prueba muy vigilada.",
+    "En cada visita se sigue el desarrollo del lenguaje y de la escucha con cuestionarios para los padres y observación."
+   ]
+  },
+  {
+   "id": "vra",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento e intervención",
+   "baslik": "VRA: umbrales *conductuales*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: inserción, vía aérea",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: inserción, vía aérea",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       45,
+       45,
+       50,
+       50,
+       55,
+       null
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       50,
+       55,
+       55,
+       null
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "A los ocho meses de edad corregida, el lactante se evalúa con VRA usando auriculares de inserción."
+    },
+    "En el oído derecho, los niveles mínimos de respuesta están entre cuarenta y cinco y cincuenta y cinco decibeles HL.",
+    "En el oído izquierdo, el lactante responde entre cincuenta y cincuenta y cinco decibeles HL.",
+    "Este resultado muestra que, a pesar de unos PEATC completamente ausentes, los umbrales del lactante están en el nivel de una pérdida moderada.",
+    "Como en la neuropatía auditiva los umbrales pueden fluctuar con el tiempo, estos valores se vuelven a confirmar en sesiones posteriores.",
+    "Se explica a la familia que la dificultad real del lactante puede estar más en discriminar el habla que en los umbrales."
+   ]
+  },
+  {
+   "id": "caep",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento e intervención",
+   "baslik": "Respuesta cortical: ¿llega el sonido a la *corteza*?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -50,
+     "max": 400,
+     "ad": "Tiempo (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400
+     ]
+    },
+    "y": {
+     "min": -2,
+     "max": 6,
+     "adim": 2,
+     "ad": "Amplitud (µV)"
+    },
+    "seriler": [
+     {
+      "ad": "cihazsiz",
+      "noktalar": [
+       [
+        -50,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        80,
+        0.3
+       ],
+       [
+        160,
+        -0.2
+       ],
+       [
+        240,
+        0.35
+       ],
+       [
+        320,
+        -0.15
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "gri",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "sin audífono: sin respuesta",
+      "etiket_konum": [
+       300,
+       -1.2
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "cihazli",
+      "noktalar": [
+       [
+        -50,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        60,
+        0.4
+       ],
+       [
+        120,
+        1.8
+       ],
+       [
+        180,
+        3.6
+       ],
+       [
+        230,
+        4.2
+       ],
+       [
+        280,
+        2.6
+       ],
+       [
+        340,
+        0.4
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "con audífono: respuesta presente",
+      "etiket_konum": [
+       300,
+       3.6
+      ],
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "uyaran",
+      "x": 0,
+      "y": 0,
+      "cizgi": "dikey",
+      "etiket": "estímulo",
+      "cumle": 0
+     },
+     {
+      "ad": "p1",
+      "x": 230,
+      "y": 4.2,
+      "etiket": "P1",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Sin audífono: _sin respuesta_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Con audífono: _P1 presente_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "La ausencia _no es prueba_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Una vez iniciada la prueba de audífono, se hace una evaluación cortical con audífono; el lactante está despierto y tranquilo.",
+    "La línea gris discontinua es el registro sin audífono ante un sonido del habla de intensidad moderada: no hay una respuesta clara.",
+    "La línea azul es el registro con audífono ante el mismo sonido: hay una onda positiva clara.",
+    "A esta edad la onda P1 es más tardía que en los adultos; aquí aparece a unos doscientos treinta milisegundos.",
+    "La presencia de respuesta es una prueba sólida de que este sonido del habla llega a la corteza con el audífono.",
+    "Una respuesta ausente no demuestra por sí sola que el sonido no se oiga; el resultado se interpreta junto con las observaciones y los cuestionarios."
+   ]
+  },
+  {
+   "id": "mudahale",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento e intervención",
+   "baslik": "Intervención y *expectativas*",
+   "maddeler": [
+    {
+     "metin": "Audífono: una prueba con vigilancia",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Apoyo con _micrófono remoto_ en ruido",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Opciones de comunicación presentadas con neutralidad",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Equipo de implante si el progreso se retrasa",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Prueba",
+      "metin": "Con umbrales conductuales",
+      "cumle": 0
+     },
+     {
+      "ikon": "mikrofon",
+      "baslik": "Apoyo",
+      "metin": "Micrófono remoto",
+      "cumle": 1
+     },
+     {
+      "ikon": "koklear_implant",
+      "baslik": "Si hace falta",
+      "metin": "Equipo de implante",
+      "cumle": 3
+     }
+    ],
+    "ust": "PLAN"
+   },
+   "cumleler": [
+    "En la prueba de audífono, el objetivo no es tanto la ganancia en el umbral como respuestas más funcionales a los sonidos y al habla.",
+    "Como la comprensión en ruido puede ser muy pobre en la neuropatía auditiva, los sistemas de micrófono remoto son un apoyo frecuente más adelante.",
+    "Las opciones de lenguaje y comunicación se presentan a la familia con neutralidad; la decisión es de la familia.",
+    "Si el progreso no es adecuado, puede considerarse una evaluación para implante coclear; el equipo decide de forma individual.",
+    {
+     "yazi": "En Turquía, las normas de reembolso (SUT) exigen, en la neuropatía auditiva, documentar la falta de beneficio tras al menos seis meses de terapia."
+    }
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento e intervención",
+   "baslik": "Ejemplo de *redacción* del informe",
+   "maddeler": [
+    {
+     "metin": "OEAPD: presentes en ambos oídos",
+     "cumle": 0,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "PEATC con clic: MC presente, sin ondas",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Control con tubo: MC confirmado",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Reflejo: ausente con 1000 Hz",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Plan: médico, VRA, PEAC",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 0,
+      "max": 12,
+      "ad": "Tiempo (ms)",
+      "isaretler": [
+       0,
+       2,
+       4,
+       6,
+       8,
+       10,
+       12
+      ]
+     },
+     "y": {
+      "min": -2,
+      "max": 1,
+      "adim": 0.5,
+      "ond": 1,
+      "ad": "Amplitud (µV)"
+     },
+     "seriler": [
+      {
+       "ad": "sikisma",
+       "noktalar": [
+        [
+         0,
+         0.0
+        ],
+        [
+         0.9,
+         0.0
+        ],
+        [
+         1.0,
+         0.65
+        ],
+        [
+         1.25,
+         0.0
+        ],
+        [
+         1.5,
+         -0.476
+        ],
+        [
+         1.75,
+         -0.0
+        ],
+        [
+         2.0,
+         0.348
+        ],
+        [
+         2.25,
+         0.0
+        ],
+        [
+         2.5,
+         -0.255
+        ],
+        [
+         2.75,
+         -0.0
+        ],
+        [
+         3.0,
+         0.186
+        ],
+        [
+         3.25,
+         0.0
+        ],
+        [
+         3.5,
+         -0.136
+        ],
+        [
+         3.75,
+         -0.0
+        ],
+        [
+         4.0,
+         0.1
+        ],
+        [
+         4.25,
+         -0.0
+        ],
+        [
+         4.5,
+         -0.073
+        ],
+        [
+         4.75,
+         -0.0
+        ],
+        [
+         5.5,
+         0.02
+        ],
+        [
+         6.5,
+         -0.03
+        ],
+        [
+         7.5,
+         0.02
+        ],
+        [
+         8.5,
+         -0.02
+        ],
+        [
+         10,
+         0.01
+        ],
+        [
+         12,
+         0.0
+        ]
+       ],
+       "renk": "lacivert",
+       "yumusak": true,
+       "kalin": true,
+       "etiket": "condensación",
+       "etiket_konum": [
+        8.5,
+        0.35
+       ],
+       "cumle": 1
+      },
+      {
+       "ad": "seyrelme",
+       "noktalar": [
+        [
+         0,
+         0.0
+        ],
+        [
+         0.9,
+         0.0
+        ],
+        [
+         1.0,
+         -0.65
+        ],
+        [
+         1.25,
+         -0.0
+        ],
+        [
+         1.5,
+         0.476
+        ],
+        [
+         1.75,
+         0.0
+        ],
+        [
+         2.0,
+         -0.348
+        ],
+        [
+         2.25,
+         -0.0
+        ],
+        [
+         2.5,
+         0.255
+        ],
+        [
+         2.75,
+         0.0
+        ],
+        [
+         3.0,
+         -0.186
+        ],
+        [
+         3.25,
+         -0.0
+        ],
+        [
+         3.5,
+         0.136
+        ],
+        [
+         3.75,
+         0.0
+        ],
+        [
+         4.0,
+         -0.1
+        ],
+        [
+         4.25,
+         0.0
+        ],
+        [
+         4.5,
+         0.073
+        ],
+        [
+         4.75,
+         0.0
+        ],
+        [
+         5.5,
+         0.02
+        ],
+        [
+         6.5,
+         -0.03
+        ],
+        [
+         7.5,
+         0.02
+        ],
+        [
+         8.5,
+         -0.02
+        ],
+        [
+         10,
+         0.01
+        ],
+        [
+         12,
+         0.0
+        ]
+       ],
+       "renk": "kirmizi",
+       "yumusak": true,
+       "etiket": "rarefacción",
+       "etiket_konum": [
+        8.5,
+        -0.35
+       ],
+       "cumle": 1
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "dalga_v_yeri",
+       "x": 6.5,
+       "y": 0,
+       "cizgi": "dikey",
+       "etiket": "sin onda V",
+       "cumle": 1
+      }
+     ],
+     "bolgeler": [
+      {
+       "ad": "cm",
+       "x": [
+        1,
+        4.5
+       ],
+       "renk": "sari",
+       "etiket": "respuesta que se invierte",
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Ejemplo de redacción: se registraron OEAPD por encima del piso de ruido en la mayoría de las frecuencias evaluadas, en ambos oídos.",
+    {
+     "yazi": "PEATC con clic a ochenta y cinco decibeles nHL en dos polaridades; hay un microfónico coclear que se invierte, sin ondas neurales."
+    },
+    "En el registro de control con el tubo de sonido pinzado, la respuesta desapareció.",
+    "La timpanometría con mil hertz muestra un pico positivo en ambos oídos; los reflejos acústicos estuvieron ausentes.",
+    {
+     "yazi": "Hallazgos compatibles con TENA; se recomienda evaluación médica y seguimiento con PEATC repetidos, VRA y evaluación cortical."
+    }
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "OEA y MC presentes, sin PEATC: TENA",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Se necesitan dos polaridades y control con tubo",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Preguntar sistemáticamente por los antecedentes de riesgo",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Decidir con umbrales conductuales y PEAC",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Unos PEATC ausentes con OEA y microfónico coclear presentes son compatibles con un trastorno del espectro de la neuropatía auditiva.",
+    "El microfónico coclear se reconoce porque se invierte con la polaridad; el control con el tubo lo distingue del artefacto del estímulo.",
+    {
+     "yazi": "Se pregunta sistemáticamente por la estancia en UCIN, la prematuridad, la ictericia grave, la hipoxia y los antecedentes familiares."
+    },
+    "Como los PEATC no dan umbrales, la intervención se basa en los umbrales conductuales, las respuestas corticales y las observaciones funcionales."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué respuesta se invierte con la polaridad y desaparece al pinzar el tubo?",
+   "secenekler": [
+    "Onda V",
+    "Microfónico coclear",
+    "Artefacto del estímulo",
+    "Artefacto muscular"
+   ],
+   "dogru": 1,
+   "aciklama": "Si desaparece con el tubo pinzado, la respuesta proviene _del oído_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué respuesta se invierte al cambiar la polaridad y desaparece cuando se pinza el tubo de sonido?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: el microfónico coclear.",
+    "El artefacto del estímulo también se invierte, pero no desaparece cuando el sonido no llega al oído; la onda V, que es neural, no se invierte con la polaridad."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Caso: retraso del habla y *timpanogramas planos*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En el próximo caso usaremos la audiometría por juego para evaluar a un niño pequeño con retraso del habla y timpanogramas planos.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

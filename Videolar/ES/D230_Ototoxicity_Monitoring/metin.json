@@ -1,0 +1,885 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D230_Ototoxicity_Monitoring_ES",
+ "kapak": {
+  "ust": "LECCIÓN 230",
+  "baslik": "Monitorización<br>de *ototoxicidad*",
+  "alt": "Protocolo y criterios de la ASHA",
+  "cizim": "oae",
+  "ayar": {
+   "tur": "DPOAE"
+  }
+ },
+ "youtube": {
+  "baslik": "Monitorización de ototoxicidad y criterios de la ASHA | Lección 230 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo se monitoriza la audición de un paciente que recibe un tratamiento ototóxico? En esta lección vemos la evaluación basal, el calendario de monitorización, la audiometría de alta frecuencia extendida, los criterios de la ASHA de 1994, la monitorización con otoemisiones producto de distorsión y la vestibular, la clasificación CTCAE en oncología y cómo informar los hallazgos al equipo.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: American Speech-Language-Hearing Association (1994), Guidelines for the audiologic management of individuals receiving cochleotoxic drug therapy; American Academy of Audiology (2009), Position Statement and Clinical Practice Guidelines: Ototoxicity Monitoring; Fausti et al. (1999), An individualized, sensitive frequency range for early detection of ototoxicity, Ear and Hearing; National Cancer Institute, Common Terminology Criteria for Adverse Events (CTCAE) v5.0; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "ototoxicidad",
+   "oncologia"
+  ],
+  "etiketler": [
+   "monitorización de ototoxicidad",
+   "criterios de la ASHA",
+   "audiometría de alta frecuencia extendida",
+   "otoemisiones producto de distorsión",
+   "evaluación basal",
+   "monitorización seriada",
+   "CTCAE",
+   "cisplatino",
+   "aminoglucósidos",
+   "rango sensible a la ototoxicidad",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 230",
+   "baslik": "Monitorización de *ototoxicidad*",
+   "alt": "Protocolo, criterios de la ASHA y frecuencias altas",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos paso a paso cómo se monitoriza la audición en los pacientes que reciben un tratamiento ototóxico.",
+    {
+     "yazi": "Veremos la evaluación basal, los criterios de la ASHA, las frecuencias altas extendidas y las otoemisiones acústicas."
+    }
+   ]
+  },
+  {
+   "id": "amac",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El objetivo de la monitorización",
+   "baslik": "¿Por qué *monitorizamos?*",
+   "maddeler": [
+    {
+     "metin": "Detectar el cambio a tiempo",
+     "cumle": 0,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Antes de llegar a las frecuencias del habla",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Informar al equipo a tiempo",
+     "cumle": 2,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Planificar la rehabilitación",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "MONITORIZACIÓN SERIADA",
+    "metin": "Comparar cada prueba con *su propia evaluación basal*",
+    "cumle": 0
+   },
+   "cumleler": [
+    "El objetivo de la monitorización de la ototoxicidad es detectar un cambio en la audición en la etapa más temprana posible.",
+    "Como el daño suele comenzar en las frecuencias altas, puede detectarse antes de que afecte al habla.",
+    "Esta información se comunica a tiempo para que el equipo tratante pueda sopesar en conjunto el beneficio y el riesgo.",
+    "La decisión sobre el tratamiento, es decir, continuar o cambiar el fármaco, corresponde siempre al médico y al equipo.",
+    "Si ya se desarrolló una pérdida, la monitorización también permite planificar sin demora audífonos y apoyo para la comunicación.",
+    {
+     "yazi": "La ASHA, Asociación Estadounidense del Habla, Lenguaje y Audición, publicó guías al respecto en 1994, y la Academia Estadounidense de Audiología, en 2009."
+    }
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "El objetivo de la monitorización",
+   "baslik": "El *calendario* de monitorización",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Evaluación basal",
+     "cumle": 0,
+     "metin": "Antes de la primera dosis"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Durante el tratamiento",
+     "cumle": 2,
+     "metin": "Antes de cada ciclo o cada semana"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Fin del tratamiento",
+     "cumle": 4,
+     "metin": "Después de la última dosis"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Seguimiento tardío",
+     "cumle": 5,
+     "metin": "Durante meses"
+    }
+   ],
+   "cumleler": [
+    "La monitorización comienza con la evaluación basal; idealmente, la prueba se realiza antes de la primera dosis del fármaco.",
+    "Si eso no es posible, la prueba se completa lo antes posible después de iniciar el tratamiento.",
+    "El intervalo entre pruebas durante el tratamiento depende del fármaco; con cisplatino, suele evaluarse antes de cada ciclo.",
+    "Con aminoglucósidos, en general se recomienda evaluar una o dos veces por semana durante el tratamiento.",
+    "Al finalizar el tratamiento se realiza una prueba más.",
+    "Como los efectos pueden aparecer o avanzar después del tratamiento, la monitorización sigue unos meses más; en niños se aconseja un seguimiento más largo."
+   ]
+  },
+  {
+   "id": "kimler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "El objetivo de la monitorización",
+   "baslik": "¿A quién hay que *monitorizar?*",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Terapia con platino",
+     "cumle": 0,
+     "metin": "Cisplatino, carboplatino en dosis altas"
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Aminoglucósidos",
+     "cumle": 1,
+     "metin": "Sobre todo tratamientos largos"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Radiación craneal",
+     "cumle": 3,
+     "metin": "Cóclea dentro del campo"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Lactantes de la UCIN",
+     "cumle": 4,
+     "metin": "Antecedente de fármacos ototóxicos"
+    },
+    {
+     "ikon": "isitme_kaybi",
+     "baslik": "Pérdida previa",
+     "cumle": 5,
+     "metin": "Poca reserva, gran impacto"
+    }
+   ],
+   "cumleler": [
+    "Todas las personas que reciben cisplatino y los pacientes que reciben carboplatino en dosis altas deben incluirse en un programa de monitorización.",
+    "Con aminoglucósidos se recomienda la monitorización, sobre todo en tratamientos largos o repetidos.",
+    "Los pacientes con fibrosis quística y los tratados por tuberculosis resistente a fármacos tienen en este sentido un riesgo alto.",
+    "La radioterapia en la cabeza con la cóclea dentro del campo de radiación también requiere monitorización.",
+    "Los recién nacidos que recibieron fármacos ototóxicos reciben seguimiento auditivo aunque hayan pasado el tamizaje.",
+    "Con una pérdida auditiva previa, incluso una pequeña pérdida adicional puede alterar claramente la comunicación, así que la monitorización importa aún más."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "La evaluación basal",
+   "baslik": "¿Qué incluye la *evaluación basal?*",
+   "ogeler": [
+    {
+     "ikon": "soru",
+     "baslik": "Anamnesis",
+     "cumle": 0,
+     "metin": "Fármacos, ruido, familia, tinnitus"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia, timpanometría",
+     "cumle": 1,
+     "metin": "Estado del oído medio"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Tonos puros",
+     "cumle": 2,
+     "metin": "De 250 a 8000 Hz"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Alta frecuencia",
+     "cumle": 3,
+     "metin": "9000 Hz y más"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Pruebas de habla",
+     "cumle": 4,
+     "metin": "Recepción, reconocimiento"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "OEAPD",
+     "cumle": 5,
+     "metin": "Función de las células ciliadas externas"
+    }
+   ],
+   "cumleler": [
+    "La evaluación basal es la base de todas las comparaciones posteriores, por eso se realiza de la forma más completa posible.",
+    "La anamnesis incluye fármacos ototóxicos previos, ruido, antecedentes familiares, tinnitus y quejas de equilibrio; se realizan otoscopia y timpanometría.",
+    "La audiometría tonal se realiza de 250 a 8000 Hz, incluidas las frecuencias interoctavas.",
+    "Si es posible, también se evalúan las frecuencias altas extendidas, por encima de 8000 Hz.",
+    "Se registran el umbral de recepción de la palabra y el porcentaje de reconocimiento de palabras para documentar el estado funcional.",
+    "También se registran las otoemisiones acústicas producto de distorsión, u OEAPD, porque pueden mostrar pronto un cambio en las células ciliadas externas."
+   ]
+  },
+  {
+   "id": "ehf",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "La evaluación basal",
+   "baslik": "*Frecuencias altas* extendidas",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1000,
+     "max": 16000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000,
+      12500,
+      16000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 90,
+     "adim": 10,
+     "ad": "Nivel de audición (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "baslangic",
+      "noktalar": [
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        5
+       ],
+       [
+        4000,
+        10
+       ],
+       [
+        8000,
+        15
+       ],
+       [
+        10000,
+        20
+       ],
+       [
+        12500,
+        30
+       ],
+       [
+        14000,
+        40
+       ],
+       [
+        16000,
+        50
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "isaretli": true,
+      "etiket": "basal",
+      "cumle": 2
+     },
+     {
+      "ad": "izlem",
+      "noktalar": [
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        5
+       ],
+       [
+        4000,
+        10
+       ],
+       [
+        8000,
+        20
+       ],
+       [
+        10000,
+        35
+       ],
+       [
+        12500,
+        55
+       ],
+       [
+        14000,
+        70
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "durante el tratamiento",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "ehf",
+      "x": [
+       9000,
+       16000
+      ],
+      "renk": "sari",
+      "etiket": "alta frecuencia extendida",
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yanit_yok",
+      "x": 16000,
+      "y": 85,
+      "etiket": "sin respuesta",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "La audiometría de alta frecuencia extendida evalúa por encima de 8000 Hz, por lo general hasta 16000 Hz.",
+    "Esta prueba requiere auriculares especiales y un audiómetro calibrado para estas frecuencias.",
+    "En el ejemplo en pantalla, la línea azul marino discontinua muestra los umbrales basales antes del tratamiento.",
+    "La línea roja es la prueba durante el tratamiento; hasta 8000 Hz, los umbrales se mantuvieron casi iguales.",
+    "Pero a partir de 10000 Hz hay un empeoramiento claro, y en la frecuencia más alta no hay respuesta.",
+    "Así, mientras el audiograma estándar todavía parece normal, el cambio ya se detectó en las frecuencias extendidas.",
+    "En estas frecuencias las diferencias test-retest pueden ser mayores, por eso es importante usar los mismos auriculares y colocarlos con cuidado."
+   ]
+  },
+  {
+   "id": "sro",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "La evaluación basal",
+   "baslik": "Un protocolo breve e *individualizado*",
+   "maddeler": [
+    {
+     "metin": "Hallar la frecuencia más alta con respuesta",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Añadir frecuencias cercanas por debajo",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Prueba breve para pacientes cansados",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Siempre las mismas frecuencias",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Junto a la cama del paciente, no siempre es posible hacer pruebas largas a pacientes cansados y enfermos.",
+    "Algunos programas buscan primero la frecuencia más alta a la que la persona puede responder.",
+    "Luego se evalúan en pasos pequeños unas pocas frecuencias cercanas, justo por debajo; este rango se llama rango sensible a la ototoxicidad.",
+    "De este modo, la región donde el cambio aparecerá primero se monitoriza de forma rápida e individual.",
+    "Sea cual sea el método elegido, en cada seguimiento se usan las mismas frecuencias y las mismas condiciones."
+   ]
+  },
+  {
+   "id": "asha",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Criterios de la ASHA",
+   "baslik": "Los criterios de la *ASHA*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "20 dB",
+     "cumle": 1,
+     "metin": "En una sola frecuencia"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Dos adyacentes",
+     "cumle": 2,
+     "metin": "10 dB en cada una"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Pérdida de respuesta",
+     "cumle": 3,
+     "metin": "En tres frecuencias consecutivas"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Confirmación",
+     "cumle": 5,
+     "metin": "Confirmado al repetir la prueba"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La guía de la ASHA de 1994 define el cambio significativo respecto de la evaluación basal con tres criterios; basta con cumplir uno de ellos."
+    },
+    "El primero es un empeoramiento de 20 decibeles o más en cualquier frecuencia evaluada.",
+    "El segundo es un empeoramiento de 10 decibeles o más en dos frecuencias consecutivas, es decir, adyacentes.",
+    "El tercero es la pérdida de respuesta en tres frecuencias consecutivas en las que antes se obtenía respuesta.",
+    "Este tercer criterio es especialmente importante en las frecuencias altas extendidas, donde los umbrales están cerca del límite del equipo.",
+    "Sea cual sea el criterio cumplido, el cambio no se informa como ototoxicidad hasta que se confirma con una nueva prueba.",
+    {
+     "yazi": "Los criterios de la ASHA nos dicen si hay un cambio, no el grado de la pérdida."
+    }
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Criterios de la ASHA",
+   "baslik": "Un ejemplo de *comparación*",
+   "sutunlar": [
+    "Frecuencia",
+    "Basal",
+    "Seguimiento",
+    "Diferencia"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "6000 Hz",
+      "10 dB",
+      "15 dB",
+      "5 dB"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "8000 Hz",
+      "15 dB",
+      "25 dB",
+      "10 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "10000 Hz",
+      "20 dB",
+      "30 dB",
+      "10 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "12500 Hz",
+      "30 dB",
+      "45 dB",
+      "15 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Resultado",
+      "",
+      "",
+      "10 dB, dos adyacentes"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Apliquemos los criterios a un ejemplo: a 6000 Hz la diferencia es de solo 5 decibeles, que por sí sola no es significativa.",
+    "A 8000 y 10000 Hz, ambas muestran un empeoramiento de 10 decibeles; en la serie evaluada, estas dos frecuencias son adyacentes.",
+    "A 12500 Hz la diferencia es de 15 decibeles, que no alcanza el criterio de 20 decibeles en una sola frecuencia.",
+    "Por lo tanto, este oído cumple el criterio de 10 decibeles en dos frecuencias adyacentes.",
+    "El siguiente paso es recolocar los auriculares, volver a evaluar estas frecuencias y confirmar el hallazgo.",
+    "Si se confirma, el hallazgo se informa al equipo, indicando con claridad qué criterio se cumplió."
+   ]
+  },
+  {
+   "id": "dogrulama",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Criterios de la ASHA",
+   "baslik": "¿Por qué *confirmar?*",
+   "maddeler": [
+    {
+     "metin": "Diferencia test-retest de unos 5 dB",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Mayor en frecuencias altas",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La colocación del auricular es crucial",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Mismo equipo, mismo método",
+     "cumle": 3,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Revisar el oído medio",
+     "cumle": 4,
+     "ikon": "otoskop"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ERRORES FRECUENTES",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "kulaklik",
+      "baslik": "Auricular desplazado",
+      "cumle": 2,
+      "metin": "Importa en frecuencias altas"
+     },
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "Oído medio",
+      "cumle": 4,
+      "metin": "Componente conductivo"
+     }
+    ]
+   },
+   "cumleler": [
+    "Una diferencia de unos 5 decibeles entre dos pruebas en la misma persona y el mismo día es normal.",
+    "En las frecuencias altas extendidas esta diferencia puede ser mayor, por eso una sola medición puede inducir a error.",
+    "Sobre todo en las frecuencias altas, un pequeño desplazamiento del auricular puede cambiar notablemente el umbral.",
+    "En cada seguimiento se usan el mismo equipo, el mismo tipo de auricular y el mismo método de búsqueda del umbral.",
+    "Un problema nuevo de oído medio también puede empeorar los umbrales, por eso la timpanometría se repite en cada seguimiento."
+   ]
+  },
+  {
+   "id": "dpoae",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Pruebas objetivas",
+   "baslik": "Cuando la prueba conductual *no es posible*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "emisión: células ciliadas externas",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Las OEAPD pueden cambiar pronto",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "El oído medio debe ser normal",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "PEATC de alta frecuencia en lactantes",
+     "cumle": 4,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "Algunos pacientes pueden ser muy pequeños, estar muy enfermos o no poder responder.",
+    "En este caso, las OEAPD son una forma valiosa de monitorizar objetivamente los cambios en la función de las células ciliadas externas.",
+    "Una caída de los componentes de alta frecuencia del DP-grama puede aparecer antes de que cambie el audiograma.",
+    "Sin embargo, las OEAPD requieren un oído medio normal; una efusión por sí sola puede hacer desaparecer las emisiones.",
+    "En lactantes y niños muy pequeños también pueden usarse los potenciales evocados auditivos de tronco cerebral, o PEATC, con estímulos de alta frecuencia.",
+    "En los niños se mantienen, en la medida de lo posible, métodos conductuales adecuados a la edad, como la audiometría por juego condicionado.",
+    "En cada seguimiento también se pregunta al paciente por tinnitus o plenitud ótica, y se registran sus respuestas."
+   ]
+  },
+  {
+   "id": "ctcae",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Pruebas objetivas",
+   "baslik": "*Clasificación* en oncología",
+   "sutunlar": [
+    "Grado",
+    "Frecuencias",
+    "Empeoramiento promedio"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Grado 1",
+      "Dos adyacentes",
+      "15 a 25 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Grado 2",
+      "Dos adyacentes",
+      "Más de 25 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Grado 3",
+      "Tres adyacentes",
+      "Más de 25 dB"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Grado 4",
+      "",
+      "Pérdida profunda"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En los estudios de oncología, los efectos adversos se gradúan con los Criterios Terminológicos Comunes para Eventos Adversos, o CTCAE.",
+    "En un adulto incluido en un programa de monitorización, el grado 1 es un empeoramiento de 15 a 25 decibeles promediado en dos frecuencias adyacentes.",
+    "El grado 2 es un empeoramiento promedio de más de 25 decibeles en dos frecuencias adyacentes.",
+    "En el grado 3, el mismo empeoramiento se observa en tres frecuencias consecutivas.",
+    "El grado 4 describe una pérdida auditiva profunda permanente.",
+    "Para los niños se desarrollaron las escalas de Brock, Chang y SIOP Boston; las veremos en detalle en la próxima lección."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Pruebas objetivas",
+   "baslik": "*Monitorización* del órgano del equilibrio",
+   "maddeler": [
+    {
+     "metin": "Preguntar por oscilopsia e inestabilidad",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Impulso cefálico junto a la cama",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Prueba de impulso cefálico con video",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Informar cualquier síntoma al médico",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "ampulla",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "En los pacientes que reciben aminoglucósidos, no solo hay que monitorizar la audición, sino también el órgano del equilibrio.",
+    "En cada seguimiento se pregunta si la imagen salta al mover la cabeza y si hay inestabilidad en la oscuridad.",
+    "La prueba de impulso cefálico junto a la cama es un indicador aproximado pero rápido de hipofunción vestibular bilateral.",
+    {
+     "yazi": "En pacientes adecuados, la prueba de impulso cefálico con video, o vHIT, permite seguir la ganancia del reflejo vestíbulo-ocular."
+    },
+    "Si se encuentra un signo vestibular, se informa al equipo sin demora, igual que un hallazgo auditivo."
+   ]
+  },
+  {
+   "id": "bildirim",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "El informe",
+   "baslik": "Del hallazgo *al informe*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Comparar",
+     "cumle": 0,
+     "metin": "Con la evaluación basal"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Confirmar",
+     "cumle": 1,
+     "metin": "Repetir la prueba"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Documentar",
+     "cumle": 2,
+     "metin": "Criterio, oído, frecuencia"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Informar",
+     "cumle": 3,
+     "metin": "El mismo día, lenguaje claro"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Apoyar",
+     "cumle": 5,
+     "metin": "Orientación, dispositivos"
+    }
+   ],
+   "cumleler": [
+    "Cada prueba de monitorización se compara con la evaluación basal, frecuencia por frecuencia.",
+    "Un cambio significativo se confirma con una nueva prueba.",
+    "El informe indica con claridad en qué oído, en qué frecuencias y según qué criterio se produjo el cambio.",
+    "El hallazgo se comunica al equipo tratante el mismo día, en un lenguaje claro que explique los términos técnicos.",
+    "Indicar qué tan cerca está el cambio de las frecuencias del habla ayuda al equipo a sopesar el beneficio y el riesgo.",
+    "El hallazgo también se explica al paciente y a la familia; si es necesario, se planifican estrategias de comunicación y audífonos."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Haz la evaluación basal antes de la primera dosis. Junto a la cama, usa auriculares de inserción y anota el ruido ambiente; repite esas condiciones en las pruebas siguientes.",
+   "cumleler": [
+    "Un consejo de la práctica: acuerden de antemano una vía de derivación con los equipos de oncología e infectología para no perder evaluaciones basales.",
+    "Al evaluar junto a la cama, los auriculares de inserción reducen el ruido de la sala y mejoran la repetibilidad.",
+    "Registren el lugar de la prueba, los auriculares usados y el estado del paciente, y procuren recrear las mismas condiciones en las pruebas siguientes.",
+    "Un poco de preparación reduce notablemente las falsas alarmas y los cambios que pasan inadvertidos."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Evaluación basal: antes de la primera dosis",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Frecuencias altas y OEAPD alertan pronto",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "ASHA: 20 o 10 dB, respuestas perdidas",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Confirmar e informar pronto al equipo",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "La monitorización comienza con una evaluación basal detallada, idealmente antes de la primera dosis, y continúa después del tratamiento.",
+    "Las frecuencias altas extendidas y las OEAPD pueden mostrar el cambio antes que el audiograma estándar.",
+    {
+     "yazi": "Los criterios de la ASHA: 20 decibeles en una frecuencia, 10 decibeles en dos frecuencias adyacentes o pérdida de respuesta en tres frecuencias."
+    },
+    "El cambio se confirma con una nueva prueba y se informa pronto al equipo; la decisión sobre el tratamiento siempre corresponde al médico."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Según la ASHA, ¿cuál de estos es por sí solo un cambio significativo?",
+   "secenekler": [
+    "10 dB en una frecuencia",
+    "10 dB en dos frecuencias adyacentes",
+    "10 dB en dos frecuencias distantes",
+    "15 dB en una frecuencia"
+   ],
+   "dogru": 1,
+   "aciklama": "Criterios: 20 dB en una frecuencia, _10 dB en dos frecuencias adyacentes_, pérdida de respuesta en tres.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: según los criterios de la ASHA, ¿cuál de estos es por sí solo un cambio significativo?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: un empeoramiento de 10 decibeles en dos frecuencias adyacentes.",
+    "En una sola frecuencia se necesitan al menos 20 decibeles; en todos los casos, el hallazgo se confirma con una nueva prueba."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Ototoxicidad en *niños*: escalas de Brock, Chang y SIOP",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo se gradúa la ototoxicidad en niños con las escalas de Brock, Chang y SIOP Boston.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

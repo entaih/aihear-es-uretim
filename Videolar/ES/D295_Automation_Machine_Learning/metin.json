@@ -1,0 +1,721 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D295_Automation_Machine_Learning_ES",
+ "kapak": {
+  "ust": "LECCIÓN 295",
+  "baslik": "Automatización y<br>*aprendizaje automático*",
+  "alt": "Audiometría automatizada y apoyo a la decisión",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Automatización y aprendizaje automático en audiología | Lección 295 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué tan confiable es la audiometría automatizada y qué puede aportar el aprendizaje automático a la audiología? En esta lección vemos cómo funciona la audiometría automatizada y sus indicadores de calidad, la clasificación de audiogramas con aprendizaje automático, cómo se evalúa un modelo, sus limitaciones y la responsabilidad clínica.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Mahomed F, Swanepoel DW, Eikelboom RH, Soer M. Validity of automated threshold audiometry: a systematic review and meta-analysis. Ear and Hearing (2013); Margolis RH et al. Qualind: a method for assessing the accuracy of automated tests. Journal of the American Academy of Audiology (2007); Song XD et al. Fast, continuous audiogram estimation using machine learning. Ear and Hearing (2015); Crowson MG et al. AutoAudio: deep learning for automatic audiogram interpretation. Journal of Medical Systems (2020).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "aprendizajeautomatico",
+   "audiometriaautomatizada"
+  ],
+  "etiketler": [
+   "audiometría automatizada",
+   "aprendizaje automático",
+   "apoyo a la decisión clínica",
+   "clasificación de audiogramas",
+   "indicadores de calidad",
+   "tasa de falsas alarmas",
+   "validación externa",
+   "curva ROC",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 295",
+   "baslik": "Automatización y *aprendizaje automático*",
+   "alt": "Audiometría automatizada, apoyo a la decisión, responsabilidad",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos la audiometría automatizada, su exactitud y sus indicadores de calidad.",
+    "Luego veremos la clasificación de audiogramas con aprendizaje automático, el apoyo a la decisión clínica, las limitaciones y la responsabilidad clínica."
+   ]
+  },
+  {
+   "id": "tarih",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "Audiometría automatizada",
+   "baslik": "Una *breve historia* de la automatización",
+   "adimlar": [
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "1947",
+     "metin": "Registro controlado por el paciente",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Computadoras",
+     "metin": "Pruebas basadas en reglas",
+     "cumle": 1
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Tabletas",
+     "metin": "Tamizaje y zonas alejadas",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Aprendizaje automático",
+     "metin": "Métodos que aprenden de los datos",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La automatización no es nueva: en 1947, Békésy describió un audiómetro de registro automático en el que el paciente presiona y suelta un botón."
+    },
+    "Con la difusión de las computadoras se desarrollaron pruebas automatizadas basadas en reglas, que imitan los pasos de búsqueda del umbral del clínico.",
+    "En los últimos años, los sistemas basados en tabletas o computadoras con auriculares calibrados se usan en el tamizaje y en zonas alejadas.",
+    "Hoy se suman a ellos los métodos de aprendizaje automático, que aprenden patrones a partir de grandes conjuntos de datos.",
+    "En esta lección veremos primero las pruebas automatizadas, luego el aprendizaje automático y, por último, los límites que comparten."
+   ]
+  },
+  {
+   "id": "nasil",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Audiometría automatizada",
+   "baslik": "¿*Cómo* funciona la audiometría automatizada?",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Algoritmo",
+     "metin": "Pasos predefinidos",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Respuesta del paciente",
+     "metin": "Botón o toque en pantalla",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Tiempos",
+     "metin": "Intervalos aleatorios",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Consistencia",
+     "metin": "Control de falsas alarmas",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Resultado",
+     "metin": "Umbrales y advertencias",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La audiometría automatizada es una prueba en la que un algoritmo realiza los pasos de búsqueda del umbral.",
+    "Se presenta un tono, el paciente presiona un botón o toca la pantalla, y el algoritmo elige el siguiente nivel según la respuesta.",
+    "Los intervalos entre los estímulos se mantienen aleatorios, lo que dificulta que el paciente adivine un ritmo.",
+    "Se cuentan las pulsaciones sin sonido, o falsas alarmas, y se vigila la consistencia de las respuestas.",
+    "Al final, junto con los umbrales, se generan advertencias sobre condiciones que pueden afectar la confiabilidad del resultado.",
+    "Algunos sistemas deciden mediante reglas si hace falta enmascaramiento y también miden la vía ósea."
+   ]
+  },
+  {
+   "id": "dogruluk",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Audiometría automatizada",
+   "baslik": "Exactitud: *¿qué sabemos?*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Vía aérea",
+     "metin": "Similar a la prueba manual",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Vía ósea",
+     "metin": "Evidencia más limitada",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Grupos difíciles",
+     "metin": "Niños, problemas cognitivos",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Entorno",
+     "metin": "El ruido distorsiona los resultados",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Una revisión sistemática de 2013 halló que los umbrales automatizados y manuales por vía aérea diferían más o menos tanto como dos pruebas manuales repetidas."
+    },
+    "Por eso, con el paciente y el entorno adecuados, los umbrales automatizados por vía aérea suelen ser confiables.",
+    "Para la vía ósea y las mediciones que requieren enmascaramiento, los estudios de validación son más limitados.",
+    "La evidencia es escasa en niños pequeños, personas con dificultades cognitivas y pacientes difíciles de evaluar; estos grupos necesitan a un profesional.",
+    "El ruido de fondo también distorsiona los resultados automatizados, por lo que el control del ruido y la calibración son esenciales.",
+    "En resumen, una prueba automatizada es una herramienta; dónde y con quién se usa es una decisión clínica."
+   ]
+  },
+  {
+   "id": "kalite",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Audiometría automatizada",
+   "baslik": "*Indicadores* de calidad",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Falsas alarmas",
+     "metin": "Presionar en silencio",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Tiempo de respuesta",
+     "metin": "Demasiado lento o rápido",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Diferencia test-retest",
+     "metin": "Consistencia en una frecuencia",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido de fondo",
+     "metin": "¿Se superó el límite?",
+     "cumle": 3
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Enmascaramiento",
+     "metin": "¿Hacía falta? ¿Se hizo?",
+     "cumle": 4
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Patrón",
+     "metin": "Brecha aéreo-ósea inesperada",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Para juzgar la confiabilidad de una prueba automatizada se usan indicadores de calidad; el más básico es la tasa de falsas alarmas.",
+    "Los tiempos de respuesta muy largos o muy variables pueden indicar un problema de atención o que no se entendió la tarea.",
+    "Una gran diferencia al volver a medir una frecuencia reduce la confiabilidad del resultado.",
+    "Si el ruido de fondo medido durante la prueba superó el límite, ese resultado se marca.",
+    "Si hacía falta enmascaramiento pero no se pudo aplicar, el sistema debe informarlo.",
+    "Margolis y colaboradores describieron un método que combina estos indicadores para estimar la exactitud de una prueba automatizada."
+   ]
+  },
+  {
+   "id": "arti_eksi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Audiometría automatizada",
+   "baslik": "Ventajas y *límites*",
+   "cizim": "odyometre",
+   "vurgula": [
+    {
+     "parca": "cihaz",
+     "cumle": 0
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Estándar y repetible",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Ahorra tiempo del profesional",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "No puede observar al paciente",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "La principal ventaja de las pruebas automatizadas es la estandarización: las mismas reglas se aplican a todos los pacientes.",
+    "El tiempo del profesional puede dedicarse a los casos complejos, la orientación y la rehabilitación.",
+    "En zonas alejadas, el tamizaje y las pruebas básicas pueden hacerse con un asistente capacitado.",
+    "Por otro lado, el algoritmo no puede ver el rostro del paciente, su atención ni su confusión.",
+    "Una pérdida auditiva funcional, respuestas inconsistentes o un hallazgo inesperado requieren la revisión de un ojo experimentado.",
+    "Por eso, los resultados automatizados no se usan para decisiones diagnósticas sin la revisión de un audiólogo."
+   ]
+  },
+  {
+   "id": "ml",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Aprendizaje automático",
+   "baslik": "¿Qué es el *aprendizaje automático?*",
+   "ogeler": [
+    {
+     "ikon": "tablo",
+     "baslik": "Datos",
+     "metin": "Muchos ejemplos",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Etiqueta",
+     "metin": "La respuesta del experto",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Modelo",
+     "metin": "Aprende el patrón",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Prueba",
+     "metin": "Se ensaya con datos nuevos",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El aprendizaje automático consiste en que un algoritmo aprenda patrones a partir de ejemplos, sin que las reglas se escriban de forma explícita.",
+    "Primero se necesitan muchos ejemplos, como miles de audiogramas.",
+    "En el aprendizaje supervisado, cada ejemplo recibe la respuesta correcta del experto, una etiqueta: por ejemplo, conductiva, neurosensorial o mixta.",
+    "A partir de estos ejemplos, el algoritmo aprende la relación entre las entradas y las etiquetas y construye un modelo.",
+    "El modelo se prueba con datos nuevos que nunca vio durante el entrenamiento; esta es la verdadera medida de su éxito.",
+    "En el aprendizaje no supervisado no hay etiquetas; el algoritmo agrupa por sí solo los audiogramas similares."
+   ]
+  },
+  {
+   "id": "siniflama",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Aprendizaje automático",
+   "baslik": "Ejemplo: *clasificación* de audiogramas",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Recolección de datos",
+     "metin": "Audiogramas y etiquetas",
+     "cumle": 0
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Entrenamiento",
+     "metin": "El modelo aprende patrones",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Prueba interna",
+     "metin": "Datos reservados",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Validación externa",
+     "metin": "Datos de otro centro",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Uso clínico",
+     "metin": "Apoyo a la decisión",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En los estudios de clasificación de audiogramas, primero se reúnen miles de audiogramas con etiquetas de tipo y grado asignadas por expertos.",
+    "El modelo se entrena con una parte de estos datos.",
+    "Luego se prueba con una parte reservada y se mide su concordancia con las etiquetas de los expertos.",
+    "El paso realmente importante es la validación externa: ¿el modelo también funciona con datos de otro centro y de otros equipos?",
+    "Solo después de estos pasos el modelo puede entrar en la clínica como apoyo a la decisión.",
+    "Los estudios publicados informan que estos modelos pueden concordar mucho con la clasificación de los expertos, pero los resultados dependen de los datos."
+   ]
+  },
+  {
+   "id": "alanlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Aprendizaje automático",
+   "baslik": "*Áreas* de aplicación",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Clasificación de audiogramas",
+     "metin": "Tipo, grado, configuración",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Umbrales rápidos",
+     "metin": "Con menos estímulos",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Detección de respuestas",
+     "metin": "PEATC y OEA",
+     "cumle": 2
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Imágenes de otoscopia",
+     "metin": "Clasificación de imágenes",
+     "cumle": 3
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Audífonos",
+     "metin": "Reconocimiento de escenas, ajustes",
+     "cumle": 4
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Triaje",
+     "metin": "¿Quién va primero?",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La clasificación de audiogramas busca identificar automáticamente el tipo, el grado y la configuración de una pérdida.",
+    "Algunos métodos buscan estimar los umbrales con menos presentaciones, eligiendo el siguiente estímulo mediante cálculos de probabilidad.",
+    "Se usan algoritmos para detectar si hay respuesta en los registros de potenciales evocados y de otoemisiones acústicas.",
+    "Se investigan modelos que clasifican imágenes de otoscopia según hallazgos como cerumen, efusión o perforación.",
+    "Muchos audífonos usan clasificadores que reconocen si el entorno es habla, ruido o música.",
+    "Priorizar los resultados en los programas de tamizaje es otro uso posible.",
+    "La mayoría de estas áreas aún están en etapa de investigación o de adopción temprana; cada una debe validarse por separado."
+   ]
+  },
+  {
+   "id": "roc",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Aprendizaje automático",
+   "baslik": "¿Cómo se *evalúa* un modelo?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 1,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Tasa de falsos positivos (1 - especificidad)"
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Sensibilidad"
+    },
+    "seriler": [
+     {
+      "ad": "model",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        0.02,
+        0.35
+       ],
+       [
+        0.05,
+        0.55
+       ],
+       [
+        0.1,
+        0.72
+       ],
+       [
+        0.2,
+        0.85
+       ],
+       [
+        0.35,
+        0.93
+       ],
+       [
+        0.6,
+        0.98
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "modelo de ejemplo",
+      "cumle": 1
+     },
+     {
+      "ad": "sans",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "azar",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [],
+    "isaretler": [
+     {
+      "ad": "kesme",
+      "x": 0.1,
+      "y": 0.72,
+      "etiket": "punto de corte",
+      "dus": "xy",
+      "cumle": 4
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "model",
+     "metin": "modelo de ejemplo",
+     "cumle": 1
+    },
+    {
+     "parca": "sans",
+     "metin": "nivel de azar",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kesme",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Un modelo de clasificación se evalúa con medidas que vimos en las lecciones de estadística: la sensibilidad y la especificidad.",
+    "La curva en pantalla es un ejemplo didáctico de cómo cambian la sensibilidad y la tasa de falsos positivos al mover el punto de corte.",
+    "La diagonal punteada es el nivel de azar; cuanto más se acerca la curva a la esquina superior izquierda, mejor discrimina el modelo.",
+    {
+     "yazi": "El área bajo la curva (AUC) resume en un solo número la capacidad global de discriminación del modelo."
+    },
+    "Pero un área alta no basta por sí sola; en la clínica hay que preguntarse cuántos pacientes se pasarán por alto con el punto de corte elegido.",
+    "En un modelo de tamizaje, el costo de un paciente no detectado es alto, por lo que la sensibilidad es prioritaria."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Límites y responsabilidad",
+   "baslik": "Los *límites* del aprendizaje automático",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Sesgo de los datos",
+     "metin": "¿Con qué datos se entrenó?",
+     "cumle": 0
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Generalización",
+     "metin": "¿Funciona en otro centro?",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Explicabilidad",
+     "metin": "¿Por qué esta decisión?",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Sobreajuste",
+     "metin": "Bueno al entrenar, débil en la práctica",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Privacidad",
+     "metin": "Datos de salud protegidos",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Vigencia",
+     "metin": "Las condiciones cambian",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Un modelo funciona bien con pacientes parecidos a los de sus datos de entrenamiento; si falta un grupo de edad o de idioma, puede equivocarse allí.",
+    "Un modelo entrenado con los equipos y el protocolo de un centro puede rendir peor en otro centro.",
+    "Algunos modelos no pueden explicar cómo llegan a una decisión, lo que dificulta que el profesional verifique la sugerencia.",
+    "Un modelo que memoriza sus datos de entrenamiento, es decir, que se sobreajusta, rinde peor de lo esperado con pacientes nuevos.",
+    {
+     "yazi": "Los datos de salud del entrenamiento deben protegerse, en Turquía según la Ley de Protección de Datos Personales (KVKK), y anonimizarse si es posible."
+    },
+    "A medida que cambian los equipos, las poblaciones y la práctica clínica, el rendimiento del modelo puede variar con el tiempo y debe vigilarse."
+   ]
+  },
+  {
+   "id": "sorumluluk",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Límites y responsabilidad",
+   "baslik": "*Responsabilidad* clínica",
+   "adimlar": [
+    {
+     "ikon": "yazilim",
+     "baslik": "Sugerencia",
+     "metin": "El algoritmo sugiere",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Verificación",
+     "metin": "El audiólogo evalúa",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Explicación",
+     "metin": "Se informa al paciente",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Documentación",
+     "metin": "Método y decisión",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Regulación",
+     "metin": "El software también es un dispositivo",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los sistemas de apoyo a la decisión clínica ofrecen sugerencias; no toman la decisión.",
+    "Corresponde al audiólogo ponderar la sugerencia junto con la historia clínica del paciente, el examen y los resultados de otras pruebas.",
+    "Se informa claramente al paciente cómo se obtuvo el resultado, incluido si se usó una prueba automatizada o un algoritmo.",
+    "El informe indica con claridad el método utilizado y la evaluación final del audiólogo.",
+    "El software de uso médico puede estar sujeto a la normativa de dispositivos médicos, por lo que también se evalúa la idoneidad de la herramienta.",
+    "La responsabilidad no puede delegarse en un algoritmo: quien firma responde ante el paciente y por el informe."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Alerta clínica",
+   "metin": "Antes de aprobar un audiograma automatizado, revisa las advertencias de calidad, las falsas alarmas y la nota de otoscopia; si dudas, evalúa manualmente.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la clínica: antes de aprobar un audiograma automatizado, no mires solo los umbrales, sino también las advertencias de calidad.",
+    "Si hay muchas falsas alarmas, se superó el límite de ruido o hay una advertencia de enmascaramiento, no consideres confiable el resultado.",
+    "Compara la nota de otoscopia y la queja del paciente con el audiograma.",
+    "Si tienes dudas, vuelve a evaluar manualmente las frecuencias en cuestión; esos pocos minutos evitan un informe erróneo."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Vía aérea automatizada: confiable si corresponde",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Indicadores de calidad: falsas alarmas, ruido",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Aprendizaje automático: datos, etiquetas, validación",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "El algoritmo sugiere, el audiólogo decide",
+     "cumle": 3,
+     "ikon": "odyolog"
+    }
+   ],
+   "cumleler": [
+    "La audiometría automatizada por vía aérea coincide con los umbrales manuales en pacientes y entornos adecuados; la evidencia es limitada en grupos difíciles.",
+    "Indicadores de calidad como las falsas alarmas, el tiempo de respuesta, la diferencia test-retest y el ruido de fondo muestran la confiabilidad de un resultado.",
+    "Los modelos de aprendizaje automático aprenden de datos etiquetados; siempre hay que cuestionar la validación externa, el sesgo y la explicabilidad.",
+    "El apoyo a la decisión clínica ofrece sugerencias; la evaluación final y la responsabilidad son del audiólogo."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cuál es el paso de validación más importante?",
+   "secenekler": [
+    "Alta exactitud con los datos de entrenamiento",
+    "Probarlo con datos de otro centro",
+    "Más parámetros",
+    "Una computadora más rápida"
+   ],
+   "dogru": 1,
+   "aciklama": "La validación externa muestra que el modelo también funciona _con otros pacientes y equipos_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál es el paso de validación más importante antes de que un modelo de clasificación de audiogramas llegue a la clínica?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: probar el modelo con datos de otro centro, es decir, la validación externa.",
+    "Una alta exactitud con los datos de entrenamiento puede ocultar un sobreajuste; el rendimiento real se ve con datos nuevos e independientes."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Pérdida auditiva oculta y *sinaptopatía*: la evidencia",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la evidencia actual sobre la pérdida auditiva oculta y la sinaptopatía coclear.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,984 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D228_Pharmacology_Basics_ES",
+ "kapak": {
+  "ust": "LECCIÓN 228",
+  "baslik": "Farmacología para<br>*audiólogos*",
+  "alt": "¿Cómo llegan los fármacos al oído?",
+  "cizim": "koklea_kesit",
+  "vurgula": [
+   "stria_vaskularis"
+  ]
+ },
+ "youtube": {
+  "baslik": "Farmacología básica para audiólogos | Lección 228 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo llegan los fármacos al oído interno y por qué son más dañinos para algunas personas? En esta lección vemos la farmacocinética y la farmacodinamia, la vida media, la barrera hematolaberíntica, la importancia de la dosis total, la duración y la función renal, y el concepto de administración intratimpánica. La lección no contiene recomendaciones de fármacos ni de dosis.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Campbell (ed.), Pharmacology and Ototoxicity for Audiologists; Salt y Plontke, Principles of local drug delivery to the inner ear, Audiology and Neurotology (2009); American Academy of Audiology (2009), Position Statement and Clinical Practice Guidelines: Ototoxicity Monitoring.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "farmacologia",
+   "ototoxicidad"
+  ],
+  "etiketler": [
+   "farmacología",
+   "farmacocinética",
+   "farmacodinamia",
+   "barrera hematolaberíntica",
+   "vida media",
+   "intratimpánico",
+   "ototoxicidad",
+   "función renal",
+   "historia farmacológica",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 228",
+   "baslik": "Farmacología para *audiólogos*",
+   "alt": "¿Cómo llegan los fármacos al oído?",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección comenzamos la sección de ototoxicidad y veremos las bases de farmacología que los audiólogos necesitan conocer.",
+    "Veremos la farmacocinética, la barrera hematolaberíntica, el papel de la dosis, la duración y la función renal, y la administración intratimpánica."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos básicos",
+   "baslik": "¿Por qué debe *saberlo* el audiólogo?",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Historia farmacológica",
+     "metin": "Hacer las preguntas correctas",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Plan de monitorización",
+     "metin": "Entender los tiempos",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Comunicación en equipo",
+     "metin": "Un lenguaje común",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El audiólogo no receta fármacos ni decide el tratamiento farmacológico; esas decisiones siempre corresponden al médico.",
+    "Pero saber cómo llega un fármaco al oído es esencial para tomar una historia farmacológica precisa.",
+    "Por ejemplo, un audiólogo que sabe que un fármaco se elimina por los riñones entiende por qué la enfermedad renal exige monitorizar más de cerca.",
+    "Saber que el daño puede continuar después de suspender un fármaco explica cuánto tiempo debe mantenerse la monitorización.",
+    "Hablar el mismo lenguaje que el equipo tratante también ayuda a que los hallazgos se entiendan correctamente.",
+    "Esta lección no contiene recomendaciones de fármacos ni de dosis, solo conceptos básicos."
+   ]
+  },
+  {
+   "id": "kinetik_dinamik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos básicos",
+   "baslik": "Dos *preguntas* básicas",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Farmacocinética",
+     "metin": "¿Qué hace el cuerpo con el fármaco?",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Farmacodinamia",
+     "metin": "¿Qué hace el fármaco en el cuerpo?",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La farmacología se hace dos preguntas básicas.",
+    "La primera es la farmacocinética: ¿qué hace el cuerpo con el fármaco?",
+    "Es decir, ¿cómo se absorbe el fármaco, cómo se distribuye en los tejidos, cómo se transforma y cómo se elimina del cuerpo?",
+    "La segunda es la farmacodinamia: ¿qué hace el fármaco en el cuerpo?",
+    "Es decir, ¿a qué células se une el fármaco y qué efectos y efectos adversos produce?",
+    "La ototoxicidad es un efecto farmacodinámico no deseado que un fármaco ejerce sobre las células del oído interno, junto a su efecto buscado."
+   ]
+  },
+  {
+   "id": "adme",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos básicos",
+   "baslik": "El *recorrido* del fármaco",
+   "adimlar": [
+    {
+     "ikon": "ilac",
+     "baslik": "Absorción",
+     "metin": "Paso a la sangre",
+     "cumle": 0
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Distribución",
+     "metin": "Llegada a los tejidos",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Metabolismo",
+     "metin": "Transformación",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Eliminación",
+     "metin": "Riñón e hígado",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El recorrido de un fármaco por el cuerpo se resume en cuatro etapas: absorción, distribución, metabolismo y eliminación.",
+    "Un fármaco por vía oral pasa primero del tubo digestivo a la sangre; un fármaco por vía intravenosa llega directamente a la sangre.",
+    "Cuánto del fármaco que distribuye la sangre llega al oído interno lo determinan las barreras que veremos en breve.",
+    "Muchos fármacos se transforman en otras sustancias en el hígado.",
+    "Por último, el fármaco o sus productos se eliminan del cuerpo sobre todo por los riñones o por la bilis.",
+    "Los riñones tienen el papel principal en la eliminación de fármacos ototóxicos como los aminoglucósidos y el cisplatino."
+   ]
+  },
+  {
+   "id": "yarilanma",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos básicos",
+   "baslik": "*Vida media*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Tiempo (horas, esquemático)",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 110,
+     "adim": 25,
+     "ad": "Nivel en sangre (%)"
+    },
+    "seriler": [
+     {
+      "ad": "duzey",
+      "noktalar": [
+       [
+        0,
+        100.0
+       ],
+       [
+        1,
+        70.5
+       ],
+       [
+        2,
+        49.7
+       ],
+       [
+        3,
+        35.0
+       ],
+       [
+        4,
+        24.7
+       ],
+       [
+        5,
+        17.4
+       ],
+       [
+        6,
+        12.2
+       ],
+       [
+        8,
+        6.1
+       ],
+       [
+        10,
+        3.0
+       ],
+       [
+        12,
+        1.5
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yari",
+      "x": 1.98,
+      "y": 50,
+      "dus": "xy",
+      "etiket": "vida media",
+      "cumle": 2
+     },
+     {
+      "ad": "ceyrek",
+      "x": 3.96,
+      "y": 25,
+      "dus": "xy",
+      "etiket": "dos vidas medias",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Baja en la misma proporción",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Vida media: el nivel cae a la mitad",
+     "cumle": 2,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "Este gráfico esquemático muestra cómo baja con el tiempo el nivel en sangre de un fármaco tras una sola dosis intravenosa.",
+    "El nivel no baja en la misma cantidad, sino en la misma proporción cada hora, así que la curva se va aplanando.",
+    "El tiempo que tarda el nivel en sangre en bajar a la mitad se llama vida media.",
+    "Tras dos vidas medias el nivel baja a un cuarto; en la práctica, la mayor parte del fármaco se elimina tras cuatro a cinco vidas medias.",
+    "Pero cuando baja el nivel en sangre, el nivel en el oído interno puede no bajar tan rápido; lo veremos en la sección de la barrera.",
+    "Los valores son esquemáticos; cada fármaco tiene una vida media distinta, y esta varía de una persona a otra."
+   ]
+  },
+  {
+   "id": "bariyer",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "La barrera hematolaberíntica",
+   "baslik": "La barrera *hematolaberíntica*",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "stria_vaskularis",
+     "metin": "estría vascular",
+     "cumle": 2
+    },
+    {
+     "parca": "perilenf",
+     "metin": "perilinfa",
+     "cumle": 3
+    },
+    {
+     "parca": "endolenf",
+     "metin": "endolinfa",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 2
+    },
+    {
+     "parca": "perilenf",
+     "cumle": 3
+    },
+    {
+     "parca": "endolenf",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Así como la barrera hematoencefálica protege al cerebro de las sustancias dañinas de la sangre, el oído interno tiene su propia protección.",
+    "Se llama barrera hematolaberíntica.",
+    "La parte más estudiada de la barrera son los capilares de la estría vascular, cuyas células están unidas por uniones estrechas.",
+    "Así, muchas sustancias de la sangre no pasan libremente a la perilinfa y la endolinfa, y se mantiene la composición especial de esos líquidos.",
+    "Pero la barrera no es un muro sólido: algunos fármacos llegan a los líquidos del oído interno, sobre todo si se dan mucho tiempo y en niveles altos.",
+    "La inflamación, los niveles altos de ruido y algunos fármacos pueden aumentar la permeabilidad de la barrera."
+   ]
+  },
+  {
+   "id": "birikim_kulak",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "La barrera hematolaberíntica",
+   "baslik": "Una *larga estadía* en el oído interno",
+   "maddeler": [
+    {
+     "metin": "Entra despacio al oído interno",
+     "cumle": 0,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Puede acumularse en células ciliadas",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Permanece más que en la sangre",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "El daño puede avanzar después",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_kesit",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "dis_tuy_hucreleri",
+      "cumle": 2
+     },
+     {
+      "parca": "ic_tuy_hucresi",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Los fármacos ototóxicos suelen entrar a los líquidos del oído interno más lentamente que a la sangre.",
+    "También salen lentamente del oído interno, así que pueden permanecer allí incluso después de que baje el nivel en sangre.",
+    "Algunos fármacos se acumulan dentro de las células ciliadas; en la próxima lección veremos cómo entran los aminoglucósidos en ellas.",
+    "Se ha demostrado que el cisplatino puede detectarse en el tejido coclear durante meses, e incluso años.",
+    "Por eso la pérdida auditiva puede comenzar o avanzar después de terminado el tratamiento.",
+    "Esta es la razón farmacológica por la que la monitorización no debe detenerse al terminar el tratamiento."
+   ]
+  },
+  {
+   "id": "risk",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Dosis, duración y riñones",
+   "baslik": "Factores que *cambian* el riesgo",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Dosis total",
+     "metin": "Cantidad acumulada",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Duración",
+     "metin": "Larga y repetida",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Función renal",
+     "metin": "Determina la eliminación",
+     "cumle": 2
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Edad",
+     "metin": "Muy jóvenes y muy mayores",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Susceptibilidad genética",
+     "metin": "Algunas variantes",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido",
+     "metin": "Puede aumentar el daño",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Para la mayoría de los fármacos, el riesgo de ototoxicidad aumenta con la dosis total, o acumulada.",
+    "La duración del tratamiento y los ciclos repetidos del mismo fármaco también aumentan el riesgo.",
+    "La función renal determina la rapidez con que el fármaco se elimina del cuerpo, así que es uno de los factores más importantes.",
+    "En los recién nacidos los riñones aún no están maduros, y en los adultos mayores la función renal suele estar reducida.",
+    "Los factores genéticos, como el cambio mitocondrial que causa hipersensibilidad a los aminoglucósidos, también pueden aumentar mucho el riesgo.",
+    "El ruido y el uso combinado con otros fármacos ototóxicos pueden sumarse al daño."
+   ]
+  },
+  {
+   "id": "birikim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Dosis, duración y riñones",
+   "baslik": "Función renal y *acumulación*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 24,
+     "ad": "Tiempo (esquemático)",
+     "isaretler": [
+      0,
+      6,
+      12,
+      18,
+      24
+     ],
+     "yazilar": {
+      "0": "dose 1",
+      "6": "2.",
+      "12": "3.",
+      "18": "4.",
+      "0": "dosis 1",
+      "6": "2.ª",
+      "12": "3.ª",
+      "18": "4.ª"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 140,
+     "adim": 20,
+     "ad": "Nivel en sangre (esquemático)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0,
+        60.0
+       ],
+       [
+        1,
+        38.3
+       ],
+       [
+        2,
+        24.4
+       ],
+       [
+        3,
+        15.6
+       ],
+       [
+        4,
+        9.9
+       ],
+       [
+        5,
+        6.3
+       ],
+       [
+        6,
+        64.0
+       ],
+       [
+        7,
+        40.8
+       ],
+       [
+        8,
+        26.0
+       ],
+       [
+        9,
+        16.6
+       ],
+       [
+        10,
+        10.6
+       ],
+       [
+        11,
+        6.7
+       ],
+       [
+        12,
+        64.3
+       ],
+       [
+        13,
+        41.0
+       ],
+       [
+        14,
+        26.1
+       ],
+       [
+        15,
+        16.7
+       ],
+       [
+        16,
+        10.6
+       ],
+       [
+        17,
+        6.8
+       ],
+       [
+        18,
+        64.3
+       ],
+       [
+        19,
+        41.0
+       ],
+       [
+        20,
+        26.2
+       ],
+       [
+        21,
+        16.7
+       ],
+       [
+        22,
+        10.6
+       ],
+       [
+        23,
+        6.8
+       ],
+       [
+        24,
+        4.3
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "función renal normal",
+      "cumle": 1
+     },
+     {
+      "ad": "azalmis",
+      "noktalar": [
+       [
+        0,
+        60.0
+       ],
+       [
+        1,
+        53.2
+       ],
+       [
+        2,
+        47.2
+       ],
+       [
+        3,
+        41.9
+       ],
+       [
+        4,
+        37.1
+       ],
+       [
+        5,
+        32.9
+       ],
+       [
+        6,
+        89.2
+       ],
+       [
+        7,
+        79.1
+       ],
+       [
+        8,
+        70.2
+       ],
+       [
+        9,
+        62.2
+       ],
+       [
+        10,
+        55.2
+       ],
+       [
+        11,
+        49.0
+       ],
+       [
+        12,
+        103.4
+       ],
+       [
+        13,
+        91.7
+       ],
+       [
+        14,
+        81.4
+       ],
+       [
+        15,
+        72.2
+       ],
+       [
+        16,
+        64.0
+       ],
+       [
+        17,
+        56.8
+       ],
+       [
+        18,
+        110.3
+       ],
+       [
+        19,
+        97.9
+       ],
+       [
+        20,
+        86.8
+       ],
+       [
+        21,
+        77.0
+       ],
+       [
+        22,
+        68.3
+       ],
+       [
+        23,
+        60.6
+       ],
+       [
+        24,
+        53.7
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": true,
+      "etiket": "función renal reducida",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yuksek",
+      "y": [
+       100,
+       140
+      ],
+      "renk": "sari",
+      "etiket": "nivel alto no deseado",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal: sin acumulación",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Reducida: acumulación",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Este gráfico esquemático muestra dosis repetidas del mismo fármaco dadas a intervalos iguales.",
+    "En la curva azul marino, los riñones funcionan con normalidad; la mayor parte del fármaco se ha eliminado antes de cada nueva dosis.",
+    "El nivel en sangre sube y baja con cada dosis, pero no se va acumulando.",
+    "En la curva roja, la función renal está reducida; como el fármaco se elimina lentamente, cada nueva dosis se suma a la anterior.",
+    "El nivel sube de forma constante y puede llegar a niveles altos no deseados, y con él aumenta el riesgo de ototoxicidad.",
+    "Por eso, con función renal reducida, el médico ajusta la dosis y el intervalo, y el audiólogo puede planificar una monitorización más frecuente."
+   ]
+  },
+  {
+   "id": "duzey",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Dosis, duración y riñones",
+   "baslik": "Medir los *niveles* en sangre",
+   "maddeler": [
+    {
+     "metin": "Algunos fármacos: control del nivel en sangre",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Objetivo: nivel eficaz pero seguro",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Nivel normal no garantiza seguridad",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Igual se necesita monitorización audiológica",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "laboratuvar",
+      "baslik": "Nivel en sangre",
+      "metin": "Médico y farmacéutico",
+      "cumle": 0
+     },
+     {
+      "ikon": "odyogram",
+      "baslik": "Monitorización auditiva",
+      "metin": "Audiólogo",
+      "cumle": 4
+     }
+    ],
+    "ust": "DOS TIPOS DE MONITORIZACIÓN"
+   },
+   "cumleler": [
+    "Con algunos antibióticos, como los aminoglucósidos, el nivel del fármaco en sangre se mide con regularidad.",
+    "El objetivo es mantener un nivel eficaz contra la infección, pero no innecesariamente alto.",
+    "Estas mediciones y las decisiones de dosis las manejan el médico y el farmacéutico clínico.",
+    "Pero un nivel en sangre dentro del rango objetivo no garantiza que el oído interno no se vea afectado.",
+    "Por eso la monitorización del nivel en sangre no reemplaza la monitorización audiológica; ambas se complementan."
+   ]
+  },
+  {
+   "id": "intratimpanik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Administración intratimpánica",
+   "baslik": "Directo al *oído medio*",
+   "cizim": "orta_kulak_ic_duvar",
+   "etiketler": [
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "ventana redonda",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "ventana oval",
+     "cumle": 3
+    },
+    {
+     "parca": "ostaki_borusu",
+     "metin": "trompa de Eustaquio",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 3
+    },
+    {
+     "parca": "ostaki_borusu",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En algunos casos, un fármaco no se da por la sangre sino directamente en el oído medio; esto se llama administración intratimpánica.",
+    "El médico inyecta el fármaco en la cavidad del oído medio con una aguja fina que atraviesa la membrana timpánica.",
+    "El fármaco en el oído medio llega a la perilinfa sobre todo atravesando la membrana de la ventana redonda.",
+    "Se cree que también hay cierto paso alrededor de la ventana oval.",
+    "Esta vía puede dar niveles mucho más altos en el oído interno que un fármaco por la sangre, mientras el resto del cuerpo se afecta poco.",
+    "Pero el paso varía entre personas; el grosor de la membrana de la ventana redonda y el drenaje por la trompa de Eustaquio influyen en el resultado."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Administración intratimpánica",
+   "baslik": "Ejemplos de *uso* intratimpánico",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Corticoide",
+     "metin": "En la sordera súbita",
+     "cumle": 0
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Gentamicina",
+     "metin": "Órgano del equilibrio en Ménière",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Nuevos fármacos",
+     "metin": "En fase de investigación",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la sordera súbita, los corticoides intratimpánicos pueden ser una de las opciones, según la evaluación del médico.",
+    "Qué fármaco se usa en cada persona es siempre decisión del médico.",
+    "En la enfermedad de Ménière, la gentamicina, un fármaco ototóxico, puede usarse por vía intratimpánica para controlar las crisis de vértigo.",
+    "Aquí se aprovecha a propósito la capacidad del fármaco de dañar el órgano del equilibrio; también hay un riesgo para la audición.",
+    "También se investiga administrar por esta vía nuevos fármacos que buscan proteger o reparar el oído interno.",
+    "Las pruebas audiológicas y vestibulares antes y después de estos procedimientos dan la información clave para seguir el efecto."
+   ]
+  },
+  {
+   "id": "damla",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Administración intratimpánica",
+   "baslik": "Gotas *óticas*",
+   "maddeler": [
+    {
+     "metin": "Tímpano íntegro: no pasan hacia adentro",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tímpano perforado: pueden pasar",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Las gotas, parte de la historia farmacológica",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_zari_otoskopik",
+    "cumle": 0,
+    "ayar": {
+     "patoloji": {
+      "tur": "perforasyon_santral",
+      "cumle": 1
+     }
+    },
+    "vurgula": [
+     {
+      "parca": "pars_tensa",
+      "cumle": 0
+     },
+     {
+      "parca": "on_alt_kadran",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Una membrana timpánica íntegra impide que las gotas puestas en el conducto auditivo pasen al oído medio.",
+    "Si hay una perforación o un tubo de ventilación, las gotas pueden llegar al oído medio y pasar por la ventana redonda al oído interno.",
+    "Por eso algunas guías insisten en el cuidado al elegir gotas potencialmente ototóxicas en oídos con perforación timpánica.",
+    "Las gotas óticas también forman parte de la historia farmacológica; las personas a menudo no las consideran medicamentos.",
+    "La elección de las gotas es decisión del médico; el papel del audiólogo es tomar una historia completa y compartir los hallazgos."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En la historia farmacológica, pregunta por el nombre del fármaco, el inicio, la duración, los ciclos, las gotas óticas, la enfermedad renal y los antecedentes familiares de pérdida por fármacos.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: una buena historia farmacológica no termina al preguntar el nombre del fármaco.",
+    "Pregunten la fecha de inicio, la duración, cuántos ciclos se dieron y si hubo un tratamiento similar en años anteriores.",
+    "Registren siempre la enfermedad renal, las gotas óticas y cualquier antecedente familiar de pérdida auditiva tras un medicamento.",
+    "Esta información los ayuda a interpretar los hallazgos de la monitorización y a dar información precisa al equipo."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Farmacocinética: absorción, distribución, metabolismo, eliminación",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Barrera hematolaberíntica: vasos de la estría",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Función renal y dosis total definen el riesgo",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Intratimpánica: por ventana redonda a perilinfa",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "La farmacocinética estudia la absorción, la distribución, el metabolismo y la eliminación; la vida media muestra la velocidad de eliminación.",
+    "La barrera hematolaberíntica protege los líquidos del oído interno, pero algunos fármacos pasan al oído interno y pueden permanecer allí mucho tiempo.",
+    "La dosis total, la duración del tratamiento y sobre todo la función renal determinan el riesgo de ototoxicidad.",
+    "En la administración intratimpánica, el fármaco se coloca en el oído medio y pasa sobre todo por la ventana redonda a la perilinfa."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Por dónde llega sobre todo al oído interno un fármaco intratimpánico?",
+   "secenekler": [
+    "Trompa de Eustaquio",
+    "Membrana de la ventana redonda",
+    "Estría vascular",
+    "Conducto auditivo interno"
+   ],
+   "dogru": 1,
+   "aciklama": "Un fármaco colocado en el oído medio pasa sobre todo por la membrana de la ventana redonda a la perilinfa.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿por qué vía llega principalmente al oído interno un fármaco dado por vía intratimpánica?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: la membrana de la ventana redonda.",
+    "El fármaco pasa sobre todo por la membrana de la ventana redonda a la perilinfa; la trompa de Eustaquio puede drenarlo fuera del oído medio."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Fármacos ototóxicos: *aminoglucósidos* y cisplatino",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos los principales fármacos que pueden dañar el oído: los aminoglucósidos, el cisplatino y otros.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

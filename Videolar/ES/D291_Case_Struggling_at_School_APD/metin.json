@@ -1,0 +1,1011 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D291_Case_Struggling_at_School_APD_ES",
+ "kapak": {
+  "ust": "LECCIÓN 291",
+  "baslik": "Caso: dificultades<br>*en la escuela*",
+  "alt": "Audiograma normal, evaluación del TPA",
+  "cizim": "beyin_ustten"
+ },
+ "youtube": {
+  "baslik": "Caso: dificultades escolares con audiograma normal | Lección 291 | AIHEAR Academia de Audiología",
+  "aciklama": "En un caso ficticio evaluamos a un niño de nueve años con dificultades escolares a pesar de un audiograma normal: la audición periférica, los cuestionarios y el tamizaje, las pruebas dicóticas, de patrones, de detección de silencios y de habla de baja redundancia, el criterio de la AAA de 2010, la derivación por condiciones comórbidas y las adecuaciones en el aula.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: American Academy of Audiology, Clinical Practice Guidelines: Diagnosis, Treatment and Management of Children and Adults with Central Auditory Processing Disorder (2010); ASHA, (Central) Auditory Processing Disorders, Technical Report (2005); Musiek y Chermak, Handbook of Central Auditory Processing Disorder; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "procesamientoauditivo",
+   "casoclinico"
+  ],
+  "etiketler": [
+   "trastorno del procesamiento auditivo",
+   "TPA",
+   "dígitos dicóticos",
+   "prueba de patrones de frecuencia",
+   "comorbilidad",
+   "adecuaciones en el aula",
+   "micrófono remoto",
+   "audiograma normal",
+   "niño en edad escolar",
+   "caso clínico de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 291",
+   "baslik": "Caso: dificultades *en la escuela*",
+   "alt": "Audiograma normal, evaluación del procesamiento auditivo",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección evaluamos paso a paso a un niño de nueve años con dificultades escolares, pero con un audiograma normal.",
+    "Veremos el tamizaje y la batería de procesamiento auditivo, la derivación para evaluar atención y lenguaje, y los consejos para el aula."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis",
+   "baslik": "Caso de ejemplo: *anamnesis*",
+   "maddeler": [
+    {
+     "metin": "Niño de ejemplo, nueve años",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Maestra: parece _no escuchar_",
+     "cumle": 1,
+     "ikon": "okul"
+    },
+    {
+     "metin": "En ruido pregunta \"¿qué?\" a menudo",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "En casa, en silencio: pocos problemas",
+     "cumle": 3,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Líquido en el oído frecuente de pequeño",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "okul",
+      "baslik": "En la escuela",
+      "metin": "Pierde indicaciones",
+      "cumle": 1
+     },
+     {
+      "ikon": "gurultu",
+      "baslik": "En ruido",
+      "metin": "Pide repetir a menudo",
+      "cumle": 2
+     },
+     {
+      "ikon": "ev",
+      "baslik": "En casa",
+      "metin": "Bien en silencio",
+      "cumle": 3
+     }
+    ],
+    "ust": "ANAMNESIS"
+   },
+   "cumleler": [
+    "Nuestro caso es totalmente ficticio: un niño de nueve años que cursa la primaria llega por sugerencia de su maestra.",
+    "La maestra cuenta que en clase el niño parece no escuchar y deja las indicaciones a medio hacer.",
+    "En el aula llena y después del recreo pregunta a menudo qué se dijo, y también tiene dificultades al teléfono.",
+    "En casa, en silencio y cara a cara, la familia no nota ningún problema claro.",
+    "De pequeño tuvo líquido en el oído medio con frecuencia, y también empezó a hablar un poco más tarde que sus pares.",
+    "Nunca se le ha hecho una evaluación de la atención ni del lenguaje."
+   ]
+  },
+  {
+   "id": "gozlem",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis",
+   "baslik": "Las *observaciones* de la maestra",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Lectura",
+     "metin": "Lenta, errores de sonidos",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Indicaciones",
+     "metin": "Se pierde con varios pasos",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Atención",
+     "metin": "Se distrae fácilmente",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Trabajo en grupo",
+     "metin": "La situación más difícil",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Según la maestra, el niño lee en voz alta con lentitud y confunde sonidos parecidos.",
+    "Puede seguir indicaciones de un solo paso, pero se pierde con las de varios pasos.",
+    "Se distrae con facilidad, y la dificultad aumenta hacia el final de una clase larga.",
+    "La situación más difícil en clase es el trabajo en grupo, cuando varios grupos hablan al mismo tiempo.",
+    "Estas quejas pueden corresponder a una dificultad de procesamiento auditivo, pero son iguales en las dificultades de atención, lenguaje y aprendizaje."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audición periférica",
+   "baslik": "Tonos puros: ambos oídos *normales*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Vía aérea _derecha_",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Vía aérea _izquierda_",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Vía ósea",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       5,
+       5,
+       10,
+       5,
+       10,
+       10
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       5,
+       5,
+       10,
+       5,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       5,
+       5,
+       5,
+       10
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       5,
+       5,
+       10,
+       5
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "La audición periférica siempre se evalúa antes que las pruebas centrales; los umbrales por vía aérea son de cinco a quince decibeles HL en ambos oídos.",
+    "Los umbrales por vía ósea también son normales y se superponen con los de la vía aérea.",
+    "El umbral de recepción de la palabra es de cinco decibeles HL en ambos oídos, en concordancia con el promedio tonal.",
+    "El porcentaje de reconocimiento de palabras en silencio es del cien por ciento en ambos oídos.",
+    "Un audiograma normal no diagnostica un trastorno del procesamiento auditivo, o TPA; solo muestra que una pérdida periférica no explica las quejas."
+   ]
+  },
+  {
+   "id": "immitans",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audición periférica",
+   "baslik": "Inmitancia y *OEA*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0,
+      "kulak": "sag"
+     },
+     {
+      "tip": "A",
+      "cumle": 0,
+      "kulak": "sol"
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Ambos oídos: _tipo A_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Reflejos y OEA: _presentes_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "En ruido: _limítrofe_",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "Los timpanogramas son tipo A en ambos oídos; la función del oído medio es normal.",
+    "Los reflejos acústicos ipsilaterales y contralaterales están presentes en los niveles esperados.",
+    "Las otoemisiones acústicas, u OEA, están presentes en ambos oídos.",
+    "Los reflejos y las emisiones normales también hacen menos probable un problema periférico o neural oculto, como una neuropatía auditiva.",
+    "Sin embargo, en una prueba de frases en ruido, el resultado es limítrofe respecto de las normas de edad de la prueba."
+   ]
+  },
+  {
+   "id": "tarama",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tamizaje y batería",
+   "baslik": "Tamizaje y *cuestionarios*",
+   "maddeler": [
+    {
+     "metin": "Cuestionario para maestra y padres",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Pruebas de tamizaje breves",
+     "cumle": 1,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "El tamizaje no es un diagnóstico",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Pruebas diagnósticas desde los siete años",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Cuestionario",
+      "metin": "Maestra y padres",
+      "cumle": 0
+     },
+     {
+      "ikon": "tarama",
+      "baslik": "Tamizaje",
+      "metin": "Pruebas breves",
+      "cumle": 1
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Resultado",
+      "metin": "Evaluación detallada",
+      "cumle": 2
+     }
+    ],
+    "ust": "TAMIZAJE"
+   },
+   "cumleler": [
+    "Con una audición periférica normal, la maestra y la familia completan un cuestionario como la Children's Auditory Performance Scale, o CHAPS.",
+    "El cuestionario y las pruebas breves de tamizaje sugieren dificultades para escuchar en ruido y de memoria auditiva.",
+    "Un resultado de tamizaje no es un diagnóstico; solo muestra que hace falta una evaluación detallada.",
+    "Muchas guías recomiendan las pruebas diagnósticas desde los siete años aproximadamente, porque antes los resultados varían; nuestro niño tiene nueve.",
+    "Antes de empezar la batería, se anota lo que se sabe sobre la atención, el lenguaje y la cognición del niño."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tamizaje y batería",
+   "baslik": "La *batería* de pruebas",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Dicótica",
+     "metin": "Dígitos a ambos oídos",
+     "cumle": 0
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Patrones",
+     "metin": "Secuencias agudo-grave",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Detección de silencios",
+     "metin": "Silencios en ruido",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Baja redundancia",
+     "metin": "Habla filtrada",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Habla en ruido",
+     "metin": "Ruido en el mismo oído",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la prueba de dígitos dicóticos se presentan dos dígitos a cada oído al mismo tiempo, y el niño repite los cuatro dígitos que oyó.",
+    "En la prueba de patrones de frecuencia, el niño nombra con palabras secuencias de tres tonos agudos y graves.",
+    {
+     "yazi": "La prueba Gaps-In-Noise, o GIN, mide la detección de cambios breves del sonido en el tiempo."
+    },
+    "La prueba de habla filtrada evalúa la escucha de baja redundancia con palabras a las que se les quitaron los componentes de alta frecuencia.",
+    "Una prueba de habla en ruido completa el perfil.",
+    "Las pruebas usan estímulos grabados, empiezan cuando los ítems de práctica muestran que se entendió la tarea y se hacen de mañana, con el niño descansado."
+   ]
+  },
+  {
+   "id": "sonuc",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tamizaje y batería",
+   "baslik": "*Perfil* de las pruebas",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 7.6,
+     "ad": "Prueba",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "yazilar": {
+      "1": "Dichotic right",
+      "2": "Dichotic left",
+      "3": "Pattern right",
+      "4": "Pattern left",
+      "5": "GIN",
+      "6": "Filtered",
+      "7": "In noise",
+      "1": "Dicótica der.",
+      "2": "Dicótica izq.",
+      "3": "Patrones der.",
+      "4": "Patrones izq.",
+      "5": "GIN",
+      "6": "Filtrada",
+      "7": "En ruido"
+     }
+    },
+    "y": {
+     "min": -4,
+     "max": 1,
+     "adim": 1,
+     "ad": "Respecto de la norma de edad (DE)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        -0.5
+       ],
+       [
+        5,
+        -0.4
+       ],
+       [
+        6,
+        -0.8
+       ],
+       [
+        7,
+        -1.5
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "dentro de la norma",
+      "cumle": 1
+     },
+     {
+      "ad": "dusuk",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        -3.0
+       ],
+       [
+        3,
+        -2.6
+       ],
+       [
+        4,
+        -2.8
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "por debajo de dos DE",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "sinir",
+      "y": [
+       -4,
+       -2
+      ],
+      "renk": "sari",
+      "etiket": "dos desviaciones estándar por debajo",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Dicótica: _oído izquierdo_ bajo",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Patrones: _ambos oídos_ bajos",
+     "cumle": 2,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Atención: _sostenida_",
+     "cumle": 6,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "El gráfico muestra cada resultado como el número de desviaciones estándar respecto de la norma para la edad del niño.",
+    {
+     "yazi": "Las barras azules son resultados dentro de la norma: el oído derecho en dígitos dicóticos, el GIN, el habla filtrada y el habla en ruido."
+    },
+    "Las barras rojas quedan más de dos desviaciones estándar por debajo: el oído izquierdo en dígitos dicóticos y ambos oídos en patrones de frecuencia.",
+    "En las pruebas dicóticas es normal una ventaja del oído derecho, pero aquí la diferencia es mayor de lo que espera la norma para la edad.",
+    "Es frecuente un puntaje bajo en ambos oídos en patrones de frecuencia, porque nombrarlos verbalmente exige que ambos hemisferios trabajen juntos.",
+    "El resultado de habla en ruido es limítrofe y no se considera significativo por sí solo.",
+    "El niño estuvo motivado durante todas las pruebas y mantuvo bien la atención; esta observación también va en el informe."
+   ]
+  },
+  {
+   "id": "olcut",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tamizaje y batería",
+   "baslik": "*Aplicar* el criterio",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Dos pruebas",
+     "metin": "Procesos distintos",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Un oído",
+     "metin": "Al menos uno",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Dos DE",
+     "metin": "O más",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Este niño",
+     "metin": "Dicótica y patrones",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La guía de dos mil diez de la American Academy of Audiology contiene un criterio muy citado.",
+    "Según este criterio, los resultados deben quedar por debajo de la norma en al menos dos pruebas distintas, en al menos un oído.",
+    "Esta diferencia debe ser de dos desviaciones estándar o más por debajo de la norma.",
+    "En nuestro caso, las pruebas de dígitos dicóticos y de patrones de frecuencia cumplen este criterio.",
+    "El criterio respalda un perfil compatible con TPA, pero el diagnóstico se hace con el equipo y el médico tras evaluar las comorbilidades."
+   ]
+  },
+  {
+   "id": "profil",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tamizaje y batería",
+   "baslik": "¿Qué *sugiere* el perfil?",
+   "cizim": "beyin_ustten",
+   "ayar": {
+    "mod": "dikotik",
+    "sozcukler": [
+     "siete",
+     "cuatro"
+    ],
+    "yol_cumleleri": {
+     "capraz_yol_sag": 0,
+     "capraz_yol_sol": 0,
+     "kallozal_yol": 1
+    }
+   },
+   "etiketler": [
+    {
+     "parca": "corpus_callosum",
+     "metin": "Cuerpo calloso",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "corpus_callosum",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Oído izquierdo: _vía callosa_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Patrones: _ambos hemisferios_",
+     "cumle": 2,
+     "ikon": "muzik"
+    }
+   ],
+   "cumleler": [
+    "En una prueba dicótica, la información verbal que entra por el oído izquierdo llega primero al hemisferio derecho.",
+    "Para llegar al hemisferio izquierdo, que es el dominante para el lenguaje, debe cruzar el cuerpo calloso.",
+    "Nombrar con palabras un patrón de frecuencia también requiere transferencia entre los dos hemisferios.",
+    "Así, un oído izquierdo bajo en dígitos dicóticos y puntajes bajos en ambos oídos en patrones plantean la duda de la transferencia interhemisférica.",
+    "Esto es una orientación para la interpretación, no un diagnóstico; el perfil guía la planificación de la intervención."
+   ]
+  },
+  {
+   "id": "es_tani",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Derivación y aula",
+   "baslik": "*Explorar* las condiciones comórbidas",
+   "ogeler": [
+    {
+     "ikon": "dikkat",
+     "baslik": "Atención",
+     "metin": "Psiquiatra infantil",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Lenguaje",
+     "metin": "Fonoaudiólogo",
+     "cumle": 2
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Lectura, aprendizaje",
+     "metin": "Evaluación educativa",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Salud general",
+     "metin": "Pediatra",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El TPA suele presentarse junto con otras condiciones del desarrollo; esto se llama comorbilidad.",
+    {
+     "yazi": "La coexistencia más frecuente es con el trastorno por déficit de atención e hiperactividad, o TDAH."
+    },
+    "El niño se deriva a un psiquiatra infantojuvenil por la atención y a un fonoaudiólogo por el lenguaje.",
+    {
+     "yazi": "Por la dificultad lectora se plantea una evaluación educativa con la escuela y, en Turquía, con el Centro de Orientación e Investigación (RAM)."
+    },
+    "El pediatra también forma parte del proceso, por la salud general y el desarrollo.",
+    "Estas evaluaciones no se hacen para descartar el TPA, sino para ver todas las necesidades del niño."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Alerta clínica",
+   "metin": "No tomen un puntaje bajo como TPA de inmediato. La atención, el cansancio y el lenguaje alteran fácilmente las pruebas centrales.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: las pruebas de procesamiento auditivo son muy sensibles a la atención, la motivación y las habilidades lingüísticas.",
+    "El puntaje bajo de un niño cansado o sin ganas puede reflejar más su estado en ese momento que un problema auditivo.",
+    "Apliquen la batería cuando el niño esté descansado, divídanla en dos sesiones si hace falta y anoten la conducta durante las pruebas.",
+    "Resultados bajos en pruebas con carga lingüística y normales en pruebas con poca carga lingüística sugieren factores de lenguaje y atención."
+   ]
+  },
+  {
+   "id": "sinif",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Derivación y aula",
+   "baslik": "*Adecuaciones* en el aula",
+   "maddeler": [
+    {
+     "metin": "Primera fila, cerca de la maestra",
+     "cumle": 0,
+     "ikon": "okul"
+    },
+    {
+     "metin": "Reducir el ruido del aula",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Prueba de un sistema de micrófono remoto",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Indicaciones escritas y visuales",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Comprobar la comprensión",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "oda_plani",
+    "cumle": 0,
+    "ayar": {
+     "mod": "kritik_mesafe",
+     "kritik_mesafe_m": 1.5,
+     "oda": [
+      9,
+      7
+     ],
+     "halka_cumle": 0
+    },
+    "vurgula": [
+     {
+      "parca": "on_siralar",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "El niño debe sentarse cerca de la maestra, pero lejos de fuentes de ruido como puertas y ventanas.",
+    {
+     "yazi": "Hay que reducir el ruido del aula; la American Speech-Language-Hearing Association recomienda en el aula una SNR de al menos más quince dB."
+    },
+    "Un sistema de micrófono remoto, que envía la voz de la maestra directamente al niño, puede evaluarse con un período de prueba.",
+    "Ayuda escribir también en el pizarrón las indicaciones clave y dividir en partes las indicaciones de varios pasos.",
+    "La maestra puede comprobar la comprensión pidiéndole al niño que repita la indicación con sus propias palabras.",
+    "Estas adecuaciones en el aula se entregan a la maestra como una lista breve por escrito."
+   ]
+  },
+  {
+   "id": "plan",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Derivación y aula",
+   "baslik": "Familia y plan de *seguimiento*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Informar a la familia",
+     "metin": "Claro y concreto",
+     "cumle": 0
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Lista para la maestra",
+     "metin": "De tres a cinco consejos",
+     "cumle": 1
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Prueba del micrófono",
+     "metin": "Beneficio medido",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Entrenamiento auditivo",
+     "metin": "Práctica dirigida",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Seguimiento",
+     "metin": "A los seis meses",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Se explica a la familia que la dificultad del niño quizá no esté en oír, sino en procesar lo que oye en ruido y en el habla rápida.",
+    "La maestra recibe por escrito de tres a cinco consejos concretos que puede aplicar de inmediato.",
+    "La prueba del micrófono remoto se evalúa con cuestionarios para la maestra y los padres antes y después del período de prueba.",
+    "Según el perfil, también puede planificarse un entrenamiento auditivo dirigido a la escucha dicótica.",
+    "Se hace una reevaluación en unos seis meses, junto con los resultados de las evaluaciones de las comorbilidades."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Derivación y aula",
+   "baslik": "Ejemplo de *redacción* del informe",
+   "maddeler": [
+    {
+     "metin": "Audición periférica normal",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Dicótica izquierda y patrones bajos",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Atención sostenida durante las pruebas",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Se recomienda evaluar las comorbilidades",
+     "cumle": 3,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Se adjuntan consejos para el aula",
+     "cumle": 4,
+     "ikon": "okul"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 0.4,
+      "max": 7.6,
+      "ad": "Prueba",
+      "isaretler": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7
+      ],
+      "yazilar": {
+       "1": "Dichotic right",
+       "2": "Dichotic left",
+       "3": "Pattern right",
+       "4": "Pattern left",
+       "5": "GIN",
+       "6": "Filtered",
+       "7": "In noise",
+       "1": "Dicótica der.",
+       "2": "Dicótica izq.",
+       "3": "Patrones der.",
+       "4": "Patrones izq.",
+       "5": "GIN",
+       "6": "Filtrada",
+       "7": "En ruido"
+      }
+     },
+     "y": {
+      "min": -4,
+      "max": 1,
+      "adim": 1,
+      "ad": "Respecto de la norma de edad (DE)"
+     },
+     "seriler": [
+      {
+       "ad": "normal",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         1,
+         -0.5
+        ],
+        [
+         5,
+         -0.4
+        ],
+        [
+         6,
+         -0.8
+        ],
+        [
+         7,
+         -1.5
+        ]
+       ],
+       "renk": "mavi",
+       "etiket": "dentro de la norma",
+       "cumle": 1
+      },
+      {
+       "ad": "dusuk",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         2,
+         -3.0
+        ],
+        [
+         3,
+         -2.6
+        ],
+        [
+         4,
+         -2.8
+        ]
+       ],
+       "renk": "kirmizi",
+       "etiket": "por debajo de dos DE",
+       "cumle": 1
+      }
+     ],
+     "bolgeler": [
+      {
+       "ad": "sinir",
+       "y": [
+        -4,
+        -2
+       ],
+       "renk": "sari",
+       "etiket": "dos desviaciones estándar por debajo",
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Ejemplo de redacción: los umbrales tonales, los hallazgos de inmitancia y las OEA están dentro de los límites normales en ambos oídos.",
+    "Puntajes más de dos desviaciones estándar bajo la norma de edad: oído izquierdo en dígitos dicóticos y ambos oídos en patrones de frecuencia.",
+    {
+     "yazi": "La atención y la colaboración fueron buenas durante todas las pruebas; el GIN y el habla filtrada estuvieron dentro de los límites normales."
+    },
+    "Los hallazgos muestran un perfil compatible con una dificultad de procesamiento auditivo; se recomiendan evaluaciones de atención, lenguaje y educativa.",
+    "Se adjuntan recomendaciones para el aula y una prueba de micrófono remoto."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Primero evaluar por completo la audición periférica",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Batería: procesos distintos, normas de edad",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Comorbilidades exploradas en equipo",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Consejos para el aula: breves y escritos",
+     "cumle": 3,
+     "ikon": "okul"
+    }
+   ],
+   "cumleler": [
+    "En un niño con dificultades escolares, primero se evalúa por completo la audición periférica con tonos puros, habla, inmitancia y OEA.",
+    "La batería de TPA mide procesos distintos; dos desviaciones estándar bajo la norma en dos pruebas, en uno o más oídos, respaldan el diagnóstico.",
+    "Las dificultades de atención, lenguaje y aprendizaje suelen coexistir y las evalúan los especialistas correspondientes; el diagnóstico lo decide el equipo.",
+    "Los consejos para el aula y el micrófono remoto se entregan a la maestra como una lista breve por escrito."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Según la AAA 2010, ¿qué hallazgo respalda un TPA?",
+   "secenekler": [
+    "Puntaje bajo en una prueba",
+    "Dos DE bajo la norma en dos pruebas",
+    "Audiograma normal",
+    "Queja de la maestra"
+   ],
+   "dogru": 1,
+   "aciklama": "Dos desviaciones estándar por debajo en al menos _dos pruebas_, en al menos un oído.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: según el criterio de dos mil diez de la American Academy of Audiology, ¿qué hallazgo respalda un diagnóstico de TPA?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: un rendimiento dos desviaciones estándar por debajo de la norma en al menos dos pruebas, en al menos un oído.",
+    "Un único puntaje bajo se explica fácilmente por la atención o el cansancio, y un audiograma normal por sí solo no diagnostica nada."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Caso: vértigo al levantarse de la cama *(VPPB)*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En el próximo caso examinaremos a un adulto que se marea al levantarse de la cama, y el vértigo posicional paroxístico benigno del canal posterior.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

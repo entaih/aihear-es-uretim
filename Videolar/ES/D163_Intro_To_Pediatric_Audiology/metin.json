@@ -1,0 +1,600 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D163_Intro_To_Pediatric_Audiology_ES",
+ "kapak": {
+  "ust": "LECCIÓN 163",
+  "baslik": "Audiología<br>*pediátrica*",
+  "alt": "Un niño no es un adulto pequeño",
+  "cizim": "vra_odasi"
+ },
+ "youtube": {
+  "baslik": "Introducción a la audiología pediátrica | Lección 163 | AIHEAR Academia de Audiología",
+  "aciklama": "Esta lección presenta los principios básicos de la audiología pediátrica. Vemos las diferencias acústicas del oído del niño, la elección de pruebas según la edad de desarrollo y la edad corregida, la atención centrada en la familia, la historia clínica pediátrica y el principio de verificación cruzada.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Jerger and Hayes, The cross-check principle in pediatric audiometry, Archives of Otolaryngology (1976); ASHA, Guidelines for the Audiologic Assessment of Children From Birth to 5 Years of Age (2004); Moeller et al., Best practices in family-centered early intervention for children who are deaf or hard of hearing, Journal of Deaf Studies and Deaf Education (2013); Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audiologiapediatrica",
+   "audicioninfantil"
+  ],
+  "etiketler": [
+   "audiología pediátrica",
+   "edad de desarrollo",
+   "edad corregida",
+   "atención centrada en la familia",
+   "principio de verificación cruzada",
+   "evaluación auditiva infantil",
+   "audición del bebé",
+   "historia clínica pediátrica",
+   "batería de pruebas",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 163",
+   "baslik": "Introducción a la audiología *pediátrica*",
+   "alt": "Un niño no es un adulto pequeño",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "Con esta lección comenzamos la sección de evaluación pediátrica y conoceremos los principios básicos para evaluar la audición de un niño.",
+    "Veremos la elección de pruebas según la edad de desarrollo, el enfoque centrado en la familia y el principio de verificación cruzada."
+   ]
+  },
+  {
+   "id": "farklar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Los niños son distintos",
+   "baslik": "¿Por qué los niños son *distintos?*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Oído pequeño",
+     "metin": "El mismo sonido genera más presión en el conducto.",
+     "cumle": 1
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Desarrollo",
+     "metin": "Las respuestas al sonido cambian con la edad.",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Atención breve",
+     "metin": "Poca información por sesión.",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Desarrollo del lenguaje",
+     "metin": "La pérdida auditiva afecta el desarrollo del lenguaje.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En audiología pediátrica hay un dicho muy conocido: un niño no es un adulto pequeño.",
+    "El oído de un niño no solo es pequeño, sino también acústicamente distinto, y esa diferencia afecta directamente las mediciones.",
+    "La respuesta del niño al sonido cambia con su nivel de desarrollo: del sobresalto al giro de cabeza, y luego al juego y a la respuesta hablada.",
+    "Su atención dura poco, así que la información que se obtiene en una sesión es limitada y el orden de las pruebas se planifica de antemano.",
+    "Sobre todo, una pérdida auditiva que pasa inadvertida en este período puede afectar el desarrollo del habla y del lenguaje.",
+    "Por eso, el objetivo de la evaluación pediátrica es obtener información confiable de cada oído lo antes posible.",
+    "Veamos ahora cómo influyen estas diferencias en las mediciones y en la elección de pruebas."
+   ]
+  },
+  {
+   "id": "kulak",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Los niños son distintos",
+   "baslik": "Oído pequeño, *gran* diferencia",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "insert": true
+   },
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Conducto auditivo corto y estrecho",
+     "cumle": 0
+    },
+    {
+     "parca": "kopuk_uc",
+     "metin": "Auricular de inserción",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Oído medio: el líquido es frecuente",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Mismo ajuste: presión _más alta_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Menores de 6 meses: timpanometría a _1000 Hz_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "El conducto auditivo del bebé es más corto y estrecho que el del adulto, y su volumen es mucho menor.",
+    "El mismo ajuste del audiómetro produce una presión sonora más alta en un conducto auditivo pequeño que en el de un adulto.",
+    "Esta diferencia se tiene en cuenta, sobre todo al adaptar audífonos, midiendo la diferencia oído real-acoplador (RECD).",
+    "En los primeros meses la pared del conducto es más blanda; por eso, antes de los seis meses se usa timpanometría con tono de sonda de mil hertz.",
+    "En la edad preescolar, el líquido en el oído medio es frecuente y puede causar una pérdida auditiva conductiva transitoria.",
+    "Por eso, en cada evaluación de un niño se examina también por separado el estado del oído medio."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Edad de desarrollo",
+   "baslik": "*Pruebas* según la edad de desarrollo",
+   "adimlar": [
+    {
+     "ikon": "bebek",
+     "baslik": "Lactante",
+     "metin": "0 a 6 meses: BOA, pruebas objetivas",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Niño pequeño",
+     "metin": "6 a 24 meses: VRA",
+     "cumle": 2
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Preescolar",
+     "metin": "2,5 a 5 años: CPA",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Edad escolar",
+     "metin": "Más de 5 años: convencional",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Lo que decide la elección de la prueba no es la edad cronológica del niño, sino su edad de desarrollo.",
+    "En bebés con una edad de desarrollo menor de seis meses, la observación conductual es posible, pero los umbrales se estiman con pruebas objetivas.",
+    "Desde los seis hasta los veinticuatro meses, aproximadamente, se usa la audiometría por refuerzo visual, o VRA.",
+    "Desde los dos años y medio hasta los cinco, el niño se condiciona a responder jugando: es la audiometría por juego condicionado, o CPA.",
+    "A partir de los cinco años, la mayoría de los niños puede evaluarse con audiometría convencional, presionando un botón o levantando la mano.",
+    "Estos límites no son fijos; para un niño con un desarrollo adelantado o retrasado, el método se elige según el niño.",
+    "Las pruebas objetivas, como la timpanometría, las otoemisiones acústicas (OEA) y los potenciales evocados auditivos de tronco cerebral (PEATC), sirven a cualquier edad."
+   ]
+  },
+  {
+   "id": "duzeltilmis",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Edad de desarrollo",
+   "baslik": "Ejemplo: edad *corregida*",
+   "sutunlar": [
+    "Dato",
+    "Valor"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Edad cronológica",
+      "9 meses"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Edad gestacional",
+      "32 semanas"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Prematuridad",
+      "8 semanas, 2 meses"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Edad corregida",
+      "7 meses"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "En los bebés prematuros, el desarrollo se evalúa según la edad corregida.",
+    "Tomemos un bebé puramente de ejemplo cuya edad cronológica es de nueve meses.",
+    "El bebé nació a las treinta y dos semanas, en lugar de las cuarenta esperadas.",
+    "Es decir, nació ocho semanas, o unos dos meses, antes de tiempo.",
+    "La edad corregida de este bebé es de unos siete meses, y la prueba se elige en consecuencia.",
+    "La edad corregida suele tenerse en cuenta hasta alrededor de los dos años.",
+    "Sin esta corrección, las respuestas de un bebé prematuro podrían considerarse por error retrasadas para su edad."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Atención centrada en la familia",
+   "baslik": "Atención centrada en la *familia*",
+   "maddeler": [
+    {
+     "metin": "La familia es _socia en las decisiones_",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Las observaciones de los padres son _valiosas_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Información _clara y comprensible_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Respetar las _prioridades_ de la familia",
+     "cumle": 3,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "_Acompañar_ el proceso emocional",
+     "cumle": 4,
+     "ikon": "odyolog"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "Colaboración",
+      "metin": "Decisiones compartidas",
+      "cumle": 0
+     },
+     {
+      "ikon": "goz",
+      "baslik": "Observación",
+      "metin": "Lo que saben los padres",
+      "cumle": 1
+     },
+     {
+      "ikon": "kalp",
+      "baslik": "Respeto",
+      "metin": "Idioma y cultura",
+      "cumle": 3
+     }
+    ],
+    "ust": "PRINCIPIOS"
+   },
+   "cumleler": [
+    "La atención centrada en la familia no ve a la familia como receptora de información, sino como socia en las decisiones.",
+    "Los padres son quienes mejor conocen al niño; sus observaciones sobre cómo reacciona a los sonidos en casa son muy valiosas.",
+    "Los resultados se explican a la familia con un lenguaje claro y comprensible, sin abrumarla con términos técnicos.",
+    "Se respetan el idioma, la cultura y las prioridades de la familia; se ofrecen opciones y las decisiones se toman en conjunto.",
+    "La posibilidad de una pérdida auditiva puede ser un proceso difícil para la familia; este proceso emocional se acompaña con comprensión.",
+    "Las declaraciones de consenso internacionales también reconocen la colaboración con la familia como un principio básico de la intervención temprana."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Atención centrada en la familia",
+   "baslik": "La *historia clínica* pediátrica",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Embarazo, parto",
+     "metin": "Prematuridad, cuidados intensivos",
+     "cumle": 1
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Antecedentes familiares",
+     "metin": "Pérdida auditiva de inicio infantil",
+     "cumle": 2
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Tamizaje",
+     "metin": "Resultado del tamizaje neonatal",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Desarrollo",
+     "metin": "Hitos del lenguaje y motores",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Oídos",
+     "metin": "Infecciones, supuración",
+     "cumle": 5
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Preocupación",
+     "metin": "Preocupación familiar por la audición",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "La historia clínica pediátrica es una entrevista sistemática que abarca los factores de riesgo y el desarrollo.",
+    "Sobre el embarazo y el parto, pregunten por prematuridad, cuidados intensivos neonatales e infecciones congénitas.",
+    "Averigüen si alguien en la familia tiene una pérdida auditiva que comenzó en la infancia.",
+    "Registren si se hizo el tamizaje auditivo neonatal y cuál fue el resultado.",
+    "Los hitos del habla, del lenguaje y motores se evalúan en comparación con los pares.",
+    "También se pregunta por antecedentes de infecciones de oído frecuentes y de supuración.",
+    "La preocupación de la familia por la audición es, por sí sola, un hallazgo que debe tomarse en serio."
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "La verificación cruzada",
+   "baslik": "El principio de *verificación cruzada*",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Conductuales",
+     "metin": "BOA, VRA, CPA",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Fisiológicas",
+     "metin": "OEA, PEATC y PEAEE",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Inmitancia",
+     "metin": "Timpanometría, reflejo",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El principio de verificación cruzada fue descrito por Jerger y Hayes en 1976."
+    },
+    "Según este principio, el resultado de una sola prueba no se acepta como definitivo hasta que lo confirma otra prueba independiente.",
+    "En los niños, las pruebas conductuales se comparan con pruebas fisiológicas que se basan en mecanismos distintos.",
+    "La timpanometría y el reflejo acústico muestran el estado del oído medio y, de forma indirecta, la vía auditiva.",
+    "Si los resultados coinciden, aumenta la confianza; si no, se investiga la causa y, si hace falta, se repite la prueba.",
+    "Este principio importa sobre todo en los niños, porque sus respuestas conductuales dependen mucho de la atención, el cansancio y el desarrollo.",
+    "La verificación cruzada ayuda a evitar tanto las pérdidas auditivas no detectadas como los diagnósticos innecesarios de pérdida auditiva."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "La verificación cruzada",
+   "baslik": "Ejemplo: hallazgos *contradictorios*",
+   "sutunlar": [
+    "Prueba",
+    "Resultado"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "VRA, campo libre",
+      "20 a 25 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Timpanometría",
+      "Normal en ambos oídos"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "OEA",
+      "OD presentes, OI ausentes"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Siguiente paso",
+      "Auriculares de inserción, PEATC"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Veamos ahora los hallazgos de un niño de dieciocho meses, puramente de ejemplo.",
+    "En la VRA en campo libre, las respuestas rondan los veinte a veinticinco decibeles, lo que parece normal.",
+    "La timpanometría es normal en ambos oídos.",
+    "Sin embargo, las otoemisiones acústicas están presentes en el oído derecho y ausentes en el izquierdo.",
+    "Como las respuestas en campo libre reflejan el oído que mejor oye, una pérdida en el oído izquierdo puede haber quedado oculta.",
+    "La verificación cruzada revela este conflicto; el siguiente paso es evaluar cada oído con auriculares de inserción y, si hace falta, con PEATC."
+   ]
+  },
+  {
+   "id": "ortam",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "La verificación cruzada",
+   "baslik": "*Preparación* de la prueba",
+   "maddeler": [
+    {
+     "metin": "Un entorno _tranquilo_ y amigable para el niño",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Primero, la información _clave_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Dos evaluadores_ si hace falta",
+     "cumle": 2,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "_Cita_ según las siestas",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Varias _sesiones_ son normales",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vra_odasi",
+    "cumle": 2,
+    "etiketler": [
+     {
+      "parca": "test_eden",
+      "metin": "Evaluador",
+      "cumle": 2
+     },
+     {
+      "parca": "dikkat_dagitici",
+      "metin": "Distractor",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "test_eden",
+      "cumle": 2
+     },
+     {
+      "parca": "dikkat_dagitici",
+      "cumle": 2
+     },
+     {
+      "parca": "ebeveyn",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "La sala de pruebas debe ser un entorno tranquilo donde el niño se sienta seguro, sin objetos que lo distraigan.",
+    "Antes de empezar la sesión, decidan qué información es la más importante y planifiquen la prueba según esa prioridad.",
+    "Con niños pequeños, a menudo trabajan dos personas juntas: una realiza la prueba y la otra dirige la atención del niño.",
+    "Para las pruebas objetivas que requieren sueño, la cita se programa según la hora habitual de la siesta del niño.",
+    "No siempre es posible obtener toda la información en una sola sesión; repartir la evaluación en varias sesiones es normal.",
+    "En cada sesión se registran la información obtenida y el grado de colaboración del niño."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Busquen información de cada oído incluso si las respuestas en campo libre son normales. No decidan con una sola prueba; hagan la verificación cruzada.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: no informen que un niño oye normalmente basándose solo en respuestas normales en campo libre.",
+    "Las respuestas en campo libre reflejan el mejor de los dos oídos; así no puede verse una pérdida unilateral.",
+    "Procuren evaluar cada oído con auriculares de inserción y hacer la verificación cruzada con OEA lo antes posible.",
+    "La preocupación de la familia y la historia del desarrollo también son información importante junto con los hallazgos."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "El oído del niño es _acústicamente_ distinto",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Pruebas según la _edad de desarrollo_",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "La familia es _socia_ en las decisiones",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Nunca una sola prueba: _verificación cruzada_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "El conducto auditivo del niño es pequeño y el mismo ajuste produce más presión sonora; esto afecta las mediciones.",
+    "Las pruebas se eligen según la edad de desarrollo, no la cronológica; en los bebés prematuros se usa la edad corregida.",
+    "En la atención centrada en la familia, la familia no solo recibe información: es socia en las decisiones.",
+    "Según el principio de verificación cruzada, los resultados conductuales se confirman con pruebas fisiológicas."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué decide la elección de la prueba pediátrica?",
+   "secenekler": [
+    "La edad cronológica",
+    "La edad de desarrollo",
+    "La preferencia de los padres"
+   ],
+   "dogru": 1,
+   "aciklama": "La prueba se elige según la _edad de desarrollo_ del niño; en los prematuros se usa la edad corregida.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: al elegir un método de prueba conductual para un niño, ¿cuál es el factor decisivo?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: la edad de desarrollo.",
+    "Por ejemplo, para un niño de dos años con retraso del desarrollo, la VRA puede ser más adecuada que la audiometría por juego."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Audiometría por *observación* conductual (BOA) en bebés",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección conoceremos la audiometría por observación conductual, o BOA, que se usa con los bebés más pequeños.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,787 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D220_Hyperacusis_Misophonia_Phonophobia_ES",
+ "kapak": {
+  "ust": "LECCIÓN 220",
+  "baslik": "Hiperacusia,<br>*misofonía*, fonofobia",
+  "alt": "Problemas de tolerancia al sonido",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "Hiperacusia, misofonía y fonofobia | Lección 220 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Por qué algunos sonidos cotidianos resultan insoportables para ciertas personas? En esta lección vemos la hiperacusia, la misofonía y la fonofobia y en qué se diferencian, qué cuidar al medir el nivel de molestia por sonoridad, el papel de la anamnesis y de los cuestionarios, y los principios de manejo basados en la orientación educativa, la terapia sonora gradual y los enfoques psicológicos.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Tyler et al., A review of hyperacusis and future directions: Part I, American Journal of Audiology (2014); Jastreboff and Jastreboff, Components of decreased sound tolerance: hyperacusis, misophonia, phonophobia, ITHS Newsletter (2001); Swedo et al., Consensus definition of misophonia: a Delphi study, Frontiers in Neuroscience (2022); Khalfa et al., Psychometric normalization of a hyperacusis questionnaire, ORL (2002); Erinç and Derinsu, Turkish adaptation of Khalfa hyperacusis questionnaire, Medeniyet Medical Journal (2020); NICE NG155 (2020).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "hiperacusia",
+   "misofonia"
+  ],
+  "etiketler": [
+   "hiperacusia",
+   "misofonía",
+   "fonofobia",
+   "sensibilidad al sonido",
+   "tolerancia reducida al sonido",
+   "nivel de molestia por sonoridad",
+   "umbral de molestia",
+   "cuestionario de hiperacusia de Khalfa",
+   "tinnitus",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 220",
+   "baslik": "Hiperacusia, *misofonía* y fonofobia",
+   "alt": "Cómo distinguir los problemas de tolerancia al sonido",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos tres formas de tolerancia reducida al sonido: la hiperacusia, la misofonía y la fonofobia.",
+    "Veremos cómo distinguirlas, qué cuidar al medir y cuáles son los principios del manejo."
+   ]
+  },
+  {
+   "id": "uc_kavram",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Tres conceptos",
+   "baslik": "*Problemas* de tolerancia al sonido",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Hiperacusia",
+     "metin": "Sonidos comunes demasiado fuertes",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Misofonía",
+     "metin": "Reacción intensa a sonidos específicos",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Fonofobia",
+     "metin": "Miedo a los sonidos",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Algunas personas reaccionan con fuerza a sonidos cotidianos que la mayoría tolera con facilidad.",
+    "Estos cuadros se agrupan como problemas de tolerancia al sonido y a menudo se presentan junto con el tinnitus.",
+    "La hiperacusia es la percepción de sonidos comunes como demasiado fuertes o molestos.",
+    "La misofonía es una reacción emocional intensa y negativa ante sonidos específicos.",
+    "La fonofobia es el miedo a que los sonidos causen daño.",
+    "Las tres pueden superponerse, pero distinguirlas influye directamente en la evaluación y el manejo.",
+    "Como a menudo acompañan al tinnitus, en toda evaluación del tinnitus siempre debe preguntarse por la tolerancia al sonido."
+   ]
+  },
+  {
+   "id": "hiperakuzi",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Tres conceptos",
+   "baslik": "*Hiperacusia*",
+   "maddeler": [
+    {
+     "metin": "Desencadenante: la _sonoridad_ del sonido",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Puertas, platos, tránsito",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "También con audición normal",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Distinta_ del reclutamiento",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "A veces, sensación de dolor",
+     "cumle": 5,
+     "ikon": "agri"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "konusma",
+      "metin": "sonidos cotidianos",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 1
+     },
+     {
+      "parca": "trafik",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "En la hiperacusia, el problema no es el significado de un sonido en particular, sino su sonoridad.",
+    "Sonidos como una puerta que se cierra, el ruido de los platos o el tránsito le resultan a la persona insoportablemente fuertes.",
+    "La molestia crece a medida que crece la sonoridad; el desencadenante no es un sonido específico, sino el nivel sonoro.",
+    "La hiperacusia puede presentarse tanto en personas con audición normal como en personas con pérdida auditiva.",
+    "No debe confundirse con el reclutamiento de la pérdida coclear; en el reclutamiento el umbral sube, pero los niveles de molestia suelen ser normales.",
+    "En algunas personas, los sonidos fuertes no solo son molestos, sino que también se sienten como dolor en el oído.",
+    "Tyler y colaboradores describieron la hiperacusia en cuatro dimensiones: sonoridad, molestia, miedo y dolor."
+   ]
+  },
+  {
+   "id": "iliskili",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Tres conceptos",
+   "baslik": "Cuadros *asociados* a la hiperacusia",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tinnitus",
+     "metin": "La asociación más frecuente",
+     "cumle": 1
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido",
+     "metin": "Tras un trauma acústico",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Parálisis de Bell",
+     "metin": "El estapedio no funciona",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Migraña, traumatismo craneal",
+     "metin": "Sensibilidad al sonido frecuente",
+     "cumle": 4
+    },
+    {
+     "ikon": "vertigo",
+     "baslik": "Dehiscencia del canal",
+     "metin": "Sensibilidad a sonidos corporales",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La hiperacusia a menudo se presenta junto con otro cuadro.",
+    "Su compañero más frecuente es el tinnitus; muchas personas con tinnitus también refieren sensibilidad al sonido.",
+    "También puede aparecer después de la exposición a ruido intenso y tras un trauma acústico.",
+    "En la parálisis de Bell, el músculo estapedio no funciona, por lo que los sonidos fuertes pueden resultar molestos del lado afectado.",
+    "La sensibilidad al sonido también se refiere con frecuencia durante las crisis de migraña y después de un traumatismo craneal.",
+    "En la dehiscencia del canal semicircular superior puede haber una mayor sensibilidad a la propia voz y a los sonidos corporales.",
+    "Por eso, ante una sensibilidad al sonido nueva o unilateral, se considera la derivación al médico para evaluar la causa subyacente."
+   ]
+  },
+  {
+   "id": "misofoni",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Misofonía y fonofobia",
+   "baslik": "*Misofonía*",
+   "maddeler": [
+    {
+     "metin": "Desencadenante: el patrón y el _significado_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Masticar, tragar, respirar",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Enojo, asco, ganas de huir",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Reacción incluso a niveles bajos",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Suele comenzar en la infancia o adolescencia",
+     "cumle": 6,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DEFINICIÓN DE CONSENSO DE 2022",
+    "cumle": 5,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Sonidos específicos",
+      "metin": "y estímulos asociados",
+      "cumle": 5
+     },
+     {
+      "ikon": "dikkat",
+      "baslik": "Tolerancia reducida",
+      "metin": "Independiente de la sonoridad",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "El término misofonía fue propuesto por los Jastreboff en 2001; literalmente significa odio al sonido."
+    },
+    "En la misofonía, la reacción no la desencadena la sonoridad, sino un patrón sonoro específico o el significado que tiene para la persona.",
+    "Los desencadenantes son sobre todo sonidos que hacen otras personas: masticar, tragar, respirar o hacer clic con un bolígrafo.",
+    "La reacción suele ser de enojo, asco y ganas de irse; también puede haber ansiedad.",
+    "Esta reacción puede aparecer incluso cuando el nivel del sonido es bajo.",
+    {
+     "yazi": "Una definición internacional de consenso publicada en 2022 define la misofonía como una tolerancia reducida a sonidos específicos y a estímulos asociados."
+    },
+    "La misofonía suele comenzar en la infancia o la adolescencia y puede afectar las relaciones familiares y la vida escolar."
+   ]
+  },
+  {
+   "id": "fonofobi",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Misofonía y fonofobia",
+   "baslik": "*Fonofobia*",
+   "maddeler": [
+    {
+     "metin": "Miedo a que los sonidos _causen daño_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Evitación y protección constante",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Distinto del uso en la migraña",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Abordar primero la ansiedad",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "sosyal_izolasyon",
+    "cumle": 1,
+    "ayar": {
+     "yalniz_cumle": 1
+    },
+    "vurgula": [
+     {
+      "parca": "yalniz_kisi",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "La fonofobia es el miedo a que los sonidos dañen el oído o empeoren el tinnitus.",
+    "Este miedo puede llevar a la persona a evitar los lugares con sonido y a usar protección auditiva todo el tiempo.",
+    "El término fonofobia también se usa para la sensibilidad al sonido durante una crisis de migraña; estos dos usos no deben confundirse.",
+    "Cuando el miedo está en primer plano, hay que abordar la ansiedad más que la sonoridad en sí.",
+    "En la orientación se explica con información concreta que los sonidos cotidianos no dañan la audición.",
+    "Por ejemplo, explicamos que el habla cotidiana y los sonidos del hogar están muy por debajo de los niveles que pueden causar pérdida auditiva."
+   ]
+  },
+  {
+   "id": "ayirt",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Misofonía y fonofobia",
+   "baslik": "¿*Qué desencadena* la reacción?",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Hiperacusia",
+     "metin": "La sonoridad del sonido",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Misofonía",
+     "metin": "Sonidos específicos",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Fonofobia",
+     "metin": "Daño esperado",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La pregunta más útil para distinguir las tres es qué desencadena la reacción.",
+    "En la hiperacusia, el desencadenante es la sonoridad, y en general molestan los sonidos fuertes.",
+    "En la misofonía, el desencadenante son sonidos específicos; otros sonidos de la misma sonoridad no molestan.",
+    "En la fonofobia, la emoción dominante es el miedo, ligado a la expectativa de que el sonido cause daño.",
+    "Una misma persona puede tener más de uno de estos cuadros, por eso en la evaluación se pregunta por cada uno por separado.",
+    "Si a alguien le molesta la música fuerte en un restaurante, sugiere hiperacusia; si lo enoja cómo mastica un vecino, sugiere misofonía."
+   ]
+  },
+  {
+   "id": "ldl",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Evaluación",
+   "baslik": "Cuidados al *medir el LDL*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 20,
+     "ters": true,
+     "ad": "Nivel (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        4000,
+        10
+       ],
+       [
+        8000,
+        15
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "umbrales normales",
+      "cumle": 2
+     },
+     {
+      "ad": "ldl",
+      "noktalar": [
+       [
+        500,
+        75
+       ],
+       [
+        1000,
+        70
+       ],
+       [
+        2000,
+        70
+       ],
+       [
+        4000,
+        70
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "LDL de ejemplo",
+      "cumle": 2
+     },
+     {
+      "ad": "tipik",
+      "noktalar": [
+       [
+        500,
+        100
+       ],
+       [
+        1000,
+        100
+       ],
+       [
+        2000,
+        100
+       ],
+       [
+        4000,
+        100
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "valor típico",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "dar",
+      "y": [
+       10,
+       70
+      ],
+      "xk": 2000,
+      "etiket": "rango reducido",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Empezar bajo, en pasos pequeños",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Nivel _molesto_, no doloroso",
+     "cumle": 5,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "NICE: no para estudiar el tinnitus",
+     "cumle": 7,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "En la evaluación de la hiperacusia puede medirse el nivel de molestia por sonoridad, o LDL.",
+    "Antes conocimos esta medida como umbral de molestia, o UCL; ambos términos describen la misma medida.",
+    "En este ejemplo, los umbrales son normales, pero el LDL es de 70 a 75 dB HL; en personas con audición normal suele rondar los 100.",
+    "Así, el rango dinámico se reduce sin que haya pérdida auditiva.",
+    "La medición empieza a un nivel bajo, avanza en pasos pequeños, y el paciente puede detenerla en cualquier momento.",
+    "La instrucción es clave: pedimos el nivel que el paciente no querría escuchar por mucho tiempo, no el nivel que le duele.",
+    "En pacientes ansiosos, la prueba con sonidos fuertes puede aumentar el miedo, así que la necesidad de la prueba se decide junto con el paciente.",
+    "La guía NICE no recomienda medir el LDL para estudiar el tinnitus; su uso en la evaluación de la hiperacusia varía entre clínicas."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Evaluación",
+   "baslik": "Anamnesis y *cuestionarios*",
+   "maddeler": [
+    {
+     "metin": "Qué sonido, qué entorno, qué reacción",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Lugares evitados, hábitos de protección",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Cuestionario de Khalfa: 14 ítems",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Síntomas de salud mental",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EN LA ANAMNESIS",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "hoparlor",
+      "baslik": "Sonido",
+      "metin": "¿Fuerte o específico?",
+      "cumle": 1
+     },
+     {
+      "ikon": "kalp",
+      "baslik": "Reacción",
+      "metin": "Molestia, enojo, miedo",
+      "cumle": 1
+     },
+     {
+      "ikon": "ev",
+      "baslik": "Impacto",
+      "metin": "Lugares evitados",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "En los problemas de tolerancia al sonido, la anamnesis y los cuestionarios suelen aportar más información que las mediciones.",
+    "Preguntamos en detalle qué sonidos, en qué entornos, causan qué tipo de reacción.",
+    "También se registran los lugares que la persona evita y sus hábitos de uso de protección auditiva.",
+    {
+     "yazi": "El Cuestionario de Hiperacusia de Khalfa tiene 14 ítems y cuenta con una adaptación turca."
+    },
+    "También se han desarrollado varios cuestionarios para la misofonía, pero todavía no hay un estándar único ampliamente aceptado.",
+    "También se exploran los síntomas de salud mental, y la persona se deriva al especialista adecuado cuando es necesario.",
+    "Las puntuaciones de los cuestionarios también se registran para seguir el cambio durante el manejo."
+   ]
+  },
+  {
+   "id": "yonetim",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Manejo",
+   "baslik": "*Principios* del manejo",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Informar",
+     "metin": "Ganancia y silencio",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Reducir la protección",
+     "metin": "Solo con sonido fuerte",
+     "cumle": 3
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Sonido gradual",
+     "metin": "Desensibilización",
+     "cumle": 4
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Apoyo psicológico",
+     "metin": "Si es necesario",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El manejo de los problemas de tolerancia al sonido también empieza con la orientación basada en la educación.",
+    "Explicamos cómo el sistema auditivo ajusta su ganancia y cómo el silencio puede aumentar la sensibilidad.",
+    "Usar tapones auditivos constantemente fuera de entornos ruidosos alivia a corto plazo, pero puede aumentar la sensibilidad a largo plazo.",
+    "Por eso los protectores se reservan para entornos realmente ruidosos, y su uso se reduce de forma gradual.",
+    "En la terapia sonora, la persona se expone de forma regular y gradual a sonidos de nivel cómodo; esto se llama desensibilización.",
+    "La terapia cognitivo-conductual (TCC) se usa tanto en la hiperacusia como en la misofonía, y la evidencia a su favor está creciendo.",
+    "El manejo de la misofonía se basa sobre todo en enfoques psicológicos y requiere trabajo en equipo.",
+    "Si a una persona con hiperacusia se le adapta un audífono, la salida máxima del dispositivo se ajusta con cautela."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Manejo",
+   "baslik": "*Seguimiento* del cambio",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 6,
+     "adim": 1,
+     "ad": "Mes"
+    },
+    "y": {
+     "min": 60,
+     "max": 100,
+     "adim": 10,
+     "ad": "LDL (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "ldl",
+      "noktalar": [
+       [
+        0,
+        70
+       ],
+       [
+        1,
+        72
+       ],
+       [
+        2,
+        75
+       ],
+       [
+        3,
+        78
+       ],
+       [
+        4,
+        80
+       ],
+       [
+        5,
+        83
+       ],
+       [
+        6,
+        85
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "yumusak": true,
+      "etiket": "LDL de ejemplo",
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "baslangic",
+      "x": 0,
+      "y": 70,
+      "etiket": "basal: 70",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "El cambio tarda de semanas a meses",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Lugares evitados y puntuación del cuestionario",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Importa la mejoría en la vida real",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Este gráfico de ejemplo muestra cómo cambia el LDL a lo largo de los meses durante la terapia sonora gradual.",
+    "El LDL, de 70 dB HL al inicio, sube lentamente a lo largo de seis meses.",
+    "Este cambio concuerda con la idea de que la ganancia del sistema auditivo puede reajustarse.",
+    "Sin embargo, no todas las personas muestran un cambio así, y la mejoría suele tardar de semanas a meses.",
+    "En el seguimiento, además del LDL, también se evalúan la reducción de los lugares evitados y las puntuaciones de los cuestionarios.",
+    "La mejoría en la vida real suele ser más importante que el cambio en un número."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Pregunta al paciente con hiperacusia con qué frecuencia usa tapones auditivos. Reduce su uso con un plan conjunto y mantén la protección en entornos realmente ruidosos.",
+   "cumleler": [
+    "Un consejo clínico: pregunten siempre al paciente con hiperacusia si usa tapones auditivos y con qué frecuencia.",
+    "Una persona que usa tapones incluso en una oficina tranquila o en casa puede estar aumentando su sensibilidad sin querer.",
+    "En lugar de pedirle que los deje de golpe, planifiquen juntos su uso y redúzcanlo gradualmente.",
+    "Recalquen que debe seguir protegiendo sus oídos en entornos realmente ruidosos, como conciertos o el ruido del trabajo."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Hiperacusia: molesta la sonoridad",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Misofonía: reacción emocional a sonidos específicos",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Fonofobia: miedo al daño",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Orientación, sonido gradual, apoyo psicológico",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "En la hiperacusia, los sonidos comunes molestan por su sonoridad, y el LDL suele ser bajo.",
+    "La misofonía es una reacción emocional intensa ante sonidos específicos, y la fonofobia es el miedo a que los sonidos causen daño.",
+    "La medición del LDL empieza a un nivel bajo, usa pasos pequeños y necesita la instrucción correcta.",
+    "El manejo incluye orientación, menor uso de protectores, terapia sonora gradual y apoyo psicológico cuando es necesario."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Enojo al oír masticar, pero ninguna reacción a sonidos igual de fuertes. ¿Qué es?",
+   "secenekler": [
+    "Hiperacusia",
+    "Misofonía",
+    "Fonofobia",
+    "Reclutamiento"
+   ],
+   "dogru": 1,
+   "aciklama": "El desencadenante es _un sonido específico_, no la sonoridad.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: una persona reacciona con enojo a los sonidos de masticación, pero no le molestan otros sonidos igual de fuertes. ¿Qué es?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: misofonía.",
+    "En la misofonía, la reacción no la desencadena la sonoridad, sino un sonido específico y el significado que tiene para la persona."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Introducción a la audiología *ocupacional*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección comenzamos un nuevo módulo con una introducción a la audiología ocupacional y al ruido en el trabajo.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

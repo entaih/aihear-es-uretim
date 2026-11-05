@@ -1,0 +1,675 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D213_Dizziness_Handicap_Inventory_ES",
+ "kapak": {
+  "ust": "LECCIÓN 213",
+  "baslik": "El *DHI* y<br>el autoinforme",
+  "alt": "Cómo afecta el mareo a la vida diaria",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "El DHI y otras escalas de autoinforme del mareo | Lección 213 | AIHEAR Academia de Audiología",
+  "aciklama": "Las pruebas vestibulares miden la función del laberinto, pero no muestran cuánto afecta el mareo a la vida de una persona. En esta lección vemos la estructura, la puntuación y la interpretación del Inventario de Discapacidad por Mareo (DHI), la idea de cambio significativo, la escala de confianza en el equilibrio específica de actividades (ABC) y cómo usar estas escalas en el flujo de trabajo clínico.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Jacobson y Newman, The development of the Dizziness Handicap Inventory, Arch Otolaryngol Head Neck Surg (1990); Whitney et al., Is perception of handicap related to functional performance in persons with vestibular dysfunction?, Otol Neurotol (2004); Powell y Myers, The Activities-specific Balance Confidence (ABC) Scale, J Gerontol (1995); Jacobson y Calder, A screening version of the Dizziness Handicap Inventory (DHI-S), Am J Otol (1998); Lajoie y Gallagher, Predicting falls within the elderly community, Arch Gerontol Geriatr (2004); Karapolat et al., Turkish DHI validity study, J Int Adv Otol (2009); Canbal et al., Turkish DHI validity and reliability study (2016); Karapolat et al., Turkish ABC scale, Int J Rehabil Res (2010); Ayhan et al., Turkish ABC scale, Turkish Journal of Geriatrics (2014); Jacobson y Shepard, Balance Function Assessment and Management.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "vestibular",
+   "mareo"
+  ],
+  "etiketler": [
+   "Inventario de Discapacidad por Mareo",
+   "DHI",
+   "escala ABC",
+   "escala de confianza en el equilibrio",
+   "cuestionarios de autoinforme",
+   "rehabilitación vestibular",
+   "confianza en el equilibrio",
+   "mareo",
+   "resultados informados por el paciente",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 213",
+   "baslik": "Inventario de Discapacidad por Mareo: *DHI*",
+   "alt": "Escalas de autoinforme y su interpretación",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos las escalas de autoinforme que miden cómo afecta el mareo a la vida diaria.",
+    "Revisaremos en detalle la escala más utilizada, el Inventario de Discapacidad por Mareo, y la escala de confianza en el equilibrio específica de actividades."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "DHI",
+   "baslik": "¿Por qué el *autoinforme?*",
+   "maddeler": [
+    {
+     "metin": "Las pruebas miden la función laberíntica",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Mismo hallazgo, impacto _distinto_ en la vida",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "La escala pone el impacto en números",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "No diagnostica; objetivos y seguimiento",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DOS MIRADAS",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "laboratuvar",
+      "baslik": "Prueba",
+      "metin": "Laberinto y reflejos",
+      "cumle": 0
+     },
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Escala",
+      "metin": "Impacto en la vida diaria",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Las pruebas vestibulares miden la función del laberinto y de las vías reflejas, pero no muestran lo que la persona vive en su día a día.",
+    "De dos personas con una paresia calórica parecida, una puede volver al trabajo mientras la otra apenas logra salir de casa.",
+    "Las escalas de autoinforme registran en números el impacto de los síntomas en la vida, desde el punto de vista de la propia persona.",
+    "Estas escalas no hacen un diagnóstico, pero ayudan a planificar el tratamiento, fijar objetivos y hacer el seguimiento.",
+    "También son las herramientas más usadas para mostrar el resultado de la rehabilitación.",
+    "Elijan versiones validadas en el idioma del paciente; en Turquía existen adaptaciones turcas validadas de estas escalas."
+   ]
+  },
+  {
+   "id": "yapi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "DHI",
+   "baslik": "Las *tres subescalas* del DHI",
+   "ogeler": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Física",
+     "metin": "7 ítems, máximo 28",
+     "cumle": 2
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Funcional",
+     "metin": "9 ítems, máximo 36",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Emocional",
+     "metin": "9 ítems, máximo 36",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El Inventario de Discapacidad por Mareo (DHI) fue desarrollado por Jacobson y Newman en 1990."
+    },
+    "La escala tiene 25 ítems, agrupados en tres subescalas.",
+    "La subescala física tiene 7 ítems; por ejemplo, pregunta si mover la cabeza rápido o agacharse empeora los síntomas.",
+    "La subescala funcional tiene 9 ítems sobre el impacto en tareas diarias como el trabajo, las tareas del hogar, las actividades sociales y desplazarse solo.",
+    "La subescala emocional tiene 9 ítems sobre la vergüenza, la ansiedad, el sentirse discapacitado y el impacto en las relaciones.",
+    "La subescala física puntúa hasta 28, y cada una de las otras dos, hasta 36.",
+    "Así, el puntaje total va de 0 a 100."
+   ]
+  },
+  {
+   "id": "puanlama",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "DHI",
+   "baslik": "¿Cómo se *puntúa?*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Sí",
+     "metin": "4 puntos",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "A veces",
+     "metin": "2 puntos",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "No",
+     "metin": "0 puntos",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "En cada ítem, la persona elige una de tres respuestas.",
+    "La respuesta sí vale 4 puntos, a veces vale 2 y no vale 0.",
+    "Los puntos se suman; cuanto más alto es el total, mayor es el impacto del mareo en la vida diaria.",
+    "La persona debe completar la escala por sí misma; el profesional no orienta las respuestas, solo aclara las expresiones que no se entienden.",
+    "A las personas con dificultad para leer o con problemas de visión se les pueden leer los ítems en voz alta, con un tono neutro.",
+    "Como hay pocas opciones de respuesta, la escala se completa rápido; la mayoría de las personas termina en pocos minutos."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Interpretación y seguimiento",
+   "baslik": "*Interpretar* el puntaje",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "yazilar": {
+      "1": "Before",
+      "2": "After",
+      "1": "Antes",
+      "2": "Después"
+     },
+     "isaretler": [
+      1,
+      2
+     ],
+     "ad": "Seguimiento de ejemplo"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Puntaje total del DHI"
+    },
+    "bolgeler": [
+     {
+      "ad": "hafif",
+      "y": [
+       0,
+       30
+      ],
+      "renk": "yesil",
+      "etiket": "leve",
+      "cumle": 0
+     },
+     {
+      "ad": "orta",
+      "y": [
+       30,
+       60
+      ],
+      "renk": "sari",
+      "etiket": "moderada",
+      "cumle": 0
+     },
+     {
+      "ad": "agir",
+      "y": [
+       60,
+       100
+      ],
+      "renk": "kirmizi",
+      "etiket": "grave",
+      "cumle": 0
+     }
+    ],
+    "seriler": [
+     {
+      "ad": "hasta",
+      "noktalar": [
+       [
+        1,
+        58
+       ],
+       [
+        2,
+        34
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kalin": true,
+      "etiket": "paciente de ejemplo",
+      "cumle": 4
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "degisim",
+      "y": [
+       34,
+       58
+      ],
+      "xk": 2.4,
+      "etiket": "24 puntos",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Las categorías orientan, no son definitivas",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Cambio real: unos 18 puntos",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Mirar las subescalas por separado",
+     "cumle": 6,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "En la clasificación de Whitney y colaboradores, de 0 a 30 puntos es discapacidad leve, de 31 a 60 moderada y de 61 a 100 grave.",
+    "Algunas fuentes usan en cambio de 16 a 34 como leve, de 36 a 52 como moderada y 54 o más como grave, así que la clasificación solo orienta.",
+    "En el seguimiento, lo más importante es cómo cambia el puntaje con el tiempo en la misma persona.",
+    "Según los datos de Jacobson y Newman, hace falta una diferencia de unos 18 puntos para que un cambio supere el error de medición.",
+    "En este ejemplo, el puntaje es de 58 antes de la rehabilitación y baja a 34 después.",
+    "Esta caída de veinticuatro puntos indica un cambio que supera el error de medición.",
+    "Los puntajes de las subescalas también se miran por separado; por ejemplo, un puntaje emocional alto puede sugerir que la ansiedad está en primer plano."
+   ]
+  },
+  {
+   "id": "testlerle",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Interpretación y seguimiento",
+   "baslik": "Escala y hallazgos de las *pruebas*",
+   "maddeler": [
+    {
+     "metin": "Relación con las pruebas a menudo _débil_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La paresia calórica no predice la discapacidad",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "_Junto a_ las pruebas, no en su lugar",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "No muestra la causa",
+     "cumle": 3,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "lateral_kanal",
+      "metin": "canal lateral",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En la mayoría de los estudios, la relación entre los puntajes del DHI y los resultados de las pruebas vestibulares es de débil a moderada."
+    },
+    "Por ejemplo, el tamaño de una paresia calórica no predice por sí solo cuánta discapacidad siente la persona.",
+    "Por eso la escala se usa junto a las pruebas, no en su lugar.",
+    {
+     "yazi": "El DHI tampoco muestra la causa; el vértigo posicional paroxístico benigno, la enfermedad de Ménière o la migraña vestibular pueden dar puntajes parecidos."
+    },
+    "Un puntaje alto, sobre todo en la subescala emocional, recuerda que también hay que preguntar por ansiedad y por mareo persistente.",
+    "El resultado se comparte con el paciente, y los objetivos de la rehabilitación se acuerdan en conjunto."
+   ]
+  },
+  {
+   "id": "turkce",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Interpretación y seguimiento",
+   "baslik": "Adaptación turca y *forma breve*",
+   "maddeler": [
+    {
+     "metin": "Estudios turcos de validación publicados",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Alta consistencia interna y sensibilidad al cambio",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "DHI-S: forma de tamizaje de diez ítems",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "La forma de 25 ítems para el seguimiento",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DOS FORMAS",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "DHI",
+      "metin": "25 ítems, seguimiento detallado",
+      "cumle": 4
+     },
+     {
+      "ikon": "kronometre",
+      "baslik": "DHI-S",
+      "metin": "10 ítems, tamizaje rápido",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En Turquía se han publicado una adaptación turca del DHI y estudios de su validez y confiabilidad."
+    },
+    "Un estudio en personas con enfermedad vestibular periférica unilateral halló una alta consistencia interna y buena sensibilidad al cambio.",
+    "El mismo estudio halló una confiabilidad test-retest relativamente baja; estudios turcos de validación posteriores completan esta información.",
+    {
+     "yazi": "El DHI también tiene una versión de tamizaje de diez ítems, conocida como DHI-S."
+    },
+    "La forma breve sirve para un tamizaje rápido; para un seguimiento detallado, se suele preferir la forma de 25 ítems."
+   ]
+  },
+  {
+   "id": "abc",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "La escala ABC",
+   "baslik": "Confianza en el equilibrio: la escala *ABC*",
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "En casa",
+     "metin": "Caminar, alcanzar estantes",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Escaleras",
+     "metin": "Bajar y subir",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Exteriores",
+     "metin": "Multitudes, aceras heladas",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Puntaje",
+     "metin": "De 0 a 100 %",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La escala de confianza en el equilibrio específica de actividades (ABC) fue desarrollada por Powell y Myers en 1995."
+    },
+    "La escala pregunta cuánta confianza tiene la persona en no perder el equilibrio al realizar actividades diarias.",
+    "Hay dieciséis actividades, como caminar por la casa, bajar escaleras, pararse en una silla o alcanzar un estante alto.",
+    "Entre los ítems más difíciles están caminar por un centro comercial concurrido y caminar por una acera con hielo.",
+    "La confianza en cada actividad se califica de 0 a 100 por ciento, y se calcula el promedio.",
+    {
+     "yazi": "A diferencia del DHI, en la ABC un puntaje alto indica un mejor estado y un puntaje bajo, uno peor."
+    },
+    "En adultos mayores, un puntaje ABC menor del 67 por ciento es un punto de corte de uso frecuente asociado al riesgo de caídas.",
+    "La escala también revela las actividades que se evitan por miedo a caer."
+   ]
+  },
+  {
+   "id": "abc_kullanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "La escala ABC",
+   "baslik": "*Uso* de la ABC",
+   "maddeler": [
+    {
+     "metin": "Adaptación turca estudiada",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Poca confianza: _evitación_, desacondicionamiento",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Complementa al DHI",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Leer junto con pruebas de desempeño",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "denge_durus",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "agirlik_merkezi",
+      "metin": "centro de masa",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "salinim",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "La adaptación turca de la escala ABC se ha estudiado tanto en adultos mayores como en personas con enfermedad vestibular periférica unilateral.",
+    "Una baja confianza en el equilibrio puede llevar a la persona a evitar el movimiento y, con el tiempo, al desacondicionamiento.",
+    "Por eso la ABC es útil para ver el miedo a caer y fijar objetivos de rehabilitación.",
+    {
+     "yazi": "Usada junto con el DHI, da un panorama complementario: uno muestra la discapacidad percibida y la otra, la confianza en el equilibrio."
+    },
+    "Los puntajes de las escalas se interpretan junto con pruebas de desempeño como la prueba Timed Up and Go o el Índice Dinámico de la Marcha."
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso en la clínica",
+   "baslik": "Las escalas en el *flujo clínico*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Línea de base",
+     "metin": "Se registra el primer puntaje",
+     "cumle": 1
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Objetivos",
+     "metin": "Áreas de dificultad",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Seguimiento",
+     "metin": "Misma escala, mismas condiciones",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Comparar",
+     "metin": "¿Cambio significativo?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Hay una forma sencilla de incorporar las escalas al flujo de trabajo clínico.",
+    "En la primera evaluación se completa la escala y se registra el puntaje de base.",
+    "Los ítems con puntaje alto muestran las áreas en las que la persona tiene más dificultades y los objetivos de la rehabilitación.",
+    "A intervalos fijos, se vuelve a completar la misma escala de la misma manera.",
+    "Si la diferencia de puntajes supera el error de medición, se interpreta como un cambio significativo.",
+    "Los mismos resultados también sirven para mostrar al paciente su progreso de forma concreta."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso en la clínica",
+   "baslik": "Otras *escalas*",
+   "ogeler": [
+    {
+     "ikon": "vertigo",
+     "baslik": "Escala de síntomas",
+     "metin": "Frecuencia y síntomas de ansiedad",
+     "cumle": 1
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Vida diaria",
+     "metin": "Nivel de independencia",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Escala visual analógica",
+     "metin": "De 0 a 10",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "También existen otras escalas de autoinforme para el mareo.",
+    "La Escala de Síntomas de Vértigo pregunta por la frecuencia de los síntomas y por los síntomas de ansiedad asociados.",
+    "La Escala de Actividades de la Vida Diaria en Trastornos Vestibulares evalúa la independencia en las tareas diarias.",
+    "Para una evaluación rápida también puede usarse una escala visual analógica de 0 a 10.",
+    "La elección de la escala depende de la pregunta clínica y de si la escala está validada en el idioma del paciente.",
+    "Sea cual sea la escala elegida, en el seguimiento siempre debe usarse la misma."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Hagan completar la escala antes de las pruebas vestibulares. Las náuseas y el cansancio posteriores pueden alterar las respuestas; revisen que no quede ningún ítem en blanco.",
+   "cumleler": [
+    "Un consejo clínico: hagan completar la escala antes de las pruebas vestibulares, en la sala de espera.",
+    "Después de las pruebas, el paciente puede tener náuseas y cansancio, lo que puede inclinar las respuestas hacia lo negativo.",
+    "Revisen si algún ítem del formulario quedó en blanco; un ítem faltante hace que el puntaje total parezca más bajo de lo que es.",
+    "En el seguimiento, completar la escala cada vez en condiciones parecidas hace que la comparación sea confiable."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "DHI: 25 ítems, de 0 a 100 puntos",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Sí 4, a veces 2, no 0",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Cambio real: unos 18 puntos",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "ABC: confianza en el equilibrio, alto es mejor",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El DHI tiene 25 ítems agrupados en tres subescalas y se puntúa de 0 a 100."
+    },
+    "En cada ítem, sí vale 4 puntos, a veces 2 y no 0; un puntaje más alto indica un impacto mayor.",
+    "En el seguimiento, hace falta una diferencia de unos 18 puntos para que un cambio supere el error de medición.",
+    "La escala ABC mide la confianza en el equilibrio como porcentaje; aquí un puntaje alto indica un mejor estado."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cuántos puntos vale «a veces» en el DHI?",
+   "secenekler": [
+    "0 puntos",
+    "2 puntos",
+    "4 puntos",
+    "1 punto"
+   ],
+   "dogru": 1,
+   "aciklama": "Sí vale _4_, a veces _2_, no _0_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en el Inventario de Discapacidad por Mareo, ¿cuántos puntos vale la respuesta a veces?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: 2 puntos.",
+    "La respuesta sí vale 4 y la respuesta no vale 0, así que con 25 ítems el puntaje total va de 0 a 100."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "¿Qué es el *tinnitus?* Tipos y mecanismos",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos a un nuevo módulo y veremos qué es el tinnitus, sus tipos y sus mecanismos.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

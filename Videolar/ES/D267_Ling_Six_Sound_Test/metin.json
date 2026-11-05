@@ -1,0 +1,952 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D267_Ling_Six_Sound_Test_ES",
+ "kapak": {
+  "ust": "LECCIÓN 267",
+  "baslik": "Los *seis sonidos* de Ling",
+  "alt": "Control diario de la escucha y los dispositivos",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "Los seis sonidos de Ling y el control diario | Lección 267 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué es la prueba de los seis sonidos de Ling, cómo se aplica correctamente y cómo se interpretan sus resultados? En esta lección vemos los rangos de frecuencia de m, u, a, i, sh y s, la detección y la identificación, el efecto de la distancia y la dirección, la versión Ling 6 (HL) y la rutina diaria de control del audífono y del implante en la familia.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Ling, Speech and the Hearing-Impaired Child: Theory and Practice; Glista y cols., The Ling 6(HL) test: typical pediatric performance data and clinical use evaluation, J Am Acad Audiol (2014); Madell y Hewitt, Ling Madell Hewitt (LMH) test; BATOD, Sound based testing; Tye-Murray, Foundations of Aural Rehabilitation: Children, Adults, and Their Family Members.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "Ling6",
+   "audifonos"
+  ],
+  "etiketler": [
+   "prueba Ling 6",
+   "seis sonidos de Ling",
+   "detección",
+   "identificación",
+   "control diario del audífono",
+   "estetoscopio de escucha",
+   "revisión del audífono",
+   "implante coclear",
+   "niños con pérdida auditiva",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 267",
+   "baslik": "Los seis sonidos de Ling y el control *diario* de los dispositivos",
+   "alt": "Un control rápido de la escucha con m, u, a, i, sh, s",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos la prueba de los seis sonidos de Ling, los rangos de frecuencia de sus sonidos y cómo aplicarla correctamente.",
+    "También recorreremos paso a paso el control del audífono y del implante que la familia hace cada mañana."
+   ]
+  },
+  {
+   "id": "ling",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Seis sonidos",
+   "baslik": "La *prueba* de los seis sonidos de Ling",
+   "maddeler": [
+    {
+     "metin": "Seis sonidos: m, u, a, i, sh, s",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "El rango del habla, de grave a agudo",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sin equipos, en pocos minutos",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Igual todos los días",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Un indicador, _no un audiograma_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Graves",
+      "metin": "m, u",
+      "cumle": 1
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Medios",
+      "metin": "a, i",
+      "cumle": 1
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Agudos",
+      "metin": "sh, s",
+      "cumle": 1
+     }
+    ],
+    "ust": "SEIS SONIDOS"
+   },
+   "cumleler": [
+    {
+     "yazi": "La prueba de los seis sonidos de Ling es un control rápido de la escucha formado por los sonidos m, u, a, i, sh y s.",
+     "ses": "La prueba de los seis sonidos de Ling es un control rápido de la escucha formado por los sonidos eme, u, a, i, she y ese."
+    },
+    "Juntos, estos seis sonidos cubren aproximadamente el rango de frecuencias del habla, de grave a agudo.",
+    {
+     "yazi": "Daniel Ling describió la prueba con cinco sonidos en la década de 1970; la m se añadió después para cubrir las frecuencias graves."
+    },
+    "No se necesita ningún equipo especial; los padres, un docente o un terapeuta pueden aplicarla en pocos minutos.",
+    "Su verdadero valor es que, si se hace igual todos los días, detecta rápidamente un cambio repentino en la escucha del niño.",
+    "Pero la prueba de Ling es un indicador, un control aproximado; no reemplaza la medición de umbrales ni el audiograma."
+   ]
+  },
+  {
+   "id": "harita",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Seis sonidos",
+   "baslik": "El *mapa de frecuencias* de los seis sonidos",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 7,
+     "yazilar": {
+      "1": "s",
+      "2": "sh",
+      "3": "ee",
+      "4": "ah",
+      "5": "oo",
+      "6": "m",
+      "1": "s",
+      "2": "sh",
+      "3": "i",
+      "4": "a",
+      "5": "u",
+      "6": "m"
+     },
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "ad": "Sonido"
+    },
+    "seriler": [
+     {
+      "ad": "m",
+      "noktalar": [
+       [
+        250,
+        6
+       ],
+       [
+        350,
+        6
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": true,
+      "cumle": 1
+     },
+     {
+      "ad": "u1",
+      "noktalar": [
+       [
+        250,
+        5
+       ],
+       [
+        400,
+        5
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": true,
+      "cumle": 2
+     },
+     {
+      "ad": "u2",
+      "noktalar": [
+       [
+        700,
+        5
+       ],
+       [
+        1000,
+        5
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": true,
+      "cumle": 2
+     },
+     {
+      "ad": "a",
+      "noktalar": [
+       [
+        700,
+        4
+       ],
+       [
+        1300,
+        4
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "cumle": 3
+     },
+     {
+      "ad": "i1",
+      "noktalar": [
+       [
+        250,
+        3
+       ],
+       [
+        400,
+        3
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "cumle": 4
+     },
+     {
+      "ad": "i2",
+      "noktalar": [
+       [
+        2300,
+        3
+       ],
+       [
+        2900,
+        3
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "cumle": 4
+     },
+     {
+      "ad": "sh",
+      "noktalar": [
+       [
+        2000,
+        2
+       ],
+       [
+        4000,
+        2
+       ]
+      ],
+      "renk": "turuncu",
+      "kalin": true,
+      "cumle": 5
+     },
+     {
+      "ad": "s",
+      "noktalar": [
+       [
+        4000,
+        1
+       ],
+       [
+        8000,
+        1
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": true,
+      "cumle": 5
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "f2",
+      "x": [
+       2000,
+       3000
+      ],
+      "renk": "sari",
+      "etiket": "i: 2.º formante",
+      "cumle": 6
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Rangos aproximados",
+     "cumle": 0,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "i: graves y agudos a la vez",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "s: la más aguda y débil",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "El gráfico muestra las regiones de frecuencia aproximadas donde se concentra la energía de cada sonido; las fuentes dan rangos algo distintos.",
+    "La energía de la m está sobre todo en las frecuencias graves, alrededor de 250 a 350 hertz.",
+    "Los dos formantes de la vocal u están en la región grave: unos 300 hertz y algo menos de mil hertz.",
+    "La energía de la vocal a se concentra en las frecuencias medias, entre unos 700 y 1300 hertz.",
+    "La vocal i es interesante: su primer formante es grave, mientras que el segundo es agudo, entre unos 2300 y 2900 hertz.",
+    {
+     "yazi": "La sh tiene energía entre unos 2 y 4 kilohertz, y la s más arriba, en unos 4 kilohertz o más.",
+     "ses": "La she tiene energía entre unos 2 y 4 kilohertz, y la ese más arriba, en unos 4 kilohertz o más."
+    },
+    "Así, un niño que distingue la i de la u tiene acceso a la región del segundo formante, alrededor de 2 kilohertz."
+   ]
+  },
+  {
+   "id": "muz",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Seis sonidos",
+   "baslik": "*Dentro* de la banana del habla",
+   "cizim": "konusma_muzu",
+   "ayar": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       35,
+       55,
+       75,
+       85
+      ],
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "unluler",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vocales fuertes, sh y s débiles",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ejemplo: la s puede perderse",
+     "cumle": 2,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Los seis sonidos caen en distintos lugares de la banana del habla; las vocales son fuertes, mientras que la sh y la s son más débiles y agudas.",
+     "ses": "Los seis sonidos caen en distintos lugares de la banana del habla; las vocales son fuertes, mientras que la she y la ese son más débiles y agudas."
+    },
+    "En este audiograma de ejemplo, las frecuencias graves están conservadas y hay una pérdida en agudos con caída abrupta.",
+    "Sin dispositivo, o con uno mal adaptado, este niño puede detectar la m, la u y la a, pero perder la s.",
+    "Si en la prueba de Ling falta de forma constante la respuesta a la s, conviene revisar la audibilidad en las frecuencias agudas."
+   ]
+  },
+  {
+   "id": "fark_tanima",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Aplicación",
+   "baslik": "Detección e *identificación*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Detección",
+     "metin": "¿Hay un sonido?",
+     "cumle": 0
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Respuesta",
+     "metin": "Soltar un bloque, levantar la mano",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Identificación",
+     "metin": "¿Qué sonido?",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Respuesta",
+     "metin": "Repetirlo, señalar una imagen",
+     "cumle": 3
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "En lactantes",
+     "metin": "Cambio de conducta",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La prueba de Ling puede hacerse en dos niveles; el primero es la detección: el niño solo indica que oyó un sonido.",
+    "En la detección, el niño suelta un bloque en una caja o levanta la mano al oír el sonido, con el mismo condicionamiento que la audiometría por juego.",
+    "El segundo nivel es la identificación: el niño indica qué sonido oyó.",
+    "En la identificación, el niño repite el sonido o señala la imagen correcta para cada uno; por ejemplo, una serpiente para la s.",
+    "En lactantes pequeños se observan cambios de conducta, como dejar de succionar, abrir los ojos o girar hacia el sonido.",
+    "El nivel se elige según la edad y el desarrollo del lenguaje del niño."
+   ]
+  },
+  {
+   "id": "uygula",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Aplicación",
+   "baslik": "Aplicar la prueba *correctamente*",
+   "adimlar": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Sala silenciosa",
+     "metin": "Dispositivo encendido y puesto",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Boca oculta",
+     "metin": "Sin lectura labiofacial",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Nivel normal",
+     "metin": "Misma duración, sin exagerar",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Orden aleatorio",
+     "metin": "Ensayos en silencio intercalados",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registrar",
+     "metin": "Sonido, distancia, respuesta",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La prueba se hace en una sala silenciosa, con el audífono o el implante encendido y puesto.",
+    "Quien aplica la prueba oculta su boca; si el niño ve los labios, el resultado refleja la lectura labiofacial, no la audición.",
+    "Los sonidos se dicen a un nivel de conversación normal y con una duración similar; gritar o susurrar arruina el resultado.",
+    "Los sonidos se presentan cada vez en orden aleatorio, con ensayos en silencio intercalados, para que el niño no pueda adivinar.",
+    "En una tabla breve se registra qué sonido, a qué distancia y con qué respuesta.",
+    "Para ocultar la boca, no pongan la mano justo delante, porque puede distorsionar el sonido; es mejor que el niño mire un juguete."
+   ]
+  },
+  {
+   "id": "mesafe",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Aplicación",
+   "baslik": "Distancia y *dirección*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 4,
+     "log": true,
+     "ad": "Distancia (m)",
+     "isaretler": [
+      0.5,
+      1,
+      2,
+      4
+     ],
+     "ond": 1
+    },
+    "y": {
+     "min": 40,
+     "max": 75,
+     "adim": 10,
+     "ad": "Nivel sonoro (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "duzey",
+      "noktalar": [
+       [
+        0.5,
+        71
+       ],
+       [
+        1,
+        65
+       ],
+       [
+        2,
+        59
+       ],
+       [
+        4,
+        53
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "habla de ejemplo",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       59,
+       65
+      ],
+      "xk": 1.4,
+      "etiket": "6 dB",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Ejemplo: 1, 2 y 4 metros",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Doble distancia: unos 6 dB menos",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cada oído, luego ambos",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "La prueba puede hacerse no solo de cerca, sino también desde distintas distancias; algunas fuentes sugieren 1, 2 y 4 metros.",
+    "En campo libre, cada vez que la distancia se duplica, el nivel sonoro baja unos 6 decibeles.",
+    "Así, una s que se oye de cerca puede no oírse a 4 metros; de esta forma se sigue la distancia de escucha del niño.",
+    "Presentar los sonidos desde adelante, desde un lado y desde atrás también informa; muchos dispositivos se ajustan para reducir el sonido que llega por detrás.",
+    "Si es posible, se prueba cada oído o dispositivo por separado y luego juntos; si se usa un micrófono remoto, también se revisa.",
+    "En las salas reales, las reflexiones cambian la forma en que baja el nivel; el gráfico es un cálculo de ejemplo para campo libre."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Aplicación",
+   "baslik": "*Interpretar* el resultado",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Todo correcto",
+     "metin": "Igual que ayer",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Se pierde la s",
+     "metin": "Audibilidad en agudos",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Cambio repentino",
+     "metin": "Dispositivo u oído",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Confunde i y u",
+     "metin": "Acceso a 2 kHz",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Ante la duda",
+     "metin": "Consultar al audiólogo",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Lo principal es comparar con los resultados previos del propio niño; si las respuestas coinciden con las de ayer, el dispositivo probablemente funciona.",
+    "Si la s se pierde de forma constante, la audibilidad en agudos puede ser insuficiente; esto se informa al audiólogo.",
+    "Los sonidos que ayer se oían y hoy no son un cambio repentino: se revisa la pila, una falla del dispositivo o un problema de oído medio.",
+    "Confundir la i con la u sugiere que el acceso a la región del segundo formante puede ser insuficiente.",
+    "La prueba de Ling es un indicador aproximado; ante la duda, consulten al audiólogo para una evaluación detallada.",
+    "Un niño cansado, enfermo o sin ganas también puede responder distinto, por eso el resultado de un solo día nunca se interpreta de forma aislada."
+   ]
+  },
+  {
+   "id": "genisleme",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Aplicación",
+   "baslik": "Versiones medidas y *ampliadas*",
+   "ogeler": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Ling 6 (HL)",
+     "metin": "Sonidos grabados y calibrados",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Medición de umbral",
+     "metin": "En decibeles",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Sonidos adicionales",
+     "metin": "Para frecuencias medias",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Normas locales",
+     "metin": "Se necesitan aparte",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Existe una versión grabada de los sonidos de Ling calibrada en dB HL: la prueba Ling 6 (HL)."
+    },
+    "Con esta versión se mide un umbral de detección con dispositivo para cada sonido; los estudios informan resultados fiables en niños de 3 a 18 años.",
+    "Algunos clínicos usan conjuntos ampliados que añaden consonantes del inglés como z, h, n y j, para ver también las frecuencias medias.",
+    "En Turquía, usar las versiones grabadas con niños de habla turca requiere además grabaciones y datos normativos en turco."
+   ]
+  },
+  {
+   "id": "rutin",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Control diario",
+   "baslik": "La *rutina de control* matutina",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Mirar",
+     "metin": "Grietas, suciedad, humedad",
+     "cumle": 0
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Energía",
+     "metin": "Pila o carga",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Escuchar",
+     "metin": "Estetoscopio de escucha",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Ling",
+     "metin": "Seis sonidos de cerca",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registrar",
+     "metin": "Registro diario",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La rutina matutina de la familia empieza con un control visual: ¿hay grietas en el dispositivo, cerumen en el molde o humedad en el tubo?",
+    "En el segundo paso, se cambia la pila o se revisa el nivel de carga.",
+    "En el tercer paso, el padre o la madre escucha el dispositivo con un estetoscopio de escucha; el sonido debe ser claro, estable y sin chasquidos.",
+    "En el cuarto paso, se coloca el dispositivo al niño y se prueban los sonidos de Ling de cerca.",
+    "En el último paso, el resultado se anota en un breve registro diario; esta rutina de pocos minutos detecta los problemas a tiempo."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Control diario",
+   "baslik": "Qué *revisar* en un audífono",
+   "cizim": "isitme_cihazi",
+   "ayar": {
+    "tip": "BTE"
+   },
+   "etiketler": [
+    {
+     "parca": "mikrofon",
+     "metin": "entradas del micrófono",
+     "cumle": 1
+    },
+    {
+     "parca": "pil",
+     "metin": "pila",
+     "cumle": 2
+    },
+    {
+     "parca": "kalip",
+     "metin": "molde y tubo",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "mikrofon",
+     "cumle": 1
+    },
+    {
+     "parca": "pil",
+     "cumle": 2
+    },
+    {
+     "parca": "kalip",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Veamos los puntos que hay que revisar en el audífono retroauricular, el tipo que más usan los niños.",
+    "Las entradas del micrófono deben estar libres de suciedad y polvo; un micrófono obstruido debilita el sonido.",
+    "El compartimento de la pila debe estar limpio y la tapa debe cerrar por completo.",
+    "El conducto sonoro del molde no debe estar obstruido por cerumen, y el tubo no debe estar rígido ni tener gotas de agua.",
+    "Si hay silbido una vez colocado el dispositivo en el oído, se revisa el ajuste o el tamaño del molde.",
+    "Si hay una grieta en el molde, o enrojecimiento o secreción en el oído, se contacta al audiólogo y, si hace falta, a un médico."
+   ]
+  },
+  {
+   "id": "implant",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Control diario",
+   "baslik": "*Control diario* del implante",
+   "cizim": "koklear_implant",
+   "etiketler": [
+    {
+     "parca": "dis_islemci",
+     "metin": "procesador: energía, indicador",
+     "cumle": 1
+    },
+    {
+     "parca": "verici_bobin",
+     "metin": "bobina y cable",
+     "cumle": 2
+    },
+    {
+     "parca": "alici_uyarici",
+     "metin": "parte interna bajo la piel",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_islemci",
+     "cumle": 1
+    },
+    {
+     "parca": "verici_bobin",
+     "cumle": 2
+    },
+    {
+     "parca": "alici_uyarici",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En el implante coclear, el control diario se centra en las partes externas; las partes internas solo las puede medir el audiólogo.",
+    "Se revisa la carga o la pila del procesador externo; muchos procesadores tienen una luz de estado o una aplicación.",
+    "El cable de la bobina transmisora no debe estar roto ni flojo, y la bobina debe mantenerse en su lugar en la cabeza gracias al imán.",
+    "Si hay enrojecimiento o una marca de presión en la piel bajo la bobina, consulten al audiólogo sobre la fuerza del imán.",
+    "Luego se comprueba la escucha con los sonidos de Ling; un cambio repentino puede ser el primer signo de una falla del procesador o del cable."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Control diario",
+   "baslik": "Cuándo *avisar de un problema*",
+   "maddeler": [
+    {
+     "metin": "_No oír_ un sonido que ayer oía",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "El sonido se corta",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Enrojecimiento de la piel, secreción",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "El niño _rechaza_ el dispositivo",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "rapor",
+      "baslik": "Registro diario",
+      "metin": "Se marca cada mañana",
+      "cumle": 0
+     },
+     {
+      "ikon": "telefon",
+      "baslik": "Contacto",
+      "metin": "Número del audiólogo a mano",
+      "cumle": 0
+     }
+    ],
+    "ust": "FAMILIA"
+   },
+   "cumleler": [
+    "Si el niño hoy no responde a un sonido que ayer oía, y una pila nueva no lo soluciona, se contacta al audiólogo.",
+    "Un sonido que se corta, o los chasquidos, sugieren una falla del dispositivo, del cable o de la bobina.",
+    "El enrojecimiento, la secreción o el dolor en el oído o bajo la bobina requieren una evaluación médica.",
+    "Que un niño a quien le gustaba el dispositivo de pronto quiera quitárselo también puede ser señal de un problema."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Prueba los sonidos de Ling cada día con la misma persona, distancia y sala; anota el resultado en un registro. Un cambio dice más que cualquier resultado aislado.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: en la medida de lo posible, hagan la prueba de Ling cada día con la misma persona, a la misma distancia y en la misma sala.",
+    "Así, un cambio en el resultado se debe a la escucha del niño y no a las condiciones de la prueba.",
+    "Den a la familia una hoja de registro sencilla para marcar cada sonido, distancia y respuesta, y revísenla juntos en los controles.",
+    "A veces esta hoja de registro muestra una falla del dispositivo o un problema de oído medio antes que el audiograma."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "m, u, a, i, sh, s: todo el rango",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Boca oculta, orden aleatorio, ensayos en silencio",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Detección e identificación, distintas distancias",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Cada mañana: mirar, energía, escuchar, Ling",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La prueba de los seis sonidos de Ling controla de forma aproximada el rango del habla, de grave a agudo, con los sonidos m, u, a, i, sh y s.",
+     "ses": "La prueba de los seis sonidos de Ling controla de forma aproximada el rango del habla, de grave a agudo, con los sonidos eme, u, a, i, she y ese."
+    },
+    "La prueba se hace con la boca oculta, a un nivel de conversación normal, en orden aleatorio y con ensayos en silencio.",
+    "Puede aplicarse en los niveles de detección e identificación, desde distintas distancias y direcciones; su verdadero valor es la repetición diaria.",
+    "El control diario del dispositivo consiste en mirar, revisar la energía, escuchar, probar los sonidos de Ling y registrar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Por qué importa la s en la prueba de Ling?",
+   "secenekler": [
+    "Es el sonido más grave",
+    "Es el más agudo y débil",
+    "Es una vocal",
+    "Es la más visible en los labios"
+   ],
+   "dogru": 1,
+   "aciklama": "De los seis sonidos, la s tiene la energía _más aguda_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿por qué es importante que falte la respuesta a la s en la prueba de los seis sonidos de Ling?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: la s es el sonido más agudo y más débil de los seis.",
+    "Si la s se pierde de forma constante, conviene revisar la audibilidad en las frecuencias agudas."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Rehabilitación auditiva en *niños* con implante coclear",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la rehabilitación auditiva y las escalas de progreso en niños con implante coclear.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

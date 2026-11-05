@@ -1,0 +1,805 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D195_Measuring_Outcomes_ES",
+ "kapak": {
+  "ust": "LECCIÓN 195",
+  "baslik": "Medición<br>*de resultados*",
+  "alt": "APHAB, IOI-HA y SSQ",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  }
+ },
+ "youtube": {
+  "baslik": "Medición de resultados: APHAB, IOI-HA y SSQ | Lección 195 | AIHEAR Academia de Audiología",
+  "aciklama": "¿El audífono realmente ayuda en la vida diaria de la persona? En esta lección vemos la diferencia entre verificación y validación, las cuatro subescalas del APHAB y su puntuación, los siete ítems del IOI-HA, las secciones de habla, audición espacial y cualidades del SSQ, y cómo elegir cuestionarios en la clínica.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Cox y Alexander (1995), The Abbreviated Profile of Hearing Aid Benefit, Ear and Hearing; Cox y cols. (2000), Optimal outcome measures, research priorities, and international cooperation, Ear and Hearing; Cox, Alexander y Beyer (2003), Norms for the International Outcome Inventory for Hearing Aids, Journal of the American Academy of Audiology; Gatehouse y Noble (2004), The Speech, Spatial and Qualities of Hearing Scale, International Journal of Audiology; Şerbetçioğlu y cols. (2009), Journal of International Advanced Otology; Kılıç y cols. (2021), Turkish Archives of Otorhinolaryngology; Çıldır y cols. (2021), ENT Updates; Dillon, Hearing Aids.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "APHAB"
+  ],
+  "etiketler": [
+   "APHAB",
+   "IOI-HA",
+   "SSQ",
+   "cuestionario de autoevaluación",
+   "beneficio del audífono",
+   "resultados con audífonos",
+   "verificación",
+   "validación",
+   "COSI",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 195",
+   "baslik": "Medición *de resultados*",
+   "alt": "APHAB, IOI-HA y SSQ",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo medimos cuánto ayuda un audífono en la vida diaria de la persona.",
+    "Veremos la lógica de los cuestionarios de autoevaluación, los tres más utilizados y cómo se interpretan en la clínica."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué la autoevaluación?",
+   "baslik": "¿No basta con *medir?*",
+   "maddeler": [
+    {
+     "metin": "Verificación: ¿el audífono alcanzó el objetivo?",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Validación: ¿cambió la vida de la persona?",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "La persona conoce su vida diaria",
+     "cumle": 3,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Preguntas estándar y comparables",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DOS PREGUNTAS",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "grafik",
+      "baslik": "Verificación",
+      "cumle": 0,
+      "metin": "¿Coincide con el objetivo?"
+     },
+     {
+      "ikon": "hasta",
+      "baslik": "Validación",
+      "cumle": 1,
+      "metin": "¿Cambió la vida?"
+     }
+    ]
+   },
+   "cumleler": [
+    "La medición en oído real muestra si el audífono alcanza el objetivo prescriptivo; esto se llama verificación.",
+    "Pero la verdadera pregunta es si el audífono cambia la vida diaria de la persona; esto se llama validación.",
+    "Incluso un audífono que coincide exactamente con el objetivo puede no dar el beneficio esperado en los entornos que le importan a la persona.",
+    "La persona es quien mejor sabe qué ocurre en un restaurante, en una reunión o en casa.",
+    "Los cuestionarios de autoevaluación convierten esta experiencia en números mediante preguntas estándar y permiten compararla en el tiempo.",
+    "Por eso, la buena práctica incluye tanto la verificación como la validación."
+   ]
+  },
+  {
+   "id": "alanlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué la autoevaluación?",
+   "baslik": "Las *cinco caras* del éxito",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Uso",
+     "cumle": 1,
+     "metin": "¿Cuántas horas al día?"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Beneficio",
+     "cumle": 2,
+     "metin": "Diferencia respecto de sin audífono"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Dificultad residual",
+     "cumle": 3,
+     "metin": "Lo que aún cuesta"
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Satisfacción",
+     "cumle": 4,
+     "metin": "¿Valió la pena?"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Calidad de vida",
+     "cumle": 5,
+     "metin": "Participación y disfrute"
+    }
+   ],
+   "cumleler": [
+    "No existe una medida única del éxito con audífonos; cada cuestionario mira ámbitos distintos.",
+    "El uso muestra cuánto se lleva realmente el audífono; un audífono que no se usa no aporta ningún beneficio.",
+    "El beneficio es la diferencia entre la condición con audífono y la condición sin audífono.",
+    "La dificultad residual muestra las situaciones que siguen siendo difíciles a pesar del audífono.",
+    "La satisfacción es el juicio de la persona sobre si el audífono valió el esfuerzo y el costo.",
+    "La calidad de vida abarca el efecto de la audición en la participación social y en el bienestar general."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué la autoevaluación?",
+   "baslik": "¿*Cuándo* se aplica un cuestionario?",
+   "adimlar": [
+    {
+     "ikon": "rapor",
+     "baslik": "Antes del audífono",
+     "cumle": 0,
+     "metin": "Condición sin audífono"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Adaptación",
+     "cumle": 1,
+     "metin": "Verificación"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Aclimatación",
+     "cumle": 2,
+     "metin": "Unas semanas"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Forma con audífono",
+     "cumle": 3,
+     "metin": "El mismo cuestionario"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Comparar",
+     "cumle": 4,
+     "metin": "Diferencia y normas"
+    }
+   ],
+   "cumleler": [
+    "Si se quiere medir el beneficio, la condición sin audífono se evalúa antes de adaptar el audífono.",
+    "Luego se adapta el audífono y se verifica con la medición en oído real.",
+    "Se le dan a la persona unas semanas para usar el audífono en sus entornos cotidianos y acostumbrarse.",
+    "Después, se completa de nuevo el mismo cuestionario para la condición con audífono.",
+    "Los dos resultados se comparan y se interpretan junto con las normas del cuestionario.",
+    "Esta estructura hace que los controles sean más productivos para el ajuste fino y la orientación."
+   ]
+  },
+  {
+   "id": "aphab",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "APHAB",
+   "baslik": "*APHAB*: cuatro subescalas",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Facilidad de comunicación",
+     "cumle": 1,
+     "metin": "Habla en buenas condiciones"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Reverberación",
+     "cumle": 2,
+     "metin": "En salas reverberantes"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido de fondo",
+     "cumle": 3,
+     "metin": "Habla en ruido"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Aversión",
+     "cumle": 4,
+     "metin": "Sonidos ambientales fuertes"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El Perfil Abreviado del Beneficio del Audífono, o APHAB, se publicó en 1995."
+    },
+    "Tiene 24 ítems, divididos en cuatro subescalas de seis ítems cada una; la primera es la facilidad de comunicación.",
+    "La segunda subescala pregunta por la comprensión del habla en ambientes reverberantes.",
+    "La tercera evalúa la comprensión del habla cuando hay ruido de fondo.",
+    "La cuarta pregunta qué tan desagradables resultan los sonidos ambientales fuertes.",
+    "En cada ítem, la persona marca con qué frecuencia vive el problema descrito."
+   ]
+  },
+  {
+   "id": "yanit",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "APHAB",
+   "baslik": "*Escala de respuesta* del APHAB",
+   "sutunlar": [
+    "Respuesta",
+    "Porcentaje de problemas"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Siempre",
+      "99"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Casi siempre",
+      "87"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Generalmente",
+      "75"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "La mitad del tiempo",
+      "50"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Ocasionalmente",
+      "25"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Rara vez",
+      "12"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Nunca",
+      "1"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Las respuestas se dan en una escala de frecuencia de siete puntos.",
+    "La respuesta \"siempre\" se puntúa como 99 por ciento, y \"casi siempre\" como 87 por ciento.",
+    "\"Generalmente\" cuenta como 75 por ciento, y \"la mitad del tiempo\" como 50 por ciento.",
+    "\"Ocasionalmente\" se puntúa como 25 por ciento, \"rara vez\" como 12 por ciento y \"nunca\" como 1 por ciento.",
+    "Algunos ítems están redactados en sentido opuesto y se invierten al puntuar, por eso se usa la clave de puntuación oficial o el software."
+   ]
+  },
+  {
+   "id": "aphab_grafik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "APHAB",
+   "baslik": "APHAB sin y *con audífono*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 4.5,
+     "ad": "Subescala",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "yazilar": {
+      "1": "Communication",
+      "2": "Reverberation",
+      "3": "Noise",
+      "4": "Aversiveness",
+      "1": "Comunicación",
+      "2": "Reverberación",
+      "3": "Ruido",
+      "4": "Aversión"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Porcentaje de problemas"
+    },
+    "seriler": [
+     {
+      "ad": "cihazsiz",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        0.82,
+        62
+       ],
+       [
+        1.82,
+        68
+       ],
+       [
+        2.82,
+        74
+       ],
+       [
+        3.82,
+        24
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "sin audífono",
+      "etiket_konum": [
+       0.82,
+       62
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "cihazli",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        1.18,
+        26
+       ],
+       [
+        2.18,
+        41
+       ],
+       [
+        3.18,
+        46
+       ],
+       [
+        4.18,
+        39
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "con audífono",
+      "etiket_konum": [
+       1.18,
+       26
+      ],
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "yarar",
+      "y": [
+       26,
+       62
+      ],
+      "xk": 1.4,
+      "etiket": "beneficio",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Los puntajes muestran el porcentaje de problemas que vive la persona; cuanto más bajo el puntaje, menor el problema.",
+    "En este ejemplo, en la forma sin audífono, el porcentaje de problemas es alto en las subescalas de comunicación, reverberación y ruido.",
+    "En la forma con audífono, los puntajes bajaron notablemente en estas tres subescalas; la diferencia es el beneficio del audífono.",
+    "En la subescala de aversión, en cambio, el puntaje subió con el audífono; los sonidos fuertes empezaron a resultar más desagradables.",
+    "Este aumento es frecuente en esta subescala, porque con el audífono se oyen más los sonidos del entorno.",
+    "Este hallazgo puede ser una pista para revisar la ganancia para entradas fuertes y la salida máxima."
+   ]
+  },
+  {
+   "id": "aphab_yorum",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "APHAB",
+   "baslik": "Cómo *interpretar* el APHAB",
+   "maddeler": [
+    {
+     "metin": "Beneficio: sin audífono menos con audífono",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Es posible compararlo con normas",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hay criterios para diferencias significativas",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Formas traducidas: verificar la validación",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "APHAB",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "24 ítems",
+      "cumle": 0,
+      "metin": "Cuatro subescalas"
+     },
+     {
+      "ikon": "tablo",
+      "baslik": "Siete respuestas",
+      "cumle": 0,
+      "metin": "Del 1 al 99 por ciento"
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Beneficio",
+      "cumle": 0,
+      "metin": "Sin audífono menos con audífono"
+     }
+    ]
+   },
+   "cumleler": [
+    "En cada subescala, el beneficio se calcula restando el puntaje con audífono al puntaje sin audífono.",
+    "El promedio de las tres primeras subescalas también se usa como puntaje de beneficio global.",
+    "Los autores del cuestionario publicaron normas de usuarios con experiencia, y el resultado de una persona puede compararse con ellas.",
+    "También se han propuesto criterios para la diferencia mínima necesaria para afirmar que un cambio no se debe al azar.",
+    "Por eso, una diferencia pequeña de pocos puntos no se interpreta, por sí sola, como un cambio real.",
+    "Hay traducciones a otros idiomas; antes de usar una forma traducida, al turco o a otro idioma, comprueben que tenga un estudio de validación."
+   ]
+  },
+  {
+   "id": "ioiha",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "IOI-HA",
+   "baslik": "*IOI-HA*: siete ítems",
+   "sutunlar": [
+    "Ítem",
+    "Ámbito"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "¿Horas al día?",
+      "Uso"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "¿Cuánto ayuda?",
+      "Beneficio"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "¿Cuánta dificultad queda?",
+      "Dificultad residual"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "¿Valió la pena?",
+      "Satisfacción"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "¿Efecto en actividades?",
+      "Limitación residual"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "¿Efecto en otros?",
+      "Impacto en otros"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "¿Disfrute de la vida?",
+      "Calidad de vida"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El Inventario Internacional de Resultados para Audífonos, o IOI-HA, consta de siete ítems."
+    },
+    "Los dos primeros ítems preguntan por las horas de uso diario y por cuánto ayuda el audífono.",
+    "Los ítems siguientes evalúan la dificultad residual y la satisfacción.",
+    "Luego pregunta cuánto se limitan aún las actividades a pesar del audífono y cuánto afecta a los demás el problema auditivo.",
+    "El último ítem pregunta cómo cambió el audífono el disfrute de la vida; cada ítem se responde con cinco opciones.",
+    "Como es breve, resulta fácil de usar en la clínica de rutina y para comparaciones entre países."
+   ]
+  },
+  {
+   "id": "ioiha_tr",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "IOI-HA",
+   "baslik": "Breve pero *potente*",
+   "maddeler": [
+    {
+     "metin": "Siete ítems, pocos minutos",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Traducido a muchos idiomas",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Existe un estudio de validación turco",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Solo para la condición con audífono",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "RIC"
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "El IOI-HA se completa en pocos minutos, así que se incorpora fácilmente a los controles."
+    },
+    "El cuestionario se ha traducido a muchos idiomas y se han reunido datos normativos en distintos países.",
+    {
+     "yazi": "Para la adaptación turca, se publicó en 2009 un estudio de validez y confiabilidad."
+    },
+    "La comparación con las normas internacionales también ayuda a evaluar los resultados globales de una clínica.",
+    {
+     "yazi": "A diferencia del APHAB, no necesita una forma sin audífono; se completa una sola vez, después de usar el audífono durante un tiempo."
+    },
+    "Una respuesta baja en uso o en satisfacción es una señal de alerta que exige una conversación detallada con la persona."
+   ]
+  },
+  {
+   "id": "ssq",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "SSQ y cómo elegir",
+   "baslik": "*SSQ*: habla, espacio, cualidades",
+   "maddeler": [
+    {
+     "metin": "Habla: 14 ítems",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Audición espacial: 17 ítems",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Cualidades del sonido: 18 ítems",
+     "cumle": 3,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Una escala de cero a diez",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Versión breve: _SSQ12_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 2,
+    "ayar": {
+     "mod": "itd",
+     "yol_cumle": 2
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "La Escala de Habla, Audición Espacial y Cualidades de la Audición, o SSQ, se publicó en 2004."
+    },
+    "La primera sección tiene 14 ítems que preguntan por la comprensión del habla en distintos entornos.",
+    "La segunda sección, con 17 ítems, evalúa la capacidad de identificar la dirección y la distancia de los sonidos, es decir, la audición espacial.",
+    "La tercera sección, con 18 ítems, pregunta por la claridad y la naturalidad de los sonidos y por el esfuerzo de escucha.",
+    "Cada ítem se marca en una escala de cero a diez; un puntaje más alto significa una mejor audición.",
+    "También existe una versión breve de doce ítems; se han publicado estudios de validación turcos tanto de la versión completa como de la breve."
+   ]
+  },
+  {
+   "id": "hangisi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "SSQ y cómo elegir",
+   "baslik": "¿Qué pregunta, *qué cuestionario?*",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "COSI",
+     "cumle": 0,
+     "metin": "Metas personales"
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "APHAB",
+     "cumle": 1,
+     "metin": "Beneficio antes y después"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "IOI-HA",
+     "cumle": 2,
+     "metin": "Resultado global breve"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "SSQ",
+     "cumle": 3,
+     "metin": "Audición espacial y binaural"
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "HHIE",
+     "cumle": 4,
+     "metin": "Hándicap percibido"
+    }
+   ],
+   "cumleler": [
+    "Para saber si la persona alcanza sus propias metas, es adecuada la Escala de Mejoría Orientada al Cliente, o COSI.",
+    {
+     "yazi": "Para comparar en detalle las condiciones sin y con audífono, se usa el APHAB."
+    },
+    {
+     "yazi": "Para una valoración breve del resultado global y de la satisfacción, el IOI-HA es una opción práctica."
+    },
+    "Cuando importa la audición espacial, como en la adaptación bilateral, el CROS o el implante coclear, el SSQ pasa a primer plano.",
+    "El Inventario de Handicap Auditivo para Adultos Mayores, o HHIE, mide el impacto emocional y social de la pérdida.",
+    "En la clínica se suelen elegir uno o dos cuestionarios; el objetivo es reunir información útil sin cansar a la persona."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Pide la forma sin audífono antes de adaptar y la forma con audífono tras unas semanas. Revisa los resultados con la persona: los ítems peor puntuados guían ajuste y orientación.",
+   "cumleler": [
+    "Un consejo de la práctica: si van a medir el beneficio, hagan completar siempre la forma sin audífono antes de adaptar el audífono.",
+    "Entreguen la forma con audífono cuando la persona lo haya usado unas semanas en sus entornos cotidianos.",
+    "No se limiten a archivar los resultados; léanlos junto con la persona y conversen sobre los ítems con peor puntaje.",
+    "Esos ítems suelen ser objeto de ajuste fino, de la recomendación de un dispositivo de ayuda o de entrenamiento en estrategias de comunicación.",
+    "Repetir el mismo cuestionario en el siguiente control muestra si el cambio realizado funcionó."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Verificación y validación, juntas",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "APHAB: cuatro subescalas, antes y después",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "IOI-HA: siete ítems, resultado global",
+     "cumle": 2,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "SSQ: habla, espacio, cualidades",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que la verificación con medición en oído real debe completarse con la validación mediante cuestionarios de autoevaluación.",
+    {
+     "yazi": "El APHAB calcula el beneficio comparando los porcentajes de problemas sin y con audífono en cuatro subescalas."
+    },
+    {
+     "yazi": "El IOI-HA resume en siete ítems el uso, el beneficio, la satisfacción y la calidad de vida."
+    },
+    "El SSQ evalúa en detalle el habla, la audición espacial y las cualidades del sonido."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué subescala del APHAB suele subir con el audífono?",
+   "secenekler": [
+    "Facilidad de comunicación",
+    "Reverberación",
+    "Ruido de fondo",
+    "Aversión"
+   ],
+   "dogru": 3,
+   "aciklama": "Como con el audífono se oyen más los sonidos del entorno, el puntaje de la subescala de _aversión_ suele subir.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en el APHAB, ¿qué subescala suele mostrar un puntaje más alto, es decir, más problemas, con el audífono?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la D: aversión.",
+    "Como con el audífono se oyen más los sonidos del entorno, este puntaje suele subir; puede revisarse la ganancia para entradas fuertes."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Adaptación de *audífonos* en bebés y niños",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la adaptación de audífonos en bebés y niños, la seguridad y el seguimiento con la familia.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

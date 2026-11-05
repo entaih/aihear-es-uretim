@@ -1,0 +1,1103 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D180_Electroacoustic_Characteristics_ES",
+ "kapak": {
+  "ust": "LECCIÓN 180",
+  "baslik": "Características<br>*electroacústicas*",
+  "alt": "Ganancia, OSPL90, respuesta en frecuencia",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "BTE"
+  }
+ },
+ "youtube": {
+  "baslik": "Electroacústica: ganancia, salida máxima y respuesta | Lección 180 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo se definen y se miden la ganancia, la salida máxima y la respuesta en frecuencia de un audífono? En esta lección usamos las definiciones de ANSI S3.22 para ver el OSPL90, la ganancia máxima, la posición de prueba de referencia, el rango de frecuencias, la distorsión armónica y el ruido equivalente de entrada.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: ANSI/ASA S3.22, Specification of Hearing Aid Characteristics; IEC 60118 series, Electroacoustics: Hearing aids; Dillon, Hearing Aids; Stelmachowicz et al., Effect of stimulus bandwidth on the perception of /s/ in normal- and hearing-impaired children and adults, Journal of the Acoustical Society of America (2001); Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "electroacustica"
+  ],
+  "etiketler": [
+   "medición electroacústica",
+   "ganancia del audífono",
+   "OSPL90",
+   "respuesta en frecuencia",
+   "distorsión armónica",
+   "THD",
+   "ruido equivalente de entrada",
+   "ANSI S3.22",
+   "caja de pruebas",
+   "acoplador de 2 cc",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 180",
+   "baslik": "Características *electroacústicas*",
+   "alt": "Ganancia, salida máxima, respuesta en frecuencia",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo se definen y se miden la ganancia, la salida máxima y la respuesta en frecuencia de un audífono.",
+    "También veremos medidas de calidad, como la distorsión armónica y el ruido equivalente de entrada, tal como las definen las normas."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos básicos",
+   "baslik": "¿Por qué *medimos*?",
+   "maddeler": [
+    {
+     "metin": "¿Coincide con los datos del fabricante?",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Normas: _ANSI S3.22_, IEC 60118",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Acoplador de 2 cc, caja de pruebas",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Funciones adaptativas desactivadas",
+     "cumle": 5,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "etiketler": [
+     {
+      "parca": "mikrofon",
+      "metin": "micrófono",
+      "cumle": 3
+     },
+     {
+      "parca": "alici",
+      "metin": "receptor",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Las mediciones electroacústicas muestran si un audífono coincide con las características que informa el fabricante.",
+    "Antes de entregar un audífono nuevo, y cuando hay una queja de mal funcionamiento, estas mediciones sirven de control de calidad.",
+    {
+     "yazi": "En Estados Unidos estas mediciones siguen la norma ANSI S3.22 y, a nivel internacional, la serie de normas IEC 60118.",
+     "ses": "En Estados Unidos estas mediciones siguen la norma ANSI ese tres punto veintidós y, a nivel internacional, la serie de normas IEC sesenta y uno dieciocho."
+    },
+    {
+     "yazi": "La medición se hace en una caja de pruebas insonorizada, con el audífono conectado a un acoplador estándar de 2 cc de volumen."
+    },
+    "Un acoplador no es un oído, así que los resultados muestran las características propias del audífono, no su rendimiento en el oído de la persona.",
+    "Antes de medir se desactivan las funciones adaptativas, como la reducción de ruido y el control de la retroalimentación.",
+    "El audífono se mide en modo de micrófono omnidireccional, con la respuesta en frecuencia más amplia y la salida más alta."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos básicos",
+   "baslik": "¿Qué es la *ganancia*?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 40,
+     "max": 120,
+     "adim": 20,
+     "ad": "Nivel (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "giris",
+      "noktalar": [
+       [
+        200,
+        60
+       ],
+       [
+        8000,
+        60
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "cumle": 2,
+      "etiket": "entrada: 60 dB SPL",
+      "etiket_konum": [
+       250,
+       60
+      ],
+      "etiket_dy": 26
+     },
+     {
+      "ad": "cikis",
+      "noktalar": [
+       [
+        200,
+        78
+       ],
+       [
+        500,
+        88
+       ],
+       [
+        1000,
+        96
+       ],
+       [
+        1600,
+        101
+       ],
+       [
+        2500,
+        100
+       ],
+       [
+        3500,
+        93
+       ],
+       [
+        5000,
+        80
+       ],
+       [
+        6500,
+        68
+       ],
+       [
+        8000,
+        58
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "cumle": 3,
+      "etiket": "salida",
+      "etiket_konum": [
+       2500,
+       100
+      ],
+      "etiket_dy": -16
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "hfa",
+      "x": [
+       1000,
+       2500
+      ],
+      "renk": "sari",
+      "etiket": "HFA",
+      "cumle": 5
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kazanc_okun",
+      "xk": 1600,
+      "y": [
+       60,
+       101
+      ],
+      "etiket": "ganancia 41 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "cikis",
+     "cumle": 3
+    },
+    {
+     "parca": "kazanc_okun",
+     "cumle": 3
+    },
+    {
+     "parca": "hfa",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "El concepto más básico es la ganancia: cuántos decibeles le agrega el audífono al sonido.",
+    "La ganancia se obtiene restando el nivel de entrada al nivel de salida.",
+    {
+     "yazi": "En este gráfico de ejemplo, el audífono recibe una entrada de sesenta dB SPL en todas las frecuencias."
+    },
+    {
+     "yazi": "La salida medida en el acoplador en mil seiscientos hertz es de ciento un dB SPL, así que la ganancia en esta frecuencia es de cuarenta y un decibeles."
+    },
+    "La ganancia varía con la frecuencia; en este audífono es menor en las frecuencias graves y en las muy agudas.",
+    {
+     "yazi": "Para resumirla en un solo número, la norma usa el promedio de alta frecuencia (HFA)."
+    },
+    {
+     "yazi": "El HFA es el promedio de los valores en mil, mil seiscientos y dos mil quinientos hertz; el fabricante también puede definir otras tres frecuencias."
+    }
+   ]
+  },
+  {
+   "id": "ospl",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ganancia y salida",
+   "baslik": "La curva *OSPL90*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 80,
+     "max": 130,
+     "adim": 10,
+     "ad": "Salida (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "ospl90",
+      "noktalar": [
+       [
+        200,
+        100
+       ],
+       [
+        500,
+        110
+       ],
+       [
+        1000,
+        115
+       ],
+       [
+        1600,
+        118
+       ],
+       [
+        2500,
+        116
+       ],
+       [
+        3500,
+        112
+       ],
+       [
+        5000,
+        104
+       ],
+       [
+        6500,
+        96
+       ],
+       [
+        8000,
+        90
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": 6,
+      "cumle": 1,
+      "etiket": "OSPL90",
+      "etiket_konum": [
+       500,
+       110
+      ],
+      "etiket_dy": -18
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "hfa",
+      "x": [
+       1000,
+       2500
+      ],
+      "renk": "sari",
+      "etiket": "HFA",
+      "cumle": 5
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "tepe",
+      "x": 1600,
+      "y": 118,
+      "etiket": "pico",
+      "renk": "kirmizi",
+      "cumle": 4
+     },
+     {
+      "ad": "hfa_ospl90",
+      "x": 5000,
+      "y": 116,
+      "cizgi": "yatay",
+      "nokta": false,
+      "etiket": "promedio ≈ 116",
+      "dy": -14,
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ospl90",
+     "cumle": 3
+    },
+    {
+     "parca": "tepe",
+     "cumle": 4
+    },
+    {
+     "parca": "hfa_ospl90",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La medida estándar de la salida máxima es el OSPL90: el nivel de presión sonora de salida en el acoplador con una entrada de noventa dB SPL."
+    },
+    "En esta medición, la ganancia del audífono se lleva al máximo y se hace un barrido de frecuencias.",
+    "Con la ganancia al máximo, una entrada de noventa decibeles lleva a la mayoría de los audífonos a su límite de salida, es decir, a la saturación.",
+    "Así, la curva muestra el nivel sonoro más alto que el audífono puede entregar en cada frecuencia.",
+    {
+     "yazi": "En este ejemplo, la curva alcanza su pico en mil seiscientos hertz, con unos ciento dieciocho dB SPL."
+    },
+    {
+     "yazi": "El promedio en mil, mil seiscientos y dos mil quinientos hertz se informa como HFA-OSPL90; aquí, unos ciento dieciséis dB SPL."
+    },
+    "La norma fija una tolerancia de más o menos cuatro decibeles para este promedio, respecto del valor del fabricante.",
+    "En la clínica, la salida máxima se ajusta para que no supere el nivel de molestia por sonoridad de la persona."
+   ]
+  },
+  {
+   "id": "rts",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ganancia y salida",
+   "baslik": "Ganancia máxima y la *posición de referencia*",
+   "maddeler": [
+    {
+     "metin": "Ganancia máxima: entrada de _50 dB SPL_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Posición de referencia: entrada de 60 dB SPL",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Ganancia HFA = HFA-OSPL90 menos 77",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Salida 17 dB bajo el límite",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "grafik",
+      "baslik": "Ganancia máxima",
+      "cumle": 0,
+      "metin": "Entrada de 50 dB SPL"
+     },
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Posición de referencia",
+      "cumle": 2,
+      "metin": "Entrada de 60 dB SPL"
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Margen",
+      "cumle": 5,
+      "metin": "17 dB bajo el límite"
+     }
+    ],
+    "ust": "DOS AJUSTES"
+   },
+   "cumleler": [
+    "La ganancia máxima es la ganancia medida con una entrada de cincuenta dB SPL y el control de ganancia al máximo.",
+    "Se informa como promedio de alta frecuencia y tiene una tolerancia de más o menos cinco decibeles respecto del valor del fabricante.",
+    "La mayoría de las demás mediciones se hacen en la posición de prueba de referencia, con una entrada de sesenta dB SPL.",
+    {
+     "yazi": "En esta posición, la ganancia HFA se ajusta al HFA-OSPL90 menos setenta y siete decibeles, con un margen de más o menos uno coma cinco decibeles."
+    },
+    "Si la ganancia máxima del audífono no alcanza este valor, la posición de referencia es la de ganancia máxima.",
+    "La lógica de esta regla es simple: una entrada de sesenta decibeles produce una salida diecisiete decibeles por debajo de la salida máxima.",
+    "Así, el audífono se evalúa en un rango de trabajo parecido al del uso diario, sin saturarse durante la medición."
+   ]
+  },
+  {
+   "id": "yanit",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Respuesta en frecuencia",
+   "baslik": "Respuesta y *rango* de frecuencias",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 100,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 50,
+     "adim": 10,
+     "ad": "Ganancia (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "yanit",
+      "noktalar": [
+       [
+        100,
+        2
+       ],
+       [
+        200,
+        10
+       ],
+       [
+        300,
+        18
+       ],
+       [
+        500,
+        28
+       ],
+       [
+        1000,
+        36
+       ],
+       [
+        1600,
+        41
+       ],
+       [
+        2500,
+        40
+       ],
+       [
+        3500,
+        34
+       ],
+       [
+        5000,
+        22
+       ],
+       [
+        6500,
+        12
+       ],
+       [
+        8000,
+        6
+       ],
+       [
+        10000,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "cumle": 0,
+      "etiket": "respuesta en frecuencia",
+      "etiket_konum": [
+       1000,
+       36
+      ],
+      "etiket_dy": -18,
+      "etiket_dx": -40
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "hfa_cizgisi",
+      "x": 7000,
+      "y": 39,
+      "cizgi": "yatay",
+      "nokta": false,
+      "etiket": "HFA ≈ 39 dB",
+      "dy": -12,
+      "cumle": 1,
+      "renk": "lacivert"
+     },
+     {
+      "ad": "alt_cizgi",
+      "x": 7000,
+      "y": 19,
+      "cizgi": "yatay",
+      "nokta": false,
+      "etiket": "HFA menos 20 dB",
+      "dy": -12,
+      "cumle": 2,
+      "renk": "sari"
+     },
+     {
+      "ad": "f1",
+      "x": 310,
+      "y": 19,
+      "dus": "x",
+      "etiket": "f1",
+      "cumle": 3
+     },
+     {
+      "ad": "f2",
+      "x": 5450,
+      "y": 19,
+      "dus": "x",
+      "etiket": "f2",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "aralik",
+      "x": [
+       310,
+       5450
+      ],
+      "y": 6,
+      "etiket": "rango de frecuencias",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "alt_cizgi",
+     "cumle": 2
+    },
+    {
+     "parca": "f1",
+     "cumle": 3
+    },
+    {
+     "parca": "f2",
+     "cumle": 3
+    },
+    {
+     "parca": "aralik",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La respuesta en frecuencia es la ganancia graficada en función de la frecuencia en la posición de referencia, con una entrada de sesenta dB SPL.",
+    "En este ejemplo, el promedio de alta frecuencia es de unos treinta y nueve decibeles.",
+    "La norma define el rango de frecuencias con una línea trazada veinte decibeles por debajo de este promedio.",
+    {
+     "yazi": "La frecuencia más baja en la que la curva de respuesta cruza esta línea se llama f1, y la más alta, f2.",
+     "ses": "La frecuencia más baja en la que la curva de respuesta cruza esta línea se llama efe uno, y la más alta, efe dos."
+    },
+    "En este ejemplo, el rango de frecuencias va de unos trescientos a cinco mil cuatrocientos hertz.",
+    "La curva medida debe quedar a más o menos cuatro decibeles de la del fabricante en las frecuencias graves y medias, y a seis en las agudas.",
+    "Este es el rango en el acoplador; en el conducto auditivo, la respuesta cambia según el molde y la ventilación."
+   ]
+  },
+  {
+   "id": "bant",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Respuesta en frecuencia",
+   "baslik": "¿Por qué *importa* el ancho de banda?",
+   "maddeler": [
+    {
+     "metin": "La energía de /s/ está en los agudos",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Los niños aprenden lo que oyen",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Los agudos mejoran la calidad musical",
+     "cumle": 4,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "La retroalimentación fija el límite",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "spektrogram",
+    "cumle": 0,
+    "ayar": {
+     "cumle": 1
+    },
+    "vurgula": [
+     {
+      "parca": "s_sesi",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "La energía de las consonantes fricativas del habla, como la ese, está sobre todo en las frecuencias agudas.",
+    "Sobre todo en voces femeninas e infantiles, la energía de la ese se extiende por encima de cuatro mil hertz.",
+    {
+     "yazi": "Los estudios de Stelmachowicz y colaboradores mostraron que los niños necesitan un ancho de banda amplio para aprender estos sonidos."
+    },
+    "En inglés, marcadores gramaticales como el plural y el posesivo se transmiten con estos sonidos, así que el aprendizaje del lenguaje puede verse afectado.",
+    "Un ancho de banda amplio también ayuda a que la música y los sonidos ambientales suenen más naturales.",
+    "En la práctica, la ganancia en frecuencias agudas suele estar limitada por la potencia del receptor y la retroalimentación acústica."
+   ]
+  },
+  {
+   "id": "thd",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Distorsión y ruido",
+   "baslik": "*Distorsión* armónica",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000
+     ]
+    },
+    "y": {
+     "min": 40,
+     "max": 110,
+     "adim": 10,
+     "ad": "Salida (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "temel",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        500,
+        100
+       ]
+      ],
+      "renk": "mavi",
+      "genislik": 0.25,
+      "taban": 40,
+      "cumle": 0,
+      "etiket": "fundamental",
+      "etiket_konum": [
+       500,
+       100
+      ],
+      "etiket_dy": -14,
+      "etiket_hiza": "middle",
+      "etiket_dx": 0
+     },
+     {
+      "ad": "harmonikler",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1000,
+        70
+       ],
+       [
+        1500,
+        62
+       ]
+      ],
+      "renk": "kirmizi",
+      "genislik": 0.25,
+      "taban": 40,
+      "cumle": 4,
+      "etiket": "armónicos",
+      "etiket_konum": [
+       1000,
+       70
+      ],
+      "etiket_dy": -14,
+      "etiket_hiza": "middle",
+      "etiket_dx": 0
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "xk": 700,
+      "y": [
+       70,
+       100
+      ],
+      "etiket": "30 dB",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "temel",
+     "cumle": 0
+    },
+    {
+     "parca": "harmonikler",
+     "cumle": 1
+    },
+    {
+     "parca": "fark",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Un audífono sano solo amplifica el tono puro que recibe; un audífono defectuoso le agrega frecuencias nuevas al sonido.",
+    "Estos componentes nuevos aparecen en múltiplos exactos de la frecuencia de entrada y se llaman armónicos.",
+    "La distorsión armónica total (THD) es la razón entre la potencia total de los armónicos y la de la fundamental.",
+    "Esta razón se expresa como porcentaje.",
+    {
+     "yazi": "En este ejemplo, junto a la fundamental de quinientos hertz aparecen dos armónicos, en mil y en mil quinientos hertz."
+    },
+    "El segundo armónico está unos treinta decibeles por debajo de la fundamental; por sí solo, esto equivale a cerca de un tres por ciento de distorsión.",
+    {
+     "yazi": "La norma mide en quinientos, ochocientos y mil seiscientos hertz con una entrada de setenta dB SPL; en la frecuencia más alta, de sesenta y cinco."
+    },
+    "El valor medido puede superar el del fabricante en un tres por ciento como máximo; una THD alta sugiere una pila agotada o un receptor dañado."
+   ]
+  },
+  {
+   "id": "ein",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Distorsión y ruido",
+   "baslik": "Ruido equivalente de *entrada*",
+   "maddeler": [
+    {
+     "metin": "El ruido interno propio del audífono",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Ruido de salida menos ganancia",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Tolerancia: valor del fabricante _más 3 dB_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Audible en silencio y adaptación abierta",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "mikrofon",
+      "baslik": "Micrófono",
+      "cumle": 0,
+      "metin": "Fuente de ruido interno"
+     },
+     {
+      "ikon": "sessizlik",
+      "baslik": "Sala silenciosa",
+      "cumle": 5,
+      "metin": "Puede oírse un soplido"
+     }
+    ],
+    "ust": "RUIDO INTERNO"
+   },
+   "cumleler": [
+    "Todo audífono produce una pequeña cantidad de ruido en su micrófono y sus circuitos, incluso sin entrada.",
+    "El ruido equivalente de entrada expresa este ruido interno como si fuera un sonido externo presente en la entrada.",
+    {
+     "yazi": "El cálculo: al nivel de ruido medido en el acoplador sin entrada se le resta la ganancia HFA para una entrada de cincuenta dB SPL."
+    },
+    {
+     "yazi": "Por ejemplo, con un ruido de salida de cincuenta y ocho dB SPL y una ganancia de treinta y ocho decibeles, el ruido equivalente de entrada es de veinte dB SPL."
+    },
+    "El valor medido puede superar el del fabricante en tres decibeles como máximo.",
+    "Las personas con audición casi normal en las graves pueden oír este ruido como un soplido, sobre todo en lugares silenciosos y con adaptación abierta."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Distorsión y ruido",
+   "baslik": "Otras *mediciones*",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Corriente de la pila",
+     "cumle": 0,
+     "metin": "65 dB SPL, 1000 Hz"
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Respuesta de la bobina telefónica",
+     "cumle": 2,
+     "metin": "Con una fuente de campo magnético"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Curva de entrada y salida",
+     "cumle": 3,
+     "metin": "En audífonos con compresión"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Ataque y liberación",
+     "cumle": 4,
+     "metin": "Velocidad de la compresión"
+    }
+   ],
+   "cumleler": [
+    "La corriente de la pila se mide en la posición de referencia con una entrada de mil hertz y sesenta y cinco dB SPL, e informa sobre la duración de la pila.",
+    "Puede superar el valor del fabricante en un veinte por ciento como máximo; una corriente alta puede explicar una pila que se agota antes de lo esperado.",
+    "En los audífonos con bobina telefónica, su respuesta se mide con una fuente que simula el campo magnético de un teléfono.",
+    "En los audífonos con compresión, la curva de entrada y salida se traza de cincuenta a noventa dB SPL en pasos de cinco decibeles.",
+    "Los tiempos de ataque y de liberación también se miden cambiando de golpe el nivel de entrada.",
+    "Veremos estas dos últimas mediciones en detalle en la próxima lección, sobre la compresión."
+   ]
+  },
+  {
+   "id": "ozet_tablo",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Distorsión y ruido",
+   "baslik": "Las mediciones *de un vistazo*",
+   "sutunlar": [
+    "Medición",
+    "Entrada",
+    "Tolerancia"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "HFA-OSPL90",
+      "90 dB SPL",
+      "± 4 dB"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Ganancia máxima",
+      "50 dB SPL",
+      "± 5 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Respuesta en frecuencia",
+      "60 dB SPL",
+      "4 a 6 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "THD",
+      "70 dB SPL",
+      "+ 3 %"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Ruido equivalente de entrada",
+      "Sin entrada",
+      "+ 3 dB"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Corriente de la pila",
+      "65 dB SPL",
+      "+ 20 %"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Veamos ahora las mediciones juntas: la salida máxima usa una entrada de noventa dB SPL, y el HFA-OSPL90 tiene una tolerancia de más o menos cuatro decibeles."
+    },
+    "La ganancia máxima se mide con una entrada de cincuenta dB SPL y tiene una tolerancia de más o menos cinco decibeles.",
+    "La respuesta en frecuencia se mide con una entrada de sesenta dB SPL; la tolerancia es de cuatro a seis decibeles según la región de frecuencias.",
+    "La distorsión armónica se mide con una entrada de setenta dB SPL y puede superar el valor del fabricante en un tres por ciento como máximo.",
+    {
+     "yazi": "La tolerancia es de más tres decibeles para el ruido equivalente de entrada y de más veinte por ciento para la corriente de la pila."
+    },
+    {
+     "yazi": "Estos valores resumen la parte de la norma ANSI S3.22 que más se usa en la clínica.",
+     "ses": "Estos valores resumen la parte de la norma ANSI ese tres punto veintidós que más se usa en la clínica."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si un audífono vuelve sonando débil o con chasquidos, mídanlo primero en la caja de pruebas y comparen el resultado con su medición de entrega.",
+   "cumleler": [
+    "Un consejo de la práctica: guarden en la ficha de cada audífono nuevo la medición en caja de pruebas previa a la entrega.",
+    "Cuando el usuario se queje de que el sonido se debilitó o tiene chasquidos, repitan la misma medición.",
+    "Una ganancia reducida puede indicar un receptor o una entrada de micrófono obstruidos; más distorsión puede indicar una pila agotada o un receptor dañado.",
+    "Al comparar, asegúrense de medir con el mismo programa, los mismos ajustes y las funciones adaptativas desactivadas.",
+    "Esta simple comparación evita ajustes finos innecesarios y envíos equivocados a reparación."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Ganancia: salida menos entrada",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "OSPL90: salida con entrada de 90 dB SPL",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Rango de frecuencias: HFA menos 20 dB",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "THD y ruido interno indican la calidad",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En esta lección vimos que la ganancia se obtiene restando el nivel de entrada al de salida, y que se resume con el HFA."
+    },
+    {
+     "yazi": "La salida máxima se define con la curva OSPL90, medida con la ganancia al máximo y una entrada de noventa dB SPL."
+    },
+    {
+     "yazi": "El rango de frecuencias está entre los puntos donde la curva de respuesta cruza la línea situada veinte decibeles por debajo del HFA."
+    },
+    "La distorsión armónica y el ruido equivalente de entrada muestran la calidad de sonido del audífono y su buen estado."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "HFA-OSPL90 de 116 dB SPL. ¿Ganancia HFA de referencia?",
+   "secenekler": [
+    "17 dB",
+    "39 dB",
+    "56 dB",
+    "77 dB"
+   ],
+   "dogru": 1,
+   "aciklama": "Posición de referencia: ganancia HFA = HFA-OSPL90 menos _77 dB_; 116 menos 77 da 39 dB.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: el HFA-OSPL90 de un audífono es de ciento dieciséis dB SPL. ¿Cuál es, aproximadamente, la ganancia HFA en la posición de referencia?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: treinta y nueve decibeles.",
+    {
+     "yazi": "En la posición de referencia, la ganancia HFA es el HFA-OSPL90 menos setenta y siete decibeles: ciento dieciséis menos setenta y siete, o sea, treinta y nueve."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Compresión en audífonos: *WDRC*, umbral y relación",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo el audífono cambia su ganancia según el nivel de entrada, es decir, la compresión.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

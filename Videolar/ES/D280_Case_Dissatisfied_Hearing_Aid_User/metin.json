@@ -1,0 +1,941 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D280_Case_Dissatisfied_Hearing_Aid_User_ES",
+ "kapak": {
+  "ust": "LECCIÓN 280",
+  "baslik": "El usuario<br>*insatisfecho*",
+  "alt": "Queja, registro de datos y ajuste fino",
+  "cizim": "isitme_cihazi"
+ },
+ "youtube": {
+  "baslik": "Caso: el usuario de audífonos insatisfecho | Lección 280 | AIHEAR Academia de Audiología",
+  "aciklama": "En un caso ficticio, analizamos de forma estructurada la queja de un usuario insatisfecho con sus audífonos: controles físicos y el estetoscopio de escucha, el registro de datos, la medición en oído real con niveles de entrada altos, el ajuste fino de las palabras del usuario a los parámetros, la comprensión en ruido y el QuickSIN, la orientación sobre expectativas realistas y el seguimiento.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Dillon, Hearing Aids; Killion et al., QuickSIN (2004); Katz, Handbook of Clinical Audiology; ASHA, Hearing Aids for Adults.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "casoclinico"
+  ],
+  "etiketler": [
+   "satisfacción con audífonos",
+   "registro de datos del audífono",
+   "ajuste fino de audífonos",
+   "expectativas con audífonos",
+   "medición en oído real",
+   "QuickSIN",
+   "problemas con audífonos",
+   "habla en ruido",
+   "caso clínico de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 280",
+   "baslik": "Caso: el usuario *insatisfecho*",
+   "alt": "Enfoque estructurado, de la queja a la solución",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección analizamos paso a paso la queja de un usuario insatisfecho que deja sus audífonos en un cajón.",
+    "Veremos el análisis estructurado de la queja, el registro de datos, el ajuste fino y la orientación sobre expectativas realistas."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La queja",
+   "baslik": "Caso de ejemplo: la *queja*",
+   "maddeler": [
+    {
+     "metin": "Usuario de ejemplo de 66 años",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Audífonos bilaterales desde hace cuatro meses",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "En el ruido _no entiende nada_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Sonido metálico, chillón",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Audífonos en un cajón casi siempre",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "gurultu",
+      "baslik": "Ruido",
+      "metin": "No entiende",
+      "cumle": 2
+     },
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Calidad del sonido",
+      "metin": "Metálico, chillón",
+      "cumle": 3
+     },
+     {
+      "ikon": "takvim",
+      "baslik": "Uso",
+      "metin": "En un cajón",
+      "cumle": 4
+     }
+    ],
+    "ust": "QUEJAS"
+   },
+   "cumleler": [
+    "Nuestro caso es ficticio: una persona de sesenta y seis años recibió audífonos retroauriculares bilaterales hace cuatro meses.",
+    "No acudió a la visita de seguimiento; ahora, por insistencia de su cónyuge, viene diciendo que estos audífonos no funcionan.",
+    "La queja principal es que no entiende nada de la conversación en lugares concurridos y ruidosos.",
+    "También dice que el sonido de los cubiertos y la voz de algunas personas le parecen metálicos y chillones.",
+    "Por eso, la mayoría de los días no usa los audífonos y los deja en un cajón.",
+    "Como veremos enseguida, las propias palabras del usuario contienen pistas valiosas sobre el origen del problema."
+   ]
+  },
+  {
+   "id": "yapi",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La queja",
+   "baslik": "*Estructurar* la queja",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Escuchar",
+     "metin": "Sus propias palabras",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "¿Dónde, cuándo?",
+     "metin": "Entorno y sonido",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Medir",
+     "metin": "Registro, dispositivo, REM",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Ajustar",
+     "metin": "Un solo cambio",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Evaluar",
+     "metin": "Preguntar en el seguimiento",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Un enfoque estructurado empieza por escuchar; la queja se anota con las propias palabras de la persona, tal como la dice.",
+    "Luego preguntamos en qué entornos, con qué sonidos y desde cuándo aparece la queja.",
+    "Después viene la medición: se lee el registro de datos, se revisa físicamente el dispositivo y se repite la medición en oído real.",
+    "Los ajustes siguen a los hallazgos; cuando es posible, se hace un cambio a la vez para poder entender su efecto.",
+    "Por último, en la visita siguiente, se pregunta a la persona si el cambio la ayudó.",
+    "Este orden da resultados mucho más rápido que cambiar parámetros al azar."
+   ]
+  },
+  {
+   "id": "fiziksel",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Medición y controles",
+   "baslik": "Primero, un control *físico*",
+   "maddeler": [
+    {
+     "metin": "Otoscopia: ¿hay cerumen?",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "¿Domo y receptor en su lugar?",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Revisar con estetoscopio de escucha",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Receptor izquierdo: _filtro de cerumen tapado_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 3,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "etiketler": [
+     {
+      "parca": "alici",
+      "metin": "receptor: filtro tapado",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "alici",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Toda visita por una queja empieza con la otoscopia; en este caso los conductos auditivos están limpios, sin cerumen significativo.",
+    "Los domos y los receptores están en su lugar; no hay enrojecimiento ni marcas de presión en el conducto auditivo.",
+    "Al escuchar con el estetoscopio, el audífono derecho suena claro, mientras que el izquierdo suena claramente débil y apagado.",
+    "El filtro de cerumen del receptor izquierdo está tapado; al cambiar el filtro, el sonido vuelve a la normalidad.",
+    "Un simple problema de mantenimiento pudo hacer que la persona oyera débil y de forma desigual entre los dos oídos.",
+    "En el mismo control se revisan también el estado de carga, la limpieza de los puertos del micrófono y el funcionamiento de los programas."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Medición y controles",
+   "baslik": "*Audiograma* actual",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Vía ósea: _superpuesta_",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Sin cambios_ desde la prueba previa",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       35,
+       50,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       30,
+       40,
+       50,
+       65,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       20,
+       25,
+       35,
+       45,
+       60
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "El audiograma muestra una pérdida neurosensorial simétrica en ambos oídos, descendente hacia los agudos.",
+    "La vía ósea se superpone a la aérea; los timpanogramas son de tipo A en ambos oídos.",
+    "En comparación con la prueba previa a la adaptación, los umbrales no muestran cambios significativos.",
+    "Así que no hay una nueva pérdida auditiva que explique la queja; buscamos el problema en el dispositivo, los parámetros y el uso.",
+    "Si la audición hubiera empeorado de forma súbita o marcada, se necesitaría derivar al médico antes de cualquier ajuste."
+   ]
+  },
+  {
+   "id": "logging",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Medición y controles",
+   "baslik": "¿Qué *dice* el registro de datos?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 4,
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "Quiet",
+      "2": "Speech",
+      "3": "Speech in noise",
+      "1": "Silencio",
+      "2": "Habla",
+      "3": "Habla en ruido"
+     },
+     "ad": "Entorno"
+    },
+    "y": {
+     "min": 0,
+     "max": 60,
+     "adim": 20,
+     "ad": "Porcentaje del tiempo de uso"
+    },
+    "seriler": [
+     {
+      "ad": "ortam",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        20
+       ],
+       [
+        2,
+        30
+       ],
+       [
+        3,
+        50
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "gurultu",
+      "x": 3,
+      "y": 50,
+      "etiket": "50 %",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Solo _1,5 horas_ al día",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Volumen bajado a menudo",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Revisarlo juntos, _sin culpas_",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "El registro de datos muestra cuántas horas al día y en qué entornos se usó el dispositivo.",
+    "En esta persona, el uso diario promedio es de solo una hora y media; así, el cerebro no tuvo ocasión de acostumbrarse a oír con los dispositivos.",
+    "Cerca de la mitad del tiempo de uso fue en entornos de habla con ruido; es decir, el dispositivo se usó sobre todo en el entorno más difícil.",
+    "El registro también muestra que la persona bajaba el volumen a menudo; esto sugiere que los sonidos fuertes le resultaban incómodos.",
+    "El registro no es una herramienta para culpar; se revisa junto con la persona, y se le pregunta por qué usó tan poco los dispositivos.",
+    "La persona cuenta que solo se ponía los audífonos en reuniones concurridas, y que allí obtuvo los peores resultados."
+   ]
+  },
+  {
+   "id": "rem",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Medición y controles",
+   "baslik": "*Salida en agudos* con entrada alta",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      3000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": 60,
+     "max": 110,
+     "adim": 10,
+     "ad": "Nivel en el conducto (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        250,
+        80
+       ],
+       [
+        500,
+        82
+       ],
+       [
+        1000,
+        84
+       ],
+       [
+        2000,
+        86
+       ],
+       [
+        3000,
+        86
+       ],
+       [
+        4000,
+        85
+       ],
+       [
+        6000,
+        82
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "objetivo para entrada alta",
+      "cumle": 0
+     },
+     {
+      "ad": "olcum",
+      "noktalar": [
+       [
+        250,
+        80
+       ],
+       [
+        500,
+        82
+       ],
+       [
+        1000,
+        85
+       ],
+       [
+        2000,
+        93
+       ],
+       [
+        3000,
+        96
+       ],
+       [
+        4000,
+        95
+       ],
+       [
+        6000,
+        90
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "medido",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "fazla",
+      "x": [
+       2000,
+       6000
+      ],
+      "renk": "sari",
+      "etiket": "sobre el objetivo",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Entrada media: _cerca del objetivo_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Entrada alta: _exceso de agudos_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Reducir solo la entrada alta",
+     "cumle": 5,
+     "ikon": "yazilim"
+    }
+   ],
+   "cumleler": [
+    "La medición en oído real se repite con señales similares al habla de nivel medio y alto.",
+    "Para el habla de nivel medio, la medición está cerca del objetivo; aquí no parece haber problema.",
+    "Pero con entrada de nivel alto, la salida por encima de dos mil hertz queda claramente sobre el objetivo.",
+    "Describir el sonido como metálico y chillón suele asociarse con un exceso de salida en agudos con niveles de entrada altos.",
+    "Este hallazgo también explica por qué la persona bajaba el volumen a menudo.",
+    "El objetivo del ajuste es claro: reducir la ganancia en agudos solo para las entradas altas, manteniendo los sonidos suaves y medios."
+   ]
+  },
+  {
+   "id": "sozcuk",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Ajuste fino",
+   "baslik": "De las palabras a los *parámetros*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Metálico, chillón",
+     "metin": "Exceso de agudos con entrada alta",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Apagado, lejano",
+     "metin": "Poca ganancia en agudos",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Mi voz suena mal",
+     "metin": "Oclusión, exceso de graves",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "No entiendo en el ruido",
+     "metin": "Programa, micrófono, expectativas",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El primer paso del ajuste fino es descubrir a qué problema acústico apuntan las palabras de la persona.",
+    "Describir el sonido como apagado o lejano suele sugerir poca ganancia en los agudos.",
+    "Oír la propia voz como si se hablara dentro de un balde sugiere efecto de oclusión o exceso de ganancia en los graves.",
+    "No entender en el ruido no siempre es un problema de parámetros; se consideran en conjunto el programa, los micrófonos y las expectativas.",
+    "Estas correspondencias son un punto de partida; las decisiones se toman con mediciones y junto con la persona.",
+    "En nuestro caso, la descripción y la medición en oído real apuntan en la misma dirección: exceso de agudos con niveles de entrada altos."
+   ]
+  },
+  {
+   "id": "ayar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Ajuste fino",
+   "baslik": "Cambios *realizados*",
+   "maddeler": [
+    {
+     "metin": "Filtro izquierdo reemplazado",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Menos ganancia en agudos con entrada alta",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Programa aparte para el ruido",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Plan de uso todo el día",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 2,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "vurgula": [
+     {
+      "parca": "mikrofon",
+      "cumle": 2
+     },
+     {
+      "parca": "islemci",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "El primer cambio ya está hecho: se reemplazó el filtro tapado del dispositivo izquierdo y se le enseñó a la persona a cambiarlo.",
+    "Se redujo la ganancia en agudos para niveles de entrada altos; se mantuvo la audibilidad de las entradas suaves y medias.",
+    "Para los lugares concurridos se agregó un programa aparte con micrófonos direccionales y reducción de ruido activados.",
+    "Tras el cambio, se repitió la medición en oído real y se reprodujo con la persona una escena sonora cotidiana grabada.",
+    "Se hizo un plan de uso durante todo el día, empezando en casa y en lugares tranquilos; las reuniones concurridas serán el siguiente paso."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Ajuste fino",
+   "baslik": "Comprensión *en ruido*",
+   "maddeler": [
+    {
+     "metin": "QuickSIN: pérdida de SNR de 9 dB",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Subir el volumen no cambia la SNR",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Micrófonos direccionales y remotos",
+     "cumle": 4,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Ubicación y estrategias",
+     "cumle": 5,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 4,
+    "ayar": {
+     "mod": "golge",
+     "gurultu_yonu": "sol"
+    },
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 4
+     },
+     {
+      "parca": "gurultu",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Para la comprensión en ruido se aplica la prueba Quick Speech-in-Noise, o QuickSIN; la pérdida de relación señal-ruido es de nueve decibeles.",
+    "Según el manual de la prueba, esta es una pérdida de SNR moderada.",
+    "Es decir, para entender en ruido, la persona necesita una relación señal-ruido, o SNR, más alta que las personas con audición normal.",
+    "Subir a la vez el habla y el ruido no cambia la relación; por eso subir el volumen no es, por sí solo, una solución.",
+    "Los micrófonos direccionales, y un micrófono remoto colocado en la mesa, pueden mejorar la relación al separar la voz del hablante del ruido.",
+    "También se explican estrategias como sentarse de espaldas a la fuente de ruido y de frente a quien habla."
+   ]
+  },
+  {
+   "id": "beklenti",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Expectativas y resultado",
+   "baslik": "*Expectativas* realistas",
+   "maddeler": [
+    {
+     "metin": "Los audífonos _no normalizan_ la audición",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Puede quedar alguna dificultad en el ruido",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "La aclimatación lleva _semanas_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Reescribir los objetivos",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Realista",
+      "metin": "Mejor, no normal",
+      "cumle": 0
+     },
+     {
+      "ikon": "takvim",
+      "baslik": "Paciencia",
+      "metin": "Semanas",
+      "cumle": 2
+     }
+    ],
+    "ust": "EXPECTATIVAS"
+   },
+   "cumleler": [
+    "Las expectativas se hablan abiertamente: los audífonos no devuelven la audición normal, pero mejoran la audibilidad y la comprensión.",
+    "Se le avisa de antemano que quedará alguna dificultad en lugares ruidosos; saberlo reduce la desilusión.",
+    "Explicamos que el cerebro puede tardar semanas en adaptarse a los sonidos, y que el uso regular acelera el proceso.",
+    "Juntos reescribimos de forma concreta los objetivos de la Escala de Mejoría Orientada al Cliente, o COSI; por ejemplo, conversar con su cónyuge en la cena.",
+    "La orientación sobre expectativas no es una charla única, sino un proceso que continúa en cada seguimiento."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de ajustar, escuchen el dispositivo, lean el registro de datos y anoten la queja con las propias palabras de la persona.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la práctica: antes de abrir el software, escuchen el dispositivo con un estetoscopio de escucha y revisen el conducto auditivo.",
+    "Un filtro tapado o un domo mal colocado pueden tener más efecto que el ajuste más complejo.",
+    "Anoten la queja con las palabras de la persona; \"los platos en la cocina me taladran\" dice mucho más que \"me molestan los sonidos\".",
+    "Registren cada cambio y su motivo en la historia; solo así sabrán en la visita siguiente qué funcionó."
+   ]
+  },
+  {
+   "id": "sonuc",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Expectativas y resultado",
+   "baslik": "Seis semanas *después*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Uso",
+     "metin": "7 horas al día",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Calidad del sonido",
+     "metin": "Menos metálico",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Cena",
+     "metin": "Mucho mejor",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Reunión concurrida",
+     "metin": "Un poco mejor",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En el seguimiento a las seis semanas, el registro de datos muestra un promedio de siete horas al día.",
+    "La persona dice que el sonido metálico desapareció en gran parte y que ahora casi nunca baja el volumen.",
+    "Califica como mucho mejor el objetivo de conversar con su cónyuge durante la cena.",
+    "En las reuniones concurridas está un poco mejor; decide probar la opción del micrófono remoto.",
+    "La mayor parte de la insatisfacción no venía del dispositivo en sí, sino del mantenimiento, los parámetros, el uso y las expectativas.",
+    "En el próximo seguimiento se volverá a evaluar el efecto del programa para ruido y del micrófono remoto."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Expectativas y resultado",
+   "baslik": "¿*Qué* va en la historia clínica?",
+   "maddeler": [
+    {
+     "metin": "Queja: las palabras de la persona",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Hallazgos: registro, dispositivo, REM",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cambios y sus motivos",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Orientación y plan",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        35,
+        50,
+        60,
+        65
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        30,
+        40,
+        50,
+        65,
+        70
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Primero, la queja se anota en la historia con las propias palabras de la persona.",
+    "Luego, los hallazgos: el registro de datos, el estado físico del dispositivo y los resultados de la medición en oído real.",
+    "Se anota cada cambio y su justificación, incluido el motivo de cualquier desviación intencional del objetivo.",
+    "Se agregan lo conversado en la orientación sobre expectativas, los objetivos reescritos y el plan para la visita siguiente.",
+    "Este registro da continuidad al proceso cuando otro colega atiende a la persona."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Escuchar, estructurar y medir la queja",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Primero dispositivo y oído: filtro, domo, cerumen",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Registro de datos y REM guían el ajuste",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Expectativas realistas, seguimiento planificado",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Ante la insatisfacción, la queja se escucha con las palabras de la persona, se estructura por entorno y sonido, y se confirma midiendo.",
+    "Antes de ajustar, se revisan el conducto auditivo y el dispositivo; los problemas simples, como un filtro tapado, son frecuentes.",
+    "El registro de datos y la medición en oído real muestran hacia dónde debe ir el ajuste fino.",
+    "La orientación sobre expectativas realistas y el seguimiento planificado evitan que el usuario abandone los audífonos."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Los sonidos parecen metálicos. ¿Causa más probable?",
+   "secenekler": [
+    "Exceso de ganancia en graves",
+    "Exceso de agudos con entrada alta",
+    "Batería débil",
+    "Tapón de cerumen"
+   ],
+   "dogru": 1,
+   "aciklama": "Un sonido metálico y chillón suele asociarse con un exceso de _salida en agudos con niveles de entrada altos_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: el usuario oye los cubiertos metálicos y chillones. ¿Qué posibilidad debe pensarse primero?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: un exceso de salida en agudos con niveles de entrada altos.",
+    "Esto se confirma con la medición en oído real; la ganancia en agudos se reduce solo para las entradas altas, manteniendo los sonidos suaves."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Caso: tinnitus con audiograma *normal*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En el próximo caso veremos a una persona que se queja de tinnitus aunque su audiograma es normal.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

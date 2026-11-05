@@ -1,0 +1,816 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D206_Vestibular_Neuritis_Labyrinthitis_ES",
+ "kapak": {
+  "ust": "LECCIÓN 206",
+  "baslik": "*Neuritis* vestibular",
+  "alt": "Neuritis y laberintitis",
+  "cizim": "beyin_sapi_vestibuler",
+  "vurgula": [
+   "vestibuler_sinir"
+  ]
+ },
+ "youtube": {
+  "baslik": "Neuritis vestibular y laberintitis | Lección 206 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué sugiere un vértigo que comienza de repente y dura varios días? En esta lección vemos el cuadro clínico de la neuritis vestibular, los criterios de la Sociedad Bárány de 2022, los patrones del vHIT, la prueba calórica y los VEMP en la afectación superior e inferior, la laberintitis con compromiso auditivo y el diagnóstico diferencial.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Strupp et al., Acute unilateral vestibulopathy/vestibular neuritis: Diagnostic criteria, Journal of Vestibular Research (2022); Jacobson y Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "vestibular",
+   "vertigo"
+  ],
+  "etiketler": [
+   "neuritis vestibular",
+   "laberintitis",
+   "síndrome vestibular agudo",
+   "vestibulopatía unilateral aguda",
+   "vHIT",
+   "prueba calórica",
+   "VEMP",
+   "nistagmo",
+   "mareo",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 206",
+   "baslik": "Neuritis vestibular y *laberintitis*",
+   "alt": "Causas periféricas del síndrome vestibular agudo",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos la neuritis vestibular, la causa periférica más frecuente del vértigo que comienza de repente y dura varios días.",
+    "Revisaremos la laberintitis, los hallazgos que las distinguen y los resultados de las pruebas, incluidos los potenciales evocados miogénicos vestibulares (VEMP)."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definición y cuadro clínico",
+   "baslik": "Un problema en el *nervio vestibular*",
+   "cizim": "beyin_sapi_vestibuler",
+   "etiketler": [
+    {
+     "parca": "labirent",
+     "metin": "Laberinto",
+     "cumle": 0
+    },
+    {
+     "parca": "scarpa_ganglionu",
+     "metin": "Ganglio de Scarpa",
+     "cumle": 2
+    },
+    {
+     "parca": "vestibuler_cekirdekler",
+     "metin": "Núcleos vestibulares",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 0
+    },
+    {
+     "parca": "scarpa_ganglionu",
+     "cumle": 2
+    },
+    {
+     "parca": "vestibuler_cekirdekler",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Un lado queda _en silencio_",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "El cerebro lo interpreta como _giro_",
+     "cumle": 5,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "cumleler": [
+    "La neuritis vestibular es un cuadro causado por la pérdida súbita de función del nervio vestibular de un lado.",
+    "A menudo no se puede demostrar la causa; la explicación más aceptada es la reactivación de un virus latente en el ganglio del nervio.",
+    "Los cuerpos celulares del nervio están en el ganglio de Scarpa, dentro del conducto auditivo interno.",
+    "La señal que llega desde el lado afectado a los núcleos vestibulares del tronco cerebral cae de forma brusca.",
+    "El lado sano sigue funcionando con normalidad, y surge un gran desequilibrio entre ambos lados.",
+    "El cerebro interpreta este desequilibrio como una rotación continua; el resultado es un vértigo intenso con nistagmo.",
+    {
+     "yazi": "En 2022, la Sociedad Bárány definió este cuadro con el nombre de vestibulopatía unilateral aguda."
+    },
+    "El nombre de neuritis vestibular se sigue usando ampliamente en la clínica."
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definición y cuadro clínico",
+   "baslik": "El *cuadro* típico",
+   "maddeler": [
+    {
+     "metin": "Vértigo _súbito_, intenso y continuo",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Náuseas y vómitos",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tendencia a _caer_ hacia el lado afectado",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "_Empeora_ con el movimiento cefálico",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Sin_ pérdida auditiva",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bas_donmesi",
+      "baslik": "Días",
+      "metin": "No horas",
+      "cumle": 0
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Audición",
+      "metin": "No afectada",
+      "cumle": 4
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Signos neurológicos",
+      "metin": "Deben estar ausentes",
+      "cumle": 4
+     }
+    ],
+    "ust": "CUADRO"
+   },
+   "cumleler": [
+    "En la historia típica, la persona describe una sensación de giro intensa y continua que comenzó de repente una mañana o durante el día.",
+    "Con frecuencia se acompaña de náuseas y vómitos, y la persona no quiere levantarse de la cama.",
+    "De pie o al caminar tiende a caer hacia el lado afectado, aunque por lo general puede caminar con ayuda.",
+    "Cada movimiento de la cabeza empeora los síntomas, por lo que la persona intenta mantenerla quieta.",
+    "En la neuritis vestibular no se esperan pérdida auditiva ni tinnitus; si la audición está afectada, se piensa en una laberintitis u otra causa.",
+    "Algunas personas refieren una infección de las vías respiratorias altas unos días antes."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definición y cuadro clínico",
+   "baslik": "Los *criterios* Bárány de 2022",
+   "sutunlar": [
+    "Criterio",
+    "Contenido"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "A. Inicio",
+      "Al menos 24 horas"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "B. Nistagmo",
+      "Espontáneo, de tipo periférico"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "C. RVO",
+      "Reducido, lado opuesto"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "D. Exclusión",
+      "Sin signos centrales/auditivos"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "E. Explicación",
+      "No es otra enfermedad"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Primero: vértigo o mareo sostenido de intensidad moderada o grave, de inicio agudo o subagudo, que dura al menos veinticuatro horas.",
+    "Segundo, nistagmo espontáneo de tipo periférico en una dirección compatible con las aferencias de los canales, en general horizontal y torsional.",
+    "Tercero, evidencia clara de una función reducida del reflejo vestíbulo-ocular (RVO) del lado opuesto a la fase rápida.",
+    "Esta evidencia puede venir de la prueba de impulso cefálico a pie de cama, de la prueba de impulso cefálico con video o de la prueba calórica.",
+    "Cuarto, no hay signos centrales, ni pérdida auditiva, ni otros hallazgos óticos.",
+    "Por último, el cuadro no se explica mejor por otra enfermedad.",
+    "Si los síntomas duran menos de veinticuatro horas, el cuadro se denomina vestibulopatía unilateral aguda en evolución."
+   ]
+  },
+  {
+   "id": "dallar",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos en las pruebas",
+   "baslik": "Divisiones superior e *inferior*",
+   "cizim": "ic_kulak_yolu_dibi",
+   "ayar": {
+    "sinirler": true,
+    "sinir_cumle": 0
+   },
+   "etiketler": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "metin": "Nervio vestibular superior",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "Nervio vestibular inferior",
+     "cumle": 2
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Nervio coclear",
+     "cumle": 0
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "Nervio facial",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "El nervio vestibular tiene dos divisiones, y la neuritis puede afectar a una de ellas o a ambas.",
+    "La división superior inerva los canales lateral y anterior, el utrículo y parte del sáculo.",
+    "La división inferior inerva el canal posterior y la mayor parte del sáculo.",
+    "En la neuritis vestibular, la división superior es la que se afecta con más frecuencia; la afectación inferior aislada es más rara.",
+    "Una explicación es que el conducto óseo de la división superior es más largo y estrecho, así que un nervio inflamado queda atrapado con más facilidad.",
+    "La división afectada determina el patrón de hallazgos en las pruebas.",
+    "Por eso, evaluar por separado los seis canales y los dos órganos otolíticos ayuda a identificar qué división está afectada."
+   ]
+  },
+  {
+   "id": "nistagmus",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos en las pruebas",
+   "baslik": "Nistagmo hacia el lado *sano*",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sol",
+    "tur": "sicramali",
+    "yavas_cumle": 1,
+    "hizli_cumle": 2,
+    "baslik": "Neuritis derecha: nistagmo que bate a la izquierda"
+   },
+   "notlar": [
+    {
+     "metin": "_Bate_ hacia el lado sano",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Disminuye_ con la fijación",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "En este ejemplo vemos el nistagmo espontáneo de una persona con neuritis vestibular derecha.",
+    "Como el lado derecho está débil, los ojos se desvían lentamente hacia la derecha; esta es la fase lenta.",
+    "El cerebro devuelve rápidamente los ojos hacia la izquierda; esta es la fase rápida, y por ella se dice que el nistagmo bate a la izquierda.",
+    "Así, el nistagmo periférico suele batir hacia el oído sano; es horizontal y torsional, y su dirección no cambia.",
+    "El nistagmo aumenta cuando la persona mira a la izquierda y disminuye cuando mira a la derecha; es la ley de Alexander.",
+    "La fijación visual reduce mucho el nistagmo, por eso se observa mejor con lentes de Frenzel o videolentes."
+   ]
+  },
+  {
+   "id": "bulgular",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos en las pruebas",
+   "baslik": "*Patrones* en las pruebas",
+   "sutunlar": [
+    "Prueba",
+    "Afectación superior",
+    "Afectación inferior"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Prueba calórica",
+      "Paresia",
+      "Generalmente normal"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "vHIT lateral y anterior",
+      "Ganancia baja",
+      "Normal"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "vHIT posterior",
+      "Generalmente normal",
+      "Ganancia baja"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "oVEMP",
+      "Reducido o ausente",
+      "Generalmente normal"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "cVEMP",
+      "Generalmente normal",
+      "Reducido o ausente"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Audiograma",
+      "Normal",
+      "Normal"
+     ],
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Como la prueba calórica evalúa el canal lateral, en la afectación superior muestra una paresia clara del lado afectado.",
+    {
+     "yazi": "En la prueba de impulso cefálico con video (vHIT), la afectación superior reduce la ganancia de los canales lateral y anterior, y aparecen sacadas."
+    },
+    "En la afectación inferior baja la ganancia del canal posterior; en este caso, la prueba calórica puede ser normal.",
+    {
+     "yazi": "El VEMP ocular (oVEMP) refleja el utrículo y la división superior, por eso está reducido o ausente en la afectación superior."
+    },
+    {
+     "yazi": "El VEMP cervical (cVEMP) refleja el sáculo y la división inferior, por eso se altera en la afectación inferior."
+    },
+    "Cuando ambas divisiones están afectadas, todas estas pruebas pueden ser anormales del lado afectado.",
+    "En la neuritis el audiograma es normal; este hallazgo es muy importante para diferenciarla de la laberintitis y de algunos accidentes cerebrovasculares.",
+    "Mirar solo la prueba calórica puede pasar por alto una afectación inferior, por eso la batería de pruebas se interpreta en conjunto."
+   ]
+  },
+  {
+   "id": "labirentit",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Laberintitis y diagnóstico diferencial",
+   "baslik": "*Laberintitis*: también se afecta la audición",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "Cóclea",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibul",
+     "metin": "Vestíbulo",
+     "cumle": 0
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Canales semicirculares",
+     "cumle": 0
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Oído medio",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vértigo _y_ pérdida auditiva",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Forma bacteriana: _urgente_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "La laberintitis es un cuadro en el que la inflamación no afecta solo al nervio vestibular, sino a todo el oído interno.",
+    "Por eso, el vértigo se acompaña de una hipoacusia neurosensorial súbita y, a menudo, de tinnitus.",
+    "La laberintitis viral tiene una evolución parecida a la de la neuritis vestibular, pero la pérdida auditiva puede ser permanente.",
+    "La laberintitis bacteriana se asocia sobre todo a una infección del oído medio, a un colesteatoma o a una meningitis.",
+    "En la forma supurativa, en la que las bacterias llegan al oído interno, la pérdida suele ser grave y permanente; el riesgo de meningitis la vuelve urgente.",
+    "Como vimos en la lección sobre infecciones, la cóclea puede osificarse después de una meningitis; esto importa para planificar un implante.",
+    "Toda persona con vértigo y pérdida auditiva súbita se deriva sin demora para una evaluación médica."
+   ]
+  },
+  {
+   "id": "ayirici",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Laberintitis y diagnóstico diferencial",
+   "baslik": "Diagnóstico *diferencial*",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "ACV",
+     "metin": "Cerebelo o tronco cerebral",
+     "cumle": 1
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "ACV de la AICA",
+     "metin": "Vértigo y pérdida auditiva",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Ménière",
+     "metin": "Primera crisis, horas",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Migraña vestibular",
+     "metin": "Crisis prolongada",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Laberintitis",
+     "metin": "Audición afectada",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La neuritis vestibular es la causa más frecuente del síndrome vestibular agudo, pero no la única.",
+    "Un accidente cerebrovascular (ACV) cerebeloso o del tronco cerebral puede imitar muy bien una neuritis; lo vimos en la lección sobre el HINTS.",
+    "Un ACV de la arteria cerebelosa anteroinferior (AICA) también puede afectar al laberinto y causar una pérdida auditiva súbita junto con el vértigo.",
+    "La primera crisis de la enfermedad de Ménière puede parecer una neuritis, pero la crisis pasa en horas y se acompaña de síntomas óticos.",
+    "Una crisis prolongada de migraña vestibular también puede durar varios días.",
+    "Por eso, evaluar la audición y preguntar por signos centrales son los primeros pasos ante un cuadro agudo."
+   ]
+  },
+  {
+   "id": "seyir",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Evolución y seguimiento",
+   "baslik": "*Compensación* y evolución",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Tiempo (semanas)",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Intensidad de los síntomas"
+    },
+    "seriler": [
+     {
+      "ad": "statik",
+      "noktalar": [
+       [
+        0,
+        9.5
+       ],
+       [
+        0.3,
+        8
+       ],
+       [
+        0.6,
+        5
+       ],
+       [
+        1,
+        2.5
+       ],
+       [
+        2,
+        1
+       ],
+       [
+        4,
+        0.4
+       ],
+       [
+        12,
+        0.2
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "síntomas en reposo",
+      "cumle": 1
+     },
+     {
+      "ad": "dinamik",
+      "noktalar": [
+       [
+        0,
+        9
+       ],
+       [
+        1,
+        7.5
+       ],
+       [
+        2,
+        6
+       ],
+       [
+        4,
+        4
+       ],
+       [
+        6,
+        2.8
+       ],
+       [
+        8,
+        2
+       ],
+       [
+        12,
+        1.2
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "síntomas con el movimiento cefálico",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "kalici",
+      "y": [
+       0,
+       2
+      ],
+      "x": [
+       8,
+       12
+      ],
+      "renk": "sari",
+      "etiket": "las molestias pueden persistir",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Estática: _días_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Dinámica: _semanas a meses_",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "El movimiento _ayuda a recuperarse_",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "En la neuritis vestibular, los síntomas ceden con el tiempo gracias a una recuperación parcial de la función periférica y a la compensación central.",
+    "El vértigo en reposo y el nistagmo espontáneo suelen disminuir mucho en pocos días.",
+    "Esto se llama compensación estática y se relaciona con la corrección, en el tronco cerebral, del desequilibrio entre ambos lados.",
+    "Los síntomas que provoca el movimiento de la cabeza ceden más despacio, en semanas o meses; esto se llama compensación dinámica.",
+    "Quedarse quieto enlentece este proceso; la vuelta gradual a las actividades diarias y la rehabilitación vestibular lo favorecen.",
+    "En algunas personas la inestabilidad dura mucho tiempo, y algunas desarrollan un mareo postural perceptual persistente.",
+    "Tras una neuritis también puede aparecer un vértigo posicional paroxístico benigno (VPPB) en el mismo oído; pregunten por molestias posicionales nuevas."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Evolución y seguimiento",
+   "baslik": "El *papel* del audiólogo",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Audición",
+     "metin": "Audiograma imprescindible",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Observación",
+     "metin": "Nistagmo, impulso cefálico",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Signos de alarma",
+     "metin": "Derivación médica urgente",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Batería de pruebas",
+     "metin": "vHIT, calórica, VEMP",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Seguimiento",
+     "metin": "Derivar a rehabilitación",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En una persona con vértigo agudo, la evaluación auditiva es muy valiosa; una pérdida auditiva aleja el diagnóstico de neuritis.",
+    "Se observan con cuidado la dirección del nistagmo, su cambio con la mirada y el hallazgo del impulso cefálico, y si es posible se registran.",
+    "Si algún hallazgo sugiere una causa central, se suspenden las pruebas y se deriva al paciente al médico con urgencia y sin demora.",
+    {
+     "yazi": "Pasada la fase aguda, el vHIT, la prueba calórica y los VEMP establecen la división afectada y el grado de pérdida."
+    },
+    "Las decisiones de tratamiento corresponden al médico; el audiólogo comparte los hallazgos con el equipo en un informe claro y breve.",
+    "Las personas cuyos síntomas persisten se derivan a rehabilitación vestibular y se les hace seguimiento."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En el vértigo agudo, pregunten siempre por la audición y mídanla. Una pérdida auditiva nueva aleja de la neuritis y puede requerir una evaluación urgente.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo desde la práctica: no evalúen a una persona con vértigo agudo como si solo tuviera un problema vestibular.",
+    "Pregunten siempre por pérdida auditiva, tinnitus o sensación de oído tapado; si es posible, hagan un audiograma.",
+    "Un síndrome vestibular agudo con pérdida auditiva nueva puede sugerir una laberintitis o un ACV del vaso que irriga el oído interno.",
+    "En ese caso, soliciten una evaluación médica sin demora; registren los hallazgos y la hora de inicio."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Vértigo súbito de días; _audición normal_",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "La división _superior_ es la más afectada",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "El nistagmo bate hacia el lado _sano_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "La laberintitis suma _pérdida auditiva_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "La neuritis vestibular se presenta con un vértigo súbito y continuo que dura días; la audición no se afecta.",
+    {
+     "yazi": "La división superior es la más afectada; en ese caso se alteran la prueba calórica, el vHIT de los canales lateral y anterior y el oVEMP."
+    },
+    "El nistagmo espontáneo es horizontal y torsional, bate hacia el oído sano y disminuye con la fijación.",
+    "En la laberintitis, la pérdida auditiva acompaña al vértigo; la forma bacteriana es una urgencia."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué suele conservarse en la neuritis superior?",
+   "secenekler": [
+    "Respuesta calórica",
+    "vHIT del canal lateral",
+    "oVEMP",
+    "cVEMP"
+   ],
+   "dogru": 3,
+   "aciklama": "El cVEMP refleja _el sáculo y la división inferior_, por eso suele conservarse en la afectación superior.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en la neuritis vestibular superior, ¿qué resultado suele mantenerse normal?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la D: el cVEMP."
+    },
+    {
+     "yazi": "El cVEMP refleja el sáculo y el nervio vestibular inferior; la afectación superior altera la prueba calórica, el vHIT del canal lateral y el oVEMP."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Migraña *vestibular*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la migraña vestibular, una causa frecuente de crisis recurrentes de mareo.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

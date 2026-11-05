@@ -1,0 +1,786 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D237_Pre_Implant_Evaluation_ES",
+ "kapak": {
+  "ust": "LECCIÓN 237",
+  "baslik": "Evaluación previa<br>al *implante*",
+  "alt": "Pruebas e imágenes",
+  "cizim": "ic_kulak_yolu_dibi",
+  "vurgula": [
+   "koklear_sinir"
+  ]
+ },
+ "youtube": {
+  "baslik": "Evaluación previa al implante: pruebas e imágenes | Lección 237 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué pruebas se hacen antes de un implante coclear? En esta lección vemos la anamnesis, la batería de pruebas audiológicas, la evaluación en niños, el papel de los PEATC y las OEA, cómo las pruebas vestibulares ayudan a elegir el oído, la evaluación de la cóclea y del nervio coclear con TC y RM, y la orientación sobre expectativas.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Niparko (ed.), Cochlear Implants: Principles and Practices; Sennaroğlu and Bajin (2017), Classification and Current Management of Inner Ear Malformations, Balkan Medical Journal; Katz, Handbook of Clinical Audiology; Social Security Institution (SGK), Health Implementation Communiqué (SUT), Turquía, sección 3.3.33.B.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "implantecoclear",
+   "perdidaauditiva"
+  ],
+  "etiketler": [
+   "evaluación para implante coclear",
+   "evaluación preoperatoria",
+   "deficiencia del nervio coclear",
+   "orientación sobre expectativas",
+   "tomografía de hueso temporal",
+   "resonancia magnética de oído interno",
+   "evaluación vestibular",
+   "PEATC",
+   "elección del oído",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 237",
+   "baslik": "Evaluación previa al *implante*",
+   "alt": "Pruebas, imágenes y orientación sobre expectativas",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos qué pruebas se hacen antes de un implante coclear y qué aporta cada una a la decisión.",
+    "Veremos las pruebas audiológicas, electrofisiológicas y vestibulares, la tomografía y la resonancia, y la orientación sobre expectativas."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La ruta de evaluación",
+   "baslik": "La *ruta* de evaluación",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Anamnesis",
+     "cumle": 0,
+     "metin": "Causa, duración, objetivos"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiología",
+     "cumle": 1,
+     "metin": "Sin y con audífonos"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Electrofisiología",
+     "cumle": 2,
+     "metin": "PEATC, OEA, equilibrio"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Imágenes",
+     "cumle": 3,
+     "metin": "TC y RM"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Decisión del equipo",
+     "cumle": 4,
+     "metin": "Orientación y consentimiento"
+    }
+   ],
+   "cumleler": [
+    "La evaluación preoperatoria comienza con una anamnesis detallada.",
+    "Las pruebas audiológicas documentan el grado de pérdida y el beneficio que se obtiene con audífonos.",
+    "Las pruebas electrofisiológicas y vestibulares aportan información que las pruebas conductuales no pueden dar.",
+    "Las imágenes muestran si la cóclea y el nervio auditivo son adecuados para un implante.",
+    "El equipo revisa todos los hallazgos, junto con la orientación sobre expectativas para la persona y la familia.",
+    "Al final de esta evaluación también suele decidirse qué oído recibirá el implante."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "La ruta de evaluación",
+   "baslik": "¿Qué se pregunta en la *anamnesis?*",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Causa",
+     "cumle": 0,
+     "metin": "Genética, meningitis, CMV"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Duración",
+     "cumle": 1,
+     "metin": "¿Desde cuándo la pérdida severa?"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Uso de audífonos",
+     "cumle": 2,
+     "metin": "¿Cuánto tiempo, con qué constancia?"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Modo de comunicación",
+     "cumle": 3,
+     "metin": "Lengua oral o de señas"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Estado de salud",
+     "cumle": 4,
+     "metin": "Otras enfermedades, cirugía de oído"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Objetivos",
+     "cumle": 5,
+     "metin": "Expectativas de la persona y la familia"
+    }
+   ],
+   "cumleler": [
+    "Se investiga la causa de la pérdida, como causas genéticas, meningitis, infección congénita por citomegalovirus o fármacos ototóxicos.",
+    "Cuánto tiempo lleva presente la pérdida severa es uno de los datos más importantes para el resultado esperado.",
+    "Se registra desde cuándo y cuántas horas al día se usan los audífonos; el registro de datos del dispositivo ayuda en esto.",
+    "El modo de comunicación de la persona o la familia, como la lengua oral o la lengua de señas, influye en el plan de rehabilitación.",
+    "Las cirugías de oído previas, la enfermedad crónica del oído medio y la salud general son importantes para la planificación quirúrgica.",
+    "Por último, se conversa abiertamente sobre lo que la persona y la familia esperan del implante."
+   ]
+  },
+  {
+   "id": "odyoloji",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas audiológicas",
+   "baslik": "La *batería* de pruebas audiológicas",
+   "maddeler": [
+    {
+     "metin": "Umbrales sin audífono: aérea, ósea, enmascaramiento",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Timpanometría, reflejo acústico, OEA",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Pruebas con audífonos verificados",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Audición residual registrada en detalle",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cada oído por separado: elección del oído",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        55,
+        70,
+        95,
+        110,
+        115,
+        115
+       ],
+       "cumle": 0,
+       "yanitsiz": [
+        4,
+        5
+       ]
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        60,
+        75,
+        100,
+        110,
+        115,
+        115
+       ],
+       "cumle": 0,
+       "yanitsiz": [
+        4,
+        5
+       ]
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Se obtienen los umbrales tonales sin audífono por vía aérea y ósea en cada oído, con enmascaramiento cuando hace falta.",
+    "La timpanometría, los reflejos acústicos y las otoemisiones acústicas, u OEA, ayudan a evaluar el oído medio y la función coclear.",
+    "Después de verificar los audífonos con medición en oído real, se obtienen umbrales con audífonos y se aplican pruebas de habla grabadas.",
+    "Las pruebas de habla se hacen en silencio y, si hace falta, en ruido, en cada oído por separado y en ambos oídos juntos.",
+    "La audición residual en frecuencias graves se registra en detalle; puede influir en la elección del electrodo y del abordaje quirúrgico.",
+    "El rendimiento de cada oído por separado se usa para decidir qué oído recibirá el implante."
+   ]
+  },
+  {
+   "id": "cocuk",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas audiológicas",
+   "baslik": "Evaluación en *niños*",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Pruebas según la edad",
+     "cumle": 0,
+     "metin": "Refuerzo visual, juego"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Umbrales con audífonos",
+     "cumle": 1,
+     "metin": "¿Se oyen los sonidos del habla?"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Cuestionarios para padres",
+     "cumle": 2,
+     "metin": "Habilidades auditivas"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Desarrollo del lenguaje",
+     "cumle": 3,
+     "metin": "Fonoaudiólogo"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Registro de datos",
+     "cumle": 4,
+     "metin": "Horas reales de uso"
+    }
+   ],
+   "cumleler": [
+    "En los niños se usan métodos conductuales adecuados a la edad: audiometría por refuerzo visual o audiometría por juego condicionado.",
+    "Los umbrales con audífonos muestran qué parte de los sonidos del habla puede oírse.",
+    "Los cuestionarios para padres registran de forma sistemática las respuestas y habilidades auditivas del niño en la vida diaria.",
+    "El fonoaudiólogo evalúa el desarrollo del lenguaje del niño en comparación con sus pares.",
+    "El registro de datos del dispositivo muestra cuánto usa realmente el niño los audífonos; si el uso es bajo, eso se aborda primero.",
+    "Si el avance limitado se debe a un uso insuficiente o a un beneficio realmente limitado es la distinción clave para la decisión."
+   ]
+  },
+  {
+   "id": "elektrofizyoloji",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Electrofisiología y equilibrio",
+   "baslik": "Pruebas *electrofisiológicas*",
+   "cizim": "abr",
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "onda V: estimación del umbral",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_I",
+     "metin": "onda I",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Umbral: PEATC y PEAEE",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "OEA presentes, PEATC ausentes: ¿neuropatía?",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Interpretar junto con las imágenes",
+     "cumle": 4,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    "En lactantes y en personas que no pueden responder de forma confiable, el grado de pérdida se determina con pruebas electrofisiológicas.",
+    "Para estimar umbrales se usan los potenciales evocados auditivos de tronco cerebral, o PEATC, de frecuencia específica, y los de estado estable, o PEAEE.",
+    "Si no hay PEATC pero sí otoemisiones o microfónico coclear, se considera un trastorno del espectro de la neuropatía auditiva.",
+    "Este cuadro no cambia la decisión de implante, pero influye en el proceso de evaluación y en las expectativas.",
+    "Las otoemisiones presentes también pueden verse en la deficiencia del nervio coclear, por eso se interpretan junto con las imágenes.",
+    "En casos seleccionados en que el estado del nervio es dudoso, también pueden considerarse pruebas adicionales con estimulación eléctrica."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Electrofisiología y equilibrio",
+   "baslik": "¿Por qué una *prueba de equilibrio?*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "canales semicirculares",
+     "cumle": 0
+    },
+    {
+     "parca": "sakkul",
+     "metin": "sáculo: VEMP",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "lateral_kanal",
+     "cumle": 4
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "La cirugía puede afectar el equilibrio",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Ayuda a elegir el oído",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Desarrollo motor en niños",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "En algunas personas, la cirugía del implante puede reducir la función vestibular del lado operado.",
+    "Si la función vestibular del otro oído ya es débil, operar el único lado que funciona bien puede causar una pérdida bilateral.",
+    "Por eso, las pruebas vestibulares orientan la decisión sobre qué oído recibe el implante.",
+    "En muchos niños con pérdida profunda también está afectada la función vestibular; esto puede notarse como un retraso para sentarse y caminar.",
+    {
+     "yazi": "La evaluación puede incluir la prueba de impulso cefálico con video, las pruebas calóricas y los potenciales evocados miogénicos vestibulares, o VEMP."
+    },
+    "En niños pequeños, pruebas adecuadas a la edad y la historia del desarrollo motor completan esta información."
+   ]
+  },
+  {
+   "id": "bt",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Imágenes",
+   "baslik": "¿Qué muestra la *TC?*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "cóclea: forma, osificación",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "nervio facial",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "metin": "conducto auditivo interno",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Forma coclear y malformaciones",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Osificación: tras una meningitis",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Reparos quirúrgicos",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklea",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 4,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La tomografía computarizada de alta resolución del hueso temporal, o TC, muestra en detalle las estructuras óseas.",
+    "Con la TC se evalúan la forma de la cóclea, el número de vueltas y las malformaciones del oído interno.",
+    "Se busca específicamente la osificación dentro de la cóclea tras una meningitis, porque dificulta la inserción de electrodos.",
+    "El nicho de la ventana redonda y el trayecto del nervio facial son importantes para la planificación del cirujano.",
+    "El estrechamiento del canal óseo por el que pasa el nervio coclear sugiere que el nervio también puede estar poco desarrollado.",
+    "El acueducto vestibular dilatado y la neumatización de la mastoides también se incluyen en el informe de la TC."
+   ]
+  },
+  {
+   "id": "mr",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Imágenes",
+   "baslik": "La RM y el *nervio coclear*",
+   "cizim": "mr_ic_kulak_yolu",
+   "ayar": {
+    "sinir_cumle": 1,
+    "aplazi_cumle": 4
+   },
+   "etiketler": [
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "nervio facial: anterosuperior",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "nervio coclear: anteroinferior",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "La resonancia magnética, o RM, muestra los nervios y los líquidos del oído interno.",
+    "En un corte del conducto auditivo interno se ven cuatro nervios: el facial, anterosuperior, y el coclear, anteroinferior.",
+    "Los nervios vestibulares superior e inferior se ubican en la parte posterior.",
+    "Normalmente, el nervio coclear es similar al nervio facial en el mismo corte, o algo más grande.",
+    "Un nervio pequeño o ausente se denomina deficiencia del nervio coclear, y afecta directamente la decisión de implante.",
+    "La RM también muestra si un tejido fibroso reemplazó el líquido dentro de la cóclea, y posibles hallazgos cerebrales."
+   ]
+  },
+  {
+   "id": "bt_mr",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Imágenes",
+   "baslik": "¿TC o *RM?*",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "TC",
+     "cumle": 0,
+     "metin": "Detalle óseo, estudio rápido"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "RM",
+     "cumle": 1,
+     "metin": "Nervios y líquido, sin radiación"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "RM en niños",
+     "cumle": 2,
+     "metin": "A menudo con sedación"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Ambas, en la mayoría de centros",
+     "cumle": 3,
+     "metin": "Se complementan"
+    }
+   ],
+   "cumleler": [
+    "La TC es superior para el detalle óseo y se obtiene rápido, pero implica radiación ionizante.",
+    "La RM no usa radiación y muestra directamente los nervios; es el método principal para evaluar el nervio coclear.",
+    "En niños pequeños, la RM a menudo requiere sedación o anestesia general.",
+    "Por eso, muchos centros usan ambos métodos; cuál va primero, o si se usa uno solo, varía según el centro.",
+    "En Turquía, el Comunicado de Aplicación en Salud también exige TC o RM para demostrar el desarrollo del oído interno y el nervio coclear.",
+    "Revisar las imágenes en el equipo de implante con el radiólogo y el cirujano es más valioso que leer solo el informe."
+   ]
+  },
+  {
+   "id": "kulak_secimi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Orientación",
+   "baslik": "¿Qué *oído?*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Audición residual",
+     "cumle": 0,
+     "metin": "¿Qué oído conservar?"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Duración de la sordera",
+     "cumle": 1,
+     "metin": "El de menor duración"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Anatomía",
+     "cumle": 2,
+     "metin": "Osificación, malformación, nervio"
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Función vestibular",
+     "cumle": 3,
+     "metin": "Proteger el único lado sano"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Plan bimodal",
+     "cumle": 4,
+     "metin": "Audífono en el otro oído"
+    }
+   ],
+   "cumleler": [
+    "Si se planifica un solo implante, elegir el oído es una decisión que pondera en conjunto todos los hallazgos de la evaluación.",
+    "El lado con menor duración de la pérdida severa suele responder mejor a la estimulación.",
+    "Un lado con osificación, malformación o un problema del nervio en las imágenes puede ser menos adecuado.",
+    "Las pruebas vestibulares ayudan a proteger el único órgano del equilibrio que funciona bien.",
+    "Algunos centros prefieren mantener con audífono el oído que mejor responde a él, para un uso bimodal; otros implantan ese oído.",
+    "Ambos enfoques tienen sus razones; el equipo decide según los hallazgos de la persona."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Orientación",
+   "baslik": "Otras *evaluaciones*",
+   "maddeler": [
+    {
+     "metin": "Anestesia y salud general",
+     "cumle": 0,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Vacunas contra meningitis: indicación médica",
+     "cumle": 1,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "Evaluación psicológica",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Desarrollo y entorno educativo",
+     "cumle": 3,
+     "ikon": "okul"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "OBJETIVO",
+    "metin": "No buscar impedimentos, sino planificar bien *el proceso*",
+    "cumle": 4
+   },
+   "cumleler": [
+    "El médico evalúa la salud de la persona con vistas a la anestesia general y la cirugía.",
+    "El médico revisa las recomendaciones de vacunación frente al riesgo de meningitis en los usuarios de implante.",
+    "El psicólogo evalúa las expectativas, la capacidad de afrontamiento y las fuentes de apoyo de la persona y la familia.",
+    "En los niños, el desarrollo general, las discapacidades adicionales y el entorno educativo también forman parte del plan.",
+    "Estas evaluaciones no se hacen para impedir el implante, sino para planificar bien el proceso posterior."
+   ]
+  },
+  {
+   "id": "beklenti",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Orientación",
+   "baslik": "Orientación sobre *expectativas*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Primeros sonidos",
+     "cumle": 0,
+     "metin": "Mecánicos, naturales con el tiempo"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Resultados variables",
+     "cumle": 1,
+     "metin": "Difieren entre personas"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Rehabilitación",
+     "cumle": 2,
+     "metin": "Meses de esfuerzo"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Audición residual",
+     "cumle": 3,
+     "metin": "Puede perderse"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "RM e imán",
+     "cumle": 4,
+     "metin": "Saberlo de antemano"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Papel de la familia",
+     "cumle": 5,
+     "metin": "Práctica diaria"
+    }
+   ],
+   "cumleler": [
+    "La orientación sobre expectativas consiste en hablar de antemano, con realismo, sobre lo que el implante aportará y lo que no.",
+    "Los resultados varían mucho entre personas; dos personas de la misma edad pueden avanzar de forma muy distinta.",
+    "El implante no termina con la cirugía; la programación y la rehabilitación auditiva exigen meses de esfuerzo regular.",
+    "Se dice con claridad que la audición residual del oído operado puede perderse, aunque los cirujanos intenten conservarla.",
+    "Se explica que, por el imán de la unidad interna, pueden necesitarse precauciones especiales en futuras resonancias magnéticas.",
+    "Se destaca que la participación de la familia en la práctica diaria de escucha y habla influye notablemente en el resultado."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Al final de la evaluación, anota por escrito objetivos concretos de la persona, como hablar por teléfono. Retomarlos en el seguimiento ayuda a comparar expectativas y resultados.",
+   "cumleler": [
+    "Un consejo de la práctica: al final de la evaluación, registren por escrito y de forma concreta los objetivos de la persona.",
+    "Elijan objetivos de la vida real, como hablar por teléfono con una hija o seguir a la maestra en clase.",
+    "Retomar estos objetivos en el seguimiento después de la activación permite ver el progreso junto con la persona.",
+    "Si un objetivo no es realista, es mucho más fácil conversarlo con tacto y franqueza antes de la cirugía."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Anamnesis y audiología: grado y beneficio",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "PEATC, OEA y pruebas vestibulares completan",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "TC para el hueso, RM para el nervio",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Orientar las expectativas es parte de la decisión",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "Una anamnesis detallada y las pruebas audiológicas documentan el grado de pérdida y el beneficio con audífonos verificados.",
+    "Las pruebas electrofisiológicas y vestibulares aclaran la neuropatía auditiva, el estado del nervio y la elección del oído.",
+    "La TC muestra la estructura ósea de la cóclea y la osificación, y la RM muestra el nervio coclear y los líquidos del oído interno.",
+    "Las expectativas realistas, el plan de rehabilitación y los objetivos se conversan con la persona y la familia antes de la cirugía."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cuál es el método de imagen principal para la presencia y el tamaño del nervio coclear?",
+   "secenekler": [
+    "Radiografía simple",
+    "TC",
+    "RM",
+    "Ecografía"
+   ],
+   "dogru": 2,
+   "aciklama": "La RM muestra directamente los nervios; la TC es superior para el detalle _óseo_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál es el método de imagen principal para evaluar la presencia y el tamaño del nervio coclear?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: la resonancia magnética.",
+    "La RM muestra directamente los nervios del conducto auditivo interno; la TC da información indirecta, porque muestra el canal óseo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Malformaciones del oído interno según *Sennaroğlu*",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "En la próxima lección veremos las malformaciones del oído interno y la clasificación de Sennaroğlu, y su efecto en la decisión de implante."
+    },
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

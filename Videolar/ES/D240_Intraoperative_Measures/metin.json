@@ -1,0 +1,1371 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D240_Intraoperative_Measures_ES",
+ "kapak": {
+  "ust": "LECCIÓN 240",
+  "baslik": "Mediciones<br>*intraoperatorias*",
+  "alt": "Impedancia, ECAP y ESRT",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "Mediciones intraoperatorias: impedancia, ECAP y ESRT | Lección 240 | AIHEAR Academia de Audiología",
+  "aciklama": "Durante la cirugía de implante coclear, ¿cómo sabemos que el implante y el nervio auditivo funcionan mientras el paciente está dormido? En esta lección vemos la impedancia de electrodos medida por telemetría, los cortocircuitos y circuitos abiertos, el potencial de acción compuesto evocado eléctricamente (ECAP) y el umbral del reflejo estapedial evocado eléctricamente (ESRT).\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Hughes, Objective Measures in Cochlear Implants; Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "implantecoclear",
+   "ECAP"
+  ],
+  "etiketler": [
+   "implante coclear",
+   "mediciones intraoperatorias",
+   "impedancia de electrodos",
+   "ECAP",
+   "potencial de acción compuesto evocado eléctricamente",
+   "ESRT",
+   "reflejo estapedial eléctrico",
+   "telemetría",
+   "cortocircuito",
+   "circuito abierto",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 240",
+   "baslik": "Mediciones *intraoperatorias*",
+   "alt": "Impedancia, ECAP y ESRT",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos las mediciones que se hacen durante la cirugía de implante coclear, mientras el paciente está dormido.",
+    {
+     "yazi": "Veremos la impedancia de los electrodos, el potencial de acción compuesto evocado eléctricamente (ECAP) y el reflejo estapedial eléctrico."
+    }
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué medir?",
+   "baslik": "¿*Por qué* medir en el quirófano?",
+   "adimlar": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Electrodo en su lugar",
+     "cumle": 0,
+     "metin": "Guía dentro de la cóclea"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Impedancia",
+     "cumle": 2,
+     "metin": "¿Están intactos los electrodos?"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ECAP",
+     "cumle": 3,
+     "metin": "¿Responde el nervio?"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "ESRT",
+     "cumle": 4,
+     "metin": "¿Funciona la vía refleja?"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registro",
+     "cumle": 5,
+     "metin": "Punto de partida para programar"
+    }
+   ],
+   "cumleler": [
+    "Después de que el cirujano coloca la guía de electrodos en la cóclea y fija el receptor-estimulador, comienza un breve período de mediciones.",
+    "Estas mediciones suele hacerlas el audiólogo; el paciente está bajo anestesia general y no necesita responder.",
+    "La primera pregunta es si el implante y cada electrodo están técnicamente intactos; la medición de impedancia lo responde.",
+    {
+     "yazi": "La segunda pregunta es si el nervio auditivo responde a la estimulación eléctrica; el ECAP lo muestra."
+    },
+    "La tercera pregunta es si la estimulación activa la vía refleja del tronco cerebral; el reflejo estapedial eléctrico lo muestra.",
+    "Los resultados se registran y son el punto de partida tanto para las comparaciones posoperatorias como para la primera programación."
+   ]
+  },
+  {
+   "id": "telemetri",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué medir?",
+   "baslik": "*Telemetría*: hablar con el implante",
+   "cizim": "koklear_implant",
+   "etiketler": [
+    {
+     "parca": "verici_bobin",
+     "metin": "antena: envía órdenes",
+     "cumle": 1
+    },
+    {
+     "parca": "alici_uyarici",
+     "metin": "receptor-estimulador: mide",
+     "cumle": 2
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "metin": "guía de electrodos",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "verici_bobin",
+     "cumle": 1
+    },
+    {
+     "parca": "alici_uyarici",
+     "cumle": 2
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Orden de la antena al implante",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "El resultado se envía de vuelta",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Antena en una funda estéril",
+     "cumle": 5,
+     "ikon": "hastane"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "alici_uyarici",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En la cirugía no se conecta ningún cable al implante; las mediciones usan un enlace inalámbrico bidireccional llamado telemetría.",
+    "Una interfaz conectada a una computadora envía órdenes a la unidad interna a través de una antena colocada sobre la piel.",
+    "Al recibir la orden, el receptor-estimulador emite una pequeña corriente por un electrodo determinado y mide el voltaje resultante.",
+    "Si es necesario, se usa un electrodo vecino como electrodo de registro para captar la respuesta del nervio dentro de la cóclea.",
+    "Los valores medidos se envían de vuelta por el mismo enlace y aparecen en la pantalla de la computadora.",
+    "Como el campo quirúrgico es estéril, la antena se usa dentro de una funda estéril, sobre un paño delgado.",
+    "La misma telemetría se usa en cada consulta después de la cirugía, así que estas mediciones no son exclusivas del quirófano."
+   ]
+  },
+  {
+   "id": "empedans",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Impedancia de electrodos",
+   "baslik": "*Impedancia* de los electrodos",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 12.5,
+     "ad": "Electrodo (guía de ejemplo)",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 30,
+     "adim": 5,
+     "ad": "Impedancia (kiloohmios)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        7
+       ],
+       [
+        2,
+        6.5
+       ],
+       [
+        3,
+        7.5
+       ],
+       [
+        4,
+        8
+       ],
+       [
+        5,
+        7
+       ],
+       [
+        8,
+        6.5
+       ],
+       [
+        9,
+        7
+       ],
+       [
+        10,
+        7.5
+       ],
+       [
+        11,
+        8
+       ],
+       [
+        12,
+        8.5
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 2
+     },
+     {
+      "ad": "acik",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        6,
+        30
+       ]
+      ],
+      "renk": "kirmizi",
+      "cumle": 5
+     },
+     {
+      "ad": "kisa",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        7,
+        0.8
+       ]
+      ],
+      "renk": "sari",
+      "cumle": 6
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "beklenen",
+      "y": [
+       4,
+       12
+      ],
+      "renk": "yesil",
+      "etiket": "rango esperado de ejemplo",
+      "cumle": 3
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "acik",
+     "metin": "muy alta: circuito abierto",
+     "cumle": 5
+    },
+    {
+     "parca": "kisa",
+     "metin": "muy baja: cortocircuito",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "La impedancia describe la oposición que encuentra una corriente eléctrica a lo largo de un camino, y se expresa en kiloohmios.",
+    "Se hace pasar una pequeña corriente conocida por cada electrodo, se mide el voltaje y se divide el voltaje por la corriente; es la ley de Ohm.",
+    "La impedancia de un electrodo depende de su superficie y del líquido y el tejido que lo rodean.",
+    "Cada sistema tiene su propio rango esperado; los valores de este gráfico son solo ejemplos.",
+    "Lo que importa en la clínica es si un electrodo queda muy por fuera del rango esperado.",
+    "En este ejemplo, el electrodo seis muestra un valor muy alto, lo que sugiere un circuito abierto.",
+    "El electrodo siete muestra un valor muy bajo, lo que sugiere un cortocircuito."
+   ]
+  },
+  {
+   "id": "devre",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Impedancia de electrodos",
+   "baslik": "Cortocircuito y *circuito abierto*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Cortocircuito",
+     "cumle": 0,
+     "metin": "Impedancia muy baja"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Resultado",
+     "cumle": 2,
+     "metin": "La estimulación se desvía"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Circuito abierto",
+     "cumle": 3,
+     "metin": "Impedancia muy alta"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "¿Qué hacer?",
+     "cumle": 5,
+     "metin": "Volver a medir y apagar si hace falta"
+    }
+   ],
+   "cumleler": [
+    "Un cortocircuito se produce cuando hay un contacto no deseado entre dos electrodos o entre sus cables conductores.",
+    "La corriente queda entonces entre los dos electrodos sin difundirse al tejido; la impedancia medida es mucho menor de lo esperado.",
+    "Si se usan electrodos en cortocircuito, la estimulación llega al lugar equivocado y la calidad del sonido puede verse afectada.",
+    "Un circuito abierto significa que el camino de la corriente está interrumpido; la impedancia es muy alta o no puede medirse.",
+    "La causa puede ser un cable roto; en la cirugía, una pequeña burbuja de aire sobre el electrodo también puede causarlo de forma transitoria.",
+    "Por eso, un valor alto en la cirugía se vuelve a medir unos minutos después, o en el control siguiente.",
+    "Los electrodos con un circuito abierto o un cortocircuito persistentes se apagan en la programación, y el mapa se arma con los electrodos restantes."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Impedancia de electrodos",
+   "baslik": "La impedancia cambia *con el tiempo*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Semanas tras la cirugía",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 15,
+     "adim": 5,
+     "ad": "Impedancia (relativa)"
+    },
+    "seriler": [
+     {
+      "ad": "seyir",
+      "noktalar": [
+       [
+        0,
+        6
+       ],
+       [
+        1,
+        9
+       ],
+       [
+        2,
+        11
+       ],
+       [
+        3,
+        12
+       ],
+       [
+        4,
+        12.3
+       ],
+       [
+        5,
+        8.5
+       ],
+       [
+        6,
+        7.2
+       ],
+       [
+        8,
+        6.6
+       ],
+       [
+        10,
+        6.4
+       ],
+       [
+        12,
+        6.4
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "aktivasyon",
+      "x": 4,
+      "y": 12.3,
+      "cizgi": "dikey",
+      "etiket": "activación",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "artis",
+      "x": [
+       0,
+       4
+      ],
+      "renk": "sari",
+      "etiket": "período sin estimulación",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "artis",
+     "cumle": 1
+    },
+    {
+     "parca": "aktivasyon",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "La impedancia no se mantiene constante después de la cirugía; este gráfico muestra la evolución típica con valores de ejemplo.",
+    "En el período sin estimulación, entre la cirugía y la activación, la impedancia suele subir por la reacción del tejido alrededor de los electrodos.",
+    "Una vez que los electrodos se estimulan con regularidad, la impedancia suele bajar en los primeros días y luego se estabiliza.",
+    "Por eso la impedancia siempre se vuelve a medir en la activación; los valores de la cirugía no bastan para programar.",
+    "Si la impedancia es alta, se necesita más voltaje para entregar la misma corriente; el voltaje que puede aportar un implante tiene un límite superior.",
+    "Cuando se alcanza este límite, llamado límite de voltaje de cumplimiento, se aumenta el ancho de pulso; lo veremos en la lección de programación."
+   ]
+  },
+  {
+   "id": "ecap",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "ECAP",
+   "baslik": "*ECAP*: la respuesta eléctrica del nervio",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_tympani",
+     "metin": "electrodo aquí",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "metin": "ganglio espiral",
+     "cumle": 3
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "nervio coclear",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "scala_tympani",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 3
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Estímulo: un pulso eléctrico",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Registro: electrodo vecino",
+     "cumle": 5,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "No lo alteran el sueño ni la anestesia",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La segunda medición es el potencial de acción compuesto evocado eléctricamente, o ECAP."
+    },
+    {
+     "yazi": "El ECAP es la respuesta sincrónica y conjunta de las fibras del nervio auditivo a un pulso eléctrico."
+    },
+    "El electrodo está en la rampa timpánica y emite un pulso breve.",
+    "El pulso estimula al mismo tiempo las células del ganglio espiral y las fibras nerviosas cercanas.",
+    "Las fibras que descargan juntas generan una respuesta eléctrica pequeña, pero medible, a lo largo del nervio coclear.",
+    "Esta respuesta se registra desde el interior de la cóclea, con otro electrodo cercano al estimulado.",
+    {
+     "yazi": "El ECAP es el equivalente eléctrico del potencial de acción de la electrococleografía; el sueño y la anestesia no lo afectan claramente."
+    }
+   ]
+  },
+  {
+   "id": "dalga",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "ECAP",
+   "baslik": "N1 y P2: la *forma de onda*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 1.6,
+     "ad": "Tiempo (milisegundos)",
+     "isaretler": [
+      0,
+      0.4,
+      0.8,
+      1.2,
+      1.6
+     ],
+     "ond": 1
+    },
+    "y": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Amplitud (microvoltios)"
+    },
+    "seriler": [
+     {
+      "ad": "ecap",
+      "noktalar": [
+       [
+        0.1,
+        -0.6
+       ],
+       [
+        0.125,
+        -2.7
+       ],
+       [
+        0.15,
+        -9.5
+       ],
+       [
+        0.175,
+        -27.8
+       ],
+       [
+        0.2,
+        -67.1
+       ],
+       [
+        0.225,
+        -132.8
+       ],
+       [
+        0.25,
+        -216.4
+       ],
+       [
+        0.275,
+        -290.0
+       ],
+       [
+        0.3,
+        -319.4
+       ],
+       [
+        0.325,
+        -288.9
+       ],
+       [
+        0.35,
+        -214.0
+       ],
+       [
+        0.375,
+        -128.0
+       ],
+       [
+        0.4,
+        -58.4
+       ],
+       [
+        0.425,
+        -13.1
+       ],
+       [
+        0.45,
+        14.1
+       ],
+       [
+        0.475,
+        33.2
+       ],
+       [
+        0.5,
+        50.9
+       ],
+       [
+        0.525,
+        69.8
+       ],
+       [
+        0.55,
+        89.7
+       ],
+       [
+        0.575,
+        109.0
+       ],
+       [
+        0.6,
+        125.3
+       ],
+       [
+        0.625,
+        136.2
+       ],
+       [
+        0.65,
+        140.0
+       ],
+       [
+        0.675,
+        136.2
+       ],
+       [
+        0.7,
+        125.3
+       ],
+       [
+        0.725,
+        109.0
+       ],
+       [
+        0.75,
+        89.8
+       ],
+       [
+        0.775,
+        69.9
+       ],
+       [
+        0.8,
+        51.5
+       ],
+       [
+        0.825,
+        35.9
+       ],
+       [
+        0.85,
+        23.7
+       ],
+       [
+        0.875,
+        14.8
+       ],
+       [
+        0.9,
+        8.7
+       ],
+       [
+        0.925,
+        4.9
+       ],
+       [
+        0.95,
+        2.6
+       ],
+       [
+        0.975,
+        1.3
+       ],
+       [
+        1.0,
+        0.6
+       ],
+       [
+        1.025,
+        0.3
+       ],
+       [
+        1.05,
+        0.1
+       ],
+       [
+        1.075,
+        0.0
+       ],
+       [
+        1.1,
+        0.0
+       ],
+       [
+        1.125,
+        0.0
+       ],
+       [
+        1.15,
+        0.0
+       ],
+       [
+        1.175,
+        0.0
+       ],
+       [
+        1.2,
+        0.0
+       ],
+       [
+        1.225,
+        0.0
+       ],
+       [
+        1.25,
+        0.0
+       ],
+       [
+        1.275,
+        0.0
+       ],
+       [
+        1.3,
+        0.0
+       ],
+       [
+        1.325,
+        0.0
+       ],
+       [
+        1.35,
+        0.0
+       ],
+       [
+        1.375,
+        0.0
+       ],
+       [
+        1.4,
+        0.0
+       ],
+       [
+        1.425,
+        0.0
+       ],
+       [
+        1.45,
+        0.0
+       ],
+       [
+        1.475,
+        0.0
+       ],
+       [
+        1.5,
+        0.0
+       ],
+       [
+        1.525,
+        0.0
+       ],
+       [
+        1.55,
+        0.0
+       ],
+       [
+        1.575,
+        0.0
+       ],
+       [
+        1.6,
+        0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 4,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "n1",
+      "x": 0.3,
+      "y": -320,
+      "etiket": "N1",
+      "dolu": true,
+      "cumle": 1
+     },
+     {
+      "ad": "p2",
+      "x": 0.65,
+      "y": 140,
+      "etiket": "P2",
+      "dolu": true,
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "genlik",
+      "y": [
+       -320,
+       140
+      ],
+      "xk": 1.0,
+      "etiket": "amplitud N1-P2",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "artefakt",
+      "x": [
+       0,
+       0.1
+      ],
+      "renk": "gri",
+      "etiket": "artefacto",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "n1",
+     "cumle": 1
+    },
+    {
+     "parca": "p2",
+     "cumle": 2
+    },
+    {
+     "parca": "artefakt",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Este gráfico muestra un ejemplo de forma de onda del ECAP; el eje del tiempo abarca solo alrededor de un milisegundo y medio."
+    },
+    {
+     "yazi": "El primer componente, y el más prominente, es N1, un pico negativo que aparece hacia los 0,2 a 0,4 milisegundos."
+    },
+    {
+     "yazi": "Le sigue un pico positivo más pequeño, P2."
+    },
+    {
+     "yazi": "El tamaño de la respuesta se mide como la diferencia entre N1 y P2, y está en el rango de los microvoltios."
+    },
+    "La principal dificultad es que el pulso de estímulo genera en el electrodo de registro un artefacto eléctrico mucho mayor que la respuesta.",
+    "Para reducir este artefacto se usan métodos como el enmascaramiento hacia adelante con sustracción o el promedio de pulsos de polaridad opuesta.",
+    "En el software, esta medición recibe distintos nombres según el fabricante, pero todos registran la misma respuesta del nervio."
+   ]
+  },
+  {
+   "id": "buyume",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "ECAP",
+   "baslik": "Función de crecimiento y *umbral*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 140,
+     "max": 220,
+     "ad": "Nivel de estímulo (unidades de corriente)",
+     "isaretler": [
+      140,
+      160,
+      180,
+      200,
+      220
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 500,
+     "adim": 100,
+     "ad": "Amplitud N1-P2 (microvoltios)"
+    },
+    "seriler": [
+     {
+      "ad": "olcumler",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        175,
+        45
+       ],
+       [
+        180,
+        90
+       ],
+       [
+        185,
+        135
+       ],
+       [
+        190,
+        180
+       ],
+       [
+        195,
+        225
+       ],
+       [
+        200,
+        270
+       ],
+       [
+        205,
+        315
+       ],
+       [
+        210,
+        360
+       ],
+       [
+        215,
+        405
+       ],
+       [
+        220,
+        450
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "cumle": 1
+     },
+     {
+      "ad": "egri",
+      "noktalar": [
+       [
+        170,
+        0
+       ],
+       [
+        220,
+        450
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "esik",
+      "x": 170,
+      "y": 0,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "umbral del ECAP",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "esik",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El ECAP no se mide en un solo nivel, sino en varios niveles de corriente que aumentan de forma gradual."
+    },
+    "A medida que aumenta la corriente, se estimulan más fibras nerviosas y la amplitud de la respuesta crece.",
+    "Esta curva, que muestra cómo crece la amplitud con la corriente, se llama función de crecimiento de amplitud.",
+    {
+     "yazi": "El nivel en que aparece por primera vez la respuesta, o en que la curva prolongada llega a cero, se toma como umbral del ECAP."
+    },
+    "La pendiente de la curva da información indirecta sobre la cantidad y la sincronía de las fibras nerviosas que pueden estimularse.",
+    "En la cirugía, las mediciones suelen hacerse en varios electrodos elegidos a lo largo de la guía, para que todas las regiones estén representadas."
+   ]
+  },
+  {
+   "id": "ecap_klinik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "ECAP",
+   "baslik": "Lo que el ECAP *nos dice* y lo que no",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Respuesta del nervio",
+     "cumle": 0,
+     "metin": "Hay fibras excitables"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Programación",
+     "cumle": 1,
+     "metin": "Para el perfil de niveles"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Si no aparece",
+     "cumle": 3,
+     "metin": "No es un resultado definitivo"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Límite",
+     "cumle": 5,
+     "metin": "Se necesitan medidas conductuales"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Obtener un ECAP en la cirugía muestra que los electrodos llegan a fibras nerviosas excitables, lo que tranquiliza al equipo."
+    },
+    {
+     "yazi": "Los umbrales del ECAP ayudan a predecir cómo cambian los niveles de umbral y de confort a lo largo de los electrodos en la primera programación."
+    },
+    {
+     "yazi": "En la mayoría de las personas, el umbral del ECAP está entre el umbral conductual y el nivel de confort, a menudo más cerca de este último."
+    },
+    {
+     "yazi": "La ausencia de ECAP no significa que el implante no funcione; algunas personas se benefician del implante sin un ECAP medible."
+    },
+    "La deficiencia del nervio coclear, las malformaciones del oído interno o causas técnicas pueden hacer que la respuesta sea menor o no aparezca.",
+    {
+     "yazi": "La relación entre el ECAP y los niveles de programación es moderada, así que el ECAP complementa las medidas conductuales, no las reemplaza."
+    }
+   ]
+  },
+  {
+   "id": "esrt",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "ESRT",
+   "baslik": "El *reflejo estapedial* eléctrico",
+   "cizim": "akustik_refleks_arki",
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 2,
+    "kontra_cumle": 5
+   },
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "cóclea implantada",
+     "cumle": 2
+    },
+    {
+     "parca": "stapedius",
+     "metin": "el estapedio se contrae",
+     "cumle": 3
+    },
+    {
+     "parca": "karsi_stapedius",
+     "metin": "se mide en el otro oído",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 2
+    },
+    {
+     "parca": "stapedius",
+     "cumle": 3
+    },
+    {
+     "parca": "karsi_stapedius",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La tercera medición es el umbral del reflejo estapedial evocado eléctricamente, o ESRT."
+    },
+    "En la lección sobre el reflejo acústico vimos que el estapedio se contrae ante sonidos fuertes; el mismo reflejo puede provocarse eléctricamente.",
+    "El implante estimula el nervio auditivo, y la señal recorre el arco reflejo en el tronco cerebral hasta el nervio facial.",
+    "En la cirugía, el cirujano observa el tendón del estapedio o el estribo con el microscopio e informa el nivel en que aparece la contracción.",
+    "Es una medición visual y solo lleva unos segundos por electrodo.",
+    {
+     "yazi": "Después de la cirugía, el ESRT suele medirse con una sonda de inmitancia en el otro oído, observando un cambio en la admitancia."
+    },
+    {
+     "yazi": "El ESRT se relaciona bien con el nivel de escucha más alto que la persona tolera cómodamente, así que orienta el límite superior al programar."
+    },
+    "El nivel en que aparece el reflejo suele estar cerca de este nivel de confort, o un poco por encima."
+   ]
+  },
+  {
+   "id": "esrt_etki",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "ESRT",
+   "baslik": "Lo que *afecta* al ESRT",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Anestesia",
+     "cumle": 0,
+     "metin": "Los gases pueden elevar el umbral"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Oído medio",
+     "cumle": 2,
+     "metin": "El líquido impide medir"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Tendón seccionado",
+     "cumle": 3,
+     "metin": "No se ve reflejo"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Nervio y malformación",
+     "cumle": 4,
+     "metin": "Puede estar ausente"
+    }
+   ],
+   "cumleler": [
+    "Algunos gases anestésicos y relajantes musculares pueden elevar el umbral del reflejo o suprimirlo.",
+    {
+     "yazi": "Por eso el ESRT en la cirugía suele ser más alto que en una persona despierta, y el momento de medirlo se coordina con el equipo de anestesia."
+    },
+    "Después de la cirugía, si hay líquido u otro problema de oído medio en el otro oído, el reflejo puede no medirse con la sonda.",
+    "Si el tendón del estapedio se seccionó en una operación anterior, no se ve reflejo en ese lado.",
+    "En la deficiencia del nervio coclear y en algunas malformaciones, el reflejo puede no obtenerse en absoluto.",
+    {
+     "yazi": "Por eso, la ausencia de ESRT no es por sí sola un signo de problema; se interpreta junto con las demás medidas."
+    }
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Otras medidas",
+   "baslik": "*Otras* medidas en la cirugía",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Imágenes",
+     "cumle": 0,
+     "metin": "Posición de la guía, plegamiento"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "ECochG",
+     "cumle": 2,
+     "metin": "Monitoreo de la audición residual"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "EABR",
+     "cumle": 4,
+     "metin": "Respuesta del tronco cerebral"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En muchos centros, una radiografía o una tomografía computarizada (TC) al final de la cirugía controla la posición de la guía en la cóclea."
+    },
+    "Esta imagen puede revelar, todavía en el quirófano, problemas poco frecuentes pero importantes, como el plegamiento de la punta.",
+    {
+     "yazi": "Cuando se busca preservar la audición residual, la respuesta coclear puede monitorizarse durante la inserción con electrococleografía (ECochG)."
+    },
+    "Una caída brusca de la respuesta le indica al cirujano que el electrodo puede haber dañado la cóclea.",
+    {
+     "yazi": "Si hay dudas sobre el nervio, en casos seleccionados también pueden registrarse potenciales evocados auditivos de tronco cerebral eléctricos (EABR)."
+    },
+    "Cuáles de estas medidas son de rutina varía de un centro a otro."
+   ]
+  },
+  {
+   "id": "tablo",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Otras medidas",
+   "baslik": "Las medidas *de un vistazo*",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Impedancia",
+     "cumle": 0,
+     "metin": "Integridad de los electrodos"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ECAP",
+     "cumle": 1,
+     "metin": "Respuesta del nervio, perfil de niveles"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "ESRT",
+     "cumle": 2,
+     "metin": "Estimación del nivel superior"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Imágenes",
+     "cumle": 3,
+     "metin": "Posición de la guía"
+    }
+   ],
+   "cumleler": [
+    "La impedancia muestra la integridad técnica de cada electrodo y decide qué electrodos se usarán.",
+    {
+     "yazi": "El ECAP muestra que el nervio auditivo puede estimularse y ayuda a predecir el perfil de niveles a lo largo de los electrodos."
+    },
+    {
+     "yazi": "El ESRT muestra que la vía refleja funciona y ofrece una estimación del nivel de confort más alto."
+    },
+    "Las imágenes muestran dónde está la guía y si hay un plegamiento.",
+    "Ninguna de estas medidas, por sí sola, indica cuánto beneficio obtendrá la persona del implante."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Registrar la impedancia, el ECAP y el ESRT intraoperatorios y compararlos en la activación. Si no hubo respuesta, explicar a la familia que eso por sí solo no es un fracaso.",
+   "cumleler": [
+    "Un consejo de la clínica: registren en detalle los resultados de las mediciones quirúrgicas, incluidos los electrodos y los niveles usados.",
+    "Repetir las mismas mediciones en la activación y compararlas ayuda a detectar a tiempo un electrodo que está cambiando.",
+    "Expliquen a la familia que las mediciones muestran el estado del dispositivo y del nervio, y que por sí solas no deciden el resultado.",
+    "Si no se pudo obtener una medición, expliquen el motivo y cuándo se repetirá, con un lenguaje tranquilo y claro."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Telemetría: medición inalámbrica bidireccional",
+     "cumle": 0,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Impedancia: cortocircuito y circuito abierto",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "ECAP: respuesta sincrónica del nervio",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "ESRT: reflejo cerca del nivel de confort",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Las mediciones intraoperatorias se hacen desde el propio implante mediante telemetría, sin que el paciente tenga que responder.",
+    "La impedancia muestra la integridad de cada electrodo; un valor muy bajo sugiere un cortocircuito y uno muy alto, un circuito abierto.",
+    {
+     "yazi": "El ECAP es la respuesta sincrónica del nervio auditivo a un pulso eléctrico; su umbral ayuda a predecir el perfil de programación."
+    },
+    {
+     "yazi": "El ESRT es la contracción del músculo estapedio ante la estimulación eléctrica y da un valor cercano al nivel de confort más alto."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué sugiere una impedancia muy alta?",
+   "secenekler": [
+    "Cortocircuito",
+    "Circuito abierto",
+    "Respuesta normal del nervio",
+    "Amplitud alta del ECAP"
+   ],
+   "dogru": 1,
+   "aciklama": "El camino de la corriente está interrumpido: un _circuito abierto_; una burbuja de aire puede ser una causa transitoria.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si un electrodo muestra en la cirugía una impedancia mucho más alta de lo esperado, ¿qué es lo primero que piensas?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: un circuito abierto.",
+    "Si el camino de la corriente se interrumpe, la impedancia sube bruscamente; en la cirugía, una burbuja de aire también puede causarlo por un tiempo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Estrategias de codificación: *CIS*, ACE, estructura fina",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo el implante convierte el sonido en pulsos eléctricos, es decir, las estrategias de codificación.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

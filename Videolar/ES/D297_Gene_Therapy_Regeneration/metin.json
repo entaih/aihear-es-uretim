@@ -1,0 +1,666 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D297_Gene_Therapy_Regeneration_ES",
+ "kapak": {
+  "ust": "LECCIÓN 297",
+  "baslik": "Terapia génica y<br>*regeneración*",
+  "alt": "Ensayos con OTOF y expectativas realistas",
+  "cizim": "corti",
+  "vurgula": [
+   "ic_tuy_hucresi"
+  ]
+ },
+ "youtube": {
+  "baslik": "Terapia génica y regeneración de células ciliadas | Lección 297 | AIHEAR Academia de Audiología",
+  "aciklama": "¿En qué punto está la terapia génica para la pérdida auditiva? En esta lección vemos los vectores AAV, los primeros resultados clínicos de la terapia génica para OTOF publicados desde 2024, cómo leer esos resultados, los enfoques de regeneración de células ciliadas y el papel del audiólogo. La primera terapia génica para OTOF recibió una aprobación acelerada en los Estados Unidos en 2026; sus resultados a largo plazo todavía se están estudiando.\\n\\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\\n\\nFuentes: Lv J et al. AAV1-hOTOF gene therapy for autosomal recessive deafness 9: a single-arm trial. Lancet (2024); Wang H et al. Bilateral gene therapy in children with autosomal recessive deafness 9: single-arm trial results. Nature Medicine (2024); Qi J et al. AAV-mediated gene therapy restores hearing in patients with DFNB9 deafness. Advanced Science (2024); Valayannopoulos V et al. DB-OTO gene therapy for inherited deafness. New England Journal of Medicine (2025); Administración de Alimentos y Medicamentos de los Estados Unidos (FDA), anuncio de aprobación de Otarmeni (lunsotogene parvec-cwha) (23 de abril de 2026).\\n\\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "terapiagenica",
+   "perdidaauditiva"
+  ],
+  "etiketler": [
+   "terapia génica",
+   "OTOF",
+   "otoferlina",
+   "DFNB9",
+   "virus adenoasociado",
+   "AAV",
+   "regeneración de células ciliadas",
+   "aprobación acelerada",
+   "hipoacusia genética",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 297",
+   "baslik": "Terapia génica y *regeneración*",
+   "alt": "Ensayos con OTOF, células ciliadas, expectativas realistas",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    {
+     "yazi": "En esta lección examinaremos la terapia génica para la pérdida auditiva y los resultados de los primeros ensayos clínicos con OTOF, publicados en 2024."
+    },
+    "También veremos los enfoques de regeneración de células ciliadas, las expectativas realistas y el papel del audiólogo."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Fundamentos",
+   "baslik": "¿Qué es la *terapia génica?*",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Adición génica",
+     "metin": "Una copia funcional del gen",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Silenciamiento génico",
+     "metin": "Reducir un producto dañino",
+     "cumle": 3
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Edición génica",
+     "metin": "Reparar la secuencia",
+     "cumle": 4
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Vector",
+     "metin": "Lleva el gen a las células",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La terapia génica busca corregir la causa genética de una enfermedad introduciendo material genético en las células.",
+    "El enfoque más simple es la adición génica: se introduce en la célula una copia funcional de un gen que no funciona.",
+    "Este enfoque es adecuado para las pérdidas recesivas, en las que ambas copias del gen perdieron su función.",
+    "Para algunas pérdidas dominantes se estudian métodos de silenciamiento que reducen el producto génico dañino.",
+    "Los métodos de edición génica buscan reparar directamente la secuencia defectuosa; en audición, esto aún está en etapa experimental.",
+    "Sea cual sea el método, se necesita un transportador que lleve el material genético a la célula correcta, llamado vector."
+   ]
+  },
+  {
+   "id": "aav",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Fundamentos",
+   "baslik": "El vector: *AAV*",
+   "ogeler": [
+    {
+     "ikon": "virus",
+     "baslik": "AAV",
+     "metin": "Un virus que no causa enfermedad",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Objetivo",
+     "metin": "Células del oído interno",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Capacidad",
+     "metin": "Tamaño génico limitado",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Vector dual",
+     "metin": "El gen en dos partes",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El vector más usado en la terapia génica del oído interno es el virus adenoasociado (AAV)."
+    },
+    {
+     "yazi": "El AAV es un virus pequeño que no causa enfermedad en los humanos; en el laboratorio se prepara para que no pueda replicarse."
+    },
+    {
+     "yazi": "Los distintos tipos de AAV se dirigen a células diferentes; para el oído interno se eligen tipos capaces de llegar a las células ciliadas."
+    },
+    {
+     "yazi": "La cantidad de material genético que puede llevar el AAV es limitada, y la secuencia codificante del gen de la otoferlina supera ese límite."
+    },
+    {
+     "yazi": "Por eso, en los ensayos con OTOF el gen se divide en dos partes que se aplican con dos AAV distintos; en la célula se unen y forman la proteína completa."
+    },
+    "Los anticuerpos preexistentes contra el vector son un factor importante que puede reducir el efecto del tratamiento."
+   ]
+  },
+  {
+   "id": "otof",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Fundamentos",
+   "baslik": "¿Por qué *OTOF?*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "célula ciliada interna: otoferlina",
+     "cumle": 0
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "células ciliadas externas: OEA",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 0
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La otoferlina es una proteína necesaria para la liberación de neurotransmisores en la sinapsis de la célula ciliada interna.",
+    {
+     "yazi": "Las variantes en ambas copias del gen de la otoferlina, o gen OTOF, causan una hipoacusia congénita de severa a profunda."
+    },
+    {
+     "yazi": "Este tipo se llama DFNB9 y es un ejemplo de la forma presináptica que vimos en la lección sobre el espectro de la neuropatía auditiva."
+    },
+    "Como al principio las células ciliadas externas funcionan, puede haber otoemisiones acústicas, pero no hay potenciales evocados auditivos de tronco cerebral (PEATC).",
+    "Como la cóclea y el nervio se conservan en gran medida, reponer la proteína que falta puede restablecer la función.",
+    {
+     "yazi": "Un solo gen, una célula específica y una estructura conservada: por eso OTOF fue uno de los primeros objetivos de la terapia génica en audición."
+    }
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Fundamentos",
+   "baslik": "Vía de *administración*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "ventana redonda",
+     "cumle": 1
+    },
+    {
+     "parca": "koklea",
+     "metin": "cóclea",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 1
+    },
+    {
+     "parca": "koklea",
+     "cumle": 2
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 1,
+     "olcek": 2.3
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En los ensayos con OTOF, el vector se administra directamente en la cóclea mediante una cirugía de oído."
+    },
+    "Con anestesia general se accede al oído medio, y el fármaco suele inyectarse en los líquidos cocleares a través de la ventana redonda.",
+    "Como la cóclea está llena de líquido y es relativamente cerrada, gran parte de la dosis permanece en el sitio de acción.",
+    "En los ensayos, a veces se trató un solo oído y a veces ambos oídos en la misma sesión.",
+    "Como el procedimiento es quirúrgico, también se vigilan con cuidado los riesgos para el oído medio y el oído interno.",
+    "El seguimiento usa los PEATC, los potenciales evocados auditivos de estado estable, la audiometría conductual y pruebas de percepción del habla."
+   ]
+  },
+  {
+   "id": "ilk",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ensayos clínicos",
+   "baslik": "2024: *primeros resultados*",
+   "adimlar": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Participantes",
+     "metin": "Seis niños, un oído",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Administración",
+     "metin": "AAV en la cóclea",
+     "cumle": 1
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Seguimiento",
+     "metin": "Veintiséis semanas",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Resultado",
+     "metin": "Mejoría en cinco niños",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Seguridad",
+     "metin": "Sin eventos adversos graves",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "A comienzos de 2024, Lv y colaboradores publicaron en The Lancet los primeros resultados de un ensayo de un solo brazo realizado en China."
+    },
+    {
+     "yazi": "Seis niños con pérdida auditiva por OTOF recibieron en un oído el gen de la otoferlina mediante AAV."
+    },
+    "Los niños fueron seguidos durante veintiséis semanas.",
+    "Los umbrales iniciales de PEATC superaban los noventa y cinco decibeles; en cinco niños, los umbrales medios bajaron entre cuarenta y cincuenta y siete decibeles.",
+    "No hubo eventos adversos graves ni toxicidad limitante de la dosis; en un niño sin respuesta se discutió el papel de los anticuerpos contra el vector.",
+    "Están entre los primeros informes de mejora auditiva con terapia génica en humanos con una pérdida auditiva genética congénita."
+   ]
+  },
+  {
+   "id": "yeni",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ensayos clínicos",
+   "baslik": "Ambos oídos y *ensayos más recientes*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Ambos oídos",
+     "metin": "Cinco niños, 2024",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Habla y dirección",
+     "metin": "Mejoría informada",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Otros grupos",
+     "metin": "Resultados similares",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Multicéntrico",
+     "metin": "Doce niños, 2025",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Aprobación en EE. UU.",
+     "metin": "Acelerada, abril de 2026",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En 2024, Wang y colaboradores publicaron en Nature Medicine un ensayo en el que el mismo enfoque se aplicó en ambos oídos de cinco niños."
+    },
+    "La audición mejoró en ambos oídos en todos los niños, y se informaron mejoras en la percepción del habla y en la localización del sonido.",
+    "Ese mismo año, Qi y colaboradores también informaron mejoras auditivas similares en niños tratados con terapia génica de otoferlina.",
+    {
+     "yazi": "En 2025, un ensayo multicéntrico con sede en Estados Unidos y Europa informó una mejora auditiva significativa en la mayoría de los doce niños."
+    },
+    "Todos estos son ensayos de fase temprana, abiertos y sin grupo control.",
+    {
+     "yazi": "En abril de 2026, una de estas terapias recibió la aprobación acelerada de la FDA; su durabilidad y su efecto en el lenguaje aún están en seguimiento."
+    }
+   ]
+  },
+  {
+   "id": "okuma",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ensayos clínicos",
+   "baslik": "¿*Cómo leer* los resultados?",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Muestra pequeña",
+     "metin": "Pocos niños",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Sin control",
+     "metin": "Diseño de un solo brazo",
+     "cumle": 1
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Seguimiento corto",
+     "metin": "Durabilidad desconocida",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Respuesta variable",
+     "metin": "No todos responden",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Seguridad",
+     "metin": "Largo plazo incierto",
+     "cumle": 4
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Edad",
+     "metin": "Tratar temprano podría importar",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Aquí también debemos hacernos las preguntas de las lecciones sobre lectura basada en la evidencia: primero, las muestras son muy pequeñas.",
+    "Los ensayos son de un solo brazo, es decir, no hay un grupo de comparación sin tratar.",
+    "El seguimiento dura meses o pocos años; no se sabe si el efecto durará toda la vida.",
+    "No todos los niños respondieron en el mismo grado, y en algunos la audición no alcanzó niveles normales.",
+    "Los datos de seguridad a largo plazo sobre el procedimiento quirúrgico y el vector todavía son limitados.",
+    "También se piensa que la edad al momento del tratamiento podría influir en el resultado para el desarrollo del lenguaje."
+   ]
+  },
+  {
+   "id": "rejenerasyon",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Regeneración",
+   "baslik": "*Regeneración* de células ciliadas",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "destek_hucreleri",
+     "metin": "células de sostén",
+     "cumle": 1
+    },
+    {
+     "parca": "tuy_hucreleri",
+     "metin": "células ciliadas",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "tuy_hucreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "destek_hucreleri",
+     "cumle": 1
+    },
+    {
+     "parca": "stereosil",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En los mamíferos, las células ciliadas perdidas por el ruido, el envejecimiento o los fármacos ototóxicos no vuelven a crecer por sí solas.",
+    "En las aves y los peces, en cambio, cuando se pierden células ciliadas, las células de sostén vecinas pueden convertirse en nuevas células ciliadas.",
+    "Esta observación llevó a los investigadores a buscar formas de convertir las células de sostén de la cóclea de los mamíferos en células ciliadas.",
+    "La regeneración de células ciliadas es distinta de la terapia génica.",
+    "Aquí el objetivo no es corregir un gen, sino reconstruir una célula perdida.",
+    "Para que una nueva célula ciliada sea útil, debe estar en el lugar correcto, formar sus estereocilios y conectarse con el nervio.",
+    "Por eso la regeneración es un objetivo mucho más complejo que la terapia génica."
+   ]
+  },
+  {
+   "id": "yaklasim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Regeneración",
+   "baslik": "*Enfoques* de regeneración",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Transferencia génica",
+     "metin": "Programa de célula ciliada",
+     "cumle": 0
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Estímulo farmacológico",
+     "metin": "Convertir células de sostén",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Células madre",
+     "metin": "Cultivadas en laboratorio",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Reparación sináptica",
+     "metin": "Factores de crecimiento",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Un enfoque introduce en las células de sostén un gen clave para el desarrollo de las células ciliadas, para convertirlas en células ciliadas.",
+    "Otro intenta lograr la misma conversión actuando con fármacos sobre las vías de señalización de las células de sostén.",
+    "También se estudia obtener en laboratorio células similares a las ciliadas a partir de células madre; este campo está en una etapa aún más temprana.",
+    "En estudios en animales también se intenta reparar con factores de crecimiento la pérdida sináptica que vimos en la lección sobre sinaptopatía.",
+    "Los primeros estudios en humanos con estos enfoques no han mostrado un beneficio auditivo establecido.",
+    "Por ejemplo, un enfoque que buscaba estimular las células de sostén con un fármaco no superó al placebo en un ensayo de fase dos."
+   ]
+  },
+  {
+   "id": "beklenti",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Regeneración",
+   "baslik": "*Expectativas* realistas",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genes específicos",
+     "metin": "No para cualquier pérdida",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Tiempo",
+     "metin": "Años de investigación por delante",
+     "cumle": 1
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "La opción actual",
+     "metin": "Audífonos e implantes",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Falsas promesas",
+     "metin": "Cuidado con los tratamientos falsos",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Evidencia",
+     "metin": "Publicaciones revisadas por pares",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Hoy, la terapia génica solo existe para pérdidas monogénicas específicas como la de OTOF, y en su mayoría sigue en ensayos clínicos."
+    },
+    "Aún no hay tratamiento clínico para otros tipos genéticos ni para la pérdida por ruido o por la edad; esta investigación puede llevar años.",
+    "Hoy, las opciones comprobadas para que un niño acceda al lenguaje son los audífonos y los implantes cocleares; no se posponen por un tratamiento futuro.",
+    "Hay que advertir a las familias sobre tratamientos no comprobados que se venden con el nombre de terapia con células madre o terapia génica.",
+    "La información confiable proviene de ensayos clínicos registrados y publicados en revistas con revisión por pares.",
+    "Los titulares que anuncian la cura de la sordera suelen describir estudios pequeños y en etapa temprana."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Regeneración",
+   "baslik": "El *papel* del audiólogo",
+   "adimlar": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Diagnóstico genético",
+     "metin": "Derivar a asesoramiento genético",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Información precisa",
+     "metin": "Equilibrar esperanza y realidad",
+     "cumle": 2
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Sin demoras",
+     "metin": "La intervención de hoy",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Medición",
+     "metin": "Evaluación en la investigación",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Seguimiento",
+     "metin": "Resultados a largo plazo",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El primer papel del audiólogo es derivar a la familia a evaluación y asesoramiento genético cuando una pérdida permanente no tiene causa conocida.",
+    "El diagnóstico genético también es la llave de las opciones que puedan surgir en el futuro.",
+    "Cuando una familia pregunta por la terapia génica, recibe información clara y precisa que equilibra la esperanza y la realidad.",
+    "Ninguna investigación debe ser motivo para retrasar hoy la adaptación de un audífono o un implante de eficacia comprobada.",
+    "En los ensayos clínicos, la audición y la percepción del habla suelen medirlas audiólogos; una medición cuidadosa y estándar da resultados confiables.",
+    "El seguimiento a largo plazo de los niños tratados también será una parte importante de la atención audiológica."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Alerta clínica",
+   "metin": "Cuando una familia traiga una noticia sobre terapia génica, no la descartes; revisa con ellos la publicación y explica por qué no debe retrasarse la intervención actual.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la clínica: cuando una familia te traiga una noticia sobre una terapia génica, no la descartes.",
+    "Revisa con ellos la publicación en la que se basa la noticia y el tipo genético en el que se estudió.",
+    "Si se conoce el diagnóstico genético del niño, di con claridad si ese tipo se está investigando.",
+    "Por último, explica, a partir del desarrollo del lenguaje, por qué no conviene posponer el plan actual de audífono o implante."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Adición génica con AAV: OTOF, el primero",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Ensayos de 2024: mejoró la mayoría",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Evidencia pequeña, sin control, de fase temprana",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "La regeneración está aún más lejos",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En la pérdida por OTOF, el gen de la otoferlina se administra en dos partes con un vector AAV, directamente en la cóclea."
+    },
+    {
+     "yazi": "Los ensayos publicados desde 2024 informaron una mejora de la audición y de la percepción del habla en la mayoría de los niños tratados."
+    },
+    "Los ensayos son pequeños, de fase temprana, sin grupo control y con seguimiento corto; la primera aprobación también depende del seguimiento a largo plazo.",
+    "La regeneración de células ciliadas aún no ha mostrado un beneficio comprobado en humanos; las opciones actuales no se posponen."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Por qué dos AAV?",
+   "secenekler": [
+    "Para duplicar el efecto",
+    "El gen no cabe en un AAV",
+    "Uno para cada oído",
+    "Para reducir la inmunidad"
+   ],
+   "dogru": 1,
+   "aciklama": "La secuencia codificante de la otoferlina es _más grande de lo que el AAV puede llevar_, por eso se divide en dos partes.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en la terapia génica para OTOF, ¿por qué se administra el gen con dos vectores AAV distintos?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: el gen es más grande de lo que puede llevar un solo AAV."
+    },
+    "Dentro de la célula, las partes se unen y forman la proteína otoferlina completa."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cultura Sorda y *diversidad lingüística*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la cultura Sorda, los modelos médico y cultural, y la diversidad lingüística.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

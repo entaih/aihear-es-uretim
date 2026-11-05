@@ -1,0 +1,1128 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D274_Case_Asymmetric_SNHL_ES",
+ "kapak": {
+  "ust": "LECCIÓN 274",
+  "baslik": "Caso: una pérdida<br>*asimétrica*",
+  "alt": "Mala discriminación, hallazgos del reflejo",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      20,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      20,
+      25,
+      35,
+      50,
+      60,
+      65
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Caso: hipoacusia asimétrica con mala discriminación | Lección 274 | AIHEAR Academia de Audiología",
+  "aciklama": "Evaluamos paso a paso un caso ficticio de un adulto con hipoacusia neurosensorial asimétrica: aplicación de los criterios de asimetría, un reconocimiento de palabras desproporcionadamente bajo y el índice de rollover, el patrón de los reflejos y el deterioro del reflejo, un hallazgo de PEATC de ejemplo, la derivación al otorrinolaringólogo y la redacción del informe.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses; Jerger and Jerger, Diagnostic significance of PB word functions (1971); Dubno et al., Confidence limits for maximum word-recognition scores (1995).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "schwannomavestibular",
+   "casoclinico"
+  ],
+  "etiketler": [
+   "hipoacusia neurosensorial asimétrica",
+   "pérdida auditiva asimétrica",
+   "rollover",
+   "índice de rollover",
+   "deterioro del reflejo acústico",
+   "schwannoma vestibular",
+   "retrococlear",
+   "PEATC",
+   "caso clínico de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 274",
+   "baslik": "Caso: una pérdida *asimétrica*",
+   "alt": "Mala discriminación y sospecha retrococlear",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección analizamos el caso de un adulto con hipoacusia neurosensorial asimétrica y un reconocimiento de palabras más bajo de lo esperado.",
+    "Aplicaremos los criterios de asimetría, leeremos los hallazgos de rollover y de los reflejos, y veremos el papel del audiólogo en la derivación."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis",
+   "baslik": "Caso de ejemplo: *anamnesis*",
+   "maddeler": [
+    {
+     "metin": "Un hombre de ejemplo, de 52 años",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Oye menos del lado _izquierdo_ hace un año",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Ahora usa el teléfono a la derecha",
+     "cumle": 2,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Tinnitus _unilateral_ izquierdo",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Inestabilidad leve, sin vértigo",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Pérdida unilateral",
+      "metin": "Lentamente progresiva",
+      "cumle": 1
+     },
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Tinnitus unilateral",
+      "metin": "En el mismo oído",
+      "cumle": 3
+     },
+     {
+      "ikon": "denge",
+      "baslik": "Inestabilidad",
+      "metin": "Leve, constante",
+      "cumle": 4
+     }
+    ],
+    "ust": "SIGNOS DE ALARMA"
+   },
+   "cumleler": [
+    "Nuestro caso es un ejemplo ficticio: un hombre de cincuenta y dos años consulta por disminución de la audición en el oído izquierdo.",
+    "La molestia lleva alrededor de un año y avanzó lentamente; no describe un inicio súbito.",
+    "Notó la pérdida cuando, al ponerse el teléfono en el oído izquierdo por costumbre, no pudo entender lo que le decían.",
+    "Tiene un tinnitus agudo y constante en el oído izquierdo; en el oído derecho no hay tinnitus.",
+    "Describe una leve sensación ocasional de inestabilidad, pero no crisis de vértigo rotatorio.",
+    "No hay antecedentes de exposición al ruido, uso de armas de fuego, cirugía de oído ni traumatismo craneal."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audiograma y asimetría",
+   "baslik": "Una pérdida *neurosensorial* en el oído izquierdo",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: leve caída en agudos",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía ósea enmascarada",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       20,
+       25,
+       25,
+       30
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       35,
+       50,
+       55,
+       60,
+       65
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       20,
+       25,
+       35,
+       45,
+       50,
+       55
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "frekanslar": [
+     250,
+     500,
+     1000,
+     2000,
+     3000,
+     4000,
+     8000
+    ]
+   },
+   "cumleler": [
+    "La otoscopia es normal en ambos oídos; los umbrales derechos caen levemente hacia los agudos y pueden considerarse propios de la edad.",
+    "En el oído izquierdo, la pérdida aumenta claramente por encima de 1000 hertz; los umbrales son de 50 dB HL en 2000 hertz y 65 dB HL en 8000 hertz.",
+    "La vía ósea izquierda, medida con el oído derecho enmascarado, se superpone a la vía aérea, así que la pérdida es neurosensorial.",
+    "Si se hubiera medido sin enmascarar, la vía ósea izquierda podría haber venido de la cóclea derecha y mostrar una falsa brecha aéreo-ósea.",
+    "Se usaron auriculares de inserción; la vía aérea izquierda menos la ósea derecha quedó bajo la atenuación interaural, así que no hizo falta enmascarar.",
+    "El cuadro es compatible con una hipoacusia neurosensorial asimétrica en el oído izquierdo.",
+    "Ahora comprobemos si esta asimetría es significativa con los criterios que vimos en una lección anterior."
+   ]
+  },
+  {
+   "id": "olcut",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audiograma y asimetría",
+   "baslik": "*Aplicar* los criterios",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Dos frecuencias contiguas",
+     "metin": "2 y 3 kHz: 30 dB",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "La regla de 3000",
+     "metin": "3 kHz: 30 dB de diferencia",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "20 en una frecuencia",
+     "metin": "4 kHz: 35 dB de diferencia",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Un criterio muy utilizado considera significativa una diferencia de 15 dB o más en dos frecuencias contiguas.",
+    "En nuestro caso, la diferencia es de 30 dB en 2000 hertz y otra vez de 30 dB en 3000 hertz; el criterio se cumple.",
+    "La regla de 3000, que solo mira la frecuencia de 3000 hertz, también supera claramente su límite de 15 dB.",
+    "En los protocolos que buscan 20 dB en una sola frecuencia, la diferencia de 35 dB en 4000 hertz también basta.",
+    "Así que, con cualquier criterio, esta asimetría es significativa; el informe indica el nombre del criterio utilizado.",
+    "La anamnesis no tiene ruido, traumatismo ni enfermedad de oído que expliquen la asimetría, y la acompañan tinnitus unilateral e inestabilidad."
+   ]
+  },
+  {
+   "id": "aciklama",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audiograma y asimetría",
+   "baslik": "¿Hay una *causa* que la explique?",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido unilateral",
+     "metin": "Armas de fuego, maquinaria pesada",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Antecedentes óticos",
+     "metin": "Cirugía, enfermedad crónica",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Crisis previas",
+     "metin": "Ménière, sordera súbita",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "En este caso",
+     "metin": "Ninguna causa que la explique",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Cuando se encuentra una asimetría, la primera pregunta es si una causa conocida puede explicarla; por ejemplo, una exposición al ruido unilateral.",
+    "Una enfermedad crónica de oído previa o una cirugía de oído también pueden causar más pérdida en un oído.",
+    "La enfermedad de Ménière o una sordera súbita previa también pueden dejar una pérdida neurosensorial unilateral.",
+    "Nuestro caso no tiene ninguna de estas causas, lo que convierte la asimetría en un hallazgo sin explicación.",
+    "Aun cuando se encuentra una causa conocida, igualmente se deriva si la explicación no es suficiente."
+   ]
+  },
+  {
+   "id": "anatomi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audiograma y asimetría",
+   "baslik": "¿Por qué requiere *atención*?",
+   "cizim": "ic_kulak_yolu_dibi",
+   "ayar": {
+    "sinirler": true,
+    "sinir_cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "koklear_sinir",
+     "metin": "nervio coclear",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "nervios vestibulares",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "nervio facial",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "ust_vestibuler_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Los nervios van _uno junto al otro_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tumor _benigno_, de crecimiento lento",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "El _médico_ diagnostica",
+     "cumle": 5,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Una asimetría sin explicación puede requerir imágenes del conducto auditivo interno o del ángulo pontocerebeloso.",
+    "En esta región, el nervio coclear, los nervios vestibulares y el nervio facial van uno junto al otro.",
+    "El tumor más frecuente aquí es el schwannoma vestibular, que se origina en las células de Schwann del nervio vestibular.",
+    "El tumor es benigno y suele crecer lentamente; al crecer, puede comprimir el nervio coclear y la irrigación de la cóclea.",
+    "La pérdida unilateral, el tinnitus unilateral y una inestabilidad leve están entre los signos más frecuentes de este tumor.",
+    "Pero la mayoría de estos signos también tienen otras causas; el audiólogo anota la posibilidad, y el diagnóstico lo hacen el médico y las imágenes."
+   ]
+  },
+  {
+   "id": "pipb",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Logoaudiometría",
+   "baslik": "*Rollover* en el oído izquierdo",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 20,
+     "max": 100,
+     "adim": 10,
+     "ad": "Nivel de presentación (dB HL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Reconocimiento de palabras (%)"
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "noktalar": [
+       [
+        25,
+        20
+       ],
+       [
+        35,
+        70
+       ],
+       [
+        45,
+        92
+       ],
+       [
+        55,
+        96
+       ],
+       [
+        65,
+        96
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "yumusak": true,
+      "etiket": "derecho",
+      "cumle": 0
+     },
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        45,
+        8
+       ],
+       [
+        55,
+        30
+       ],
+       [
+        65,
+        48
+       ],
+       [
+        75,
+        60
+       ],
+       [
+        85,
+        40
+       ],
+       [
+        90,
+        28
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "yumusak": true,
+      "etiket": "izquierdo",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "pbmax",
+      "x": 75,
+      "y": 60,
+      "dus": "x",
+      "etiket": "máximo: 60 %",
+      "cumle": 2
+     },
+     {
+      "ad": "pbmin",
+      "x": 90,
+      "y": 28,
+      "dus": "x",
+      "etiket": "28 %",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Derecho: _96 %_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Izquierdo: _más bajo_ de lo esperado",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Índice _0,53_: rollover",
+     "cumle": 6,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "El reconocimiento de palabras derecho es del 96 por ciento, acorde con el grado de pérdida.",
+    "En el oído izquierdo, con el oído derecho enmascarado, se midió el reconocimiento a varios niveles; esta curva es una función rendimiento-intensidad.",
+    "El reconocimiento izquierdo más alto es del 60 por ciento, a 75 dB HL.",
+    "Para un oído con un promedio de tonos puros de unos 37 dB, este resultado es claramente más bajo de lo esperado.",
+    "Cuando el nivel sube a 90 dB HL, el reconocimiento cae al 28 por ciento; esta caída a niveles altos se llama rollover.",
+    "El índice de rollover es la diferencia entre el valor más alto y el más bajo dividida por el más alto: sesenta menos veintiocho, entre sesenta.",
+    {
+     "yazi": "El resultado es de unos 0,53, por encima del criterio de 0,45 propuesto para las listas de Jerger y Jerger.",
+     "ses": "El resultado es de unos cero coma cincuenta y tres, por encima del criterio de cero coma cuarenta y cinco propuesto para las listas de Jerger y Jerger."
+    }
+   ]
+  },
+  {
+   "id": "skor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Logoaudiometría",
+   "baslik": "¿Qué nos *dice* un resultado bajo?",
+   "maddeler": [
+    {
+     "metin": "Resultado _desproporcionadamente_ bajo para la pérdida",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Rollover_ a niveles altos",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Material grabado, enmascaramiento adecuado",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "No es diagnóstico por sí solo",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Coclear",
+      "metin": "Resultado acorde con la pérdida",
+      "cumle": 1
+     },
+     {
+      "ikon": "beyin",
+      "baslik": "Retrococlear",
+      "metin": "Resultado desproporcionadamente bajo",
+      "cumle": 0
+     }
+    ],
+    "ust": "COMPARAR"
+   },
+   "cumleler": [
+    "Un reconocimiento de palabras desproporcionadamente bajo para el grado de pérdida es un signo de alarma retrococlear.",
+    "Un rollover marcado a niveles altos apunta en la misma dirección; en las pérdidas cocleares, el resultado suele mantenerse a niveles altos.",
+    "Los límites de confianza publicados por Dubno y colaboradores muestran el resultado más bajo esperable para un promedio de tonos puros dado.",
+    "Para que esta comparación sea válida, hay que usar material grabado y enmascarar el oído opuesto a un nivel adecuado.",
+    "Aun así, los resultados fluctúan con listas cortas, y no todo problema retrococlear produce rollover; el hallazgo es parte de la batería."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Hallazgos del reflejo",
+   "baslik": "*Reflejos* acústicos",
+   "sutunlar": [
+    "Medida",
+    "500 Hz",
+    "1000 Hz",
+    "2000 Hz"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Ipsi derecho",
+      "85",
+      "85",
+      "90"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Contra derecho",
+      "90",
+      "90",
+      "95"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Ipsi izquierdo",
+      "90",
+      "Ausente",
+      "Ausente"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Contra izquierdo",
+      "95",
+      "Ausente",
+      "Ausente"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Los timpanogramas son tipo A en ambos oídos; el sistema del oído medio es normal en los dos lados.",
+    "Con el estímulo en el oído derecho, los reflejos están en los niveles esperados, tanto en la medida ipsilateral como en la contralateral.",
+    "Con el estímulo en el oído izquierdo, no hay reflejo en 1000 ni en 2000 hertz; en 500 hertz aparece recién a 90 dB HL.",
+    "El umbral izquierdo en 1000 hertz es de 35 dB HL; una pérdida coclear de este grado no suele abolir el reflejo.",
+    "Un reflejo ausente o elevado cuando el oído afectado recibe el estímulo sugiere un problema en la vía aferente del arco reflejo.",
+    "Este patrón es compatible con el patrón retrococlear que vimos en la lección sobre los patrones del reflejo."
+   ]
+  },
+  {
+   "id": "adaptasyon",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Hallazgos del reflejo",
+   "baslik": "*Deterioro* del reflejo",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Tiempo (segundos)"
+    },
+    "y": {
+     "min": 0,
+     "max": 110,
+     "adim": 25,
+     "ad": "Amplitud del reflejo (%)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0,
+        100
+       ],
+       [
+        2,
+        99
+       ],
+       [
+        4,
+        97
+       ],
+       [
+        6,
+        95
+       ],
+       [
+        8,
+        94
+       ],
+       [
+        10,
+        92
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "normal",
+      "cumle": 1
+     },
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        0,
+        100
+       ],
+       [
+        1,
+        92
+       ],
+       [
+        2,
+        78
+       ],
+       [
+        3,
+        62
+       ],
+       [
+        4,
+        48
+       ],
+       [
+        5,
+        38
+       ],
+       [
+        6,
+        31
+       ],
+       [
+        8,
+        23
+       ],
+       [
+        10,
+        18
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "izquierdo, 500 Hz",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yari",
+      "y": [
+       0,
+       50
+      ],
+      "renk": "sari",
+      "etiket": "menos de la mitad",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "dort",
+      "x": 4,
+      "y": 48,
+      "dus": "x",
+      "etiket": "unos 4 s",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "En 500 hertz, donde había reflejo izquierdo, se hizo una prueba de deterioro: un tono de diez segundos, 10 dB por encima del umbral del reflejo.",
+    "La línea gris discontinua muestra la amplitud que se mantiene durante diez segundos en un oído normal.",
+    "En el oído izquierdo, la amplitud cae rápidamente en pocos segundos y baja de la mitad a los cuatro segundos aproximadamente.",
+    "Que la amplitud baje de la mitad en menos de diez segundos es un deterioro del reflejo positivo y sugiere una patología retrococlear.",
+    "Un resultado negativo no descartaría un problema retrococlear; el hallazgo siempre se interpreta como parte de la batería."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Derivación",
+   "baslik": "Los hallazgos *en conjunto*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Asimetría",
+     "metin": "Significativa con todos los criterios",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Logoaudiometría",
+     "metin": "Desproporcionadamente baja, rollover",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Reflejos",
+     "metin": "Ausentes con estímulo izquierdo, deterioro",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Síntomas",
+     "metin": "Tinnitus unilateral",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Integremos los hallazgos: una asimetría neurosensorial sin explicación, confirmada con enmascaramiento y significativa con todos los criterios.",
+    "Un reconocimiento de palabras desproporcionadamente bajo para el grado de pérdida, con un rollover marcado.",
+    "Reflejos ausentes o elevados al estimular el oído izquierdo, y un deterioro del reflejo positivo.",
+    "A esto se suman tinnitus unilateral e inestabilidad leve del mismo lado.",
+    "Ninguno de estos hallazgos es concluyente por sí solo, pero en conjunto respaldan con fuerza la búsqueda de una causa retrococlear."
+   ]
+  },
+  {
+   "id": "yonlendir",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "Derivación",
+   "baslik": "El *proceso* de derivación",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Verificar",
+     "metin": "Enmascaramiento, repetir",
+     "cumle": 0
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Informar",
+     "metin": "Criterio y hallazgos",
+     "cumle": 1
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Derivar",
+     "metin": "Otorrinolaringólogo",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Decide el médico",
+     "metin": "RM o PEATC",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Seguimiento",
+     "metin": "Comprobar que asistió a la consulta",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El primer paso es verificar la asimetría: ¿el enmascaramiento es adecuado y los umbrales se repiten al volver a medir?",
+    "El informe incluye claramente el criterio de asimetría utilizado, los hallazgos de la logoaudiometría y de los reflejos, y los síntomas asociados.",
+    "La persona se deriva al otorrinolaringólogo con los hallazgos; la nota de derivación pide una evaluación desde el punto de vista retrococlear.",
+    {
+     "yazi": "El médico decide las imágenes y el método; el patrón de oro es la resonancia magnética (RM), con contraste o con secuencias especiales."
+    },
+    "En algunos centros también se agregan a la batería los potenciales evocados auditivos de tronco cerebral (PEATC), según el protocolo.",
+    "El audiólogo comprueba si la persona llegó a la consulta médica y programa una cita de seguimiento."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 5",
+   "bolum": "Derivación",
+   "baslik": "Un hallazgo de *PEATC* de ejemplo",
+   "cizim": "abr",
+   "ayar": {
+    "i_v_uzama": 0.8
+   },
+   "etiketler": [
+    {
+     "parca": "latans_I_V",
+     "metin": "I-V: 4,8 ms",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "cumle": 2
+    },
+    {
+     "parca": "latans_I_V",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Derecho: I-V de unos _4,0 ms_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Izquierdo: I-V de unos _4,8 ms_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Un PEATC normal no reemplaza la RM",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Veamos un registro de PEATC de ejemplo, hecho según el protocolo del centro.",
+    {
+     "yazi": "En el oído derecho, las ondas I, III y V tienen las latencias esperadas; el intervalo I-V es de unos cuatro milisegundos."
+    },
+    {
+     "yazi": "En el oído izquierdo, la onda I es visible, pero la onda V está retrasada; el intervalo I-V es de unos 4,8 milisegundos.",
+     "ses": "En el oído izquierdo, la onda I es visible, pero la onda V está retrasada; el intervalo I-V es de unos cuatro coma ocho milisegundos."
+    },
+    {
+     "yazi": "Si el intervalo I-V supera unos 4,4 a 4,5 milisegundos, se sugiere un retraso retrococlear.",
+     "ses": "Si el intervalo I-V supera unos cuatro coma cuatro a cuatro coma cinco milisegundos, se sugiere un retraso retrococlear."
+    },
+    "Recuerden: con tumores pequeños, el PEATC puede ser normal; un PEATC normal no reemplaza las imágenes.",
+    {
+     "yazi": "Este resultado tampoco es un diagnóstico; es un hallazgo adicional que respalda la decisión del médico de pedir una RM."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "No minimices la asimetría, pero tampoco alarmes a la persona; explica el hallazgo con claridad y comprueba siempre que haya ido al médico.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: al hacer la derivación, habla sin alarmar a la persona, pero sin minimizar el hallazgo.",
+    "Por ejemplo, puedes decir: la diferencia entre sus oídos es mayor de lo esperado; la evaluación de su médico es importante para saber por qué.",
+    "Palabras como tumor o cáncer, o porcentajes de probabilidad, no le corresponde decirlas al audiólogo.",
+    "Preguntar si la persona fue a la consulta asegura que la derivación llegue a un resultado."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Derivación",
+   "baslik": "Ejemplo de redacción del *informe*",
+   "maddeler": [
+    {
+     "metin": "Izquierdo: hipoacusia neurosensorial asimétrica",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Indicar el criterio de asimetría usado",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Reconocimiento desproporcionadamente bajo, rollover 0,53",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Sin reflejo con estímulo izquierdo, deterioro",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Recomendación: ORL, evaluación retrococlear",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        15,
+        20,
+        25,
+        30
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        35,
+        50,
+        60,
+        65
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Tonos puros: hipoacusia neurosensorial izquierda leve a moderada, que aumenta hacia los agudos; oído derecho acorde con la edad.",
+    "Asimetría: significativa según el criterio del protocolo de nuestra clínica, de 15 dB en dos frecuencias contiguas.",
+    {
+     "yazi": "Logoaudiometría: reconocimiento de palabras izquierdo desproporcionadamente bajo para la pérdida; índice de rollover de 0,53.",
+     "ses": "Logoaudiometría: reconocimiento de palabras izquierdo desproporcionadamente bajo para la pérdida; índice de rollover de cero coma cincuenta y tres."
+    },
+    "Inmitancia: timpanogramas tipo A; reflejos ausentes o elevados con estimulación izquierda y deterioro del reflejo positivo en 500 hertz.",
+    "Recomendación: derivación al otorrinolaringólogo para evaluación retrococlear, y audiograma de control cuando el médico lo considere."
+   ]
+  },
+  {
+   "id": "sonra",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Derivación",
+   "baslik": "El *audiólogo* después",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Si la RM es normal",
+     "metin": "Seguimiento a intervalos fijos",
+     "cumle": 0
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Si hay un tumor",
+     "metin": "El equipo médico evalúa opciones",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Medidas seriadas",
+     "metin": "Evolución de umbrales y resultados",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Apoyo auditivo",
+     "metin": "Audífono o CROS",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Si la RM es normal, la persona puede seguir en control audiológico a intervalos fijos para ver si la pérdida progresa."
+    },
+    "Si se encuentra un tumor, el equipo médico evalúa opciones como la observación, la cirugía o la radioterapia.",
+    "Durante todo este proceso, el audiólogo documenta la evolución de la audición con audiogramas y logoaudiometrías seriados.",
+    {
+     "yazi": "Según la audición restante y el reconocimiento de palabras, puede plantearse un audífono o un sistema CROS, que envía el sonido al lado opuesto."
+    },
+    "Como un reconocimiento bajo puede limitar el beneficio esperado de un dispositivo, las expectativas se conversan de forma realista desde el inicio."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Informar la asimetría nombrando el criterio",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Reconocimiento desproporcionadamente bajo, rollover: alarma",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Reflejo ausente, deterioro: patrón retrococlear",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "El médico pide la RM; el audiólogo deriva",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "La pérdida neurosensorial asimétrica se confirma con enmascaramiento y se informa con el nombre del criterio utilizado.",
+    "Un reconocimiento de palabras desproporcionadamente bajo para la pérdida, y el rollover, son signos de alarma retrococlear.",
+    "Los reflejos ausentes al estimular el oído afectado y un deterioro del reflejo positivo apuntan en la misma dirección.",
+    "El médico decide las imágenes; el papel del audiólogo es verificar el hallazgo, informarlo y hacer el seguimiento de la derivación."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "El PEATC es normal. ¿Qué significa?",
+   "secenekler": [
+    "Seguro que no hay tumor",
+    "No descarta un tumor pequeño",
+    "Ya no hace falta la RM",
+    "Se ignora la asimetría"
+   ],
+   "dogru": 1,
+   "aciklama": "Con tumores pequeños, el PEATC _puede ser normal_; la decisión de las imágenes es del médico.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en una persona con pérdida asimétrica, el PEATC es normal. ¿Qué significa este resultado?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: no descarta un tumor pequeño.",
+    {
+     "yazi": "El PEATC tiene baja sensibilidad para los tumores pequeños; el patrón de oro es la RM, y el médico decide las imágenes."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Caso: hipoacusia *fluctuante* en graves y Ménière",
+   "cikis": 2.5,
+   "cumleler": [
+    "En el próximo caso veremos a un adulto con una pérdida fluctuante en frecuencias graves, seguida con audiogramas seriados.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

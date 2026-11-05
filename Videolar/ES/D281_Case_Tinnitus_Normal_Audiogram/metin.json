@@ -1,0 +1,902 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D281_Case_Tinnitus_Normal_Audiogram_ES",
+ "kapak": {
+  "ust": "LECCIÓN 281",
+  "baslik": "Audiograma normal,<br>*tinnitus*",
+  "alt": "Altas frecuencias extendidas y el THI",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      5,
+      5,
+      10,
+      10,
+      15,
+      15
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      5,
+      10,
+      10,
+      10,
+      15,
+      20
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Caso: tinnitus con audiograma normal | Lección 281 | AIHEAR Academia de Audiología",
+  "aciklama": "En un caso ficticio de un adulto, evaluamos un tinnitus con audiograma normal: signos de alarma, OEAPD, audiometría de alta frecuencia extendida, el concepto de pérdida auditiva oculta, una prueba de habla en ruido, el THI y las preguntas sobre hiperacusia, un plan de orientación y el seguimiento con el THI.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Tunkel et al., Clinical Practice Guideline: Tinnitus (2014); McCombe et al., Guidelines for the grading of tinnitus severity (2001); Newman et al., Development of the Tinnitus Handicap Inventory (1996); Jafari et al., A Systematic Review and Meta-Analysis of Extended High-Frequency Hearing Thresholds in Tinnitus With a Normal Audiogram, Ear and Hearing (2022).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "tinnitus",
+   "casoclinico"
+  ],
+  "etiketler": [
+   "tinnitus",
+   "audiograma normal",
+   "audiometría de alta frecuencia extendida",
+   "THI",
+   "Inventario de Discapacidad por Tinnitus",
+   "pérdida auditiva oculta",
+   "hiperacusia",
+   "otoemisiones acústicas",
+   "orientación en tinnitus",
+   "caso clínico de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 281",
+   "baslik": "Caso: audiograma *normal*, tinnitus",
+   "alt": "Altas frecuencias extendidas, THI y orientación",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección analizamos el caso de un adulto que consulta por tinnitus aunque su audiograma es normal.",
+    "Veremos la audiometría de alta frecuencia extendida, las otoemisiones acústicas, las preguntas sobre tinnitus e hiperacusia y un plan de orientación."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Historia clínica",
+   "baslik": "Caso de ejemplo: *historia clínica*",
+   "maddeler": [
+    {
+     "metin": "Persona de ejemplo de 34 años",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Pitido agudo_ en ambos oídos, seis meses",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Mayor de noche y en silencio",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Conciertos, auriculares a alto volumen",
+     "cumle": 3,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Dificultad para dormirse, ansiedad",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Tinnitus",
+      "metin": "Ambos oídos, agudo",
+      "cumle": 1
+     },
+     {
+      "ikon": "muzik",
+      "baslik": "Exposición",
+      "metin": "Conciertos, auriculares",
+      "cumle": 3
+     },
+     {
+      "ikon": "saat",
+      "baslik": "Impacto",
+      "metin": "Sueño y ansiedad",
+      "cumle": 4
+     }
+    ],
+    "ust": "HISTORIA"
+   },
+   "cumleler": [
+    "Nuestro caso es ficticio: una persona de treinta y cuatro años consulta por un pitido en ambos oídos.",
+    "El tinnitus está presente desde hace unos seis meses; lo describe como un sonido agudo y constante en ambos oídos.",
+    "Durante el día, en el trabajo, apenas lo nota, pero se vuelve muy evidente en la cama por la noche y en lugares silenciosos.",
+    "Cuenta que desde hace años va a conciertos con frecuencia y escucha música fuerte con auriculares en el transporte público.",
+    "Le cuesta conciliar el sueño y teme que el pitido sea señal de un daño permanente.",
+    "Agrega que ahora le resulta mucho más difícil que antes seguir las conversaciones en restaurantes concurridos."
+   ]
+  },
+  {
+   "id": "bayrak",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Historia clínica",
+   "baslik": "Primero, los *signos de alarma*",
+   "ogeler": [
+    {
+     "ikon": "kalp",
+     "baslik": "Al ritmo del pulso",
+     "metin": "Tinnitus pulsátil",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Unilateral",
+     "metin": "Sobre todo con pérdida auditiva",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Inicio súbito",
+     "metin": "Con pérdida auditiva súbita",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Asociados",
+     "metin": "Vértigo, signos neurológicos",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En toda consulta por tinnitus preguntamos primero por cuadros que requieren al médico: el tinnitus al ritmo del pulso, o tinnitus pulsátil.",
+    "También importa el tinnitus unilateral, sobre todo con pérdida auditiva o asimetría en el mismo oído.",
+    "Cuando el tinnitus empieza junto con una pérdida auditiva súbita, el tiempo importa; estas personas se derivan sin demora.",
+    "El vértigo, la debilidad facial u otros signos neurológicos también requieren evaluación médica.",
+    "En nuestro caso no hay ninguno de estos signos; el tinnitus es bilateral, constante y de inicio gradual."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas estándar",
+   "baslik": "Audiograma estándar *normal*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Timpanograma y reflejos _normales_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       5,
+       5,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15,
+       20
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "La otoscopia es normal; los umbrales de doscientos cincuenta a ocho mil hertz están dentro de lo normal en ambos oídos.",
+    "El reconocimiento de palabras es del cien por ciento en ambos oídos.",
+    "Los timpanogramas son de tipo A y los reflejos acústicos están en los niveles esperados.",
+    "Desde el punto de vista del audiograma estándar, la audición es normal; pero eso no significa que el tinnitus no sea real.",
+    "Un audiograma normal solo muestra los umbrales de doscientos cincuenta a ocho mil hertz; no muestra todas las funciones de la cóclea."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas estándar",
+   "baslik": "OEAPD: bajas en los *agudos*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "frecuencias medias: hay respuesta",
+     "cumle": 1
+    },
+    {
+     "parca": "gurultu",
+     "metin": "piso de ruido",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 1
+    },
+    {
+     "parca": "gurultu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Frecuencias medias: _hay respuesta_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "De 4 a 8 kHz: _amplitud baja_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Interpretar con la evolución",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Para evaluar la función de las células ciliadas externas, se registraron otoemisiones acústicas por productos de distorsión, u OEAPD.",
+    "En ambos oídos, las respuestas de OEAPD están claramente por encima del piso de ruido en las frecuencias medias.",
+    "Pero entre cuatro mil y ocho mil hertz, las amplitudes de respuesta son bajas y, en algunas frecuencias, limítrofes.",
+    "Aunque los umbrales son normales, este hallazgo puede sugerir un cambio temprano en la función de las células ciliadas externas en la región aguda.",
+    "Los hallazgos de OEA tampoco se interpretan aislados; se valoran con las demás pruebas y con la evolución en el tiempo."
+   ]
+  },
+  {
+   "id": "ehf",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Pruebas ampliadas",
+   "baslik": "*Por encima* de ocho mil hertz",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: caída desde 10 kHz",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: caída similar",
+     "cumle": 1
+    },
+    {
+     "isaret": "!",
+     "renk": "sag",
+     "metin": "16 kHz: _sin respuesta_",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       25,
+       35,
+       50,
+       65
+      ],
+      "yanitsiz": [
+       5
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       30,
+       40,
+       55,
+       65
+      ],
+      "yanitsiz": [
+       5
+      ],
+      "cumle": 1
+     }
+    ],
+    "frekanslar": [
+     4000,
+     8000,
+     10000,
+     12500,
+     14000,
+     16000
+    ]
+   },
+   "cumleler": [
+    "La audiometría de alta frecuencia extendida mide los umbrales por encima de ocho mil hertz.",
+    "En este caso los umbrales suben claramente desde diez mil hertz; en catorce mil hertz llegan a cincuenta a cincuenta y cinco decibeles.",
+    "En dieciséis mil hertz no hay respuesta a la salida máxima del audiómetro.",
+    "En estas frecuencias los umbrales cambian mucho con la edad y las normas son limitadas; aun así, esta caída es marcada a los treinta y cuatro años.",
+    "Un metaanálisis mostró que los umbrales en estas frecuencias son peores en pacientes con tinnitus y audiograma normal.",
+    "Este hallazgo da una pista sobre el origen del tinnitus y nos ayuda a ofrecer una explicación a la persona."
+   ]
+  },
+  {
+   "id": "gizli",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Pruebas ampliadas",
+   "baslik": "Pérdida auditiva *oculta*",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "célula ciliada interna",
+     "cumle": 0
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "fibras nerviosas: pérdida de sinapsis",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 0
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 0
+    },
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Los umbrales pueden seguir _normales_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "¿Dificultad para entender en ruido?",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Concepto de investigación, _no diagnóstico_",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Otra posibilidad es la pérdida de las conexiones entre las células ciliadas internas y las fibras del nervio auditivo; se llama sinaptopatía coclear.",
+    "Como los umbrales no se afectan, el audiograma se ve normal; por eso este cuadro también se llama pérdida auditiva oculta.",
+    "Se ha propuesto que podría relacionarse con la dificultad para entender el habla en ruido y con el tinnitus.",
+    "Pero aún no existe una prueba clínica estándar que muestre directamente este cuadro en humanos; el concepto sigue en investigación.",
+    "Por eso se lo explicamos a la persona no como un diagnóstico, sino como un posible mecanismo en estudio.",
+    "Los antecedentes de exposición al ruido de nuestro caso son una de las razones por las que se piensa en esta posibilidad."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Pruebas ampliadas",
+   "baslik": "Habla *en ruido*",
+   "maddeler": [
+    {
+     "metin": "QuickSIN: pérdida de SNR de 4 dB",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Pérdida de SNR leve",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Acorde con la queja",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Se repite en el seguimiento",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 0,
+    "ayar": {
+     "mod": "golge"
+    },
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 0
+     },
+     {
+      "parca": "gurultu",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Por la dificultad en lugares concurridos se aplicó el QuickSIN; la pérdida de relación señal-ruido, o SNR, es de cuatro decibeles.",
+    "Según el manual de la prueba, de tres a siete decibeles es una pérdida de SNR leve.",
+    "Con un puntaje del cien por ciento en silencio, una pérdida leve en ruido es acorde con la queja de la persona sobre los restaurantes.",
+    "Esta medición se registra como referencia para comparar el cambio en el seguimiento.",
+    "Las pruebas de habla en ruido son una forma de cuantificar las quejas cotidianas en personas con audiograma normal."
+   ]
+  },
+  {
+   "id": "thi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Escalas",
+   "baslik": "THI: *48 puntos*",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "25 preguntas",
+     "metin": "Sí 4, a veces 2, no 0",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "De 0 a 100",
+     "metin": "Más puntaje, mayor discapacidad",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Este caso: 48",
+     "metin": "Moderada",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Para medir el impacto del tinnitus en la persona se usó el Inventario de Discapacidad por Tinnitus, o THI.",
+    "El THI tiene veinticinco preguntas; sí vale cuatro, a veces dos y no cero, y el total va de cero a cien.",
+    "En la clasificación de McCombe y colaboradores, de treinta y ocho a cincuenta y seis puntos es una discapacidad moderada.",
+    "En nuestro caso el puntaje total es cuarenta y ocho; por lo tanto, es moderada.",
+    "Las preguntas con puntaje alto señalan las áreas que conviene abordar primero en la orientación, como el sueño y la ansiedad.",
+    "La escala no hace un diagnóstico; muestra cuánto afecta el tinnitus a la persona y cómo cambia durante el seguimiento."
+   ]
+  },
+  {
+   "id": "hiperakuzi",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Escalas",
+   "baslik": "Preguntar por la *hiperacusia*",
+   "maddeler": [
+    {
+     "metin": "¿Le molestan los sonidos cotidianos?",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Platos, puertas: _molestos_",
+     "cumle": 1,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Niveles de molestia: _confirmación_",
+     "cumle": 3,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Tapones constantes: _no se recomiendan_",
+     "cumle": 4,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Hiperacusia",
+      "metin": "Sensibilidad a sonidos cotidianos",
+      "cumle": 0
+     },
+     {
+      "ikon": "insert_kulaklik",
+      "baslik": "Precaución",
+      "metin": "Tapones innecesarios",
+      "cumle": 4
+     }
+    ],
+    "ust": "PREGUNTAS"
+   },
+   "cumleler": [
+    "El tinnitus suele acompañarse de una sensibilidad excesiva a los sonidos cotidianos, o hiperacusia; por eso se pregunta por separado.",
+    "La persona cuenta que en los últimos meses le resultan desagradables sonidos como el choque de los platos o los portazos.",
+    "Esta queja también puede registrarse como un número con un cuestionario breve de hiperacusia.",
+    "Al medir los niveles de molestia por sonoridad, los valores fueron algo menores que los habituales en personas con audición normal.",
+    "Para evitar la molestia, empezó a usar tapones incluso en lugares tranquilos; lo hablamos, porque este hábito puede aumentar la sensibilidad."
+   ]
+  },
+  {
+   "id": "plan",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "Plan de orientación",
+   "baslik": "El *plan* de orientación",
+   "adimlar": [
+    {
+     "ikon": "kitap",
+     "baslik": "Informar",
+     "metin": "Mecanismo, un cuadro frecuente",
+     "cumle": 0
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Evitar el silencio",
+     "metin": "Enriquecimiento sonoro",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Escucha segura",
+     "metin": "Volumen y duración",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Derivar",
+     "metin": "ORL, terapia si hace falta",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Seguir",
+     "metin": "THI y pruebas",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "La orientación empieza con información: se explican claramente los hallazgos y que el tinnitus es un cuadro que tienen muchas personas.",
+    "Hablamos de que el pitido no suele ser signo de una enfermedad peligrosa, pero puede ser una advertencia para proteger los oídos.",
+    "Para evitar el silencio, se sugiere un enriquecimiento sonoro, como un ventilador o sonidos de la naturaleza por la noche.",
+    "Explicamos el uso de protección auditiva en los conciertos y la limitación del volumen y del tiempo al escuchar con auriculares.",
+    "Se deriva a la persona para una evaluación otorrinolaringológica.",
+    "Si el malestar es marcado, se habla de derivarla a terapia cognitivo-conductual, o TCC, el enfoque con mayor evidencia.",
+    "Al cabo de unos meses se repiten el THI y las mediciones para seguir el cambio."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Un audiograma normal no demuestra que el tinnitus no sea real. Muestren los hallazgos, tomen en serio la preocupación y deriven sin demora ante un malestar intenso.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: una frase como \"su audiograma es normal, no tiene nada\" aumenta la preocupación de la persona y debilita su confianza.",
+    "En cambio, muestren los hallazgos de alta frecuencia extendida y de OEA, y expliquen que el tinnitus puede tener una explicación.",
+    "Tomen en serio los problemas de sueño y la ansiedad.",
+    "Ante ansiedad intensa, signos de depresión o pensamientos de autolesión, deriven sin demora al médico y a apoyo en salud mental.",
+    "El audiólogo no aconseja sobre fármacos ni suplementos propuestos para el tinnitus; esas preguntas se derivan al médico."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 5",
+   "bolum": "Plan de orientación",
+   "baslik": "Seguimiento con el *THI*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 7,
+     "isaretler": [
+      0,
+      3,
+      6
+     ],
+     "yazilar": {
+      "0": "Baseline",
+      "3": "Month 3",
+      "6": "Month 6",
+      "0": "Inicial",
+      "3": "Mes 3",
+      "6": "Mes 6"
+     },
+     "ad": "Tiempo (meses)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Puntaje del THI"
+    },
+    "seriler": [
+     {
+      "ad": "thi",
+      "noktalar": [
+       [
+        0,
+        48
+       ],
+       [
+        3,
+        28
+       ],
+       [
+        6,
+        22
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "THI",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "orta",
+      "y": [
+       38,
+       56
+      ],
+      "renk": "sari",
+      "etiket": "moderada",
+      "cumle": 0
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       48,
+       28
+      ],
+      "xk": 3.5,
+      "etiket": "20 puntos",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Inicial _48_, mes 3 _28_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cambio significativo: _unos 20 puntos_",
+     "cumle": 2,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Este gráfico muestra cómo cambia con el tiempo el puntaje del THI de la persona de nuestro caso.",
+    "El puntaje, de cuarenta y ocho al inicio, baja a veintiocho tras tres meses de orientación y enriquecimiento sonoro.",
+    "Esta baja de veinte puntos alcanza la diferencia de unos veinte puntos que los estudios de test-retest consideran significativa.",
+    "La persona dice ahora que se duerme con más facilidad y que nota menos el pitido.",
+    "En el seguimiento también se repiten los umbrales de alta frecuencia extendida, pues esta región puede verse como la alerta temprana de la cóclea."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Plan de orientación",
+   "baslik": "Ejemplo de redacción del *informe*",
+   "maddeler": [
+    {
+     "metin": "Audiograma estándar normal en ambos oídos",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Umbrales elevados por encima de 10 kHz",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "OEAPD de baja amplitud en agudos",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "THI 48: moderada",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Indicaciones: ORL, orientación, seguimiento",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        5,
+        5,
+        10,
+        10,
+        15,
+        15
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        5,
+        10,
+        10,
+        10,
+        15,
+        20
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Audiometría tonal: umbrales normales en ambos oídos de doscientos cincuenta a ocho mil hertz; reconocimiento de palabras del cien por ciento.",
+    "Alta frecuencia extendida: umbrales elevados en ambos oídos desde diez mil hertz, sin respuesta en dieciséis mil hertz.",
+    "OEA: amplitudes de OEAPD bajas de cuatro a ocho mil hertz; pérdida de SNR leve en el QuickSIN.",
+    "Escalas: THI de cuarenta y ocho, moderada; refiere hiperacusia.",
+    "Indicaciones: evaluación otorrinolaringológica, orientación sobre tinnitus, escucha segura y control en tres meses."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Un audiograma normal puede no explicar el tinnitus",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Sobre 8 kHz y OEA: más información",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "THI e hiperacusia orientan el plan",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Información, sonido, protección, seguimiento",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Un audiograma normal no significa que el tinnitus no sea real; solo muestra de doscientos cincuenta a ocho mil hertz.",
+    "La audiometría de alta frecuencia extendida y las OEA pueden mostrar cambios que el audiograma estándar no ve.",
+    "El THI y las preguntas sobre hiperacusia cuantifican el impacto del tinnitus y fijan las prioridades de la orientación.",
+    "El plan consiste en información, enriquecimiento sonoro, escucha segura, derivación si hace falta y seguimiento."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Un puntaje THI de 48. ¿Qué grado?",
+   "secenekler": [
+    "Leve",
+    "Moderado",
+    "Severo",
+    "Catastrófico"
+   ],
+   "dogru": 1,
+   "aciklama": "En la clasificación de McCombe, _de 38 a 56_ puntos es moderado.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué grado tiene una persona con cuarenta y ocho puntos en el Inventario de Discapacidad por Tinnitus?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: moderado.",
+    "En la clasificación de McCombe, los puntajes de treinta y ocho a cincuenta y seis se interpretan como una discapacidad moderada."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Ética* profesional en audiología",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos a la sección de ética y regulación y vemos los principios de la ética profesional en audiología.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,663 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D234_Assessing_Fitting_Older_Adults_ES",
+ "kapak": {
+  "ust": "LECCIÓN 234",
+  "baslik": "Adaptación en<br>*adultos mayores*",
+  "alt": "Cognición, destreza y cuidadores",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  }
+ },
+ "youtube": {
+  "baslik": "Evaluación y adaptación en adultos mayores | Lección 234 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo planificamos la adaptación de audífonos en un adulto mayor? En esta lección vemos el papel del tamizaje cognitivo, cómo la destreza manual y la visión influyen en la elección del dispositivo, el entrenamiento con el método teach-back, el papel del cuidador, las estrategias de comunicación y el plan de seguimiento.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Dillon, Hearing Aids; Weinstein, Geriatric Audiology; American Academy of Audiology, Guidelines for the Audiologic Management of Adult Hearing Impairment; Nasreddine et al. (2005), The Montreal Cognitive Assessment (MoCA), Journal of the American Geriatrics Society; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "geriatria"
+  ],
+  "etiketler": [
+   "audífonos para adultos mayores",
+   "audiología geriátrica",
+   "tamizaje cognitivo",
+   "destreza manual",
+   "cuidador",
+   "método teach-back",
+   "audífonos recargables",
+   "estrategias de comunicación",
+   "seguimiento de audífonos",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 234",
+   "baslik": "Adaptación en *adultos mayores*",
+   "alt": "Cognición, destreza, visión y cuidadores",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo mirar más allá del audiograma al evaluar a un adulto mayor.",
+    "Veremos el tamizaje cognitivo, cómo la destreza manual y la visión influyen en la elección del dispositivo, la participación del cuidador y el seguimiento."
+   ]
+  },
+  {
+   "id": "kisi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Evaluación integral",
+   "baslik": "*Más allá* del audiograma",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Audición",
+     "cumle": 0,
+     "metin": "Umbrales, habla, ruido"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Cognición",
+     "cumle": 1,
+     "metin": "Memoria, aprendizaje"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Visión",
+     "cumle": 2,
+     "metin": "Piezas pequeñas, pantallas"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Destreza manual",
+     "cumle": 3,
+     "metin": "Colocación, pilas, limpieza"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Salud general",
+     "cumle": 4,
+     "metin": "Enfermedades, medicamentos"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Situación de vida",
+     "cumle": 5,
+     "metin": "¿Vive solo? ¿Tiene apoyo?"
+    }
+   ],
+   "cumleler": [
+    "En un adulto mayor, una adaptación exitosa se planifica en torno a la persona completa, no solo al audiograma.",
+    "El estado cognitivo influye directamente en aprender y recordar cómo usar un dispositivo nuevo.",
+    "La visión determina si la persona puede ver una pila pequeña, la entrada de un micrófono o el texto de una aplicación del teléfono.",
+    "La destreza manual, es decir, el movimiento fino de los dedos, determina si la persona puede colocarse el dispositivo y cambiar las pilas.",
+    "Problemas de salud como las enfermedades articulares, el temblor o la debilidad tras un accidente cerebrovascular también pueden afectar el uso.",
+    "Por último, preguntamos si la persona vive sola y quién la apoya en la vida diaria."
+   ]
+  },
+  {
+   "id": "bilissel",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Evaluación integral",
+   "baslik": "*Tamizaje* cognitivo",
+   "maddeler": [
+    {
+     "metin": "El tamizaje no es un diagnóstico",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "La audición afecta las pruebas verbales",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Amplificador, sala silenciosa, instrucciones escritas",
+     "cumle": 4,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Ante la duda, derivar al médico",
+     "cumle": 6,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "TAMIZAJE COGNITIVO",
+    "metin": "Una prueba breve: *no diagnostica*, pero ayuda a decidir la derivación",
+    "cumle": 0
+   },
+   "cumleler": [
+    "El tamizaje cognitivo es una prueba breve que muestra si se necesita una evaluación más completa.",
+    "El tamizaje no diagnostica; el diagnóstico lo establece la evaluación de un médico.",
+    {
+     "yazi": "Las pruebas de tamizaje frecuentes, como la Evaluación Cognitiva de Montreal, o MoCA, duran unos diez minutos."
+    },
+    "Sin embargo, la mayoría de estas pruebas se basan en instrucciones habladas, y quien responde una pregunta que no oyó obtiene una puntuación más baja.",
+    "Usar un amplificador personal de sonido, una sala silenciosa e instrucciones escritas durante la prueba reduce este error.",
+    "También se desarrollaron versiones de tamizaje adaptadas para personas con pérdida auditiva.",
+    "Si el resultado del tamizaje genera preocupación, la persona se deriva a un médico para su evaluación, con su consentimiento.",
+    "El resultado también orienta la elección del dispositivo y la orientación: puede hacer falta un dispositivo más simple y más participación del cuidador."
+   ]
+  },
+  {
+   "id": "beceri",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Elección del dispositivo",
+   "baslik": "Destreza y *elección del dispositivo*",
+   "maddeler": [
+    {
+     "metin": "Dispositivo muy pequeño, pila muy pequeña",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Recargable: sin cambio de pilas",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Cuerpo más grande, botones claros",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Probarlo en la consulta, con las manos",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi_karsilastir",
+    "cumle": 0,
+    "ayar": {
+     "tipler": [
+      "RIC",
+      "CIC"
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "pil",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Los dispositivos intracanales más pequeños pueden ser atractivos, pero un cuerpo y una pila tan pequeños son difíciles de manejar para una persona mayor.",
+    "Los tamaños de pila más pequeños exigen una destreza fina y buena visión.",
+    "Los dispositivos recargables eliminan la necesidad de cambiar pilas; el dispositivo se coloca en su cargador cada noche.",
+    "Los dispositivos retroauriculares o con receptor en el canal pueden ofrecer un cuerpo más grande y botones más claros.",
+    "La elección entre molde auricular y domo también se hace pensando en la facilidad de colocación; algunas personas guían mejor un molde.",
+    "El método más confiable es que la persona se coloque, se quite y cargue el dispositivo con sus propias manos en la consulta."
+   ]
+  },
+  {
+   "id": "gorme",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Elección del dispositivo",
+   "baslik": "*Apoyar* la visión",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Código de color",
+     "cumle": 0,
+     "metin": "Derecho rojo, izquierdo azul"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Marcador táctil",
+     "cumle": 1,
+     "metin": "Punto en relieve"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Lupa y luz",
+     "cumle": 2,
+     "metin": "Ayuda para la limpieza"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Instrucciones en letra grande",
+     "cumle": 3,
+     "metin": "Ilustradas, paso a paso"
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Ajustes de la aplicación",
+     "cumle": 4,
+     "metin": "Texto grande, pantalla simple"
+    }
+   ],
+   "cumleler": [
+    "El código de color de los dispositivos, rojo para el derecho y azul para el izquierdo, evita confundir los oídos.",
+    "Para personas con mala visión, pueden añadirse al dispositivo o al cargador pequeñas marcas que se encuentran al tacto.",
+    "Una buena iluminación y una lupa facilitan la limpieza y el cambio de filtros.",
+    "Las instrucciones escritas deben estar en letra grande, ilustradas y paso a paso.",
+    "Si se usa una aplicación del teléfono, se agranda el tamaño del texto y se muestran solo las funciones necesarias.",
+    "La pérdida de visión también debilita la lectura labial, así que apoyar la audición es aún más importante para estas personas."
+   ]
+  },
+  {
+   "id": "engeller",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Elección del dispositivo",
+   "baslik": "¿Por qué los dispositivos terminan *en un cajón?*",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Difícil de usar",
+     "cumle": 0,
+     "metin": "No logra colocarlo, pilas difíciles"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Decepción en ruido",
+     "cumle": 1,
+     "metin": "Expectativas altas"
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Comodidad",
+     "cumle": 2,
+     "metin": "Picazón, presión, silbido"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Estigma",
+     "cumle": 3,
+     "metin": "Miedo a parecer viejo"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Sin seguimiento",
+     "cumle": 4,
+     "metin": "El problema no se resuelve"
+    }
+   ],
+   "cumleler": [
+    "Se sabe que algunos dispositivos de usuarios mayores quedan sin usar en un cajón; una de las razones más frecuentes es la dificultad de uso.",
+    "Las expectativas no cumplidas en ambientes ruidosos son otro motivo de decepción y abandono.",
+    "Problemas de comodidad como la picazón, la presión, la propia voz apagada o el silbido acortan el tiempo de uso.",
+    "Algunas personas temen que el dispositivo las haga parecer viejas.",
+    "La mayoría de estas barreras se resuelven con seguimiento regular y pequeños ajustes; a menudo el problema es el proceso, no el dispositivo.",
+    "Por eso, hablar abiertamente de estas barreras con la persona en la primera visita es el primer paso para evitar un abandono posterior."
+   ]
+  },
+  {
+   "id": "ayar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Adaptación y entrenamiento",
+   "baslik": "*Principios* de la adaptación",
+   "maddeler": [
+    {
+     "metin": "Ajustar al objetivo, verificar con medición",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Aumento gradual para la aclimatación",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Estructura de programas simple",
+     "cumle": 3,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Bobina telefónica y micrófono remoto",
+     "cumle": 4,
+     "ikon": "telefon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "etiketler": [
+     {
+      "parca": "mikrofon",
+      "metin": "micrófono",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "También en los adultos mayores, el dispositivo se ajusta al objetivo de una fórmula prescriptiva y se verifica con la medición en oído real.",
+    "En un usuario nuevo, la ganancia puede empezar un poco por debajo del objetivo durante la aclimatación y aumentarse gradualmente.",
+    "Pero este es un paso temporal; quedarse mucho tiempo muy por debajo del objetivo reduce la audibilidad del habla.",
+    "Mantener pocos programas y el cambio automático reduce la cantidad de acciones que la persona tiene que recordar.",
+    "Para el teléfono, la televisión y las reuniones, se consideran apoyos como la bobina telefónica o un micrófono remoto.",
+    "Se explica de antemano que el habla en ruido puede seguir siendo difícil con el dispositivo; las expectativas realistas aumentan la satisfacción."
+   ]
+  },
+  {
+   "id": "egitim",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Adaptación y entrenamiento",
+   "baslik": "*Teach-back* en el entrenamiento",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Explicar",
+     "cumle": 0,
+     "metin": "Breve, un paso"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Mostrar",
+     "cumle": 1,
+     "metin": "Despacio, con un espejo"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Practicar",
+     "cumle": 2,
+     "metin": "Con sus propias manos"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Teach-back",
+     "cumle": 3,
+     "metin": "Con sus propias palabras"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Llevar a casa",
+     "cumle": 5,
+     "metin": "Instrucciones ilustradas"
+    }
+   ],
+   "cumleler": [
+    "En el entrenamiento se explica una habilidad a la vez, con un lenguaje breve y sencillo.",
+    "Luego la habilidad se muestra despacio; usar un espejo ayuda a colocar el dispositivo.",
+    "Después la persona hace la misma tarea con sus propias manos; el audiólogo ayuda solo cuando hace falta.",
+    "En el último paso, se pide a la persona que explique con sus propias palabras lo que aprendió; esto se llama método teach-back.",
+    "El teach-back nos permite ver que la persona realmente entendió, en lugar de suponerlo.",
+    "La sesión termina con instrucciones ilustradas, paso a paso, para llevar a casa."
+   ]
+  },
+  {
+   "id": "bakim_veren",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "El cuidador",
+   "baslik": "El *papel* del cuidador",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Acompañar a las visitas",
+     "cumle": 1,
+     "metin": "Anamnesis y objetivos"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Uso diario",
+     "cumle": 2,
+     "metin": "Colocación, limpieza, carga"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Estrategias de comunicación",
+     "cumle": 3,
+     "metin": "Practicar en casa"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Observación",
+     "cumle": 4,
+     "metin": "Uso y problemas"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Seguridad",
+     "cumle": 5,
+     "metin": "Guardar las pilas"
+    }
+   ],
+   "cumleler": [
+    "Un cuidador es un familiar o un profesional que apoya a la persona mayor en la vida diaria.",
+    "Cuando el cuidador participa en las visitas, la anamnesis y los objetivos se enriquecen.",
+    "Entrenar al cuidador en tareas diarias como la colocación, la limpieza y la carga puede aumentar notablemente el uso.",
+    "El cuidador también suele ser quien pone en práctica en casa las estrategias de comunicación.",
+    "El cuidador puede observar cuánto se usa el dispositivo y cuándo surgen problemas, y contarlo en el seguimiento.",
+    "Las personas con deterioro cognitivo pueden tragarse pilas de botón; las pilas y los dispositivos deben guardarse fuera de su alcance y del de los niños.",
+    "No hay que pasar por alto la carga del propio cuidador; un plan simple y sostenible es mejor para todos."
+   ]
+  },
+  {
+   "id": "iletisim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "El cuidador",
+   "baslik": "*Estrategias* de comunicación",
+   "maddeler": [
+    {
+     "metin": "Cara a cara, con luz en el rostro",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Captar la atención, decir su nombre",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Reducir el ruido, apagar la televisión",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Reformular en vez de repetir",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Comprobar la comprensión",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "sosyal_izolasyon",
+    "cumle": 0,
+    "ayar": {
+     "yalniz_cumle": 5
+    }
+   },
+   "cumleler": [
+    "Al hablar, pónganse frente a la persona y dejen que la luz caiga sobre el rostro de quien habla, para que se vean las claves de labios y cara.",
+    "Antes de empezar a hablar, capten la atención de la persona llamándola por su nombre.",
+    "Antes de las conversaciones importantes se apaga la televisión o la radio y, si es posible, se elige un rincón tranquilo.",
+    "Una oración que no se entendió se dice con otras palabras, en lugar de repetirla exactamente.",
+    "La información importante, como la hora de una cita, se comprueba preguntando brevemente si se entendió bien.",
+    "Estas estrategias no reemplazan el dispositivo; usadas junto con él, facilitan la participación en la vida social."
+   ]
+  },
+  {
+   "id": "takip",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "Seguimiento",
+   "baslik": "El *plan* de seguimiento",
+   "adimlar": [
+    {
+     "ikon": "telefon",
+     "baslik": "Primeros días",
+     "cumle": 0,
+     "metin": "Llamada telefónica breve"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Primeras semanas",
+     "cumle": 1,
+     "metin": "Control y ajuste fino"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Registro de datos",
+     "cumle": 2,
+     "metin": "Horas de uso diarias"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Medidas de resultado",
+     "cumle": 4,
+     "metin": "Cuestionario y objetivos"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Controles regulares",
+     "cumle": 5,
+     "metin": "Al menos una vez al año"
+    }
+   ],
+   "cumleler": [
+    "Una llamada telefónica breve en los primeros días después de la adaptación detecta los pequeños problemas antes de que crezcan.",
+    "En el control de las primeras semanas se abordan los problemas de comodidad, calidad del sonido y manejo, y se hace el ajuste fino.",
+    "El registro de datos del dispositivo muestra de forma objetiva las horas de uso diarias y los entornos en que se usó.",
+    "Si el uso es bajo, la razón se explora con curiosidad, no con reproches; a menudo hay una barrera que se puede resolver.",
+    "Después de unos meses, los resultados se evalúan con cuestionarios estandarizados y con los propios objetivos de la persona.",
+    "Luego se recomienda un control de la audición y del dispositivo al menos una vez al año; las necesidades pueden cambiar con la edad."
+   ]
+  },
+  {
+   "id": "ozel",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Seguimiento",
+   "baslik": "*Situaciones* especiales",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "Residencias",
+     "cumle": 0,
+     "metin": "Capacitación del personal"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Demencia",
+     "cumle": 2,
+     "metin": "Dispositivo simple, apoyo fuerte"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Pérdida profunda",
+     "cumle": 4,
+     "metin": "Evaluación para implante"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Pérdida sensorial dual",
+     "cumle": 5,
+     "metin": "Audición y visión juntas"
+    }
+   ],
+   "cumleler": [
+    "En las personas que viven en residencias, el uso del dispositivo depende en gran parte del personal, por eso su capacitación es fundamental.",
+    "Las etiquetas con el nombre y un lugar fijo para guardarlos son pasos prácticos para que los dispositivos no se pierdan.",
+    "En las personas con demencia, el objetivo es facilitar la comunicación con el uso más simple posible y un fuerte apoyo del cuidador.",
+    "En estas personas, una mejor comunicación puede reducir la agitación y facilitar el cuidado diario.",
+    "Los adultos mayores con pérdida profunda y poco beneficio con audífonos pueden evaluarse para un implante coclear; la edad sola no es un impedimento.",
+    "Cuando la pérdida auditiva y la visual se presentan juntas, hace falta trabajar con especialistas de ambos campos."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "El día de la adaptación, no termines la visita hasta que la persona se haya colocado, quitado y cargado el dispositivo varias veces. Usa un espejo e instrucciones escritas.",
+   "cumleler": [
+    "Un consejo de la práctica: el día de la adaptación, no terminen la visita hasta que la persona se haya colocado y quitado el dispositivo varias veces.",
+    "Colocarlo en el cargador y cambiar la pila o el filtro también debe hacerlo la propia persona.",
+    "Una tarea que se logra en la consulta con la ayuda del audiólogo puede no lograrse a solas en casa.",
+    "Si un paso resulta difícil, ese mismo día se reconsidera el dispositivo o el molde, y el problema se resuelve antes de que aparezca en casa.",
+    "Si el cuidador está en la visita, pídanle que haga los mismos pasos; así se convierte en un segundo ayudante en casa."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Evaluar juntas cognición, visión y destreza",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "El tamizaje no diagnostica; derivar si hace falta",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Elegir según la habilidad real",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Cuidadores y seguimiento impulsan el éxito",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "En los adultos mayores, la evaluación abarca, además de la audición, la cognición, la visión, la destreza y la situación de vida.",
+    "El tamizaje cognitivo no diagnostica; se usa teniendo en cuenta que la pérdida auditiva puede bajar las puntuaciones de las pruebas verbales.",
+    "La elección del dispositivo y del molde se basa en la habilidad real que la persona muestra en la consulta; los recargables pueden facilitar las cosas.",
+    "El entrenamiento con teach-back, la participación del cuidador y un seguimiento planificado mantienen el dispositivo en uso."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cuál es el objetivo del teach-back al entrenar a adultos mayores con audífonos?",
+   "secenekler": [
+    "Acortar el entrenamiento",
+    "Confirmar la comprensión real",
+    "Excluir al cuidador",
+    "Eliminar las instrucciones escritas"
+   ],
+   "dogru": 1,
+   "aciklama": "La persona lo explica con sus propias palabras: _la comprensión se ve, no se supone_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál es el objetivo del método teach-back en el entrenamiento con audífonos de adultos mayores?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: ver que la persona realmente entendió.",
+    "La persona explica con sus propias palabras lo que aprendió, así que un paso que falta se detecta y se completa en la consulta."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "¿Cómo *funciona* un implante coclear?",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo funciona un implante coclear en las personas que obtienen poco beneficio de los audífonos.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

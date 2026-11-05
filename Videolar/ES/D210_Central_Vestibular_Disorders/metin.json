@@ -1,0 +1,839 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D210_Central_Vestibular_Disorders_ES",
+ "kapak": {
+  "ust": "LECCIÓN 210",
+  "baslik": "Vértigo central<br>y *ACV*",
+  "alt": "Nistagmo central y signos de alarma",
+  "cizim": "beyin_sapi_vestibuler",
+  "vurgula": [
+   "beyincik"
+  ]
+ },
+ "youtube": {
+  "baslik": "Trastornos vestibulares centrales y alarma de ACV | Lección 210 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cuándo el mareo viene del cerebro? En esta lección vemos los trastornos vestibulares centrales, el accidente cerebrovascular de la circulación posterior, los rasgos del nistagmo central (cambia de dirección con la mirada, es vertical puro, no se suprime con la fijación) y los signos de alarma de ACV que exigen una evaluación médica urgente.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Jacobson y Shepard, Balance Function Assessment and Management; Kattah et al., HINTS to diagnose stroke in the acute vestibular syndrome, Stroke (2009); Strupp et al., Acute unilateral vestibulopathy/vestibular neuritis: Diagnostic criteria, Journal of Vestibular Research (2022).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "vestibular",
+   "ACV"
+  ],
+  "etiketler": [
+   "trastorno vestibular central",
+   "ACV de circulación posterior",
+   "nistagmo central",
+   "desviación oblicua",
+   "HINTS",
+   "signos de alarma de ACV",
+   "vértigo",
+   "mareo",
+   "cerebelo",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 210",
+   "baslik": "Trastornos vestibulares *centrales*",
+   "alt": "ACV de la circulación posterior y signos de alarma",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos las causas centrales del mareo y la más peligrosa de ellas, el accidente cerebrovascular (ACV) de la circulación posterior.",
+    "Revisaremos los rasgos del nistagmo central y los signos de alarma que exigen una evaluación médica urgente."
+   ]
+  },
+  {
+   "id": "yollar",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Trastornos vestibulares centrales",
+   "baslik": "¿*Dónde* puede estar el problema?",
+   "cizim": "beyin_sapi_vestibuler",
+   "etiketler": [
+    {
+     "parca": "vestibuler_cekirdekler",
+     "metin": "Núcleos vestibulares",
+     "cumle": 1
+    },
+    {
+     "parca": "mlf",
+     "metin": "FLM",
+     "cumle": 2
+    },
+    {
+     "parca": "beyincik",
+     "metin": "Cerebelo",
+     "cumle": 3
+    },
+    {
+     "parca": "pons",
+     "metin": "Protuberancia",
+     "cumle": 1
+    },
+    {
+     "parca": "medulla",
+     "metin": "Bulbo raquídeo",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vestibuler_cekirdekler",
+     "cumle": 1
+    },
+    {
+     "parca": "mlf",
+     "cumle": 2
+    },
+    {
+     "parca": "beyincik",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "A menudo: _otros_ síntomas neurológicos",
+     "cumle": 5,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "A veces _solo_ mareo",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "En los trastornos vestibulares centrales, el problema no está en el oído interno ni en el nervio vestibular, sino en el tronco cerebral, el cerebelo o más arriba.",
+    "El nervio vestibular llega a los núcleos vestibulares del tronco cerebral, en el límite entre la protuberancia y el bulbo raquídeo.",
+    "Estos núcleos se conectan con los núcleos que controlan los movimientos oculares a través del fascículo longitudinal medial (FLM).",
+    "El cerebelo es el centro de ajuste del sistema vestibular; la supresión del nistagmo y la estabilidad de la mirada dependen en gran parte de él.",
+    "Un problema en cualquier punto de estas vías puede causar mareo, inestabilidad y formas particulares de nistagmo.",
+    "Como las vías centrales están muy próximas entre sí, el mareo suele acompañarse de otros síntomas neurológicos.",
+    "Pero una lesión pequeña, sobre todo en el cerebelo, también puede presentarse solo con mareo e inestabilidad."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Trastornos vestibulares centrales",
+   "baslik": "*Causas* centrales",
+   "ogeler": [
+    {
+     "ikon": "kan_damari",
+     "baslik": "ACV y AIT",
+     "metin": "Circulación posterior",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Esclerosis múltiple",
+     "metin": "Adultos jóvenes",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Enfermedades cerebelosas",
+     "metin": "Ataxias degenerativas",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Masas",
+     "metin": "Tumores de fosa posterior",
+     "cumle": 4
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Migraña vestibular",
+     "metin": "Con rasgos centrales",
+     "cumle": 5
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Fármacos y alcohol",
+     "metin": "Efectos tóxicos",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Entre las causas centrales del mareo, las más importantes por su urgencia son las vasculares.",
+    "El ACV de la circulación posterior y el accidente isquémico transitorio (AIT) encabezan las causas centrales del mareo de inicio súbito.",
+    "La esclerosis múltiple puede causar vértigo por afectación del tronco cerebral o del cerebelo, sobre todo en adultos jóvenes.",
+    "Las enfermedades degenerativas que afectan al cerebelo pueden causar una inestabilidad lentamente progresiva y un nistagmo persistente.",
+    "Los tumores de la fosa posterior y los problemas estructurales de la unión entre la base del cráneo y la columna también pueden causar signos centrales.",
+    "Como vimos en la lección sobre la migraña vestibular, durante sus crisis también puede aparecer un nistagmo de tipo central.",
+    "Algunos fármacos y el alcohol también pueden afectar la función cerebelosa y causar nistagmo evocado por la mirada e inestabilidad."
+   ]
+  },
+  {
+   "id": "arka_dolasim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "ACV de la circulación posterior",
+   "baslik": "ACV de la *circulación posterior*",
+   "cizim": "vertebrobaziler",
+   "ayar": {
+    "cumleler": {
+     "vertebral_arter": 1,
+     "baziler_arter": 1,
+     "pca": 1,
+     "sca": 1,
+     "pica": 3,
+     "aica": 4,
+     "labirent_arteri": 4
+    }
+   },
+   "etiketler": [
+    {
+     "parca": "beyincik",
+     "metin": "Cerebelo",
+     "cumle": 1
+    },
+    {
+     "parca": "beyin_sapi",
+     "metin": "Tronco cerebral",
+     "cumle": 1
+    },
+    {
+     "parca": "labirent_arteri",
+     "metin": "arteria laberíntica",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "beyincik",
+     "cumle": 1
+    },
+    {
+     "parca": "pica",
+     "cumle": 3
+    },
+    {
+     "parca": "aica",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Cerca de _uno de cada cinco_ ACV",
+     "cumle": 2,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "AICA: _pérdida auditiva_",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "aica",
+     "cumle": 4,
+     "olcek": 1.5
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Los vasos que irrigan el tronco cerebral, el cerebelo y la parte posterior del cerebro forman la circulación posterior, o sistema vertebrobasilar.",
+    "Las dos arterias vertebrales se unen y forman la arteria basilar; el cerebelo recibe irrigación de ramas de este sistema.",
+    "Los ACV de la circulación posterior representan alrededor de uno de cada cinco ACV isquémicos.",
+    "Los ACV de la arteria cerebelosa posteroinferior (PICA) pueden afectar la parte lateral del bulbo y la parte inferior del cerebelo.",
+    "La arteria cerebelosa anteroinferior (AICA) irriga la parte lateral de la protuberancia y, a menudo, el oído interno.",
+    "Por eso, en un ACV de la AICA puede haber una pérdida auditiva súbita junto con el vértigo, y el cuadro puede confundirse con una laberintitis.",
+    "Un ACV cerebeloso pequeño puede presentarse solo con vértigo agudo e inestabilidad, e imitar muy bien una neuritis vestibular."
+   ]
+  },
+  {
+   "id": "wallenberg",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "ACV de la circulación posterior",
+   "baslik": "*Síndrome* bulbar lateral",
+   "maddeler": [
+    {
+     "metin": "Vértigo, nistagmo, _tendencia a caer_",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "_Adormecimiento_ facial del mismo lado",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Disfonía, _dificultad para tragar_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Pérdida de _dolor y temperatura_ contralateral",
+     "cumle": 3,
+     "ikon": "agri"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_sapi_vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "medulla",
+      "metin": "Bulbo raquídeo",
+      "cumle": 0
+     },
+     {
+      "parca": "vestibuler_cekirdekler",
+      "metin": "Núcleos vestibulares",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "medulla",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "El cuadro clásico de la oclusión de la PICA o de la arteria vertebral es el síndrome bulbar lateral, o síndrome de Wallenberg.",
+    "El vértigo, el nistagmo y la tendencia a caer hacia el lado de la lesión pueden acompañarse de adormecimiento facial del mismo lado.",
+    "En este cuadro también pueden verse disfonía, dificultad para tragar e hipo.",
+    "La disminución de la sensibilidad al dolor y a la temperatura en el lado opuesto del cuerpo es un hallazgo típico.",
+    "Estos signos no siempre son evidentes, así que en una persona con mareo pregunten también por la sensibilidad facial y la deglución."
+   ]
+  },
+  {
+   "id": "tia",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "ACV de la circulación posterior",
+   "baslik": "*Síntomas* de alarma",
+   "maddeler": [
+    {
+     "metin": "Crisis de vértigo breves, recurrentes y _súbitas_",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Factores de riesgo vascular: _edad_, hipertensión",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "_Dolor de cuello_ nuevo",
+     "cumle": 4,
+     "ikon": "agri"
+    },
+    {
+     "metin": "_Pérdida auditiva_ súbita con vértigo",
+     "cumle": 6,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "kronometre",
+      "baslik": "Crisis breves",
+      "metin": "Pueden anunciar un ACV",
+      "cumle": 1
+     },
+     {
+      "ikon": "kalp",
+      "baslik": "Factores de riesgo",
+      "metin": "Aumentan la sospecha",
+      "cumle": 3
+     },
+     {
+      "ikon": "agri",
+      "baslik": "Dolor de cuello",
+      "metin": "¿Disección?",
+      "cumle": 4
+     }
+    ],
+    "ust": "PRECAUCIÓN"
+   },
+   "cumleler": [
+    "En los días o semanas previos a un ACV de la circulación posterior pueden aparecer crisis breves de vértigo.",
+    "Estas crisis pueden ser accidentes isquémicos transitorios, y a veces el mareo es el único síntoma.",
+    "La edad avanzada, la presión arterial alta, la diabetes y los trastornos del ritmo cardíaco son factores de riesgo vascular.",
+    "Las crisis nuevas de vértigo en una persona con alguno de estos factores de riesgo requieren especial atención.",
+    "En una persona joven, el vértigo con dolor de cuello o cefalea de aparición reciente puede sugerir una disección de la arteria vertebral.",
+    "Una disección es un desgarro de la capa interna de la pared del vaso; a veces sigue a un golpe en el cuello o a un movimiento brusco del cuello.",
+    "El vértigo que se acompaña de pérdida auditiva súbita también requiere una evaluación urgente en busca de una causa vascular."
+   ]
+  },
+  {
+   "id": "periferik_santral",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Signos centrales",
+   "baslik": "Patrones periféricos y *centrales*",
+   "sutunlar": [
+    "Hallazgo",
+    "Periférico",
+    "Central"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Dirección del nistagmo",
+      "Una sola dirección",
+      "Cambiante con la mirada"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Tipo de nistagmo",
+      "Horizontal y torsional",
+      "Vertical o torsional puro"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Fijación",
+      "Lo reduce",
+      "Puede no reducirlo"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Impulso cefálico",
+      "Anormal",
+      "Generalmente normal"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Desviación oblicua",
+      "Ausente",
+      "Puede estar presente"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "Marcha",
+      "Camina con ayuda",
+      "Puede no sostenerse"
+     ],
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Los hallazgos oculares son las pistas más sólidas a pie de cama para diferenciar los trastornos vestibulares periféricos de los centrales.",
+    "El nistagmo periférico bate en una sola dirección; el nistagmo central puede cambiar de dirección según la dirección de la mirada.",
+    "El nistagmo periférico es horizontal y torsional; el nistagmo vertical puro o torsional puro es un signo central.",
+    "El nistagmo periférico disminuye mucho con la fijación visual; el central puede no hacerlo.",
+    "En el mareo agudo y continuo, la prueba de impulso cefálico es anormal en la pérdida periférica, pero se mantiene normal en la mayoría de los ACV.",
+    "La desviación oblicua, una desalineación vertical de los ojos, es un signo central.",
+    "En la pérdida periférica aguda la persona suele poder caminar con ayuda; no poder sostenerse de pie ni siquiera con ayuda sugiere una causa central.",
+    "Vimos estos principios en detalle en la lección sobre el HINTS: impulso cefálico, nistagmo y prueba de desviación oblicua."
+   ]
+  },
+  {
+   "id": "dikey",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Signos centrales",
+   "baslik": "Nistagmo vertical y el *FLM*",
+   "maddeler": [
+    {
+     "metin": "_Vertical inferior_: cerebelo, base del cráneo",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Vertical superior_: tronco cerebral, cerebelo",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Torsional puro_: bulbo raquídeo",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Oftalmoplejía internuclear_: FLM",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_sapi_vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "beyincik",
+      "metin": "Cerebelo",
+      "cumle": 0
+     },
+     {
+      "parca": "medulla",
+      "metin": "Bulbo raquídeo",
+      "cumle": 3
+     },
+     {
+      "parca": "mlf",
+      "metin": "FLM",
+      "cumle": 4
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "beyincik",
+      "cumle": 0
+     },
+     {
+      "parca": "medulla",
+      "cumle": 3
+     },
+     {
+      "parca": "mlf",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "El nistagmo vertical inferior surge con más frecuencia cuando se afecta la parte del cerebelo que ajusta los movimientos oculares.",
+    "Los problemas estructurales de la unión entre la base del cráneo y la columna, y algunos fármacos, también pueden causar nistagmo vertical inferior.",
+    "El nistagmo vertical superior sugiere lesiones en el tronco cerebral o en la línea media del cerebelo.",
+    "El nistagmo torsional puro se asocia sobre todo a lesiones del bulbo raquídeo.",
+    "La afectación del FLM produce un hallazgo llamado oftalmoplejía internuclear.",
+    "En la mirada lateral, un ojo no puede girar hacia adentro y el ojo que gira hacia afuera muestra nistagmo; en un adulto joven puede sugerir esclerosis múltiple.",
+    "Todos estos hallazgos sugieren un problema central y se comunican al médico sin demora."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Signos centrales",
+   "baslik": "Ejemplo: parece una *neuritis*",
+   "maddeler": [
+    {
+     "metin": "Mareo súbito y continuo; _audición normal_",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Nistagmo que _cambia de dirección_ con la mirada",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Impulso cefálico _normal en ambos sentidos_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_No se sostiene_ ni con ayuda",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Se suspenden las pruebas, derivación _urgente_",
+     "cumle": 4,
+     "ikon": "hastane"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "goz",
+      "baslik": "Nistagmo",
+      "metin": "Cambia de dirección",
+      "cumle": 2
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Impulso cefálico",
+      "metin": "Normal",
+      "cumle": 3
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Marcha",
+      "metin": "No se sostiene",
+      "cumle": 3
+     }
+    ],
+    "ust": "SIGNO CENTRAL"
+   },
+   "cumleler": [
+    "Un caso puramente ilustrativo: una persona de sesenta y ocho años con presión alta consulta por un mareo continuo que comenzó de repente esta mañana.",
+    "La audición es normal; a primera vista, el cuadro parece una neuritis vestibular.",
+    "Pero el nistagmo bate a la derecha al mirar a la derecha y a la izquierda al mirar a la izquierda.",
+    "La prueba de impulso cefálico es normal en ambas direcciones, y la persona no se sostiene de pie ni siquiera con ayuda.",
+    "Cada uno de estos hallazgos sugiere una causa central; se suspenden las pruebas y se deriva a la persona con urgencia para una evaluación médica.",
+    "Este ejemplo muestra que, en este contexto, una audición normal y una prueba de impulso cefálico normal no tranquilizan."
+   ]
+  },
+  {
+   "id": "uyari",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Signos de alarma",
+   "baslik": "*Signos de alarma* de ACV",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Visión doble",
+     "metin": "De aparición reciente",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Habla, deglución",
+     "metin": "Habla arrastrada, no puede tragar",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Adormecimiento, debilidad",
+     "metin": "Cara, brazo, pierna",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Inestabilidad grave",
+     "metin": "No se sostiene",
+     "cumle": 4
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Dolor de cabeza, cuello",
+     "metin": "Nuevo e intenso",
+     "cumle": 5
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Pérdida auditiva súbita",
+     "metin": "Junto con vértigo",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Algunos hallazgos que acompañan al mareo exigen una evaluación médica urgente por posible ACV.",
+    "La visión doble de aparición reciente encabeza esta lista.",
+    "El habla arrastrada, la dificultad para tragar y la disfonía también sugieren afectación del tronco cerebral.",
+    "El adormecimiento y la debilidad de la cara, el brazo o la pierna, y la torpeza de los movimientos de la mano y el brazo, también son signos de alarma.",
+    "No poder sostenerse de pie ni siquiera con ayuda, o no poder mantener el tronco erguido al estar sentado, es un signo de inestabilidad grave.",
+    "Una cefalea o un dolor de cuello nuevos e intensos plantean la posibilidad de una disección arterial, sobre todo en personas jóvenes.",
+    "La pérdida auditiva súbita con vértigo agudo también requiere una evaluación urgente por posible ACV de la AICA."
+   ]
+  },
+  {
+   "id": "ne_yapmali",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Signos de alarma",
+   "baslik": "Qué hacer ante *un signo de alarma*",
+   "adimlar": [
+    {
+     "ikon": "yanlis",
+     "baslik": "Suspender las pruebas",
+     "metin": "No completar la batería",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Seguridad",
+     "metin": "No dejar solo",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Anotar la hora",
+     "metin": "Hora de inicio",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Derivar con urgencia",
+     "metin": "Evaluación médica",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Resumen breve",
+     "metin": "Hallazgos por escrito",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Si hay algún signo de alarma, no intenten completar la batería de pruebas planificada; las pruebas se suspenden en ese momento.",
+    "Se mantiene a la persona en una posición segura, protegida de caídas, y no se la deja sola.",
+    "Anoten la hora en que comenzaron los síntomas, o la última vez que se vio bien a la persona.",
+    "A través del circuito de derivación urgente de la institución, se deriva a la persona a una evaluación médica urgente sin perder tiempo.",
+    "Algunos tratamientos del ACV solo pueden administrarse en las primeras horas, así que cada minuto cuenta.",
+    "El nistagmo observado, el hallazgo del impulso cefálico y los demás signos se comunican al equipo en un resumen escrito breve y claro."
+   ]
+  },
+  {
+   "id": "kacirilma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Signos de alarma",
+   "baslik": "¿Por qué el ACV *pasa inadvertido?*",
+   "maddeler": [
+    {
+     "metin": "El _mareo_ puede ser el único síntoma",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "El examen neurológico puede ser _normal_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "La RM precoz puede ser _normal_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "La juventud _no lo descarta_",
+     "cumle": 3,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Centrarse en el oído _confunde_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 5,
+    "ogeler": [
+     {
+      "ikon": "goz",
+      "baslik": "Ojos",
+      "metin": "Nistagmo, desviación oblicua",
+      "cumle": 5
+     },
+     {
+      "ikon": "denge",
+      "baslik": "Marcha",
+      "metin": "¿Se sostiene de pie?",
+      "cumle": 5
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Audición",
+      "metin": "¿Pérdida nueva?",
+      "cumle": 5
+     }
+    ],
+    "ust": "SIEMPRE"
+   },
+   "cumleler": [
+    "El ACV de la circulación posterior puede presentarse solo con mareo e inestabilidad, lo que facilita confundirlo con un problema periférico.",
+    "Algunas de estas personas no tienen signos neurológicos evidentes, como debilidad o problemas del habla.",
+    "La resonancia magnética de difusión en las primeras horas puede no mostrar algunos ACV pequeños del tronco cerebral y del cerebelo.",
+    "La juventud no descarta un ACV; la disección de la arteria vertebral también ocurre en adultos jóvenes.",
+    "Un profesional que se centra solo en el oído puede omitir la evaluación de los hallazgos oculares y de la marcha.",
+    "Por eso, en el mareo agudo se evalúan siempre en conjunto los movimientos oculares, la marcha y la audición."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En el mareo agudo, deriven con urgencia al médico, sin demora, si hay impulso cefálico normal, nistagmo que cambia de dirección, desviación oblicua o incapacidad de sostenerse.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo desde la práctica: no evalúen a una persona con mareo agudo y continuo como si solo tuviera un problema de oído.",
+    "Revisen siempre la dirección del nistagmo, su cambio con la mirada, la desviación oblicua y si la persona puede sostenerse de pie.",
+    "Si uno de estos hallazgos sugiere una causa central, o hay un signo de alarma, suspendan las pruebas y hagan una derivación urgente.",
+    "La duda basta para pedir una evaluación urgente; una derivación innecesaria siempre es mejor que un ACV que pasa inadvertido."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Problema en el _tronco cerebral_ o cerebelo",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "El ACV posterior imita una _neuritis_",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Nistagmo cambiante o _vertical puro_: central",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Signo de alarma: evaluación médica _urgente_",
+     "cumle": 3,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    "En los trastornos vestibulares centrales, el problema está en el tronco cerebral, el cerebelo o vías superiores.",
+    "El ACV de la circulación posterior, sobre todo un ACV cerebeloso pequeño, puede presentarse solo con vértigo e imitar una neuritis vestibular.",
+    "Un nistagmo que cambia de dirección con la mirada, es vertical puro o torsional puro, o no se reduce con la fijación sugiere una causa central.",
+    "La visión doble, los problemas del habla o de la deglución, el adormecimiento, la debilidad y no poder sostenerse requieren una evaluación médica urgente."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué sugiere una causa central?",
+   "secenekler": [
+    "Nistagmo que se reduce con la fijación",
+    "Nistagmo vertical inferior puro",
+    "Nistagmo horizontal unidireccional",
+    "Impulso cefálico anormal"
+   ],
+   "dogru": 1,
+   "aciklama": "El nistagmo vertical puro, como el _vertical inferior puro_, es un signo central.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en una persona con mareo agudo, ¿qué hallazgo del nistagmo sugiere una causa central?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: el nistagmo vertical inferior puro.",
+    "Las otras opciones corresponden a un patrón periférico; el nistagmo vertical puro sugiere un problema cerebeloso o del tronco cerebral."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Mareo y evaluación *vestibular* en niños",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos el mareo en los niños y la evaluación vestibular adaptada al niño.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

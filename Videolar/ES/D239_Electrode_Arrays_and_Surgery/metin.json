@@ -1,0 +1,804 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D239_Electrode_Arrays_and_Surgery_ES",
+ "kapak": {
+  "ust": "LECCIÓN 239",
+  "baslik": "Guías de<br>*electrodos*",
+  "alt": "La cirugía vista por el audiólogo",
+  "cizim": "koklear_implant",
+  "vurgula": [
+   "elektrot_dizisi"
+  ]
+ },
+ "youtube": {
+  "baslik": "Electrodos y cirugía de implante para el audiólogo | Lección 239 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo se colocan en la cóclea los electrodos del implante coclear y por qué le importa esto al audiólogo? En esta lección vemos las guías de electrodos perimodiolares y de pared lateral, la profundidad de inserción, la timpanotomía posterior, los abordajes por ventana redonda y por cocleostomía, la cirugía mínimamente traumática y la preservación de la audición residual, y cómo el informe quirúrgico orienta la programación.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Niparko (ed.), Cochlear Implants: Principles and Practices; Dhanasingh y Jolly, An overview of cochlear implant electrode array designs, Hearing Research (2017).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "implantecoclear",
+   "cirugia"
+  ],
+  "etiketler": [
+   "implante coclear",
+   "guía de electrodos",
+   "electrodo perimodiolar",
+   "electrodo de pared lateral",
+   "inserción por ventana redonda",
+   "cocleostomía",
+   "profundidad de inserción",
+   "audición residual",
+   "cirugía mínimamente traumática",
+   "estimulación electroacústica",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 239",
+   "baslik": "Guías de electrodos y *cirugía*",
+   "alt": "La cirugía de implante vista por el audiólogo",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos las guías de electrodos del implante coclear y la cirugía de implante desde el punto de vista del audiólogo.",
+    "Hablaremos de los electrodos perimodiolares y de pared lateral, de las vías por ventana redonda y cocleostomía, y de preservar la audición residual."
+   ]
+  },
+  {
+   "id": "dizi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Guías de electrodos",
+   "baslik": "¿*Dónde* está la guía de electrodos?",
+   "cizim": "koklear_implant",
+   "etiketler": [
+    {
+     "parca": "alici_uyarici",
+     "metin": "receptor-estimulador",
+     "cumle": 1
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "metin": "guía de electrodos",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "alici_uyarici",
+     "cumle": 1
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la lección sobre el implante coclear vimos las partes externas e internas del implante.",
+    "El receptor-estimulador se coloca detrás de la oreja, sobre el hueso del cráneo.",
+    "La guía de electrodos que sale de él avanza a través del oído medio hasta el interior de la cóclea.",
+    "La guía se coloca en la rampa timpánica, la cámara inferior de la cóclea.",
+    "Los contactos de la guía estimulan el ganglio espiral, donde se encuentran los cuerpos celulares del nervio auditivo.",
+    "La forma, la longitud y la posición de la guía en la cóclea influyen tanto en la cirugía como en la programación posterior."
+   ]
+  },
+  {
+   "id": "kesit",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Guías de electrodos",
+   "baslik": "El objetivo: el *ganglio espiral*",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_tympani",
+     "metin": "rampa timpánica",
+     "cumle": 1
+    },
+    {
+     "parca": "spiral_ganglion",
+     "metin": "ganglio espiral",
+     "cumle": 2
+    },
+    {
+     "parca": "lamina_spiralis_ossea",
+     "metin": "lámina espiral ósea",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "scala_tympani",
+     "cumle": 1
+    },
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 2
+    },
+    {
+     "parca": "lamina_spiralis_ossea",
+     "cumle": 3
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Veamos dónde se ubica la guía en un corte transversal de una sola vuelta de la cóclea.",
+    "La rampa timpánica es la cámara que está debajo de la membrana basilar; la guía de electrodos se coloca en esta cámara.",
+    "Las neuronas que se quieren estimular están en el ganglio espiral, dentro del modiolo, el eje central de la cóclea.",
+    "Las fibras nerviosas atraviesan la lámina espiral ósea para llegar al órgano de Corti.",
+    "Cuanto más cerca está un contacto del ganglio espiral, menos corriente se necesita para estimular y menos se dispersa la corriente.",
+    "Los diseños de electrodos buscan equilibrar esta distancia con la protección de los tejidos del oído interno."
+   ]
+  },
+  {
+   "id": "tipler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Guías de electrodos",
+   "baslik": "Dos *diseños* básicos",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Perimodiolar",
+     "metin": "Precurvada; cerca del modiolo",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Pared lateral",
+     "metin": "Recta, flexible; junto a la pared externa",
+     "cumle": 3
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Posición media",
+     "metin": "Una posición intermedia",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Las guías de electrodos tienen dos diseños principales.",
+    "El electrodo perimodiolar es precurvado; después de la inserción se enrolla y queda abrazando el modiolo.",
+    "Así, los contactos quedan más cerca del ganglio espiral.",
+    "El electrodo de pared lateral, en cambio, es recto, delgado y flexible; recorre la pared externa de la rampa timpánica.",
+    "Esta guía está diseñada para ejercer menos presión sobre los tejidos cocleares, pero sus contactos quedan más lejos del modiolo.",
+    "Algunos fabricantes también han desarrollado guías que se ubican entre ambas, en el centro de la cámara."
+   ]
+  },
+  {
+   "id": "arti_eksi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Guías de electrodos",
+   "baslik": "Las *ventajas* de cada diseño",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Perimodiolar",
+     "metin": "Umbrales más bajos, estimulación focalizada",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Riesgo perimodiolar",
+     "metin": "Plegamiento de la punta",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Pared lateral",
+     "metin": "Menos trauma, más profunda",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Pared lateral",
+     "metin": "Más corriente",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Con las guías perimodiolares, la estimulación puede requerir menos corriente y la dispersión de la corriente puede ser más limitada.",
+    "Esto puede ayudar a que los electrodos vecinos interfieran menos entre sí y a que la batería dure más.",
+    "Por otro lado, la punta de la guía puede plegarse o cruzar la membrana basilar hacia la cámara superior; estos riesgos varían según el diseño.",
+    "Las guías de pared lateral pueden fabricarse para dañar menos las estructuras cocleares y con longitud suficiente para insertarse más profundo.",
+    "Por eso suelen elegirse cuando el objetivo es preservar la audición residual.",
+    "Con contactos más alejados pueden hacer falta niveles de estimulación más altos; en muchos estudios, ambos diseños dan resultados de habla similares."
+   ]
+  },
+  {
+   "id": "derinlik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Profundidad de inserción",
+   "baslik": "¿Qué tan *profundo?*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "base: frecuencias agudas",
+     "cumle": 0
+    },
+    {
+     "parca": "tepe",
+     "metin": "ápice: frecuencias graves",
+     "cumle": 0
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "ventana redonda",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 0
+    },
+    {
+     "parca": "tepe",
+     "cumle": 0
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Una vuelta completa: 360 grados",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "El tamaño coclear varía entre personas",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Imaginemos la cóclea como un tubo desenrollado: la base responde a las frecuencias agudas y el ápice, a las graves.",
+    "La guía de electrodos entra cerca de la ventana redonda y avanza desde la base hacia el ápice.",
+    "La profundidad de inserción suele expresarse como un ángulo; una vuelta completa equivale a trescientos sesenta grados.",
+    "Según su longitud, las guías pueden alcanzar profundidades desde alrededor de una vuelta hasta más de una vuelta y media.",
+    "Una inserción profunda puede estimular más cerca de la región de frecuencias graves, pero avanzar hacia el ápice puede aumentar el riesgo de trauma.",
+    "Como el tamaño de la cóclea varía de una persona a otra, una guía de la misma longitud alcanza profundidades distintas en cada persona."
+   ]
+  },
+  {
+   "id": "uyumsuz",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Profundidad de inserción",
+   "baslik": "Correspondencia entre lugar y *frecuencia*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Asignación de frecuencias",
+     "metin": "El rango en el programa",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Lugar natural",
+     "metin": "El mapa coclear",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Adaptación",
+     "metin": "Acostumbrarse con el tiempo",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la programación, a cada electrodo se le asigna un rango de frecuencias.",
+    "Sin embargo, la posición real de un electrodo en la cóclea puede no coincidir exactamente con la región que normalmente percibe esa frecuencia.",
+    "Sobre todo con una inserción poco profunda, las frecuencias graves pueden llegar a regiones más basales, es decir, más agudas, de la cóclea.",
+    "Al principio, esto puede contribuir a que los sonidos se perciban finos o mecánicos.",
+    "Con el tiempo, el cerebro se adapta en gran medida a este desajuste; el tema todavía se debate en la investigación.",
+    "Las imágenes posoperatorias pueden darle al audiólogo información valiosa sobre la ubicación de los electrodos."
+   ]
+  },
+  {
+   "id": "cerrahi",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "La vía quirúrgica",
+   "baslik": "*Pasos* de la operación",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Mastoidectomía",
+     "metin": "Por detrás de la oreja",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Timpanotomía posterior",
+     "metin": "Una ventana al oído medio",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Entrada a la cóclea",
+     "metin": "Ventana redonda",
+     "cumle": 3
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Inserción",
+     "metin": "Lenta y suave",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Control",
+     "metin": "Mediciones, imágenes",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En el abordaje clásico, el cirujano entra por detrás de la oreja y abre parte del hueso mastoideo; esto se llama mastoidectomía.",
+    "Luego se abre una pequeña ventana al oído medio entre el nervio facial y la cuerda del tímpano, la rama gustativa del nervio facial.",
+    "Esta abertura se llama timpanotomía posterior; a través de ella se ve el nicho de la ventana redonda.",
+    "El cirujano entra en la cóclea por la ventana redonda o por un pequeño orificio hecho cerca de ella.",
+    "La guía de electrodos se introduce lenta y suavemente en la rampa timpánica, y el receptor-estimulador se coloca en su lecho óseo.",
+    "Al final de la cirugía se hacen mediciones de los electrodos y, si es necesario, se controla la posición de la guía con imágenes."
+   ]
+  },
+  {
+   "id": "ic_duvar",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "La vía quirúrgica",
+   "baslik": "Lo que *ve* el cirujano",
+   "cizim": "orta_kulak_ic_duvar",
+   "etiketler": [
+    {
+     "parca": "promontorium",
+     "metin": "promontorio",
+     "cumle": 1
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "ventana redonda",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "nervio facial",
+     "cumle": 3
+    },
+    {
+     "parca": "chorda_tympani",
+     "metin": "cuerda del tímpano",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "promontorium",
+     "cumle": 1
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "chorda_tympani",
+     "cumle": 4
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Este dibujo muestra la pared medial del oído medio; el cirujano observa esta zona a través de la timpanotomía posterior.",
+    "La prominencia del centro es el promontorio, formado por la vuelta basal de la cóclea.",
+    "El nicho de la ventana redonda se encuentra por debajo y por detrás del promontorio.",
+    "El nervio facial pasa muy cerca de esta zona; es una de las principales preocupaciones del cirujano.",
+    "La cuerda del tímpano también atraviesa esta zona, por eso después de la cirugía pueden aparecer cambios transitorios del gusto.",
+    "La ventana oval y el estribo están más arriba; estas estructuras no se tocan en la cirugía de implante."
+   ]
+  },
+  {
+   "id": "giris",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "La vía quirúrgica",
+   "baslik": "La *vía* de entrada a la cóclea",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Ventana redonda",
+     "metin": "Directamente a través de la membrana",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Cocleostomía",
+     "metin": "Un pequeño orificio en el hueso",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Ventana redonda ampliada",
+     "metin": "Entre ambas técnicas",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la inserción por ventana redonda, la guía atraviesa directamente la membrana de la ventana redonda sin fresar el hueso.",
+    "Se considera que esta vía causa menos trauma a la cóclea y puede ayudar a preservar la audición residual.",
+    "En la cocleostomía, el cirujano fresa un pequeño orificio en el promontorio, por delante y por debajo de la ventana redonda.",
+    "Esta vía puede preferirse si el nicho de la ventana redonda es estrecho o difícil de ver, o si hay osificación en la cóclea.",
+    "Algunos cirujanos amplían ligeramente el borde de la ventana redonda y usan una vía intermedia entre ambos métodos.",
+    "La vía elegida depende de la evaluación del cirujano, la anatomía de la cóclea y la guía seleccionada."
+   ]
+  },
+  {
+   "id": "yumusak",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Audición residual",
+   "baslik": "Cirugía *mínimamente traumática*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Inserción lenta",
+     "metin": "Reduce la presión",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Proteger el líquido",
+     "metin": "Sin pérdida de perilinfa",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Guía adecuada",
+     "metin": "Delgada, flexible",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Monitoreo en tiempo real",
+     "metin": "Respuesta coclear",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Con audición residual, el objetivo es proteger al máximo las estructuras internas de la cóclea; esto se llama cirugía mínimamente traumática.",
+    "Introducir la guía despacio y a velocidad constante reduce los cambios de presión dentro de la cóclea.",
+    "Se evita aspirar la perilinfa y que entre polvo de hueso en la cóclea.",
+    "Elegir una guía delgada y flexible y planificar la profundidad de inserción también ayuda a la preservación.",
+    "Algunos centros monitorizan respuestas de electrococleografía desde la guía durante la inserción; una caída de la respuesta alerta al cirujano.",
+    "Las medidas adicionales, como el uso de medicamentos, son decisión exclusiva del cirujano y del equipo."
+   ]
+  },
+  {
+   "id": "eas",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Audición residual",
+   "baslik": "Ejemplo: audición residual en *frecuencias graves*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 20,
+     "ad": "Umbral (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "once",
+      "noktalar": [
+       [
+        125,
+        25
+       ],
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        45
+       ],
+       [
+        1000,
+        80
+       ],
+       [
+        2000,
+        100
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "antes de la cirugía",
+      "cumle": 1
+     },
+     {
+      "ad": "sonra",
+      "noktalar": [
+       [
+        125,
+        35
+       ],
+       [
+        250,
+        40
+       ],
+       [
+        500,
+        55
+       ],
+       [
+        1000,
+        90
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "isaretli": true,
+      "etiket": "después de la cirugía",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "akustik",
+      "x": [
+       125,
+       750
+      ],
+      "renk": "yesil",
+      "etiket": "acústica",
+      "cumle": 4
+     },
+     {
+      "ad": "elektrik",
+      "x": [
+       750,
+       8000
+      ],
+      "renk": "mavi",
+      "etiket": "eléctrica",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Graves: el propio oído",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Agudos: el implante",
+     "cumle": 2,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "cumleler": [
+    "En un audiograma solo ilustrativo vemos a un candidato a implante con audición residual en las frecuencias graves.",
+    "Antes de la cirugía, los umbrales de 125 a 500 hercios son de leves a moderados; por encima de mil hercios, la pérdida es profunda.",
+    "En esta persona, el implante puede transmitir las frecuencias agudas por vía eléctrica, y su propio oído, las graves por vía acústica.",
+    "Un mes después de la cirugía, los umbrales graves empeoraron unos diez decibeles, pero se conservan en un nivel útil.",
+    "En este caso, la estimulación eléctrica y la acústica pueden usarse juntas en el mismo oído; esto se llama estimulación electroacústica.",
+    "La audición residual también puede disminuir en los meses y años posteriores a la cirugía, por eso se controla con regularidad."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "La mirada del audiólogo",
+   "baslik": "¿Qué buscamos en el *informe quirúrgico?*",
+   "maddeler": [
+    {
+     "metin": "Tipo y longitud de la guía",
+     "cumle": 0,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Vía de entrada",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Inserción completa, electrodos extracocleares",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Mediciones intraoperatorias",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Resultado de las imágenes",
+     "cumle": 5,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "elektrot_dizisi",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Antes de la primera programación, el audiólogo lee el informe quirúrgico; primero se anotan el tipo y la longitud de la guía.",
+    "Se registra si se usó la ventana redonda o una cocleostomía, y si la inserción fue difícil.",
+    "Importa saber si la guía se insertó por completo y si algún electrodo quedó fuera de la cóclea.",
+    "Los electrodos fuera de la cóclea suelen apagarse en la programación; si no, pueden causar sensaciones molestas o estimular el nervio facial.",
+    "Los resultados de las mediciones de electrodos hechas durante la cirugía son el punto de partida de la primera programación.",
+    "Si se hicieron imágenes, se revisa el informe en busca de hallazgos como el plegamiento de la punta o el paso de la guía a la cámara equivocada."
+   ]
+  },
+  {
+   "id": "programlama",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "La mirada del audiólogo",
+   "baslik": "*Efectos* en la programación",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Niveles de estimulación",
+     "metin": "Dependen del tipo de guía",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Estimulación del nervio facial",
+     "metin": "Puede apagarse el electrodo",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Componente acústico",
+     "metin": "Según la audición residual",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Seguimiento",
+     "metin": "Se mide la audición residual",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los niveles de estimulación pueden variar según el tipo de guía, la distancia de los contactos al modiolo y el estado del nervio de la persona.",
+    "En algunas personas, sobre todo si el hueso entre la cóclea y el canal del nervio facial es delgado, la estimulación puede causar contracciones faciales.",
+    "En ese caso se bajan los niveles de los electrodos implicados o se apaga el electrodo, y el hallazgo se comparte con el equipo.",
+    "En una persona con audición residual preservada, el componente acústico del procesador se ajusta según el audiograma posoperatorio.",
+    "La audición residual del oído implantado se mide a intervalos regulares, y los cambios se reflejan en la programación."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de la primera programación, leer el informe quirúrgico y las imágenes disponibles. Anotar los electrodos extracocleares y las mediciones intraoperatorias.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la clínica: no empiecen la primera programación sin haber leído el informe quirúrgico.",
+    "El tipo de guía, la profundidad de inserción y los electrodos fuera de la cóclea influyen directamente en los primeros minutos de programación.",
+    "Si algo del informe no está claro, una breve conversación con el cirujano evita muchas preguntas en los meses siguientes.",
+    "En una persona con audición residual, también es un buen hábito agendar el audiograma posoperatorio para el día de la primera programación."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Perimodiolar: precurvada, cerca del modiolo",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Pared lateral: recta, flexible, menos trauma",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Entrada: ventana redonda o cocleostomía",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Cirugía mínimamente traumática: preserva la audición residual",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Las guías perimodiolares son precurvadas, y sus contactos quedan cerca del ganglio espiral.",
+    "Las guías de pared lateral son rectas y flexibles; pueden insertarse más profundo con menos trauma para la cóclea.",
+    "Se entra en la cóclea por la ventana redonda o por una cocleostomía; la elección depende de la evaluación del cirujano y de la anatomía.",
+    "La cirugía mínimamente traumática busca preservar la audición residual; el audiólogo lleva el informe quirúrgico a la programación."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué diseño de electrodo queda más cerca del modiolo?",
+   "secenekler": [
+    "Pared lateral",
+    "Perimodiolar",
+    "Conducción ósea",
+    "Electrodo de superficie"
+   ],
+   "dogru": 1,
+   "aciklama": "La guía perimodiolar es precurvada y rodea el modiolo después de la inserción.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué diseño de guía de electrodos queda más cerca del modiolo y, por lo tanto, del ganglio espiral?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: la guía perimodiolar.",
+    "La guía perimodiolar es precurvada y se acomoda alrededor del modiolo, mientras que la de pared lateral recorre la pared externa."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Mediciones intraoperatorias: *impedancia*, ECAP y ESRT",
+   "cikis": 2.5,
+   "cumleler": [
+    "A continuación veremos las mediciones durante la cirugía: la impedancia, la respuesta eléctrica del nervio y el reflejo estapedial eléctrico.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,973 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D279_Case_First_Hearing_Aid_Older_Adult_ES",
+ "kapak": {
+  "ust": "LECCIÓN 279",
+  "baslik": "Caso: un primer<br>*audífono*",
+  "alt": "Un adulto mayor, de las necesidades al seguimiento",
+  "cizim": "isitme_cihazi"
+ },
+ "youtube": {
+  "baslik": "Caso: el primer audífono de un adulto mayor | Lección 279 | AIHEAR Academia de Audiología",
+  "aciklama": "En un caso ficticio, acompañamos a una adulta mayor que usará un audífono por primera vez: evaluación de necesidades, objetivos concretos con el COSI, barreras y apoyos, selección del dispositivo, verificación con NAL-NL2 y medición en oído real, el primer día de adaptación, la aclimatación, el registro de datos y las citas de seguimiento.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Dillon, Hearing Aids; Dillon et al., Client Oriented Scale of Improvement (1997); Keidser et al., The NAL-NL2 prescription procedure (2011); ASHA, Hearing Aids for Adults; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "casoclinico"
+  ],
+  "etiketler": [
+   "primer audífono",
+   "usuario nuevo de audífonos",
+   "aclimatación al audífono",
+   "seguimiento de audífonos",
+   "COSI",
+   "NAL-NL2",
+   "medición en oído real",
+   "registro de datos del audífono",
+   "presbiacusia",
+   "caso clínico de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 279",
+   "baslik": "Caso: un primer *audífono*",
+   "alt": "Un adulto mayor, de las necesidades al seguimiento",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección acompañamos de principio a fin a una adulta mayor que usará un audífono por primera vez.",
+    "Veremos la evaluación de necesidades y los objetivos personales, la verificación con NAL-NL2 y medición en oído real, la aclimatación y el seguimiento."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Evaluación de necesidades",
+   "baslik": "Caso de ejemplo: *historia clínica*",
+   "maddeler": [
+    {
+     "metin": "Mujer de ejemplo de 72 años",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Viene con su esposo",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Volumen del televisor: _motivo de discusiones_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Se pierde en las cenas familiares",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Le cuesta entender a sus nietos",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "sosyal_izolasyon",
+    "cumle": 0,
+    "ayar": {
+     "yalniz_cumle": 3
+    }
+   },
+   "cumleler": [
+    "Nuestro caso es ficticio: una mujer de setenta y dos años acude a una evaluación para audífonos.",
+    "Vino con su esposo, quien cuenta que en los últimos años ella responde mal a las preguntas y a menudo pide que le repitan.",
+    "Como sube mucho el volumen del televisor, a veces hay discusiones en casa.",
+    "Lo que más le cuesta son las cenas familiares; cuando varias personas hablan a la vez, pierde la conversación y se queda callada.",
+    "Le cuesta entender las voces agudas de sus nietos, y eso la entristece.",
+    "Está dispuesta a probar audífonos, pero le preocupan el aspecto, aprender a usarlos y el costo."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 1",
+   "bolum": "Evaluación de necesidades",
+   "baslik": "Pérdida bilateral *simétrica*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Vía ósea: _superpuesta_",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       25,
+       30,
+       40,
+       50,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       25,
+       30,
+       40,
+       55,
+       60,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       20,
+       30,
+       40,
+       50,
+       60
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "La otoscopia y los timpanogramas son normales en ambos oídos; el audiograma muestra una pérdida descendente hacia los agudos en ambos oídos.",
+    "La vía ósea se superpone a la aérea; la pérdida es neurosensorial, sin asimetría significativa entre los oídos.",
+    "El promedio de tonos puros es de unos cuarenta decibeles en ambos oídos; la pérdida es leve en los graves y de moderada a severa en los agudos.",
+    "El reconocimiento de palabras es del ochenta y cuatro por ciento a la derecha y del ochenta a la izquierda; acorde con la pérdida.",
+    "Este cuadro puede ser compatible con presbiacusia; también se hizo un examen otorrinolaringológico, sin contraindicaciones para los audífonos.",
+    "La pérdida en las frecuencias que llevan las consonantes agudas explica su dificultad en grupos y con las voces agudas."
+   ]
+  },
+  {
+   "id": "cosi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Evaluación de necesidades",
+   "baslik": "Objetivos *concretos* con el COSI",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Cena familiar",
+     "metin": "Participar en la conversación",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Televisión",
+     "metin": "Sin molestar a su esposo",
+     "cumle": 2
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Teléfono",
+     "metin": "Llamada semanal con su hija",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Nietos",
+     "metin": "Entender las preguntas a la primera",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Con la Escala de Mejoría Orientada al Cliente, o COSI, fijamos los objetivos propios de la persona.",
+    "La persona elige hasta cinco situaciones concretas a mejorar; el primer objetivo es participar en la conversación en las cenas familiares del domingo.",
+    "El segundo objetivo es ver televisión a un volumen que no moleste a su esposo.",
+    "El tercer objetivo es hablar por teléfono cada semana con su hija sin esfuerzo.",
+    "El cuarto objetivo es entender a la primera las preguntas de sus nietos.",
+    "Los objetivos se escriben de la forma más concreta posible y se ordenan por importancia; cada uno se evaluará por separado en el seguimiento."
+   ]
+  },
+  {
+   "id": "engel",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Evaluación de necesidades",
+   "baslik": "Barreras y *apoyos*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Visión",
+     "metin": "Ver piezas pequeñas",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Destreza manual",
+     "metin": "Colocarlo, cambiar pilas",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Expectativas",
+     "metin": "Límites en el ruido",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Apoyo del esposo",
+     "metin": "Un recurso valioso",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los problemas de visión pueden dificultar ver piezas y botones pequeños; en nuestro caso, usa anteojos para leer.",
+    "Cuenta que, por la rigidez de las articulaciones de los dedos, podría costarle cambiar pilas pequeñas.",
+    "Hablamos de las expectativas: los audífonos ayudarán también en el ruido, pero no devolverán la audición a la normalidad.",
+    "Sus preocupaciones se toman en serio; el aspecto y el uso de los dispositivos se exploran juntos con equipos de muestra.",
+    "La disposición de su esposo es un gran apoyo; se lo anima a asistir a la adaptación y a las visitas de seguimiento."
+   ]
+  },
+  {
+   "id": "secim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Selección y verificación",
+   "baslik": "*Selección* del dispositivo",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Bilateral",
+     "metin": "Pérdida simétrica, ambos oídos",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Adaptación abierta",
+     "metin": "Graves buenos, agudos con pérdida",
+     "cumle": 3
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Recargable",
+     "metin": "Sin cambiar pilas",
+     "cumle": 4
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Conexión al televisor",
+     "metin": "Transmisión inalámbrica",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Como la pérdida es simétrica en ambos oídos, se recomiendan audífonos bilaterales.",
+    "Escuchar con dos oídos ayuda a entender en el ruido y a localizar de dónde viene el sonido.",
+    "La selección considera en conjunto la pérdida, el conducto auditivo, la destreza, la visión y las preferencias de la persona.",
+    "Con una pérdida leve en los graves, un retroauricular con el receptor en el conducto y adaptación abierta puede ser una opción adecuada.",
+    "Como su destreza es limitada, un modelo recargable evita la dificultad de cambiar pilas.",
+    "Para el objetivo del televisor, se habla de la transmisión inalámbrica o de un accesorio para el televisor.",
+    "Las opciones se explican con sus beneficios y sus límites; la decisión se toma junto con ella y su esposo."
+   ]
+  },
+  {
+   "id": "rem",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Selección y verificación",
+   "baslik": "*Medición* en oído real",
+   "cizim": "rem_duzenegi",
+   "etiketler": [
+    {
+     "parca": "prob_tupu",
+     "metin": "tubo de sonda",
+     "cumle": 2
+    },
+    {
+     "parca": "referans_mikrofonu",
+     "metin": "micrófono de referencia",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob_tupu",
+     "cumle": 2
+    },
+    {
+     "parca": "hoparlor",
+     "cumle": 3
+    },
+    {
+     "parca": "isitme_cihazi",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Prescripción: _NAL-NL2_",
+     "cumle": 0,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "_Medición_, no estimación",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Comparar con el objetivo",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "El dispositivo se programa según su audiograma con NAL-NL2, la fórmula prescriptiva de los Laboratorios Nacionales de Acústica de Australia.",
+    "Pero la estimación del software no muestra del todo el sonido que se produce en su propio conducto auditivo.",
+    "Por eso se coloca un tubo de sonda fino en el conducto, cerca de la membrana timpánica, y se mide con el dispositivo colocado.",
+    "Con una señal similar al habla emitida por un altavoz, se mide el nivel sonoro en el conducto y se compara con el objetivo.",
+    "La medición en oído real muestra si el dispositivo alcanza el objetivo prescriptivo; esto se llama verificación."
+   ]
+  },
+  {
+   "id": "rem_grafik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Selección y verificación",
+   "baslik": "Objetivo y *medición*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      3000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 40,
+     "adim": 10,
+     "ad": "Ganancia (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        250,
+        4
+       ],
+       [
+        500,
+        8
+       ],
+       [
+        1000,
+        16
+       ],
+       [
+        2000,
+        24
+       ],
+       [
+        3000,
+        27
+       ],
+       [
+        4000,
+        28
+       ],
+       [
+        6000,
+        26
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "objetivo",
+      "cumle": 0
+     },
+     {
+      "ad": "ilk",
+      "noktalar": [
+       [
+        250,
+        4
+       ],
+       [
+        500,
+        7
+       ],
+       [
+        1000,
+        13
+       ],
+       [
+        2000,
+        16
+       ],
+       [
+        3000,
+        17
+       ],
+       [
+        4000,
+        16
+       ],
+       [
+        6000,
+        12
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "primer ajuste",
+      "cumle": 1
+     },
+     {
+      "ad": "son",
+      "noktalar": [
+       [
+        250,
+        5
+       ],
+       [
+        500,
+        8
+       ],
+       [
+        1000,
+        15
+       ],
+       [
+        2000,
+        22
+       ],
+       [
+        3000,
+        23
+       ],
+       [
+        4000,
+        23
+       ],
+       [
+        6000,
+        19
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "tras el ajuste",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "alt_bolge",
+      "x": [
+       250,
+       2000
+      ],
+      "renk": "sari",
+      "etiket": "hasta 2 kHz: más o menos 5 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Primer ajuste: _bajo el objetivo_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tras el ajuste: _cerca del objetivo_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Anotar el motivo en la historia",
+     "cumle": 6,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "En el gráfico, la línea azul marino discontinua muestra un objetivo prescriptivo de ejemplo para el habla promedio.",
+    "La línea roja es la medición con el primer ajuste del fabricante; queda claramente bajo el objetivo, sobre todo desde dos mil hertz.",
+    "Las investigaciones muestran que los primeros ajustes de los fabricantes suelen quedar por debajo del objetivo prescriptivo.",
+    "La medición tras el ajuste, la línea verde, queda a menos de cinco decibeles del objetivo hasta dos mil hertz.",
+    "Un criterio habitual es que la medición quede a más o menos cinco decibeles del objetivo, sobre todo hasta dos mil hertz.",
+    "Como es su primer audífono, la ganancia algo por debajo del objetivo en los agudos se subirá paso a paso a medida que se aclimate.",
+    "Cada medición, y el motivo de cualquier desviación intencional del objetivo, se anota en la historia clínica."
+   ]
+  },
+  {
+   "id": "ilk_gun",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Primer día y aclimatación",
+   "baslik": "El primer *día de adaptación*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Ajuste físico",
+     "metin": "¿Cómodo? ¿Hay fugas?",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Verificación",
+     "metin": "Medición en oído real",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Colocar y retirar",
+     "metin": "Con sus propias manos",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Cuidado y carga",
+     "metin": "Una rutina sencilla",
+     "cumle": 3
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Teléfono y televisor",
+     "metin": "Probarlos en la consulta",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El primer día de adaptación empieza por el ajuste físico: ¿es cómodo el dispositivo, presiona en el conducto, hay retroalimentación acústica?",
+    "Luego se verifica el ajuste al objetivo con la medición en oído real que acabamos de ver.",
+    "Ella se coloca y se retira los dispositivos varias veces con sus propias manos, mientras su esposo observa.",
+    "Los cuidados, como la carga, la limpieza y el cambio de domos, se explican como una rutina sencilla y se entregan por escrito.",
+    "Las llamadas telefónicas y la conexión al televisor se prueban en la consulta, para que el primer intento en casa no termine en desilusión.",
+    "Se comprueba que entendió la información clave pidiéndole que la repita con sus propias palabras."
+   ]
+  },
+  {
+   "id": "alisma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Primer día y aclimatación",
+   "baslik": "El *proceso* de aclimatación",
+   "maddeler": [
+    {
+     "metin": "Sonidos nuevos: _fuertes y artificiales_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Uso regular durante todo el día",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Primero lugares tranquilos, luego multitudes",
+     "cumle": 3,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Su propia voz puede sonar distinta",
+     "cumle": 4,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "La ganancia se sube gradualmente",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "Todo el día",
+      "metin": "Uso regular",
+      "cumle": 2
+     },
+     {
+      "ikon": "ev",
+      "baslik": "Primero en casa",
+      "metin": "Luego multitudes",
+      "cumle": 3
+     }
+    ],
+    "ust": "ACLIMATACIÓN"
+   },
+   "cumleler": [
+    "La readaptación del cerebro a sonidos que no oía desde hacía años se llama aclimatación.",
+    "En los primeros días, el roce del papel, el agua que corre y los pasos pueden parecer inusualmente fuertes y artificiales; esto es esperable.",
+    "La forma más eficaz de aclimatarse es usar los dispositivos con regularidad todo el día, no solo en lugares difíciles.",
+    "Empezar en casa y en lugares tranquilos los primeros días, y luego pasar a lugares concurridos, le da tranquilidad a la persona.",
+    "Que su propia voz suene distinta también es una queja frecuente; suele desaparecer con el tiempo o se corrige con el ajuste.",
+    "En las visitas de seguimiento, la ganancia se sube paso a paso hacia el objetivo, según lo permita la comodidad."
+   ]
+  },
+  {
+   "id": "strateji",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Primer día y aclimatación",
+   "baslik": "*Estrategias* de comunicación",
+   "maddeler": [
+    {
+     "metin": "Captar su atención antes de hablar",
+     "cumle": 0,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Cara a cara, en el mismo cuarto",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Si no entiende, _reformular_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Reducir el ruido de fondo",
+     "cumle": 3,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "En el ruido, elegir un rincón tranquilo",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kalabalik",
+      "baslik": "Para su esposo",
+      "metin": "Estrategias para ambos",
+      "cumle": 0
+     },
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Resumen escrito",
+      "metin": "Para llevar a casa",
+      "cumle": 4
+     }
+    ],
+    "ust": "JUNTOS"
+   },
+   "cumleler": [
+    "Los audífonos solos no bastan; les enseñamos a ella y a su esposo algunas estrategias: captar su atención por su nombre antes de hablar.",
+    "Hablar cara a cara, donde ella pueda ver el rostro, en lugar de llamarla desde otro cuarto.",
+    "Cuando no se entiende una frase, decirla con otras palabras en lugar de gritar la misma frase.",
+    "Bajar el volumen del televisor o de la radio mientras se conversa.",
+    "En las cenas familiares, sentarse donde pueda ver a todos, lejos de las fuentes de ruido, también ayuda al primer objetivo."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "El primer día, no terminen la visita hasta que la persona se haya colocado y retirado el dispositivo varias veces; incluyan también al cónyuge.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la práctica: el día de la adaptación, no terminen la visita hasta que la persona se haya colocado y retirado el dispositivo varias veces.",
+    "Un dispositivo que no puede colocarse no se usará en casa; esta es una de las causas frecuentes de abandono en las primeras semanas.",
+    "Cuando el cónyuge o el cuidador también ve estos pasos, los pequeños problemas pueden resolverse en casa.",
+    "Una breve llamada en los primeros días tras la adaptación detecta los pequeños problemas antes de que crezcan."
+   ]
+  },
+  {
+   "id": "takip",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento",
+   "baslik": "Citas de *seguimiento*",
+   "adimlar": [
+    {
+     "ikon": "telefon",
+     "baslik": "Primeros días",
+     "metin": "Breve llamada telefónica",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Primeras semanas",
+     "metin": "Comodidad, ajuste fino",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Registro de datos",
+     "metin": "Horas diarias",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Unos meses después",
+     "metin": "COSI, cuestionarios",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Controles regulares",
+     "metin": "Audiograma y dispositivo",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En los primeros días tras la adaptación, una breve llamada telefónica pregunta cómo va el uso.",
+    "El control de las primeras semanas abarca la comodidad, la calidad del sonido y los problemas de uso; si hace falta, se hace un ajuste fino.",
+    "El registro de datos del dispositivo muestra de forma objetiva las horas diarias de uso y los programas en que se usó.",
+    "Unos meses después, los resultados se evalúan con los objetivos del COSI y con cuestionarios estandarizados.",
+    "El momento de las citas de seguimiento se planifica según el protocolo de la clínica y las necesidades de la persona.",
+    "Después, los controles del audiograma y del dispositivo continúan a intervalos regulares."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento",
+   "baslik": "Registro de datos: las *semanas*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 5,
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "yazilar": {
+      "1": "Week 1",
+      "2": "Week 2",
+      "3": "Week 3",
+      "4": "Week 4",
+      "1": "Semana 1",
+      "2": "Semana 2",
+      "3": "Semana 3",
+      "4": "Semana 4"
+     },
+     "ad": "Semana"
+    },
+    "y": {
+     "min": 0,
+     "max": 12,
+     "adim": 2,
+     "ad": "Uso diario (horas)"
+    },
+    "seriler": [
+     {
+      "ad": "saat",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        3.5
+       ],
+       [
+        2,
+        5
+       ],
+       [
+        3,
+        7
+       ],
+       [
+        4,
+        8.5
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "dorduncu",
+      "x": 4,
+      "y": 8.5,
+      "etiket": "8,5 horas",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Poco uso: _preguntar por qué_",
+     "cumle": 4,
+     "ikon": "soru"
+    },
+    {
+     "metin": "_Colaboración_, no vigilancia",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Este gráfico muestra el promedio de horas diarias de uso en nuestro caso durante las primeras cuatro semanas.",
+    "En la primera semana los dispositivos se usaron en promedio tres horas y media al día, casi solo para ver televisión por la noche.",
+    "En la llamada telefónica se volvió a explicar la importancia de usarlos todo el día.",
+    "Para la cuarta semana, el uso diario sube a ocho horas y media.",
+    "Pocas horas de uso pueden indicar incomodidad, expectativas o un problema físico; siempre se pregunta el motivo.",
+    "El registro no es una herramienta de vigilancia, sino el punto de partida para resolver los problemas junto con la persona."
+   ]
+  },
+  {
+   "id": "sonuc",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento",
+   "baslik": "El *COSI* a los tres meses",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Cena familiar",
+     "metin": "Mucho mejor",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Televisión",
+     "metin": "Mucho mejor",
+     "cumle": 1
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Teléfono",
+     "metin": "Un poco mejor",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Nietos",
+     "metin": "Mejor",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "A los tres meses, califica como mucho mejor su participación en la conversación en las cenas familiares.",
+    "El televisor ahora está a un nivel que no molesta a su esposo; este objetivo también está mucho mejor.",
+    "El cambio en el teléfono ha sido limitado; se volverá a trabajar en el programa de teléfono y en la conexión inalámbrica.",
+    "También hay una clara mejora para entender las preguntas de sus nietos.",
+    "Revisar objetivo por objetivo muestra con claridad qué funciona y qué áreas todavía requieren trabajo.",
+    {
+     "yazi": "La satisfacción general también se mide con un cuestionario breve, como el Inventario Internacional de Resultados para Audífonos, o IOI-HA."
+    }
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Evaluación de necesidades, objetivos COSI concretos",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Objetivo NAL-NL2, verificado en oído real",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Aclimatación: uso diario, ganancia gradual",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Seguimiento planificado, registro de datos, resultados",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "El proceso del primer audífono empieza con una evaluación de necesidades junto con la persona y su familia, y con objetivos COSI concretos.",
+    "El dispositivo se programa con una fórmula prescriptiva, y su ajuste al objetivo se verifica con la medición en oído real.",
+    "Para la aclimatación se aconseja el uso regular durante todo el día; si hace falta, la ganancia se lleva paso a paso hacia el objetivo.",
+    "Las visitas de seguimiento planificadas, el registro de datos y la evaluación de resultados con el COSI completan el proceso."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "El primer ajuste del fabricante queda bajo el objetivo. ¿Qué sigue?",
+   "secenekler": [
+    "Dejarlo como está",
+    "Llevarlo al objetivo con REM",
+    "Cambiar el dispositivo",
+    "Anular la ganancia"
+   ],
+   "dogru": 1,
+   "aciklama": "La medición en oído real verifica el _ajuste al objetivo_; en un usuario nuevo, la ganancia puede subirse paso a paso.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en la medición en oído real, el primer ajuste del fabricante queda claramente bajo el objetivo en los agudos. ¿Qué debe hacerse?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: el ajuste se lleva hacia el objetivo, guiado por la medición en oído real.",
+    "En un usuario nuevo, al principio la ganancia puede dejarse algo baja por comodidad; pero el plan es alcanzar el objetivo paso a paso."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Caso: el usuario de audífonos *insatisfecho*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En el próximo caso analizaremos paso a paso la queja de un usuario que no está satisfecho con su audífono.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

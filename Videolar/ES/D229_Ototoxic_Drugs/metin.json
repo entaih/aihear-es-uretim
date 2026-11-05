@@ -1,0 +1,926 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D229_Ototoxic_Drugs_ES",
+ "kapak": {
+  "ust": "LECCIÓN 229",
+  "baslik": "Fármacos<br>*ototóxicos*",
+  "alt": "Cisplatino, aminoglucósidos y otros",
+  "cizim": "koklea_kesit",
+  "vurgula": [
+   "dis_tuy_hucreleri",
+   "stria_vaskularis"
+  ]
+ },
+ "youtube": {
+  "baslik": "Fármacos ototóxicos: aminoglucósidos y cisplatino | Lección 229 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué fármacos pueden dañar el oído y cómo lo hacen? En esta lección vemos la pérdida auditiva permanente por cisplatino y aminoglucósidos, el efecto de los aminoglucósidos sobre el órgano del equilibrio, la hipersensibilidad con variantes del gen MT-RNR1 y los efectos mayormente reversibles de los diuréticos de asa y los salicilatos.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Campbell, Pharmacology and Ototoxicity for Audiologists; American Academy of Audiology (2009), Position Statement and Clinical Practice Guidelines: Ototoxicity Monitoring; McDermott et al. (2022), CPIC Guideline for the Use of Aminoglycosides Based on MT-RNR1 Genotype, Clinical Pharmacology and Therapeutics; Brock et al. (2018), Sodium thiosulfate for protection from cisplatin-induced hearing loss, New England Journal of Medicine.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "ototoxicidad",
+   "perdidaauditiva"
+  ],
+  "etiketler": [
+   "ototoxicidad",
+   "fármacos ototóxicos",
+   "cisplatino",
+   "aminoglucósidos",
+   "MT-RNR1",
+   "tiosulfato de sodio",
+   "diuréticos de asa",
+   "salicilatos",
+   "vestibulotoxicidad",
+   "monitorización de ototoxicidad",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 229",
+   "baslik": "Fármacos *ototóxicos*",
+   "alt": "Cisplatino, aminoglucósidos y otros",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos los principales fármacos que pueden dañar el oído: el cisplatino, los aminoglucósidos y fármacos con efectos reversibles.",
+    "Veremos qué estructuras se afectan, los factores de riesgo y el papel del audiólogo en este proceso."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Ototoxicidad",
+   "baslik": "¿Qué es la *ototoxicidad?*",
+   "maddeler": [
+    {
+     "metin": "Daño del oído interno por fármacos",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Cóclea: _cocleotoxicidad_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Equilibrio: _vestibulotoxicidad_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Suele ser bilateral, empieza en agudos",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Permanente o reversible",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "OTOTOXICIDAD",
+    "metin": "Daño del *oído interno* por fármacos: cóclea, órgano del equilibrio o ambos",
+    "cumle": 0
+   },
+   "cumleler": [
+    "La ototoxicidad es el daño del oído interno causado por un fármaco o una sustancia química.",
+    "Si el daño afecta a la cóclea, se llama cocleotoxicidad; el resultado es pérdida auditiva y tinnitus.",
+    "Si afecta al órgano del equilibrio, se llama vestibulotoxicidad; el resultado es inestabilidad y visión borrosa.",
+    "Como el fármaco llega a ambos oídos por la sangre, la pérdida suele ser bilateral y simétrica, y típicamente empieza en las frecuencias agudas.",
+    "La primera queja suele ser el tinnitus; la pérdida puede pasar inadvertida hasta que alcanza las frecuencias del habla.",
+    "El efecto de algunos fármacos es permanente; el de otros se revierte en gran parte al suspender el fármaco.",
+    "La mayoría de estos fármacos salvan vidas; toda decisión sobre el tratamiento corresponde al médico y al equipo tratante."
+   ]
+  },
+  {
+   "id": "taban",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Ototoxicidad",
+   "baslik": "¿Por qué primero las frecuencias *agudas?*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 8000
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "base: frecuencias agudas",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "ápice: frecuencias graves",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Células basales más vulnerables",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "El daño avanza de base a ápice",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Primer signo: por encima de 8000 Hz",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "taban",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Veamos por qué el daño ototóxico aparece primero en las frecuencias agudas.",
+    "La base de la cóclea responde a las frecuencias agudas, y el ápice, a las graves.",
+    "Las células ciliadas externas de la base son más vulnerables al estrés oxidativo que crean estos fármacos.",
+    "Por eso el daño suele empezar en la base y avanzar con el tiempo hacia el ápice, es decir, hacia frecuencias más graves.",
+    "Los primeros cambios suelen verse por encima del audiograma estándar, en las frecuencias altas extendidas, más allá de 8000 Hz.",
+    "Por eso la monitorización presta especial atención a las frecuencias agudas; lo veremos en detalle en la próxima lección."
+   ]
+  },
+  {
+   "id": "sisplatin",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Cisplatino",
+   "baslik": "Cisplatino",
+   "maddeler": [
+    {
+     "metin": "Quimioterápico a base de platino",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "En cánceres de niños y adultos",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Bilateral, empieza en agudos, _permanente_",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Puede avanzar tras el tratamiento",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "CISPLATINO",
+    "metin": "Su efecto se *acumula* con la dosis y puede continuar tras el tratamiento",
+    "cumle": 5
+   },
+   "cumleler": [
+    "El cisplatino es un quimioterápico a base de platino que se usa para tratar muchos tumores sólidos.",
+    "Algunos ejemplos son los cánceres de testículo, de cabeza y cuello, de pulmón y de ovario, y algunos tumores infantiles.",
+    "En los niños, se usa a menudo para tratar el hepatoblastoma, el neuroblastoma, el osteosarcoma y el meduloblastoma.",
+    "La pérdida auditiva por cisplatino suele ser bilateral, empieza en las frecuencias agudas y es permanente.",
+    "Su frecuencia varía según el estudio y los criterios usados; en niños se ha informado en cerca de la mitad o más de los tratados.",
+    "El cisplatino puede permanecer en el tejido coclear durante meses o incluso años, así que la pérdida puede avanzar tras terminar el tratamiento.",
+    "El carboplatino, un fármaco similar, suele ser menos ototóxico, pero en dosis muy altas también puede causar pérdida auditiva."
+   ]
+  },
+  {
+   "id": "mekanizma",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Cisplatino",
+   "baslik": "¿*Dónde* causa daño el cisplatino?",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "células ciliadas externas",
+     "cumle": 1
+    },
+    {
+     "parca": "stria_vaskularis",
+     "metin": "estría vascular",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "metin": "ganglio espiral",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 1
+    },
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Aumento de radicales libres",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Primero, las células ciliadas externas",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Las OEA pueden caer pronto",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "El cisplatino produce un aumento de especies reactivas de oxígeno, es decir, de radicales libres, dentro de la cóclea.",
+    "Las células más afectadas son las células ciliadas externas, sobre todo en la espira basal.",
+    "La estría vascular también se afecta, y se cree que interviene en la entrada del fármaco a la cóclea y en su retención.",
+    "A medida que el daño avanza, también pueden afectarse las células ciliadas internas y las neuronas del ganglio espiral.",
+    "Como las células ciliadas externas no se regeneran en los seres humanos, esta pérdida es permanente.",
+    "El daño de las células ciliadas externas también puede verse de forma temprana como una reducción de las otoemisiones acústicas."
+   ]
+  },
+  {
+   "id": "risk",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Cisplatino",
+   "baslik": "*Factores de riesgo* con cisplatino",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Dosis total",
+     "cumle": 0,
+     "metin": "Dosis acumulada creciente"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Edad temprana",
+     "cumle": 1,
+     "metin": "Sobre todo, menores de cinco años"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Radioterapia craneal",
+     "cumle": 2,
+     "metin": "Campo que incluye la cóclea"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Función renal",
+     "cumle": 3,
+     "metin": "Eliminación más lenta"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Otros fármacos",
+     "cumle": 4,
+     "metin": "Otros ototóxicos"
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Susceptibilidad genética",
+     "cumle": 5,
+     "metin": "Algunas variantes génicas"
+    }
+   ],
+   "cumleler": [
+    "El factor de riesgo más importante es la dosis total, o acumulada, recibida a lo largo del tratamiento.",
+    "La edad temprana, sobre todo antes de los cinco años, se asocia a mayor riesgo; esa edad es también el período más crítico para el lenguaje.",
+    "La radioterapia en la cabeza con la cóclea dentro del campo de radiación aumenta el efecto del cisplatino.",
+    "Si la función renal está reducida, el fármaco se elimina más lentamente y actúa más tiempo sobre el oído interno.",
+    "Usar al mismo tiempo otros fármacos ototóxicos, como aminoglucósidos o diuréticos de asa, aumenta el riesgo.",
+    "También se ha demostrado que algunas variantes genéticas aumentan la susceptibilidad, aunque esto aún no se comprende del todo."
+   ]
+  },
+  {
+   "id": "koruma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Cisplatino",
+   "baslik": "¿Se puede *proteger* el oído?",
+   "maddeler": [
+    {
+     "metin": "Tiosulfato de sodio: aprobado en niños",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Ámbito de uso limitado",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "El momento importa para el efecto antitumoral",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Decide el equipo de oncología",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EL PAPEL DEL AUDIÓLOGO",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "odyogram",
+      "baslik": "Monitorización",
+      "cumle": 4,
+      "metin": "Pruebas basales y seriadas"
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Comunicación",
+      "cumle": 4,
+      "metin": "Aviso rápido al equipo"
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En 2022, el tiosulfato de sodio se aprobó en Estados Unidos para reducir el riesgo de pérdida auditiva en algunos niños que reciben cisplatino."
+    },
+    "La aprobación abarca a niños de un mes de edad o más con tumores sólidos localizados y no metastásicos.",
+    "El fármaco se da un tiempo definido después del cisplatino; el objetivo es proteger el oído sin reducir el efecto contra el tumor.",
+    "En los estudios, la pérdida auditiva fue menos frecuente, pero no se evitó por completo; su uso en adultos aún se investiga.",
+    "El equipo de oncología decide qué pacientes lo reciben; la tarea del audiólogo es vigilar la audición de forma regular y confiable."
+   ]
+  },
+  {
+   "id": "aminoglikozid",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Aminoglucósidos",
+   "baslik": "Antibióticos *aminoglucósidos*",
+   "maddeler": [
+    {
+     "metin": "Para infecciones bacterianas graves",
+     "cumle": 0,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "Gentamicina, tobramicina, amikacina...",
+     "cumle": 1,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Algunos afectan sobre todo el _equilibrio_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Algunos afectan sobre todo la _cóclea_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "El efecto puede empezar tras suspenderlos",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "ampulla",
+      "cumle": 2
+     },
+     {
+      "parca": "koklea",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Los aminoglucósidos son antibióticos que se usan en infecciones bacterianas graves, la sepsis neonatal y la fibrosis quística.",
+    "La gentamicina, la tobramicina, la amikacina, la estreptomicina, la neomicina y la kanamicina pertenecen a este grupo.",
+    "La gentamicina y la estreptomicina tienden a dañar sobre todo el órgano del equilibrio.",
+    "La amikacina, la neomicina y la kanamicina tienden a dañar sobre todo la cóclea, aunque cualquiera de ellos puede afectar ambas estructuras.",
+    "El riesgo aumenta con la duración del tratamiento, la dosis total, la función renal, el uso previo y el uso combinado con diuréticos de asa.",
+    "Una característica importante: el daño puede comenzar o avanzar días o semanas después de suspender el fármaco.",
+    "Por eso la monitorización no termina cuando termina el tratamiento."
+   ]
+  },
+  {
+   "id": "giris",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Aminoglucósidos",
+   "baslik": "¿*Cómo* entra el fármaco en la célula ciliada?",
+   "cizim": "stereosil_demeti",
+   "ayar": {
+    "iyon": true,
+    "egilme": 0.6,
+    "egilme_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "iyon_kanali",
+     "metin": "canal de transducción: la puerta de entrada",
+     "cumle": 1
+    },
+    {
+     "parca": "stereosil",
+     "metin": "estereocilios",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "iyon_kanali",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Entrada por el canal",
+     "cumle": 2,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Radicales libres y mitocondrias",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Resultado: muerte de la célula ciliada",
+     "cumle": 3,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Veamos, con un haz de estereocilios, cómo entran los aminoglucósidos en la célula ciliada.",
+    "En las puntas de los estereocilios hay canales de transducción mecanoeléctrica que se abren con la vibración sonora.",
+    "Las moléculas de aminoglucósido de la endolinfa entran en la célula en gran parte por estos canales.",
+    "Dentro de la célula, el aumento de radicales libres y el daño de las mitocondrias llevan a la muerte de la célula ciliada.",
+    "El papel de las mitocondrias en este proceso también explica la susceptibilidad genética que veremos en breve."
+   ]
+  },
+  {
+   "id": "vestibulo",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Aminoglucósidos",
+   "baslik": "Pérdida *silenciosa* del equilibrio",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "ampulla",
+     "metin": "ampolla: cresta",
+     "cumle": 0
+    },
+    {
+     "parca": "makula",
+     "metin": "mácula",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ampulla",
+     "cumle": 0
+    },
+    {
+     "parca": "makula",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Bilateral: puede no dar crisis",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Inestabilidad en la oscuridad",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Oscilopsia: la imagen salta",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "En la vestibulotoxicidad se dañan las células ciliadas de las ampollas y de las máculas.",
+    "Como el daño es similar en ambos lados, a menudo no hay una crisis clara de vértigo.",
+    "La persona se queja sobre todo de inestabilidad, que empeora en la oscuridad y en terrenos irregulares.",
+    "Una queja típica es que la imagen salta o se ve borrosa al mover la cabeza; esto se llama oscilopsia.",
+    "En pacientes que guardan cama, este cuadro puede pasar inadvertido hasta el alta.",
+    "La evaluación usa la prueba de impulso cefálico con video (vHIT) y las pruebas calóricas; la monitorización la veremos en otra lección."
+   ]
+  },
+  {
+   "id": "mtrnr1",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Aminoglucósidos",
+   "baslik": "*Hipersensibilidad* genética",
+   "maddeler": [
+    {
+     "metin": "Gen mitocondrial _MT-RNR1_",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Ejemplo: la variante _m.1555A&gt;G_",
+     "cumle": 1,
+     "ikon": "dna"
+    },
+    {
+     "metin": "Incluso una dosis puede causar pérdida grave",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Se transmite por la madre",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Guía: evitarlos en portadores",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ANTECEDENTES FAMILIARES",
+    "metin": "¿Pérdida auditiva *tras antibióticos* en la familia materna?",
+    "cumle": 4
+   },
+   "cumleler": [
+    {
+     "yazi": "En algunas personas, la hipersensibilidad a los aminoglucósidos se debe a variantes del gen mitocondrial MT-RNR1."
+    },
+    {
+     "yazi": "El ejemplo más conocido es la variante en la posición 1555 de este gen, que también vimos en la lección de genética."
+    },
+    "Esta variante hace que el ribosoma mitocondrial se parezca a un ribosoma bacteriano, así que el fármaco también se une en las células humanas.",
+    "Como resultado, las dosis habituales, incluso una sola dosis, pueden causar una pérdida auditiva grave y permanente.",
+    "Por la herencia mitocondrial, la variante pasa de la madre a los hijos; en algunas poblaciones se informa en cerca de una de cada 500 personas.",
+    "Una guía farmacogenética internacional recomienda evitar estos fármacos en los portadores.",
+    "La excepción es una infección muy grave sin una alternativa segura; esta decisión corresponde al médico.",
+    "En algunos países se están probando, en cuidados intensivos neonatales, pruebas genéticas que detectan rápidamente esta variante."
+   ]
+  },
+  {
+   "id": "donuslu",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Otros fármacos",
+   "baslik": "Efectos mayormente *reversibles*",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Diuréticos de asa",
+     "cumle": 0,
+     "metin": "Dosis alta, intravenosa rápida"
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Salicilatos",
+     "cumle": 2,
+     "metin": "Aspirina en dosis altas"
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Quinina",
+     "cumle": 4,
+     "metin": "Antipalúdico"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Algunos macrólidos",
+     "cumle": 5,
+     "metin": "Intravenosos en dosis altas"
+    }
+   ],
+   "cumleler": [
+    "Los diuréticos de asa, como la furosemida, pueden alterar temporalmente la función de la estría vascular.",
+    "El riesgo aumenta con dosis altas, la administración intravenosa rápida y la insuficiencia renal; con aminoglucósidos, pueden aumentar mucho el daño.",
+    "Los salicilatos, es decir, la aspirina en dosis altas, pueden causar tinnitus y una pérdida plana, por lo general de leve a moderada.",
+    "Este efecto suele desaparecer pocos días después de suspender el fármaco.",
+    "La quinina, que se usa para tratar la malaria, también puede causar tinnitus y pérdida auditiva; el efecto suele ser reversible.",
+    "Algunos antibióticos macrólidos, como la eritromicina, pueden causar en raras ocasiones una pérdida auditiva temporal en dosis intravenosas altas.",
+    "Que estos efectos sean reversibles no significa que no importen; las quejas siempre se comunican al médico."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Otros fármacos",
+   "baslik": "Ejemplo: una pérdida *ototóxica*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Rango _normal_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "frekanslar": [
+     250,
+     500,
+     1000,
+     2000,
+     3000,
+     4000,
+     6000,
+     8000
+    ],
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       25,
+       40,
+       55,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       15,
+       30,
+       45,
+       55,
+       70
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "En este ejemplo vemos el audiograma de un niño después de un tratamiento con cisplatino.",
+    "En ambos oídos, los umbrales son normales hasta 2000 Hz y empeoran progresivamente desde 3000 Hz hacia las frecuencias agudas.",
+    "La pérdida es bilateral y simétrica, un cuadro típico que muestra que el daño comenzó en la base de la cóclea.",
+    {
+     "yazi": "Incluso esta pérdida dificulta oír consonantes agudas como la s y la f, y puede afectar el lenguaje y el rendimiento escolar del niño.",
+     "ses": "Incluso esta pérdida dificulta oír consonantes agudas como la ese y la efe, y puede afectar el lenguaje y el rendimiento escolar del niño."
+    },
+    "A diferencia de la pérdida inducida por ruido, aquí no hay recuperación en 8000 Hz.",
+    "Los valores son ejemplos; la clasificación de la pérdida y su monitorización son los temas de las próximas dos lecciones."
+   ]
+  },
+  {
+   "id": "ozet_tablo",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Otros fármacos",
+   "baslik": "Grupos de fármacos: *resumen*",
+   "sutunlar": [
+    "Grupo de fármacos",
+    "Blanco principal",
+    "Permanencia"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Cisplatino",
+      "Células ciliadas externas, estría",
+      "Suele ser permanente"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Aminoglucósidos",
+      "Células ciliadas, vestíbulo",
+      "Suele ser permanente"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Diuréticos de asa",
+      "Estría vascular",
+      "Mayormente reversible"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Salicilatos",
+      "Función de las CCE",
+      "Reversible"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Quinina",
+      "Cóclea",
+      "Mayormente reversible"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Resumamos los grupos en la tabla: el cisplatino afecta las células ciliadas externas y la estría, y la pérdida suele ser permanente.",
+    "Los aminoglucósidos afectan las células ciliadas de la cóclea y del órgano del equilibrio; la pérdida suele ser permanente.",
+    "Los diuréticos de asa actúan sobre todo en la estría vascular, y su efecto es mayormente reversible.",
+    "Los salicilatos alteran temporalmente la función de las células ciliadas externas; el efecto desaparece al suspender el fármaco.",
+    "El efecto de la quinina también es mayormente reversible.",
+    "Esta lista no es completa; otros fármacos y algunas sustancias químicas también pueden ser ototóxicos, así que siempre se toma la historia farmacológica."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "El papel del audiólogo",
+   "baslik": "El *papel* del audiólogo",
+   "ogeler": [
+    {
+     "ikon": "soru",
+     "baslik": "Anamnesis",
+     "cumle": 0,
+     "metin": "Fármacos y antecedentes familiares"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Prueba basal",
+     "cumle": 1,
+     "metin": "Antes del tratamiento"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Monitorización seriada",
+     "cumle": 2,
+     "metin": "Durante y después del tratamiento"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Comunicación en equipo",
+     "cumle": 3,
+     "metin": "Informar los cambios rápido"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Rehabilitación",
+     "cumle": 5,
+     "metin": "Dispositivos y orientación"
+    }
+   ],
+   "cumleler": [
+    "La primera tarea del audiólogo es tomar una historia farmacológica y familiar detallada.",
+    "Antes de iniciar un tratamiento ototóxico se hace una evaluación auditiva basal.",
+    "La audición se vigila con pruebas seriadas durante y después del tratamiento.",
+    "Si se encuentra un cambio significativo, se informa al equipo tratante con rapidez y en lenguaje claro.",
+    "La decisión de cambiar el fármaco, ajustar la dosis o continuar corresponde solo al médico; el audiólogo no hace recomendaciones al respecto.",
+    "Si aparece una pérdida, se planifica la rehabilitación con audífonos y orientación en comunicación."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Aconseja a quienes reciben tratamiento ototóxico evitar los sonidos fuertes durante el tratamiento y en los meses siguientes. El ruido y estos fármacos pueden sumar su daño al oído interno.",
+   "cumleler": [
+    "Un consejo práctico: aconsejen a quienes reciben tratamiento ototóxico evitar los sonidos fuertes durante el tratamiento y en los meses siguientes.",
+    "Estudios en animales mostraron que el ruido y el cisplatino o los aminoglucósidos pueden sumar su daño en el oído interno.",
+    "Den esta información con claridad, sobre todo a los jóvenes que trabajan en empleos ruidosos o escuchan música fuerte.",
+    "Este consejo no interfiere con el tratamiento farmacológico; es solo una recomendación de vida segura que protege el oído."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "El daño empieza en la base, en agudos",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cisplatino: pérdida acumulativa y permanente",
+     "cumle": 1,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Aminoglucósidos: cóclea, equilibrio, riesgo genético",
+     "cumle": 2,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Diuréticos y salicilatos: mayormente reversibles",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "El daño ototóxico suele ser bilateral y empieza en la base de la cóclea, es decir, en las frecuencias agudas.",
+    "El cisplatino causa una pérdida permanente que crece con la dosis; la edad temprana, la radioterapia craneal y la función renal aumentan el riesgo.",
+    "Los aminoglucósidos pueden dañar la cóclea y el órgano del equilibrio; en portadores de la variante mitocondrial, incluso una dosis es peligrosa.",
+    "Los diuréticos de asa, los salicilatos y la quinina tienen efectos mayormente reversibles; las decisiones de tratamiento siempre son del médico."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cómo se hereda la variante que causa susceptibilidad a los aminoglucósidos?",
+   "secenekler": [
+    "Autosómica dominante",
+    "Autosómica recesiva",
+    "Ligada al X",
+    "Materna, mitocondrial"
+   ],
+   "dogru": 3,
+   "aciklama": "MT-RNR1 es un gen mitocondrial; la variante se transmite _por la madre_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cómo se hereda la variante genética que predispone a una pérdida auditiva grave por aminoglucósidos?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la D: por la madre, mediante herencia mitocondrial.",
+    "La variante está en un gen mitocondrial, así que una pérdida auditiva tras estos fármacos en familiares maternos es un antecedente muy importante."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Monitorización de ototoxicidad y *criterios de la ASHA*",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "En la próxima lección veremos el plan de monitorización, los criterios de la ASHA y la audiometría de alta frecuencia extendida."
+    },
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

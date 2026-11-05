@@ -1,0 +1,980 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D187_Test_Box_2cc_Coupler_ES",
+ "kapak": {
+  "ust": "LECCIÓN 187",
+  "baslik": "Mediciones en<br>*caja de pruebas*",
+  "alt": "ANSI S3.22 y control de calidad",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "BTE"
+  }
+ },
+ "youtube": {
+  "baslik": "Mediciones en caja de pruebas y el acoplador de 2 cc | Lección 187 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Dónde y cómo se hacen las mediciones electroacústicas de un audífono? En esta lección vemos las partes de la caja de pruebas y la nivelación, los acopladores HA-1 y HA-2, la diferencia entre el acoplador y el conducto auditivo, las normas ANSI S3.22 e IEC 60118-7, y los pasos de control de calidad antes de la entrega.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Dillon, Hearing Aids; Katz, Handbook of Clinical Audiology; ANSI/ASA S3.22, Specification of Hearing Aid Characteristics; IEC 60118-7, Electroacoustics, Hearing aids, Part 7; IEC 60318-5, Electroacoustics, Simulators of human head and ear, Part 5: 2 cm3 coupler.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "ANSI"
+  ],
+  "etiketler": [
+   "caja de pruebas",
+   "acoplador de 2 cc",
+   "acoplador HA-1",
+   "acoplador HA-2",
+   "ANSI S3.22",
+   "IEC 60118-7",
+   "control de calidad de audífonos",
+   "medición electroacústica",
+   "audífono",
+   "simulador de oído",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 187",
+   "baslik": "La caja de pruebas y el acoplador de *2 cc*",
+   "alt": "Control de calidad antes de la entrega con ANSI S3.22",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    {
+     "yazi": "En esta lección veremos de cerca la caja de pruebas, donde se hacen las mediciones electroacústicas de los audífonos, y el acoplador de 2 cc."
+    },
+    {
+     "yazi": "Revisaremos los acopladores HA-1 y HA-2, las normas ANSI e IEC y el control de calidad que se hace antes de entregar un audífono."
+    }
+   ]
+  },
+  {
+   "id": "kutu",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La caja de pruebas",
+   "baslik": "Partes de la *caja de pruebas*",
+   "cumleler": [
+    {
+     "yazi": "En la lección sobre características electroacústicas definimos la salida máxima, u OSPL90, y la distorsión; ahora veamos el equipo de medición."
+    },
+    "La caja de pruebas es una pequeña cámara de medición, aislada del ruido exterior y revestida con material absorbente.",
+    "Dentro de la caja hay un pequeño altavoz que produce el sonido de prueba.",
+    "Un micrófono de referencia, colocado justo al lado del micrófono del audífono, mide el nivel de entrada que llega al audífono.",
+    {
+     "yazi": "La salida del audífono va a un acoplador de 2 cc; un micrófono de medición dentro del acoplador registra el nivel de presión sonora de salida."
+    },
+    "El analizador genera la señal, compara los valores de los dos micrófonos y representa los resultados como curvas."
+   ],
+   "cizim": "kuplor",
+   "ayar": {
+    "mod": "test_kutusu",
+    "goster": {
+     "ses_emici": 1,
+     "hoparlor": 2,
+     "referans_mikrofon": 3,
+     "kuplor": 4,
+     "analizor": 5
+    }
+   },
+   "etiketler": [
+    {
+     "parca": "kutu",
+     "metin": "Caja aislada",
+     "cumle": 1
+    },
+    {
+     "parca": "hoparlor",
+     "metin": "Altavoz",
+     "cumle": 2
+    },
+    {
+     "parca": "referans_mikrofon",
+     "metin": "Micrófono de referencia",
+     "cumle": 3
+    },
+    {
+     "parca": "kuplor",
+     "metin": "Acoplador y micrófono",
+     "cumle": 4
+    },
+    {
+     "parca": "analizor",
+     "metin": "Analizador",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kutu",
+     "cumle": 1
+    },
+    {
+     "parca": "hoparlor",
+     "cumle": 2
+    },
+    {
+     "parca": "referans_mikrofon",
+     "cumle": 3
+    },
+    {
+     "parca": "kuplor",
+     "cumle": 4
+    },
+    {
+     "parca": "analizor",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "esitleme",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La caja de pruebas",
+   "baslik": "Una entrada estable: la *nivelación*",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Se presenta el sonido",
+     "metin": "Mismo objetivo en cada frecuencia",
+     "cumle": 0
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Se mide",
+     "metin": "Con el micrófono de referencia",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Se corrige",
+     "metin": "Se compensa la desviación del altavoz",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Entrada estable",
+     "metin": "P. ej., 60 dB SPL",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Un altavoz pequeño no produce el mismo nivel en todas las frecuencias, y las reflexiones dentro de la caja también cambian el nivel.",
+    "Por eso, antes o durante la medición, el nivel sonoro en el punto de prueba se mide con el micrófono de referencia.",
+    "El analizador corrige la salida del altavoz en cada frecuencia para alcanzar el nivel objetivo; este proceso se llama nivelación.",
+    "En algunos sistemas la nivelación se hace antes y se guarda, mientras que en otros se mantiene de forma continua durante toda la medición.",
+    "Como resultado, el micrófono del audífono recibe una entrada conocida y estable, por ejemplo sesenta decibeles SPL en cada frecuencia.",
+    "Así podemos estar seguros de que los cambios en la salida medida en el acoplador provienen del audífono y no del altavoz."
+   ]
+  },
+  {
+   "id": "yerlesim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La caja de pruebas",
+   "baslik": "¿*Dónde* se coloca el audífono?",
+   "maddeler": [
+    {
+     "metin": "Micrófono en el punto de prueba",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Micrófono de referencia justo al lado",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Tapa cerrada, entorno silencioso",
+     "cumle": 3,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Cable y tubo sin tensión",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "vurgula": [
+     {
+      "parca": "mikrofon",
+      "cumle": 0
+     },
+     {
+      "parca": "alici",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Dentro de la caja hay un punto de prueba marcado por el fabricante; el micrófono del audífono se coloca en ese punto.",
+    "El micrófono de referencia se ubica lo más cerca posible del micrófono del audífono, pero sin tocarlo.",
+    "También importa la orientación del audífono respecto del altavoz; con micrófonos direccionales, una orientación incorrecta cambia el resultado.",
+    "Durante la medición la tapa de la caja se mantiene cerrada, y las conversaciones o vibraciones cercanas se reducen al mínimo.",
+    "El tubo o el cable hacia el acoplador no debe estar doblado ni estirado; de lo contrario, la respuesta en agudos puede distorsionarse."
+   ]
+  },
+  {
+   "id": "kuplor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "El acoplador de 2 cc",
+   "baslik": "¿Qué es el acoplador de *2 cc*?",
+   "maddeler": [
+    {
+     "metin": "Cavidad de 2 cc con paredes rígidas",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Micrófono de medición en su interior",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Sencillo, económico, reproducible",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "No es un oído: otra impedancia",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Comparable",
+      "metin": "Igual en todas las clínicas",
+      "cumle": 2
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "No es un oído",
+      "metin": "Difiere del conducto auditivo",
+      "cumle": 3
+     }
+    ],
+    "ust": "ACOPLADOR DE 2 cc"
+   },
+   "cumleler": [
+    "Un acoplador es una pequeña cavidad de paredes rígidas con un volumen de dos centímetros cúbicos, que se usa para medir la salida de un audífono.",
+    "En el fondo de la cavidad hay un micrófono sensible que mide la presión sonora.",
+    "Su diseño sencillo permite fabricarlo igual en todas partes, de modo que los resultados pueden compararse entre clínicas.",
+    "Sin embargo, sus paredes rígidas no imitan las propiedades acústicas del tímpano ni de los tejidos del conducto auditivo.",
+    "Por eso el acoplador es ideal para medir las propiedades del propio audífono, pero no muestra directamente el sonido en el oído."
+   ]
+  },
+  {
+   "id": "ha",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "El acoplador de 2 cc",
+   "baslik": "*HA-1* y HA-2",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "HA-1",
+     "metin": "Intraauricular; sellado directo con masilla",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "HA-2",
+     "metin": "Retroauricular; con codo y tubo",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La forma de conectar el audífono al acoplador cambia el resultado, por eso las normas definen distintos tipos de conexión.",
+    {
+     "yazi": "El acoplador HA-1 se usa para audífonos intraauriculares y moldes; la salida de sonido del audífono se apoya directamente en la entrada del acoplador."
+    },
+    "La conexión se sella con una masilla especial para que no se fugue sonido.",
+    {
+     "yazi": "El acoplador HA-2, en cambio, es para audífonos retroauriculares."
+    },
+    "En este acoplador, el molde se reemplaza por una pieza de tamaño estándar similar a un molde y un tubo de longitud fija.",
+    "Así, el codo y el tubo del audífono retroauricular forman parte de la medición, lo que refleja su uso con un molde estándar."
+   ]
+  },
+  {
+   "id": "ha_pratik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "El acoplador de 2 cc",
+   "baslik": "La conexión en la *práctica*",
+   "maddeler": [
+    {
+     "metin": "Tubo fino y RIC: HA-1 con adaptador",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "El tipo de acoplador consta en el informe",
+     "cumle": 2,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Fuga: caen los graves",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tubo obstruido: caen los agudos",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "vurgula": [
+     {
+      "parca": "alici",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Los audífonos de tubo fino y los de receptor en el canal suelen conectarse al acoplador HA-1 con un adaptador recomendado por el fabricante."
+    },
+    "El mismo audífono da curvas algo distintas con distintos acopladores; la diferencia es más clara en las frecuencias agudas.",
+    "Por eso, para comparar, mide con el tipo de acoplador que indica la hoja de especificaciones del fabricante, y regístralo.",
+    "Una pequeña fuga en la conexión hace que la salida se mida demasiado baja, sobre todo en las frecuencias graves.",
+    "Una gota de agua, suciedad o un doblez en el tubo reducen la salida en agudos y pueden simular una falla."
+   ]
+  },
+  {
+   "id": "kulak_fark",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El acoplador de 2 cc",
+   "baslik": "El acoplador y el *conducto auditivo*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": 60,
+     "max": 110,
+     "adim": 10,
+     "ad": "Salida (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "kuplor",
+      "noktalar": [
+       [
+        250,
+        78
+       ],
+       [
+        500,
+        86
+       ],
+       [
+        1000,
+        95
+       ],
+       [
+        1600,
+        99
+       ],
+       [
+        2000,
+        98
+       ],
+       [
+        3000,
+        94
+       ],
+       [
+        4000,
+        88
+       ],
+       [
+        6000,
+        76
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "acoplador de 2 cc",
+      "cumle": 1
+     },
+     {
+      "ad": "kulak",
+      "noktalar": [
+       [
+        250,
+        80
+       ],
+       [
+        500,
+        89
+       ],
+       [
+        1000,
+        100
+       ],
+       [
+        1600,
+        106
+       ],
+       [
+        2000,
+        106
+       ],
+       [
+        3000,
+        104
+       ],
+       [
+        4000,
+        100
+       ],
+       [
+        6000,
+        90
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "conducto auditivo adulto",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       88,
+       100
+      ],
+      "xk": 4000,
+      "etiket": "unos 12 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Menor volumen, mayor presión",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Mayor diferencia en niños",
+     "cumle": 5,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "Veamos con un ejemplo la diferencia entre el acoplador y el conducto auditivo; los valores son con fines didácticos.",
+    {
+     "yazi": "La curva azul marino muestra la salida de un audífono medida en un acoplador de 2 cc."
+    },
+    "La curva roja discontinua muestra la salida del mismo audífono en el conducto auditivo de un adulto, con molde.",
+    "La salida en el conducto auditivo es mayor que en el acoplador, sobre todo en los agudos; aquí, unos doce decibeles a cuatro kilohertz.",
+    "La razón principal es que el volumen entre el molde y el tímpano es menor que dos centímetros cúbicos.",
+    "Esta diferencia se llama diferencia oído real-acoplador, o RECD; en los niños es aún mayor.",
+    "Veremos en detalle en una lección posterior cómo se mide la RECD y por qué es importante en los niños."
+   ]
+  },
+  {
+   "id": "simulator",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "El acoplador de 2 cc",
+   "baslik": "Una cavidad más *realista*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Acoplador de 2 cc",
+     "metin": "Sencillo, de paredes rígidas",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Simulador de oído",
+     "metin": "Imita la impedancia del oído",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Uso",
+     "metin": "Acoplador para control de calidad",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Como el acoplador de 2 cc no imita la acústica del oído, con el tiempo se desarrollaron cavidades de medición más realistas."
+    },
+    "Una de ellas es el simulador de oído ocluido, que suele llamarse de tipo Zwislocki.",
+    "En este dispositivo, pequeños volúmenes adicionales y conductos estrechos imitan el comportamiento acústico del conducto auditivo y del tímpano del adulto.",
+    "Así, el simulador de oído da un resultado más cercano al sonido en el oído, pero es más complejo y más caro.",
+    {
+     "yazi": "Para el control de calidad diario se sigue usando el acoplador de 2 cc, porque es sencillo y está estandarizado."
+    }
+   ]
+  },
+  {
+   "id": "standart",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Normas",
+   "baslik": "¿Qué *norma*?",
+   "sutunlar": [
+    "Norma",
+    "Alcance"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "ANSI S3.22",
+      "Especificaciones, tolerancias (EE. UU.)"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "IEC 60118-7",
+      "Control de calidad (internacional)"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "IEC 60318-5",
+      "Acoplador de 2 cc"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "IEC 60318-4",
+      "Simulador de oído ocluido"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Se usan normas internacionales para que las mediciones se hagan de la misma manera en todas partes.",
+    {
+     "yazi": "En Estados Unidos la norma principal es la ANSI S3.22; define cómo se miden las características de los audífonos y sus tolerancias.",
+     "ses": "En Estados Unidos la norma principal es la ANSI ese tres punto veintidós; define cómo se miden las características de los audífonos y sus tolerancias."
+    },
+    "Los fabricantes preparan la hoja de especificaciones según esta norma, y los valores medidos en la entrega se comparan con ella.",
+    {
+     "yazi": "A nivel internacional se usa la serie IEC 60118; las mediciones de control de calidad se definen en la parte siete.",
+     "ses": "A nivel internacional se usa la serie IEC sesenta mil ciento dieciocho; las mediciones de control de calidad se definen en la parte siete."
+    },
+    {
+     "yazi": "El propio acoplador de 2 cc se define en la parte cinco de la serie IEC 60318.",
+     "ses": "El propio acoplador de dos centímetros cúbicos se define en la parte cinco de la serie IEC sesenta mil trescientos dieciocho."
+    },
+    "El simulador de oído ocluido está en la parte cuatro de la misma serie; las normas se revisan con el tiempo, así que sigue la edición más reciente."
+   ]
+  },
+  {
+   "id": "neden_standart",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Normas",
+   "baslik": "¿Qué *aporta* la medición estándar?",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Ajuste a las especificaciones",
+     "metin": "El rendimiento prometido",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Comparación",
+     "metin": "Entre equipos y en el tiempo",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Detección de fallas",
+     "metin": "Muestra el deterioro a tiempo",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La medición estándar muestra si el audífono tiene las características prometidas en la hoja de especificaciones del fabricante.",
+    "Un audífono nuevo puede haberse dañado durante el envío o la fabricación, y solo la medición puede revelarlo.",
+    "Las mediciones en las mismas condiciones permiten comparar dos audífonos, o el mismo audífono en distintos momentos.",
+    "La norma no nos dice si el audífono es adecuado para la persona; esa pregunta la responde la medición en oído real.",
+    "Pero cuando un audífono se deteriora, la medición estándar suele mostrarlo antes de que el usuario lo note."
+   ]
+  },
+  {
+   "id": "teslim",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Control de calidad",
+   "baslik": "Pasos antes de la *entrega*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Control de escucha",
+     "metin": "Con un estetoclip",
+     "cumle": 0
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Ajuste de prueba",
+     "metin": "Funciones desactivadas",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Medición",
+     "metin": "Curvas estándar",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Comparación",
+     "metin": "Con la hoja de especificaciones",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Registro",
+     "metin": "Se guarda en el expediente",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Antes de la entrega, el audífono se conecta a un tubo de escucha, o estetoclip, y se escucha para detectar ruidos parásitos o cortes.",
+    "Luego se desactivan las funciones adaptativas, como la reducción de ruido y el manejo de la retroalimentación, y se pone el audífono en el ajuste de prueba.",
+    "En algunas mediciones puede usarse, en lugar de la pila, un simulador de pila que suministra un voltaje constante.",
+    {
+     "yazi": "En el acoplador se miden el OSPL90, la ganancia máxima, la respuesta en frecuencia, la distorsión, el ruido equivalente de entrada y el consumo de la pila."
+    },
+    "Los valores medidos se comparan con los de la hoja de especificaciones, dentro de las tolerancias de la norma.",
+    "La impresión se guarda con su fecha en el expediente de la persona; este registro es el punto de referencia si más adelante se sospecha una falla."
+   ]
+  },
+  {
+   "id": "tolerans",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Control de calidad",
+   "baslik": "¿Dentro de la *tolerancia*?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 90,
+     "max": 130,
+     "adim": 10,
+     "ad": "OSPL90 (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "uretici",
+      "noktalar": [
+       [
+        200,
+        100
+       ],
+       [
+        500,
+        108
+       ],
+       [
+        1000,
+        114
+       ],
+       [
+        1600,
+        118
+       ],
+       [
+        2500,
+        116
+       ],
+       [
+        4000,
+        110
+       ],
+       [
+        6000,
+        101
+       ],
+       [
+        8000,
+        94
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "curva del fabricante",
+      "cumle": 0
+     },
+     {
+      "ad": "olcum",
+      "noktalar": [
+       [
+        200,
+        99
+       ],
+       [
+        500,
+        107
+       ],
+       [
+        1000,
+        113
+       ],
+       [
+        1600,
+        116
+       ],
+       [
+        2500,
+        115
+       ],
+       [
+        4000,
+        108
+       ],
+       [
+        6000,
+        99
+       ],
+       [
+        8000,
+        92
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "medición de entrega",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "hfa",
+      "x": [
+       1000,
+       2500
+      ],
+      "renk": "sari",
+      "etiket": "frecuencias del HFA",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "ortalama",
+      "x": 1600,
+      "y": 114.7,
+      "cizgi": "yatay",
+      "etiket": "HFA: dentro de 4 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Promedio: diferencia máxima de 4 dB",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "La forma de la curva debe coincidir",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En este ejemplo, la curva azul marino muestra la curva de OSPL90 informada por el fabricante."
+    },
+    "La curva azul es la medida en la caja de pruebas antes de la entrega; los valores son con fines didácticos.",
+    "La comparación usa el promedio de alta frecuencia de la norma, es decir, mil, mil seiscientos y dos mil quinientos hertz.",
+    "Como vimos antes, este promedio puede diferir de la especificación como máximo en cuatro decibeles; aquí la diferencia es de alrededor de un decibel.",
+    "La forma de la curva también debe parecerse a la del fabricante; un valle profundo o un pico agudo en una sola frecuencia requieren atención.",
+    "Este audífono está en condiciones de entregarse; el siguiente paso es adaptarlo a la persona y verificarlo en el oído real."
+   ]
+  },
+  {
+   "id": "ariza",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Control de calidad",
+   "baslik": "¿*Qué* muestra la medición?",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Ganancia baja",
+     "metin": "Receptor o micrófono obstruidos",
+     "cumle": 0
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Distorsión alta",
+     "metin": "Pila débil, receptor dañado",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Consumo de pila alto",
+     "metin": "La pila se agota rápido",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La medición en caja de pruebas es la primera herramienta a la que recurrir no solo en la entrega, sino también cuando el usuario informa un problema.",
+    "Una ganancia menor de la esperada suele indicar un receptor o una entrada de micrófono obstruidos por suciedad.",
+    "Una distorsión aumentada sugiere una pila débil o un receptor dañado.",
+    "Un consumo de pila alto puede explicar la queja del usuario de que las pilas se agotan rápido.",
+    "Estos hallazgos ayudan a enviar el audífono al lugar adecuado para limpieza, mantenimiento o reparación."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Guarda la medición de entrega junto con el tipo de acoplador y el ajuste de prueba. Si se sospecha una falla, repítela en las mismas condiciones y superpón ambas curvas.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la clínica: guarda la medición de entrega no solo como resultado, sino junto con el tipo de acoplador y el ajuste de prueba utilizados.",
+    "Cuando meses después el usuario se queje de que el sonido se ha debilitado, repite la medición con el mismo acoplador, programa y ajuste.",
+    "Superponer las dos curvas suele mostrar de inmediato si el problema está en el audífono, en el oído o en las expectativas.",
+    "En cambio, comparar dos mediciones hechas en condiciones distintas puede llevarte a una decisión equivocada sobre una falla."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Caja de pruebas: altavoz, micrófono de referencia, acoplador",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "HA-1 para intraauriculares, HA-2 para retroauriculares",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "El conducto da más presión que el acoplador",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Medición de entrega comparada con las especificaciones",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La caja de pruebas da al audífono una entrada estable con un altavoz nivelado y mide la salida con el micrófono de un acoplador de 2 cc."
+    },
+    {
+     "yazi": "El acoplador HA-1 se usa para audífonos intraauriculares, y el HA-2 para retroauriculares, con su codo y su tubo."
+    },
+    "El acoplador no es un oído; la salida en el conducto auditivo es mayor que en el acoplador, sobre todo en los agudos.",
+    "La medición previa a la entrega sigue la norma y se compara con los valores de la hoja de especificaciones."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Para qué equipos se usa el acoplador HA-2?",
+   "secenekler": [
+    "Audífonos intraauriculares",
+    "Audífonos retroauriculares",
+    "Dispositivos de conducción ósea",
+    "Implantes cocleares"
+   ],
+   "dogru": 1,
+   "aciklama": "El HA-2 usa una pieza y un tubo estándar en lugar del molde; el audífono retroauricular se mide con su codo y su tubo.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿para medir qué equipos está diseñado el acoplador HA-2?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: los audífonos retroauriculares.",
+    {
+     "yazi": "El HA-2 usa una pieza y un tubo estándar en lugar del molde, mientras que los intraauriculares se conectan directamente al acoplador HA-1."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Candidatos a *audífono*: evaluación de necesidades",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo se determina si una persona es candidata a audífono y cómo se evalúan sus necesidades.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2079 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D181_Compression_WDRC_ES",
+ "kapak": {
+  "ust": "LECCIÓN 181",
+  "baslik": "*Compresión*<br>y WDRC",
+  "alt": "Punto de inflexión, relación, ataque y liberación",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 30,
+    "max": 100,
+    "adim": 10,
+    "ad": "Entrada (dB SPL)"
+   },
+   "y": {
+    "min": 60,
+    "max": 130,
+    "adim": 10,
+    "ad": "Salida (dB SPL)"
+   },
+   "seriler": [
+    {
+     "ad": "dogrusal",
+     "noktalar": [
+      [
+       30,
+       65
+      ],
+      [
+       95,
+       130
+      ]
+     ],
+     "renk": "gri",
+     "kesik": true
+    },
+    {
+     "ad": "kompresyon",
+     "noktalar": [
+      [
+       30,
+       65
+      ],
+      [
+       50,
+       85
+      ],
+      [
+       70,
+       95
+      ],
+      [
+       90,
+       105
+      ],
+      [
+       100,
+       106
+      ]
+     ],
+     "renk": "mavi",
+     "kalin": 6
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Compresión en audífonos: WDRC, umbral y relación | Lección 181 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Por qué un audífono da distinta ganancia a los sonidos suaves y a los fuertes? En esta lección vemos el rango dinámico, la curva de entrada y salida, el umbral y la relación de compresión, la WDRC y la limitación por compresión, la expansión y los tiempos de ataque y de liberación.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Dillon, Hearing Aids; ANSI/ASA S3.22, Specification of Hearing Aid Characteristics; Venema, Compression for Clinicians; Gatehouse, Naylor y Elberling, Linear and nonlinear hearing aid fittings, International Journal of Audiology (2006); Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "compresion"
+  ],
+  "etiketler": [
+   "compresión en audífonos",
+   "WDRC",
+   "compresión de amplio rango dinámico",
+   "umbral de compresión",
+   "punto de inflexión",
+   "relación de compresión",
+   "tiempo de ataque",
+   "tiempo de liberación",
+   "curva de entrada y salida",
+   "audífonos",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 181",
+   "baslik": "*Compresión*: WDRC",
+   "alt": "Umbral de compresión, relación, ataque y liberación",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos por qué los audífonos necesitan compresión y cómo leer una curva de entrada y salida.",
+    "Paso a paso veremos el umbral de compresión, la relación de compresión, los tiempos de ataque y de liberación, y la limitación de la salida máxima."
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué compresión?",
+   "baslik": "Un *rango dinámico* más estrecho",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 2.6,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Normal ear",
+      "2": "Cochlear loss",
+      "1": "Oído normal",
+      "2": "Pérdida coclear"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Nivel (dB HL)"
+    },
+    "araliklar": [
+     {
+      "ad": "normal",
+      "xk": 1,
+      "y": [
+       0,
+       100
+      ],
+      "etiket": "≈ 100 dB",
+      "cumle": 0
+     },
+     {
+      "ad": "kayip",
+      "xk": 2,
+      "y": [
+       60,
+       100
+      ],
+      "etiket": "≈ 40 dB",
+      "cumle": 3,
+      "renk": "kirmizi"
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "ucl",
+      "x": 1.5,
+      "y": 100,
+      "cizgi": "yatay",
+      "nokta": false,
+      "etiket": "nivel de molestia",
+      "dy": -12,
+      "cumle": 2,
+      "renk": "sari"
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "konusma",
+      "y": [
+       25,
+       55
+      ],
+      "renk": "mavi",
+      "etiket": "habla",
+      "cumle": 6
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kayip",
+     "cumle": 3
+    },
+    {
+     "parca": "konusma",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "En un oído con audición normal hay un rango de unos cien decibeles entre el sonido más suave audible y un sonido molesto.",
+    "Este rango se llama rango dinámico.",
+    "En la pérdida coclear el umbral sube, pero el nivel de molestia a menudo se mantiene más o menos igual.",
+    {
+     "yazi": "En este ejemplo, el umbral es de sesenta y el nivel de molestia de cien decibeles HL, así que el rango dinámico se ha reducido a unos cuarenta decibeles."
+    },
+    "Es el resultado del crecimiento anormalmente rápido de la sonoridad que vimos en la lección sobre el reclutamiento.",
+    "El rango de los sonidos cotidianos, de suaves a fuertes, no cabe en este espacio reducido.",
+    "El habla, por ejemplo, abarca unos treinta decibeles desde las consonantes débiles hasta las vocales fuertes, y su nivel cambia según el entorno.",
+    "El objetivo de la compresión es ajustar un rango amplio de entrada al rango dinámico reducido de la persona."
+   ]
+  },
+  {
+   "id": "dogrusal",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué compresión?",
+   "baslik": "Amplificación *lineal*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 30,
+     "max": 100,
+     "adim": 10,
+     "ad": "Entrada (dB SPL)"
+    },
+    "y": {
+     "min": 60,
+     "max": 130,
+     "adim": 10,
+     "ad": "Salida (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "dogrusal",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        80,
+        115
+       ],
+       [
+        100,
+        115
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 0,
+      "etiket": "lineal",
+      "etiket_konum": [
+       55,
+       90
+      ],
+      "etiket_dx": -20,
+      "etiket_dy": -20
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kirpma",
+      "x": 80,
+      "y": 115,
+      "etiket": "recorte de picos",
+      "renk": "kirmizi",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "dogrusal",
+     "cumle": 2
+    },
+    {
+     "parca": "kirpma",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En la amplificación lineal, el audífono aplica la misma ganancia a todos los niveles de entrada.",
+    "Aquí la ganancia es de treinta y cinco decibeles: una entrada de cincuenta da una salida de ochenta y cinco, y una de setenta, una de ciento cinco.",
+    "Así, la curva de entrada y salida es una recta con pendiente uno.",
+    "El problema es este: si hay ganancia suficiente para hacer audibles los sonidos suaves, los sonidos fuertes se vuelven molestos.",
+    "Y si la ganancia es tan baja que los sonidos fuertes resultan cómodos, los sonidos suaves no se oyen.",
+    "Cuando la salida llegaba al límite del audífono, los audífonos lineales antiguos cortaban los picos de la onda; esto se llama recorte de picos.",
+    "El recorte de picos limita el sonido, pero genera una distorsión marcada.",
+    "La compresión se desarrolló para resolver estos dos problemas a la vez."
+   ]
+  },
+  {
+   "id": "io",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "La curva de entrada y salida",
+   "baslik": "La *curva* de entrada y salida",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 30,
+     "max": 100,
+     "adim": 10,
+     "ad": "Entrada (dB SPL)"
+    },
+    "y": {
+     "min": 60,
+     "max": 130,
+     "adim": 10,
+     "ad": "Salida (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "dogrusal",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        95,
+        130
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "cumle": 1,
+      "etiket": "lineal",
+      "etiket_konum": [
+       85,
+       120
+      ],
+      "etiket_dx": -70,
+      "etiket_dy": -8
+     },
+     {
+      "ad": "kompresyon",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        50,
+        85
+       ],
+       [
+        70,
+        95
+       ],
+       [
+        90,
+        105
+       ],
+       [
+        100,
+        106
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 6,
+      "cumle": 2,
+      "etiket": "compresión",
+      "etiket_konum": [
+       90,
+       105
+      ],
+      "etiket_dx": -40,
+      "etiket_dy": 30
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kompresyon_esigi",
+      "x": 50,
+      "y": 85,
+      "etiket": "umbral de compresión",
+      "dy": -18,
+      "renk": "kirmizi",
+      "cumle": 3
+     },
+     {
+      "ad": "sinirlama",
+      "x": 90,
+      "y": 105,
+      "etiket": "limitación",
+      "dy": -18,
+      "renk": "sari",
+      "cumle": 7
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "giris_farki",
+      "x": [
+       50,
+       70
+      ],
+      "y": 75,
+      "etiket": "+20 dB de entrada",
+      "cumle": 4,
+      "etiket_alt": true
+     },
+     {
+      "ad": "cikis_farki",
+      "xk": 72,
+      "y": [
+       85,
+       95
+      ],
+      "etiket": "+10 dB de salida",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kompresyon_esigi",
+     "cumle": 3
+    },
+    {
+     "parca": "giris_farki",
+     "cumle": 4
+    },
+    {
+     "parca": "cikis_farki",
+     "cumle": 5
+    },
+    {
+     "parca": "sinirlama",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "La mejor forma de entender la compresión es la curva de entrada y salida.",
+    "El eje horizontal muestra el nivel del sonido que entra al audífono, y el eje vertical, el nivel de salida medido en el acoplador.",
+    {
+     "yazi": "En este ejemplo, el audífono funciona de forma lineal hasta cincuenta dB SPL y da treinta y cinco decibeles de ganancia."
+    },
+    "El punto donde la curva se dobla se llama umbral de compresión, o punto de inflexión.",
+    "Por encima del umbral de compresión, cuando la entrada sube veinte decibeles, la salida sube solo diez.",
+    {
+     "yazi": "La razón entre el cambio de entrada y el cambio de salida se llama relación de compresión; aquí es de dos a uno."
+    },
+    "Así, la ganancia disminuye a medida que sube la entrada: la distancia entre la curva y la línea discontinua se va ampliando.",
+    "Arriba hay un segundo quiebre: aquí la salida casi no sube, y la salida máxima queda limitada.",
+    "En la medición estándar, esta curva se traza de cincuenta a noventa dB SPL en pasos de cinco decibeles."
+   ]
+  },
+  {
+   "id": "oran",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "La curva de entrada y salida",
+   "baslik": "*Relación* de compresión",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 30,
+     "max": 100,
+     "adim": 10,
+     "ad": "Entrada (dB SPL)"
+    },
+    "y": {
+     "min": 60,
+     "max": 130,
+     "adim": 10,
+     "ad": "Salida (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "oran_1",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        50,
+        85
+       ],
+       [
+        95,
+        130
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "cumle": 1,
+      "etiket": "1:1",
+      "etiket_konum": [
+       90,
+       125
+      ],
+      "etiket_dx": 10
+     },
+     {
+      "ad": "oran_2",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        50,
+        85
+       ],
+       [
+        100,
+        110
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 2,
+      "etiket": "2:1",
+      "etiket_konum": [
+       100,
+       110
+      ],
+      "etiket_dx": -36,
+      "etiket_dy": -12
+     },
+     {
+      "ad": "oran_3",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        50,
+        85
+       ],
+       [
+        100,
+        101.7
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 3,
+      "etiket": "3:1",
+      "etiket_konum": [
+       100,
+       101.7
+      ],
+      "etiket_dx": -36,
+      "etiket_dy": -12
+     },
+     {
+      "ad": "oran_10",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        50,
+        85
+       ],
+       [
+        100,
+        90
+       ]
+      ],
+      "renk": "kirmizi",
+      "cumle": 4,
+      "etiket": "10:1",
+      "etiket_konum": [
+       100,
+       90
+      ],
+      "etiket_dx": -44,
+      "etiket_dy": 24
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "oran_2",
+     "cumle": 2
+    },
+    {
+     "parca": "oran_3",
+     "cumle": 3
+    },
+    {
+     "parca": "oran_10",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Cuando se comparan distintas relaciones con el mismo umbral de compresión, cambia la pendiente de la curva.",
+    {
+     "yazi": "Una relación de uno a uno significa que no hay compresión; el audífono funciona de forma lineal."
+    },
+    {
+     "yazi": "Con una relación de dos a uno, un aumento de veinte decibeles en la entrada se convierte en un aumento de diez en la salida."
+    },
+    {
+     "yazi": "Con una relación de tres a uno, el mismo aumento baja a unos siete decibeles; la curva se aplana más."
+    },
+    {
+     "yazi": "Con una relación de diez a uno o más, la salida se mantiene casi constante; esto ya es limitación."
+    },
+    "Así, a medida que crece la relación, el rango de salida se estrecha y las diferencias de sonoridad entre los sonidos se reducen.",
+    "Las relaciones muy altas pueden aplanar los cambios naturales de sonoridad del habla y hacer que el sonido sea menos natural."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "La curva de entrada y salida",
+   "baslik": "La ganancia cambia *con la entrada*",
+   "sutunlar": [
+    "Entrada (dB SPL)",
+    "Salida (dB SPL)",
+    "Ganancia (dB)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "40",
+      "75",
+      "35"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "50",
+      "85",
+      "35"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "70",
+      "95",
+      "25"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "90",
+      "105",
+      "15"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "En la curva de entrada y salida podemos leer la ganancia en cada nivel de entrada; la ganancia es la salida menos la entrada.",
+    "Un sonido suave de cuarenta decibeles se amplifica a setenta y cinco; la ganancia es de treinta y cinco decibeles.",
+    "En el umbral de compresión de cincuenta decibeles, la ganancia sigue siendo de treinta y cinco.",
+    "Con una entrada de setenta decibeles, la salida es de noventa y cinco; la ganancia ha bajado a veinticinco decibeles.",
+    "Con una entrada fuerte de noventa decibeles, la ganancia es de solo quince decibeles.",
+    "Así, un rango de entrada de cincuenta decibeles se ha ajustado a un rango de salida de solo treinta; esta es la esencia de la compresión."
+   ]
+  },
+  {
+   "id": "wdrc",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "WDRC y limitación",
+   "baslik": "*WDRC* y limitación",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Umbral de la WDRC",
+     "cumle": 1,
+     "metin": "Bajo, por debajo del habla"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Relación de la WDRC",
+     "cumle": 3,
+     "metin": "Generalmente baja"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Umbral de limitación",
+     "cumle": 5,
+     "metin": "Alto, cerca del límite de salida"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Relación de limitación",
+     "cumle": 6,
+     "metin": "Alta, por ejemplo 10:1"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La compresión de amplio rango dinámico (WDRC) es el modo de funcionamiento básico de los audífonos actuales."
+    },
+    {
+     "yazi": "En la WDRC el umbral de compresión es bajo, por lo general de unos cuarenta a cincuenta y cinco dB SPL, igual o inferior al nivel del habla suave."
+    },
+    "Así, la mayoría de los sonidos suaves, moderados y fuertes se procesan en la región de compresión.",
+    {
+     "yazi": "En la WDRC la relación suele ser baja; en la mayoría de las adaptaciones se mantiene por debajo de tres a uno."
+    },
+    "El objetivo es ajustar los sonidos al rango dinámico dando más ganancia a los sonidos suaves y menos a los fuertes.",
+    "La limitación por compresión, en cambio, solo actúa con un umbral alto, cerca del límite de salida.",
+    {
+     "yazi": "Su relación es alta, por lo general de ocho a uno o más, para que la salida no supere el nivel de molestia."
+    },
+    {
+     "yazi": "En resumen, la WDRC ubica los sonidos dentro del rango auditivo de la persona, y la limitación protege el borde superior de ese rango."
+    }
+   ]
+  },
+  {
+   "id": "kirpma",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "WDRC y limitación",
+   "baslik": "¿Recorte o *limitación*?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Tiempo (ms)"
+    },
+    "y": {
+     "min": -1.6,
+     "max": 1.6,
+     "adim": 0.5,
+     "ad": "Amplitud",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "kirpilmis",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.1,
+        0.188
+       ],
+       [
+        0.2,
+        0.373
+       ],
+       [
+        0.3,
+        0.552
+       ],
+       [
+        0.4,
+        0.723
+       ],
+       [
+        0.5,
+        0.882
+       ],
+       [
+        0.6,
+        1.0
+       ],
+       [
+        0.7,
+        1.0
+       ],
+       [
+        0.8,
+        1.0
+       ],
+       [
+        0.9,
+        1.0
+       ],
+       [
+        1.0,
+        1.0
+       ],
+       [
+        1.1,
+        1.0
+       ],
+       [
+        1.2,
+        1.0
+       ],
+       [
+        1.3,
+        1.0
+       ],
+       [
+        1.4,
+        1.0
+       ],
+       [
+        1.5,
+        1.0
+       ],
+       [
+        1.6,
+        1.0
+       ],
+       [
+        1.7,
+        1.0
+       ],
+       [
+        1.8,
+        1.0
+       ],
+       [
+        1.9,
+        1.0
+       ],
+       [
+        2.0,
+        0.882
+       ],
+       [
+        2.1,
+        0.723
+       ],
+       [
+        2.2,
+        0.552
+       ],
+       [
+        2.3,
+        0.373
+       ],
+       [
+        2.4,
+        0.188
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.6,
+        -0.188
+       ],
+       [
+        2.7,
+        -0.373
+       ],
+       [
+        2.8,
+        -0.552
+       ],
+       [
+        2.9,
+        -0.723
+       ],
+       [
+        3.0,
+        -0.882
+       ],
+       [
+        3.1,
+        -1.0
+       ],
+       [
+        3.2,
+        -1.0
+       ],
+       [
+        3.3,
+        -1.0
+       ],
+       [
+        3.4,
+        -1.0
+       ],
+       [
+        3.5,
+        -1.0
+       ],
+       [
+        3.6,
+        -1.0
+       ],
+       [
+        3.7,
+        -1.0
+       ],
+       [
+        3.8,
+        -1.0
+       ],
+       [
+        3.9,
+        -1.0
+       ],
+       [
+        4.0,
+        -1.0
+       ],
+       [
+        4.1,
+        -1.0
+       ],
+       [
+        4.2,
+        -1.0
+       ],
+       [
+        4.3,
+        -1.0
+       ],
+       [
+        4.4,
+        -1.0
+       ],
+       [
+        4.5,
+        -0.882
+       ],
+       [
+        4.6,
+        -0.723
+       ],
+       [
+        4.7,
+        -0.552
+       ],
+       [
+        4.8,
+        -0.373
+       ],
+       [
+        4.9,
+        -0.188
+       ],
+       [
+        5.0,
+        -0.0
+       ],
+       [
+        5.1,
+        0.188
+       ],
+       [
+        5.2,
+        0.373
+       ],
+       [
+        5.3,
+        0.552
+       ],
+       [
+        5.4,
+        0.723
+       ],
+       [
+        5.5,
+        0.882
+       ],
+       [
+        5.6,
+        1.0
+       ],
+       [
+        5.7,
+        1.0
+       ],
+       [
+        5.8,
+        1.0
+       ],
+       [
+        5.9,
+        1.0
+       ],
+       [
+        6.0,
+        1.0
+       ],
+       [
+        6.1,
+        1.0
+       ],
+       [
+        6.2,
+        1.0
+       ],
+       [
+        6.3,
+        1.0
+       ],
+       [
+        6.4,
+        1.0
+       ],
+       [
+        6.5,
+        1.0
+       ],
+       [
+        6.6,
+        1.0
+       ],
+       [
+        6.7,
+        1.0
+       ],
+       [
+        6.8,
+        1.0
+       ],
+       [
+        6.9,
+        1.0
+       ],
+       [
+        7.0,
+        0.882
+       ],
+       [
+        7.1,
+        0.723
+       ],
+       [
+        7.2,
+        0.552
+       ],
+       [
+        7.3,
+        0.373
+       ],
+       [
+        7.4,
+        0.188
+       ],
+       [
+        7.5,
+        0.0
+       ],
+       [
+        7.6,
+        -0.188
+       ],
+       [
+        7.7,
+        -0.373
+       ],
+       [
+        7.8,
+        -0.552
+       ],
+       [
+        7.9,
+        -0.723
+       ],
+       [
+        8.0,
+        -0.882
+       ],
+       [
+        8.1,
+        -1.0
+       ],
+       [
+        8.2,
+        -1.0
+       ],
+       [
+        8.3,
+        -1.0
+       ],
+       [
+        8.4,
+        -1.0
+       ],
+       [
+        8.5,
+        -1.0
+       ],
+       [
+        8.6,
+        -1.0
+       ],
+       [
+        8.7,
+        -1.0
+       ],
+       [
+        8.8,
+        -1.0
+       ],
+       [
+        8.9,
+        -1.0
+       ],
+       [
+        9.0,
+        -1.0
+       ],
+       [
+        9.1,
+        -1.0
+       ],
+       [
+        9.2,
+        -1.0
+       ],
+       [
+        9.3,
+        -1.0
+       ],
+       [
+        9.4,
+        -1.0
+       ],
+       [
+        9.5,
+        -0.882
+       ],
+       [
+        9.6,
+        -0.723
+       ],
+       [
+        9.7,
+        -0.552
+       ],
+       [
+        9.8,
+        -0.373
+       ],
+       [
+        9.9,
+        -0.188
+       ],
+       [
+        10.0,
+        -0.0
+       ]
+      ],
+      "renk": "kirmizi",
+      "cumle": 1,
+      "etiket": "recorte de picos",
+      "etiket_konum": [
+       1.25,
+       1.0
+      ],
+      "etiket_dy": -16
+     },
+     {
+      "ad": "sinirlanmis",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.1,
+        0.119
+       ],
+       [
+        0.2,
+        0.236
+       ],
+       [
+        0.3,
+        0.35
+       ],
+       [
+        0.4,
+        0.458
+       ],
+       [
+        0.5,
+        0.558
+       ],
+       [
+        0.6,
+        0.65
+       ],
+       [
+        0.7,
+        0.732
+       ],
+       [
+        0.8,
+        0.802
+       ],
+       [
+        0.9,
+        0.86
+       ],
+       [
+        1.0,
+        0.904
+       ],
+       [
+        1.1,
+        0.933
+       ],
+       [
+        1.2,
+        0.948
+       ],
+       [
+        1.3,
+        0.948
+       ],
+       [
+        1.4,
+        0.933
+       ],
+       [
+        1.5,
+        0.904
+       ],
+       [
+        1.6,
+        0.86
+       ],
+       [
+        1.7,
+        0.802
+       ],
+       [
+        1.8,
+        0.732
+       ],
+       [
+        1.9,
+        0.65
+       ],
+       [
+        2.0,
+        0.558
+       ],
+       [
+        2.1,
+        0.458
+       ],
+       [
+        2.2,
+        0.35
+       ],
+       [
+        2.3,
+        0.236
+       ],
+       [
+        2.4,
+        0.119
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.6,
+        -0.119
+       ],
+       [
+        2.7,
+        -0.236
+       ],
+       [
+        2.8,
+        -0.35
+       ],
+       [
+        2.9,
+        -0.458
+       ],
+       [
+        3.0,
+        -0.558
+       ],
+       [
+        3.1,
+        -0.65
+       ],
+       [
+        3.2,
+        -0.732
+       ],
+       [
+        3.3,
+        -0.802
+       ],
+       [
+        3.4,
+        -0.86
+       ],
+       [
+        3.5,
+        -0.904
+       ],
+       [
+        3.6,
+        -0.933
+       ],
+       [
+        3.7,
+        -0.948
+       ],
+       [
+        3.8,
+        -0.948
+       ],
+       [
+        3.9,
+        -0.933
+       ],
+       [
+        4.0,
+        -0.904
+       ],
+       [
+        4.1,
+        -0.86
+       ],
+       [
+        4.2,
+        -0.802
+       ],
+       [
+        4.3,
+        -0.732
+       ],
+       [
+        4.4,
+        -0.65
+       ],
+       [
+        4.5,
+        -0.558
+       ],
+       [
+        4.6,
+        -0.458
+       ],
+       [
+        4.7,
+        -0.35
+       ],
+       [
+        4.8,
+        -0.236
+       ],
+       [
+        4.9,
+        -0.119
+       ],
+       [
+        5.0,
+        -0.0
+       ],
+       [
+        5.1,
+        0.119
+       ],
+       [
+        5.2,
+        0.236
+       ],
+       [
+        5.3,
+        0.35
+       ],
+       [
+        5.4,
+        0.458
+       ],
+       [
+        5.5,
+        0.558
+       ],
+       [
+        5.6,
+        0.65
+       ],
+       [
+        5.7,
+        0.732
+       ],
+       [
+        5.8,
+        0.802
+       ],
+       [
+        5.9,
+        0.86
+       ],
+       [
+        6.0,
+        0.904
+       ],
+       [
+        6.1,
+        0.933
+       ],
+       [
+        6.2,
+        0.948
+       ],
+       [
+        6.3,
+        0.948
+       ],
+       [
+        6.4,
+        0.933
+       ],
+       [
+        6.5,
+        0.904
+       ],
+       [
+        6.6,
+        0.86
+       ],
+       [
+        6.7,
+        0.802
+       ],
+       [
+        6.8,
+        0.732
+       ],
+       [
+        6.9,
+        0.65
+       ],
+       [
+        7.0,
+        0.558
+       ],
+       [
+        7.1,
+        0.458
+       ],
+       [
+        7.2,
+        0.35
+       ],
+       [
+        7.3,
+        0.236
+       ],
+       [
+        7.4,
+        0.119
+       ],
+       [
+        7.5,
+        0.0
+       ],
+       [
+        7.6,
+        -0.119
+       ],
+       [
+        7.7,
+        -0.236
+       ],
+       [
+        7.8,
+        -0.35
+       ],
+       [
+        7.9,
+        -0.458
+       ],
+       [
+        8.0,
+        -0.558
+       ],
+       [
+        8.1,
+        -0.65
+       ],
+       [
+        8.2,
+        -0.732
+       ],
+       [
+        8.3,
+        -0.802
+       ],
+       [
+        8.4,
+        -0.86
+       ],
+       [
+        8.5,
+        -0.904
+       ],
+       [
+        8.6,
+        -0.933
+       ],
+       [
+        8.7,
+        -0.948
+       ],
+       [
+        8.8,
+        -0.948
+       ],
+       [
+        8.9,
+        -0.933
+       ],
+       [
+        9.0,
+        -0.904
+       ],
+       [
+        9.1,
+        -0.86
+       ],
+       [
+        9.2,
+        -0.802
+       ],
+       [
+        9.3,
+        -0.732
+       ],
+       [
+        9.4,
+        -0.65
+       ],
+       [
+        9.5,
+        -0.558
+       ],
+       [
+        9.6,
+        -0.458
+       ],
+       [
+        9.7,
+        -0.35
+       ],
+       [
+        9.8,
+        -0.236
+       ],
+       [
+        9.9,
+        -0.119
+       ],
+       [
+        10.0,
+        -0.0
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "cumle": 3,
+      "etiket": "limitación por compresión",
+      "etiket_konum": [
+       6.25,
+       0.95
+      ],
+      "etiket_dy": -16
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinir",
+      "x": 9,
+      "y": 1.0,
+      "cizgi": "yatay",
+      "nokta": false,
+      "etiket": "límite de salida",
+      "dy": -12,
+      "cumle": 0,
+      "renk": "sari"
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kirpilmis",
+     "cumle": 2
+    },
+    {
+     "parca": "sinirlanmis",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Hay dos formas de limitar la salida máxima: el recorte de picos y la limitación por compresión.",
+    "En el recorte de picos, los picos de la onda que superan el límite se cortan en plano.",
+    "La onda recortada ya no es una sinusoide pura; aparecen armónicos nuevos y el sonido se vuelve crepitante.",
+    "En la limitación por compresión, el audífono reduce en cambio su ganancia; la forma de la onda se conserva y solo se reduce su amplitud.",
+    "Por eso, la limitación por compresión da un sonido mucho más limpio en ambientes ruidosos.",
+    "Hoy, el recorte de picos todavía puede usarse en algunos audífonos muy potentes y como límite final de seguridad.",
+    "Si una persona se queja de que los sonidos fuertes suenan crepitantes, hay que pensar en la posibilidad de que la salida se esté recortando."
+   ]
+  },
+  {
+   "id": "genisleme",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "WDRC y limitación",
+   "baslik": "*Expansión*",
+   "maddeler": [
+    {
+     "metin": "Baja la ganancia en entradas muy suaves",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Atenúa el ruido del micrófono y ambiental",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "En exceso también corta el habla suave",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Se verifica en el oído real",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 0,
+    "ayar": {
+     "x": {
+      "min": 20,
+      "max": 100,
+      "adim": 20,
+      "ad": "Entrada (dB SPL)"
+     },
+     "y": {
+      "min": 40,
+      "max": 120,
+      "adim": 20,
+      "ad": "Salida (dB SPL)"
+     },
+     "seriler": [
+      {
+       "ad": "egri",
+       "noktalar": [
+        [
+         20,
+         45
+        ],
+        [
+         30,
+         60
+        ],
+        [
+         40,
+         75
+        ],
+        [
+         50,
+         85
+        ],
+        [
+         70,
+         95
+        ],
+        [
+         90,
+         105
+        ],
+        [
+         100,
+         106
+        ]
+       ],
+       "renk": "mavi",
+       "cumle": 0
+      }
+     ],
+     "bolgeler": [
+      {
+       "ad": "genisleme_bolgesi",
+       "x": [
+        20,
+        40
+       ],
+       "renk": "sari",
+       "etiket": "expansión",
+       "cumle": 1
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "genisleme_bolgesi",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Por debajo del umbral de compresión, con entradas muy suaves, algunos audífonos funcionan en el sentido contrario.",
+    "En esta región, la ganancia disminuye a medida que baja la entrada; esto se llama expansión.",
+    "El objetivo es evitar que en una sala silenciosa se oigan el ruido propio del micrófono y sonidos débiles, como el zumbido de un refrigerador.",
+    "En el gráfico, la pendiente de la curva en la región de expansión es mayor que uno.",
+    "Pero si la expansión se ajusta con demasiada fuerza, también puede debilitarse el habla suave que llega desde lejos.",
+    "Por eso es importante una medición en oído real con una entrada suave, para confirmar que el ajuste de expansión no corta el habla."
+   ]
+  },
+  {
+   "id": "atak",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Constantes de tiempo",
+   "baslik": "Ataque y *liberación*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 600,
+     "adim": 100,
+     "ad": "Tiempo (ms)"
+    },
+    "y": {
+     "min": 40,
+     "max": 125,
+     "adim": 20,
+     "ad": "Nivel (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "giris",
+      "noktalar": [
+       [
+        0,
+        55
+       ],
+       [
+        100,
+        55
+       ],
+       [
+        101,
+        90
+       ],
+       [
+        350,
+        90
+       ],
+       [
+        351,
+        55
+       ],
+       [
+        600,
+        55
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "cumle": 1,
+      "etiket": "entrada",
+      "etiket_konum": [
+       20,
+       55
+      ],
+      "etiket_dy": 26
+     },
+     {
+      "ad": "cikis",
+      "noktalar": [
+       [
+        0,
+        85
+       ],
+       [
+        100,
+        85
+       ],
+       [
+        101,
+        118
+       ],
+       [
+        104,
+        108
+       ],
+       [
+        110,
+        105
+       ],
+       [
+        350,
+        105
+       ],
+       [
+        351,
+        72
+       ],
+       [
+        380,
+        75
+       ],
+       [
+        420,
+        79
+       ],
+       [
+        470,
+        82
+       ],
+       [
+        520,
+        84
+       ],
+       [
+        600,
+        85
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 6,
+      "cumle": 2,
+      "etiket": "salida",
+      "etiket_konum": [
+       20,
+       85
+      ],
+      "etiket_dy": -14
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "atak_tepesi",
+      "x": 101,
+      "y": 118,
+      "etiket": "ataque",
+      "renk": "kirmizi",
+      "cumle": 3,
+      "dx": 30
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "birakma",
+      "x": [
+       351,
+       455
+      ],
+      "y": 64,
+      "etiket": "liberación",
+      "cumle": 5,
+      "etiket_alt": true
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "atak_tepesi",
+     "cumle": 3
+    },
+    {
+     "parca": "birakma",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La compresión no se define solo por cuánto actúa, sino también por la rapidez con que responde.",
+    {
+     "yazi": "En este ejemplo, el nivel de entrada sube de golpe de cincuenta y cinco a noventa dB SPL."
+    },
+    "Como el audífono no puede reducir la ganancia al instante, aparece un breve pico en la salida, y luego la salida se estabiliza en su nuevo nivel.",
+    "En la norma, el tiempo de ataque es el tiempo que pasa tras esta subida brusca hasta que la salida queda a tres decibeles de su nivel final.",
+    "Cuando la entrada vuelve a bajar a cincuenta y cinco decibeles, la ganancia no se recupera de inmediato; la salida se mantiene baja un tiempo.",
+    "El tiempo de liberación es el tiempo hasta que la salida vuelve a quedar a cuatro decibeles de su nivel final.",
+    "En la mayoría de los audífonos el tiempo de ataque es corto, de unos pocos milisegundos, así que los sonidos fuertes repentinos se controlan rápido.",
+    "El tiempo de liberación varía mucho entre audífonos y determina el carácter de la compresión.",
+    "La norma hace estas mediciones en las frecuencias en las que se mide la curva de entrada y salida."
+   ]
+  },
+  {
+   "id": "hiz",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Constantes de tiempo",
+   "baslik": "Compresión *rápida* y lenta",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Compresión rápida",
+     "cumle": 0,
+     "metin": "La ganancia cambia sílaba a sílaba"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Ventaja",
+     "cumle": 2,
+     "metin": "Se oyen las consonantes débiles"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Compresión lenta",
+     "cumle": 4,
+     "metin": "La ganancia sigue al entorno"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Ventaja",
+     "cumle": 6,
+     "metin": "Sonido natural, comodidad"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Desventaja",
+     "cumle": 7,
+     "metin": "Lenta tras sonidos repentinos"
+    }
+   ],
+   "cumleler": [
+    "La compresión con un tiempo de liberación corto, por debajo de unos doscientos milisegundos, se llama compresión rápida o silábica.",
+    "Este tipo de compresión puede cambiar la ganancia incluso entre las sílabas del habla.",
+    "Su ventaja es que una consonante débil justo después de una vocal fuerte también recibe ganancia suficiente para oírse.",
+    "Su desventaja es que aplana la envolvente natural del habla y eleva el fondo en el ruido, lo que hace que el sonido parezca bombear.",
+    "La compresión con tiempos de liberación de cientos de milisegundos a varios segundos se llama compresión lenta.",
+    "La compresión lenta ajusta la ganancia al nivel sonoro general del entorno y se comporta como un control automático de volumen.",
+    "Su ventaja es que conserva la envolvente y la naturalidad del habla.",
+    "Su desventaja es que, después de un sonido fuerte repentino, como un portazo, los sonidos suaves quedan poco amplificados durante un tiempo.",
+    "Los estudios sugieren que el enfoque más útil puede variar de una persona a otra.",
+    "Algunas investigaciones han relacionado esta diferencia con la capacidad cognitiva de la persona, pero en la clínica no hay una regla única."
+   ]
+  },
+  {
+   "id": "kanallar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Constantes de tiempo",
+   "baslik": "Compresión *multicanal*",
+   "maddeler": [
+    {
+     "metin": "Cada canal tiene su umbral y relación",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Graves y agudos se procesan por separado",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Las fórmulas dan objetivos para tres entradas",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Oído real: 55, 65, 80 dB SPL",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Canal grave",
+      "cumle": 2,
+      "metin": "Menos pérdida, menos compresión"
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Canal agudo",
+      "cumle": 2,
+      "metin": "Más pérdida, otro ajuste"
+     }
+    ],
+    "ust": "POR CANAL"
+   },
+   "cumleler": [
+    "Los audífonos actuales dividen el sonido en varios canales de frecuencia y aplican una compresión separada en cada uno.",
+    "Así, cada canal puede tener su propio umbral y su propia relación de compresión.",
+    "Esto permite ajustar la compresión por frecuencia en una persona que oye mejor en las graves y peor en las agudas.",
+    "Veremos los canales y las bandas en detalle en la próxima lección.",
+    "Para ajustar la compresión, las fórmulas prescriptivas dan objetivos separados para niveles de entrada suaves, moderados y fuertes.",
+    {
+     "yazi": "En oído real, resultados cercanos al objetivo con entradas de cincuenta y cinco, sesenta y cinco y ochenta dB SPL indican una compresión bien ajustada."
+    },
+    "No basta con alcanzar el objetivo solo en el nivel moderado; los niveles suave y fuerte también se verifican por separado."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Ante «no oigo los sonidos suaves», revisen la ganancia para entradas suaves y la expansión; ante «los sonidos fuertes me molestan», revisen la salida máxima.",
+   "cumleler": [
+    "Un consejo de la práctica: clasifiquen las quejas sobre la compresión según el nivel de entrada.",
+    "Si la persona dice que no oye los susurros o el habla lejana, revisen la ganancia para entradas suaves y el ajuste de expansión.",
+    "Si dice que los sonidos fuertes le molestan, revisen primero la salida máxima y la limitación.",
+    "Las quejas de que el sonido bombea o fluctúa suelen relacionarse con un tiempo de liberación corto.",
+    "Después de cada cambio, verifiquen el resultado con una medición en oído real en el nivel de entrada correspondiente."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "El rango dinámico se estrecha; la compresión ajusta",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Punto de inflexión: el quiebre; relación: entrada/salida",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "WDRC umbral bajo, limitación umbral alto",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Ataque corto; la liberación define la compresión",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que el rango dinámico se estrecha en la pérdida coclear y que la compresión ajusta los sonidos a ese rango.",
+    "El umbral de compresión es el punto donde se dobla la curva de entrada y salida; la relación es el cambio de entrada dividido por el de salida.",
+    {
+     "yazi": "La WDRC usa un umbral bajo y una relación baja; la limitación por compresión protege la salida máxima con un umbral alto y una relación alta."
+    },
+    "El tiempo de ataque es corto; el tiempo de liberación distingue la compresión rápida de la lenta."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Sobre el umbral, la entrada sube 30 dB y la salida 10 dB. ¿Relación?",
+   "secenekler": [
+    "1:1",
+    "2:1",
+    "3:1",
+    "10:1"
+   ],
+   "dogru": 2,
+   "aciklama": "Relación = cambio de entrada / cambio de salida: _30 / 10 = 3_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: por encima del umbral de compresión, la entrada sube treinta decibeles y la salida sube diez. ¿Cuál es la relación de compresión?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la C: tres a uno."
+    },
+    "La relación de compresión es el cambio de entrada dividido por el cambio de salida: treinta dividido entre diez, o sea, tres."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Canales, bandas y *reducción de frecuencias*",
+   "cikis": 2.5,
+   "cumleler": [
+    "A continuación veremos en qué se diferencian los canales de las bandas, y los métodos de reducción de frecuencias que hacen audibles las frecuencias agudas.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

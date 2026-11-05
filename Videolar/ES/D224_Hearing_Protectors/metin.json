@@ -1,0 +1,965 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D224_Hearing_Protectors_ES",
+ "kapak": {
+  "ust": "LECCIÓN 224",
+  "baslik": "Protectores<br>*auditivos*",
+  "alt": "Tipos y protección real",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "dis_kulak_yolu"
+  ]
+ },
+ "youtube": {
+  "baslik": "Protectores auditivos: tipos y protección real | Lección 224 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Tapones u orejeras? En esta lección vemos los tipos de protectores auditivos personales, qué significan los valores de etiqueta NRR, SNR (índice de valor único) y HML, por qué esos valores bajan en uso real, el efecto del tiempo de uso y la prueba de ajuste individual.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Berger et al., The Noise Manual (AIHA); NIOSH (1998), Criteria for a Recommended Standard: Occupational Noise Exposure; OSHA 29 CFR 1910.95 y OSHA Technical Manual, Noise; EN 458, Hearing protectors: recommendations for selection, use, care and maintenance; ISO 4869-2; Regulation on the Protection of Employees from Noise-Related Risks, Turquía (Boletín Oficial, 28.07.2013, n.º 28721).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "proteccionauditiva",
+   "saludocupacional"
+  ],
+  "etiketler": [
+   "protector auditivo",
+   "protección auditiva",
+   "tapones auditivos",
+   "orejeras",
+   "índice de reducción de ruido",
+   "NRR",
+   "índice de valor único",
+   "SNR",
+   "prueba de ajuste",
+   "índice de atenuación personal",
+   "audiología ocupacional",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 224",
+   "baslik": "Protectores *auditivos*",
+   "alt": "Tipos, valores de etiqueta y protección real",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos los tapones y las orejeras, y qué significan los valores de protección del envase.",
+    "Luego veremos por qué esos valores bajan en uso real y cómo la prueba de ajuste individual mide la protección real."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué y cuándo?",
+   "baslik": "El *orden* de la protección",
+   "adimlar": [
+    {
+     "ikon": "is_yeri",
+     "baslik": "Reducir en la fuente",
+     "cumle": 1,
+     "metin": "Máquinas silenciosas, aislamiento"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Bloquear el trayecto",
+     "cumle": 2,
+     "metin": "Barreras, cabinas, distancia"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Acortar el tiempo",
+     "cumle": 3,
+     "metin": "Rotación, pausas en silencio"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Protector personal",
+     "cumle": 4,
+     "metin": "La última línea de defensa"
+    }
+   ],
+   "cumleler": [
+    "El protector auditivo, en inglés HPD, no es el primer paso sino el último en la protección contra el ruido.",
+    "Lo más eficaz es reducir el ruido en su fuente; elegir una máquina más silenciosa o aislarla son ejemplos.",
+    "Si no se puede reducir la fuente, se bloquea el trayecto del sonido; las barreras, las cabinas cerradas y una mayor distancia son parte de este paso.",
+    "Luego vienen las medidas administrativas: acortar el tiempo en tareas ruidosas y dar pausas en silencio.",
+    "Los protectores personales se usan para reducir el riesgo que queda cuando estas medidas no bastan.",
+    "Esto se debe a que el efecto de un protector depende por completo de que la persona lo coloque bien y lo use todo el tiempo."
+   ]
+  },
+  {
+   "id": "yonetmelik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué y cuándo?",
+   "baslik": "La *normativa* en Turquía",
+   "maddeler": [
+    {
+     "metin": "_80 dB(A)_: protectores a disposición",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "_85 dB(A)_: uso asegurado y exigido",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_87 dB(A)_: no se supera con protector",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "El protector debe ajustar bien",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "trafik",
+      "cumle": 1
+     },
+     {
+      "parca": "konser",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En Turquía, esto lo regula el Reglamento de Protección de los Trabajadores frente a los Riesgos del Ruido, de 2013."
+    },
+    {
+     "yazi": "Si la exposición diaria supera el valor inferior de acción de 80 dB(A), el empleador pone protectores auditivos a disposición de los trabajadores."
+    },
+    {
+     "yazi": "Si la exposición alcanza el valor superior de acción de 85 dB(A), el empleador asegura y exige el uso de protectores."
+    },
+    {
+     "yazi": "Y 87 dB(A) es el valor límite de exposición, que se evalúa teniendo en cuenta el efecto del protector en uso."
+    },
+    "Para los valores de acción no se considera el efecto del protector; primero se mide el ruido del ambiente.",
+    "El reglamento exige elegir protectores que eliminen o reduzcan al mínimo el riesgo y que se ajusten bien al trabajador."
+   ]
+  },
+  {
+   "id": "tipler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tipos de protectores",
+   "baslik": "Tipos de *protectores*",
+   "cumleler": [
+    "El tapón auditivo es un protector que se coloca dentro del conducto auditivo; el tipo más común es el tapón de espuma.",
+    "Los tapones premoldeados son de silicona o un material similar, con rebordes, y la mayoría son lavables.",
+    "Los tapones a medida se fabrican a partir de una impresión del oído, como un molde de audífono; ajustan bien, pero igual hay que comprobarlo.",
+    "La orejera está formada por copas acolchadas que rodean el pabellón auricular desde afuera y una diadema.",
+    "Los tapones con banda tapan la entrada del conducto; son prácticos para ruidos breves con entradas y salidas frecuentes, pero suelen proteger menos.",
+    "Los protectores electrónicos captan el sonido exterior con un micrófono; dejan pasar el habla en silencio y limitan el sonido cuando sube el ruido."
+   ],
+   "cizim": "isitme_koruyuculari",
+   "ayar": {
+    "tipler": [
+     "kopuk",
+     "hazir",
+     "ozel",
+     "manson",
+     "bantli",
+     "elektronik"
+    ],
+    "cumleler": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "adlar": {
+     "kopuk": "Tapón de espuma",
+     "hazir": "Tapón premoldeado",
+     "ozel": "A medida",
+     "manson": "Orejera",
+     "bantli": "Tapón con banda",
+     "elektronik": "Electrónico"
+    },
+    "aciklamalar": {
+     "kopuk": "Se comprime y se expande en el conducto",
+     "hazir": "Con rebordes, lavable",
+     "ozel": "Hecho con impresión del oído",
+     "manson": "Cubre el oído desde afuera",
+     "bantli": "Uso breve, poner y quitar",
+     "elektronik": "Depende del nivel, permite comunicarse"
+    }
+   }
+  },
+  {
+   "id": "kopuk",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tipos de protectores",
+   "baslik": "*Colocar* un tapón de espuma",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "kopuk_tikac",
+     "metin": "conducto auditivo: tapón bien adentro",
+     "cumle": 3
+    },
+    {
+     "parca": "kulak_kepcesi",
+     "metin": "pabellón hacia arriba y atrás",
+     "cumle": 2
+    },
+    {
+     "parca": "sig_yerlesim",
+     "metin": "superficial: poca protección",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kopuk_tikac",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Enrollar: un cilindro delgado",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Tirar: pabellón arriba y atrás",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sostener: hasta que se expanda",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 3,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Cuánto protege un tapón de espuma depende en gran parte de cómo se coloca.",
+    "Primero, el tapón se enrolla despacio entre los dedos hasta formar un cilindro delgado y sin pliegues.",
+    "La mano opuesta pasa por encima de la cabeza y tira del pabellón hacia arriba y hacia atrás, lo que endereza el conducto auditivo.",
+    "El tapón se introduce profundamente en el conducto y se sostiene con un dedo unos segundos hasta que se expande.",
+    "En un tapón bien colocado, la mayor parte queda dentro del conducto; desde afuera solo se ve una pequeña parte.",
+    "Un tapón colocado de forma superficial queda en la entrada del conducto y protege mucho menos de lo que indica la etiqueta.",
+    "Enrollarlo con las manos sucias puede ensuciar el conducto auditivo, así que las manos deben estar limpias."
+   ],
+   "ayar": {
+    "kanal_nesnesi": "kopuk",
+    "yuvarla_cumle": 1,
+    "cek_cumle": 2,
+    "tak_cumle": 3,
+    "sig_cumle": 5
+   }
+  },
+  {
+   "id": "manson",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tipos de protectores",
+   "baslik": "El *sellado* de la orejera",
+   "maddeler": [
+    {
+     "metin": "La almohadilla debe rodear todo el pabellón",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Las patillas de lentes causan fugas",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Cabello, gorras y cascos",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Las almohadillas se endurecen",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Incomodidad con el calor",
+     "cumle": 4,
+     "ikon": "agri"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "VENTAJAS Y DESVENTAJAS",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Fácil de colocar",
+      "cumle": 5,
+      "metin": "Fácil de controlar"
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Fugas con lentes",
+      "cumle": 1,
+      "metin": "Difícil con calor"
+     }
+    ]
+   },
+   "cumleler": [
+    "La protección de una orejera depende de que la almohadilla forme un sellado continuo alrededor del pabellón auricular.",
+    "Las patillas de los lentes dejan un espacio bajo la almohadilla y pueden reducir mucho la protección.",
+    "El cabello largo, una gorra o una diadema que no encaja con el casco también pueden causar fugas de la misma manera.",
+    "Las almohadillas y las diademas se endurecen y se aflojan con el tiempo, y deben cambiarse en los intervalos que recomienda el fabricante.",
+    "En ambientes calurosos, el sudor y el peso pueden llevar a quitarse la orejera, lo que baja rápidamente la protección efectiva.",
+    "Por otro lado, las orejeras son fáciles de poner, y se ve de un vistazo y a distancia si se están usando."
+   ]
+  },
+  {
+   "id": "etiket",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Valores de etiqueta",
+   "baslik": "De la etiqueta *al oído*",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Medir el ruido",
+     "cumle": 0,
+     "metin": "dB(A) o dB(C)"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Valor de etiqueta",
+     "cumle": 1,
+     "metin": "NRR, SNR, HML"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Nivel en el oído",
+     "cumle": 3,
+     "metin": "Estimar bajo el protector"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Rango objetivo",
+     "cumle": 4,
+     "metin": "Unos 70 a 80 dB(A)"
+    }
+   ],
+   "cumleler": [
+    "La elección de un protector empieza por medir el ruido del ambiente de trabajo.",
+    "El número único del envase resume la atenuación medida en el laboratorio.",
+    {
+     "yazi": "En los Estados Unidos se usa el índice de reducción de ruido, o NRR, de la Agencia de Protección Ambiental, o EPA."
+    },
+    "Con estos valores se estima el nivel que llega al oído con el protector puesto.",
+    {
+     "yazi": "Las guías europeas de selección buscan que el nivel bajo el protector sea de unos 70 a 80 dB(A)."
+    },
+    "Un nivel mucho más bajo es sobreprotección; puede hacer que se pierdan señales de alarma y el habla, y que se quiten el protector."
+   ]
+  },
+  {
+   "id": "nrr_snr",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Valores de etiqueta",
+   "baslik": "NRR y *SNR*",
+   "maddeler": [
+    {
+     "metin": "NRR: Estados Unidos, nivel en dB(C)",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Para dB(A), restar 7 primero",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "SNR: Europa, índice de valor único",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "HML: valores alto, medio y bajo",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Medidos en laboratorio, con sujetos expertos",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SNR",
+    "metin": "Aquí no es relación señal-ruido, sino un valor de atenuación *único*",
+    "cumle": 3
+   },
+   "cumleler": [
+    {
+     "yazi": "El NRR está pensado para restarse directamente de un nivel de ruido con ponderación C."
+    },
+    {
+     "yazi": "Si el ruido se midió con ponderación A, primero se restan 7 decibeles al NRR para cubrir la diferencia de ponderación."
+    },
+    {
+     "yazi": "En Europa se usa el índice de valor único, o SNR; también se resta del nivel con ponderación C."
+    },
+    {
+     "yazi": "Atención: aquí SNR no es la relación señal-ruido, sino el valor único de atenuación del protector."
+    },
+    "El método HML da tres valores, para ruido de alta, media y baja frecuencia, así que tiene en cuenta el espectro del ruido.",
+    "Todos estos valores se miden en el laboratorio, a menudo con el protector colocado por sujetos expertos o por el propio evaluador."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Valores de etiqueta",
+   "baslik": "Un *ejemplo* resuelto",
+   "sutunlar": [
+    "Paso",
+    "Valor"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Nivel en el trabajo",
+      "95 dB(A)"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "NRR de etiqueta",
+      "29 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Corrección A: menos 7",
+      "22 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Uso real: la mitad",
+      "11 dB"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Nivel estimado en oído",
+      "84 dB(A)"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Veamos un ejemplo: supongamos que el nivel medido en un taller es de 95 dB(A)."
+    },
+    {
+     "yazi": "El envase del tapón de espuma que se usará indica NRR 29."
+    },
+    "Como la medición tiene ponderación A, se restan 7 a 29, lo que da 22 decibeles.",
+    "La guía de OSHA, la Administración de Seguridad y Salud Ocupacional de Estados Unidos, recomienda reducir este valor a la mitad por la caída en uso real.",
+    {
+     "yazi": "La protección estimada es entonces de 11 decibeles, y el nivel que llega al oído se calcula en unos 84 dB(A)."
+    },
+    {
+     "yazi": "Esperar 66 dB(A) a partir del número 29 de la etiqueta sobrestimaría la protección casi tres veces."
+    }
+   ]
+  },
+  {
+   "id": "saha",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Protección en uso real",
+   "baslik": "Etiqueta frente a *uso real*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 3.5,
+     "ad": " ",
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "Earmuff",
+      "2": "Foam earplug",
+      "3": "Other earplugs",
+      "1": "Orejera",
+      "2": "Tapón de espuma",
+      "3": "Otros tapones"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 35,
+     "adim": 5,
+     "ad": "NRR de ejemplo (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "etiket1",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        0.82,
+        25
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "etiqueta 25",
+      "etiket_konum": [
+       0.82,
+       25
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "saha1",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        1.18,
+        19
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "cerca de 19",
+      "etiket_konum": [
+       1.18,
+       19
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "etiket2",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        1.82,
+        32
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "etiqueta 32",
+      "etiket_konum": [
+       1.82,
+       32
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "saha2",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        2.18,
+        16
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "16",
+      "etiket_konum": [
+       2.18,
+       16
+      ],
+      "cumle": 3
+     },
+     {
+      "ad": "etiket3",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        2.82,
+        27
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "etiqueta 27",
+      "etiket_konum": [
+       2.82,
+       27
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "saha3",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        3.18,
+        8
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "cerca de 8",
+      "etiket_konum": [
+       3.18,
+       8
+      ],
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Las investigaciones han mostrado una y otra vez la brecha entre el valor de etiqueta y la protección medida en uso real.",
+    "Por eso NIOSH, el Instituto Nacional de Seguridad y Salud Ocupacional de Estados Unidos, recomendó una corrección según el tipo de protector.",
+    "Para las orejeras se resta el 25 por ciento del valor de etiqueta, así que se espera cerca de tres cuartas partes del valor.",
+    "Para los tapones moldeables, como los de espuma, se espera la mitad del valor.",
+    "Para los demás tapones, solo se espera cerca del 30 por ciento del valor.",
+    "Las cifras en pantalla son ejemplos; el mensaje clave es que la brecha entre etiqueta y uso real puede ser mayor en los tapones que en las orejeras."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Protección en uso real",
+   "baslik": "¿Por qué *baja?*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Colocación superficial",
+     "cumle": 1,
+     "metin": "El tapón queda en la entrada"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Talla incorrecta",
+     "cumle": 2,
+     "metin": "Muy grande o muy pequeño"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Movimiento mandibular",
+     "cumle": 3,
+     "metin": "El tapón se afloja"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Falta de capacitación",
+     "cumle": 4,
+     "metin": "Nadie les enseñó"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Tiempo de uso",
+     "cumle": 5,
+     "metin": "Se quita de vez en cuando"
+    }
+   ],
+   "cumleler": [
+    "Las razones de la caída en uso real dependen en gran parte de las personas y del ajuste.",
+    "La razón más común es que el tapón se coloca en la entrada del conducto en lugar de bien adentro.",
+    "Los conductos auditivos varían de una persona a otra; un tapón de talla única es muy grande para algunos y muy pequeño para otros.",
+    "El movimiento de la mandíbula al hablar y al masticar puede empujar el tapón poco a poco hacia afuera.",
+    "A muchos trabajadores nunca se les ha mostrado en la práctica cómo colocarse un protector.",
+    "Y quizá lo más importante: el protector no se usa durante todo el período de ruido."
+   ]
+  },
+  {
+   "id": "sure",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Protección en uso real",
+   "baslik": "Unos minutos cambian *mucho*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 50,
+     "max": 100,
+     "ad": "Porcentaje del tiempo de uso (%)",
+     "isaretler": [
+      50,
+      75,
+      90,
+      95,
+      100
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 32,
+     "adim": 5,
+     "ad": "Protección efectiva (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "etkin",
+      "noktalar": [
+       [
+        50,
+        3
+       ],
+       [
+        75,
+        6
+       ],
+       [
+        87.5,
+        9
+       ],
+       [
+        90,
+        10
+       ],
+       [
+        95,
+        13
+       ],
+       [
+        99,
+        20
+       ],
+       [
+        100,
+        30
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "protector con etiqueta de 30 dB",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "bes",
+      "x": 95,
+      "y": 13,
+      "dus": "xy",
+      "etiket": "13 dB",
+      "cumle": 2
+     },
+     {
+      "ad": "birsaat",
+      "x": 87.5,
+      "y": 9,
+      "dus": "xy",
+      "etiket": "sin protector 1 hora de 8",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Veamos en un gráfico el efecto del tiempo de uso; supongamos que el valor de etiqueta del protector es de 30 decibeles.",
+    "Si el protector se usa durante todo el período de ruido, la protección es de 30 decibeles.",
+    "Si se quita solo durante el 5 por ciento del tiempo, la protección efectiva baja a unos 13 decibeles, por el principio de igual energía.",
+    "Quitárselo una hora en una jornada de ocho horas baja la protección a unos 9 decibeles.",
+    "Así, un protector muy potente que se quita de vez en cuando protege menos que uno cómodo que se usa todo el tiempo.",
+    "Por eso la comodidad y la facilidad de uso suelen importar más que el número de la etiqueta."
+   ]
+  },
+  {
+   "id": "uyum",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "Prueba de ajuste",
+   "baslik": "*Prueba de ajuste* individual",
+   "adimlar": [
+    {
+     "ikon": "kitap",
+     "baslik": "Enseñar",
+     "cumle": 1,
+     "metin": "Mostrar la colocación en la práctica"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Colocación propia",
+     "cumle": 2,
+     "metin": "El trabajador lo coloca"
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Medir",
+     "cumle": 3,
+     "metin": "Atenuación personal"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Comparar",
+     "cumle": 4,
+     "metin": "Con la protección necesaria"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Decidir",
+     "cumle": 5,
+     "metin": "Reentrenar o cambiar"
+    }
+   ],
+   "cumleler": [
+    "La forma de medir la protección real, en lugar de estimarla, es la prueba de ajuste individual.",
+    "Primero se le muestra al trabajador en la práctica cómo colocarse el protector.",
+    "Luego el trabajador se coloca el protector por sí mismo, como lo hace cada día.",
+    "Un método compara los umbrales con y sin protector; otro mide con micrófonos dentro y fuera del conducto auditivo.",
+    "El resultado se da como índice de atenuación personal y se compara con la protección que necesita ese ambiente.",
+    "Si el valor es demasiado bajo, se vuelve a enseñar la colocación o se prueba otro protector que se adapte mejor a ese oído."
+   ]
+  },
+  {
+   "id": "ozel",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Prueba de ajuste",
+   "baslik": "*Situaciones* especiales",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Doble protección",
+     "cumle": 0,
+     "metin": "Tapones más orejeras"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Tapones para músicos",
+     "cumle": 2,
+     "metin": "Atenuación plana"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Comunicación",
+     "cumle": 4,
+     "metin": "Protectores dependientes del nivel"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Pérdida auditiva",
+     "cumle": 5,
+     "metin": "Cuidado con la sobreprotección"
+    }
+   ],
+   "cumleler": [
+    "Con ruido muy intenso pueden usarse a la vez tapones y orejeras; esto se llama doble protección.",
+    "Sin embargo, los dos valores no se suman; la doble protección suele agregar solo unos pocos decibeles al mejor protector.",
+    "Los tapones para músicos dan una atenuación más plana entre frecuencias, así que distorsionan menos el timbre de la música.",
+    "Estos tapones pueden atenuar menos, así que la elección se sigue haciendo según el nivel de exposición.",
+    "En trabajos donde importa la comunicación, los protectores electrónicos dependientes del nivel dejan pasar el habla y limitan los ruidos fuertes súbitos.",
+    "En trabajadores con pérdida auditiva, la sobreprotección puede dificultar aún más oír las alarmas, así que la elección debe ser individual."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Pide al trabajador que se coloque el tapón mientras observas. Su voz debe oírse apagada y fuerte; si el tapón se sale al tirar del pabellón, la colocación es superficial.",
+   "cumleler": [
+    "Un consejo práctico: no coloquen ustedes el tapón; pidan al trabajador que se lo coloque y observen.",
+    "Con un tapón bien colocado, la persona oye su propia voz apagada y como desde adentro; es el efecto de oclusión.",
+    "Si su propia voz no cambia, o si la mayor parte del tapón se ve desde afuera, lo más probable es que la colocación sea superficial.",
+    "Esta simple observación permite detectar el error más común incluso donde no hay prueba de ajuste disponible."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Protector personal: la última defensa",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "NRR y SNR son valores de laboratorio",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "En uso real, la protección baja mucho",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "La prueba de ajuste mide la protección real",
+     "cumle": 3,
+     "ikon": "odyometre"
+    }
+   ],
+   "cumleler": [
+    "Los protectores personales son la última línea de defensa, después de las medidas que reducen el ruido en su fuente y en su trayecto.",
+    {
+     "yazi": "Los valores de etiqueta como el NRR y el SNR se miden en el laboratorio y no pueden trasladarse directamente al uso real."
+    },
+    "La colocación superficial, la talla incorrecta y quitarse el protector de vez en cuando pueden dejar la protección real muy por debajo de la etiqueta.",
+    "La prueba de ajuste individual mide la protección en el propio oído de la persona y, junto con la capacitación, es el enfoque más confiable."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Un protector de 30 dB que se quita 1 de 8 horas, ¿cuánto protege?",
+   "secenekler": [
+    "Unos 26 dB",
+    "Unos 9 dB",
+    "Unos 20 dB",
+    "No cambia"
+   ],
+   "dogru": 1,
+   "aciklama": "Por la igual energía, incluso un tiempo breve sin protector define la dosis: _unos 9 dB_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si un protector con etiqueta de 30 decibeles se quita una hora en una jornada de ocho horas, ¿cuánto protege en realidad?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: unos 9 decibeles.",
+    "Una hora sin protección aporta la mayor parte de la dosis del día, así que usar el protector todo el tiempo importa más que un valor de etiqueta alto."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Audiometría laboral y *desplazamiento del umbral*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos el audiograma basal en el trabajo, las pruebas periódicas y el cambio estándar del umbral.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

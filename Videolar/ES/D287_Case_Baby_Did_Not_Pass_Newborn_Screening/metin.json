@@ -1,0 +1,1345 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D287_Case_Baby_Did_Not_Pass_Newborn_Screening_ES",
+ "kapak": {
+  "ust": "LECCIÓN 287",
+  "baslik": "Caso: un bebé que<br>*no pasó*",
+  "alt": "PEATC diagnóstico y comunicación con la familia",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "Caso: un bebé que no pasó el tamizaje neonatal | Lección 287 | AIHEAR Academia de Audiología",
+  "aciklama": "En un caso ficticio de un lactante seguimos el proceso desde un resultado \"no pasa\" en el tamizaje auditivo neonatal hasta la adaptación de audífonos: tamizaje en dos etapas, las metas 1-3-6 del JCIH, timpanometría con tono de sonda de 1000 Hz, otoemisiones acústicas de productos de distorsión, PEATC con clic en dos polaridades, estimación de umbrales con PEATC por tone burst, la comunicación del resultado a la familia y el momento de la amplificación.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Joint Committee on Infant Hearing, Year 2019 Position Statement; American Academy of Audiology, Clinical Guidelines on Pediatric Amplification (2013); NHSP y BSA, Guidelines for the Early Audiological Assessment and Management of Babies Referred from the Newborn Hearing Screening Programme; Hall, eHandbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "tamizajeauditivoneonatal",
+   "casoclinico"
+  ],
+  "etiketler": [
+   "tamizaje auditivo neonatal",
+   "resultado no pasa",
+   "PEATC diagnóstico",
+   "timpanometría 1000 Hz",
+   "JCIH 1-3-6",
+   "amplificación temprana",
+   "PEATC tone burst",
+   "comunicar el diagnóstico a la familia",
+   "audiología pediátrica",
+   "caso clínico de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 287",
+   "baslik": "Caso: un bebé que *no pasó*",
+   "alt": "PEATC diagnóstico, comunicación con la familia y momento de la amplificación",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección comenzamos los casos pediátricos: seguimos a un bebé que no pasó el tamizaje desde el centro de diagnóstico hasta los audífonos.",
+    {
+     "yazi": "Veremos los potenciales evocados auditivos de tronco cerebral (PEATC), la timpanometría con mil hertz, cómo informar a la familia y cuándo amplificar."
+    }
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis y tamizaje",
+   "baslik": "Caso de ejemplo: *anamnesis*",
+   "maddeler": [
+    {
+     "metin": "Un bebé de ejemplo, a término",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Sala de recién nacidos sanos, parto sin complicaciones",
+     "cumle": 1,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Sin _indicadores de riesgo_ conocidos",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Sin antecedentes familiares de pérdida auditiva",
+     "cumle": 3,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Madre: parece sobresaltarse con el sonido",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Nacimiento",
+      "metin": "Treinta y nueve semanas",
+      "cumle": 0
+     },
+     {
+      "ikon": "hastane",
+      "baslik": "Unidad",
+      "metin": "Recién nacidos sanos",
+      "cumle": 1
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Riesgo",
+      "metin": "Sin indicadores conocidos",
+      "cumle": 2
+     }
+    ],
+    "ust": "ANAMNESIS"
+   },
+   "cumleler": [
+    "Nuestro caso es totalmente ficticio: un bebé nacido sano y a término, a las treinta y nueve semanas.",
+    "El parto fue sin complicaciones; el bebé no estuvo en la unidad de cuidados intensivos neonatales y se atendió en la sala de recién nacidos sanos.",
+    "No hay ningún indicador de riesgo conocido, como hiperbilirrubinemia, infección o una anomalía craneofacial o del oído.",
+    "Tampoco hay antecedentes familiares de pérdida auditiva de inicio en la infancia.",
+    "La madre cuenta que el bebé se sobresalta cuando se cierra una puerta de golpe, así que cree que oye bien.",
+    "Sin embargo, sobresaltarse con sonidos fuertes no descarta una pérdida leve o moderada.",
+    "Además, cerca de la mitad de los bebés con pérdida auditiva congénita no tiene ningún factor de riesgo conocido; por eso el tamizaje es universal."
+   ]
+  },
+  {
+   "id": "tarama",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis y tamizaje",
+   "baslik": "Del tamizaje al *diagnóstico*",
+   "adimlar": [
+    {
+     "ikon": "tarama",
+     "baslik": "OEA",
+     "metin": "Día dos: no pasa en ambos oídos",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "PEATC-A",
+     "metin": "Antes del alta: no pasa",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Cita",
+     "metin": "Antes de salir del hospital",
+     "cumle": 3
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Recordatorio",
+     "metin": "Dos números de contacto",
+     "cumle": 4
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Centro de diagnóstico",
+     "metin": "A las cuatro semanas",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El hospital usa un protocolo en dos etapas: el primer tamizaje se hace con otoemisiones acústicas, u OEA.",
+    "En el segundo día, el bebé no pasó el tamizaje con OEA en ninguno de los dos oídos.",
+    "Antes del alta se hicieron potenciales evocados auditivos de tronco cerebral automatizados, o PEATC-A, y el bebé tampoco pasó en ningún oído.",
+    "Un bebé que tampoco pasa los PEATC-A va directamente a la evaluación diagnóstica; la cita se dio antes de que la familia saliera del hospital.",
+    "Se registraron dos números de teléfono distintos de la familia y se hizo un recordatorio antes de la cita.",
+    "A las cuatro semanas de vida, el bebé llega a una unidad de audiología con experiencia en niños."
+   ]
+  },
+  {
+   "id": "hedef",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis y tamizaje",
+   "baslik": "Las metas 1-3-*6*",
+   "ogeler": [
+    {
+     "ikon": "tarama",
+     "baslik": "Un mes",
+     "metin": "Tamizaje completo",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Tres meses",
+     "metin": "Diagnóstico hecho",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Seis meses",
+     "metin": "Inicio de la intervención",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Este bebé",
+     "metin": "Diagnóstico a las cuatro semanas",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El Comité Conjunto de Audición Infantil, o JCIH, recomienda que el tamizaje se complete antes del final del primer mes.",
+    "El diagnóstico debe hacerse antes del final del tercer mes; para los programas que ya cumplen esta meta, se recomiendan dos meses.",
+    "La intervención temprana debe comenzar a más tardar al final del sexto mes.",
+    "En nuestro caso, la evaluación diagnóstica se hace a las cuatro semanas; así que vamos muy por delante de la meta."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Evaluación diagnóstica",
+   "baslik": "*Preparar* la cita",
+   "maddeler": [
+    {
+     "metin": "Sueño natural, sin sedación",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Citar según los horarios de alimentación",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Traer al bebé cansado y con hambre",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Sesión larga: cerca de dos horas",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Búsqueda de la causa: médico",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Sueño natural",
+      "metin": "Registro sin sedación",
+      "cumle": 0
+     },
+     {
+      "ikon": "saat",
+      "baslik": "Horario",
+      "metin": "Según la alimentación",
+      "cumle": 1
+     },
+     {
+      "ikon": "hekim",
+      "baslik": "Médico",
+      "metin": "Búsqueda de la causa",
+      "cumle": 4
+     }
+    ],
+    "ust": "PLAN"
+   },
+   "cumleler": [
+    "En los primeros meses, los PEATC diagnósticos suelen poder hacerse en sueño natural, sin sedación.",
+    "La cita se fija según los horarios habituales de alimentación y sueño del bebé.",
+    "Se pide a la familia que traiga al bebé un poco cansado y con hambre, y que lo alimente en la clínica.",
+    "Se les avisa con anticipación que la sesión puede ser larga y que, si hace falta, se dará una segunda cita.",
+    "También se planifica sin demora la evaluación médica; la prueba de citomegalovirus congénito debe hacerse en las primeras tres semanas de vida."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Evaluación diagnóstica",
+   "baslik": "La *batería* diagnóstica",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Anamnesis, otoscopia",
+     "metin": "¿Conducto libre?",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometría",
+     "metin": "Tono de sonda de 1000 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "OEA",
+     "metin": "Células ciliadas externas",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "PEATC con clic",
+     "metin": "Dos polaridades, nivel alto",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "PEATC tone burst",
+     "metin": "Umbral por frecuencia",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La sesión empieza con una anamnesis detallada y otoscopia; el vérnix que queda en el conducto auditivo puede afectar muchas pruebas.",
+    "En los bebés menores de seis meses, el oído medio se evalúa con un tono de sonda de mil hertz.",
+    "Las OEA muestran la función de las células ciliadas externas y se interpretan junto con los PEATC.",
+    "Los PEATC con clic a nivel alto, en dos polaridades, evalúan la integridad de la vía neural y la posibilidad de una neuropatía auditiva.",
+    "Los PEATC con tone burst, específicos por frecuencia, son la base para estimar el umbral de cada oído; si hace falta, se agregan PEATC por vía ósea.",
+    "El orden puede variar según el centro; lo importante es obtener la información más crítica antes de que el bebé se despierte."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Evaluación diagnóstica",
+   "baslik": "Un *pico positivo* con 1000 Hz",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Presión (daPa)"
+    },
+    "y": {
+     "min": 0.4,
+     "max": 1.6,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Admitancia (mmho)"
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "noktalar": [
+       [
+        -400,
+        0.7
+       ],
+       [
+        -300,
+        0.75
+       ],
+       [
+        -200,
+        0.82
+       ],
+       [
+        -150,
+        0.9
+       ],
+       [
+        -100,
+        1.05
+       ],
+       [
+        -60,
+        1.25
+       ],
+       [
+        -30,
+        1.38
+       ],
+       [
+        0,
+        1.4
+       ],
+       [
+        30,
+        1.32
+       ],
+       [
+        60,
+        1.15
+       ],
+       [
+        100,
+        1.0
+       ],
+       [
+        150,
+        0.95
+       ],
+       [
+        200,
+        0.93
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "derecho: pico positivo",
+      "etiket_konum": [
+       40,
+       1.45
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        -400,
+        0.68
+       ],
+       [
+        -300,
+        0.73
+       ],
+       [
+        -200,
+        0.8
+       ],
+       [
+        -150,
+        0.88
+       ],
+       [
+        -100,
+        1.02
+       ],
+       [
+        -60,
+        1.21
+       ],
+       [
+        -30,
+        1.33
+       ],
+       [
+        0,
+        1.35
+       ],
+       [
+        30,
+        1.27
+       ],
+       [
+        60,
+        1.11
+       ],
+       [
+        100,
+        0.97
+       ],
+       [
+        150,
+        0.92
+       ],
+       [
+        200,
+        0.9
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "izquierdo: pico positivo",
+      "etiket_konum": [
+       -330,
+       1.1
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "taban",
+      "noktalar": [
+       [
+        -400,
+        0.7
+       ],
+       [
+        200,
+        0.93
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "línea de base",
+      "etiket_konum": [
+       -330,
+       0.6
+      ],
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Tono de sonda: _1000 Hz_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Ambos oídos: _pico positivo_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sin sospecha de problema de oído medio",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Miramos primero el oído medio; la medición se hace con un tono de sonda de mil hertz.",
+    "En el oído derecho hay un pico que se eleva claramente por encima de la línea de base que une los dos extremos de la curva.",
+    "El oído izquierdo muestra un pico positivo similar.",
+    "Este patrón es compatible con una función normal del oído medio en ambos oídos.",
+    {
+     "yazi": "A esta edad no se usa sola una medición con doscientos veintiséis hertz, porque puede mostrar un pico incluso cuando hay líquido."
+    }
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Evaluación diagnóstica",
+   "baslik": "OEA: *ausentes* en ambos oídos",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1000,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia F2 (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 30,
+     "adim": 10,
+     "ad": "Nivel (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "gurultu",
+      "noktalar": [
+       [
+        1000,
+        -4
+       ],
+       [
+        1500,
+        -6
+       ],
+       [
+        2000,
+        -8
+       ],
+       [
+        3000,
+        -9
+       ],
+       [
+        4000,
+        -10
+       ],
+       [
+        6000,
+        -9
+       ]
+      ],
+      "renk": "gri",
+      "dolgu": true,
+      "etiket": "piso de ruido",
+      "cumle": 1
+     },
+     {
+      "ad": "sag_dp",
+      "noktalar": [
+       [
+        1000,
+        -5
+       ],
+       [
+        1500,
+        -6
+       ],
+       [
+        2000,
+        -9
+       ],
+       [
+        3000,
+        -8
+       ],
+       [
+        4000,
+        -11
+       ],
+       [
+        6000,
+        -10
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "derecho",
+      "cumle": 2
+     },
+     {
+      "ad": "sol_dp",
+      "noktalar": [
+       [
+        1000,
+        -3
+       ],
+       [
+        1500,
+        -7
+       ],
+       [
+        2000,
+        -7
+       ],
+       [
+        3000,
+        -10
+       ],
+       [
+        4000,
+        -9
+       ],
+       [
+        6000,
+        -8
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "izquierdo",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "beklenen",
+      "y": [
+       5,
+       25
+      ],
+      "renk": "sari",
+      "etiket": "región de respuesta esperada (ejemplo)",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Emisiones: _al nivel del ruido_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Oído medio normal, sin OEA",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "A continuación se registran las otoemisiones acústicas de productos de distorsión, u OEAPD.",
+    "La región gris muestra el piso de ruido en cada frecuencia.",
+    "Las mediciones del oído derecho quedan dentro del piso de ruido; no hay ninguna emisión significativa.",
+    "Lo mismo ocurre en el oído izquierdo.",
+    "La región amarilla muestra un nivel de ejemplo en el que se esperaría una respuesta en un bebé con audición normal.",
+    "La ausencia de OEA con un oído medio normal sugiere que la función de las células ciliadas externas de la cóclea está afectada.",
+    "Pero las OEA no evalúan el nervio auditivo, ni nos dicen el grado de la pérdida auditiva."
+   ]
+  },
+  {
+   "id": "klik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Evaluación diagnóstica",
+   "baslik": "PEATC con clic: *onda V* presente",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0.2
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "Onda V",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_I",
+     "metin": "Onda I",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Clic: _ochenta dB nHL_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_No se invierte_ con la polaridad",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Sin_ hallazgos de TENA",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Cuando el bebé se duerme, se registran los PEATC con clic a nivel alto, ochenta decibeles nHL.",
+    "La onda V se ve de forma reproducible en ambos oídos; las ondas I y III son más pequeñas, pero pueden identificarse.",
+    "La latencia de la onda V está cerca del límite superior esperado para la edad; esto puede verse a niveles altos en la pérdida coclear.",
+    "Cuando se registra por separado con polaridad de condensación y de rarefacción, las ondas no se invierten.",
+    "No hay un microfónico coclear grande que siga la forma de onda del estímulo y se invierta con la polaridad.",
+    "Así que hay respuesta neural; el cuadro no corresponde a un trastorno del espectro de la neuropatía auditiva, o TENA."
+   ]
+  },
+  {
+   "id": "esik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Evaluación diagnóstica",
+   "baslik": "PEATC tone burst: umbrales *estimados*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 500,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      4000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 20,
+     "ad": "Umbral estimado (dB eHL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "noktalar": [
+       [
+        500,
+        50
+       ],
+       [
+        1000,
+        55
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        4000,
+        65
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "derecho (eHL)",
+      "cumle": 3
+     },
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        500,
+        45
+       ],
+       [
+        1000,
+        50
+       ],
+       [
+        2000,
+        55
+       ],
+       [
+        4000,
+        60
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "izquierdo (eHL)",
+      "cumle": 4,
+      "kesik": true
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "normal",
+      "y": [
+       -10,
+       25
+      ],
+      "renk": "yesil",
+      "etiket": "normal",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Primero _2000 Hz_, luego 500",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Umbral estimado, _no exacto_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Vía ósea: neurosensorial",
+     "cumle": 6,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Para estimar los umbrales, se evalúan los PEATC con tone burst en quinientos, mil, dos mil y cuatro mil hertz en cada oído.",
+    "Para obtener la mayor información antes de que el bebé despertara, se hizo primero dos mil hertz en ambos oídos y luego quinientos hertz.",
+    "Los umbrales en nHL obtenidos se convierten con correcciones específicas por frecuencia en nivel de audición estimado, o eHL.",
+    "En el oído derecho, los umbrales estimados están entre cincuenta y sesenta y cinco decibeles, con una ligera caída hacia las frecuencias agudas.",
+    "En el oído izquierdo, los umbrales están entre cuarenta y cinco y sesenta decibeles; los dos oídos son similares.",
+    "En los PEATC por vía ósea no hubo respuesta ni siquiera al nivel más alto que podía entregar el vibrador óseo.",
+    "Junto con un timpanograma normal con mil hertz, este hallazgo apoya una pérdida neurosensorial."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Interpretación y familia",
+   "baslik": "*Integrar* los hallazgos",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Oído medio",
+     "metin": "Pico con 1000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "OEA",
+     "metin": "Ausentes en ambos oídos",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "PEATC con clic",
+     "metin": "Respuesta neural presente",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Umbrales",
+     "metin": "Moderados, ambos oídos",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Resultado",
+     "metin": "Al médico y a la familia",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Integremos los hallazgos en orden: el oído medio funciona normalmente en ambos lados.",
+    "La ausencia de OEA concuerda con un problema coclear que afecta a las células ciliadas externas.",
+    "Los PEATC con clic muestran ondas neurales y ningún microfónico coclear grande; esto no sugiere un problema neural.",
+    "Los umbrales estimados muestran una pérdida moderada en ambos oídos.",
+    "Estos hallazgos son compatibles con una pérdida neurosensorial moderada bilateral; el médico dirige el diagnóstico y la búsqueda de la causa.",
+    "Como las pruebas se confirman entre sí, estamos listos para comunicar el resultado a la familia."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Interpretación y familia",
+   "baslik": "Comunicar el resultado a la *familia*",
+   "maddeler": [
+    {
+     "metin": "Una sala tranquila y privada, sin prisa",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Decir el resultado de forma clara y sencilla",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Dejar silencios, aceptar las emociones",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Dos o tres mensajes clave, por escrito",
+     "cumle": 4,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Comprobar con el _método teach-back_",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "cumle": 3,
+    "ayar": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        null,
+        50,
+        55,
+        60,
+        65,
+        null
+       ]
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        null,
+        45,
+        50,
+        55,
+        60,
+        null
+       ]
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "La conversación se hace en una sala tranquila y privada, en un momento en que puedan estar presentes ambos padres.",
+    "El resultado se dice sin una larga introducción: en las pruebas encontramos una pérdida auditiva en los dos oídos de su bebé.",
+    "La conversación no sigue justo después de esta frase; se deja un breve silencio para que la familia reaccione.",
+    "Cuando la familia está lista, un recurso visual como la banana del habla muestra qué sonidos del habla puede no oír el bebé sin audífonos.",
+    "En el primer encuentro bastan dos o tres mensajes clave: hay una pérdida auditiva, se puede hacer mucho y el próximo paso es en tal fecha.",
+    "Se pide a la familia que diga con sus propias palabras qué recordará de hoy; esto se llama método teach-back."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Un bebé que se sobresalta con una puerta puede tener una pérdida moderada. Explíquenlo a la familia con un ejemplo; reciban la negación sin culpar.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: las familias a menudo cuestionan el resultado diciendo que el bebé se sobresalta con los sonidos fuertes.",
+    "Esta objeción puede ser una forma de negación; en lugar de corregir a la familia, valoren su observación.",
+    "Expliquen que sonidos como un portazo pueden oírse incluso con una pérdida moderada, pero que los sonidos suaves del habla pueden perderse.",
+    "En el mismo encuentro, entreguen por escrito a quién pueden llamar si tienen preguntas y la próxima cita."
+   ]
+  },
+  {
+   "id": "yonlendir",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Interpretación y familia",
+   "baslik": "Derivaciones *después* del diagnóstico",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Médico",
+     "metin": "ORL y pediatra",
+     "cumle": 0
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genética",
+     "metin": "Opción de asesoramiento",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Examen ocular",
+     "metin": "Por indicación médica",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Intervención temprana",
+     "metin": "Programa centrado en la familia",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Los resultados se envían por escrito al médico del bebé; la causa de la pérdida se investiga con la evaluación otorrinolaringológica y pediátrica.",
+    "Por indicación médica, pueden planificarse una evaluación genética y un asesoramiento genético para la familia.",
+    "Como algunos síndromes asociados a pérdida auditiva también tienen hallazgos oculares, puede solicitarse un examen oftalmológico.",
+    "Se presenta a la familia un programa de intervención temprana centrado en la familia que apoya el desarrollo del lenguaje y la comunicación.",
+    "También se actualiza con el diagnóstico la base de datos del programa de tamizaje, para que el bebé no se pierda en el seguimiento."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Audífonos y seguimiento",
+   "baslik": "*Momento* de los audífonos",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Diagnóstico",
+     "metin": "Semana cuatro",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Decisión de la familia",
+     "metin": "Se explican las opciones",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Molde y RECD",
+     "metin": "Medición en su oído",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Adaptación",
+     "metin": "En aproximadamente un mes",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Intervención temprana",
+     "metin": "Antes de los seis meses",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Un diagnóstico a las cuatro semanas es una oportunidad para adelantar también la adaptación de audífonos.",
+    "La familia conoce las opciones, las expectativas y la importancia de usar los audífonos durante todas las horas de vigilia; la decisión es suya.",
+    "Se toma una impresión para el molde auricular y, si es posible, se mide en el oído del bebé la diferencia oído real-acoplador, o RECD.",
+    "Si la familia elige audífonos, el JCIH recomienda adaptarlos en aproximadamente un mes desde el diagnóstico; para este bebé, hacia el segundo mes.",
+    "El equipo se ajusta a partir de los umbrales estimados con una prescripción validada, como Desired Sensation Level o NAL, y se verifica en el oído.",
+    "El programa de intervención temprana también comienza antes de los seis meses, idealmente al mismo tiempo que los audífonos."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Audífonos y seguimiento",
+   "baslik": "Seguimiento y *verificación*",
+   "maddeler": [
+    {
+     "metin": "Umbrales con VRA a los siete meses",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Comparar con la estimación por PEATC",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Registro de datos y observaciones familiares",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "RECD y moldes según crece el oído",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Seguimiento regular por pérdida progresiva",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 1,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        null,
+        50,
+        55,
+        60,
+        65,
+        null
+       ],
+       "cumle": 1
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        null,
+        45,
+        50,
+        55,
+        60,
+        null
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Cuando el bebé está listo según su desarrollo, a los siete meses en nuestro ejemplo, se hace audiometría por refuerzo visual, o VRA.",
+    "Con auriculares de inserción, los umbrales son de cincuenta a sesenta y cinco en el derecho y de cuarenta y cinco a sesenta decibeles HL en el izquierdo.",
+    "Estos valores coinciden con las estimaciones por PEATC; esta concordancia aumenta la confianza en el ajuste de los audífonos.",
+    "En cada control se revisan juntos el registro de datos del equipo y las observaciones diarias de la familia.",
+    "A medida que crece el conducto auditivo, se vuelve a medir la RECD y se rehacen los moldes.",
+    "Como la pérdida puede progresar con el tiempo, se planifica un seguimiento audiológico regular durante los primeros años."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Audífonos y seguimiento",
+   "baslik": "Ejemplo de *redacción* del informe",
+   "maddeler": [
+    {
+     "metin": "Timpanometría 1000 Hz: pico en ambos oídos",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "OEAPD: ausentes en ambos oídos",
+     "cumle": 1,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "PEATC con clic: onda V presente, sin MC",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Umbrales estimados: moderados",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Plan: médico, intervención temprana, audífonos",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 3,
+    "ayar": {
+     "x": {
+      "min": 500,
+      "max": 4000,
+      "log": true,
+      "hz": true,
+      "ad": "Frecuencia (Hz)",
+      "isaretler": [
+       500,
+       1000,
+       2000,
+       4000
+      ]
+     },
+     "y": {
+      "min": -10,
+      "max": 100,
+      "adim": 20,
+      "ad": "Umbral estimado (dB eHL)",
+      "ters": true
+     },
+     "seriler": [
+      {
+       "ad": "sag",
+       "noktalar": [
+        [
+         500,
+         50
+        ],
+        [
+         1000,
+         55
+        ],
+        [
+         2000,
+         60
+        ],
+        [
+         4000,
+         65
+        ]
+       ],
+       "renk": "kirmizi",
+       "isaretli": true,
+       "etiket": "derecho (eHL)",
+       "cumle": 3
+      },
+      {
+       "ad": "sol",
+       "noktalar": [
+        [
+         500,
+         45
+        ],
+        [
+         1000,
+         50
+        ],
+        [
+         2000,
+         55
+        ],
+        [
+         4000,
+         60
+        ]
+       ],
+       "renk": "mavi",
+       "isaretli": true,
+       "etiket": "izquierdo (eHL)",
+       "cumle": 3,
+       "kesik": true
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Un ejemplo de redacción podría ser: con tono de sonda de mil hertz se obtuvieron timpanogramas con pico positivo en ambos oídos.",
+    "No se registraron OEAPD por encima del piso de ruido en las frecuencias evaluadas en ninguno de los oídos.",
+    "PEATC con clic a ochenta decibeles nHL en dos polaridades; onda V presente en ambos oídos, sin microfónico coclear claro.",
+    "Umbrales estimados con PEATC por tone burst: de cincuenta a sesenta y cinco a la derecha y de cuarenta y cinco a sesenta decibeles eHL a la izquierda.",
+    "Hallazgos compatibles con pérdida neurosensorial moderada bilateral; se planifican revisión médica, intervención temprana y audífonos."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "No pasa PEATC-A: directo a diagnóstico",
+     "cumle": 0,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Timpanometría 1000 Hz, OEA, PEATC en dos polaridades",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Resultados claros, sencillos y por escrito",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Audífonos cerca de un mes tras el diagnóstico",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "Un bebé que no pasó el tamizaje se deriva sin demora a la evaluación diagnóstica, con la cita dada antes de salir del hospital.",
+    {
+     "yazi": "La batería diagnóstica es timpanometría con mil hertz, OEA, PEATC con clic en dos polaridades y PEATC con tone burst específicos por frecuencia."
+    },
+    "El resultado se comunica a la familia en un ambiente tranquilo, con lenguaje sencillo, dejando espacio a las emociones y con una nota escrita.",
+    "Si la familia lo elige, los audífonos se adaptan en un mes aproximadamente tras el diagnóstico; la intervención temprana empieza antes de los seis meses."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué tono de sonda para el oído medio a las cuatro semanas?",
+   "secenekler": [
+    "226 Hz",
+    "1000 Hz",
+    "678 Hz",
+    "No hace falta tono de sonda"
+   ],
+   "dogru": 1,
+   "aciklama": "En bebés menores de seis meses se usa un tono de sonda de _1000 Hz_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en un bebé de cuatro semanas, ¿qué tono de sonda se usa para evaluar el oído medio?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: mil hertz.",
+    "A esta edad, un timpanograma con doscientos veintiséis hertz puede verse con pico y normal aunque haya líquido en el oído medio."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Caso: OEA presentes y PEATC *ausentes*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En el próximo caso veremos a un bebé con OEA pero sin PEATC registrables, y hablaremos de la neuropatía auditiva.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

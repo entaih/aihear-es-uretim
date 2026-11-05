@@ -1,0 +1,810 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D247_CI_Outcomes_Troubleshooting_ES",
+ "kapak": {
+  "ust": "LECCIÓN 247",
+  "baslik": "Resultados y<br>*solución de fallas*",
+  "alt": "Fallas, prueba de integridad, seguridad en RM",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "Resultados del implante coclear y solución de fallas | Lección 247 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Por qué a algunas personas les va muy bien con el implante coclear y otras obtienen un beneficio limitado, y qué hacemos cuando el rendimiento baja? En esta lección vemos los factores que influyen en el resultado, los problemas de la unidad externa y de la unidad interna, las fallas totales y parciales, la prueba de integridad, la fiabilidad del dispositivo y la seguridad en resonancia magnética.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Blamey et al. (2013), Factors affecting auditory performance of postlinguistically deaf adults using cochlear implants: an update with 2251 patients, Audiology and Neurotology; Balkany et al. (2005), Cochlear implant soft failures consensus development conference statement, Otology and Neurotology; Battmer et al. (2010), International classification of reliability for implanted cochlear implant receiver stimulators, Otology and Neurotology; Wolfe, Cochlear Implants.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "implantecoclear",
+   "audicion"
+  ],
+  "etiketler": [
+   "resultados del implante coclear",
+   "falla del dispositivo",
+   "prueba de integridad",
+   "falla parcial",
+   "falla total",
+   "implante coclear y resonancia magnética",
+   "imán del implante coclear",
+   "impedancia de electrodos",
+   "solución de problemas",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 247",
+   "baslik": "Resultados y *solución de fallas*",
+   "alt": "Fallas, prueba de integridad, seguridad en RM",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos los factores que influyen en el rendimiento después del implante y los pasos a seguir cuando el rendimiento baja.",
+    "Hablaremos de los problemas de la unidad externa e interna, la falla del dispositivo, la prueba de integridad y la seguridad en resonancia magnética, o RM."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Qué influye en el rendimiento",
+   "baslik": "Factores que *definen el resultado*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Duración de la sordera",
+     "cumle": 1,
+     "metin": "Más larga, quizá menos beneficio"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Edad al implante",
+     "cumle": 3,
+     "metin": "En niños, cuanto antes mejor"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Anatomía y nervio",
+     "cumle": 4,
+     "metin": "Cóclea, nervio, electrodo"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Uso y apoyo",
+     "cumle": 5,
+     "metin": "Uso regular, entrenamiento"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Cognición",
+     "cumle": 6,
+     "metin": "Atención y memoria"
+    }
+   ],
+   "cumleler": [
+    "Los resultados del implante varían muchísimo entre personas; parte de esta variabilidad se explica por factores conocidos.",
+    {
+     "yazi": "En el estudio de Blamey y colaboradores de 2013, con 2251 adultos, la duración de la pérdida severa fue de los factores que más influyeron en el resultado."
+    },
+    "En el mismo estudio, los resultados mejoraron con más experiencia con el implante; es decir, el progreso no se limita a los primeros meses.",
+    "En un niño con pérdida profunda congénita, la edad al implante es decisiva; en adultos con pérdida poslingual, los resultados suelen llegar más rápido.",
+    "Las anomalías cocleares, el estado del nervio coclear y la posición del electrodo en la cóclea también pueden limitar el resultado.",
+    "El uso durante todas las horas de vigilia, la rehabilitación regular y el apoyo de la familia o del entorno influyen claramente en el resultado.",
+    "En los adultos mayores, el estado cognitivo también puede influir; aun así, la edad avanzada por sí sola no impide el beneficio."
+   ]
+  },
+  {
+   "id": "elektrot_yeri",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Qué influye en el rendimiento",
+   "baslik": "La *posición* del electrodo importa",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_tympani",
+     "metin": "objetivo: rampa timpánica",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "membrana basilar",
+     "cumle": 2
+    },
+    {
+     "parca": "scala_vestibuli",
+     "metin": "rampa vestibular",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "metin": "ganglio espiral",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "scala_tympani",
+     "cumle": 1
+    },
+    {
+     "parca": "scala_vestibuli",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 4
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "scala_tympani",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Las imágenes posoperatorias dan información importante sobre dónde se encuentra la guía de electrodos dentro de la cóclea.",
+    "El objetivo de la guía de electrodos es la rampa timpánica.",
+    "Si la guía perfora la membrana basilar y pasa a la rampa vestibular, se habla de traslocación; se ha asociado con peores resultados.",
+    "El plegamiento de la punta de la guía, o su extrusión parcial fuera de la cóclea, también pueden reducir el rendimiento.",
+    "La distancia de los electrodos a las células del ganglio espiral y la profundidad de inserción influyen en los niveles y en la discriminación entre canales.",
+    "Por eso, cuando el rendimiento es menor de lo esperado, volver a revisar las imágenes forma parte de la solución de problemas."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Solución de problemas",
+   "baslik": "La *ruta* de solución de problemas",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Queja",
+     "cumle": 0,
+     "metin": "¿Qué y cuándo?"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Unidad externa",
+     "cumle": 1,
+     "metin": "Cambiar por repuestos"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Mapa",
+     "cumle": 2,
+     "metin": "Impedancias y niveles"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Prueba de integridad",
+     "cumle": 3,
+     "metin": "Con el fabricante"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Decisión del equipo",
+     "cumle": 4,
+     "metin": "Cirugía si es necesaria"
+    }
+   ],
+   "cumleler": [
+    "Cuando se informa un problema, primero se toma una historia detallada: ¿qué cambió, cuándo empezó, es constante o intermitente?",
+    "El primer paso es revisar la unidad externa, porque la mayoría de los problemas provienen de sus piezas.",
+    "Si la unidad externa está bien, se miden las impedancias por telemetría, se revisan los niveles y se actualiza el mapa.",
+    "Si el problema persiste y se sospecha de la unidad interna, se planifica una prueba de integridad con el fabricante.",
+    "El equipo revisa los resultados; si es necesario, se toma la decisión quirúrgica de reemplazar la unidad interna.",
+    "Los hallazgos se registran en cada paso; estos registros se necesitan tanto para la decisión como para el informe al fabricante."
+   ]
+  },
+  {
+   "id": "dis_unite",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Solución de problemas",
+   "baslik": "*Problemas frecuentes* de la unidad externa",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Batería",
+     "cumle": 0,
+     "metin": "Descargada o débil"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Cable",
+     "cumle": 1,
+     "metin": "Roto o flojo"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Bobina, imán",
+     "cumle": 2,
+     "metin": "No se sostiene, sin enlace"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Micrófono",
+     "cumle": 3,
+     "metin": "Suciedad, humedad, desgaste"
+    }
+   ],
+   "cumleler": [
+    "Si la batería está descargada o débil, el procesador puede apagarse o el sonido puede ir y venir.",
+    "El cable entre el procesador y la bobina es una de las piezas que más fallan; un cable roto causa pérdidas intermitentes del sonido.",
+    "Si la bobina se apoya mal sobre la piel o el imán es débil, se pierde el enlace con la unidad interna; el procesador suele dar una alerta.",
+    "Los orificios del micrófono tapados por suciedad o humedad hacen que el sonido sea apagado y débil; los protectores se cambian con regularidad.",
+    "En la clínica, el método más rápido es encontrar el problema cambiando las piezas una por una por repuestos.",
+    "El micrófono puede revisarse escuchando con auriculares de monitoreo; los sonidos de Ling también sirven para el control diario de la persona.",
+    "Usar un recipiente deshumidificador y un cuidado regular previene buena parte de estos problemas."
+   ]
+  },
+  {
+   "id": "ic_unite",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Solución de problemas",
+   "baslik": "Cuándo *sospechar* de la unidad interna",
+   "maddeler": [
+    {
+     "metin": "Sin cambios con otra unidad externa",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Cambio brusco de las impedancias",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Dolor, zumbido, contracciones",
+     "cumle": 2,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Caída inexplicable del rendimiento",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "alici_uyarici",
+      "cumle": 0
+     },
+     {
+      "parca": "elektrot_dizisi",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "alici_uyarici",
+      "metin": "unidad interna",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Si el problema persiste aunque se hayan cambiado todas las piezas de la unidad externa, se sospecha de la unidad interna.",
+    "Un cambio brusco de las impedancias respecto de mediciones anteriores, o nuevos circuitos abiertos o cortocircuitos, sugiere un problema de la unidad interna.",
+    "La persona puede describir sensaciones nuevas e inexplicables, como dolor, zumbido, chasquidos o contracciones faciales.",
+    "A veces estos síntomas se relacionan solo con ciertos electrodos y desaparecen al desactivar esos electrodos.",
+    "Una caída inexplicable en las puntuaciones de habla de un usuario al que le fue bien durante mucho tiempo también es una señal de alerta importante.",
+    "Siempre hay que preguntar por golpes en la cabeza, como una caída o un impacto, porque son una causa frecuente de daño de la unidad interna."
+   ]
+  },
+  {
+   "id": "ariza",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Falla del dispositivo",
+   "baslik": "Falla total y *falla parcial*",
+   "ogeler": [
+    {
+     "ikon": "yanlis",
+     "baslik": "Falla total",
+     "cumle": 0,
+     "metin": "Sin enlace o prueba anormal"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Falla parcial",
+     "cumle": 2,
+     "metin": "Pruebas normales, con síntomas"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Exclusión",
+     "cumle": 4,
+     "metin": "Otras causas descartadas"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Reemplazo",
+     "cumle": 5,
+     "metin": "Decisión del equipo"
+    }
+   ],
+   "cumleler": [
+    "La falla del dispositivo tiene dos grupos; en la falla total, la unidad interna deja de funcionar, o la telemetría y la prueba de integridad son claramente anormales.",
+    "En este caso el diagnóstico es sencillo, y la unidad interna suele reemplazarse quirúrgicamente.",
+    "La falla parcial, en cambio, es una caída del rendimiento o la aparición de síntomas no auditivos mientras las pruebas parecen normales.",
+    {
+     "yazi": "Este concepto se definió en una conferencia de consenso en 2005."
+    },
+    "La falla parcial es un diagnóstico de exclusión; primero se descartan la unidad externa, el mapa, las causas médicas y la posición del electrodo.",
+    "Si los síntomas persisten y no se encuentra otra causa, el equipo puede decidir reemplazar la unidad interna.",
+    "Cuando el fabricante examina los dispositivos explantados, a veces se encuentra una falla real y a veces no."
+   ]
+  },
+  {
+   "id": "butunluk",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Falla del dispositivo",
+   "baslik": "La *prueba de integridad*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 12.5,
+     "ad": "Electrodo (ejemplo)",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Señal medida en el cuero cabelludo (relativa)"
+    },
+    "seriler": [
+     {
+      "ad": "beklenen",
+      "noktalar": [
+       [
+        1,
+        60
+       ],
+       [
+        2,
+        64
+       ],
+       [
+        3,
+        56
+       ],
+       [
+        4,
+        60
+       ],
+       [
+        5,
+        64
+       ],
+       [
+        6,
+        56
+       ],
+       [
+        7,
+        60
+       ],
+       [
+        8,
+        64
+       ],
+       [
+        9,
+        56
+       ],
+       [
+        10,
+        60
+       ],
+       [
+        11,
+        64
+       ],
+       [
+        12,
+        56
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "esperado",
+      "cumle": 2
+     },
+     {
+      "ad": "olculen",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        60
+       ],
+       [
+        2,
+        64
+       ],
+       [
+        3,
+        56
+       ],
+       [
+        4,
+        60
+       ],
+       [
+        5,
+        64
+       ],
+       [
+        6,
+        56
+       ],
+       [
+        7,
+        60
+       ],
+       [
+        8,
+        8
+       ],
+       [
+        9,
+        8
+       ],
+       [
+        10,
+        60
+       ],
+       [
+        11,
+        64
+       ],
+       [
+        12,
+        56
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sorun",
+      "x": 8.5,
+      "y": 8,
+      "etiket": "anormal",
+      "dolu": true,
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "sorun",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La prueba de integridad comprueba desde afuera si la unidad interna entrega realmente la corriente correcta a cada electrodo.",
+    "Se colocan electrodos de superficie en el cuero cabelludo, y el implante estimula cada electrodo por turno a un nivel bajo.",
+    "Se registra el pequeño rastro eléctrico de la estimulación que llega al cuero cabelludo y se compara con el patrón esperado.",
+    "En este ejemplo, la mayoría de los electrodos están en el nivel esperado.",
+    "Sin embargo, en los electrodos ocho y nueve casi no hay señal; esto puede indicar un problema de la unidad interna.",
+    "La prueba suele hacerse con el especialista del fabricante, y sus resultados se usan para la decisión quirúrgica."
+   ]
+  },
+  {
+   "id": "guvenilirlik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Falla del dispositivo",
+   "baslik": "*Fiabilidad* del dispositivo",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "ad": "Años después del implante",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10
+     ]
+    },
+    "y": {
+     "min": 90,
+     "max": 100,
+     "adim": 2,
+     "ad": "Dispositivos aún funcionando (%)"
+    },
+    "seriler": [
+     {
+      "ad": "sagkalim",
+      "noktalar": [
+       [
+        0,
+        100
+       ],
+       [
+        1,
+        99.6
+       ],
+       [
+        2,
+        99.3
+       ],
+       [
+        4,
+        98.8
+       ],
+       [
+        6,
+        98.2
+       ],
+       [
+        8,
+        97.6
+       ],
+       [
+        10,
+        97.0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 4,
+      "etiket": "curva esquemática",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Los fabricantes informan la fiabilidad de sus dispositivos como tasa de supervivencia acumulada, según un consenso internacional.",
+    "Esta curva esquemática muestra la proporción de dispositivos que siguen funcionando a medida que pasa el tiempo.",
+    "Las tasas a diez años informadas para las unidades internas actuales suelen superar el noventa y cinco por ciento; los valores varían según el modelo.",
+    "Por eso la falla es poco frecuente; pero en un dispositivo que se usa durante muchos años, siempre es una posibilidad.",
+    "Esto se explica a la persona y a la familia antes de la cirugía; sobre todo en los niños, se habla de la protección frente a los golpes en la cabeza."
+   ]
+  },
+  {
+   "id": "mr",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguridad en RM",
+   "baslik": "La RM y el *imán*",
+   "ogeler": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Imán",
+     "cumle": 0,
+     "metin": "Atraído en un campo intenso"
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Dolor, desplazamiento",
+     "cumle": 2,
+     "metin": "Posible pese al vendaje"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Sombra en la imagen",
+     "cumle": 6,
+     "metin": "Alrededor del implante"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Condiciones del fabricante",
+     "cumle": 7,
+     "metin": "Según el modelo"
+    }
+   ],
+   "cumleler": [
+    "El imán de la unidad interna es atraído y forzado a girar en el intenso campo magnético del equipo de RM.",
+    "Muchas unidades internas son compatibles con la RM en las condiciones que especifica el fabricante; esto se llama condicional para RM.",
+    "Con algunos modelos, el estudio con intensidades de campo más bajas puede hacerse con un vendaje firme alrededor de la cabeza.",
+    "Sin embargo, se han descrito dolor y desplazamiento del imán a pesar del vendaje; es una complicación poco frecuente pero grave.",
+    "Con algunos modelos, para intensidades de campo más altas, el imán se retira temporalmente mediante una cirugía menor.",
+    "Algunos diseños más nuevos reducen esta necesidad al permitir que el imán gire dentro de su propia carcasa.",
+    "El imán y la unidad interna crean una sombra en la imagen alrededor del implante, lo que puede dificultar la evaluación de esa zona del cerebro.",
+    "Como las reglas difieren según el modelo, las decisiones de seguridad en RM se basan siempre en las condiciones vigentes del fabricante."
+   ]
+  },
+  {
+   "id": "mr_akis",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguridad en RM",
+   "baslik": "Una *lista de control* antes de la RM",
+   "adimlar": [
+    {
+     "ikon": "rapor",
+     "baslik": "Tarjeta del implante",
+     "cumle": 0,
+     "metin": "Datos del modelo"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Condiciones",
+     "cumle": 1,
+     "metin": "Intensidad de campo, vendaje"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Equipo",
+     "cumle": 2,
+     "metin": "Radiología e implante"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Unidad externa",
+     "cumle": 3,
+     "metin": "Queda fuera de la sala"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Después",
+     "cumle": 4,
+     "metin": "Control de bobina y sonido"
+    }
+   ],
+   "cumleler": [
+    "A los usuarios de implante se les enseña a llevar siempre la tarjeta del implante, que indica el modelo de su dispositivo.",
+    "Cuando se planifica una RM, las condiciones de ese modelo, como la intensidad de campo y el vendaje, se verifican en los documentos vigentes del fabricante.",
+    "El equipo de radiología y el equipo de implantes deciden juntos; si es necesario, se considera otro método de imagen.",
+    "La unidad externa y el procesador nunca entran en la sala de RM.",
+    "Tras el estudio se revisan la sujeción de la bobina, la calidad del sonido y, si hace falta, las impedancias; se avisa al equipo si hay dolor o hinchazón.",
+    "Estos pasos se repiten en cada estudio para prevenir complicaciones poco frecuentes pero graves."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguridad en RM",
+   "baslik": "Otras *precauciones*",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "Electrocauterio",
+     "cumle": 0,
+     "metin": "Sin monopolar en cabeza y cuello"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Diatermia",
+     "cumle": 1,
+     "metin": "No se usa como tratamiento"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Electricidad estática",
+     "cumle": 2,
+     "metin": "Quitarse el procesador"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Golpes",
+     "cumle": 4,
+     "metin": "Casco y protección"
+    }
+   ],
+   "cumleler": [
+    "En la cirugía de cabeza y cuello, en general no se usa el electrocauterio monopolar, porque puede dañar la unidad interna.",
+    "Los métodos que calientan los tejidos, como la diatermia terapéutica, no deben usarse en personas con implante.",
+    "En lugares con mucha electricidad estática, como los toboganes de plástico, se recomienda quitarse el procesador.",
+    "Estas recomendaciones pueden variar según el fabricante; la persona y la familia deben tener una hoja informativa actualizada.",
+    "Usar casco en los deportes con riesgo de golpes en la cabeza reduce la probabilidad de dañar la unidad interna."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Antes de sospechar de la unidad interna cuando el rendimiento baja, cambien la unidad externa pieza por pieza y comparen con las impedancias anteriores. Registren los hallazgos.",
+   "cumleler": [
+    "Un consejo de la clínica: antes de sospechar de la unidad interna cuando el rendimiento baja, cambien las piezas externas una por una por repuestos.",
+    "Luego comparen las impedancias y los niveles actuales con los registros de las consultas anteriores.",
+    "Anoten la fecha en que la persona o la familia notó el problema, los síntomas acompañantes y los posibles golpes en la cabeza.",
+    "Llevar estos registros puede evitar una operación innecesaria y también permite reconocer sin demora una falla real."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Duración, edad, nervio y uso importan",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Revisar primero la unidad externa",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Falla total y parcial son distintas",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "RM: seguir las condiciones del fabricante",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La duración de la sordera, la edad al implante, el estado de cóclea y nervio, la posición del electrodo y el uso regular influyen claramente en el resultado.",
+    "En la solución de problemas, primero se revisa la unidad externa con repuestos y luego se revisan las impedancias y el mapa.",
+    "En la falla total las pruebas son claramente anormales; la falla parcial es un diagnóstico de exclusión con síntomas persistentes y pruebas normales.",
+    "La RM se realiza según las condiciones del fabricante para el modelo concreto de unidad interna y por decisión del equipo."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Pruebas normales y síntomas persistentes: ¿qué es?",
+   "secenekler": [
+    "Falla total",
+    "Falla parcial",
+    "Circuito abierto",
+    "Cortocircuito"
+   ],
+   "dogru": 1,
+   "aciklama": "La _falla parcial_ es un diagnóstico de exclusión que se hace tras descartar otras causas.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cómo se llama una caída del rendimiento con síntomas no auditivos que persisten aunque las pruebas sean normales?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: falla parcial.",
+    "La falla parcial es un diagnóstico de exclusión, que se hace después de descartar la unidad externa, el mapa y las causas médicas."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Implante* auditivo de tronco cerebral (ABI)",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos el implante auditivo de tronco cerebral, que se usa cuando no es posible un implante coclear.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

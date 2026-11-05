@@ -1,0 +1,882 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D192_RECD_In_Children_ES",
+ "kapak": {
+  "ust": "LECCIÓN 192",
+  "baslik": "RECD: el oído<br>*del niño*",
+  "alt": "La diferencia oído real-acoplador",
+  "cizim": "kulak_kesit",
+  "ayar": {
+   "insert": true
+  }
+ },
+ "youtube": {
+  "baslik": "Diferencia oído real-acoplador (RECD) en niños | Lección 192 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Por qué el mismo audífono produce un sonido más fuerte en el oído de un bebé? En esta lección vemos la diferencia oído real-acoplador (RECD), cómo se mide, los valores estimados según la edad y la medición simulada en oído real en el acoplador a partir de la RECD.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: American Academy of Audiology, Clinical Practice Guidelines: Pediatric Amplification (2013); Bagatto y cols. (2005), Clinical protocols for hearing instrument fitting in the Desired Sensation Level method, Trends in Amplification; Bagatto y cols. (2002), Journal of the American Academy of Audiology; Martin, Munro y Langer (1997), British Journal of Audiology; Dillon, Hearing Aids.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "RECD"
+  ],
+  "etiketler": [
+   "RECD",
+   "diferencia oído real-acoplador",
+   "RECD estimada",
+   "acoplador de 2 cc",
+   "adaptación pediátrica de audífonos",
+   "DSL v5",
+   "medición simulada en oído real",
+   "audiología pediátrica",
+   "volumen del conducto auditivo",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 192",
+   "baslik": "RECD: el oído *del niño*",
+   "alt": "La diferencia oído real-acoplador",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos por qué el mismo audífono produce un sonido mucho más fuerte en el oído de un bebé.",
+    "Hablaremos de la diferencia oído real-acoplador, o RECD, de cómo se mide y de los valores estimados según la edad."
+   ]
+  },
+  {
+   "id": "hacim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Oído pequeño, sonido fuerte",
+   "baslik": "Volumen pequeño, *presión alta*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "conducto corto y estrecho",
+     "cumle": 2
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "membrana timpánica",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Volumen pequeño, presión _alta_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Volumen muy pequeño en bebés",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Si se ignora, demasiado sonido",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La presión que genera un sonido en el conducto auditivo depende del tamaño del volumen en el que se entrega.",
+    "Cuando la misma cantidad de energía sonora entra en un volumen pequeño, genera una presión sonora mayor que en uno grande.",
+    "En los bebés, el conducto auditivo es más corto y más estrecho, y el volumen que queda delante del molde es muy pequeño.",
+    "Por eso, un mismo ajuste del audífono produce en el oído de un bebé un nivel sonoro notablemente mayor que en el de un adulto.",
+    "La diferencia es especialmente grande en las frecuencias agudas y varía de una persona a otra.",
+    "Una adaptación que ignora esta diferencia puede darle al niño más sonido del necesario, incluso un sonido molesto."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Oído pequeño, sonido fuerte",
+   "baslik": "¿*Por qué* se necesita la RECD?",
+   "maddeler": [
+    {
+     "metin": "Los niños no se quedan quietos mucho tiempo",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "La adaptación puede hacerse en el acoplador",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Umbrales convertidos a SPL en el conducto",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Objetivo y salida en una escala",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "rem_duzenegi",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "kulak_kanali",
+      "metin": "conducto auditivo pequeño",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kulak_kanali",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "En adultos, la salida se verifica directamente con la medición en oído real, pero un niño pequeño no se queda quieto durante una medición larga.",
+    "Además, trabajar mucho tiempo con un altavoz de medición frente a un bebé a menudo no es posible.",
+    "La solución es obtener con una medición breve una corrección para el oído del propio niño y hacer la adaptación en la caja de pruebas, en un acoplador.",
+    "La misma corrección se usa también para convertir los umbrales en dB HL obtenidos con auriculares de inserción a dB SPL en el conducto del niño.",
+    "Un acoplador es una pequeña cavidad de medición, de volumen estándar, que se usa para medir la salida de un audífono.",
+    "Así, el umbral, el objetivo prescriptivo y la salida del audífono pueden compararse en la misma pantalla, en la escala del propio conducto del niño."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Cómo se mide la RECD",
+   "baslik": "¿Qué es la *RECD?*",
+   "adimlar": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Medir en el acoplador",
+     "cumle": 1,
+     "metin": "Misma señal"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Medir en el oído",
+     "cumle": 2,
+     "metin": "Con tubo de sonda"
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Calcular la diferencia",
+     "cumle": 3,
+     "metin": "Oído menos acoplador"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "RECD",
+     "cumle": 4,
+     "metin": "En cada frecuencia"
+    }
+   ],
+   "cumleler": [
+    "La diferencia oído real-acoplador, o RECD, es la diferencia entre dos mediciones.",
+    {
+     "yazi": "Primero, se entrega un sonido con un auricular de inserción en un acoplador estándar de 2 cc y se mide el nivel de presión sonora resultante."
+    },
+    "Luego, el mismo sonido se entrega con el mismo auricular en el conducto auditivo del niño, y el nivel allí se mide con un tubo de sonda.",
+    "Al nivel medido en el conducto auditivo se le resta el nivel medido en el acoplador.",
+    "Esta diferencia en cada frecuencia es la RECD; cuanto mayor es, más presión sonora genera el conducto auditivo en comparación con el acoplador.",
+    "Por ejemplo, si a 2000 Hz se miden 82 dB SPL en el conducto y 72 dB SPL en el acoplador, la RECD en esa frecuencia es de 10 dB."
+   ]
+  },
+  {
+   "id": "teknik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Cómo se mide la RECD",
+   "baslik": "*Técnica* de medición",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "insert": true
+   },
+   "etiketler": [
+    {
+     "parca": "kopuk_uc",
+     "metin": "punta de espuma o molde",
+     "cumle": 1
+    },
+    {
+     "parca": "ses_tupu",
+     "metin": "tubo de sonido",
+     "cumle": 1
+    },
+    {
+     "parca": "transduser",
+     "metin": "auricular de inserción",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "punta del tubo de sonda más adentro",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kopuk_uc",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sonda unos mm más adentro",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "La medición dura segundos",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Mismo acoplamiento, misma punta",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Para la medición, primero se coloca el tubo de sonda en el conducto auditivo.",
+    "Luego se entrega el sonido desde el auricular de inserción a través de una punta de espuma o del propio molde del niño.",
+    "La punta del tubo de sonda debe sobrepasar al menos unos milímetros el extremo de la punta de espuma o del molde.",
+    "La medición suele durar apenas unos segundos, así que puede hacerse incluso con un bebé dormido o sentado en el regazo.",
+    "Se recomienda usar el mismo tipo de acoplamiento, es decir, la misma punta de espuma o el mismo molde, para la audiometría y para la RECD.",
+    "El tipo de acoplador también importa; los sistemas de medición convierten entre distintos acopladores mediante software.",
+    "Cuando cambia el molde o el niño crece, la RECD debe medirse de nuevo."
+   ]
+  },
+  {
+   "id": "cocukla",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Cómo se mide la RECD",
+   "baslik": "*Medir* con un niño",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Sueño",
+     "cumle": 0,
+     "metin": "El mejor momento"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Regazo del cuidador",
+     "cumle": 1,
+     "metin": "Da seguridad"
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Calma",
+     "cumle": 2,
+     "metin": "El llanto arruina la medición"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia",
+     "cumle": 3,
+     "metin": "Cerumen y secreción"
+    }
+   ],
+   "cumleler": [
+    "En los bebés, el mejor momento para la medición es cuando duermen después de comer.",
+    "Los niños mayores pueden medirse en el regazo de uno de sus padres, entretenidos con un juguete o un video.",
+    "Como el llanto, el habla y los movimientos de succión pueden cambiar el nivel en el conducto auditivo, hay que esperar un momento de calma.",
+    "Antes de medir, se examina el conducto con el otoscopio; si hay cerumen o secreción, la medición se posterga.",
+    "Como el sonido llega directamente desde el auricular de inserción, la posición del altavoz y la orientación de la cabeza no afectan el resultado.",
+    "Para un profesional con experiencia, la RECD suele ser el paso más breve de toda la consulta."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Edad y RECD estimada",
+   "baslik": "La *RECD* según la edad",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -5,
+     "max": 25,
+     "adim": 5,
+     "ad": "RECD (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "bebek",
+      "noktalar": [
+       [
+        250,
+        3
+       ],
+       [
+        500,
+        6
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        13
+       ],
+       [
+        4000,
+        17
+       ],
+       [
+        6000,
+        19
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "primeros meses",
+      "cumle": 2
+     },
+     {
+      "ad": "cocuk",
+      "noktalar": [
+       [
+        250,
+        1
+       ],
+       [
+        500,
+        3
+       ],
+       [
+        1000,
+        6
+       ],
+       [
+        2000,
+        7
+       ],
+       [
+        4000,
+        9
+       ],
+       [
+        6000,
+        11
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "más de dos años",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       9,
+       17
+      ],
+      "xk": 4000,
+      "etiket": "unos 8 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Este gráfico muestra valores de RECD de ejemplo, medidos con punta de espuma en dos grupos de edad.",
+    "En general, la RECD aumenta con la frecuencia; es mayor en las frecuencias agudas.",
+    "En los bebés, los valores son notablemente más altos que en los niños mayores de dos años.",
+    "En este ejemplo, la RECD a 4000 Hz es de unos 17 dB en los primeros meses y de unos 9 dB después de los dos años.",
+    "A medida que crece el conducto auditivo, la RECD disminuye y se acerca a los valores adultos alrededor de los cinco años.",
+    "Sin embargo, incluso entre bebés de la misma edad pueden verse diferencias de más de unos pocos decibeles."
+   ]
+  },
+  {
+   "id": "ongorulen",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Edad y RECD estimada",
+   "baslik": "La *RECD* estimada",
+   "sutunlar": [
+    "Edad",
+    "Conducto auditivo",
+    "RECD"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Primeros meses",
+      "El más pequeño",
+      "La más alta"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Uno a dos años",
+      "Crece rápido",
+      "Disminuye"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Unos cinco años",
+      "Cercano al adulto",
+      "Cercana al adulto"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Cuando la RECD no puede medirse, se usan valores promedio calculados para la edad; esto se llama RECD estimada.",
+    "Los valores estimados son más altos en los primeros meses, porque entonces el conducto auditivo es más pequeño.",
+    "Entre el primer y el segundo año de vida, el conducto auditivo crece rápidamente y la RECD disminuye.",
+    "Los valores estimados disminuyen con la edad y se acercan a los valores adultos alrededor de los cinco años.",
+    "Los sistemas de medición proponen estos valores automáticamente a partir de la fecha de nacimiento del niño.",
+    {
+     "yazi": "También en adultos el conducto auditivo forma un volumen menor que el acoplador de 2 cc, por lo que la RECD es positiva en la mayoría de las frecuencias."
+    }
+   ]
+  },
+  {
+   "id": "olculmus",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Edad y RECD estimada",
+   "baslik": "¿Medida o *estimada?*",
+   "maddeler": [
+    {
+     "metin": "Guía: se prefiere la RECD _medida_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Un promedio no representa al individuo",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Si no se puede medir, promedio por edad",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Medir en la primera oportunidad",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "RECD",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Medida",
+      "cumle": 0,
+      "metin": "Individual"
+     },
+     {
+      "ikon": "tablo",
+      "baslik": "Estimada",
+      "cumle": 3,
+      "metin": "Promedio por edad"
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "La guía de amplificación pediátrica de 2013 de la Academia Estadounidense de Audiología recomienda medir la RECD del niño siempre que sea posible."
+    },
+    "Esto se debe a que, sobre todo en los primeros meses, los valores individuales pueden alejarse mucho del promedio.",
+    "En un oído que está unos decibeles por debajo o por encima del promedio, una adaptación basada en valores estimados será errónea.",
+    "Si no es posible medir, pueden usarse valores estimados apropiados para la edad o valores medidos recientemente.",
+    "La guía señala que estos valores pueden ser menos precisos, así que la medición debe hacerse en la primera consulta adecuada."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "La RECD en la práctica",
+   "baslik": "¿*Dónde* se usa la RECD?",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Umbral",
+     "cumle": 0,
+     "metin": "dB HL con auriculares de inserción"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "SPL en el oído",
+     "cumle": 1,
+     "metin": "Se suma la RECD"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Objetivo",
+     "cumle": 2,
+     "metin": "dB SPL en el conducto"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Ajuste en acoplador",
+     "cumle": 3,
+     "metin": "Objetivo menos RECD"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Respuesta estimada",
+     "cumle": 4,
+     "metin": "Salida en el oído"
+    }
+   ],
+   "cumleler": [
+    "Los umbrales de un niño suelen obtenerse en dB HL con auriculares de inserción.",
+    "Con la RECD, estos umbrales se convierten a dB SPL en el conducto auditivo del niño.",
+    {
+     "yazi": "A partir de estos valores, el método del nivel de sensación deseado, DSL v5, calcula los objetivos que deben alcanzarse en el conducto, en dB SPL."
+    },
+    "El audífono se mide en la caja de pruebas; al sumar la RECD a la salida medida en el acoplador se obtiene la salida estimada en el oído del niño.",
+    "Como la medición se hace en un acoplador y no en el oído, este método se llama medición simulada en oído real.",
+    "Así, el niño solo participa en la medición de la RECD, que dura unos segundos; el resto de la adaptación se hace en la caja de pruebas."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "La RECD en la práctica",
+   "baslik": "Del acoplador al *oído*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": 60,
+     "max": 110,
+     "adim": 10,
+     "ad": "Salida (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "kuplor",
+      "noktalar": [
+       [
+        250,
+        72
+       ],
+       [
+        500,
+        76
+       ],
+       [
+        1000,
+        80
+       ],
+       [
+        2000,
+        83
+       ],
+       [
+        4000,
+        82
+       ],
+       [
+        6000,
+        76
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "acoplador de 2 cc",
+      "cumle": 0
+     },
+     {
+      "ad": "kulak",
+      "noktalar": [
+       [
+        250,
+        75
+       ],
+       [
+        500,
+        82
+       ],
+       [
+        1000,
+        90
+       ],
+       [
+        2000,
+        96
+       ],
+       [
+        4000,
+        99
+       ],
+       [
+        6000,
+        95
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "esperado en el oído",
+      "cumle": 1
+     },
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        250,
+        76
+       ],
+       [
+        500,
+        83
+       ],
+       [
+        1000,
+        90
+       ],
+       [
+        2000,
+        95
+       ],
+       [
+        4000,
+        98
+       ],
+       [
+        6000,
+        94
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "objetivo",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "recd",
+      "y": [
+       82,
+       99
+      ],
+      "xk": 4000,
+      "etiket": "RECD",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Veamos ahora un ejemplo: la curva azul marino es la salida del audífono medida en el acoplador de 2 cc."
+    },
+    "La curva roja es el nivel esperado en el conducto auditivo al sumar a esa misma salida los valores de RECD de este niño.",
+    "La diferencia es de unos pocos decibeles en las frecuencias graves, pero supera los 15 dB en las agudas.",
+    "La línea discontinua es el objetivo prescriptivo; el nivel esperado en el oído está bastante cerca del objetivo.",
+    "Si la misma adaptación se hubiera hecho mirando los valores del acoplador, el oído del niño habría recibido un sonido muy por encima del objetivo.",
+    "Ahí está precisamente el valor de la RECD: pone el oído pequeño en el centro de la adaptación."
+   ]
+  },
+  {
+   "id": "ozel",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "La RECD en la práctica",
+   "baslik": "*Situaciones* que requieren cuidado",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Tubo de ventilación",
+     "cumle": 0,
+     "metin": "Baja la RECD en graves"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Molde flojo",
+     "cumle": 2,
+     "metin": "Fuga, pérdida en graves"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Crecimiento",
+     "cumle": 3,
+     "metin": "Medir de nuevo"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Tipo de acoplador",
+     "cumle": 4,
+     "metin": "Conversión correcta"
+    }
+   ],
+   "cumleler": [
+    "Un tubo de ventilación o una perforación suman el volumen del oído medio a la medición, y la RECD en graves baja notablemente.",
+    "Algunos estudios han informado una RECD en graves unos 15 dB más baja en niños con tubos de ventilación que en sus pares.",
+    "Un molde flojo o una fuga alrededor del borde de la punta de espuma también reducen los valores en las frecuencias graves.",
+    "A medida que el niño crece y se renuevan los moldes, la RECD cambia; una adaptación basada en un valor antiguo es engañosa.",
+    "El acoplador utilizado debe seleccionarse correctamente en la medición y en el software; de lo contrario, los valores se desplazan."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si ves una RECD en graves inesperadamente baja o negativa, piensa primero en una fuga y en el tímpano: punta floja, tubo de ventilación o perforación. Interpreta en consecuencia.",
+   "cumleler": [
+    "Un consejo de la práctica: si ven una RECD inesperadamente baja, incluso negativa, en las frecuencias graves, cuestionen primero la medición.",
+    "Una punta de espuma o un molde que no asienta por completo causa una fuga y valores bajos en las frecuencias graves.",
+    "Si la punta está bien, revisen la historia clínica y la otoscopia en busca de un tubo de ventilación o una perforación de la membrana timpánica.",
+    "En un oído así debe usarse el valor medido en lugar de los valores promedio, porque ese oído realmente se comporta de otra manera.",
+    "Anoten el hallazgo en la historia clínica; cuando el tubo se expulse o se retire, la RECD debe medirse de nuevo."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Conducto pequeño, presión sonora alta",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "RECD: oído menos acoplador",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Se prefiere la RECD medida",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Acoplador más RECD: estimación en el oído",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que un conducto auditivo pequeño genera una presión sonora más alta con el mismo audífono.",
+    "La RECD se obtiene restando, para una misma señal, el nivel medido en el acoplador al nivel medido en el conducto auditivo.",
+    "Las guías recomiendan una RECD medida; los valores estimados se usan solo cuando no es posible medir.",
+    "Al sumar la RECD a la salida medida en el acoplador se estima el nivel sonoro que habrá en el oído del niño."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "A 4000 Hz, la salida en el acoplador es de 85 dB y la RECD de 14 dB. ¿Nivel esperado en el oído?",
+   "secenekler": [
+    "71 dB SPL",
+    "85 dB SPL",
+    "99 dB SPL",
+    "14 dB SPL"
+   ],
+   "dogru": 2,
+   "aciklama": "Nivel esperado en el oído = salida en el acoplador + RECD: _85 + 14 = 99 dB SPL_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: a 4000 Hz, la salida medida en el acoplador es de 85 dB SPL y la RECD de 14 dB. ¿Qué nivel se espera en el conducto auditivo?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: 99 dB SPL.",
+    "El nivel esperado en el conducto auditivo se obtiene sumando la RECD a la salida del acoplador: 85 más 14, es decir, 99 dB SPL."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Primera adaptación y *ajuste fino* según las quejas",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la primera adaptación y el ajuste fino paso a paso según la queja del usuario.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

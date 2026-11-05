@@ -1,0 +1,941 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D273_Case_Carhart_Notch_ES",
+ "kapak": {
+  "ust": "LECCIÓN 273",
+  "baslik": "Caso: la muesca<br>de *Carhart*",
+  "alt": "Brecha con timpanograma normal",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      45,
+      45,
+      40,
+      40,
+      35,
+      40
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      15,
+      15,
+      30,
+      15
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Caso: brecha aéreo-ósea y muesca de Carhart | Lección 273 | AIHEAR Academia de Audiología",
+  "aciklama": "En un caso ficticio de un adulto, interpretamos en conjunto una brecha aéreo-ósea, un timpanograma casi normal y la ausencia de reflejos acústicos. Vemos el significado de la muesca de Carhart, la distinción audiológica entre la otosclerosis y la dehiscencia del canal semicircular superior, y los pasos de derivación e informe del audiólogo.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Carhart, Clinical application of bone conduction audiometry (1950); Minor, Superior canal dehiscence syndrome (2000).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "otosclerosis",
+   "casoclinico"
+  ],
+  "etiketler": [
+   "muesca de Carhart",
+   "otosclerosis",
+   "reflejo acústico ausente",
+   "brecha aéreo-ósea",
+   "timpanograma tipo As",
+   "dehiscencia del canal semicircular superior",
+   "tercera ventana",
+   "VEMP",
+   "caso clínico de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 273",
+   "baslik": "Caso: la muesca de *Carhart*",
+   "alt": "Brecha aéreo-ósea, timpanograma normal",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección analizamos paso a paso el caso de un adulto con una brecha aéreo-ósea, pero con un timpanograma casi normal.",
+    "Veremos juntos la muesca de Carhart, la ausencia de reflejos acústicos y el diagnóstico diferencial con la dehiscencia del canal semicircular superior."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis",
+   "baslik": "Caso de ejemplo: *anamnesis*",
+   "maddeler": [
+    {
+     "metin": "Una mujer de ejemplo, de 42 años",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Pérdida _izquierda_ que avanza hace años",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Su madre también tenía pérdida auditiva",
+     "cumle": 2,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Entiende mejor en lugares ruidosos",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "_Sin_ dolor, secreción ni mareo",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "stapes",
+      "metin": "estribo",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "stapes",
+      "cumle": 1
+     },
+     {
+      "parca": "oval_pencere",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Nuestro caso es un ejemplo ficticio: una mujer de cuarenta y dos años consulta por disminución de la audición en el oído izquierdo.",
+    "La pérdida avanzó lentamente a lo largo de varios años; no describe un inicio súbito.",
+    "Cuenta que su madre también empezó a usar audífonos a una edad temprana.",
+    "Un detalle interesante: dice que entiende mejor a las personas en un lugar ruidoso que en uno silencioso.",
+    "No hay dolor de oído, secreción ni mareo; tiene un tinnitus leve ocasional en el oído izquierdo.",
+    "Entender mejor en ruido puede describirse en las pérdidas conductivas, porque en el ruido las personas alrededor hablan más fuerte."
+   ]
+  },
+  {
+   "id": "otoskopi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis",
+   "baslik": "Otoscopia: un tímpano *normal*",
+   "cizim": "kulak_zari_otoskopik",
+   "ayar": {
+    "kulak": "sol"
+   },
+   "etiketler": [
+    {
+     "parca": "isik_ucgeni",
+     "metin": "triángulo luminoso presente",
+     "cumle": 1
+    },
+    {
+     "parca": "pars_tensa",
+     "metin": "tímpano íntegro",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "pars_tensa",
+     "cumle": 0
+    },
+    {
+     "parca": "isik_ucgeni",
+     "cumle": 1
+    },
+    {
+     "parca": "manubrium",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "En la otoscopia, ambos conductos auditivos están libres y las membranas timpánicas están íntegras y tienen un aspecto normal.",
+    "Se ven el triángulo luminoso y el mango del martillo; no se observa líquido ni masa detrás del tímpano.",
+    "En algunos oídos con otosclerosis se describe un tinte rosado detrás del tímpano, pero en la mayoría la otoscopia es completamente normal.",
+    "Por eso, una otoscopia normal no descarta un problema del oído medio; el siguiente paso es medir."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audiograma",
+   "baslik": "Una *brecha aéreo-ósea* en el oído izquierdo",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía ósea enmascarada",
+     "cumle": 2
+    },
+    {
+     "isaret": "!",
+     "renk": "sag",
+     "metin": "_Muesca_ en 2000 Hz",
+     "cumle": 4
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       45,
+       45,
+       40,
+       40,
+       35,
+       40
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       15,
+       15,
+       30,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      15,
+      45
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Los umbrales por vía aérea derechos están dentro de los límites normales.",
+    "Los umbrales por vía aérea izquierdos están entre 35 y 45 dB HL; la pérdida es algo más marcada en las frecuencias graves.",
+    "Los umbrales por vía ósea izquierdos, medidos con el oído derecho enmascarado, están entre 10 y 15 dB HL en casi todas las frecuencias, en el rango normal.",
+    "En las frecuencias graves, la brecha aéreo-ósea llega a 30 o 35 dB.",
+    "Pero en 2000 hertz la vía ósea cae a 30 dB HL, unos 15 dB peor que en las frecuencias vecinas.",
+    "El promedio tonal izquierdo es de unos 40 dB HL; el cuadro es compatible con una pérdida conductiva leve a moderada en el oído izquierdo."
+   ]
+  },
+  {
+   "id": "carhart",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audiograma",
+   "baslik": "¿*Por qué* aparece la muesca?",
+   "cizim": "kemikcikler",
+   "ayar": {
+    "pencere": true
+   },
+   "etiketler": [
+    {
+     "parca": "stapes_taban",
+     "metin": "platina del estribo",
+     "cumle": 2
+    },
+    {
+     "parca": "ligamentum_anulare",
+     "metin": "ligamento anular",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "stapes",
+     "cumle": 2
+    },
+    {
+     "parca": "ligamentum_anulare",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Muesca cerca de _2000 Hz_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Mecánica, _no coclear_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Suele desaparecer tras la cirugía",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Esta caída de la vía ósea alrededor de 2000 hertz se llama muesca de Carhart.",
+    "Parte de la audición por vía ósea proviene de un componente del oído medio ligado a la inercia de la cadena osicular.",
+    "Cuando la platina del estribo se fija a la ventana oval, este componente se reduce y la vía ósea empeora sobre todo alrededor de 2000 hertz.",
+    "Por eso, la muesca no indica un daño coclear real; es un efecto mecánico.",
+    "El hecho de que la muesca suela desaparecer después de una cirugía del estribo exitosa también apoya esta explicación.",
+    "La muesca de Carhart sugiere otosclerosis, pero no es específica de ella; también puede verse en otros problemas conductivos."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audiograma",
+   "baslik": "Logoaudiometría y *diapasones*",
+   "maddeler": [
+    {
+     "metin": "URP izquierdo 40 dB HL: _concordante_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Reconocimiento izquierdo: 100 %",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Weber _a la izquierda_, Rinne negativo izquierdo",
+     "cumle": 3,
+     "ikon": "diyapazon"
+    },
+    {
+     "metin": "¿Autofonía o mareo inducido por sonido?",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "diyapazon",
+    "cumle": 3,
+    "ayar": {
+     "test": "rinne"
+    },
+    "vurgula": [
+     {
+      "parca": "mastoid",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "El umbral de recepción de la palabra (URP) izquierdo es de 40 dB HL, concordante con el promedio tonal.",
+    "El reconocimiento de palabras izquierdo se midió a 80 dB HL con el oído derecho enmascarado y fue del 100 por ciento.",
+    "En la pérdida conductiva, el habla presentada a un nivel suficiente se entiende bien; este resultado lo confirma.",
+    "En la prueba de Weber con diapasón, el sonido se lateraliza al oído izquierdo; la prueba de Rinne es negativa a la izquierda.",
+    "En la anamnesis preguntamos específicamente si oye su propia voz o su pulso muy fuerte, y si el sonido o la presión le provocan mareo.",
+    "Estas preguntas importan para el diagnóstico diferencial que veremos enseguida; nuestro caso no tiene ninguna de estas molestias."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Inmitancia",
+   "baslik": "Timpanograma: *tipo As*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 1,
+      "kulak": "sag"
+     },
+     {
+      "tip": "As",
+      "cumle": 2,
+      "kulak": "sol"
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Derecho: A, _0,8 mmho_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Izquierdo: As, _0,25 mmho_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Una curva normal no descarta nada",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "En un oído con brecha aéreo-ósea, a menudo se espera un timpanograma anormal; en este caso no es así.",
+    "El oído derecho tiene una curva tipo A normal, con una admitancia estática en el pico de 0,8 mmho.",
+    "En el oído izquierdo la presión del pico es normal, pero la altura del pico es de 0,25 mmho, es decir, un pico bajo.",
+    {
+     "yazi": "Como el rango normal del adulto es de aproximadamente 0,3 a 1,7 mmho, esta curva se llama tipo As."
+    },
+    "El tipo As puede sugerir mayor rigidez del sistema del oído medio, pero en muchos oídos con otosclerosis el timpanograma es plenamente tipo A.",
+    "Por eso, un timpanograma normal o casi normal no explica una brecha aéreo-ósea ni descarta un problema."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Inmitancia",
+   "baslik": "*Reflejos* acústicos",
+   "sutunlar": [
+    "Medida",
+    "Estímulo",
+    "Sonda",
+    "Reflejo"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Ipsi izquierdo",
+      "Izquierdo",
+      "Izquierdo",
+      "Ausente"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Contra derecho",
+      "Derecho",
+      "Izquierdo",
+      "Ausente"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Contra izquierdo",
+      "Izquierdo",
+      "Derecho",
+      "Ausente"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Ipsi derecho",
+      "Derecho",
+      "Derecho",
+      "85 dB HL"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La verdadera pista está en los reflejos acústicos.",
+    "El reflejo ipsilateral izquierdo, medido con la sonda en el oído izquierdo, está ausente.",
+    "Con el estímulo a la derecha y la sonda a la izquierda, tampoco hay reflejo; un estribo fijo no cambia la admitancia aunque el músculo se contraiga.",
+    "Con el estímulo a la izquierda y la sonda a la derecha, tampoco hay reflejo; la pérdida conductiva izquierda reduce el nivel que llega a la cóclea.",
+    "Con la sonda y el estímulo a la derecha, el reflejo está presente a 85 dB HL, un nivel normal.",
+    "En la etapa inicial, pueden aparecer breves deflexiones en sentido opuesto al inicio y al final del reflejo; este detalle se anota."
+   ]
+  },
+  {
+   "id": "uyumsuz",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Inmitancia",
+   "baslik": "Tres hallazgos *juntos*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Brecha aéreo-ósea",
+     "metin": "Izquierda, confirmada con enmascaramiento",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Curva casi normal",
+     "metin": "Tipo A o As",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Reflejo ausente",
+     "metin": "Con la sonda en el oído izquierdo",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "El punto clave de este caso es leer tres hallazgos juntos: primero, una brecha aéreo-ósea confirmada con enmascaramiento.",
+    "Segundo, un timpanograma normal o con pico bajo, sin una curva que sugiera líquido en el oído medio o una perforación.",
+    "Y tercero, la ausencia de reflejos acústicos cuando el oído afectado tiene la sonda.",
+    "Esta tríada sugiere condiciones que restringen el movimiento de la cadena osicular, en especial la otosclerosis.",
+    "La otosclerosis es una enfermedad de remodelación ósea de la cápsula ótica que fija la platina del estribo a la ventana oval.",
+    "La edad, el sexo y los antecedentes familiares también encajan con esta posibilidad; pero es una evaluación preliminar, y el diagnóstico lo hace el médico."
+   ]
+  },
+  {
+   "id": "ayirici",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Diagnóstico diferencial",
+   "baslik": "¿Otosclerosis o *dehiscencia*?",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Vía ósea",
+     "metin": "Puede ir bajo cero en la dehiscencia",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Reflejo acústico",
+     "metin": "Ausente en otosclerosis, presente en dehiscencia",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "VEMP",
+     "metin": "Dehiscencia: umbral bajo, amplitud grande",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Síntomas",
+     "metin": "Autofonía, vértigo inducido por sonido",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Otra condición en la que aparecen juntos una brecha aéreo-ósea y un timpanograma normal es la dehiscencia del canal semicircular superior.",
+    "En la dehiscencia, la brecha se origina en el oído interno; la vía ósea suele ser mejor de lo normal y puede quedar por debajo de cero.",
+    "La distinción más importante es el reflejo acústico: suele estar ausente en la otosclerosis, pero se conserva en la dehiscencia.",
+    {
+     "yazi": "Los potenciales evocados miogénicos vestibulares (VEMP) también ayudan: en la dehiscencia, el umbral del cVEMP baja y la amplitud del oVEMP aumenta."
+    },
+    "En la otosclerosis, los VEMP con estímulos por vía aérea suelen estar ausentes.",
+    "Las personas con dehiscencia suelen contar que oyen su propia voz muy fuerte y que el sonido o la presión les provocan mareo."
+   ]
+  },
+  {
+   "id": "scd",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Diagnóstico diferencial",
+   "baslik": "Comparación: un ejemplo de *dehiscencia*",
+   "lejant": [
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía ósea bajo cero",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Reflejos _presentes_",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       30,
+       25,
+       15,
+       10,
+       10,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       -10,
+       -5,
+       0,
+       5,
+       10
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      0,
+      -10,
+      30
+     ],
+     "etiket": "40 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Para comparar, veamos un audiograma de dehiscencia totalmente de ejemplo; se trata de otra persona.",
+    "La vía aérea izquierda está algo elevada en las frecuencias graves, mientras que la vía ósea está por debajo de cero en 250 y 500 hertz.",
+    "Es decir, hay una brecha aéreo-ósea en las frecuencias graves, pero la vía ósea es mejor de lo normal.",
+    "En esta persona el timpanograma es tipo A y los reflejos acústicos se conservan; esta es la diferencia con nuestro caso.",
+    "Así, detrás de una brecha de aspecto idéntico puede haber un mecanismo muy distinto; los detalles del reflejo y de la vía ósea marcan el camino.",
+    "Esta distinción es información valiosa para que el médico decida qué estudios adicionales solicitar."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Diagnóstico diferencial",
+   "baslik": "*Otras* condiciones a considerar",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Disrupción de la cadena",
+     "metin": "Tipo Ad, brecha grande",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Fijación del martillo",
+     "metin": "Reflejo ausente, tipo A",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Error en la vía ósea",
+     "metin": "Vibrador, enmascaramiento",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En la disrupción de la cadena osicular, el timpanograma tampoco muestra efusión, pero la curva suele tener un pico muy alto, es decir, es tipo Ad."
+    },
+    "En la disrupción, la brecha aéreo-ósea suele ser mayor, y en la anamnesis a menudo hay un traumatismo o una enfermedad de oído previa.",
+    "Condiciones más raras, como la fijación del martillo o del yunque, pueden dar un cuadro similar; diferenciarlas es tarea del médico.",
+    "Por último, no se olvidan las causas técnicas: la colocación del vibrador, el colapso del conducto o el subenmascaramiento pueden crear una brecha falsa.",
+    "Por eso, ante una brecha dudosa, volver a medir la vía ósea es el primer paso y el más económico."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "Derivación",
+   "baslik": "Los *pasos* del audiólogo",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Verificar",
+     "metin": "Vía ósea enmascarada, repetir",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Completar",
+     "metin": "Timpanograma y reflejos",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Documentar",
+     "metin": "Anotar muesca y reflejos",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Derivar",
+     "metin": "Otorrinolaringólogo",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Seguir",
+     "metin": "Audiogramas seriados",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Primero verificamos la brecha aéreo-ósea: ¿se midió la vía ósea con un enmascaramiento correcto y el vibrador está bien colocado?",
+    "Luego se completan el timpanograma y los reflejos acústicos; en este caso, el reflejo es el hallazgo más revelador.",
+    "El informe indica claramente la muesca de Carhart, los hallazgos de los reflejos y los antecedentes familiares.",
+    "La persona se deriva al otorrinolaringólogo con los hallazgos; el médico evalúa los estudios adicionales y las opciones de tratamiento.",
+    {
+     "yazi": "Si el médico lo considera necesario, pueden hacerse en el laboratorio de audiología pruebas adicionales como los VEMP."
+    },
+    "Los audiogramas seriados muestran si la pérdida progresa y si la vía ósea se conserva."
+   ]
+  },
+  {
+   "id": "sonra",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Derivación",
+   "baslik": "El audiólogo *después* de la decisión",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Decisión quirúrgica",
+     "metin": "La toman el médico y la persona",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Después de la cirugía",
+     "metin": "¿Se cerró la brecha?",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Opción de audífono",
+     "metin": "La ganancia rinde bien en conductivas",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Cambio súbito",
+     "metin": "Consultar pronto al médico",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Elegir la cirugía u otra opción es una decisión que toman juntos el médico y la persona; no la toma el audiólogo.",
+    "Si se opera, en el control el audiólogo comprueba que la brecha aéreo-ósea se haya cerrado y que la vía ósea se haya conservado.",
+    "Una brecha aéreo-ósea reducida a 10 dB o menos es un criterio de éxito muy utilizado.",
+    "Si no se considera la cirugía, el audífono es una buena opción; en la pérdida conductiva la ganancia suele aprovecharse bien.",
+    "Si después de la cirugía aparecen una pérdida auditiva súbita o mareo, la persona se deriva al médico sin demora."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Con brecha aéreo-ósea y timpanograma tipo A, mide siempre los reflejos; si están presentes, piensa en una brecha de oído interno.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: en una persona con brecha aéreo-ósea pero con timpanograma tipo A, mide siempre el reflejo acústico.",
+    "Si el reflejo está ausente, se vuelve más probable una condición que restringe el movimiento de la cadena.",
+    "Si el reflejo está presente, piensa en condiciones que crean una tercera ventana en el oído interno y comprueba si la vía ósea queda bajo cero.",
+    "En ambos casos documentas el hallazgo y derivas a la persona al médico, pero tu nota de derivación será mucho más informativa."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Derivación",
+   "baslik": "Ejemplo de redacción del *informe*",
+   "maddeler": [
+    {
+     "metin": "Izquierdo: pérdida conductiva leve a moderada",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Muesca de la vía ósea en 2000 Hz",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Izquierdo As; sin reflejo con sonda izquierda",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Recomendación: ORL, audiogramas seriados",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        45,
+        45,
+        40,
+        40,
+        35,
+        40
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        10,
+        15,
+        15,
+        30,
+        15
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "En un informe de ejemplo, el resultado tonal: hipoacusia conductiva leve a moderada en el oído izquierdo, oído derecho dentro de los límites normales.",
+    "Hallazgo adicional: caída de la vía ósea izquierda en 2000 hertz, compatible con una muesca de Carhart.",
+    {
+     "yazi": "Inmitancia: timpanograma tipo As izquierdo; reflejos acústicos ausentes con la sonda en el oído izquierdo y con estimulación izquierda."
+    },
+    "Comentario: los hallazgos pueden ser compatibles con una condición que restringe el movimiento de la cadena osicular, como la otosclerosis.",
+    "Recomendación: evaluación otorrinolaringológica y seguimiento audiológico a los intervalos que el médico considere adecuados."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Brecha + curva normal + reflejo ausente",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Muesca de Carhart: 2000 Hz, mecánica",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Reflejos y VEMP identifican la dehiscencia",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "El audiólogo documenta y deriva",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Una brecha aéreo-ósea enmascarada, un timpanograma casi normal y la ausencia de reflejos, juntos, sugieren otosclerosis.",
+    "La muesca de Carhart es una caída mecánica de la vía ósea alrededor de 2000 hertz.",
+    {
+     "yazi": "En la dehiscencia del canal semicircular superior, la vía ósea puede quedar bajo cero, el reflejo se conserva y los VEMP son diferentes."
+    },
+    "El papel del audiólogo es verificar los hallazgos, informarlos por completo y derivar a la persona al médico."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Hay brecha, tipo A y reflejos presentes. ¿Qué se considera?",
+   "secenekler": [
+    "Otosclerosis segura",
+    "Una posible tercera ventana",
+    "Líquido en el oído medio",
+    "Perforación"
+   ],
+   "dogru": 1,
+   "aciklama": "Si el reflejo se conserva, también se considera una brecha _de oído interno_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: hay una brecha aéreo-ósea en graves, el timpanograma es tipo A y los reflejos están presentes. ¿Qué se considera?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: una posible tercera ventana, como la dehiscencia del canal semicircular superior.",
+    "En la otosclerosis el reflejo suele estar ausente; si se conserva y la vía ósea es mejor de lo normal, se piensa en una brecha de oído interno."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Caso: hipoacusia *asimétrica* con mala discriminación",
+   "cikis": 2.5,
+   "cumleler": [
+    "En el próximo caso veremos a un adulto con una hipoacusia neurosensorial asimétrica y un reconocimiento de palabras más bajo de lo esperado.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

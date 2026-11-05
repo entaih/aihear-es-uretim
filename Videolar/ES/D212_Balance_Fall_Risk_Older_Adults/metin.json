@@ -1,0 +1,746 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D212_Balance_Fall_Risk_Older_Adults_ES",
+ "kapak": {
+  "ust": "LECCIÓN 212",
+  "baslik": "Caídas en<br>*adultos mayores*",
+  "alt": "El TUG y el Índice Dinámico de la Marcha",
+  "cizim": "denge_durus"
+ },
+ "youtube": {
+  "baslik": "Equilibrio y riesgo de caídas en adultos mayores | Lección 212 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Por qué importan tanto las caídas en los adultos mayores, por qué el equilibrio se vuelve más difícil con la edad y qué papel cumple el oído? En esta lección vemos los factores de riesgo de caídas, el tamizaje con tres preguntas, la prueba Timed Up and Go (TUG) y el Índice Dinámico de la Marcha (DGI), y el papel del audiólogo en el riesgo de caídas.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Jacobson y Shepard, Balance Function Assessment and Management; CDC, STEADI: Stopping Elderly Accidents, Deaths and Injuries (TUG assessment form); OMS, Falls fact sheet (2021); Podsiadlo y Richardson, The Timed Up and Go, J Am Geriatr Soc (1991); Shumway-Cook et al., Predicting the probability for falls in community-dwelling older adults using the Timed Up and Go Test, Physical Therapy (2000); Agrawal et al., Disorders of balance and vestibular function in US adults, Arch Intern Med (2009); Lin y Ferrucci, Hearing loss and falls among older adults in the United States, Arch Intern Med (2012); Oghalai et al., Unrecognized benign paroxysmal positional vertigo in elderly patients, Otolaryngol Head Neck Surg (2000).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "equilibrio",
+   "riesgodecaidas"
+  ],
+  "etiketler": [
+   "riesgo de caídas",
+   "equilibrio en adultos mayores",
+   "Timed Up and Go",
+   "TUG",
+   "Índice Dinámico de la Marcha",
+   "DGI",
+   "STEADI",
+   "trastornos vestibulares",
+   "VPPB",
+   "pérdida auditiva y caídas",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 212",
+   "baslik": "Equilibrio y riesgo de *caídas* en adultos mayores",
+   "alt": "Factores de riesgo, TUG e Índice Dinámico de la Marcha",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos por qué importan las caídas en los adultos mayores y por qué el equilibrio se vuelve más difícil con la edad.",
+    "También revisaremos las tres preguntas para el tamizaje del riesgo de caídas, la prueba Timed Up and Go y el Índice Dinámico de la Marcha."
+   ]
+  },
+  {
+   "id": "onem",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Caídas y equilibrio",
+   "baslik": "Caídas: *frecuentes* y graves",
+   "ogeler": [
+    {
+     "ikon": "yasli",
+     "baslik": "Frecuentes",
+     "metin": "Más de un cuarto cada año",
+     "cumle": 1
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Lesiones",
+     "metin": "Fractura de cadera, traumatismo craneal",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Causa de muerte",
+     "metin": "Segunda entre muertes por lesiones",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Miedo a caer",
+     "metin": "Limita el movimiento",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Una caída es quedar sin querer en el suelo o en una superficie más baja; en los adultos mayores es una de las causas más frecuentes de lesiones.",
+    "Según los Centros para el Control de Enfermedades de Estados Unidos, más de una de cada cuatro personas mayores de 65 años se cae cada año.",
+    "Algunas caídas causan lesiones graves, como fracturas de cadera y traumatismos craneales.",
+    "Según la Organización Mundial de la Salud, las caídas son la segunda causa de muerte por lesiones no intencionales, después de los accidentes de tránsito.",
+    "Cada año mueren por caídas unas seiscientas ochenta y cuatro mil personas en el mundo, y el riesgo aumenta con la edad.",
+    "Aun sin lesiones, el miedo a caer limita el movimiento de la persona, y moverse menos reduce a su vez la fuerza muscular y el equilibrio.",
+    "Así, las caídas, el miedo y la inactividad pueden convertirse en un ciclo que se alimenta a sí mismo."
+   ]
+  },
+  {
+   "id": "yaslanma",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Caídas y equilibrio",
+   "baslik": "¿Por qué el equilibrio se vuelve *más difícil* con la edad?",
+   "cizim": "denge_durus",
+   "etiketler": [
+    {
+     "parca": "salinim",
+     "metin": "Mayor balanceo",
+     "cumle": 5
+    },
+    {
+     "parca": "agirlik_merkezi",
+     "metin": "Centro de masa",
+     "cumle": 5
+    },
+    {
+     "parca": "destek_yuzeyi",
+     "metin": "Base de sustentación",
+     "cumle": 6
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kisi",
+     "cumle": 1
+    },
+    {
+     "parca": "salinim",
+     "cumle": 5
+    },
+    {
+     "parca": "destek_yuzeyi",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Disminuyen las células ciliadas vestibulares",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Se debilitan la visión y la sensibilidad plantar",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Bajan la fuerza y el tiempo de reacción",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "El equilibrio depende de la visión, el sistema vestibular y la sensibilidad corporal en conjunto; lo vimos en la lección sobre los sistemas del equilibrio.",
+    "Con la edad, cada uno de estos tres sistemas se deteriora lentamente.",
+    "El número de células ciliadas y de fibras del nervio vestibular en los órganos vestibulares disminuye con la edad.",
+    "La agudeza visual y la percepción de profundidad disminuyen, y se debilitan la sensibilidad de las plantas de los pies y la propiocepción.",
+    "También disminuyen la fuerza muscular, el tiempo de reacción y la velocidad con que el cerebro combina la información sensorial.",
+    "Como resultado, el balanceo aumenta de pie, y mantener el centro de masa dentro de la base de sustentación se vuelve más difícil.",
+    "Recuperarse con un paso tras un empujón o un tropiezo se vuelve más lento, lo que aumenta el riesgo de caer."
+   ]
+  },
+  {
+   "id": "riskler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Factores de riesgo",
+   "baslik": "Principales *factores de riesgo*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "Caída previa",
+     "metin": "El signo más fuerte",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Músculos y marcha",
+     "metin": "Debilidad, marcha lenta",
+     "cumle": 2
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Medicamentos",
+     "metin": "Muchos medicamentos",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Visión",
+     "metin": "Cataratas, anteojos inadecuados",
+     "cumle": 4
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Hipotensión ortostática",
+     "metin": "Baja la presión al pararse",
+     "cumle": 4
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Entorno del hogar",
+     "metin": "Alfombras, iluminación, escaleras",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El riesgo de caídas no depende de una sola causa; por lo general se suman varios factores.",
+    "Uno de los indicadores más fuertes es haberse caído en el último año.",
+    "La debilidad muscular de las piernas, la marcha lenta y los problemas de equilibrio también son factores de riesgo importantes.",
+    "Tomar muchos medicamentos, y algunos con efecto hipnótico o sedante, puede aumentar el riesgo; la revisión de la medicación corresponde al médico.",
+    "También se pregunta por los problemas de visión y por la caída de la presión arterial al ponerse de pie, llamada hipotensión ortostática.",
+    "Los factores del hogar, como los pisos resbaladizos, la mala iluminación y las escaleras, también contribuyen a las caídas.",
+    "Por eso, la evaluación del riesgo de caídas es un trabajo en equipo en el que colaboran el médico, el kinesiólogo o fisioterapeuta y el audiólogo."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Factores de riesgo",
+   "baslik": "La *parte* del oído: el sistema vestibular",
+   "maddeler": [
+    {
+     "metin": "Los trastornos vestibulares _aumentan_ el riesgo",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Signos en el 35 % de mayores de 40",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "VPPB frecuente, a menudo _no diagnosticado_",
+     "cumle": 3,
+     "ikon": "vertigo"
+    },
+    {
+     "metin": "Quejas vagas: inestabilidad, cabeza liviana",
+     "cumle": 5,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Inestabilidad peor en la oscuridad",
+     "cumle": 6,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 3,
+    "etiketler": [
+     {
+      "parca": "posterior_kanal",
+      "metin": "canal posterior",
+      "cumle": 3
+     },
+     {
+      "parca": "utrikul",
+      "metin": "utrículo",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "posterior_kanal",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Los trastornos vestibulares contribuyen de forma importante al riesgo de caídas en los adultos mayores.",
+    "En una gran encuesta nacional en Estados Unidos, cerca del 35 por ciento de los adultos mayores de 40 años tenía signos de disfunción vestibular.",
+    "En el mismo estudio, los antecedentes de caídas eran claramente más frecuentes en quienes referían mareo.",
+    "El trastorno vestibular periférico más frecuente en los adultos mayores es el vértigo posicional paroxístico benigno (VPPB).",
+    "En una consulta geriátrica, cerca del 9 por ciento de los pacientes tenía un VPPB no diagnosticado, y las caídas recientes eran más frecuentes en este grupo.",
+    "Los adultos mayores no siempre describen giro; pueden referir solo inestabilidad o sensación de cabeza liviana al ponerse de pie.",
+    "En la pérdida vestibular bilateral, la inestabilidad se vuelve especialmente clara en la oscuridad y en suelo irregular."
+   ]
+  },
+  {
+   "id": "isitme",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Factores de riesgo",
+   "baslik": "Pérdida auditiva y *caídas*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Cada 10 dB",
+     "metin": "Probabilidad cerca de 1,4 veces mayor",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Percepción del entorno",
+     "metin": "Sonidos de alerta perdidos",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Carga cognitiva",
+     "metin": "Atención puesta en oír",
+     "cumle": 3
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Envejecimiento común",
+     "metin": "Audición y equilibrio a la vez",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La pérdida auditiva también se asocia al riesgo de caídas.",
+    {
+     "yazi": "En un análisis de datos de Estados Unidos, cada aumento de 10 decibeles en la pérdida auditiva se asoció con una probabilidad de caer cerca de 1,4 veces mayor."
+    },
+    "Una explicación de esta asociación es que se vuelve más difícil orientarse con los sonidos del entorno y advertir los sonidos de alerta.",
+    "Otra explicación es la carga cognitiva: el esfuerzo dedicado a oír puede reducir la atención que queda para el equilibrio.",
+    "El envejecimiento compartido de los órganos de la audición y del equilibrio en el oído interno también puede ser un factor común.",
+    "Estos estudios son transversales; todavía no se sabe con certeza si el uso de audífonos reduce las caídas."
+   ]
+  },
+  {
+   "id": "uc_soru",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tamizaje y pruebas",
+   "baslik": "*Tres preguntas* para el tamizaje",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "¿Se ha caído?",
+     "metin": "En el último año",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "¿Se siente inestable?",
+     "metin": "De pie o al caminar",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "¿Tiene miedo?",
+     "metin": "Preocupación por caer",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Para el tamizaje del riesgo de caídas, el programa STEADI, desarrollado en Estados Unidos, propone tres preguntas sencillas."
+    },
+    "Primera pregunta: ¿se ha caído en el último año?",
+    "Segunda pregunta: ¿se siente inestable al estar de pie o al caminar?",
+    "Tercera pregunta: ¿le preocupa caerse?",
+    "Un sí a cualquiera de las preguntas indica que hace falta una evaluación más detallada de la marcha, la fuerza y el equilibrio.",
+    "En la consulta de audiología, estas tres preguntas pueden agregarse fácilmente al final de una historia clínica de mareo."
+   ]
+  },
+  {
+   "id": "tug",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tamizaje y pruebas",
+   "baslik": "Timed Up and Go: *TUG*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Sentarse",
+     "metin": "Sillón, espalda apoyada",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Levantarse",
+     "metin": "Se cronometra desde la orden",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Caminar 3 metros",
+     "metin": "A ritmo habitual",
+     "cumle": 2
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Girar y sentarse",
+     "metin": "Se detiene al sentarse",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La prueba Timed Up and Go (TUG) es una prueba de movilidad rápida y muy utilizada.",
+    "La persona se sienta en un sillón con la espalda apoyada, con su calzado habitual y con bastón si lo necesita.",
+    "A la orden de partir, se levanta y camina a su ritmo habitual hasta una marca en el suelo situada a 3 metros.",
+    "Gira en la marca, vuelve caminando a la silla y se sienta de nuevo.",
+    "El cronómetro se pone en marcha con la orden de partir y se detiene cuando la persona está completamente sentada.",
+    "Además del tiempo, se observa el patrón de marcha: se anotan los pasos cortos, el arrastre de los pies, el apoyo en la pared y la vacilación al girar.",
+    "Puede hacerse primero un intento de práctica; por seguridad, el evaluador camina al lado del paciente."
+   ]
+  },
+  {
+   "id": "tug_yorum",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tamizaje y pruebas",
+   "baslik": "*Interpretar* el tiempo del TUG",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 24,
+     "adim": 4,
+     "ad": "Tiempo (segundos)"
+    },
+    "y": {
+     "min": 0,
+     "max": 3,
+     "yazilar": {
+      "1": "Example A",
+      "2": "Example B",
+      "1": "Ejemplo A",
+      "2": "Ejemplo B"
+     },
+     "isaretler": [
+      1,
+      2
+     ],
+     "ad": "Persona de ejemplo"
+    },
+    "seriler": [
+     {
+      "ad": "ornek_a",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        9,
+        1
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "9 s",
+      "cumle": 0
+     },
+     {
+      "ad": "ornek_b",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        16,
+        2
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "16 s",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "risk",
+      "x": [
+       12,
+       24
+      ],
+      "renk": "sari",
+      "etiket": "12 s o más",
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinir_135",
+      "x": 13.5,
+      "y": 2.7,
+      "cizgi": "dikey",
+      "etiket": "13,5 s",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "STEADI: 12 segundos o más es riesgo",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Los puntos de corte varían",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Tiempo largo: una alerta, no un diagnóstico",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El programa STEADI considera en riesgo de caídas a un adulto mayor que tarda 12 segundos o más en completar la prueba."
+    },
+    {
+     "yazi": "En un estudio con adultos mayores que vivían en la comunidad, se usó un tiempo de 13,5 segundos o más para identificar el riesgo de caídas."
+    },
+    "Como los distintos estudios informan puntos de corte diferentes, ningún número debe tomarse como un límite rígido.",
+    "El tiempo del TUG varía con la edad, la altura de la silla y el uso de ayudas para la marcha.",
+    "Por eso, para el seguimiento son más valiosas las mediciones repetidas en la misma persona y en las mismas condiciones.",
+    "Un tiempo largo no es por sí solo un diagnóstico; es una alerta de que hace falta una evaluación detallada."
+   ]
+  },
+  {
+   "id": "dgi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Equilibrio en la marcha",
+   "baslik": "El *Índice* Dinámico de la Marcha",
+   "ogeler": [
+    {
+     "ikon": "denge",
+     "baslik": "Marcha en llano",
+     "metin": "Con cambios de velocidad",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Giros de cabeza",
+     "metin": "Horizontales y verticales",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Giro y detención",
+     "metin": "Giro rápido",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Obstáculo",
+     "metin": "Pasar por encima y rodearlo",
+     "cumle": 3
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Escaleras",
+     "metin": "Subir y bajar",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Puntaje",
+     "metin": "Máximo total 24",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El Índice Dinámico de la Marcha (DGI) evalúa el equilibrio durante la marcha con ocho tareas.",
+    "Las tareas incluyen caminar sobre una superficie llana y cambiar de velocidad al caminar.",
+    "Se pide a la persona que gire la cabeza de lado a lado y de arriba abajo mientras camina; estas tareas exigen especialmente al sistema vestibular.",
+    "Girar rápido sobre sí misma y detenerse al caminar, pasar por encima de un obstáculo y rodearlo también están entre las tareas.",
+    "La última tarea es subir y bajar escaleras.",
+    "Cada tarea se puntúa de 0 a 3; el puntaje total máximo es 24.",
+    "En muchos estudios, un total de 19 o menos se ha asociado al riesgo de caídas en adultos mayores."
+   ]
+  },
+  {
+   "id": "diger_testler",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Equilibrio en la marcha",
+   "baslik": "Otras pruebas de *equilibrio*",
+   "maddeler": [
+    {
+     "metin": "Evaluación Funcional de la Marcha: diez tareas",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Posición en tándem y apoyo unipodal",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Levantarse de la silla en 30 segundos",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Una prueba _no basta_: interpretación conjunta",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "denge_durus",
+    "cumle": 2,
+    "etiketler": [
+     {
+      "parca": "ayak_izi",
+      "metin": "colocación de los pies",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "ayak_izi",
+      "cumle": 2
+     },
+     {
+      "parca": "salinim",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Una versión de diez tareas adaptada del Índice Dinámico de la Marcha se llama Evaluación Funcional de la Marcha.",
+    "Se desarrolló para reducir el efecto techo, es decir, que la mayoría de las personas obtenga el puntaje máximo en las tareas fáciles.",
+    "La posición en tándem y el apoyo en una sola pierna también son pruebas rápidas de equilibrio estático.",
+    {
+     "yazi": "El programa STEADI también recomienda la prueba de levantarse de la silla en 30 segundos y la prueba de equilibrio en cuatro etapas."
+    },
+    "Ninguna prueba aislada predice las caídas con certeza; interpretar juntas la historia clínica y varias pruebas es más confiable.",
+    "El audiólogo puede usar estas pruebas como parte de la evaluación vestibular y comparte los resultados con el equipo."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Equilibrio en la marcha",
+   "baslik": "El *papel* del audiólogo",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Tamizar",
+     "metin": "Tres preguntas, antecedentes de caídas",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Evaluar",
+     "metin": "Pruebas vestibulares y funcionales",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Integrar",
+     "metin": "Hallazgos de audición y equilibrio",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Derivar",
+     "metin": "Médico, fisioterapia",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Resumamos como un flujo el papel del audiólogo en el riesgo de caídas.",
+    "El primer paso es el tamizaje: las tres preguntas y los antecedentes de caídas.",
+    "En el segundo paso se hacen pruebas funcionales, como el TUG, junto con las pruebas vestibulares.",
+    "En el tercer paso se interpretan juntos los hallazgos auditivos y vestibulares; por ejemplo, un VPPB detectado es un factor de riesgo tratable.",
+    "En el último paso, se deriva a la persona al médico, al kinesiólogo o fisioterapeuta y, si hace falta, a un programa de rehabilitación vestibular.",
+    "Hay evidencia sólida de que los programas de ejercicio reducen las caídas en los adultos mayores; veremos la rehabilitación en próximas lecciones."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "No levanten a un paciente mayor justo después de las pruebas posicionales o calóricas. Primero siéntenlo, esperen y luego ayúdenlo a ponerse de pie.",
+   "cumleler": [
+    "Un consejo clínico: no pongan de pie a un paciente mayor justo después de una prueba calórica o posicional.",
+    "Primero siéntenlo, esperen unos minutos y ayúdenlo a ponerse de pie cuando el mareo haya pasado.",
+    "Durante las pruebas de marcha, caminen un poco por detrás y al costado del paciente; si hace falta, usen un cinturón de marcha.",
+    "Envíen al médico en un informe claro los hallazgos de un paciente con antecedentes de caídas; esto pasa a formar parte del plan de prevención de caídas."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Caídas: frecuentes, graves, de causas múltiples",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Contribuyen los trastornos vestibulares y la hipoacusia",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tamizaje con tres preguntas y TUG",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "DGI: ocho tareas, máximo 24",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Las caídas en los adultos mayores son frecuentes, pueden tener consecuencias graves y suelen depender de varios factores.",
+    "Los trastornos vestibulares, sobre todo el VPPB, y la pérdida auditiva contribuyen al riesgo de caídas.",
+    {
+     "yazi": "El tamizaje empieza con tres preguntas; en el TUG, un tiempo de 12 segundos o más es una alerta de riesgo según STEADI."
+    },
+    "El Índice Dinámico de la Marcha evalúa el equilibrio durante la marcha con ocho tareas y tiene un puntaje máximo de 24."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué tiempo del TUG es alerta según STEADI?",
+   "secenekler": [
+    "8 segundos o más",
+    "12 segundos o más",
+    "20 segundos o más",
+    "30 segundos o más"
+   ],
+   "dogru": 1,
+   "aciklama": "Un tiempo de 12 segundos o más indica que hace falta una evaluación detallada.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: según el programa STEADI, ¿qué tiempo en la prueba Timed Up and Go es una alerta de riesgo de caídas?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: 12 segundos o más.",
+    "Aun así, el tiempo por sí solo no es un diagnóstico; se interpreta junto con la historia clínica y otras pruebas."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "El DHI y otras escalas de *autoinforme* del mareo",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos el Inventario de Discapacidad por Mareo y otras escalas de autoinforme.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

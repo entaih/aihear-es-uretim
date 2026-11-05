@@ -255,7 +255,7 @@
     },
     {
      "ikon": "uyari",
-     "baslik": "Rendimiento decreciente",
+     "baslik": "Rendimientos decrecientes",
      "cumle": 6,
      "metin": "Más no siempre es mejor"
     }
@@ -281,7 +281,7 @@
     {
      "isaret": "O",
      "renk": "sag",
-     "metin": "_Derecho_: pérdida aguda severa",
+     "metin": "_Derecho_: pérdida severa en agudos",
      "cumle": 0
     },
     {
@@ -401,8 +401,8 @@
     "El sonido que cae en esta región es captado por células de una región sana cercana; esto se llama escucha fuera de frecuencia.",
     "Una zona muerta puede investigarse con la prueba del ruido igualador de umbral, o TEN; vimos los detalles en la lección sobre zonas muertas.",
     {
-     "yazi": "Moore y sus colegas mostraron que dar ganancia hasta unas 1,7 veces la frecuencia del borde de la zona muerta puede ser útil.",
-     "ses": "Moore y sus colegas mostraron que dar ganancia hasta unas uno coma siete veces la frecuencia del borde de la zona muerta puede ser útil."
+     "yazi": "Moore y sus colegas mostraron que dar ganancia hasta unas 1,7 veces la frecuencia de borde de la zona muerta puede ser útil.",
+     "ses": "Moore y sus colegas mostraron que dar ganancia hasta unas uno coma siete veces la frecuencia de borde de la zona muerta puede ser útil."
     },
     "Sin embargo, dar ganancia muy adentro de la zona muerta puede no mejorar la inteligibilidad, e incluso empeorarla en algunas personas.",
     "En ese caso, se considera como opción trasladar la información de frecuencias agudas a una región sana."
@@ -632,7 +632,7 @@
    ],
    "cumleler": [
     "El segundo enfoque es la transposición de frecuencias.",
-    "Aquí se selecciona la energía de la región aguda inaudible.",
+    "Aquí se selecciona la energía de la región de agudos inaudible.",
     "Esta región se desplaza, por lo general alrededor de una octava hacia abajo, a una región vecina donde la audición es mejor.",
     "El sonido desplazado se mezcla con el sonido natural de esa región.",
     "A diferencia de la compresión, las relaciones entre frecuencias se conservan, pero el sonido desplazado se superpone a la región más grave.",
@@ -684,12 +684,12 @@
    "baslik": "¿Quién es *candidato?*",
    "maddeler": [
     {
-     "metin": "Pérdida aguda severa en pendiente pronunciada",
+     "metin": "Pérdida severa en agudos, en pendiente pronunciada",
      "cumle": 0,
      "ikon": "grafik"
     },
     {
-     "metin": "Región aguda inaudible pese a la ganancia",
+     "metin": "Agudos inaudibles pese a la ganancia",
      "cumle": 1,
      "ikon": "kulak"
     },
@@ -733,7 +733,7 @@
     ]
    },
    "cumleler": [
-    "La reducción de frecuencias se considera sobre todo en personas con una pérdida aguda en pendiente pronunciada, severa o profunda.",
+    "La reducción de frecuencias se considera sobre todo en personas con una pérdida en agudos en pendiente pronunciada, severa o profunda.",
     "La condición previa es que la información de frecuencias agudas no pueda hacerse lo bastante audible con la amplificación convencional.",
     "La sospecha de una zona muerta, o una región que no puede recibir ganancia por la retroalimentación, también respalda esta decisión.",
     "En los niños, oír sonidos como la s y la sh es importante para aprender las terminaciones del plural y la gramática.",
@@ -749,7 +749,7 @@
    "tur": "akis",
    "bolum_no": "PARTE 4",
    "bolum": "¿Para quién y cómo?",
-   "baslik": "Ajuste y *verificación*",
+   "baslik": "Adaptación y *verificación*",
    "adimlar": [
     {
      "ikon": "isitme_cihazi",
@@ -796,9 +796,9 @@
    "id": "ipucu",
    "tur": "ipucu",
    "baslik": "Consejo clínico",
-   "metin": "No actives la reducción de frecuencias en su ajuste más fuerte como recurso de emergencia. Prueba primero el ancho de banda, luego el ajuste eficaz más suave, y verifícalo.",
+   "metin": "No actives la reducción de frecuencias al máximo como rescate. Prueba primero el ancho de banda, luego el ajuste eficaz más suave, y verifícalo en el oído.",
    "cumleler": [
-    "Un consejo de la práctica: no uses la reducción de frecuencias como atajo para compensar la ganancia aguda que falta.",
+    "Un consejo de la práctica: no uses la reducción de frecuencias como atajo para compensar la ganancia que falta en los agudos.",
     "Primero comprueba, con una medición en oído real, hasta dónde puedes llegar con la ganancia convencional.",
     "Si se necesita reducción de frecuencias, busca el ajuste más suave que haga audible la s.",
     "Explica a la persona o a la familia que al principio los sonidos pueden parecer distintos y que el cerebro puede tardar en adaptarse.",
@@ -817,7 +817,7 @@
      "ikon": "tablo"
     },
     {
-     "metin": "Más canales no siempre es mejor",
+     "metin": "Más canales no siempre son mejores",
      "cumle": 1,
      "ikon": "uyari"
     },
@@ -843,7 +843,7 @@
    "id": "test",
    "tur": "test",
    "bolum_ad": "Resumen y prueba",
-   "soru": "¿Qué región tiene sus propios ajustes de compresión?",
+   "soru": "¿Cómo se llama la región con sus propios ajustes de compresión?",
    "secenekler": [
     "Banda",
     "Canal",

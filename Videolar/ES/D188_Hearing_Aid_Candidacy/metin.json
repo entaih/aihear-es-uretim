@@ -1,0 +1,746 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D188_Hearing_Aid_Candidacy_ES",
+ "kapak": {
+  "ust": "LECCIÓN 188",
+  "baslik": "¿Quién es<br>*candidato*?",
+  "alt": "Necesidades, motivación y COSI",
+  "cizim": "sosyal_izolasyon"
+ },
+ "youtube": {
+  "baslik": "Candidatos a audífono: evaluación de necesidades | Lección 188 | AIHEAR Academia de Audiología",
+  "aciklama": "La candidatura a un audífono no se decide solo con el audiograma. En esta lección vemos los hallazgos audiológicos, las pruebas de habla en ruido, las situaciones que requieren derivación médica, la motivación y las expectativas, y cómo fijar metas personales con la COSI.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Dillon, Hearing Aids; Dillon, James y Ginis (1997), Client Oriented Scale of Improvement (COSI), Journal of the American Academy of Audiology; American Academy of Audiology, Guidelines for the Audiologic Management of Adult Hearing Impairment; Cox y Alexander (2000), Expectations about hearing aids (ECHO); Institución de Seguridad Social de Turquía (SGK), Health Implementation Communiqué (SUT), sección sobre audífonos y moldes.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "COSI"
+  ],
+  "etiketler": [
+   "candidato a audífono",
+   "evaluación de necesidades",
+   "COSI",
+   "Escala de Mejoría Orientada al Cliente",
+   "expectativas con audífonos",
+   "motivación",
+   "QuickSIN",
+   "pérdida de SNR",
+   "toma de decisiones compartida",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 188",
+   "baslik": "El candidato a *audífono*",
+   "alt": "Evaluación de necesidades y metas",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo evaluamos cuándo es probable que una persona se beneficie de un audífono.",
+    "Revisaremos los hallazgos, las necesidades, la motivación, las expectativas y la fijación de metas con la Escala de Mejoría Orientada al Cliente, o COSI."
+   ]
+  },
+  {
+   "id": "aday",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la candidatura?",
+   "baslik": "El audiograma *no basta*",
+   "maddeler": [
+    {
+     "metin": "Candidatura: la probabilidad de beneficio",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "No hay un único corte en dB",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Lo decisivo: la _dificultad de comunicación_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Incluso una pérdida leve puede calificar",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "La decisión se toma en conjunto",
+     "cumle": 5,
+     "ikon": "odyolog"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        25,
+        35,
+        45,
+        50
+       ],
+       "cumle": 4
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25,
+      "etiket": "Normal"
+     }
+    }
+   },
+   "cumleler": [
+    "La candidatura a un audífono es la evaluación de qué tan probable es que una persona obtenga un beneficio significativo con él.",
+    "Las guías clínicas no establecen un único punto de corte en decibeles para la candidatura.",
+    "De dos personas con el mismo audiograma, una puede tener dificultades todos los días y la otra no tener ninguna dificultad marcada.",
+    "Lo decisivo es cuánto afecta la pérdida a la comunicación de la persona y a su participación en la vida.",
+    "Por eso, alguien con una pérdida leve que pasa todo el día en reuniones de trabajo también puede ser un buen candidato.",
+    "Al final, la decisión se toma junto con la persona, sopesando los hallazgos y sus necesidades."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la candidatura?",
+   "baslik": "Los *cuatro pilares* de la evaluación",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Hallazgos",
+     "cumle": 1,
+     "metin": "Umbrales, habla, ruido"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Necesidades",
+     "cumle": 2,
+     "metin": "Situaciones difíciles"
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Motivación",
+     "cumle": 3,
+     "metin": "Deseos y expectativas"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Capacidades",
+     "cumle": 4,
+     "metin": "Destreza, visión, cognición"
+    }
+   ],
+   "cumleler": [
+    "Podemos pensar que la evaluación de necesidades se apoya en cuatro pilares.",
+    "El primero son los hallazgos audiológicos: los umbrales, la comprensión del habla y el rendimiento en el ruido.",
+    "El segundo son las necesidades de comunicación: ¿dónde, con quién y en qué situaciones tiene dificultades la persona?",
+    "El tercero son la motivación y las expectativas: ¿quién quiere el audífono y qué se espera de él?",
+    "El cuarto son los factores que influyen en el uso del audífono, como la destreza manual, la visión y el estado cognitivo."
+   ]
+  },
+  {
+   "id": "surec",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la candidatura?",
+   "baslik": "*Pasos* de la evaluación de necesidades",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Anamnesis",
+     "cumle": 0,
+     "metin": "El relato de la persona"
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Pruebas",
+     "cumle": 1,
+     "metin": "Umbrales, habla, ruido"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Cuestionario",
+     "cumle": 2,
+     "metin": "Autoevaluación"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Metas",
+     "cumle": 3,
+     "metin": "COSI"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Decisión compartida",
+     "cumle": 4,
+     "metin": "Se discuten las opciones"
+    }
+   ],
+   "cumleler": [
+    "La evaluación empieza con la anamnesis en las propias palabras de la persona; si es posible, también se escucha a un familiar.",
+    "Luego vienen la audiometría tonal y la logoaudiometría; en esta etapa, una prueba de habla en ruido también es muy valiosa.",
+    "Los cuestionarios de autoevaluación, como el Inventario de Handicap Auditivo para Adultos Mayores (HHIE), muestran qué significa la dificultad para la persona.",
+    "Después se identifican y se anotan las metas de comunicación más importantes para la persona.",
+    "En el último paso, todos los hallazgos se comparten con la persona y las opciones, incluidos los audífonos, se discuten en conjunto.",
+    "Este enfoque se llama toma de decisiones compartida, y aumenta la adopción de audífonos."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "Ejemplo: una pérdida *bilateral*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Vía aérea del oído derecho",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Vía ósea del oído derecho",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Vía aérea del oído izquierdo",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Rango normal",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       30,
+       35,
+       45,
+       55,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       25,
+       35,
+       40,
+       50,
+       55
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       30,
+       40,
+       45,
+       55,
+       65,
+       70
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, el oído derecho muestra una pérdida leve a moderadamente severa que aumenta hacia las frecuencias agudas.",
+    "Los umbrales por vía ósea están cerca de los de vía aérea, así que la pérdida es neurosensorial.",
+    "El oído izquierdo tiene una pérdida de grado similar; los dos oídos son parecidos entre sí, es decir, simétricos.",
+    "Esta persona suele entender una conversación cara a cara en silencio, pero se le escapan las consonantes agudas.",
+    "Una pérdida bilateral simétrica es un ejemplo típico para adaptar audífonos en ambos oídos.",
+    "Sin embargo, el audiograma no nos dice cuánto le cuesta a la persona el ruido ni si quiere un audífono."
+   ]
+  },
+  {
+   "id": "snr",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "*Pérdida de SNR* en el ruido",
+   "sutunlar": [
+    "Pérdida de SNR",
+    "Interpretación",
+    "Posible significado"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "0 a 3 dB",
+      "Normal o casi normal",
+      "Bien en el ruido"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "3 a 7 dB",
+      "Leve",
+      "Puede ser casi normal"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "7 a 15 dB",
+      "Moderada",
+      "Importan los direccionales"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Más de 15 dB",
+      "Severa",
+      "Quizá micrófono remoto"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Las pruebas de habla en ruido muestran cuánta dificultad tiene una persona en el ruido, con independencia del audiograma.",
+    {
+     "yazi": "La prueba Quick Speech-in-Noise, o QuickSIN, da el resultado como pérdida de relación señal-ruido, o de SNR; de 0 a 3 dB es casi normal."
+    },
+    "De 3 a 7 dB es una pérdida de SNR leve; estas personas pueden rendir en el ruido de forma parecida a los normoyentes.",
+    "De 7 a 15 dB es moderada; las funciones orientadas al ruido, como los micrófonos direccionales, cobran importancia.",
+    "Con una pérdida de más de 15 dB, pueden necesitarse sistemas adicionales, como un micrófono remoto.",
+    "Este resultado también es una herramienta de orientación potente para conversar sobre lo que puede esperarse en el ruido."
+   ]
+  },
+  {
+   "id": "yonlendir",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "Primero, derivar al *médico*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Pérdida súbita",
+     "cumle": 0,
+     "metin": "Pérdida de progresión rápida"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Asimetría",
+     "cumle": 1,
+     "metin": "Pérdida unilateral"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Secreción",
+     "cumle": 2,
+     "metin": "Dolor o sangrado"
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Mareo",
+     "cumle": 3,
+     "metin": "Nuevo o persistente"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Brecha aéreo-ósea",
+     "cumle": 4,
+     "metin": "Componente conductivo"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Problema visible",
+     "cumle": 5,
+     "metin": "Malformación, tapón de cerumen"
+    }
+   ],
+   "cumleler": [
+    "Antes de recomendar un audífono, hay que descartar las condiciones que requieren evaluación médica.",
+    "Las principales son una pérdida súbita o de progresión rápida y una pérdida unilateral o asimétrica sin explicación.",
+    "Si hay secreción, dolor o sangrado del oído, primero se necesita una evaluación médica.",
+    "Un mareo nuevo o persistente también es motivo de derivación al médico.",
+    "Una brecha aéreo-ósea marcada puede indicar un problema conductivo tratable.",
+    "Una malformación del pabellón o del conducto auditivo, un tapón de cerumen o un cuerpo extraño también los evalúa primero un médico."
+   ]
+  },
+  {
+   "id": "motivasyon",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Motivación y expectativas",
+   "baslik": "¿Está *lista* la persona?",
+   "maddeler": [
+    {
+     "metin": "¿Quién quiere el audífono?",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Una escala de cero a diez",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Etapas del cambio",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Hablar de las preocupaciones por el estigma",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "sosyal_izolasyon",
+    "cumle": 0,
+    "ayar": {
+     "yalniz_cumle": 1
+    },
+    "etiketler": [
+     {
+      "parca": "yalniz_kisi",
+      "metin": "¿acepta su dificultad?",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Para entender la motivación, la primera pregunta es sencilla: ¿quiere el audífono la persona o su familia?",
+    "Una persona que viene por insistencia de sus familiares y no acepta su propia dificultad tiene más probabilidades de dejar de usar el audífono.",
+    "Se le puede pedir a la persona que marque en una escala de cero a diez qué tan importante es para ella hacer algo por su audición.",
+    "Según el modelo de las etapas del cambio, la persona puede estar aún en la contemplación; entonces, primero van la información y el tiempo.",
+    "En lugar de venderle un audífono a alguien que no está listo, a menudo es mejor opción planificar la próxima visita.",
+    "Las preocupaciones por el estigma y el costo también influyen en la motivación; hablarlas abiertamente genera confianza."
+   ]
+  },
+  {
+   "id": "beklenti",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Motivación y expectativas",
+   "baslik": "*Expectativas* realistas",
+   "ogeler": [
+    {
+     "ikon": "yanlis",
+     "baslik": "Audición normal",
+     "cumle": 0,
+     "metin": "No se recupera"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido",
+     "cumle": 1,
+     "metin": "El beneficio puede ser limitado"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Aclimatación",
+     "cumle": 2,
+     "metin": "Lleva semanas"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Cuidado",
+     "cumle": 3,
+     "metin": "Requiere esfuerzo diario"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Logros",
+     "cumle": 4,
+     "metin": "La comunicación se facilita"
+    }
+   ],
+   "cumleler": [
+    "Las expectativas están entre los factores que más influyen en la satisfacción con los audífonos.",
+    "Un audífono no devuelve la audición normal; la persona debe saberlo desde el principio.",
+    "El beneficio puede ser más limitado en entornos ruidosos que en entornos silenciosos.",
+    "El cerebro puede tardar algunas semanas en acostumbrarse a los sonidos nuevos; los primeros días, los sonidos pueden parecer artificiales y ruidosos.",
+    "El audífono necesita limpieza diaria, carga o pilas, y controles periódicos.",
+    {
+     "yazi": "Las expectativas también pueden explorarse antes de la adaptación con la Escala de Consecuencias Esperadas del Uso de Audífonos, o ECHO."
+    }
+   ]
+  },
+  {
+   "id": "cosi",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Metas con la COSI",
+   "baslik": "*COSI*: las metas de la propia persona",
+   "maddeler": [
+    {
+     "metin": "Hasta _cinco_ situaciones concretas",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "En las propias palabras de la persona",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ordenadas por importancia",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Dos preguntas en el control",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "METAS DE EJEMPLO",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "Televisión",
+      "cumle": 1,
+      "metin": "Mismo volumen que mi pareja"
+     },
+     {
+      "ikon": "is_yeri",
+      "baslik": "Reunión",
+      "cumle": 1,
+      "metin": "Reunión de equipo del lunes"
+     },
+     {
+      "ikon": "telefon",
+      "baslik": "Teléfono",
+      "cumle": 1,
+      "metin": "Hablar con mi nieto"
+     }
+    ]
+   },
+   "cumleler": [
+    "La Escala de Mejoría Orientada al Cliente, o COSI, se desarrolló en Australia.",
+    "La persona nombra hasta cinco situaciones concretas en las que tiene dificultades por su audición y quiere mejorar.",
+    "Las situaciones no se escriben en términos generales, sino de forma concreta, con las propias palabras de la persona.",
+    "Luego estas metas se ordenan según su importancia para la persona.",
+    "Tras el uso del audífono, se hacen dos preguntas para cada meta: ¿cuánto ha cambiado? y ¿con qué frecuencia lo logras ahora?",
+    "Así, el éxito no se mide por el audiograma, sino por las situaciones que le importan a la persona."
+   ]
+  },
+  {
+   "id": "cosi_ornek",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Metas con la COSI",
+   "baslik": "Un ejemplo de *seguimiento* con la COSI",
+   "sutunlar": [
+    "Meta",
+    "Cambio",
+    "Capacidad actual"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "TV con la pareja",
+      "Mejor",
+      "75 por ciento"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Reunión de equipo",
+      "Algo mejor",
+      "50 por ciento"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Teléfono con el nieto",
+      "Mucho mejor",
+      "95 por ciento"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "La pregunta sobre el cambio tiene cinco opciones: peor, sin diferencia, algo mejor, mejor y mucho mejor.",
+    "La capacidad actual también se da en cinco niveles, que corresponden al 10, 25, 50, 75 y 95 por ciento del tiempo.",
+    "En este ejemplo, la persona está mejor al ver televisión con su pareja y lo logra la mayor parte del tiempo.",
+    "En la reunión de equipo la mejora es solo leve; esta meta da una pista para el ajuste fino y para soluciones adicionales.",
+    "La meta del teléfono, en cambio, está mucho mejor, con éxito casi todo el tiempo.",
+    "Una tabla así da una base concreta para conversar con la persona sobre los siguientes pasos."
+   ]
+  },
+  {
+   "id": "sgk",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Metas con la COSI",
+   "baslik": "Reglas del *informe médico* en Turquía",
+   "maddeler": [
+    {
+     "metin": "Informe de junta médica con otorrinolaringólogo",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Promedio de cuatro frecuencias: 26 dB o más",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Resultados válidos por 6 meses",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Regla de pago, no criterio de candidatura",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Consultar la normativa vigente",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "En Turquía, para que la Institución de Seguridad Social cubra el costo de un audífono, se exige un informe de junta médica.",
+    "El informe se emite en una institución de salud oficial, y la junta incluye al menos a un especialista en otorrinolaringología.",
+    "El promedio por vía aérea en 500, 1000, 2000 y 4000 Hz debe ser de al menos 26 dB en el oído correspondiente.",
+    "Desde los ocho años también se exige una prueba de discriminación del habla; antes de los cuatro, se usan pruebas electrofisiológicas y conductuales.",
+    "Según la normativa, los resultados de las pruebas audiológicas son válidos por 6 meses.",
+    "Estos criterios son una condición para el pago; la candidatura clínica se basa en la evaluación más amplia que vimos antes.",
+    "Estas reglas pueden actualizarse cuando cambia la normativa; en la práctica, consulta siempre la norma vigente."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Metas COSI concretas, con palabras de la persona: no \"entender en el ruido\", sino \"hablar con mi hija en un café los sábados por la tarde\". Lo concreto se mide.",
+   "cumleler": [
+    "Un consejo de la práctica: escribe las metas de la COSI de la forma más concreta posible.",
+    "Con una meta general, como entender en el ruido, es difícil juzgar si las cosas han mejorado.",
+    "Una meta como hablar con mi hija en un café los sábados por la tarde también te muestra en qué concentrarte durante el ajuste fino.",
+    "Escribir la meta con las propias palabras de la persona aumenta su participación en el proceso y su apropiación de él.",
+    "Abrir juntos la misma hoja en la visita de control permite compartir los avances con la persona de forma concreta."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "La candidatura va más allá del audiograma",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Descartar motivos de derivación médica",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Motivación y expectativas determinan los resultados",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "COSI: hasta cinco metas personales",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que la candidatura no se decide por un único corte en decibeles, sino por la dificultad de comunicación y el beneficio probable.",
+    "Antes de un audífono, hay que descartar las condiciones que requieren derivación al médico.",
+    "La motivación y unas expectativas realistas están entre los predictores más fuertes del éxito con audífonos.",
+    "La COSI permite fijar metas con hasta cinco situaciones elegidas por la persona y hacer seguimiento del resultado."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "En la COSI, ¿cuántas metas puede fijar la persona como máximo?",
+   "secenekler": [
+    "Tres",
+    "Cinco",
+    "Diez",
+    "Veinticinco"
+   ],
+   "dogru": 1,
+   "aciklama": "En la COSI la persona elige hasta _cinco situaciones concretas_ y las ordena por importancia.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en la COSI, ¿cuál es el número máximo de metas de comunicación que fija una persona?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: cinco.",
+    "La persona elige hasta cinco situaciones concretas, las ordena y, en el control, califica para cada una el cambio y la capacidad actual."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Fórmulas prescriptivas: *NAL-NL2* y DSL v5",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "En la próxima lección veremos las fórmulas prescriptivas que calculan cuánta ganancia debe dar un audífono: NAL-NL2 y DSL v5."
+    },
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

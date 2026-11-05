@@ -1,0 +1,769 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D245_Electric_Acoustic_Stimulation_ES",
+ "kapak": {
+  "ust": "LECCIÓN 245",
+  "baslik": "Estimulación<br>*electroacústica*",
+  "alt": "Acústica y eléctrica en un mismo oído",
+  "grafik": {
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      30,
+      45,
+      70,
+      95,
+      105,
+      110
+     ],
+     "yanitsiz": [
+      5
+     ]
+    }
+   ],
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   }
+  }
+ },
+ "youtube": {
+  "baslik": "Estimulación electroacústica (EAS) y sistemas híbridos | Lección 245 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Puede un mismo oído recibir estimulación acústica y eléctrica cuando se conserva la audición en los graves pero se perdieron los agudos? En esta lección vemos la lógica de la candidatura a la estimulación electroacústica (EAS), la cirugía de preservación de la audición, cómo se clasifica la preservación auditiva, la programación y los resultados esperables.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: von Ilberg et al. (1999), Electric-acoustic stimulation of the auditory system, ORL; Gantz y Turner (2003), Combining acoustic and electrical hearing, Laryngoscope; Skarzynski et al. (2013), Towards a consensus on a hearing preservation classification system, Acta Oto-Laryngologica; Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "implantecoclear",
+   "EAS"
+  ],
+  "etiketler": [
+   "estimulación electroacústica",
+   "EAS",
+   "implante coclear híbrido",
+   "dispositivo híbrido",
+   "preservación de la audición",
+   "audición residual",
+   "frecuencia de cruce",
+   "ventana redonda",
+   "hipoacusia en caída abrupta",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 245",
+   "baslik": "Estimulación *electroacústica*",
+   "alt": "Acústica y eléctrica en el mismo oído",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo un mismo oído puede recibir estimulación acústica y eléctrica cuando se conserva audición en los graves.",
+    "Hablaremos de la candidatura, la cirugía de preservación de la audición, la programación y los resultados esperables."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Para quién es?",
+   "baslik": "Ejemplo: una pérdida en *caída abrupta*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Rango _normal_",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       30,
+       45,
+       70,
+       95,
+       105,
+       110
+      ],
+      "yanitsiz": [
+       5
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, el oído derecho tiene una pérdida de leve a moderada en los graves y una pérdida profunda en los agudos.",
+    "En pérdidas en caída abrupta como esta, un audífono hace audibles los sonidos graves, pero a menudo no logra hacer audibles las consonantes agudas.",
+    "La persona oye los sonidos, pero le cuesta entender el habla, sobre todo en ruido y con las consonantes agudas.",
+    "Un implante coclear estándar transmite bien las frecuencias agudas, pero la audición natural en los graves puede perderse al insertar el electrodo.",
+    "La estimulación electroacústica (EAS) busca combinar estos dos mundos en el mismo oído.",
+    "Las frecuencias agudas se estimulan eléctricamente con el implante, y las graves, acústicamente con sonido amplificado.",
+    "Los valores son solo un ejemplo; la decisión real de candidatura llega tras una evaluación completa y un análisis en equipo."
+   ]
+  },
+  {
+   "id": "aday",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Para quién es?",
+   "baslik": "*Candidatura* a la EAS",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Frecuencias graves",
+     "cumle": 0,
+     "metin": "Audición aprovechable"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Frecuencias agudas",
+     "cumle": 2,
+     "metin": "De severa a profunda"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Comprensión con audífono",
+     "cumle": 3,
+     "metin": "Beneficio limitado"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Criterios",
+     "cumle": 4,
+     "metin": "Varían según país y dispositivo"
+    }
+   ],
+   "cumleler": [
+    "El candidato a EAS tiene en los graves una audición residual aprovechable, que puede beneficiarse de la amplificación.",
+    "Por ejemplo, los estudios de aprobación en Estados Unidos exigían umbrales hasta 500 hercios no peores que unos 60 a 65 decibeles HL.",
+    "En las frecuencias medias y agudas, la pérdida es de severa a profunda.",
+    "Con audífonos bien adaptados, el beneficio en el reconocimiento de palabras es limitado; es la misma lógica que la candidatura al implante estándar.",
+    "Los criterios varían según el país, el dispositivo y las normas de reembolso; en Turquía debe consultarse el Comunicado de Aplicación en Salud vigente.",
+    "También importa si la audición residual es progresiva; con una pérdida que avanza rápido, la audición preservada puede no durar mucho."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Para quién es?",
+   "baslik": "Una *breve historia* de la EAS",
+   "adimlar": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "1999",
+     "cumle": 0,
+     "metin": "Primer informe de EAS"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Electrodo corto",
+     "cumle": 1,
+     "metin": "Limitado a la base"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Cirugía atraumática",
+     "cumle": 2,
+     "metin": "Proteger la cóclea"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Un solo procesador",
+     "cumle": 3,
+     "metin": "Acústico y eléctrico"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En 1999, von Ilberg y sus colegas publicaron los primeros resultados de combinar estimulación eléctrica y acústica en el mismo oído.",
+     "ses": "En 1999, fon Ílberg y sus colegas publicaron los primeros resultados de combinar estimulación eléctrica y acústica en el mismo oído."
+    },
+    {
+     "yazi": "Por la misma época, Gantz y Turner intentaron preservar la audición en los graves con electrodos cortos colocados solo en la base de la cóclea.",
+     "ses": "Por la misma época, Gants y Térner intentaron preservar la audición en los graves con electrodos cortos colocados solo en la base de la cóclea."
+    },
+    "En los años siguientes se desarrollaron electrodos delgados y flexibles, y técnicas quirúrgicas que causan un daño coclear mínimo.",
+    "Hoy, en muchos sistemas, el mismo procesador entrega tanto la estimulación del implante como el sonido acústico en el conducto auditivo.",
+    "Preservar la audición residual ya es un objetivo no solo en los candidatos a EAS, sino también en muchas cirugías de implante estándar."
+   ]
+  },
+  {
+   "id": "koklea",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "¿Cómo funciona?",
+   "baslik": "Eléctrica en la base, acústica en el *ápice*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 500
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "base: estimulación eléctrica",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "ápice: estimulación acústica",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "ventana redonda",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "cumle": 2
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 3
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "taban",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "tepe",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La lógica de la EAS se basa en el mapa de frecuencias de la cóclea.",
+    "Las células ciliadas de la base se han perdido en gran parte; esta región se estimula eléctricamente con la guía de electrodos.",
+    "Cerca del ápice, las células ciliadas todavía funcionan en gran parte; los sonidos graves llegan a esta región de forma acústica, por la onda viajera.",
+    "Por eso la guía se introduce de modo que no dañe esta región; su longitud y su profundidad de inserción se eligen en consecuencia.",
+    "El electrodo suele insertarse lentamente por la ventana redonda, para causar el mínimo daño a las estructuras internas de la cóclea.",
+    "Así, dos tipos de estimulación conviven en el mismo oído: la eléctrica para los agudos y el sonido acústico para los graves."
+   ]
+  },
+  {
+   "id": "bolgeler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "¿Cómo funciona?",
+   "baslik": "La *frecuencia* de cruce",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 10,
+     "ad": "Nivel de audición (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "kalan_isitme",
+      "noktalar": [
+       [
+        125,
+        30
+       ],
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        40
+       ],
+       [
+        750,
+        55
+       ],
+       [
+        1000,
+        70
+       ],
+       [
+        2000,
+        95
+       ],
+       [
+        4000,
+        105
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "audición residual",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "akustik",
+      "x": [
+       125,
+       750
+      ],
+      "renk": "sari",
+      "etiket": "acústica",
+      "cumle": 1
+     },
+     {
+      "ad": "elektrik",
+      "x": [
+       750,
+       8000
+      ],
+      "renk": "mavi",
+      "etiket": "eléctrica",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kesisim",
+      "x": 750,
+      "y": 55,
+      "cizgi": "dikey",
+      "etiket": "frecuencia de cruce",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "akustik",
+     "cumle": 1
+    },
+    {
+     "parca": "elektrik",
+     "cumle": 2
+    },
+    {
+     "parca": "kesisim",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Este gráfico muestra la audición en graves preservada tras la cirugía en un usuario de EAS de ejemplo.",
+    "En los graves, donde la amplificación acústica ayuda, el sonido se entrega en el conducto auditivo a través de un receptor.",
+    "Las frecuencias más altas se asignan a los electrodos y se entregan eléctricamente.",
+    "El punto donde se encuentran ambas regiones se llama frecuencia de cruce; se elige a partir del audiograma de la persona.",
+    "Al fijar la frecuencia de cruce, se busca evitar tanto la superposición entre ambos tipos de estimulación como un hueco entre ellos.",
+    "La parte acústica suele entregarse con un pequeño receptor conectado al mismo procesador, con un molde auricular o un domo."
+   ]
+  },
+  {
+   "id": "cerrahi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Preservación de la audición",
+   "baslik": "Cirugía de *preservación* de la audición",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Ventana redonda",
+     "cumle": 0,
+     "metin": "Entrada pequeña y suave"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Inserción lenta",
+     "cumle": 1,
+     "metin": "Sin aumento de presión"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Electrodo delgado",
+     "cumle": 2,
+     "metin": "Flexible, de longitud adecuada"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Corticoides",
+     "cumle": 3,
+     "metin": "En algunos centros"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Monitoreo intraoperatorio",
+     "cumle": 4,
+     "metin": "Con ECochG"
+    }
+   ],
+   "cumleler": [
+    "La preservación de la audición exige el menor trauma posible a la cóclea; esto también se llama cirugía mínimamente traumática.",
+    "El electrodo suele introducirse muy lentamente y de forma controlada por la ventana redonda o por una pequeña abertura cercana.",
+    "Un electrodo delgado, flexible y de longitud adecuada reduce la probabilidad de dañar la membrana basilar y las estructuras internas.",
+    "Algunos centros usan corticoides en el período de la cirugía para proteger el oído interno.",
+    "Monitorizar la respuesta coclear con electrococleografía durante la cirugía puede mostrarle al cirujano, en tiempo real, un riesgo de daño.",
+    "Estas técnicas las elige el cirujano con el equipo; el audiólogo mide la audición en detalle antes y después de la cirugía."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Preservación de la audición",
+   "baslik": "¿Cuánto se *preservó?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 1000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 10,
+     "ad": "Nivel de audición (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "once",
+      "noktalar": [
+       [
+        125,
+        25
+       ],
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        40
+       ],
+       [
+        1000,
+        70
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "antes de la cirugía",
+      "cumle": 0
+     },
+     {
+      "ad": "sonra",
+      "noktalar": [
+       [
+        125,
+        55
+       ],
+       [
+        250,
+        60
+       ],
+       [
+        500,
+        70
+       ],
+       [
+        1000,
+        95
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "después de la cirugía",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kayma",
+      "y": [
+       30,
+       60
+      ],
+      "xk": 250,
+      "etiket": "desplazamiento del umbral",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kayma",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Antes de la cirugía se miden en detalle los umbrales en los graves; en este ejemplo, la línea azul oscuro muestra los umbrales preoperatorios.",
+    "Después de la cirugía, los umbrales se vuelven a medir; la mayoría de las personas muestra algún desplazamiento.",
+    "La magnitud del desplazamiento se calcula con la diferencia entre los promedios de graves antes y después de la cirugía.",
+    {
+     "yazi": "La clasificación de Skarzynski y sus colegas, de 2013, relaciona el desplazamiento con el rango de audición residual y expresa la preservación en porcentaje."
+    },
+    "Más del setenta y cinco por ciento es preservación completa; del veinticinco al setenta y cinco, parcial, y menos del veinticinco, mínima.",
+    "Si no queda audición medible, se considera que no hubo preservación.",
+    "Este lenguaje común permite comparar los resultados de distintos centros y técnicas; este ejemplo corresponde a una preservación parcial."
+   ]
+  },
+  {
+   "id": "uzun_vade",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Preservación de la audición",
+   "baslik": "¿La audición preservada es *permanente?*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "Pérdida tardía",
+     "cumle": 0,
+     "metin": "Meses o años después"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Causas",
+     "cumle": 1,
+     "metin": "No del todo conocidas"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Flexibilidad",
+     "cumle": 2,
+     "metin": "Pasar a lo eléctrico"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Orientación",
+     "cumle": 4,
+     "metin": "Explicar de antemano"
+    }
+   ],
+   "cumleler": [
+    "En algunas personas, la audición preservada justo después de la cirugía puede disminuir con los meses o los años.",
+    "La causa no se conoce del todo; la reacción tisular en el oído interno y la evolución natural de la pérdida están entre los posibles factores.",
+    "Si la audición en los graves disminuye, el mapa puede cambiarse para enviar los graves a los electrodos, con estimulación totalmente eléctrica.",
+    "Por eso algunos equipos prefieren un electrodo que alcance una profundidad capaz de transmitir también los graves si hace falta.",
+    "Antes de la cirugía se le explica claramente a la persona que el equipo intentará preservar la audición residual, pero que no está garantizado."
+   ]
+  },
+  {
+   "id": "programlama",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Programación y resultados",
+   "baslik": "*Programación* de la EAS",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiograma actual",
+     "cumle": 0,
+     "metin": "En cada consulta"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Cruce",
+     "cumle": 1,
+     "metin": "Elegir la frecuencia"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Parte acústica",
+     "cumle": 2,
+     "metin": "Con una prescripción"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Parte eléctrica",
+     "cumle": 3,
+     "metin": "T y C/M"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Verificación",
+     "cumle": 4,
+     "metin": "Medición y pruebas"
+    }
+   ],
+   "cumleler": [
+    "La programación de la EAS empieza con un audiograma actualizado en cada consulta, porque la parte acústica se ajusta directamente con esos umbrales.",
+    "La frecuencia de cruce se elige según el límite superior hasta el que la audición en graves se beneficia de la amplificación acústica.",
+    "La parte acústica se adapta como un audífono, con una fórmula prescriptiva y, si es posible, se verifica con medición en oído real.",
+    "En la parte eléctrica, como en un implante estándar, se fijan los niveles T y C o M.",
+    "Por último, se comprueba si ambas partes suenan naturales y equilibradas juntas, y se hacen pruebas de habla.",
+    "A medida que cambia la audición residual, también se actualizan la frecuencia de cruce y la ganancia acústica."
+   ]
+  },
+  {
+   "id": "sonuclar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Programación y resultados",
+   "baslik": "*Qué* esperar con la EAS",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "En ruido",
+     "cumle": 0,
+     "metin": "Mejor que solo eléctrica"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Música",
+     "cumle": 2,
+     "metin": "Melodía y timbre"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Naturalidad",
+     "cumle": 3,
+     "metin": "Sonido más natural"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "En conjunto",
+     "cumle": 4,
+     "metin": "Mejor que cada una sola"
+    }
+   ],
+   "cumleler": [
+    "Los estudios muestran que la audición preservada en los graves contribuye claramente a entender el habla, sobre todo en ruido.",
+    "Esto se explica porque la información tonal de los graves ayuda a separar el habla del fondo.",
+    "Al escuchar música, la percepción de la melodía y el timbre suele ser mejor que con la estimulación eléctrica sola.",
+    "Los usuarios suelen encontrar el sonido más natural y menos mecánico.",
+    "En muchas personas, el beneficio de la estimulación acústica y eléctrica juntas supera al de cada una por separado.",
+    "El beneficio varía de una persona a otra y depende de cuánta audición se preservó."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Volver a medir los umbrales graves en cada consulta de EAS. Si cambiaron, actualizar la ganancia acústica y la frecuencia de cruce ese mismo día.",
+   "cumleler": [
+    "Un consejo de la clínica: en cada consulta, vuelvan a medir los umbrales graves del oído implantado del usuario de EAS.",
+    "Pasar por alto un cambio de umbral y mantener los ajustes acústicos anteriores lleva a amplificar los graves de menos o de más.",
+    "Si los umbrales empeoraron, actualicen la ganancia acústica y la frecuencia de cruce ese mismo día, y explíquenle el motivo a la persona.",
+    "Indiquen a la persona que se comunique sin demora con el centro si nota un cambio repentino en su audición."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Agudos eléctricos, graves acústicos",
+     "cumle": 0,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Candidato: conserva graves, no agudos",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Preservación con cirugía mínimamente traumática",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Beneficio en ruido y música",
+     "cumle": 3,
+     "ikon": "muzik"
+    }
+   ],
+   "cumleler": [
+    "La estimulación electroacústica estimula en el mismo oído los agudos de forma eléctrica y los graves de forma acústica.",
+    "El candidato tiene audición aprovechable en los graves, pero una pérdida de severa a profunda en los agudos.",
+    "La cirugía de preservación y la elección del electrodo buscan conservar la audición en graves; la preservación puede ser completa, parcial o mínima.",
+    "La audición preservada en graves ayuda con el habla en ruido, la música y la naturalidad; los umbrales se vuelven a medir en cada consulta."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cómo se entregan los graves en la EAS?",
+   "secenekler": [
+    "Con estimulación eléctrica",
+    "Con amplificación acústica",
+    "Por vía ósea",
+    "No se entregan"
+   ],
+   "dogru": 1,
+   "aciklama": "La audición residual en graves se estimula _acústicamente_; los agudos, eléctricamente.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en un sistema de EAS, ¿cómo se entregan habitualmente las frecuencias graves?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: con amplificación acústica.",
+    "La audición preservada en graves se estimula con sonido amplificado en el conducto auditivo; las frecuencias agudas se asignan a los electrodos."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Sordera unilateral y la opción del *implante* coclear",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos el implante coclear en la sordera unilateral y cómo se compara con otras opciones.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

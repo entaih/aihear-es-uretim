@@ -1,0 +1,1182 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D199_ECochG_SP_AP_ES",
+ "kapak": {
+  "ust": "LECCIÓN 199",
+  "baslik": "*ECochG*<br>y PS/PA",
+  "alt": "Electrococleografía e hidrops",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 5,
+    "ad": "Tiempo (ms)",
+    "isaretler": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   "y": {
+    "min": -1.2,
+    "max": 0.3,
+    "adim": 0.5,
+    "ad": "Amplitud (µV)",
+    "ond": 1
+   },
+   "seriler": [
+    {
+     "ad": "normal",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       0.6,
+       0
+      ],
+      [
+       0.75,
+       -0.05
+      ],
+      [
+       0.9,
+       -0.2
+      ],
+      [
+       1.05,
+       -0.25
+      ],
+      [
+       1.22,
+       -0.2625
+      ],
+      [
+       1.38,
+       -0.75
+      ],
+      [
+       1.5,
+       -1.0
+      ],
+      [
+       1.62,
+       -0.7
+      ],
+      [
+       1.8,
+       -0.35
+      ],
+      [
+       2.1,
+       -0.18
+      ],
+      [
+       2.6,
+       -0.08
+      ],
+      [
+       3.2,
+       0
+      ],
+      [
+       5,
+       0
+      ]
+     ],
+     "renk": "gri",
+     "yumusak": true,
+     "kesik": true,
+     "etiket": "ejemplo normal",
+     "cumle": 1
+    },
+    {
+     "ad": "hidrops",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       0.6,
+       0
+      ],
+      [
+       0.75,
+       -0.05
+      ],
+      [
+       0.9,
+       -0.48
+      ],
+      [
+       1.05,
+       -0.6
+      ],
+      [
+       1.22,
+       -0.63
+      ],
+      [
+       1.38,
+       -0.75
+      ],
+      [
+       1.5,
+       -1.0
+      ],
+      [
+       1.62,
+       -0.7
+      ],
+      [
+       1.8,
+       -0.35
+      ],
+      [
+       2.1,
+       -0.18
+      ],
+      [
+       2.6,
+       -0.08
+      ],
+      [
+       3.2,
+       0
+      ],
+      [
+       5,
+       0
+      ]
+     ],
+     "renk": "mavi",
+     "yumusak": true,
+     "kalin": true,
+     "etiket": "ejemplo con hidrops",
+     "cumle": 3
+    }
+   ],
+   "araliklar": [
+    {
+     "ad": "buyuk_sp",
+     "y": [
+      -0.6,
+      0
+     ],
+     "xk": 0.95,
+     "etiket": "PS grande",
+     "cumle": 4
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Electrococleografía (ECochG) y la relación PS/PA | Lección 199 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué es la electrococleografía y cómo se calcula la relación PS/PA? En esta lección vemos el microfónico coclear, el potencial de suma y el potencial de acción, los electrodos transtimpánicos y extratimpánicos, y el valor diagnóstico de una relación PS/PA aumentada en el hidrops endolinfático.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Lopez-Escamez et al., Diagnostic criteria for Meniere's disease, Journal of Vestibular Research (2015); Ayub et al., A systematic review and meta-analysis of extratympanic electrocochleography in Ménière's disease diagnosis, International Journal of Audiology (2019).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "ECochG",
+   "Meniere"
+  ],
+  "etiketler": [
+   "ECochG",
+   "electrococleografía",
+   "relación PS/PA",
+   "potencial de suma",
+   "potencial de acción",
+   "microfónico coclear",
+   "hidrops endolinfático",
+   "enfermedad de Ménière",
+   "tiptrodo",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 199",
+   "baslik": "*ECochG* y la relación PS/PA",
+   "alt": "El registro electrofisiológico más cercano a la cóclea",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    {
+     "yazi": "En esta lección veremos la electrococleografía (ECochG) y los tres componentes que aparecen en este registro."
+    },
+    "Veremos los tipos de electrodo, cómo se calcula la relación entre el potencial de suma y el de acción, y su vínculo con el hidrops endolinfático."
+   ]
+  },
+  {
+   "id": "kaynak",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la ECochG?",
+   "baslik": "¿De *dónde* vienen las respuestas?",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Células ciliadas externas",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "Célula ciliada interna",
+     "cumle": 3
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Fibras del nervio coclear",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 2
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 3
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 4
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "corti_organi",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La electrococleografía registra los potenciales eléctricos que el sonido genera en la cóclea y en la primera porción del nervio auditivo.",
+    {
+     "yazi": "Estas respuestas aparecen en los primeros milisegundos tras el estímulo, por eso la ECochG pertenece a las respuestas tempranas."
+    },
+    "Los dos primeros componentes provienen de las células ciliadas: son el microfónico coclear y el potencial de suma.",
+    "Las células ciliadas externas aportan más al microfónico coclear; las internas y las externas juntas aportan al potencial de suma.",
+    "El tercer componente es el potencial de acción, generado por la descarga sincrónica de las fibras del nervio auditivo.",
+    "Cuanto más cerca de la cóclea está el electrodo, más grandes y nítidas se registran estas pequeñas respuestas.",
+    {
+     "yazi": "Así, la ECochG puede entenderse como el registro electrofisiológico tomado desde el punto más cercano a la cóclea."
+    }
+   ]
+  },
+  {
+   "id": "bilesenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la ECochG?",
+   "baslik": "Tres *componentes*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "MC",
+     "metin": "Sigue al estímulo; se invierte con la polaridad.",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "PS",
+     "metin": "Desplaza la línea de base, como corriente continua.",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "PA",
+     "metin": "La respuesta del nervio; onda I de los PEATC.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El microfónico coclear (MC) es una respuesta de corriente alterna que sigue de cerca la forma de onda del estímulo."
+    },
+    {
+     "yazi": "Cuando cambia la polaridad del estímulo, el MC también se invierte, por eso se anula al promediar ambas polaridades."
+    },
+    {
+     "yazi": "El potencial de suma (PS) es un componente similar a una corriente continua que desplaza la línea de base mientras dura el estímulo."
+    },
+    {
+     "yazi": "El PS no cambia de dirección con la polaridad, por eso se mantiene en el registro con polaridad alterna."
+    },
+    {
+     "yazi": "El potencial de acción (PA) es la respuesta compuesta del nervio auditivo, y su primer pico negativo se llama N1."
+    },
+    {
+     "yazi": "El PA es la misma respuesta que la onda I de los potenciales evocados auditivos de tronco cerebral (PEATC); su latencia es de alrededor de 1,5 ms."
+    }
+   ]
+  },
+  {
+   "id": "dalga",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la ECochG?",
+   "baslik": "La *forma de onda* de la ECochG",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 5,
+     "ad": "Tiempo (ms)",
+     "isaretler": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    "y": {
+     "min": -1.2,
+     "max": 0.3,
+     "adim": 0.5,
+     "ad": "Amplitud (µV)",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "iz",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        0.6,
+        0
+       ],
+       [
+        0.75,
+        -0.05
+       ],
+       [
+        0.9,
+        -0.2
+       ],
+       [
+        1.05,
+        -0.25
+       ],
+       [
+        1.22,
+        -0.2625
+       ],
+       [
+        1.38,
+        -0.75
+       ],
+       [
+        1.5,
+        -1.0
+       ],
+       [
+        1.62,
+        -0.7
+       ],
+       [
+        1.8,
+        -0.35
+       ],
+       [
+        2.1,
+        -0.18
+       ],
+       [
+        2.6,
+        -0.08
+       ],
+       [
+        3.2,
+        0
+       ],
+       [
+        5,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "taban",
+      "x": 0.3,
+      "y": 0,
+      "cizgi": "yatay",
+      "etiket": "línea de base",
+      "cumle": 1
+     },
+     {
+      "ad": "sp",
+      "x": 1.15,
+      "y": -0.26,
+      "etiket": "PS",
+      "cumle": 2
+     },
+     {
+      "ad": "ap",
+      "x": 1.5,
+      "y": -1.0,
+      "etiket": "PA (N1)",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "sp_genlik",
+      "y": [
+       -0.26,
+       0
+      ],
+      "xk": 0.95,
+      "etiket": "PS",
+      "cumle": 5
+     },
+     {
+      "ad": "ap_genlik",
+      "y": [
+       -1.0,
+       0
+      ],
+      "xk": 2.2,
+      "etiket": "PA",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Amplitud medida _desde la línea de base_",
+     "cumle": 5,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Relación = PS / PA",
+     "cumle": 6,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Este dibujo esquemático muestra un ejemplo de registro de ECochG obtenido con un clic de polaridad alterna."
+    },
+    "La medición comienza por definir la línea de base del registro.",
+    {
+     "yazi": "Justo antes del PA, un pequeño hombro se separa de la línea de base; ese es el PS."
+    },
+    {
+     "yazi": "Luego viene un pico agudo y grande; es el pico N1 del PA."
+    },
+    "Según el equipo, estos picos pueden graficarse hacia arriba o hacia abajo; lo importante es usar la misma regla de medición.",
+    {
+     "yazi": "Las amplitudes del PS y del PA se miden desde la línea de base hasta el punto correspondiente."
+    },
+    {
+     "yazi": "La amplitud del PS se divide por la amplitud del PA; el resultado se llama relación PS/PA.",
+     "ses": "La amplitud del PS se divide por la amplitud del PA; el resultado se llama relación PS sobre PA."
+    }
+   ]
+  },
+  {
+   "id": "elektrot",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Electrodo y registro",
+   "baslik": "¿*Dónde* va el electrodo?",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "promontorium",
+     "metin": "Transtimpánico: promontorio",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Timpánico: superficie del tímpano",
+     "cumle": 4
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Extratimpánico: conducto auditivo",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "promontorium",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 4
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 5
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "orta_kulak",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En la ECochG, la ubicación del electrodo activo es el factor más importante para el tamaño y la calidad del registro."
+    },
+    "En el método transtimpánico, un electrodo de aguja fina atraviesa la membrana timpánica y se apoya en el promontorio.",
+    "El promontorio es el relieve que forma la vuelta basal de la cóclea en la pared medial del oído medio.",
+    "Lo realiza un médico con anestesia local; con este método se obtienen las respuestas más grandes y nítidas.",
+    "En el método timpánico, un electrodo de punta blanda se apoya en la superficie de la membrana timpánica, sin perforarla.",
+    "En el método extratimpánico, el electrodo se ubica en el conducto auditivo; un ejemplo frecuente son los electrodos de espuma llamados tiptrodos.",
+    "Cuanto más lejos de la cóclea está el electrodo, menor es la respuesta y más promediaciones se necesitan.",
+    "El electrodo de referencia suele ir en el oído o la mastoides contralateral, y el electrodo de tierra en la frente."
+   ]
+  },
+  {
+   "id": "elektrot_secim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Electrodo y registro",
+   "baslik": "Comparar los *tres métodos*",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Transtimpánico",
+     "metin": "Respuesta más grande; invasivo, lo realiza un médico.",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Timpánico",
+     "metin": "Respuesta intermedia; no se perfora el tímpano.",
+     "cumle": 1
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Extratimpánico",
+     "metin": "Cómodo; respuesta pequeña, sensible al ruido.",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "El registro transtimpánico da la respuesta más grande, pero es invasivo y no se ofrece en todos los centros.",
+    "El registro timpánico da una respuesta mayor que el extratimpánico sin ser invasivo, pero el contacto con el tímpano puede ser molesto.",
+    "El registro extratimpánico es el más cómodo, pero las respuestas son pequeñas y el registro es más sensible al ruido.",
+    "Sea cual sea el método elegido, los valores normales son propios de ese método y de ese laboratorio.",
+    "Por eso, una relación obtenida en un centro no se compara con los puntos de corte de otro método."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Electrodo y registro",
+   "baslik": "Estímulo y *registro*",
+   "maddeler": [
+    {
+     "metin": "_Clic_ o tone burst de nivel alto",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Polaridad _alterna_ para PS y PA",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Para el MC, _cada polaridad_ por separado",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Filtro pasa altos _muy bajo_",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Ventana corta, _dos réplicas_",
+     "cumle": 5,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "abr",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "dalga_I",
+      "metin": "Onda I = PA",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En la ECochG se suele usar un clic o un tone burst de nivel alto, de unos noventa decibeles."
+    },
+    {
+     "yazi": "Para medir el PS y el PA se prefiere la polaridad alterna, así el MC y el artefacto del estímulo se anulan en el promedio."
+    },
+    {
+     "yazi": "Si se quiere estudiar el MC, se registran por separado las polaridades de rarefacción y de condensación, y se comparan ambos registros."
+    },
+    {
+     "yazi": "Como el PS es un potencial lento, similar a una corriente continua, el filtro pasa altos se ajusta muy bajo."
+    },
+    {
+     "yazi": "El PS se ve con más claridad con un tone burst, por eso algunos centros también registran con tone burst."
+    },
+    "La ventana de tiempo es corta, y cada registro se obtiene al menos dos veces para confirmar la reproducibilidad."
+   ]
+  },
+  {
+   "id": "hidrops",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "La relación PS/PA",
+   "baslik": "En el hidrops el PS *crece*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 5,
+     "ad": "Tiempo (ms)",
+     "isaretler": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    "y": {
+     "min": -1.2,
+     "max": 0.3,
+     "adim": 0.5,
+     "ad": "Amplitud (µV)",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        0.6,
+        0
+       ],
+       [
+        0.75,
+        -0.05
+       ],
+       [
+        0.9,
+        -0.2
+       ],
+       [
+        1.05,
+        -0.25
+       ],
+       [
+        1.22,
+        -0.2625
+       ],
+       [
+        1.38,
+        -0.75
+       ],
+       [
+        1.5,
+        -1.0
+       ],
+       [
+        1.62,
+        -0.7
+       ],
+       [
+        1.8,
+        -0.35
+       ],
+       [
+        2.1,
+        -0.18
+       ],
+       [
+        2.6,
+        -0.08
+       ],
+       [
+        3.2,
+        0
+       ],
+       [
+        5,
+        0
+       ]
+      ],
+      "renk": "gri",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "ejemplo normal",
+      "cumle": 1
+     },
+     {
+      "ad": "hidrops",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        0.6,
+        0
+       ],
+       [
+        0.75,
+        -0.05
+       ],
+       [
+        0.9,
+        -0.48
+       ],
+       [
+        1.05,
+        -0.6
+       ],
+       [
+        1.22,
+        -0.63
+       ],
+       [
+        1.38,
+        -0.75
+       ],
+       [
+        1.5,
+        -1.0
+       ],
+       [
+        1.62,
+        -0.7
+       ],
+       [
+        1.8,
+        -0.35
+       ],
+       [
+        2.1,
+        -0.18
+       ],
+       [
+        2.6,
+        -0.08
+       ],
+       [
+        3.2,
+        0
+       ],
+       [
+        5,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "ejemplo con hidrops",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "buyuk_sp",
+      "y": [
+       -0.6,
+       0
+      ],
+      "xk": 0.95,
+      "etiket": "PS grande",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Hidrops: el PS _crece_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Punto de corte propio de cada _laboratorio_",
+     "cumle": 6,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El uso más conocido de la ECochG es buscar un hidrops endolinfático, es decir, un exceso de líquido en la rampa media."
+    },
+    "La línea gris discontinua muestra un ejemplo de registro normal, y la línea azul un ejemplo de un oído con hidrops.",
+    "En el hidrops, el exceso de endolinfa empuja la membrana basilar hacia un lado y altera la simetría de su movimiento.",
+    {
+     "yazi": "Como resultado, la respuesta de corriente continua de las células ciliadas, el PS, crece, mientras que el PA no crece en la misma medida."
+    },
+    {
+     "yazi": "Así, la relación PS/PA aumenta y el hombro previo al PA se ve claramente más ancho en el registro.",
+     "ses": "Así, la relación PS sobre PA aumenta y el hombro previo al PA se ve claramente más ancho en el registro."
+    },
+    {
+     "yazi": "Con registro extratimpánico y timpánico, la mayoría de los laboratorios considera aumentado un PS mayor que aproximadamente la mitad del PA."
+    },
+    "Con registro transtimpánico el punto de corte puede ser menor; el valor exacto siempre lo fijan las normas propias del laboratorio."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "La relación PS/PA",
+   "baslik": "Un ejemplo de *interpretación*",
+   "sutunlar": [
+    "Oído",
+    "PS (µV)",
+    "PA (µV)",
+    "PS/PA"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Derecho",
+      "0,3",
+      "1,0",
+      "0,30"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Izquierdo",
+      "0,6",
+      "1,0",
+      "0,60"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Corte de ejemplo",
+      "-",
+      "-",
+      "0,50"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Ahora interpretemos un resultado de ECochG obtenido con registro extratimpánico, con valores puramente de ejemplo."
+    },
+    {
+     "yazi": "En el oído derecho el PS es de cero coma tres y el PA de un microvoltio; la relación es de cero coma treinta."
+    },
+    {
+     "yazi": "En el oído izquierdo el PS es de cero coma seis y el PA otra vez de un microvoltio; la relación es de cero coma sesenta."
+    },
+    "En este ejemplo, supongamos que el límite superior normal del laboratorio es cero coma cincuenta.",
+    "En ese caso, la relación del oído izquierdo se considera aumentada, y el hallazgo puede ser compatible con hidrops endolinfático.",
+    "Este resultado por sí solo no hace un diagnóstico; se entrega al médico junto con la historia, los audiogramas seriados y otras pruebas.",
+    "El informe incluye juntos los valores de ambos oídos, el electrodo usado y el punto de corte del laboratorio."
+   ]
+  },
+  {
+   "id": "deger",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "La relación PS/PA",
+   "baslik": "Su valor *diagnóstico*",
+   "maddeler": [
+    {
+     "metin": "Una relación elevada _apoya_ el hidrops",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Una relación normal _no lo descarta_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Sensibilidad _moderada_, especificidad mayor",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Puede _variar_ con las crisis",
+     "cumle": 5,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "El diagnóstico se basa en _criterios clínicos_",
+     "cumle": 6,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PRECAUCIÓN",
+    "metin": "Una relación normal *no descarta* el hidrops",
+    "cumle": 1
+   },
+   "cumleler": [
+    {
+     "yazi": "Una relación PS/PA aumentada, junto con una historia y un audiograma compatibles, apoya la sospecha de hidrops endolinfático.",
+     "ses": "Una relación PS sobre PA aumentada, junto con una historia y un audiograma compatibles, apoya la sospecha de hidrops endolinfático."
+    },
+    "Pero una relación normal no descarta el hidrops; muchas personas con enfermedad de Ménière tienen una relación normal.",
+    "Un metaanálisis de estudios con registro extratimpánico halló una sensibilidad de alrededor del cincuenta por ciento.",
+    "El mismo análisis informó una especificidad mayor, de alrededor del ochenta y cuatro por ciento.",
+    "Algunos estudios informan mayor sensibilidad con registro transtimpánico y estímulos tone burst; los resultados varían entre centros.",
+    "Los hallazgos también pueden variar según la etapa de la enfermedad y la cercanía del registro a una crisis.",
+    {
+     "yazi": "Como vimos en la lección sobre la enfermedad de Ménière, el diagnóstico se basa en criterios clínicos; la ECochG es una prueba de apoyo."
+    },
+    {
+     "yazi": "Además de la relación de amplitudes, algunos centros usan también la relación entre las áreas bajo las curvas del PS y del PA."
+    }
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso clínico",
+   "baslik": "¿Dónde *más* se usa?",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Tercera ventana",
+     "metin": "Relación elevada en la dehiscencia del canal superior.",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Neuropatía auditiva",
+     "metin": "MC presente, PA ausente.",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Realzar la onda I",
+     "metin": "Electrodo en el conducto ante PEATC dudosos.",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Quirófano",
+     "metin": "Monitorización en cirugía de oído y tronco.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "También se ha descrito una relación PS/PA aumentada en trastornos de tercera ventana, como la dehiscencia del canal semicircular superior.",
+     "ses": "También se ha descrito una relación PS sobre PA aumentada en trastornos de tercera ventana, como la dehiscencia del canal semicircular superior."
+    },
+    {
+     "yazi": "En la neuropatía auditiva, la ECochG puede mostrar un microfónico coclear grande con un PA anormal o ausente."
+    },
+    "Este hallazgo sugiere que las células ciliadas funcionan, pero la sincronía neural está alterada.",
+    {
+     "yazi": "Si la onda I no es clara en los PEATC, un electrodo en el conducto auditivo la agranda y ayuda a medir las latencias interpico."
+    },
+    "También se usa para monitorizar la audición durante la cirugía de oído y de tronco cerebral; lo veremos en una lección posterior."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso clínico",
+   "baslik": "*Pasos* de la prueba",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia",
+     "metin": "¿Conducto despejado?",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Electrodo",
+     "metin": "Colocación y contacto",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Impedancia",
+     "metin": "Baja y equilibrada",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Registro",
+     "metin": "Al menos dos réplicas",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Medición",
+     "metin": "PS, PA, relación",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La otoscopia va antes del registro; el cerumen o la secreción en el conducto afectan el contacto del electrodo y la seguridad del paciente.",
+    "El electrodo se coloca según el método elegido, y se pregunta al paciente si se siente cómodo.",
+    "Se controla la impedancia de los electrodos; una impedancia alta o desequilibrada produce un registro ruidoso.",
+    "El registro se obtiene a un nivel alto y se repite al menos una vez en las mismas condiciones.",
+    {
+     "yazi": "Se marcan la línea de base y los puntos del PS y del PA, se miden las amplitudes y se calcula la relación."
+    },
+    "El informe debe indicar el método de electrodo, el estímulo, el nivel, la polaridad y el límite normal del laboratorio."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Decide dónde medir la línea de base antes de registrar; si el PS y el PA no se miden con la misma regla, la relación engaña.",
+   "cumle": 0,
+   "cumleler": [
+    {
+     "yazi": "Un consejo de la práctica: la relación PS/PA es muy sensible al lugar donde se ubica la línea de base.",
+     "ses": "Un consejo de la práctica: la relación PS sobre PA es muy sensible al lugar donde se ubica la línea de base."
+    },
+    {
+     "yazi": "Marca la línea de base y el punto del PS con la misma regla en cada registro; un pequeño desplazamiento puede cambiar mucho la relación."
+    },
+    {
+     "yazi": "Superpón los registros repetidos; un hombro que no aparece en el mismo lugar en ambos no debe leerse como PS."
+    },
+    "Ante resultados dudosos, repetir el registro con otro estímulo, como un tone burst, refuerza la interpretación."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Tres componentes: _MC, PS, PA_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Electrodo cerca de la cóclea, _mayor respuesta_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "En el hidrops sube la _relación PS/PA_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Una relación normal _no descarta_ el hidrops",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La ECochG registra el microfónico coclear, el potencial de suma y el potencial de acción; el PA es la onda I de los PEATC."
+    },
+    "Hay electrodos transtimpánicos, timpánicos y extratimpánicos; cuanto más cerca de la cóclea, mayor es la respuesta.",
+    {
+     "yazi": "En el hidrops endolinfático el PS crece y la relación PS/PA aumenta.",
+     "ses": "En el hidrops endolinfático el PS crece y la relación PS sobre PA aumenta."
+    },
+    "La relación tiene una sensibilidad moderada; un resultado normal no descarta el hidrops, y el diagnóstico se basa en criterios clínicos."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué se espera en la ECochG en el hidrops?",
+   "secenekler": [
+    "Relación PS/PA elevada",
+    "Pérdida total del PA",
+    "Pérdida del MC",
+    "Latencia del PA más corta"
+   ],
+   "dogru": 0,
+   "aciklama": "En el hidrops el _PS crece_ y la relación PS/PA aumenta.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en el hidrops endolinfático, ¿qué hallazgo se espera en el registro de ECochG?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la A: una relación PS/PA elevada.",
+     "ses": "La respuesta correcta es la A: una relación PS sobre PA elevada."
+    },
+    {
+     "yazi": "El exceso de endolinfa altera el movimiento simétrico de la membrana basilar y el potencial de suma crece; el PA no crece tanto."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Potenciales evocados auditivos de *latencia media*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección iremos más allá del tronco cerebral y veremos los potenciales evocados auditivos de latencia media.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

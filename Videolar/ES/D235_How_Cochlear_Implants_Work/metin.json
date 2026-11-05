@@ -1,0 +1,698 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D235_How_Cochlear_Implants_Work_ES",
+ "kapak": {
+  "ust": "LECCIÓN 235",
+  "baslik": "Cómo funciona<br>el *implante coclear*",
+  "alt": "Unidad externa, unidad interna, estimulación eléctrica",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "¿Cómo funciona un implante coclear? | Lección 235 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo convierte un implante coclear el sonido en una señal eléctrica y estimula el nervio auditivo? En esta lección vemos la unidad externa (micrófono, procesador de sonido, bobina transmisora), la unidad interna (receptor-estimulador, guía de electrodos), las etapas del procesamiento de la señal, la estimulación tonotópica y en qué se diferencia la audición con implante de la audición natural.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Wilson and Dorman, Cochlear implants: a remarkable past and a brilliant future, Hearing Research (2008); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Ling, Speech and the Hearing-Impaired Child.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "implantecoclear",
+   "audicion"
+  ],
+  "etiketler": [
+   "implante coclear",
+   "cómo funciona el implante coclear",
+   "guía de electrodos",
+   "procesador de sonido",
+   "nervio auditivo",
+   "tonotopía",
+   "programación del implante coclear",
+   "seis sonidos de Ling",
+   "adaptación bimodal",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 235",
+   "baslik": "¿Cómo *funciona* un implante coclear?",
+   "alt": "Unidad externa, unidad interna y estimulación eléctrica",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos las partes de un implante coclear y cómo convierte el sonido en estimulación eléctrica.",
+    "Luego veremos en qué se diferencia la audición con implante de la audición natural."
+   ]
+  },
+  {
+   "id": "fikir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La idea básica",
+   "baslik": "¿En qué se *diferencia* de un audífono?",
+   "maddeler": [
+    {
+     "metin": "Audífono: _amplifica_ el sonido",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Implante: _sortea_ las células ciliadas",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Estimula directamente el nervio auditivo",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Para pérdidas severas y profundas",
+     "cumle": 6,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "IMPLANTE COCLEAR",
+    "metin": "Un dispositivo que estimula *eléctricamente* el nervio auditivo",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Un audífono amplifica el sonido y lo entrega al oído por vía acústica.",
+    "Para que esto ayude, una parte de las células ciliadas de la cóclea todavía debe funcionar.",
+    "En las pérdidas severas y profundas se pierde la mayoría de las células ciliadas, así que, por mucho que se amplifique el sonido, puede no ser claro.",
+    "Aquí el implante coclear toma otro camino: sortea las células ciliadas dañadas.",
+    "Los electrodos colocados dentro de la cóclea estimulan directamente con corriente eléctrica las fibras del nervio auditivo y las células del ganglio espiral.",
+    "Es decir, el implante no amplifica el sonido; lo convierte en un código eléctrico que el nervio puede entender.",
+    "Por eso los implantes se desarrollaron para personas con pérdida de severa a profunda que obtienen un beneficio limitado de los audífonos.",
+    "Quién es un candidato adecuado para el implante es un tema de evaluación aparte, que veremos en la próxima lección."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 1",
+   "bolum": "La idea básica",
+   "baslik": "Ejemplo: una pérdida *profunda*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Rango _normal_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       80,
+       90,
+       100,
+       105,
+       110,
+       110
+      ],
+      "cumle": 0,
+      "yanitsiz": [
+       5
+      ]
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       85,
+       95,
+       105,
+       110,
+       115,
+       110
+      ],
+      "cumle": 0,
+      "yanitsiz": [
+       5
+      ]
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, ambos oídos muestran una pérdida auditiva de severa a profunda.",
+    "Los umbrales comienzan alrededor de 80 dB en las frecuencias graves y caen a 110 dB o peor en 4000 Hz; en 8000 Hz no hay respuesta.",
+    "Los sonidos del habla promedio se ubican aproximadamente entre 20 y 60 dB HL en el audiograma, muy por encima de estos umbrales.",
+    "Con una pérdida así, incluso un audífono potente puede no hacer suficientemente audibles los sonidos del habla, sobre todo las consonantes agudas.",
+    "Los sonidos que se oyen también pueden estar distorsionados, porque las células ciliadas restantes no pueden procesar el sonido en detalle.",
+    "Aquí entra el implante, diseñado para llevar el sonido al nervio sorteando la región dañada.",
+    "Los valores son ejemplos; las decisiones reales se basan en una evaluación mucho más completa."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La idea básica",
+   "baslik": "Una breve *historia*",
+   "adimlar": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Primeros experimentos",
+     "metin": "Finales de los años 50",
+     "cumle": 0
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Multicanal",
+     "metin": "Los años 80",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Neuroprótesis",
+     "metin": "El ejemplo más exitoso",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Hoy",
+     "metin": "Más de un millón de implantes",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Los primeros experimentos de estimulación eléctrica del nervio auditivo se remontan a finales de los años cincuenta."
+    },
+    {
+     "yazi": "Los implantes multicanal, similares a los actuales, entraron en uso clínico en los años ochenta."
+    },
+    "Investigadores como Graeme Clark en Australia y el matrimonio Hochmair en Austria tuvieron un papel pionero en este desarrollo.",
+    "Hoy, el implante coclear se considera la neuroprótesis más exitosa, ya que restituye en parte un sentido.",
+    "Se estima que hasta hoy se han colocado más de un millón de implantes cocleares en el mundo."
+   ]
+  },
+  {
+   "id": "parcalar",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Unidad externa e interna",
+   "baslik": "*Partes* del implante",
+   "cizim": "koklear_implant",
+   "etiketler": [
+    {
+     "parca": "dis_islemci",
+     "metin": "procesador de sonido",
+     "cumle": 1
+    },
+    {
+     "parca": "verici_bobin",
+     "metin": "bobina transmisora",
+     "cumle": 2
+    },
+    {
+     "parca": "alici_uyarici",
+     "metin": "receptor-estimulador",
+     "cumle": 4
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "metin": "guía de electrodos",
+     "cumle": 5
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "nervio auditivo",
+     "cumle": 7
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_islemci",
+     "cumle": 1
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Externa: micrófono, procesador, bobina",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Interna: receptor-estimulador, electrodos",
+     "cumle": 4,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Radiofrecuencia a través de la piel",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "elektrot_dizisi",
+     "cumle": 5,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "Un implante coclear consta de una unidad externa, que se lleva por fuera, y una unidad interna, que se coloca mediante cirugía.",
+    "La unidad externa contiene los micrófonos y el procesador de sonido; a menudo se lleva detrás de la oreja.",
+    "Un cable fino conecta el procesador con la bobina transmisora, que se apoya sobre la piel en el costado de la cabeza.",
+    "La bobina envía la señal y la energía a la unidad interna a través de la piel por radiofrecuencia; un imán mantiene la bobina en su lugar.",
+    "La unidad interna tiene un receptor-estimulador colocado bajo la piel detrás de la oreja; no tiene batería propia.",
+    "La guía de electrodos sale del receptor-estimulador y entra en la cóclea.",
+    "La guía suele introducirse en la rampa timpánica a través de la ventana redonda o de una pequeña abertura hecha cerca de ella.",
+    "La corriente de los electrodos estimula las fibras del nervio auditivo cercanas, y la señal se transmite al cerebro."
+   ]
+  },
+  {
+   "id": "uniteler",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 2",
+   "bolum": "Unidad externa e interna",
+   "baslik": "Unidad externa y *unidad interna*",
+   "sol": {
+    "ust": "Unidad externa",
+    "maddeler": [
+     {
+      "metin": "Micrófono y procesador de sonido",
+      "cumle": 0
+     },
+     {
+      "metin": "Batería desechable o recargable",
+      "cumle": 1
+     },
+     {
+      "metin": "Removible, actualizable",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Unidad interna",
+    "maddeler": [
+     {
+      "metin": "Receptor-estimulador e imán",
+      "cumle": 3
+     },
+     {
+      "metin": "De 12 a 22 electrodos, según el fabricante",
+      "cumle": 4
+     },
+     {
+      "metin": "Permanente, alimentada desde afuera",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "La unidad externa capta y procesa el sonido; todo el procesamiento inteligente ocurre aquí.",
+    "Se alimenta con una batería desechable o recargable y, a través de la bobina, también transmite esa energía a la unidad interna.",
+    "La unidad externa puede quitarse cuando se desee, por lo general para dormir o bañarse, y con los años puede reemplazarse por modelos más nuevos.",
+    "La unidad interna está formada por el cuerpo del receptor-estimulador, un imán y la guía de electrodos dentro de la cóclea.",
+    "El número de electrodos dentro de la cóclea suele ir de 12 a 22, según el fabricante.",
+    "También hay un electrodo de referencia fuera de la cóclea, que proporciona el camino de retorno de la corriente.",
+    "La unidad interna es permanente y no tiene fuente de energía propia; no funciona sin la unidad externa.",
+    "Por eso, cuando se quita la unidad externa, la persona no oye nada a través del implante."
+   ]
+  },
+  {
+   "id": "isleme",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Del sonido a la electricidad",
+   "baslik": "Del sonido a la *electricidad*, paso a paso",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "División en canales",
+     "metin": "Banco de filtros",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Envolvente",
+     "metin": "Se extraen los cambios de amplitud",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Compresión",
+     "metin": "Rango estrecho: de T a C",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Pulsos eléctricos",
+     "metin": "A los electrodos, por turnos",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Ahora sigamos cómo se procesa un sonido dentro del implante.",
+    "El sonido captado por el micrófono se divide en muchos canales de frecuencia mediante un banco de filtros en el procesador de sonido.",
+    "En cada canal se extrae el cambio de amplitud en el tiempo, la envolvente; aquí se pierde la mayor parte del detalle temporal fino.",
+    "El amplio rango dinámico del oído natural, de unos 120 dB, se comprime en un rango eléctrico mucho más estrecho.",
+    "Esta compresión se hace entre dos niveles individuales medidos para cada electrodo.",
+    {
+     "yazi": "Son el nivel T, donde la estimulación se percibe por primera vez, y el nivel C, donde resulta cómoda; juntos forman el mapa."
+    },
+    "Luego, la información de cada canal se entrega a su electrodo como pulsos eléctricos breves, por lo general por turnos, sin superponerse.",
+    "Entregar los pulsos por turnos reduce la interacción entre las corrientes de electrodos vecinos."
+   ]
+  },
+  {
+   "id": "tonotopi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Del sonido a la electricidad",
+   "baslik": "El *mapa de frecuencias* a lo largo de la cóclea",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "base: sonidos agudos",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "ápice: sonidos graves",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "ventana redonda",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Electrodo basal: frecuencias altas",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "La guía puede no llegar al ápice",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "El cerebro se adapta con el tiempo",
+     "cumle": 7,
+     "ikon": "beyin"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "taban",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "tepe",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El implante aprovecha el mapa natural de frecuencias de la cóclea; esto se llama tonotopía.",
+    "La base de la cóclea, la parte cercana a la ventana oval, corresponde a las frecuencias altas.",
+    "El ápice, en cambio, corresponde a las frecuencias bajas.",
+    "Así, la información de los canales de alta frecuencia va a los electrodos cercanos a la base, y la de baja frecuencia, a los más profundos.",
+    "La guía de electrodos entra cerca de la ventana redonda y avanza desde la base hacia el ápice.",
+    "La cóclea da unas dos vueltas y media, y la guía de electrodos a menudo no llega al ápice.",
+    "Esto puede crear un desajuste entre la frecuencia entregada y la región del nervio que se estimula.",
+    "Por eso, al principio los sonidos pueden parecer agudos o mecánicos; con el tiempo, el cerebro se adapta en gran medida a este nuevo código."
+   ]
+  },
+  {
+   "id": "farklar",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Diferencias con la audición natural",
+   "baslik": "Audición natural e *implante*",
+   "sutunlar": [
+    "Característica",
+    "Audición natural",
+    "Implante coclear"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Resolución frecuencial",
+      "Miles de células ciliadas",
+      "Pocos canales efectivos"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Rango dinámico",
+      "Unos 120 dB",
+      "Rango eléctrico estrecho"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Estructura fina temporal",
+      "Conservada",
+      "En gran parte perdida"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Música y tono",
+      "Detallados",
+      "Limitados"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Habla en ruido",
+      "Relativamente buena",
+      "A menudo difícil"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "En el oído natural, la resolución frecuencial proviene de miles de células ciliadas y fibras nerviosas.",
+    "En un implante, el número de electrodos es limitado y, como la corriente se dispersa, los canales efectivos suelen ser menos que los electrodos.",
+    "El amplio rango dinámico del oído natural se comprime en el implante en un rango eléctrico estrecho.",
+    "El implante no transmite en gran parte la estructura fina temporal del sonido; esta información importa para el tono y el timbre.",
+    "Por eso, escuchar música y distinguir melodías e instrumentos suele ser difícil para los usuarios de implante.",
+    "Entender el habla en ruido también es mucho más difícil que en silencio.",
+    "Aun así, muchos usuarios llegan a entender el habla en silencio sin lectura labial.",
+    "Conocer estas diferencias es importante para establecer expectativas realistas con los usuarios y sus familias."
+   ]
+  },
+  {
+   "id": "uyum",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Diferencias con la audición natural",
+   "baslik": "Activación y *ajuste*",
+   "adimlar": [
+    {
+     "ikon": "takvim",
+     "baslik": "Activación",
+     "metin": "Semanas después de la cirugía",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Programación",
+     "metin": "Niveles umbral y de confort",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Primeros sonidos",
+     "metin": "Mecánicos, más naturales con el tiempo",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Rehabilitación",
+     "metin": "Entrenamiento auditivo regular",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La unidad externa suele colocarse y encenderse por primera vez unas semanas después de la cirugía; esto se llama activación.",
+    "El audiólogo establece los niveles umbral y de confort de cada electrodo; esto se llama programación, o mapeo.",
+    "En los primeros meses el mapa se actualiza a menudo, porque los niveles cambian a medida que la persona se acostumbra a la estimulación eléctrica.",
+    "Los usuarios suelen describir los primeros sonidos como robóticos, metálicos o agudos.",
+    "Con el tiempo, el cerebro aprende a dar sentido a esta nueva señal; esto puede llevar de semanas a meses.",
+    "El uso regular y la rehabilitación auditiva son la base de este proceso de aprendizaje.",
+    "Los resultados varían entre personas; la duración de la sordera, la edad al implantarse y el estado del nervio auditivo están entre los factores clave."
+   ]
+  },
+  {
+   "id": "rezidual",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Diferencias con la audición natural",
+   "baslik": "Audición residual: adaptación *híbrida* y bimodal",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Audición residual",
+     "metin": "Pueden conservarse las frecuencias graves",
+     "cumle": 0
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Híbrida",
+     "metin": "Eléctrica y acústica juntas",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Bimodal",
+     "metin": "Implante y audífono en el otro oído",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Algunas personas tienen audición residual útil en las frecuencias graves, y una técnica quirúrgica cuidadosa busca conservarla.",
+    "En ese caso, en el mismo oído, las frecuencias altas pueden estimularse eléctricamente y las bajas, acústicamente.",
+    "Usar juntas la estimulación eléctrica y la acústica se llama estimulación electroacústica, o adaptación híbrida.",
+    "Cuando una persona usa un implante en un oído y un audífono en el otro, se habla de adaptación bimodal.",
+    "La información de tono y de tiempo que aporta la audición acústica puede completar algunos detalles que el implante no transmite.",
+    "Por eso, evaluar y conservar la audición residual es una parte importante del proceso de implante."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En niños con implante, haz cada día la prueba de los seis sonidos de Ling: m, u, a, i, sh, s. Si falla uno, revisa el equipo o el mapa.",
+   "cumleler": [
+    "Un consejo de la práctica: para el control auditivo diario de niños con implante, la prueba de los seis sonidos de Ling es una herramienta práctica.",
+    {
+     "yazi": "La prueba usa seis sonidos que se dicen con los labios ocultos: m, u, a, i, sh y s."
+    },
+    "Estos sonidos cubren la mayor parte del rango de frecuencias del habla, de grave a agudo.",
+    "Si el niño no responde a un sonido que antes detectaba, puede haber una falla del equipo o la necesidad de actualizar el mapa.",
+    "Enseñar a la familia a hacer esta prueba cada mañana ayuda a notar los problemas a tiempo."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "El implante sortea las células ciliadas",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "La unidad externa procesa, la interna estimula",
+     "cumle": 1,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Agudos en la base, graves en el ápice",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Pocos canales, rango dinámico estrecho",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que el implante coclear sortea las células ciliadas dañadas y estimula directamente el nervio auditivo.",
+    "La unidad externa capta y procesa el sonido; la interna recibe energía y datos a través de la piel y los transmite a los electrodos.",
+    "Los electrodos estimulan según el mapa de frecuencias de la cóclea: las altas en la base, las más bajas hacia el ápice.",
+    "Pocos canales, un rango dinámico estrecho y la pérdida del detalle temporal fino distinguen la audición con implante de la natural."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "En un implante coclear, ¿qué electrodo recibe la información de alta frecuencia?",
+   "secenekler": [
+    "El más cercano al ápice",
+    "Uno cercano a la base",
+    "El que está fuera de la cóclea",
+    "Todos los electrodos por igual"
+   ],
+   "dogru": 1,
+   "aciklama": "La base de la cóclea corresponde a las frecuencias altas: _tonotopía_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en un implante coclear, ¿qué electrodo recibe la información del canal de alta frecuencia?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: un electrodo cercano a la base de la cóclea.",
+    "La base de la cóclea corresponde a las frecuencias altas y el ápice a las bajas; el implante aprovecha este orden tonotópico."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Candidatura* al implante coclear en niños y adultos",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección examinaremos la candidatura al implante coclear en niños y adultos, y la ampliación de los criterios.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

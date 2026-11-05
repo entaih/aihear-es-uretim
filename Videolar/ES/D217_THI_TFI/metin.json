@@ -1,0 +1,775 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D217_THI_TFI_ES",
+ "kapak": {
+  "ust": "LECCIÓN 217",
+  "baslik": "*THI* y<br>TFI",
+  "alt": "Cuestionarios de tinnitus",
+  "cizim": "beyin_yan"
+ },
+ "youtube": {
+  "baslik": "Cuestionarios de tinnitus: THI y TFI | Lección 217 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo medimos cuánto afecta el tinnitus la vida de una persona? En esta lección vemos la estructura, la puntuación y la interpretación en cinco grados del Inventario de Discapacidad por Tinnitus (THI), las ocho subescalas del Índice Funcional del Tinnitus (TFI), los criterios de cambio significativo y el uso de estos cuestionarios en el diagnóstico y el seguimiento.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Newman, Jacobson and Spitzer, Development of the Tinnitus Handicap Inventory, Arch Otolaryngol Head Neck Surg (1996); Newman, Sandridge and Jacobson, Psychometric adequacy of the Tinnitus Handicap Inventory, J Am Acad Audiol (1998); Zeman et al., Tinnitus Handicap Inventory for evaluating treatment effects: which changes are clinically relevant?, Otolaryngology-Head and Neck Surgery (2011); McCombe et al., Guidelines for the grading of tinnitus severity, Clinical Otolaryngology (2001); Meikle et al., The Tinnitus Functional Index, Ear and Hearing (2012); Aksoy, Fırat and Alpar, The Tinnitus Handicap Inventory: a study of validity and reliability, International Tinnitus Journal (2007); Tunkel et al., Clinical Practice Guideline: Tinnitus (2014); NICE NG155 (2020).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "tinnitus",
+   "audicion"
+  ],
+  "etiketler": [
+   "Inventario de Discapacidad por Tinnitus",
+   "THI",
+   "Índice Funcional del Tinnitus",
+   "TFI",
+   "cuestionarios de tinnitus",
+   "evaluación del tinnitus",
+   "gravedad del tinnitus",
+   "resultados informados por el paciente",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 217",
+   "baslik": "Cuestionarios de tinnitus: *THI* y TFI",
+   "alt": "Estructura, puntuación e interpretación",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos dos escalas frecuentes del impacto del tinnitus: el Inventario de Discapacidad por Tinnitus y el Índice Funcional del Tinnitus.",
+    "Veremos la estructura de las escalas, cómo se interpretan sus puntuaciones y cómo se determina un cambio significativo en el seguimiento."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "THI",
+   "baslik": "¿Por qué un *cuestionario?*",
+   "maddeler": [
+    {
+     "metin": "Las medidas psicoacústicas _no muestran_ el malestar",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Una escala que completa la persona",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Molesto o no molesto",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Objetivos y seguimiento",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "¿PARA QUÉ SIRVE UNA ESCALA?",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "dikkat",
+      "baslik": "Distinguir",
+      "metin": "Tinnitus molesto",
+      "cumle": 2
+     },
+     {
+      "ikon": "ampul",
+      "baslik": "Objetivos",
+      "metin": "Áreas prioritarias",
+      "cumle": 3
+     },
+     {
+      "ikon": "takvim",
+      "baslik": "Seguimiento",
+      "metin": "Cambio en el tiempo",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "En la lección anterior vimos que las medidas psicoacústicas no muestran cuánto le molesta el tinnitus a una persona.",
+    "El impacto del tinnitus en la vida se mide con escalas estandarizadas que completa la propia persona.",
+    "Una de las recomendaciones más firmes de la guía estadounidense es distinguir el tinnitus molesto del tinnitus que no molesta.",
+    "Las escalas ayudan a hacer esta distinción, fijar objetivos de tratamiento y vigilar los cambios.",
+    "Las dos escalas más usadas son el Inventario de Discapacidad por Tinnitus y el Índice Funcional del Tinnitus."
+   ]
+  },
+  {
+   "id": "thi_yapi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "THI",
+   "baslik": "Las *tres subescalas* del THI",
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "Funcional",
+     "metin": "11 ítems",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Emocional",
+     "metin": "9 ítems",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Catastrófica",
+     "metin": "5 ítems",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El Inventario de Discapacidad por Tinnitus, o THI, fue desarrollado por Newman y colaboradores en 1996."
+    },
+    {
+     "yazi": "El THI tiene la misma estructura que el Inventario de Discapacidad por Mareo, o DHI: 25 ítems y tres opciones de respuesta."
+    },
+    "La subescala funcional tiene 11 ítems sobre el impacto en la atención, el sueño, el trabajo y la vida social.",
+    "La subescala emocional tiene 9 ítems sobre enojo, ansiedad, irritabilidad y sentimientos depresivos.",
+    "La subescala catastrófica tiene 5 ítems que miden la desesperación, la pérdida de control y la sensación de no poder escapar del tinnitus.",
+    "La respuesta «sí» vale 4 puntos, «a veces» vale 2 y «no» vale 0; la puntuación total va de 0 a 100.",
+    "En la clínica, la interpretación suele basarse en la puntuación total más que en las subescalas."
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "THI",
+   "baslik": "*Aplicar* el THI",
+   "maddeler": [
+    {
+     "metin": "Se completa en pocos minutos",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Pensando en el impacto actual",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Puede leerse en voz alta, _sin inducir_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Revisar los ítems en blanco",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "El inicio de la orientación",
+     "cumle": 5,
+     "ikon": "ampul"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "RESPUESTAS",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Sí",
+      "metin": "4 puntos",
+      "cumle": 0
+     },
+     {
+      "ikon": "soru",
+      "baslik": "A veces",
+      "metin": "2 puntos",
+      "cumle": 0
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "No",
+      "metin": "0 puntos",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "El THI es una escala breve, y la mayoría de las personas la completa en pocos minutos."
+    },
+    "Se pide a la persona que responda los ítems pensando en el impacto que su tinnitus tiene hoy.",
+    "A las personas con dificultad para leer se les pueden leer los ítems en tono neutro, sin inducir las respuestas.",
+    "Un ítem en blanco hace que la puntuación total parezca más baja de lo que es, así que el formulario se revisa al recibirlo.",
+    "La escala refleja la percepción de la persona con tinnitus, no la de su familia.",
+    "Cuando el resultado se conversa con el paciente, se convierte en el punto de partida de la orientación."
+   ]
+  },
+  {
+   "id": "thi_derece",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Interpretación del THI",
+   "baslik": "*Grados* del THI",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "yazilar": {
+      "1": "Baseline",
+      "2": "Six months later",
+      "1": "Basal",
+      "2": "Seis meses después"
+     },
+     "isaretler": [
+      1,
+      2
+     ],
+     "ad": "Seguimiento de ejemplo"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Puntuación total del THI"
+    },
+    "bolgeler": [
+     {
+      "ad": "derece1",
+      "y": [
+       0,
+       17
+      ],
+      "renk": "yesil",
+      "etiket": "1: muy leve",
+      "cumle": 1
+     },
+     {
+      "ad": "derece2",
+      "y": [
+       17,
+       37
+      ],
+      "renk": "mavi",
+      "etiket": "2: leve",
+      "cumle": 2
+     },
+     {
+      "ad": "derece3",
+      "y": [
+       37,
+       57
+      ],
+      "renk": "sari",
+      "etiket": "3: moderado",
+      "cumle": 2
+     },
+     {
+      "ad": "derece4",
+      "y": [
+       57,
+       77
+      ],
+      "renk": "turuncu",
+      "etiket": "4: severo",
+      "cumle": 3
+     },
+     {
+      "ad": "derece5",
+      "y": [
+       77,
+       100
+      ],
+      "renk": "kirmizi",
+      "etiket": "5: catastrófico",
+      "cumle": 3
+     }
+    ],
+    "seriler": [
+     {
+      "ad": "hasta",
+      "noktalar": [
+       [
+        1,
+        64
+       ],
+       [
+        2,
+        38
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "kalin": true,
+      "etiket": "paciente de ejemplo",
+      "cumle": 5
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "degisim",
+      "y": [
+       38,
+       64
+      ],
+      "xk": 2.4,
+      "etiket": "26 puntos",
+      "cumle": 6
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Cinco grados: McCombe 2001",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Las puntuaciones son números pares",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "De severo a moderado",
+     "cumle": 6,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Una clasificación frecuente de la puntuación total del THI son los cinco grados propuestos por McCombe y colaboradores en 2001.",
+     "ses": "Una clasificación frecuente de la puntuación total del THI son los cinco grados propuestos por Mac Cúm y colaboradores en 2001."
+    },
+    "Una puntuación de 0 a 16 es el grado uno y se interpreta como discapacidad muy leve o nula.",
+    "Una puntuación de 18 a 36 es discapacidad leve, y de 38 a 56, moderada.",
+    "Una puntuación de 58 a 76 se define como severa, y de 78 a 100, como catastrófica.",
+    "Como cada ítem vale 0, 2 o 4 puntos, el total siempre es un número par, y por eso los puntos de corte también son pares.",
+    "En este ejemplo, la puntuación es de 64 al inicio y baja a 38 seis meses después.",
+    "Esto significa pasar del grado severo al grado moderado."
+   ]
+  },
+  {
+   "id": "degisim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Interpretación del THI",
+   "baslik": "*Cambio* significativo",
+   "maddeler": [
+    {
+     "metin": "Criterio estadístico: _20 puntos_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Percibido por el paciente: unos 7 puntos",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Responden a preguntas distintas",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Adaptación turca: 2007",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EJEMPLO: 26 PUNTOS",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Criterio de 20 puntos",
+      "metin": "Superado",
+      "cumle": 4
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Criterio de 7 puntos",
+      "metin": "Superado",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "En el seguimiento, necesitamos decidir si la diferencia entre dos puntuaciones es un cambio real.",
+    "En el estudio test-retest de Newman y colaboradores, se necesitó una diferencia de al menos 20 puntos para un cambio estadísticamente significativo.",
+    "Un estudio posterior sugirió que el cambio clínico que un paciente puede notar sería menor, de unos 7 puntos.",
+    "Estos dos valores responden a preguntas distintas: uno muestra el límite del error de medición y el otro, la diferencia que siente el paciente.",
+    "La disminución de 26 puntos de nuestro ejemplo es significativa según ambos criterios.",
+    {
+     "yazi": "Para los usuarios en Turquía, en 2007 se publicó una adaptación turca del THI que mostró una alta consistencia interna."
+    }
+   ]
+  },
+  {
+   "id": "tfi1",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "TFI",
+   "baslik": "TFI: *ocho subescalas* (1)",
+   "ogeler": [
+    {
+     "ikon": "dikkat",
+     "baslik": "Intrusividad",
+     "metin": "Cuánto capta la atención",
+     "cumle": 3
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Sensación de control",
+     "metin": "Control sobre el tinnitus",
+     "cumle": 4
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Cognitiva",
+     "metin": "Atención y pensamiento",
+     "cumle": 5
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Sueño",
+     "metin": "Conciliación, duración",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El Índice Funcional del Tinnitus, o TFI, fue publicado por Meikle y colaboradores en 2012."
+    },
+    "El TFI se desarrolló para medir la gravedad del impacto y, a la vez, ser sensible al cambio con el tratamiento.",
+    "La escala tiene 25 ítems y ocho subescalas; la mayoría de los ítems se responde en una escala de 0 a 10.",
+    "La primera subescala pregunta qué tan intrusivo es el tinnitus y cuánto capta la atención de forma constante.",
+    "La segunda subescala mide cuánto control siente la persona que tiene sobre su tinnitus.",
+    "La subescala cognitiva pregunta por el impacto en la atención y el pensamiento, y la de sueño, por la conciliación y la duración del sueño."
+   ]
+  },
+  {
+   "id": "tfi2",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "TFI",
+   "baslik": "TFI: *ocho subescalas* (2)",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Auditiva",
+     "metin": "Oír y comprender",
+     "cumle": 0
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Relajación",
+     "metin": "Descanso y calma",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Calidad de vida",
+     "metin": "Social, laboral, familiar",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Emocional",
+     "metin": "Ansiedad, tristeza",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La subescala auditiva pregunta cuánto dificulta el tinnitus oír y comprender el habla.",
+    "La subescala de relajación mide el impacto en el descanso y en la capacidad de mantener la calma.",
+    "La subescala de calidad de vida pregunta por el impacto en las actividades sociales, el trabajo y la vida familiar.",
+    "La subescala emocional evalúa los sentimientos de ansiedad, tristeza y malestar.",
+    "Las puntuaciones de las subescalas guían la orientación al mostrar en qué área tiene más dificultades la persona."
+   ]
+  },
+  {
+   "id": "tfi_yorum",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "TFI",
+   "baslik": "*Interpretar* la puntuación del TFI",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "yazilar": {
+      "1": "Before",
+      "2": "After",
+      "1": "Antes",
+      "2": "Después"
+     },
+     "isaretler": [
+      1,
+      2
+     ],
+     "ad": "Seguimiento de ejemplo"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Puntuación total del TFI"
+    },
+    "bolgeler": [
+     {
+      "ad": "hafif",
+      "y": [
+       0,
+       25
+      ],
+      "renk": "yesil",
+      "etiket": "relativamente leve",
+      "cumle": 2
+     },
+     {
+      "ad": "belirgin",
+      "y": [
+       25,
+       50
+      ],
+      "renk": "sari",
+      "etiket": "problema significativo",
+      "cumle": 3
+     },
+     {
+      "ad": "agir",
+      "y": [
+       50,
+       100
+      ],
+      "renk": "kirmizi",
+      "etiket": "problema grave",
+      "cumle": 4
+     }
+    ],
+    "seriler": [
+     {
+      "ad": "hasta",
+      "noktalar": [
+       [
+        1,
+        56
+       ],
+       [
+        2,
+        38
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "kalin": true,
+      "etiket": "paciente de ejemplo",
+      "cumle": 6
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "degisim",
+      "y": [
+       38,
+       56
+      ],
+      "xk": 2.4,
+      "etiket": "18 puntos",
+      "cumle": 6
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Más puntuación, mayor problema",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Mejoría significativa: al menos 13 puntos",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "La puntuación total del TFI también va de 0 a 100; una puntuación más alta indica un problema mayor.",
+    "La puntuación total se calcula promediando los ítems respondidos y convirtiendo el resultado a una escala de 0 a 100.",
+    "Según una interpretación frecuente, una puntuación menor de 25 indica un problema relativamente leve.",
+    "Una puntuación de 25 a 50 se interpreta como un problema significativo que puede requerir intervención.",
+    "Una puntuación mayor de 50 sugiere un problema grave que puede requerir una intervención más intensiva.",
+    "Según el estudio de desarrollo, una disminución de al menos 13 puntos es una mejoría que el paciente consideraría significativa.",
+    "En este ejemplo, la puntuación del TFI baja de 56 a 38; esta disminución de 18 puntos se considera significativa."
+   ]
+  },
+  {
+   "id": "secim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso en la clínica",
+   "baslik": "¿THI o *TFI?*",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "THI",
+     "metin": "Breve, difundido, con versión turca",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "TFI",
+     "metin": "Sensible al cambio, detallado",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Ambas escalas son válidas y de uso amplio; la elección depende del propósito.",
+    {
+     "yazi": "El THI es breve y fácil de puntuar, y como se usa desde hace muchos años, la literatura tiene muchos datos de comparación."
+    },
+    "Como existe una adaptación turca, se usa ampliamente en las clínicas de Turquía.",
+    "El TFI se diseñó para ser más sensible al cambio con el tratamiento, y sus subescalas son más detalladas.",
+    "La guía NICE recomienda considerar el TFI para evaluar el impacto del tinnitus en adultos.",
+    "Sea cual sea la escala elegida, en el seguimiento de una misma persona siempre debe usarse la misma escala.",
+    "Si se va a usar el TFI, primero comprueben si existe una versión validada en el idioma del paciente, como el turco en Turquía."
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso en la clínica",
+   "baslik": "Las escalas en el diagnóstico y el *seguimiento*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Basal",
+     "metin": "Puntuación y grado",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Orientación",
+     "metin": "Áreas prioritarias",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Medir de nuevo",
+     "metin": "Misma escala",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Comparar",
+     "metin": "¿Diferencia significativa?",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Las escalas se usan en varios momentos del proceso clínico.",
+    "En la primera consulta se obtiene una puntuación basal y se identifica el tinnitus molesto.",
+    "Las áreas con puntuaciones altas señalan los temas que conviene abordar primero en la orientación.",
+    "Después de la orientación o del tratamiento, se completa de nuevo la escala y la diferencia se compara con los criterios de cambio significativo.",
+    "Una escala no hace un diagnóstico; una puntuación alta es un indicador de cuánto afecta el tinnitus a la persona."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "No mires solo la puntuación total; lee los ítems catastróficos. Si notas pensamientos de autolesión, pregunta abiertamente y deriva sin demora.",
+   "cumleler": [
+    "Un consejo clínico: revisen siempre la escala una vez completada; no miren solo la puntuación total.",
+    "Las respuestas afirmativas en los ítems catastróficos, en particular, pueden indicar que la persona está pasando por un malestar serio.",
+    "Si notan desesperanza o pensamientos de autolesión, pregunten abiertamente y con voz tranquila.",
+    "Si existe ese riesgo, la persona se deriva sin demora a un profesional de salud mental."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "THI: 25 ítems, tres subescalas",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Cinco grados; diferencia significativa: 20 puntos",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "TFI: ocho subescalas, 13 puntos",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Siempre la misma escala en el seguimiento",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El THI tiene 25 ítems agrupados en tres subescalas y se puntúa de 0 a 100."
+    },
+    {
+     "yazi": "La puntuación del THI se interpreta en cinco grados; para un cambio estadísticamente significativo se necesita una diferencia de unos 20 puntos."
+    },
+    "El TFI es una escala de ocho subescalas sensible al cambio; una disminución de al menos 13 puntos cuenta como mejoría significativa.",
+    "La escala se elige según el propósito, pero en el seguimiento de una misma persona siempre se usa la misma escala."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué grado es una puntuación de 46 en el THI?",
+   "secenekler": [
+    "Leve",
+    "Moderado",
+    "Severo",
+    "Catastrófico"
+   ],
+   "dogru": 1,
+   "aciklama": "Las puntuaciones de 38 a 56 corresponden al grado _moderado_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en el Inventario de Discapacidad por Tinnitus, ¿qué grado tiene una persona con una puntuación de 46?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: moderado.",
+    {
+     "yazi": "En la clasificación de McCombe, las puntuaciones entre 38 y 56 se interpretan como discapacidad moderada.",
+     "ses": "En la clasificación de Mac Cúm, las puntuaciones entre 38 y 56 se interpretan como discapacidad moderada."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Manejo del tinnitus: orientación, *sonido*, dispositivos",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos el manejo del tinnitus: la orientación, la terapia sonora y los dispositivos.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

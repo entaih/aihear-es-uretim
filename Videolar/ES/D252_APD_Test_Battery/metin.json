@@ -1,0 +1,981 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D252_APD_Test_Battery_ES",
+ "kapak": {
+  "ust": "LECCIÓN 252",
+  "baslik": "La batería<br>del *TPA*",
+  "alt": "Dicótica, temporal, baja redundancia",
+  "cizim": "beyin_ustten",
+  "ayar": {
+   "mod": "dikotik",
+   "sozcukler": [
+    "siete",
+    "cuatro"
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Batería del TPA: dicótica, temporal, baja redundancia | Lección 252 | AIHEAR Academia de Audiología",
+  "aciklama": "El trastorno del procesamiento auditivo no se evalúa con una sola prueba, sino con una batería que mide distintos procesos. En esta lección vemos las pruebas de escucha dicótica (dígitos, sílabas, oraciones en competencia, SSW), las pruebas de patrones de frecuencia y de duración, las pruebas de habla filtrada y comprimida, y cómo se interpretan los resultados en conjunto.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: American Speech-Language-Hearing Association, (Central) Auditory Processing Disorders, Technical Report (2005); American Academy of Audiology, Clinical Practice Guidelines: Diagnosis, Treatment and Management of Children and Adults with Central Auditory Processing Disorder (2010); Musiek and Chermak, Handbook of Central Auditory Processing Disorder; Katz, Handbook of Clinical Audiology; Musiek, Assessment of central auditory dysfunction: the dichotic digit test revisited, Ear and Hearing (1983); Musiek and Pinheiro, Frequency patterns in cochlear, brainstem, and cerebral lesions, Audiology (1987).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "TPA",
+   "procesamientoauditivo"
+  ],
+  "etiketler": [
+   "batería de pruebas del TPA",
+   "trastorno del procesamiento auditivo",
+   "escucha dicótica",
+   "prueba de dígitos dicóticos",
+   "prueba de patrones de frecuencia",
+   "prueba de patrones de duración",
+   "habla de baja redundancia",
+   "habla filtrada",
+   "habla comprimida",
+   "prueba SSW",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 252",
+   "baslik": "La *batería de pruebas* del TPA",
+   "alt": "Pruebas dicóticas, temporales y de baja redundancia",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos la batería de pruebas que se usa para evaluar el trastorno del procesamiento auditivo, o TPA.",
+    "Veremos una por una las pruebas de escucha dicótica, las de patrones temporales y las de habla de baja redundancia."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La lógica de la batería",
+   "baslik": "¿Por qué una *batería?*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Evaluación periférica",
+     "cumle": 0,
+     "metin": "Primero, evaluación auditiva completa"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Requisitos previos",
+     "cumle": 1,
+     "metin": "Edad, atención, lenguaje"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Selección de pruebas",
+     "cumle": 2,
+     "metin": "Procesos distintos"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Interpretación",
+     "cumle": 4,
+     "metin": "Normas según la edad"
+    }
+   ],
+   "cumleler": [
+    "Antes de las pruebas centrales, debe evaluarse la audición periférica con audiometría tonal, logoaudiometría e inmitanciometría.",
+    "Desde el inicio se anotan la edad, la atención, el nivel de lenguaje y el estado cognitivo del niño, porque influirán en los resultados.",
+    "Ninguna prueba sola puede medir todos los procesos auditivos; por eso se eligen juntas varias pruebas sensibles a procesos distintos.",
+    "También importa que la batería no sea más larga de lo necesario; el cansancio y la pérdida de atención distorsionan los resultados.",
+    "Los resultados se comparan con normas obtenidas para la edad de la persona y para la versión de la prueba que se usa.",
+    {
+     "yazi": "La guía de 2010 de la Academia Estadounidense de Audiología contiene un criterio citado con frecuencia."
+    },
+    "Según esta regla, puntajes de dos o más desviaciones estándar por debajo de la norma, en al menos un oído y en al menos dos pruebas, apoyan el diagnóstico."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La lógica de la batería",
+   "baslik": "*Condiciones* de la prueba",
+   "maddeler": [
+    {
+     "metin": "Estímulos _grabados_ y calibrados",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Nivel de escucha cómodo",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Primero, ítems de práctica",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Oído y respuesta registrados por separado",
+     "cumle": 4,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Nota sobre la conducta observada",
+     "cumle": 5,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 0
+     },
+     {
+      "parca": "kulaklik",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Las pruebas centrales usan estímulos grabados y calibrados, no voz en vivo, para que cada aplicación sea igual.",
+    "Los estímulos suelen darse con auriculares a un nivel cómodo, claramente por encima del umbral de la persona.",
+    "El nivel que se usa está definido en las instrucciones de la versión de la prueba, y las normas se obtuvieron a ese nivel.",
+    "Antes de cada prueba se usan unos pocos ítems de práctica para comprobar que se entiende la tarea.",
+    "Las respuestas se registran oído por oído e ítem por ítem; no solo se calcula el puntaje total, sino también la diferencia entre oídos.",
+    "Las observaciones sobre la atención, el cansancio y la motivación durante la prueba también se anotan en el informe."
+   ]
+  },
+  {
+   "id": "kategoriler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "La lógica de la batería",
+   "baslik": "*Categorías* de pruebas",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Dicóticas",
+     "cumle": 1,
+     "metin": "Un estímulo distinto en cada oído"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Temporales",
+     "cumle": 2,
+     "metin": "Patrones y silencios"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Baja redundancia",
+     "cumle": 3,
+     "metin": "Habla degradada"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Interacción binaural",
+     "cumle": 4,
+     "metin": "Dos oídos que trabajan juntos"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Discriminación",
+     "cumle": 5,
+     "metin": "Distinguir sonidos parecidos"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Electrofisiológicas",
+     "cumle": 6,
+     "metin": "Respuestas a lo largo de la vía"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El informe de 2005 de la Asociación Estadounidense del Habla, Lenguaje y Audición, la ASHA, agrupa las pruebas centrales según el proceso que miden."
+    },
+    "Las pruebas dicóticas presentan estímulos distintos a los dos oídos al mismo tiempo.",
+    "Las pruebas temporales miden la percepción del orden de los sonidos o de silencios breves.",
+    "Las pruebas de habla de baja redundancia presentan habla degradada a un oído.",
+    "Las pruebas de interacción binaural evalúan cómo el tronco cerebral combina la información de los dos oídos; las veremos en otra lección.",
+    "Las pruebas de discriminación miden la capacidad de distinguir sonidos muy cercanos en frecuencia, intensidad o duración.",
+    "Las medidas electrofisiológicas muestran las respuestas neurales a lo largo de la vía sin necesidad de una respuesta conductual."
+   ]
+  },
+  {
+   "id": "dikotik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas dicóticas",
+   "baslik": "Integración y *separación*",
+   "cizim": "beyin_ustten",
+   "ayar": {
+    "mod": "dikotik",
+    "sozcukler": [
+     "siete",
+     "cuatro"
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "sag_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "sol_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "capraz_yol_sag",
+     "cumle": 1
+    },
+    {
+     "parca": "capraz_yol_sol",
+     "cumle": 1
+    },
+    {
+     "parca": "kallozal_yol",
+     "cumle": 4
+    },
+    {
+     "parca": "corpus_callosum",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "sag_kulak",
+     "metin": "Un número al oído derecho",
+     "cumle": 0
+    },
+    {
+     "parca": "sol_kulak",
+     "metin": "Otro número al oído izquierdo",
+     "cumle": 0
+    },
+    {
+     "parca": "corpus_callosum",
+     "metin": "Cuerpo calloso",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Integración: repetir _ambos_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Separación: atender a _un oído_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Sensible a la transferencia interhemisférica",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Las pruebas dicóticas se basan en presentar palabras, números u oraciones distintos a los dos oídos al mismo tiempo.",
+    "Cuando la información de los dos oídos compite, predominan las vías cruzadas; lo vimos en la lección sobre la corteza auditiva.",
+    "En una tarea de integración binaural, la persona repite todo lo que oyó en ambos oídos.",
+    "En una tarea de separación binaural, la persona atiende solo a un oído e ignora el otro.",
+    "La información verbal que llega al oído izquierdo debe cruzar el cuerpo calloso para llegar al hemisferio izquierdo, dominante para el lenguaje.",
+    "Por eso las pruebas dicóticas son sensibles tanto a la función de cada hemisferio como a la transferencia entre ambos."
+   ]
+  },
+  {
+   "id": "dikotik_testler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas dicóticas",
+   "baslik": "*Pruebas dicóticas* frecuentes",
+   "ogeler": [
+    {
+     "ikon": "tablo",
+     "baslik": "Dígitos dicóticos",
+     "cumle": 0,
+     "metin": "Dos dígitos en cada oído"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Sílabas dicóticas",
+     "cumle": 2,
+     "metin": "Sílabas consonante-vocal"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Oraciones en competencia",
+     "cumle": 3,
+     "metin": "Repetir un oído"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "SSW",
+     "cumle": 4,
+     "metin": "Palabras espondaicas escalonadas"
+    }
+   ],
+   "cumleler": [
+    "En la prueba de dígitos dicóticos se dan dos dígitos a cada oído al mismo tiempo, y la persona dice los cuatro dígitos que oyó.",
+    {
+     "yazi": "En 1983, Musiek mostró que esta prueba es rápida de aplicar y sensible a las lesiones centrales."
+    },
+    "En las pruebas de sílabas dicóticas se dan al mismo tiempo a los dos oídos sílabas consonante-vocal distintas, como ba y ga.",
+    "En la prueba de oraciones en competencia, a cada oído llega una oración distinta, y la persona repite solo la oración de un oído.",
+    {
+     "yazi": "La prueba de palabras espondaicas escalonadas, o SSW, fue desarrollada por Katz y superpone en parte las palabras."
+    },
+    "Las pruebas basadas en el lenguaje necesitan versiones preparadas y normalizadas en el idioma que se usa.",
+    "Como los dígitos son los ítems con menor carga lingüística, la prueba de dígitos dicóticos es relativamente fácil de adaptar a otros idiomas."
+   ]
+  },
+  {
+   "id": "kulak_farki",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas dicóticas",
+   "baslik": "Ejemplo: una diferencia entre *oídos*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 2.6,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Right ear",
+      "2": "Left ear",
+      "1": "Oído derecho",
+      "2": "Oído izquierdo"
+     },
+     "ad": "Niño de ejemplo"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Porcentaje de aciertos"
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        92
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "92 %",
+      "cumle": 1
+     },
+     {
+      "ad": "sol",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        58
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "58 %",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "norm",
+      "x": 0.5,
+      "y": 75,
+      "cizgi": "yatay",
+      "etiket": "punto de corte de ejemplo",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Valores de _ejemplo_; las normas varían",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Oído izquierdo bajo: ¿problema de _transferencia_?",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Ambos oídos bajos: atención y lenguaje",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Este gráfico muestra resultados de ejemplo de dígitos dicóticos en un niño de diez años.",
+    "El puntaje del oído derecho está dentro de la norma para la edad, mientras que el del oído izquierdo es claramente bajo.",
+    "Una ventaja del oído derecho es normal, pero la diferencia de este ejemplo es mayor de lo que admite la norma para la edad.",
+    "Un puntaje bajo en el oído izquierdo puede sugerir una ineficiencia en la transferencia interhemisférica o en el hemisferio derecho.",
+    "Con una lesión que afecta el hemisferio izquierdo, suele bajar el puntaje del oído derecho.",
+    "También pueden aparecer puntajes bajos en ambos oídos; este cuadro obliga a examinar también los factores de atención y lenguaje."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Patrones temporales",
+   "baslik": "Patrones de frecuencia y de *duración*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 4,
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "tone 1",
+      "2": "tone 2",
+      "3": "tone 3",
+      "1": "tono 1",
+      "2": "tono 2",
+      "3": "tono 3"
+     },
+     "ad": "Tiempo"
+    },
+    "y": {
+     "min": 0,
+     "max": 3,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "low",
+      "2": "high",
+      "1": "grave",
+      "2": "agudo"
+     },
+     "ad": "Tono"
+    },
+    "seriler": [
+     {
+      "ad": "dizi",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        2
+       ],
+       [
+        2,
+        1
+       ],
+       [
+        3,
+        2
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "agudo, grave, agudo",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Patrón de frecuencia: _agudo_ y _grave_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Patrón de duración: _largo_ y _corto_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Cada oído se evalúa por separado",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Las pruebas de patrones temporales miden el reconocimiento del orden de sonidos que se suceden.",
+    "La prueba de patrones de frecuencia usa dos tonos, uno agudo y otro grave, ordenados en secuencias de tres.",
+    "En este ejemplo la secuencia es agudo, grave, agudo; la persona la dice con palabras.",
+    "En la prueba de patrones de duración, los tonos tienen la misma frecuencia, pero se ordenan como largos y cortos.",
+    "Las pruebas suelen aplicarse a cada oído por separado, a un nivel que la persona oye con comodidad.",
+    {
+     "yazi": "La prueba de patrones de frecuencia fue descrita por Musiek y Pinheiro en 1987, que la encontraron sensible a las lesiones corticales."
+    }
+   ]
+  },
+  {
+   "id": "oruntu_yorum",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Patrones temporales",
+   "baslik": "*Interpretar* las pruebas de patrones",
+   "maddeler": [
+    {
+     "metin": "Nombrar: _ambos hemisferios_ juntos",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Lesión cortical unilateral: bajan _ambos oídos_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tararear el patrón: información adicional",
+     "cumle": 3,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Relativamente conservado en lesiones del tronco",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Poco afectado por la pérdida periférica",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_ustten",
+    "cumle": 0,
+    "ayar": {
+     "mod": "kallozal"
+    },
+    "vurgula": [
+     {
+      "parca": "sag_yarikure",
+      "cumle": 0
+     },
+     {
+      "parca": "corpus_callosum",
+      "cumle": 0
+     },
+     {
+      "parca": "sol_yarikure",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Nombrar un patrón con palabras requiere que el hemisferio derecho lo perciba y que el hemisferio izquierdo lo ponga en palabras.",
+    "Por eso, incluso con una lesión cortical en un solo hemisferio, los puntajes suelen bajar en ambos oídos.",
+    "Este hallazgo es una diferencia importante con las pruebas dicóticas, en las que se espera una diferencia entre oídos.",
+    "Si la persona no puede nombrar el patrón pero sí tararearlo correctamente, el problema apunta más a la transferencia interhemisférica.",
+    "En las lesiones del tronco cerebral, el rendimiento en las pruebas de patrones suele conservarse relativamente bien.",
+    "Mientras los estímulos se oigan con comodidad, una pérdida periférica leve afecta muy poco estas pruebas; esto ayuda a interpretarlas."
+   ]
+  },
+  {
+   "id": "fazlalik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Habla de baja redundancia",
+   "baslik": "¿Qué es la *redundancia?*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Redundancia extrínseca",
+     "cumle": 0,
+     "metin": "Pistas adicionales en el habla"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Redundancia intrínseca",
+     "cumle": 2,
+     "metin": "Muchas conexiones en las vías"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Cuando ambas bajan",
+     "cumle": 4,
+     "metin": "Aparece la dificultad"
+    }
+   ],
+   "cumleler": [
+    "La señal del habla lleva más información de la necesaria para comprenderla; esto se llama redundancia extrínseca.",
+    "Por eso, aunque se pierda parte de la señal, una persona con audición normal sigue comprendiendo la mayor parte del habla.",
+    "Las vías auditivas también tienen muchas conexiones paralelas y cruzadas; esto se llama redundancia intrínseca.",
+    "Gracias a esta redundancia intrínseca, un problema central leve puede quedar oculto cuando la señal es rica.",
+    "Las pruebas de habla de baja redundancia reducen a propósito la redundancia extrínseca de la señal para revelar un problema oculto."
+   ]
+  },
+  {
+   "id": "dusuk_testler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Habla de baja redundancia",
+   "baslik": "Pruebas de *habla* degradada",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Filtrada",
+     "cumle": 0,
+     "metin": "Sin frecuencias altas"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Comprimida",
+     "cumle": 3,
+     "metin": "El habla se acelera"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "En ruido",
+     "cumle": 5,
+     "metin": "Habla presentada con ruido"
+    }
+   ],
+   "cumleler": [
+    "En la prueba de habla filtrada, las palabras pasan por un filtro pasa bajos que elimina las frecuencias altas.",
+    {
+     "yazi": "En 1954, Bocca y colaboradores mostraron que las personas con tumores del lóbulo temporal comprendían mal este tipo de habla en el oído opuesto."
+    },
+    "Este estudio se considera el comienzo de la evaluación auditiva central.",
+    "En la prueba de habla comprimida, el habla se acorta en el tiempo, es decir, se acelera, sin cambiar su tono.",
+    "Por ejemplo, se usan tasas de compresión del cuarenta y cinco o del sesenta y cinco por ciento; algunas versiones también agregan reverberación.",
+    "Las pruebas de habla en ruido presentan palabras u oraciones junto con ruido en el mismo oído.",
+    "Como estas pruebas también se ven afectadas por la pérdida periférica, los resultados deben interpretarse junto con los umbrales tonales."
+   ]
+  },
+  {
+   "id": "filtre",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Habla de baja redundancia",
+   "baslik": "El *filtro* pasa bajos",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -40,
+     "max": 5,
+     "adim": 10,
+     "ad": "Nivel que pasa (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "filtre",
+      "noktalar": [
+       [
+        250,
+        0
+       ],
+       [
+        700,
+        0
+       ],
+       [
+        1000,
+        -3
+       ],
+       [
+        1400,
+        -12
+       ],
+       [
+        2000,
+        -25
+       ],
+       [
+        2800,
+        -38
+       ],
+       [
+        8000,
+        -40
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "filtro pasa bajos",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "suzulen",
+      "x": [
+       1000,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "zona aguda eliminada",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kesim",
+      "x": 1000,
+      "y": -3,
+      "dus": "x",
+      "etiket": "frecuencia de corte",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Pistas de alta frecuencia _reducidas_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Las vías íntegras _completan_ los huecos",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Este gráfico muestra un ejemplo del filtro pasa bajos que se usa en la prueba de habla filtrada.",
+    "Los componentes por debajo de una frecuencia de corte fija pasan, y los que están por encima se atenúan de forma marcada.",
+    "La frecuencia de corte varía según la versión de la prueba; a menudo se usa mil hertz o menos.",
+    "Como se reducen las pistas de alta frecuencia que distinguen las consonantes, la palabra suena apagada y poco clara.",
+    "Si las vías auditivas centrales están íntegras, el cerebro completa la información que falta; si no, los puntajes bajan."
+   ]
+  },
+  {
+   "id": "elektro",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 5",
+   "bolum": "Interpretación de resultados",
+   "baslik": "*Apoyo* electrofisiológico",
+   "cizim": "isitme_yolu",
+   "yakinlastir": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "mgb",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 1
+    },
+    {
+     "parca": "mgb",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "PEATC: tronco cerebral",
+     "cumle": 1
+    },
+    {
+     "parca": "mgb",
+     "metin": "Latencia media: tálamo, corteza",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "P300: corteza",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Como las pruebas conductuales se ven afectadas por la atención y el lenguaje, las medidas electrofisiológicas pueden aportar información objetiva a la batería.",
+    "Los potenciales evocados auditivos de tronco cerebral, o PEATC, muestran la integridad de la vía hasta el tronco cerebral.",
+    "Los potenciales de latencia media reflejan la actividad del tálamo y de la corteza auditiva; la colocación de electrodos permite comparar ambos hemisferios.",
+    {
+     "yazi": "Las respuestas tardías, como la P300, se relacionan con procesos de nivel superior, como la atención y la discriminación de estímulos."
+    },
+    "El papel de estas medidas en el diagnóstico del TPA se debate; por sí solas, no hacen el diagnóstico.",
+    "Son más valiosas cuando los resultados conductuales no son claros o cuando se sospecha una causa neurológica."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Interpretación de resultados",
+   "baslik": "Leer la batería *en conjunto*",
+   "maddeler": [
+    {
+     "metin": "Un puntaje bajo no es un _diagnóstico_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Qué prueba, qué oído: un _perfil_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Separar efectos de lenguaje y atención",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "La electrofisiología _apoya_",
+     "cumle": 4,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Revisar las normas turcas",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "cumle": 4,
+    "vurgula": [
+     {
+      "parca": "inferior_kollikulus",
+      "cumle": 4
+     },
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Un puntaje bajo en una sola prueba no basta para el diagnóstico; la repetición, el cansancio o la distracción pueden distorsionar fácilmente un resultado.",
+    "Observar qué pruebas y qué oído están afectados ayuda a construir un perfil.",
+    "Por ejemplo, los puntajes bajos tanto en las pruebas dicóticas como en las de patrones refuerzan la pregunta sobre la transferencia interhemisférica.",
+    "Puntajes bajos en pruebas con mucha carga lingüística y normales en pruebas con poca carga sugieren factores de lenguaje y atención.",
+    "Los hallazgos electrofisiológicos se valoran según si concuerdan con el perfil conductual.",
+    "Para su uso en Turquía, deben revisarse por separado la versión turca de cada prueba y sus normas por edad antes de usarla."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Enseñen la tarea con ítems de práctica antes de cada prueba. En las dicóticas, verifiquen el formato de respuesta; en las de patrones, que se usen bien agudo y grave.",
+   "cumleler": [
+    "Un consejo de la clínica: antes de cada prueba, comprueben siempre con ítems de práctica que se entiende la tarea.",
+    "En las pruebas de patrones, asegúrense de que el niño use realmente agudo y grave para el tono; algunos niños los confunden con la intensidad.",
+    "En las pruebas dicóticas, den las instrucciones con claridad, indicando si debe repetir lo que oye en ambos oídos o solo en uno.",
+    "Completar la batería en el momento del día en que la atención es mejor, y en dos sesiones si es necesario, hace más confiables los resultados."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Batería: _procesos distintos_, normas por edad",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Dicóticas: integración y separación",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Patrones: _ambos hemisferios_ juntos",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Baja redundancia: filtrada, comprimida",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "La evaluación del TPA, tras la evaluación periférica, usa una batería de varias pruebas que miden procesos distintos.",
+    "Las pruebas dicóticas dan estímulos distintos a los dos oídos a la vez; se usan como tareas de integración y de separación.",
+    "Las pruebas de patrones de frecuencia y de duración requieren que ambos hemisferios, y la transferencia entre ellos, trabajen juntos.",
+    "El habla filtrada, comprimida y en ruido busca revelar un problema central oculto reduciendo la redundancia de la señal."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Lesión cortical unilateral: ¿qué suele mostrar la prueba de patrones de frecuencia?",
+   "secenekler": [
+    "Baja solo el oído opuesto",
+    "Bajan ambos oídos",
+    "Baja solo el oído del mismo lado",
+    "Sin cambios"
+   ],
+   "dogru": 1,
+   "aciklama": "Nombrar requiere ambos hemisferios y la _transferencia_; por eso se afectan ambos oídos a la vez.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en una lesión cortical unilateral, ¿qué suele verse en la prueba de patrones de frecuencia?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: bajan ambos oídos.",
+    "Nombrar el patrón requiere que ambos hemisferios, y la transferencia entre ellos, trabajen juntos."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Pruebas de procesamiento temporal: *GIN* y RGDT",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos en detalle dos pruebas de resolución temporal: la prueba de silencios en ruido y la prueba de detección aleatoria de silencios.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

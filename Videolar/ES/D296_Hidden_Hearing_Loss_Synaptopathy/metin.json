@@ -1,0 +1,721 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D296_Hidden_Hearing_Loss_Synaptopathy_ES",
+ "kapak": {
+  "ust": "LECCIÓN 296",
+  "baslik": "Pérdida auditiva<br>*oculta*",
+  "alt": "Sinaptopatía coclear: la evidencia",
+  "cizim": "corti",
+  "vurgula": [
+   "ic_tuy_hucresi",
+   "sinir_lifleri"
+  ]
+ },
+ "youtube": {
+  "baslik": "Pérdida auditiva oculta y sinaptopatía: la evidencia | Lección 296 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Un audiograma normal significa que el oído está intacto? En esta lección vemos la sinaptopatía coclear, los estudios en animales de Kujawa y Liberman, la amplitud de la onda I de los PEATC, la dificultad de medirla en humanos, los hallazgos contradictorios y lo que podemos hacer en la clínica.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Kujawa SG, Liberman MC. Adding insult to injury: cochlear nerve degeneration after temporary noise-induced hearing loss. Journal of Neuroscience (2009); Furman AC, Kujawa SG, Liberman MC. Journal of Neurophysiology (2013); Schaette R, McAlpine D. Journal of Neuroscience (2011); Liberman MC et al. PLoS One (2016); Prendergast G et al. Hearing Research (2017); Valero MD et al. Hearing Research (2017); Wu PZ et al. Primary neural degeneration in the human cochlea: evidence for hidden hearing loss in the aging ear. Neuroscience (2019); Bramhall N et al. Hearing Research (2019).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "perdidaauditivaoculta",
+   "sinaptopatia"
+  ],
+  "etiketler": [
+   "pérdida auditiva oculta",
+   "sinaptopatía coclear",
+   "amplitud de la onda I",
+   "Kujawa Liberman",
+   "frecuencias altas extendidas",
+   "hipoacusia inducida por ruido",
+   "sinapsis en cinta",
+   "habla en ruido",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 296",
+   "baslik": "Pérdida auditiva oculta y *sinaptopatía*",
+   "alt": "Evidencia animal, estudios en humanos, debate",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección examinaremos la evidencia actual sobre la pérdida auditiva oculta y la sinaptopatía coclear.",
+    "Veremos los estudios en animales de Kujawa y Liberman, la dificultad de medirla en humanos, los hallazgos contradictorios y lo que podemos hacer hoy."
+   ]
+  },
+  {
+   "id": "sinaps",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Concepto",
+   "baslik": "¿*Dónde* está la sinapsis?",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "célula ciliada interna",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "fibras nerviosas",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "células ciliadas externas",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 2
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En la lección sobre la hipoacusia inducida por ruido definimos brevemente la sinaptopatía coclear; en esta lección vemos la evidencia en sí.",
+    "El principal punto donde el sonido se transmite al nervio es la sinapsis en cinta, en la base de la célula ciliada interna.",
+    "A cada célula ciliada interna se conectan muchas fibras del nervio auditivo; cada fibra recibe información de una sola célula ciliada interna.",
+    "La sinaptopatía coclear es la pérdida de estas sinapsis mientras la célula ciliada sigue en su lugar.",
+    "Una vez perdida la sinapsis, la fibra deja de funcionar y puede degenerar en el curso de meses o años.",
+    "Como las células ciliadas externas siguen intactas, el audiograma y las otoemisiones acústicas pueden ser normales."
+   ]
+  },
+  {
+   "id": "lifler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Concepto",
+   "baslik": "*Tipos* de fibras",
+   "ogeler": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Fibras de umbral bajo",
+     "metin": "Tasa espontánea alta",
+     "cumle": 0
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Fibras de umbral alto",
+     "metin": "Tasa espontánea baja",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Codificación en ruido",
+     "metin": "Importantes a niveles altos",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Umbral",
+     "metin": "Lo fijan las fibras de umbral bajo",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Como vimos en la lección sobre la codificación en el nervio auditivo, las fibras se agrupan según su tasa de descarga espontánea y su umbral.",
+    "Las fibras con tasa espontánea baja y umbral alto ayudan a codificar el sonido a niveles altos y en ambientes ruidosos.",
+    "Los estudios en animales informaron que estas fibras de umbral alto son las primeras en verse afectadas por el ruido.",
+    "Por eso se ha propuesto que la sinaptopatía podría alterar la comprensión del habla en ruido.",
+    "Como se conservan las fibras de umbral bajo, que determinan el umbral, el audiograma puede no cambiar."
+   ]
+  },
+  {
+   "id": "kujawa",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Evidencia animal",
+   "baslik": "Kujawa y Liberman, *2009*",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido",
+     "metin": "Dos horas en ratones",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Desplazamiento temporal",
+     "metin": "Los umbrales subieron",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Umbrales recuperados",
+     "metin": "En unas dos semanas",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Pérdida de sinapsis",
+     "metin": "Hasta la mitad",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Degeneración tardía",
+     "metin": "Menos células nerviosas",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En 2009, Kujawa y Liberman expusieron a ratones durante dos horas a un ruido de ocho a dieciséis kilohertz a cien decibeles."
+    },
+    "Los animales mostraron un claro desplazamiento temporal del umbral.",
+    "Los umbrales volvieron a la normalidad en unas dos semanas, y las células ciliadas externas permanecieron intactas.",
+    "Sin embargo, en algunas regiones de la cóclea se perdió de forma permanente cerca de la mitad de las sinapsis de las células ciliadas internas.",
+    "Meses después, se demostró que las células del ganglio espiral de esas regiones también disminuían.",
+    "El estudio atrajo gran atención porque mostró que un desplazamiento del umbral aparentemente temporal puede dejar un daño nervioso permanente."
+   ]
+  },
+  {
+   "id": "dalga1",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Evidencia animal",
+   "baslik": "*Amplitud* de la onda I",
+   "cizim": "abr",
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "onda I",
+     "cumle": 0
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "onda V",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "En animales, el mejor marcador funcional de la pérdida de sinapsis es la amplitud de la onda I de los potenciales evocados auditivos de tronco cerebral (PEATC).",
+    "La onda I refleja la respuesta sincrónica del nervio auditivo; al disminuir las fibras activas, su amplitud se reduce con estímulos de nivel alto.",
+    "En el estudio en ratones, la reducción de la amplitud de la onda I coincidió con la pérdida de sinapsis.",
+    "Como el umbral no cambia, este hallazgo solo puede verse con estímulos de nivel alto y midiendo la amplitud.",
+    "En la clínica, los PEATC suelen evaluarse por latencia y umbral; la amplitud se usa menos porque varía mucho entre personas.",
+    "Este punto también explica por qué es difícil trasladar a los humanos el hallazgo en animales."
+   ],
+   "ayar": {
+    "dalga1_oran": 0.45,
+    "azalmis_cumle": 1,
+    "genlik_cumle": 1
+   }
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Evidencia animal",
+   "baslik": "Otros *hallazgos en animales*",
+   "ogeler": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Cobayo",
+     "metin": "Fibras de umbral alto",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Primate",
+     "metin": "Con niveles de ruido mayores",
+     "cumle": 2
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Envejecimiento",
+     "metin": "Pérdida sin ruido",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Hueso temporal humano",
+     "metin": "Las sinapsis disminuyen con la edad",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los estudios en cobayos mostraron que, después del ruido, se perdían sobre todo las fibras con tasa espontánea baja.",
+    "Una pregunta importante era si la sinaptopatía observada en ratones y cobayos también ocurre en especies más cercanas al ser humano.",
+    "Un estudio en monos mostró sinaptopatía, pero requirió niveles de ruido más altos que en los ratones.",
+    "En ratones se informó que las sinapsis disminuyen con el envejecimiento incluso sin ruido, antes de que empeoren los umbrales.",
+    {
+     "yazi": "Un estudio de 2019 en huesos temporales humanos también encontró una clara pérdida de sinapsis y de fibras nerviosas con la edad."
+    },
+    "Así, en humanos hay evidencia histológica directa de la sinaptopatía relacionada con la edad; para la inducida por ruido, la evidencia es más indirecta."
+   ]
+  },
+  {
+   "id": "zor",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "En humanos",
+   "baslik": "¿*Por qué es difícil* en humanos?",
+   "ogeler": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Histología",
+     "metin": "Solo después de la muerte",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Señal pequeña",
+     "metin": "La onda I varía",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Historial de exposición",
+     "metin": "Depende de la memoria",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Factores de confusión",
+     "metin": "Pérdida en frecuencias agudas",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Diferencias individuales",
+     "metin": "Sexo, tamaño de la cabeza",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En humanos, las sinapsis solo pueden contarse después de la muerte, mediante el estudio del hueso temporal; no hay una medida directa en una persona viva.",
+    "La onda I registrada desde el cuero cabelludo es una señal pequeña y varía mucho incluso entre personas sanas de la misma edad.",
+    "La exposición al ruido a lo largo de la vida suele estimarse con un cuestionario, que depende de la memoria.",
+    "Una persona con audiograma normal puede tener pérdida por encima de ocho kilohertz, lo que afecta la amplitud de la onda I y confunde el resultado.",
+    "Factores como el sexo, el tamaño de la cabeza y la colocación de los electrodos también modifican la amplitud.",
+    "Por eso, hoy no es posible diagnosticar la sinaptopatía en humanos con una sola medición."
+   ]
+  },
+  {
+   "id": "olcumler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "En humanos",
+   "baslik": "*Medidas* candidatas",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Amplitud de la onda I",
+     "metin": "Con estímulos de nivel alto",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Relación PS/PA",
+     "metin": "Electrococleografía",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Frecuencias extendidas",
+     "metin": "Por encima de 8 kHz",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Reflejo del oído medio",
+     "metin": "Umbral y amplitud",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Seguimiento de la envolvente",
+     "metin": "Codifica la envolvente del sonido",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Habla en ruido",
+     "metin": "Condición de escucha difícil",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La medida candidata más usada en investigación es la amplitud de la onda I de los PEATC con estímulos de nivel alto.",
+    {
+     "yazi": "En la electrococleografía también se ha propuesto como marcador la relación entre el potencial de suma y el potencial de acción (PS/PA)."
+    },
+    "La audiometría de alta frecuencia extendida se estudia como un signo temprano de daño por ruido.",
+    "También se estudian el umbral y la amplitud del reflejo acústico, ya que podrían verse afectados por la pérdida de fibras nerviosas.",
+    "La respuesta de seguimiento de la envolvente mide qué tan bien el sistema nervioso sigue los cambios rápidos en la amplitud del sonido.",
+    "En el plano conductual se usan pruebas de comprensión del habla en ruido o en salas reverberantes.",
+    "Sin embargo, ninguna de estas medidas es por sí sola una prueba clínica validada."
+   ]
+  },
+  {
+   "id": "celiski",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "En humanos",
+   "baslik": "*Hallazgos* contradictorios",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "A favor",
+     "metin": "PS/PA mayor en adultos jóvenes",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "A favor",
+     "metin": "Onda I menor en veteranos",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "En contra",
+     "metin": "Sin relación en adultos jóvenes",
+     "cumle": 3
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Conclusión",
+     "metin": "Los métodos difieren",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En 2016 se informó una relación PS/PA mayor en adultos jóvenes con alta exposición al ruido."
+    },
+    "En el mismo estudio, este grupo tuvo un menor rendimiento en el reconocimiento de palabras en condiciones difíciles.",
+    "Los estudios en veteranos militares con gran exposición al ruido también encontraron amplitudes menores de la onda I.",
+    "En cambio, en un gran grupo de adultos jóvenes con audiograma normal no se demostró relación entre el historial de ruido y la electrofisiología.",
+    "Muchos otros estudios tampoco encontraron una relación constante entre el historial de ruido y la comprensión en ruido.",
+    "Entre las razones de estas contradicciones están los distintos grupos, las distintas medidas de exposición y los distintos métodos de prueba."
+   ]
+  },
+  {
+   "id": "ehf",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "En humanos",
+   "baslik": "*Frecuencias* altas extendidas",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1000,
+     "max": 16000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000,
+      16000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 70,
+     "adim": 10,
+     "ad": "Nivel de audición (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "ornek",
+      "noktalar": [
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        5
+       ],
+       [
+        4000,
+        10
+       ],
+       [
+        8000,
+        15
+       ],
+       [
+        10000,
+        25
+       ],
+       [
+        12500,
+        40
+       ],
+       [
+        16000,
+        55
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "oído de ejemplo",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "normal",
+      "y": [
+       -10,
+       25
+      ],
+      "renk": "yesil",
+      "etiket": "límite normal",
+      "opak": 0.12,
+      "cumle": 1
+     },
+     {
+      "ad": "ehf",
+      "x": [
+       8000,
+       16000
+      ],
+      "renk": "sari",
+      "etiket": "extendidas",
+      "cumle": 2
+     }
+    ],
+    "isaretler": []
+   },
+   "vurgula": [
+    {
+     "parca": "ehf",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "El gráfico en pantalla es un ejemplo didáctico de audiometría de alta frecuencia extendida.",
+    "En este ejemplo, los umbrales hasta ocho mil hertz están dentro de los límites normales.",
+    "Pero por encima de diez mil hertz, los umbrales suben claramente.",
+    "Un audiograma estándar no muestra esta pérdida, aunque la persona puede referir dificultad en ruido.",
+    "Algunos investigadores ven esta pérdida como un signo temprano de daño por ruido o por la edad, que podría coexistir con la sinaptopatía.",
+    "Por eso, en una persona con audiograma normal pero con quejas, evaluar las frecuencias altas extendidas puede ser informativo."
+   ]
+  },
+  {
+   "id": "tinnitus",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "En humanos",
+   "baslik": "Tinnitus y *comprensión en ruido*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitus",
+     "metin": "Con audiograma normal",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Onda I",
+     "metin": "Menor en algunos estudios",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Ganancia central",
+     "metin": "Un mecanismo posible",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Comprensión en ruido",
+     "metin": "Una queja frecuente",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El término pérdida auditiva oculta se difundió con un estudio de 2011 en pacientes con tinnitus y audiograma normal."
+    },
+    "En este estudio, las personas con tinnitus tenían amplitudes menores de la onda I, mientras que las ondas posteriores se conservaban.",
+    "Los autores sugirieron que el sistema auditivo central compensa la menor entrada nerviosa aumentando su ganancia, lo que podría contribuir al tinnitus.",
+    "La dificultad para entender en ruido con un audiograma normal también es una queja frecuente en la clínica.",
+    "Pero esta queja también tiene otras causas, como la atención, los factores cognitivos y el procesamiento auditivo.",
+    "Por eso no es correcto atribuir a la sinaptopatía toda queja con audiograma normal."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "En humanos",
+   "baslik": "¿*Qué podemos hacer* en la clínica?",
+   "maddeler": [
+    {
+     "metin": "Tomar en serio la queja",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Prueba de habla en ruido",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Frecuencias altas extendidas",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Orientación sobre protección auditiva",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Una posibilidad, no un diagnóstico",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kalabalik",
+      "baslik": "Medir",
+      "metin": "Habla en ruido",
+      "cumle": 1
+     },
+     {
+      "ikon": "kulaklik",
+      "baslik": "Proteger",
+      "metin": "Escucha segura",
+      "cumle": 3
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "No exagerar",
+      "metin": "Un concepto de investigación",
+      "cumle": 4
+     }
+    ],
+    "ust": "CLÍNICA"
+   },
+   "cumleler": [
+    "Cuando alguien con audiograma normal refiere dificultad en ruido, la queja se toma en serio y se documenta.",
+    "Una prueba de habla en ruido permite medir una dificultad que el puntaje de palabras en silencio no muestra.",
+    "Si es posible, se evalúan las frecuencias altas extendidas y se toma una historia detallada de exposición al ruido.",
+    "Las personas expuestas al ruido reciben orientación sobre protección auditiva y escucha segura; este consejo ayuda en cualquier caso.",
+    "Hoy la sinaptopatía es un concepto de investigación; no se escribe en un informe como diagnóstico definitivo.",
+    "La investigación sobre tratamientos en esta área también está en la etapa de estudios en animales; no se promete al paciente ningún tratamiento comprobado."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Alerta clínica",
+   "metin": "En lugar de decir «tu audición es normal» a quien tiene audiograma normal pero dificultad en ruido, explica en conjunto los hallazgos y la queja.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la clínica: a alguien con audiograma normal que tiene dificultad en ruido, no le digas simplemente que su audición es normal.",
+    "Explica que el audiograma mide umbrales en silencio y hasta ocho mil hertz, y que no muestra todas las habilidades auditivas.",
+    "Reconoce que la queja es real, comparte el resultado de la prueba de habla en ruido y sugiere estrategias de comunicación.",
+    "Así evitas tanto la preocupación innecesaria como restarle importancia a la queja."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Pérdida de sinapsis, umbral normal",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Kujawa y Liberman 2009: evidencia en ratones",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Hallazgos contradictorios en humanos",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Clínica: medir, proteger, no exagerar",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La sinaptopatía coclear es la pérdida de sinapsis de las células ciliadas internas con las células ciliadas intactas; los umbrales pueden seguir normales.",
+    {
+     "yazi": "En 2009, Kujawa y Liberman demostraron en ratones que un ruido que causa un desplazamiento temporal del umbral deja una pérdida permanente de sinapsis."
+    },
+    "En humanos hay evidencia histológica de pérdida sináptica por la edad; para el ruido, los hallazgos se contradicen y no existe una prueba validada.",
+    "En la clínica se miden el habla en ruido y las frecuencias altas extendidas, se aconseja protección y no se afirma un diagnóstico definitivo."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Recuento directo en humanos?",
+   "secenekler": [
+    "Con PEATC en una persona viva",
+    "Estudio post mortem del hueso temporal",
+    "Con un audiograma",
+    "Con timpanometría"
+   ],
+   "dogru": 1,
+   "aciklama": "En humanos, las sinapsis solo pueden contarse mediante el estudio _post mortem del hueso temporal_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cómo puede determinarse directamente el número de sinapsis cocleares en humanos?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: mediante el estudio post mortem del hueso temporal.",
+    "En una persona viva, medidas como la amplitud de la onda I solo dan pistas indirectas, y por eso el debate en humanos continúa."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Terapia génica y regeneración de *células ciliadas*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos con realismo la investigación sobre la terapia génica y la regeneración de células ciliadas.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

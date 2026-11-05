@@ -1,0 +1,2329 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D203_Intraoperative_Monitoring_ES",
+ "kapak": {
+  "ust": "LECCIÓN 203",
+  "baslik": "Monitorización<br>*intraoperatoria*",
+  "alt": "Audición y nervio facial",
+  "cizim": "ic_kulak_yolu_dibi",
+  "ayar": {
+   "sinirler": true
+  },
+  "vurgula": [
+   "koklear_sinir",
+   "fasiyal_sinir"
+  ]
+ },
+ "youtube": {
+  "baslik": "Monitorización intraoperatoria: audición y facial | Lección 203 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo se protegen la audición y el nervio facial durante una cirugía? En esta lección vemos la monitorización de la audición con PEATC, ECochG y registro directo del nervio en la cirugía del ángulo pontocerebeloso, la EMG espontánea y evocada del nervio facial, el efecto de la anestesia y el papel del audiólogo en el equipo de quirófano.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Møller, Intraoperative Neurophysiological Monitoring; Romstöck et al., Continuous electromyography monitoring of motor cranial nerves during cerebellopontine angle surgery, Journal of Neurosurgery (2000); ASHA, Neurophysiologic Intraoperative Monitoring (1992); AAO-HNS, Position Statement: Intraoperative Nerve Monitoring in Otologic Surgery.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "neuromonitoreo",
+   "electrofisiologia"
+  ],
+  "etiketler": [
+   "monitorización intraoperatoria",
+   "monitorización del nervio facial",
+   "electromiografía",
+   "EMG",
+   "PEATC",
+   "ECochG",
+   "schwannoma vestibular",
+   "ángulo pontocerebeloso",
+   "cirugía de base de cráneo",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 203",
+   "baslik": "Monitorización *intraoperatoria*",
+   "alt": "Monitorizar la audición y el nervio facial en cirugía",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo se usan los potenciales evocados en el quirófano para proteger los nervios.",
+    "Veremos la monitorización auditiva en la cirugía del ángulo pontocerebeloso, la electromiografía facial y el papel del audiólogo en el equipo."
+   ]
+  },
+  {
+   "id": "anatomi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué monitorizar?",
+   "baslik": "Un *corredor* estrecho",
+   "cizim": "ic_kulak_yolu_dibi",
+   "ayar": {
+    "sinirler": true
+   },
+   "etiketler": [
+    {
+     "parca": "koklear_sinir",
+     "metin": "nervio coclear",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "nervio facial",
+     "cumle": 2
+    },
+    {
+     "parca": "labirent_arteri",
+     "metin": "arteria laberíntica",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "labirent_arteri",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En la lección sobre el schwannoma vestibular vimos que cuatro nervios recorren juntos el conducto auditivo interno.",
+    "Los nervios vestibulares superior e inferior están en la parte posterior; el tumor suele originarse en ellos.",
+    "El nervio coclear va en la parte anteroinferior, y el nervio facial en la parte anterosuperior.",
+    "La arteria laberíntica, que irriga estos nervios y el oído interno, pasa por el mismo conducto estrecho.",
+    "Mientras se extirpa el tumor, estas estructuras pueden estirarse, calentarse o perder su irrigación.",
+    "La monitorización intraoperatoria consiste en seguir en tiempo real la función de estos nervios durante toda la operación."
+   ]
+  },
+  {
+   "id": "amac",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué monitorizar?",
+   "baslik": "El *objetivo* de la monitorización",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Alerta temprana",
+     "metin": "Antes del daño permanente",
+     "cumle": 0
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Decisión quirúrgica",
+     "metin": "Cambian la dirección y el ritmo",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registro",
+     "metin": "De principio a fin",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El objetivo es detectar el sufrimiento de un nervio antes de que haya un daño permanente y avisar al cirujano.",
+    "Al recibir una alerta, el cirujano puede reducir la tracción, cambiar la zona de trabajo o hacer una breve pausa.",
+    "La monitorización deja las decisiones al cirujano; solo aporta información oportuna y fiable.",
+    "Según declaraciones de posición de otorrinolaringología, la monitorización facial mejora los resultados en algunas cirugías de base de cráneo y hueso temporal.",
+    "Esas mismas declaraciones subrayan que la monitorización no reemplaza una buena técnica quirúrgica.",
+    "El registro realizado desde el inicio hasta el final de la operación también documenta el proceso."
+   ]
+  },
+  {
+   "id": "nerede",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué monitorizar?",
+   "baslik": "¿En *qué* operaciones?",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Tumores de base de cráneo",
+     "metin": "Schwannoma vestibular",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Descompresión",
+     "metin": "Liberar una compresión vascular",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Cirugía de oído",
+     "metin": "Cuando el nervio facial corre riesgo",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Preservar la audición",
+     "metin": "Se agrega monitorización con PEATC",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El uso más conocido de la monitorización es la cirugía de tumores del ángulo pontocerebeloso y del conducto auditivo interno.",
+    "En estas operaciones casi siempre se monitoriza el nervio facial; si se busca preservar la audición, también la vía auditiva.",
+    "Otro ejemplo es la descompresión microvascular, en la que se aparta un vaso sanguíneo que comprime nervios craneales.",
+    "En algunas cirugías de oído medio y mastoides puede usarse la monitorización facial si el trayecto del nervio corre riesgo.",
+    "Para que la monitorización auditiva tenga sentido, antes de la cirugía debe haber audición útil y unos PEATC registrables.",
+    "Este requisito hace que la evaluación audiológica prequirúrgica forme parte del plan de monitorización."
+   ]
+  },
+  {
+   "id": "yontem",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Monitorizar la audición",
+   "baslik": "*Tres formas* de monitorizar la audición",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "PEATC",
+     "metin": "Desde el cuero cabelludo, a distancia",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "ECochG",
+     "metin": "Aguja cerca de la cóclea",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Registro directo del nervio",
+     "metin": "Electrodo sobre el nervio",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En las operaciones que buscan preservar la audición, la vía auditiva puede monitorizarse de tres formas distintas.",
+    "La más frecuente son los potenciales evocados auditivos de tronco cerebral (PEATC), registrados con electrodos en el cuero cabelludo.",
+    "Como los PEATC son pequeños, hay que promediar muchos barridos; obtener un resultado nuevo a veces lleva minutos.",
+    {
+     "yazi": "En la electrococleografía (ECochG), una aguja fina atraviesa la membrana timpánica y se apoya en el promontorio."
+    },
+    "Al estar cerca de la cóclea, la respuesta es grande y se obtiene mucho más rápido, pero solo muestra la cóclea y el nervio distal.",
+    "En el tercer método, el cirujano coloca un pequeño electrodo sobre el nervio auditivo, cerca del tronco, y registra su respuesta directamente.",
+    "Este registro directo da una respuesta grande y rápida, pero el electrodo no debe desplazarse."
+   ]
+  },
+  {
+   "id": "abr_degisim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Monitorizar la audición",
+   "baslik": "Una *señal de alerta* en los PEATC",
+   "cizim": "abr",
+   "ayar": {
+    "i_v_uzama": 1.0
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "onda I: sin cambios",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "onda V: retrasada",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 2
+    },
+    {
+     "parca": "latans_I_V",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "La línea de base es la referencia",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Latencia mayor o amplitud menor",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Antes de empezar la cirugía, tras la anestesia, se hace un registro basal; todas las comparaciones se hacen con él.",
+    "La línea discontinua muestra el registro basal, y la línea continua un registro hecho durante la cirugía.",
+    "En este ejemplo la onda V se retrasa mientras la onda I se mantiene en su lugar, así que el intervalo entre las ondas I y V se alarga.",
+    "Muchos centros toman como alerta un aumento de latencia de la onda V de alrededor de un milisegundo, o una caída de amplitud de cerca de la mitad.",
+    "Sin embargo, los criterios de alerta varían entre centros, y la velocidad del cambio también importa.",
+    "La pérdida completa de la onda V sugiere un alto riesgo de perder la audición."
+   ]
+  },
+  {
+   "id": "yaniltici",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Monitorizar la audición",
+   "baslik": "No todo cambio viene del *nervio*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Auricular",
+     "metin": "Desplazamiento, líquido",
+     "cumle": 0
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido",
+     "metin": "Fresa y equipos eléctricos",
+     "cumle": 2
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Temperatura y presión arterial",
+     "metin": "Descenso de la temperatura corporal",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Irrigación",
+     "metin": "Arteria laberíntica",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "No todo cambio en los PEATC significa daño nervioso; primero se descartan las causas técnicas.",
+    "Si el auricular de inserción se desplaza en el conducto, o si el conducto se llena de líquido, el estímulo puede disminuir.",
+    "El ruido y el artefacto eléctrico de la fresa ósea y del instrumental de electrocirugía alteran el registro.",
+    "Un descenso de la temperatura corporal y los cambios grandes de presión arterial también pueden prolongar las latencias.",
+    {
+     "yazi": "Un problema en la arteria laberíntica altera la irrigación de la cóclea; en ese caso, la respuesta de la ECochG también puede desaparecer rápido."
+    },
+    "Hacer esta distinción es una de las tareas más importantes de quien realiza la monitorización."
+   ]
+  },
+  {
+   "id": "emg",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "El nervio facial",
+   "baslik": "*EMG* del nervio facial",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "ad": "Tiempo (s)",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10
+     ]
+    },
+    "y": {
+     "min": -2,
+     "max": 2,
+     "adim": 1,
+     "ad": "EMG"
+    },
+    "seriler": [
+     {
+      "ad": "emg",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.025,
+        0.032
+       ],
+       [
+        0.05,
+        0.038
+       ],
+       [
+        0.075,
+        0.014
+       ],
+       [
+        0.1,
+        -0.021
+       ],
+       [
+        0.125,
+        -0.04
+       ],
+       [
+        0.15,
+        -0.027
+       ],
+       [
+        0.175,
+        0.008
+       ],
+       [
+        0.2,
+        0.036
+       ],
+       [
+        0.225,
+        0.036
+       ],
+       [
+        0.25,
+        0.007
+       ],
+       [
+        0.275,
+        -0.027
+       ],
+       [
+        0.3,
+        -0.04
+       ],
+       [
+        0.325,
+        -0.021
+       ],
+       [
+        0.35,
+        0.015
+       ],
+       [
+        0.375,
+        0.039
+       ],
+       [
+        0.4,
+        0.032
+       ],
+       [
+        0.425,
+        -0.001
+       ],
+       [
+        0.45,
+        -0.032
+       ],
+       [
+        0.475,
+        -0.038
+       ],
+       [
+        0.5,
+        -0.014
+       ],
+       [
+        0.525,
+        0.022
+       ],
+       [
+        0.55,
+        0.04
+       ],
+       [
+        0.575,
+        0.026
+       ],
+       [
+        0.6,
+        -0.008
+       ],
+       [
+        0.625,
+        -0.036
+       ],
+       [
+        0.65,
+        -0.035
+       ],
+       [
+        0.675,
+        -0.006
+       ],
+       [
+        0.7,
+        0.028
+       ],
+       [
+        0.725,
+        0.04
+       ],
+       [
+        0.75,
+        0.02
+       ],
+       [
+        0.775,
+        -0.016
+       ],
+       [
+        0.8,
+        -0.039
+       ],
+       [
+        0.825,
+        -0.031
+       ],
+       [
+        0.85,
+        0.001
+       ],
+       [
+        0.875,
+        0.033
+       ],
+       [
+        0.9,
+        0.038
+       ],
+       [
+        0.925,
+        0.013
+       ],
+       [
+        0.95,
+        -0.022
+       ],
+       [
+        0.975,
+        -0.04
+       ],
+       [
+        1.0,
+        -0.026
+       ],
+       [
+        1.025,
+        0.009
+       ],
+       [
+        1.05,
+        0.037
+       ],
+       [
+        1.075,
+        0.035
+       ],
+       [
+        1.1,
+        0.006
+       ],
+       [
+        1.125,
+        -0.028
+       ],
+       [
+        1.15,
+        -0.04
+       ],
+       [
+        1.175,
+        -0.019
+       ],
+       [
+        1.2,
+        0.016
+       ],
+       [
+        1.225,
+        0.039
+       ],
+       [
+        1.25,
+        0.031
+       ],
+       [
+        1.275,
+        -0.002
+       ],
+       [
+        1.3,
+        -0.033
+       ],
+       [
+        1.325,
+        -0.038
+       ],
+       [
+        1.35,
+        -0.012
+       ],
+       [
+        1.375,
+        0.023
+       ],
+       [
+        1.4,
+        0.04
+       ],
+       [
+        1.425,
+        0.025
+       ],
+       [
+        1.45,
+        -0.01
+       ],
+       [
+        1.475,
+        1.386
+       ],
+       [
+        1.5,
+        1.386
+       ],
+       [
+        1.525,
+        0.0
+       ],
+       [
+        1.55,
+        -1.386
+       ],
+       [
+        1.575,
+        -1.386
+       ],
+       [
+        1.6,
+        -0.0
+       ],
+       [
+        1.625,
+        -0.017
+       ],
+       [
+        1.65,
+        -0.039
+       ],
+       [
+        1.675,
+        -0.03
+       ],
+       [
+        1.7,
+        0.003
+       ],
+       [
+        1.725,
+        0.034
+       ],
+       [
+        1.75,
+        0.038
+       ],
+       [
+        1.775,
+        0.012
+       ],
+       [
+        1.8,
+        -0.023
+       ],
+       [
+        1.825,
+        -0.04
+       ],
+       [
+        1.85,
+        -0.025
+       ],
+       [
+        1.875,
+        0.01
+       ],
+       [
+        1.9,
+        0.037
+       ],
+       [
+        1.925,
+        0.034
+       ],
+       [
+        1.95,
+        0.004
+       ],
+       [
+        1.975,
+        -0.029
+       ],
+       [
+        2.0,
+        -0.039
+       ],
+       [
+        2.025,
+        -0.018
+       ],
+       [
+        2.05,
+        0.017
+       ],
+       [
+        2.075,
+        0.039
+       ],
+       [
+        2.1,
+        0.03
+       ],
+       [
+        2.125,
+        -0.003
+       ],
+       [
+        2.15,
+        -0.034
+       ],
+       [
+        2.175,
+        -0.037
+       ],
+       [
+        2.2,
+        -0.011
+       ],
+       [
+        2.225,
+        0.024
+       ],
+       [
+        2.25,
+        0.04
+       ],
+       [
+        2.275,
+        0.024
+       ],
+       [
+        2.3,
+        -0.011
+       ],
+       [
+        2.325,
+        -0.037
+       ],
+       [
+        2.35,
+        -0.034
+       ],
+       [
+        2.375,
+        -0.004
+       ],
+       [
+        2.4,
+        0.03
+       ],
+       [
+        2.425,
+        0.039
+       ],
+       [
+        2.45,
+        0.018
+       ],
+       [
+        2.475,
+        -0.018
+       ],
+       [
+        2.5,
+        -0.039
+       ],
+       [
+        2.525,
+        -0.029
+       ],
+       [
+        2.55,
+        0.004
+       ],
+       [
+        2.575,
+        0.034
+       ],
+       [
+        2.6,
+        0.037
+       ],
+       [
+        2.625,
+        0.01
+       ],
+       [
+        2.65,
+        -0.025
+       ],
+       [
+        2.675,
+        -0.04
+       ],
+       [
+        2.7,
+        -0.024
+       ],
+       [
+        2.725,
+        0.012
+       ],
+       [
+        2.75,
+        0.038
+       ],
+       [
+        2.775,
+        0.034
+       ],
+       [
+        2.8,
+        0.003
+       ],
+       [
+        2.825,
+        -0.03
+       ],
+       [
+        2.85,
+        -0.039
+       ],
+       [
+        2.875,
+        -0.017
+       ],
+       [
+        2.9,
+        0.019
+       ],
+       [
+        2.925,
+        0.039
+       ],
+       [
+        2.95,
+        0.029
+       ],
+       [
+        2.975,
+        -0.005
+       ],
+       [
+        3.0,
+        -0.035
+       ],
+       [
+        3.025,
+        -0.037
+       ],
+       [
+        3.05,
+        -0.01
+       ],
+       [
+        3.075,
+        0.025
+       ],
+       [
+        3.1,
+        0.04
+       ],
+       [
+        3.125,
+        0.023
+       ],
+       [
+        3.15,
+        -0.012
+       ],
+       [
+        3.175,
+        -0.038
+       ],
+       [
+        3.2,
+        -0.033
+       ],
+       [
+        3.225,
+        -0.002
+       ],
+       [
+        3.25,
+        0.031
+       ],
+       [
+        3.275,
+        0.039
+       ],
+       [
+        3.3,
+        0.016
+       ],
+       [
+        3.325,
+        -0.019
+       ],
+       [
+        3.35,
+        -0.04
+       ],
+       [
+        3.375,
+        -0.028
+       ],
+       [
+        3.4,
+        0.005
+       ],
+       [
+        3.425,
+        0.035
+       ],
+       [
+        3.45,
+        0.037
+       ],
+       [
+        3.475,
+        0.009
+       ],
+       [
+        3.5,
+        -0.026
+       ],
+       [
+        3.525,
+        -0.04
+       ],
+       [
+        3.55,
+        -0.022
+       ],
+       [
+        3.575,
+        0.013
+       ],
+       [
+        3.6,
+        0.038
+       ],
+       [
+        3.625,
+        0.033
+       ],
+       [
+        3.65,
+        0.002
+       ],
+       [
+        3.675,
+        -0.031
+       ],
+       [
+        3.7,
+        -0.039
+       ],
+       [
+        3.725,
+        -0.016
+       ],
+       [
+        3.75,
+        0.02
+       ],
+       [
+        3.775,
+        0.04
+       ],
+       [
+        3.8,
+        0.028
+       ],
+       [
+        3.825,
+        -0.006
+       ],
+       [
+        3.85,
+        -0.035
+       ],
+       [
+        3.875,
+        -0.036
+       ],
+       [
+        3.9,
+        -0.008
+       ],
+       [
+        3.925,
+        0.026
+       ],
+       [
+        3.95,
+        0.04
+       ],
+       [
+        3.975,
+        0.022
+       ],
+       [
+        4.0,
+        -0.014
+       ],
+       [
+        4.025,
+        0.204
+       ],
+       [
+        4.05,
+        0.287
+       ],
+       [
+        4.075,
+        0.056
+       ],
+       [
+        4.1,
+        -0.374
+       ],
+       [
+        4.125,
+        -0.572
+       ],
+       [
+        4.15,
+        -0.196
+       ],
+       [
+        4.175,
+        0.529
+       ],
+       [
+        4.2,
+        0.891
+       ],
+       [
+        4.225,
+        0.405
+       ],
+       [
+        4.25,
+        -0.569
+       ],
+       [
+        4.275,
+        -1.086
+       ],
+       [
+        4.3,
+        -0.59
+       ],
+       [
+        4.325,
+        0.456
+       ],
+       [
+        4.35,
+        1.037
+       ],
+       [
+        4.375,
+        0.639
+       ],
+       [
+        4.4,
+        -0.259
+       ],
+       [
+        4.425,
+        -0.774
+       ],
+       [
+        4.45,
+        -0.527
+       ],
+       [
+        4.475,
+        0.089
+       ],
+       [
+        4.5,
+        0.451
+       ],
+       [
+        4.525,
+        0.334
+       ],
+       [
+        4.55,
+        -0.003
+       ],
+       [
+        4.575,
+        -0.205
+       ],
+       [
+        4.6,
+        -0.165
+       ],
+       [
+        4.625,
+        0.04
+       ],
+       [
+        4.65,
+        0.027
+       ],
+       [
+        4.675,
+        -0.007
+       ],
+       [
+        4.7,
+        -0.036
+       ],
+       [
+        4.725,
+        -0.036
+       ],
+       [
+        4.75,
+        -0.007
+       ],
+       [
+        4.775,
+        0.027
+       ],
+       [
+        4.8,
+        0.04
+       ],
+       [
+        4.825,
+        0.021
+       ],
+       [
+        4.85,
+        -0.015
+       ],
+       [
+        4.875,
+        -0.039
+       ],
+       [
+        4.9,
+        -0.032
+       ],
+       [
+        4.925,
+        0.001
+       ],
+       [
+        4.95,
+        0.032
+       ],
+       [
+        4.975,
+        0.038
+       ],
+       [
+        5.0,
+        0.014
+       ],
+       [
+        5.025,
+        -0.022
+       ],
+       [
+        5.05,
+        -0.04
+       ],
+       [
+        5.075,
+        -0.026
+       ],
+       [
+        5.1,
+        0.008
+       ],
+       [
+        5.125,
+        0.036
+       ],
+       [
+        5.15,
+        0.035
+       ],
+       [
+        5.175,
+        0.006
+       ],
+       [
+        5.2,
+        -0.028
+       ],
+       [
+        5.225,
+        -0.04
+       ],
+       [
+        5.25,
+        -0.02
+       ],
+       [
+        5.275,
+        0.015
+       ],
+       [
+        5.3,
+        0.039
+       ],
+       [
+        5.325,
+        0.031
+       ],
+       [
+        5.35,
+        -0.001
+       ],
+       [
+        5.375,
+        -0.033
+       ],
+       [
+        5.4,
+        -0.038
+       ],
+       [
+        5.425,
+        -0.013
+       ],
+       [
+        5.45,
+        0.022
+       ],
+       [
+        5.475,
+        0.04
+       ],
+       [
+        5.5,
+        0.026
+       ],
+       [
+        5.525,
+        -0.009
+       ],
+       [
+        5.55,
+        -0.036
+       ],
+       [
+        5.575,
+        -0.035
+       ],
+       [
+        5.6,
+        -0.006
+       ],
+       [
+        5.625,
+        0.028
+       ],
+       [
+        5.65,
+        0.04
+       ],
+       [
+        5.675,
+        0.02
+       ],
+       [
+        5.7,
+        -0.016
+       ],
+       [
+        5.725,
+        -0.039
+       ],
+       [
+        5.75,
+        -0.031
+       ],
+       [
+        5.775,
+        0.002
+       ],
+       [
+        5.8,
+        0.033
+       ],
+       [
+        5.825,
+        0.038
+       ],
+       [
+        5.85,
+        0.013
+       ],
+       [
+        5.875,
+        -0.023
+       ],
+       [
+        5.9,
+        -0.04
+       ],
+       [
+        5.925,
+        -0.025
+       ],
+       [
+        5.95,
+        0.009
+       ],
+       [
+        5.975,
+        0.037
+       ],
+       [
+        6.0,
+        0.035
+       ],
+       [
+        6.025,
+        0.005
+       ],
+       [
+        6.05,
+        -0.029
+       ],
+       [
+        6.075,
+        -0.04
+       ],
+       [
+        6.1,
+        -0.019
+       ],
+       [
+        6.125,
+        0.017
+       ],
+       [
+        6.15,
+        0.039
+       ],
+       [
+        6.175,
+        0.03
+       ],
+       [
+        6.2,
+        -0.003
+       ],
+       [
+        6.225,
+        -0.033
+       ],
+       [
+        6.25,
+        -0.038
+       ],
+       [
+        6.275,
+        -0.012
+       ],
+       [
+        6.3,
+        0.023
+       ],
+       [
+        6.325,
+        0.04
+       ],
+       [
+        6.35,
+        0.025
+       ],
+       [
+        6.375,
+        -0.01
+       ],
+       [
+        6.4,
+        -0.037
+       ],
+       [
+        6.425,
+        -0.034
+       ],
+       [
+        6.45,
+        -0.004
+       ],
+       [
+        6.475,
+        0.029
+       ],
+       [
+        6.5,
+        0.0
+       ],
+       [
+        6.525,
+        0.898
+       ],
+       [
+        6.55,
+        0.127
+       ],
+       [
+        6.575,
+        -0.88
+       ],
+       [
+        6.6,
+        -0.251
+       ],
+       [
+        6.625,
+        0.844
+       ],
+       [
+        6.65,
+        0.371
+       ],
+       [
+        6.675,
+        -0.792
+       ],
+       [
+        6.7,
+        -0.483
+       ],
+       [
+        6.725,
+        0.723
+       ],
+       [
+        6.75,
+        0.585
+       ],
+       [
+        6.775,
+        -0.641
+       ],
+       [
+        6.8,
+        -0.676
+       ],
+       [
+        6.825,
+        0.545
+       ],
+       [
+        6.85,
+        0.753
+       ],
+       [
+        6.875,
+        -0.438
+       ],
+       [
+        6.9,
+        -0.815
+       ],
+       [
+        6.925,
+        0.323
+       ],
+       [
+        6.95,
+        0.861
+       ],
+       [
+        6.975,
+        -0.201
+       ],
+       [
+        7.0,
+        -0.889
+       ],
+       [
+        7.025,
+        0.076
+       ],
+       [
+        7.05,
+        0.9
+       ],
+       [
+        7.075,
+        0.052
+       ],
+       [
+        7.1,
+        -0.893
+       ],
+       [
+        7.125,
+        -0.178
+       ],
+       [
+        7.15,
+        0.867
+       ],
+       [
+        7.175,
+        0.301
+       ],
+       [
+        7.2,
+        -0.825
+       ],
+       [
+        7.225,
+        -0.417
+       ],
+       [
+        7.25,
+        0.766
+       ],
+       [
+        7.275,
+        0.526
+       ],
+       [
+        7.3,
+        -0.691
+       ],
+       [
+        7.325,
+        -0.624
+       ],
+       [
+        7.35,
+        0.603
+       ],
+       [
+        7.375,
+        0.709
+       ],
+       [
+        7.4,
+        -0.503
+       ],
+       [
+        7.425,
+        -0.78
+       ],
+       [
+        7.45,
+        0.393
+       ],
+       [
+        7.475,
+        0.836
+       ],
+       [
+        7.5,
+        -0.274
+       ],
+       [
+        7.525,
+        -0.874
+       ],
+       [
+        7.55,
+        0.151
+       ],
+       [
+        7.575,
+        0.896
+       ],
+       [
+        7.6,
+        -0.024
+       ],
+       [
+        7.625,
+        -0.899
+       ],
+       [
+        7.65,
+        -0.103
+       ],
+       [
+        7.675,
+        0.885
+       ],
+       [
+        7.7,
+        0.228
+       ],
+       [
+        7.725,
+        -0.852
+       ],
+       [
+        7.75,
+        -0.349
+       ],
+       [
+        7.775,
+        0.803
+       ],
+       [
+        7.8,
+        0.463
+       ],
+       [
+        7.825,
+        -0.737
+       ],
+       [
+        7.85,
+        -0.567
+       ],
+       [
+        7.875,
+        0.657
+       ],
+       [
+        7.9,
+        0.66
+       ],
+       [
+        7.925,
+        -0.564
+       ],
+       [
+        7.95,
+        -0.74
+       ],
+       [
+        7.975,
+        0.459
+       ],
+       [
+        8.0,
+        0.805
+       ],
+       [
+        8.025,
+        -0.345
+       ],
+       [
+        8.05,
+        -0.853
+       ],
+       [
+        8.075,
+        0.225
+       ],
+       [
+        8.1,
+        0.885
+       ],
+       [
+        8.125,
+        -0.099
+       ],
+       [
+        8.15,
+        -0.899
+       ],
+       [
+        8.175,
+        -0.028
+       ],
+       [
+        8.2,
+        0.895
+       ],
+       [
+        8.225,
+        0.155
+       ],
+       [
+        8.25,
+        -0.873
+       ],
+       [
+        8.275,
+        -0.278
+       ],
+       [
+        8.3,
+        0.834
+       ],
+       [
+        8.325,
+        0.396
+       ],
+       [
+        8.35,
+        -0.778
+       ],
+       [
+        8.375,
+        -0.506
+       ],
+       [
+        8.4,
+        0.706
+       ],
+       [
+        8.425,
+        0.606
+       ],
+       [
+        8.45,
+        -0.621
+       ],
+       [
+        8.475,
+        -0.694
+       ],
+       [
+        8.5,
+        0.523
+       ],
+       [
+        8.525,
+        0.768
+       ],
+       [
+        8.55,
+        -0.414
+       ],
+       [
+        8.575,
+        -0.826
+       ],
+       [
+        8.6,
+        0.297
+       ],
+       [
+        8.625,
+        0.868
+       ],
+       [
+        8.65,
+        -0.174
+       ],
+       [
+        8.675,
+        -0.893
+       ],
+       [
+        8.7,
+        0.048
+       ],
+       [
+        8.725,
+        0.9
+       ],
+       [
+        8.75,
+        0.08
+       ],
+       [
+        8.775,
+        -0.889
+       ],
+       [
+        8.8,
+        -0.205
+       ],
+       [
+        8.825,
+        0.86
+       ],
+       [
+        8.85,
+        0.327
+       ],
+       [
+        8.875,
+        -0.813
+       ],
+       [
+        8.9,
+        -0.442
+       ],
+       [
+        8.925,
+        0.751
+       ],
+       [
+        8.95,
+        0.548
+       ],
+       [
+        8.975,
+        -0.673
+       ],
+       [
+        9.0,
+        -0.643
+       ],
+       [
+        9.025,
+        0.582
+       ],
+       [
+        9.05,
+        0.726
+       ],
+       [
+        9.075,
+        -0.48
+       ],
+       [
+        9.1,
+        -0.794
+       ],
+       [
+        9.125,
+        0.367
+       ],
+       [
+        9.15,
+        0.846
+       ],
+       [
+        9.175,
+        -0.248
+       ],
+       [
+        9.2,
+        -0.881
+       ],
+       [
+        9.225,
+        0.123
+       ],
+       [
+        9.25,
+        0.898
+       ],
+       [
+        9.275,
+        0.004
+       ],
+       [
+        9.3,
+        -0.897
+       ],
+       [
+        9.325,
+        -0.131
+       ],
+       [
+        9.35,
+        0.879
+       ],
+       [
+        9.375,
+        0.255
+       ],
+       [
+        9.4,
+        -0.843
+       ],
+       [
+        9.425,
+        -0.375
+       ],
+       [
+        9.45,
+        0.79
+       ],
+       [
+        9.475,
+        0.486
+       ],
+       [
+        9.5,
+        -0.014
+       ],
+       [
+        9.525,
+        0.021
+       ],
+       [
+        9.55,
+        0.04
+       ],
+       [
+        9.575,
+        0.027
+       ],
+       [
+        9.6,
+        -0.008
+       ],
+       [
+        9.625,
+        -0.036
+       ],
+       [
+        9.65,
+        -0.035
+       ],
+       [
+        9.675,
+        -0.007
+       ],
+       [
+        9.7,
+        0.028
+       ],
+       [
+        9.725,
+        0.04
+       ],
+       [
+        9.75,
+        0.02
+       ],
+       [
+        9.775,
+        -0.015
+       ],
+       [
+        9.8,
+        -0.039
+       ],
+       [
+        9.825,
+        -0.031
+       ],
+       [
+        9.85,
+        0.001
+       ],
+       [
+        9.875,
+        0.033
+       ],
+       [
+        9.9,
+        0.038
+       ],
+       [
+        9.925,
+        0.013
+       ],
+       [
+        9.95,
+        -0.022
+       ],
+       [
+        9.975,
+        -0.04
+       ]
+      ],
+      "renk": "lacivert",
+      "sure": 3,
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "spike",
+      "x": [
+       1.2,
+       1.9
+      ],
+      "renk": "mavi",
+      "etiket": "espiga aislada",
+      "cumle": 2
+     },
+     {
+      "ad": "burst",
+      "x": [
+       3.8,
+       4.8
+      ],
+      "renk": "sari",
+      "etiket": "ráfaga",
+      "cumle": 3
+     },
+     {
+      "ad": "train",
+      "x": [
+       6.4,
+       9.6
+      ],
+      "renk": "kirmizi",
+      "etiket": "tren",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Espiga aislada: contacto",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Tren largo: sufrimiento grave",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Retroalimentación sonora",
+     "cumle": 6,
+     "ikon": "hoparlor"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El nervio facial se monitoriza con electrodos de aguja finos colocados en los músculos faciales; esto se llama electromiografía (EMG)."
+    },
+    "Los electrodos suelen colocarse en el músculo orbicular de los ojos y en el músculo orbicular de los labios.",
+    "Cuando se toca o se tracciona suavemente el nervio, aparece en el músculo una descarga única y breve; a menudo es inofensiva.",
+    "Grupos más largos de descargas breves, o ráfagas, indican que el nervio estuvo sometido a estrés durante un tiempo.",
+    "Los trenes regulares de descargas que duran segundos sugieren que el nervio está bajo un estrés grave.",
+    "En particular, la duración total de los trenes sinusoidales llamados trenes A se asocia con el riesgo de parálisis facial tras la cirugía.",
+    {
+     "yazi": "La señal de EMG también se envía a un altavoz, así el cirujano oye las descargas al instante sin mirar la pantalla."
+    }
+   ]
+  },
+  {
+   "id": "emg_tur",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "El nervio facial",
+   "baslik": "Dos tipos de *EMG*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "EMG espontánea",
+     "metin": "Se vigila de forma continua",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "EMG evocada",
+     "metin": "La sonda localiza el nervio",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Umbral de estimulación",
+     "metin": "Estado del nervio",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La EMG espontánea se vigila de forma continua durante toda la cirugía y muestra el estrés mecánico o térmico sobre el nervio."
+    },
+    {
+     "yazi": "En la EMG evocada, el cirujano estimula el tejido con una sonda que aplica una pequeña corriente eléctrica."
+    },
+    "Si el nervio facial está en el punto estimulado, los músculos faciales responden, lo que localiza el nervio sobre el tumor.",
+    "Esto es especialmente valioso en tumores grandes, donde el nervio está adelgazado y es difícil de ver.",
+    "Tras extirpar el tumor, se estimula con corriente baja el extremo del nervio cercano al tronco cerebral.",
+    "Una respuesta clara con corriente baja es un signo favorable de que la función facial tras la cirugía será buena."
+   ]
+  },
+  {
+   "id": "anestezi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "En el quirófano",
+   "baslik": "Trabajar con la *anestesia*",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Relajante muscular",
+     "metin": "Anula la EMG",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "PEATC",
+     "metin": "Poco afectados por la anestesia",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Respuestas corticales",
+     "metin": "Muy suprimidas",
+     "cumle": 3
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Temperatura y presión arterial",
+     "metin": "Se registran",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los relajantes musculares bloquean la respuesta del músculo a la estimulación nerviosa; si se monitoriza el facial, su uso se planifica con anestesia.",
+    "Esta planificación se acuerda antes de la cirugía, porque la elección de los fármacos es decisión exclusiva del equipo de anestesia.",
+    "Los PEATC se ven relativamente poco afectados por los anestésicos generales, por eso son una herramienta de monitorización fiable en el quirófano.",
+    "En cambio, las respuestas de latencia media y corticales que vimos en lecciones anteriores se suprimen mucho bajo anestesia.",
+    "La temperatura corporal, la presión arterial y los cambios de fármacos se anotan en el registro, lo que facilita entender la causa de un cambio."
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "En el quirófano",
+   "baslik": "El día de la *cirugía*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Preparación",
+     "metin": "Audiograma, plan",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Electrodos",
+     "metin": "Control de impedancias",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Registro basal",
+     "metin": "Tras la anestesia",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Monitorización continua",
+     "metin": "Aviso inmediato",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Cierre",
+     "metin": "Registro final, informe",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Antes de la cirugía se revisan el audiograma, los PEATC y la función facial; sin PEATC no puede planificarse la monitorización auditiva.",
+    "Tras la anestesia se colocan los electrodos, se fija el auricular de inserción en el conducto y se controlan las impedancias.",
+    {
+     "yazi": "Antes de empezar la cirugía se hacen los registros basales de PEATC y de EMG."
+    },
+    "Los registros se vigilan de forma continua; ante un cambio significativo, se avisa de inmediato al cirujano, con palabras claras y breves.",
+    "Se anotan la hora de cada alerta, lo que hacía el cirujano en ese momento y lo que ocurrió después.",
+    "Al final de la cirugía se hacen los registros finales y todo el proceso se documenta en un informe."
+   ]
+  },
+  {
+   "id": "ekip",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "En el quirófano",
+   "baslik": "El *audiólogo* en el equipo",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Cirujano",
+     "metin": "Toma las decisiones",
+     "cumle": 0
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Equipo de anestesia",
+     "metin": "Fármacos y signos vitales",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Monitorización",
+     "metin": "Registro e interpretación",
+     "cumle": 2
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Formación",
+     "metin": "Se requiere experiencia adicional",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En el quirófano, el cirujano, el equipo de anestesia y el especialista en monitorización trabajan en equipo.",
+    "El equipo de anestesia maneja los fármacos y los signos vitales y aporta condiciones adecuadas para la monitorización.",
+    "Quien realiza la monitorización hace los registros, reconoce los artefactos, e interpreta e informa los cambios significativos.",
+    "La American Speech-Language-Hearing Association (ASHA) lo considera dentro del ámbito del audiólogo con la formación y habilidades adecuadas.",
+    "Sin embargo, la monitorización en quirófano exige formación adicional y experiencia supervisada, más allá de la formación básica en audiología.",
+    "Las profesiones que hacen este trabajo y la normativa legal varían de un país a otro."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "En el quirófano",
+   "baslik": "Ejemplo: *un momento de la cirugía*",
+   "maddeler": [
+    {
+     "metin": "Latencia de la onda V: +1 ms",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Sin causa técnica",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Aviso al cirujano, menos tracción",
+     "cumle": 2,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "La onda V se recuperó",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "abr",
+    "cumle": 0,
+    "ayar": {
+     "i_v_uzama": 1.0
+    },
+    "vurgula": [
+     {
+      "parca": "dalga_V",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Un caso puramente ilustrativo: al extirpar el tumor, la latencia de la onda V aumenta alrededor de un milisegundo en varios registros seguidos.",
+    "El auricular está en su lugar, las impedancias de los electrodos no cambiaron y no hay una nueva fuente de ruido en la sala.",
+    "El hallazgo se informa al cirujano con la hora; el cirujano reduce la tracción sobre el nervio y espera unos minutos.",
+    "Mientras tanto, los registros se repiten a intervalos cortos.",
+    "En pocos minutos, la onda V vuelve cerca de su valor basal y la operación continúa.",
+    "Todo el proceso se anota en el informe con la hora; los valores son con fines didácticos."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de alertar, descarta rápido una causa técnica: auricular, electrodos, ruido. Informa un cambio real sin demora, en una frase clara.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la clínica: en el quirófano, tanto las falsas alarmas como los avisos tardíos minan la confianza.",
+    "Cuando veas un cambio, revisa primero y rápido el auricular, las impedancias de los electrodos y el ruido de la sala.",
+    "Si no hay causa técnica, no esperes; dile al cirujano qué cambió, cuánto y desde cuándo, en una frase breve y clara.",
+    "Acordar esta forma de comunicarse con el cirujano antes de la operación facilita tu trabajo en una crisis."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Objetivo: alertar antes del daño permanente",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Audición: PEATC, ECochG, registro directo",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Nervio facial: EMG espontánea y evocada",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Comunicación constante con anestesia y cirujano",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "La monitorización intraoperatoria busca detectar un cambio en la función nerviosa antes de que haya un daño permanente.",
+    {
+     "yazi": "La audición se monitoriza con PEATC, ECochG o registro directo del nervio auditivo; los cambios se juzgan frente al registro basal."
+    },
+    {
+     "yazi": "El nervio facial se monitoriza desde los músculos faciales con EMG espontánea y evocada; los trenes largos sugieren un estrés grave."
+    },
+    {
+     "yazi": "Los relajantes musculares bloquean la EMG; una buena monitorización exige comunicación constante con el equipo de anestesia y el cirujano."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Al monitorizar la EMG facial, ¿qué causa un problema de registro?",
+   "secenekler": [
+    "Un relajante muscular",
+    "Un auricular de inserción",
+    "El registro basal",
+    "La retroalimentación sonora"
+   ],
+   "dogru": 0,
+   "aciklama": "Los relajantes musculares bloquean la respuesta del músculo a la estimulación nerviosa, así que no aparecen descargas en la EMG.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: al monitorizar la EMG del nervio facial, ¿cuál de estos factores puede bloquear el registro?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: un fármaco relajante muscular.",
+    "Los relajantes musculares bloquean la respuesta del músculo a las señales del nervio, por eso su uso se planifica antes con el equipo de anestesia."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vértigo posicional paroxístico benigno (*VPPB*)",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos a los trastornos vestibulares y veremos el vértigo posicional paroxístico benigno (VPPB).",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

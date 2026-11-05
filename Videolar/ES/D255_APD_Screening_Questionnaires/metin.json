@@ -1,0 +1,676 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D255_APD_Screening_Questionnaires_ES",
+ "kapak": {
+  "ust": "LECCIÓN 255",
+  "baslik": "*Tamizaje* del TPA<br>en niños",
+  "alt": "Pruebas de tamizaje y cuestionarios",
+  "cizim": "isitme_yolu",
+  "vurgula": [
+   "isitme_korteksi"
+  ]
+ },
+ "youtube": {
+  "baslik": "Tamizaje del TPA y cuestionarios para niños | Lección 255 | AIHEAR Academia de Audiología",
+  "aciklama": "Cuando se sospecha un trastorno del procesamiento auditivo, el tamizaje ayuda a seleccionar a los niños que necesitan una evaluación completa. En esta lección vemos la diferencia entre tamizaje y diagnóstico, baterías de tamizaje como SCAN, cuestionarios para docentes y padres como CHAPS y SIFTER, la adaptación al turco, el límite de edad y las limitaciones del tamizaje.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: American Speech-Language-Hearing Association, (Central) Auditory Processing Disorders, Technical Report (2005); American Academy of Audiology, Clinical Practice Guidelines: Diagnosis, Treatment and Management of Children and Adults with Central Auditory Processing Disorder (2010); Keith, SCAN-3 Tests for Auditory Processing Disorders (2009); Smoski, Brunt and Tannahill, Children's Auditory Performance Scale (CHAPS); Baydan, Aslan, Tokgöz Yılmaz and Yalçınkaya, Children's Auditory Performance Scale: Turkish validity and reliability, Hacettepe Üniversitesi Sağlık Bilimleri Fakültesi Dergisi (2020); Wilson et al., The CHAPS, SIFTER, and TAPS-R as predictors of (C)AP skills and (C)APD, Journal of Speech, Language, and Hearing Research (2011).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "procesamientoauditivo",
+   "fonoaudiologia"
+  ],
+  "etiketler": [
+   "tamizaje del TPA",
+   "trastorno del procesamiento auditivo",
+   "SCAN-3",
+   "CHAPS",
+   "escala de rendimiento auditivo infantil",
+   "SIFTER",
+   "tamizaje auditivo",
+   "cuestionario para docentes",
+   "audiología pediátrica",
+   "ECLiPS",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 255",
+   "baslik": "*Tamizaje* del TPA en niños",
+   "alt": "Pruebas de tamizaje y cuestionarios",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos los métodos de tamizaje para identificar a niños con sospecha de trastorno del procesamiento auditivo, o TPA.",
+    "Veremos las pruebas de tamizaje, los cuestionarios para docentes y padres, el límite de edad y las limitaciones de estas herramientas."
+   ]
+  },
+  {
+   "id": "tarama_tani",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Tamizaje y diagnóstico",
+   "baslik": "¿Tamizaje o *diagnóstico*?",
+   "ogeler": [
+    {
+     "ikon": "tarama",
+     "baslik": "Tamizaje",
+     "cumle": 0,
+     "metin": "Selecciona a quién evaluar"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Diagnóstico",
+     "cumle": 3,
+     "metin": "Batería de pruebas y equipo"
+    }
+   ],
+   "cumleler": [
+    "El tamizaje es un procedimiento breve para identificar a los niños que necesitan una evaluación detallada.",
+    "El tamizaje es rápido, puede aplicarse a muchos niños y puede no requerir un ambiente especial.",
+    "Pero un resultado de tamizaje no es un diagnóstico; solo muestra un riesgo o una necesidad.",
+    "El diagnóstico se hace con una batería de pruebas aplicada después de la evaluación periférica y con una evaluación en equipo.",
+    "No todo niño que no pasa el tamizaje tiene TPA; puede haber otras causas, como la atención, el lenguaje o la audición.",
+    "En un niño que pasa el tamizaje, igual puede considerarse una evaluación si las quejas continúan."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "Tamizaje y diagnóstico",
+   "baslik": "De la sospecha a la *evaluación*",
+   "adimlar": [
+    {
+     "ikon": "okul",
+     "baslik": "Sospecha",
+     "cumle": 0,
+     "metin": "Docente o familia"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audición periférica",
+     "cumle": 1,
+     "metin": "Primero, la evaluación auditiva"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Tamizaje",
+     "cumle": 2,
+     "metin": "Cuestionario y prueba breve"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Batería",
+     "cumle": 4,
+     "metin": "Pruebas diagnósticas"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Equipo",
+     "cumle": 5,
+     "metin": "Lenguaje, atención, aprendizaje"
+    }
+   ],
+   "cumleler": [
+    "El proceso suele comenzar con una inquietud del docente o de la familia sobre la conducta auditiva del niño.",
+    "El primer paso es siempre una evaluación de la audición periférica, con pruebas tonales, de habla y de oído medio.",
+    "Si la audición periférica es normal, pueden aplicarse cuestionarios para docentes y padres y pruebas breves de tamizaje.",
+    "Los resultados del tamizaje ayudan a decidir si se necesita una evaluación detallada.",
+    "Si es necesario, se planifica una batería de pruebas diagnósticas adecuada para la edad.",
+    "El niño también se deriva a los especialistas correspondientes para evaluar el lenguaje, la atención y el aprendizaje."
+   ]
+  },
+  {
+   "id": "scan",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas de tamizaje",
+   "baslik": "Una batería de tamizaje: *SCAN-3*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Detección de silencios",
+     "cumle": 2,
+     "metin": "Tamizaje temporal"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Figura-fondo auditiva",
+     "cumle": 3,
+     "metin": "Ruido de fondo"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Palabras en competencia",
+     "cumle": 4,
+     "metin": "Tarea dicótica"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Palabras filtradas",
+     "cumle": 5,
+     "metin": "Subprueba diagnóstica"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Oraciones en competencia",
+     "cumle": 5,
+     "metin": "Subprueba diagnóstica"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Oraciones comprimidas",
+     "cumle": 6,
+     "metin": "Subprueba complementaria"
+    }
+   ],
+   "cumleler": [
+    "SCAN, desarrollada por Keith, es una de las baterías de tamizaje del procesamiento auditivo más conocidas.",
+    "La versión infantil de la edición actual abarca de unos cinco a doce años, y la de adolescentes y adultos, de trece a cincuenta años.",
+    "La sección de tamizaje incluye una subprueba de detección de silencios que mide la percepción de intervalos de silencio muy breves.",
+    "En la subprueba de figura-fondo auditiva, el niño repite palabras mientras suena ruido de habla de fondo.",
+    "En la subprueba de palabras en competencia, se presentan palabras distintas a los dos oídos al mismo tiempo.",
+    "La sección diagnóstica incluye subpruebas como palabras filtradas y oraciones en competencia.",
+    "Las oraciones comprimidas en el tiempo, es decir, aceleradas, pueden usarse como subprueba complementaria."
+   ]
+  },
+  {
+   "id": "diger_tarama",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas de tamizaje",
+   "baslik": "Otras herramientas *breves*",
+   "maddeler": [
+    {
+     "metin": "Dígitos dicóticos: prueba breve y rápida",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Detección de silencios: RGDT",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Pruebas de habla en ruido",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Herramientas en computadora y tableta",
+     "cumle": 3,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Versión en el idioma y _normas_, imprescindibles",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EN EL TAMIZAJE",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "Breve",
+      "cumle": 0,
+      "metin": "Pocos minutos"
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Sencilla",
+      "cumle": 1,
+      "metin": "Instrucciones fáciles"
+     },
+     {
+      "ikon": "kitap",
+      "baslik": "Con normas",
+      "cumle": 4,
+      "metin": "Por edad"
+     }
+    ]
+   },
+   "cumleler": [
+    "Por ser breve, la prueba de dígitos dicóticos también se usa a menudo para el tamizaje.",
+    "La prueba de detección aleatoria de silencios, o RGDT, evalúa la resolución temporal en pocos minutos.",
+    "Las pruebas de habla en ruido son valiosas porque miden directamente la situación de la que más se quejan los niños.",
+    "En los últimos años también se han desarrollado herramientas de tamizaje que se aplican en computadora o tableta.",
+    "Sea cual sea la herramienta elegida, debe tener una versión en el idioma del niño y normas por edad."
+   ]
+  },
+  {
+   "id": "anketler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cuestionarios",
+   "baslik": "Cuestionarios para *docentes y padres*",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "CHAPS",
+     "cumle": 1,
+     "metin": "Seis condiciones de escucha"
+    },
+    {
+     "ikon": "okul",
+     "baslik": "SIFTER",
+     "cumle": 3,
+     "metin": "Docente, rendimiento escolar"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Lista de Fisher",
+     "cumle": 4,
+     "metin": "Ítems breves para marcar"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "ECLiPS",
+     "cumle": 5,
+     "metin": "Escucha y habilidades cotidianas"
+    }
+   ],
+   "cumleler": [
+    "Los cuestionarios recogen de forma sistemática lo que saben el docente y la familia, que observan al niño todos los días.",
+    "La Escala de Rendimiento Auditivo Infantil, o CHAPS, es uno de los cuestionarios más utilizados.",
+    "La CHAPS califica la conducta auditiva del niño en distintas condiciones de escucha en comparación con sus pares.",
+    "El SIFTER es una herramienta breve de tamizaje que completa el docente y que, además de la escucha, indaga el rendimiento escolar y la conducta en clase.",
+    "La lista de verificación de problemas auditivos de Fisher consta de ítems breves que marca el docente.",
+    {
+     "yazi": "Escalas más recientes, como la ECLiPS, consideran la escucha junto con el lenguaje, la memoria y las habilidades de la vida diaria."
+    },
+    "Los cuestionarios son rápidos y muestran la dificultad real del niño; pero no establecen el diagnóstico por sí solos."
+   ]
+  },
+  {
+   "id": "chaps",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cuestionarios",
+   "baslik": "CHAPS: un *perfil de escucha*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 6.6,
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "yazilar": {
+      "1": "Quiet",
+      "2": "Ideal",
+      "3": "Multiple inputs",
+      "4": "Noise",
+      "5": "Memory",
+      "6": "Attention",
+      "1": "Silencio",
+      "2": "Ideal",
+      "3": "Múltiples estímulos",
+      "4": "Ruido",
+      "5": "Memoria",
+      "6": "Atención"
+     },
+     "ad": "Condición de escucha"
+    },
+    "y": {
+     "min": -5,
+     "max": 1,
+     "adim": 1,
+     "ad": "Puntaje medio"
+    },
+    "seriler": [
+     {
+      "ad": "profil",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        0
+       ],
+       [
+        2,
+        -0.5
+       ],
+       [
+        3,
+        -3
+       ],
+       [
+        4,
+        -3.5
+       ],
+       [
+        5,
+        -2
+       ],
+       [
+        6,
+        -2.5
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "niño de ejemplo",
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yasitlar",
+      "x": 0.5,
+      "y": 0,
+      "cizgi": "yatay",
+      "etiket": "igual que sus pares",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "36 ítems, _6 condiciones_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Puntaje de +1 a -5",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "El perfil _orienta_ las recomendaciones",
+     "cumle": 6,
+     "ikon": "ampul"
+    }
+   ],
+   "cumleler": [
+    "La CHAPS tiene treinta y seis ítems, agrupados en seis condiciones de escucha.",
+    "Son el silencio, la situación ideal, los múltiples estímulos, el ruido, la memoria y secuenciación auditivas, y la capacidad de atención auditiva.",
+    "En cada ítem, el docente o el padre compara al niño con niños de edad y contexto similares.",
+    "Los puntajes van de más uno, menos dificultad que sus pares, a menos cinco, incapaz de desenvolverse en esa condición.",
+    "En este perfil de ejemplo, el niño se parece a sus pares en silencio y en situación ideal, pero le cuesta claramente en ruido y con múltiples estímulos.",
+    "Si el puntaje total queda por debajo del punto de corte del formulario, se toma como indicador de riesgo para una evaluación detallada.",
+    "La forma del perfil también es informativa; las condiciones en que aparece la dificultad orientan las recomendaciones para el entorno."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cuestionarios",
+   "baslik": "Usar *bien* los cuestionarios",
+   "adimlar": [
+    {
+     "ikon": "okul",
+     "baslik": "Dos fuentes",
+     "cumle": 0,
+     "metin": "Docente y familia por separado"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Tiempo suficiente",
+     "cumle": 1,
+     "metin": "Alguien que conozca al niño"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Comparar",
+     "cumle": 2,
+     "metin": "Coincidencias y diferencias"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Conversar",
+     "cumle": 4,
+     "metin": "Aclarar con ejemplos"
+    }
+   ],
+   "cumleler": [
+    "Si es posible, pidan que tanto el docente como la familia completen el cuestionario, de forma independiente.",
+    "Que el docente haya observado al niño durante el tiempo suficiente hace que las respuestas sean más confiables.",
+    "Las dificultades comunes a ambos formularios muestran las situaciones en las que el niño realmente tiene problemas.",
+    "Las diferencias entre formularios también son informativas; por ejemplo, la dificultad puede aparecer solo en un aula llena.",
+    "Conversen los resultados con quien completó el formulario y aclaren las respuestas poco claras con ejemplos concretos.",
+    "El mismo cuestionario puede completarse de nuevo después de la intervención para seguir el cambio."
+   ]
+  },
+  {
+   "id": "turkce",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cuestionarios",
+   "baslik": "La situación *en turco*",
+   "maddeler": [
+    {
+     "metin": "CHAPS: estudio de validez en turco, _2020_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Traducir _no basta_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Se necesitan validez, confiabilidad y normas",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Revisar la fuente antes de usar",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ADAPTACIÓN",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Traducción",
+      "cumle": 1,
+      "metin": "Adecuación lingüística y cultural"
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Validez",
+      "cumle": 2,
+      "metin": "Análisis de confiabilidad"
+     },
+     {
+      "ikon": "kitap",
+      "baslik": "Normas",
+      "cumle": 3,
+      "metin": "Datos por edad"
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En Turquía, en 2020 se publicó un estudio de validez y confiabilidad de la versión turca de la escala CHAPS."
+    },
+    "Traducir un cuestionario a otro idioma no basta para que sea utilizable en la clínica.",
+    "La adaptación requiere adecuación lingüística y cultural, análisis de validez y confiabilidad y, si es posible, datos normativos.",
+    "Se informa que los datos normativos para niños turcos todavía son limitados en muchas herramientas.",
+    "Por eso, para cada herramienta que usen, revisen su estudio de adaptación a su idioma y el grupo de edad que abarcó."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Limitaciones y edad",
+   "baslik": "Los *límites* del tamizaje",
+   "maddeler": [
+    {
+     "metin": "Relación _débil_ entre cuestionario y prueba",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "No distingue TPA, TDAH y lenguaje",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Importa la mirada del observador",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Falsos positivos y falsos negativos",
+     "cumle": 4,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Resultado: una decisión de _derivación_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Los estudios han mostrado que la relación entre los puntajes de los cuestionarios y los resultados de las pruebas diagnósticas suele ser débil.",
+    "Por eso, se recomienda usar los cuestionarios no como única base para la derivación, sino para hacer visibles las inquietudes.",
+    "Las mismas dificultades de escucha se ven también en el trastorno por déficit de atención e hiperactividad, o TDAH, y en el trastorno del lenguaje.",
+    "Las expectativas y la experiencia del docente o del padre también pueden influir en las respuestas.",
+    "Como las pruebas breves de tamizaje se ven afectadas por la atención y la motivación, pueden dar resultados falsos positivos y falsos negativos.",
+    "En definitiva, el tamizaje solo respalda la decisión de derivar a una evaluación detallada."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Limitaciones y edad",
+   "baslik": "¿*Qué* hacer a cada edad?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Menores de 7 años",
+     "cumle": 0,
+     "metin": "Observación, cuestionarios, apoyo"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Desde los 7 años",
+     "cumle": 2,
+     "metin": "Batería diagnóstica"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Adolescentes y adultos",
+     "cumle": 4,
+     "metin": "Versiones para adultos"
+    }
+   ],
+   "cumleler": [
+    "En los niños menores de siete años, los resultados de las pruebas auditivas centrales varían mucho.",
+    "A estas edades priman la observación, los cuestionarios y los cambios en el entorno; algunas herramientas de tamizaje pueden usarse desde los cinco años.",
+    "Muchas guías recomiendan aplicar la batería de pruebas diagnósticas a partir de los siete años, aproximadamente.",
+    "La guía de la Academia Estadounidense de Audiología pide mucha cautela con las pruebas diagnósticas conductuales en niños menores de siete u ocho años.",
+    "Para adolescentes y adultos se usan versiones con normas propias.",
+    "Si hay inquietud por un niño por debajo del límite de edad, se lo sigue y se planifica la evaluación a una edad adecuada."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "No presentes un resultado de tamizaje a la familia como un \"diagnóstico\". Explica con claridad que solo indica la necesidad de una evaluación detallada.",
+   "cumleler": [
+    "Un consejo de la clínica: al explicar un resultado de tamizaje a la familia, cuida de no usar la palabra diagnóstico.",
+    "No pasar el tamizaje no significa que el niño tenga TPA; solo indica que se necesita una evaluación detallada.",
+    "Explica con claridad a la familia los próximos pasos, qué especialistas evaluarán al niño y los plazos previstos.",
+    "Mientras tanto, pueden empezar de inmediato cambios en el aula inofensivos y útiles, como sentarse en la primera fila."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "El tamizaje _no es un diagnóstico_",
+     "cumle": 0,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "SCAN-3: tamizaje con subpruebas breves",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "CHAPS: perfil de escucha en seis condiciones",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Batería diagnóstica desde los 7 años",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "El tamizaje selecciona a los niños que necesitan una evaluación detallada; el diagnóstico se hace con una batería de pruebas y una evaluación en equipo.",
+    "Las baterías de tamizaje como SCAN incluyen subpruebas breves, como detección de silencios, figura-fondo auditiva y palabras en competencia.",
+    "Los cuestionarios como la CHAPS recogen las observaciones del docente y la familia comparando al niño con sus pares en seis condiciones de escucha.",
+    "Las pruebas diagnósticas suelen aplicarse desde los siete años, aproximadamente; en los más pequeños priman la observación y el apoyo del entorno."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué afirmación es correcta para un niño que no pasa el tamizaje?",
+   "secenekler": [
+    "Recibe un diagnóstico definitivo de TPA",
+    "Necesita una evaluación detallada",
+    "El entrenamiento empieza de inmediato",
+    "Las pruebas son innecesarias"
+   ],
+   "dogru": 1,
+   "aciklama": "El tamizaje solo indica la necesidad de una _evaluación detallada_; el diagnóstico se hace con una batería y un equipo.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué afirmación es correcta para un niño que no pasa el tamizaje del procesamiento auditivo?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: se necesita una evaluación detallada.",
+    "Un resultado de tamizaje no es un diagnóstico; en la evaluación detallada también se consideran otras causas, como la atención, el lenguaje y la audición."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Manejo del TPA: entorno, *micrófonos* y entrenamiento",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos los cambios en el entorno, los micrófonos remotos y el entrenamiento auditivo para niños con dificultades de procesamiento.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

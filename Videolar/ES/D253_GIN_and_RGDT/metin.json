@@ -1,0 +1,883 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D253_GIN_and_RGDT_ES",
+ "kapak": {
+  "ust": "LECCIÓN 253",
+  "baslik": "Pruebas temporales:<br>*GIN*, RGDT",
+  "alt": "Medir la detección de silencios",
+  "cizim": "dalga_bicimi",
+  "ayar": {
+   "seriler": [
+    "gurultu"
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Pruebas de procesamiento temporal: GIN y RGDT | Lección 253 | AIHEAR Academia de Audiología",
+  "aciklama": "La resolución temporal se mide en la clínica con pruebas de detección de silencios. En esta lección vemos cómo se aplica la prueba de silencios en ruido (GIN), cómo se obtiene el umbral aproximado y sus normas, la estructura de la prueba de detección aleatoria de silencios (RGDT) y su punto de corte de 20 milisegundos, en qué se diferencian ambas pruebas y los factores que influyen en los resultados.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Musiek et al., GIN (Gaps-In-Noise) test performance in subjects with confirmed central auditory nervous system involvement, Ear and Hearing (2005); Keith, Random Gap Detection Test, Auditec (2000); American Speech-Language-Hearing Association, (Central) Auditory Processing Disorders, Technical Report (2005); Musiek and Chermak, Handbook of Central Auditory Processing Disorder; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "TPA",
+   "procesamientotemporal"
+  ],
+  "etiketler": [
+   "prueba GIN",
+   "silencios en ruido",
+   "RGDT",
+   "prueba de detección aleatoria de silencios",
+   "umbral de detección de silencios",
+   "resolución temporal",
+   "procesamiento temporal",
+   "trastorno del procesamiento auditivo",
+   "evaluación auditiva central",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 253",
+   "baslik": "Pruebas temporales: *GIN* y RGDT",
+   "alt": "Medir la detección de silencios en la clínica",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos dos pruebas clínicas de resolución temporal: la prueba de silencios en ruido y la prueba de detección aleatoria de silencios.",
+    "Veremos cómo se aplican, cómo se puntúan y qué factores modifican los resultados."
+   ]
+  },
+  {
+   "id": "bosluk",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Resolución temporal",
+   "baslik": "*Un silencio* en el ruido",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Tiempo (ms)"
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "isaretler": [
+      0,
+      1
+     ],
+     "yazilar": {
+      "0": "silent",
+      "1": "noise",
+      "0": "silencio",
+      "1": "ruido"
+     },
+     "ad": "Envolvente del ruido"
+    },
+    "seriler": [
+     {
+      "ad": "gurultu",
+      "noktalar": [
+       [
+        0,
+        1
+       ],
+       [
+        45,
+        1
+       ],
+       [
+        45,
+        0
+       ],
+       [
+        51,
+        0
+       ],
+       [
+        51,
+        1
+       ],
+       [
+        100,
+        1
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": true,
+      "etiket": "ruido",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "bosluk",
+      "x": [
+       45,
+       51
+      ],
+      "renk": "sari",
+      "etiket": "silencio",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "_Notar_ un silencio breve",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Pistas de las consonantes en el habla",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Prueba clínica: _normas propias_",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "La resolución temporal es la capacidad de detectar cambios muy breves en el sonido; se mide sobre todo con la detección de silencios.",
+    "En el gráfico vemos un silencio de pocos milisegundos colocado dentro de un ruido continuo.",
+    "Si el oyente nota esta breve interrupción, ha detectado el silencio.",
+    "En el habla, los breves silencios antes de las consonantes oclusivas y el tiempo de inicio de la sonoridad dependen de esta habilidad.",
+    "En la lección sobre procesamiento temporal vimos que, en adultos jóvenes y en condiciones de laboratorio, el umbral es de unos dos a tres milisegundos.",
+    "Notar un silencio depende de que las respuestas neurales, de la cóclea a la corteza, codifiquen con precisión cuándo el sonido se detiene y vuelve a empezar.",
+    "Las pruebas clínicas están diseñadas para aplicarse más rápido y se interpretan con sus propias normas."
+   ]
+  },
+  {
+   "id": "gin",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "La prueba GIN",
+   "baslik": "¿*Cómo* se aplica la GIN?",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Segmento de ruido",
+     "cumle": 1,
+     "metin": "Seis segundos de ruido blanco"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Silencios",
+     "cumle": 2,
+     "metin": "De 2 a 20 ms"
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Respuesta",
+     "cumle": 3,
+     "metin": "Pulsar ante cada silencio"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Cada oído",
+     "cumle": 5,
+     "metin": "Con listas distintas"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La prueba de silencios en ruido, o GIN, fue descrita por Musiek y colaboradores en 2005."
+    },
+    "En la prueba se presentan uno tras otro segmentos de seis segundos de ruido blanco, con breves intervalos silenciosos entre ellos.",
+    "Un segmento puede no tener silencios, o tener algunos en puntos aleatorios; los silencios van de dos a veinte milisegundos.",
+    "Cuando la persona oye un silencio, pulsa un botón o levanta la mano de inmediato.",
+    "Una lista contiene diez duraciones de silencio distintas, cada una seis veces, con un total de sesenta silencios.",
+    "Primero hay una sección de práctica; luego se evalúa cada oído por separado con una lista distinta.",
+    "La prueba tiene cuatro listas distintas, así que no hace falta usar la misma lista al repetir la evaluación."
+   ]
+  },
+  {
+   "id": "gin_puan",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "La prueba GIN",
+   "baslik": "¿Cómo se obtiene el *umbral* aproximado?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1,
+     "max": 21,
+     "isaretler": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      15,
+      20
+     ],
+     "ad": "Duración del silencio (ms)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Detectado (%)"
+    },
+    "seriler": [
+     {
+      "ad": "ornek",
+      "noktalar": [
+       [
+        2,
+        0
+       ],
+       [
+        3,
+        17
+       ],
+       [
+        4,
+        50
+       ],
+       [
+        5,
+        83
+       ],
+       [
+        6,
+        83
+       ],
+       [
+        8,
+        100
+       ],
+       [
+        10,
+        100
+       ],
+       [
+        12,
+        100
+       ],
+       [
+        15,
+        100
+       ],
+       [
+        20,
+        100
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "oído de ejemplo",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "dortte",
+      "y": [
+       67,
+       100
+      ],
+      "renk": "yesil",
+      "etiket": "al menos cuatro de seis",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "esik",
+      "x": 5,
+      "y": 83,
+      "dus": "x",
+      "etiket": "umbral aproximado: 5 ms",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "_Al menos cuatro_ de seis aciertos",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Segunda medida: _porcentaje de aciertos_",
+     "cumle": 5,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Se registran las pulsaciones falsas",
+     "cumle": 6,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Este gráfico muestra un resultado de la GIN en un oído con valores de ejemplo.",
+    "Para cada duración de silencio se grafica, en porcentaje, la proporción de los seis ensayos detectados.",
+    "Los silencios muy cortos suelen pasar inadvertidos; a medida que el silencio se alarga, la tasa de detección sube rápido.",
+    "El umbral aproximado es el silencio más corto detectado en al menos cuatro de seis ensayos, siempre que los más largos también se detecten de forma fiable.",
+    "En este ejemplo, el umbral aproximado es de cinco milisegundos.",
+    "La segunda medida es el porcentaje de todos los silencios de la lista que se detectaron correctamente.",
+    "Las pulsaciones sin silencio se registran como respuestas falsas; si son muchas, el resultado no se considera confiable."
+   ]
+  },
+  {
+   "id": "gin_norm",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "La prueba GIN",
+   "baslik": "*Interpretar* los resultados de la GIN",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "Adulto",
+     "cumle": 0,
+     "metin": "Media de unos 5 ms"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Niño",
+     "cumle": 2,
+     "metin": "Cerca del adulto desde los 7 años"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Lesión central",
+     "cumle": 4,
+     "metin": "Umbral más largo, menor porcentaje"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Normas locales",
+     "cumle": 6,
+     "metin": "Datos propios del centro"
+    }
+   ],
+   "cumleler": [
+    "En estudios norteamericanos, el umbral aproximado medio en adultos con audición normal fue de alrededor de cinco milisegundos.",
+    "El porcentaje de aciertos ronda el setenta por ciento; no se espera una diferencia clara entre los dos oídos.",
+    "Los estudios en niños sugieren que los resultados se acercan a los valores del adulto desde los siete años aproximadamente.",
+    "Sin embargo, algunos estudios sugieren que esta maduración se completa a edades más tardías.",
+    "En las personas con lesiones del sistema nervioso auditivo central, el umbral es claramente más largo y el porcentaje de aciertos, menor.",
+    "Se informa una especificidad alta y una sensibilidad moderada; por eso un resultado normal no descarta por completo un problema central.",
+    "Como las normas pueden variar algo entre países, cuando sea posible también deben usarse los datos propios del centro."
+   ]
+  },
+  {
+   "id": "rgdt",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "La RGDT",
+   "baslik": "¿*Cómo* se aplica la RGDT?",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Par de tonos",
+     "cumle": 1,
+     "metin": "De 500 a 4000 Hz"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Intervalo",
+     "cumle": 2,
+     "metin": "De 0 a 40 ms, aleatorio"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Respuesta",
+     "cumle": 3,
+     "metin": "¿Uno o dos?"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Umbral",
+     "cumle": 5,
+     "metin": "Promedio de las frecuencias"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La prueba de detección aleatoria de silencios, o RGDT, fue publicada por Keith en 2000."
+    },
+    "En lugar de ruido, la prueba presenta dos tonos muy breves seguidos; los tonos son de quinientos, mil, dos mil y cuatro mil hertz.",
+    "El silencio entre los dos tonos varía de cero a cuarenta milisegundos y se presenta en orden aleatorio.",
+    "Para cada par, la persona dice, o muestra con los dedos, si oyó un sonido o dos.",
+    "El intervalo más corto que se percibe de forma constante como dos sonidos es el umbral de detección de silencios para esa frecuencia.",
+    "Se calcula un umbral compuesto promediando los umbrales de las cuatro frecuencias; también hay una subprueba con clics."
+   ]
+  },
+  {
+   "id": "rgdt_ornek",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "La RGDT",
+   "baslik": "*Umbrales* de RGDT de ejemplo",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 400,
+     "max": 5000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      4000
+     ],
+     "ad": "Frecuencia (Hz)"
+    },
+    "y": {
+     "min": 0,
+     "max": 45,
+     "adim": 10,
+     "ad": "Umbral de silencio (ms)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        5
+       ],
+       [
+        4000,
+        5
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "ejemplo 1",
+      "cumle": 1
+     },
+     {
+      "ad": "uzun",
+      "noktalar": [
+       [
+        500,
+        40
+       ],
+       [
+        1000,
+        30
+       ],
+       [
+        2000,
+        40
+       ],
+       [
+        4000,
+        30
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "ejemplo 2",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "normal_disi",
+      "y": [
+       20,
+       45
+      ],
+      "renk": "sari",
+      "etiket": "más de 20 ms",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Más de 20 ms: _anormal_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Coherencia entre frecuencias",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "En este gráfico vemos umbrales de RGDT de ejemplo en dos niños.",
+    "En el niño de la línea verde, los umbrales en las cuatro frecuencias están entre cinco y diez milisegundos.",
+    "En el niño de la línea roja, los umbrales llegan a treinta o cuarenta milisegundos.",
+    "Según el autor de la prueba, los umbrales de más de veinte milisegundos se consideran anormales y sugieren un problema de procesamiento temporal.",
+    "Los umbrales suelen ser parecidos entre frecuencias; un valor claramente discordante en una frecuencia puede justificar repetir la prueba.",
+    "En este ejemplo, el umbral compuesto del segundo niño está claramente por encima de veinte milisegundos."
+   ]
+  },
+  {
+   "id": "rgdt_yorum",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "La RGDT",
+   "baslik": "*Puntos a vigilar* en la RGDT",
+   "maddeler": [
+    {
+     "metin": "Debe _conocer_ el uno y el dos",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Intervalo cero: control de atención",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Versión ampliada: silencios más largos",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Puede aplicarse a ambos oídos",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Rápida y práctica en niños",
+     "cumle": 5,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "RESPUESTA",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Un sonido",
+      "cumle": 0,
+      "metin": "Un dedo"
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Dos sonidos",
+      "cumle": 0,
+      "metin": "Dos dedos"
+     }
+    ]
+   },
+   "cumleler": [
+    "La RGDT requiere que el niño maneje con seguridad los conceptos de uno y dos.",
+    "Los pares sin silencio sirven para comprobar si el niño realmente está escuchando.",
+    "Si un niño responde a menudo dos sonidos en el intervalo cero, el resultado no es confiable.",
+    "Para quienes no logran separar dos sonidos en ningún intervalo estándar, existe una versión ampliada con silencios más largos.",
+    "En la práctica, la prueba suele aplicarse a ambos oídos a la vez; por eso no muestra diferencias entre oídos.",
+    "Su corta duración y su baja carga lingüística la convierten en una herramienta práctica de tamizaje y evaluación en niños."
+   ]
+  },
+  {
+   "id": "karsilastir",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación y factores",
+   "baslik": "GIN y RGDT *frente a frente*",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Estímulo",
+     "cumle": 0,
+     "metin": "GIN ruido, RGDT pares de tonos"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Tarea",
+     "cumle": 1,
+     "metin": "Captar el silencio o contar"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Oído",
+     "cumle": 2,
+     "metin": "GIN oído por oído"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Evidencia",
+     "cumle": 3,
+     "metin": "GIN estudiada en lesiones"
+    }
+   ],
+   "cumleler": [
+    "Ambas pruebas miden la detección de silencios, pero sus estímulos difieren: la GIN usa ruido de banda ancha, y la RGDT, tonos breves.",
+    "En la GIN, la persona intenta captar un silencio dentro de un ruido largo; en la RGDT, cuenta dos sonidos.",
+    "La GIN evalúa cada oído por separado; esto ayuda a revelar diferencias entre oídos en los problemas centrales unilaterales.",
+    "La GIN se ha estudiado en personas con lesiones confirmadas del sistema nervioso auditivo central, y se ha informado su sensibilidad clínica.",
+    "La RGDT, por su diseño corto y sencillo, se usa mucho para el tamizaje y la evaluación rápida, sobre todo en niños.",
+    "Los umbrales de ambas pruebas no son intercambiables; cada uno se interpreta con sus propias normas.",
+    "Un resultado anormal en una prueba se valora en relación con las demás pruebas de la batería."
+   ]
+  },
+  {
+   "id": "periferik",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación y factores",
+   "baslik": "Primero, la audición *periférica*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "!",
+     "renk": "yesil",
+     "metin": "Pérdida en agudos: el _umbral de silencio_ puede alargarse",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       25,
+       45,
+       50
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       15,
+       30,
+       45,
+       55
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "Este audiograma de ejemplo muestra una pérdida leve a moderada en las frecuencias altas de ambos oídos.",
+    "Las frecuencias graves y medias están dentro de los límites normales.",
+    "Como la detección de silencios en ruido de banda ancha también usa información de alta frecuencia, el umbral de esta persona puede ser más largo.",
+    "En este caso, un umbral largo en la GIN puede deberse a la pérdida periférica más que a un problema central.",
+    "Por eso las pruebas temporales se interpretan junto con los umbrales tonales, asegurándose de que el estímulo sea suficientemente audible."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación y factores",
+   "baslik": "Factores que *modifican* los resultados",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Edad",
+     "cumle": 0,
+     "metin": "Nivel de desarrollo"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Atención",
+     "cumle": 2,
+     "metin": "Prueba larga, mente dispersa"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Nivel del estímulo",
+     "cumle": 3,
+     "metin": "La audibilidad es imprescindible"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Práctica",
+     "cumle": 4,
+     "metin": "Aprender la tarea"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Envejecimiento",
+     "cumle": 5,
+     "metin": "El umbral puede alargarse"
+    }
+   ],
+   "cumleler": [
+    "En los niños pequeños, la detección de silencios puede estar aún en desarrollo; los resultados deben compararse con las normas por edad.",
+    "Por eso, para el diagnóstico, estas pruebas suelen interpretarse a partir de los siete años aproximadamente.",
+    "En pruebas largas como la GIN, las fluctuaciones de la atención pueden hacer que se pierdan algunos silencios.",
+    "Si el nivel del estímulo es demasiado bajo, los silencios se pierden por audibilidad; el nivel debe seguir las instrucciones.",
+    "Omitir la sección de práctica puede crear un efecto de aprendizaje de la tarea, sobre todo en la primera lista.",
+    "En la edad avanzada se ha descrito que los umbrales de silencio se alargan incluso con un audiograma normal.",
+    "Algunas personas pulsan adivinando cuando dudan; esta tendencia se refleja en el número de pulsaciones falsas."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación y factores",
+   "baslik": "¿*Dónde* son útiles las pruebas?",
+   "cizim": "beyin_yan",
+   "vurgula": [
+    {
+     "parca": "temporal_lob",
+     "cumle": 0
+    },
+    {
+     "parca": "heschl_girusu",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "temporal_lob",
+     "metin": "Lóbulo temporal",
+     "cumle": 0
+    },
+    {
+     "parca": "heschl_girusu",
+     "metin": "Corteza auditiva",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Lesiones del lóbulo temporal, epilepsia",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Parte_ de la batería del TPA",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "_No diagnóstica_ por sí sola",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La detección de silencios depende en gran parte de la integridad de la corteza auditiva del lóbulo temporal y de las vías que llegan a ella.",
+    "Por eso la GIN se ha estudiado en lesiones del lóbulo temporal y en algunos tipos de epilepsia, y se han descrito umbrales largos.",
+    "En los niños con sospecha de trastorno del procesamiento auditivo, las pruebas temporales están entre las partes centrales de la batería.",
+    "En la neuropatía auditiva, los umbrales de silencio también pueden ser claramente más largos porque se altera la sincronía de las respuestas neurales.",
+    "Sin embargo, estas pruebas no muestran una enfermedad por sí solas; solo describen el estado de la resolución temporal.",
+    "El resultado siempre se considera junto con la historia, las demás pruebas y, cuando hace falta, la evaluación neurológica."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Antes de una prueba temporal, comprueben que el estímulo se oiga con comodidad, no omitan la sección de práctica y anoten las pulsaciones falsas.",
+   "cumleler": [
+    "Un consejo de la clínica: antes de la GIN o la RGDT, comprueben siempre que el estímulo se oiga con comodidad en cada oído.",
+    "No omitan la sección de práctica; observen los primeros ensayos para ver que la persona entiende bien la tarea.",
+    "Las pulsaciones sin silencio, o las respuestas de dos sonidos en el intervalo cero, pueden indicar problemas de atención; anótenlas en el informe.",
+    "Si el resultado es limítrofe, repetir la prueba otro día reduce el riesgo de una única sesión engañosa."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "GIN: silencios de _2 a 20 ms_ en ruido",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Umbral aproximado del adulto: unos _5 ms_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "RGDT: pares de tonos; anormal sobre _20 ms_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Influyen pérdida periférica, edad y atención",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "La GIN coloca al azar silencios de dos a veinte milisegundos en segmentos de ruido de seis segundos y evalúa cada oído por separado.",
+    "El umbral aproximado es el silencio más corto detectado en al menos cuatro de seis ensayos; en adultos normales es de unos cinco milisegundos.",
+    "La RGDT mide el silencio entre pares de tonos breves; un umbral de más de veinte milisegundos se considera anormal.",
+    "Ambas pruebas se interpretan con sus propias normas, junto con la audición periférica, la edad, la atención y el nivel del estímulo."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cómo se define el umbral aproximado en la GIN?",
+   "secenekler": [
+    "Silencio más largo siempre detectado",
+    "Detectado en al menos cuatro de seis",
+    "Silencio más corto detectado una vez",
+    "Promedio de todos los silencios"
+   ],
+   "dogru": 1,
+   "aciklama": "El umbral aproximado es el silencio más corto detectado en _al menos cuatro_ de seis ensayos.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cómo se define el umbral aproximado en la prueba de silencios en ruido?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: el silencio más corto detectado en al menos cuatro de seis ensayos.",
+    "Los silencios más largos también deben detectarse de forma fiable; en adultos normales el valor es de unos cinco milisegundos."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Procesamiento binaural y espacial: *LiSN-S* y MLD",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos pruebas de cómo trabajan juntos los dos oídos: la escucha en ruido espacializado y la diferencia de nivel de enmascaramiento.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

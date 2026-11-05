@@ -1,0 +1,1019 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D243_Pediatric_CI_Programming_ES",
+ "kapak": {
+  "ust": "LECCIÓN 243",
+  "baslik": "Programación del<br>*implante infantil*",
+  "alt": "ECAP, ESRT y confirmación conductual",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "Programación del IC pediátrico con medidas objetivas | Lección 243 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo se programa el implante de un bebé que no puede decirnos qué tan fuerte es un sonido? En esta lección vemos cómo predecir el mapa con el ECAP y el ESRT, la confirmación conductual adecuada a la edad, los umbrales con implante en campo libre con un objetivo de unos 20 a 30 dB HL, el seguimiento del desarrollo y los controles diarios del dispositivo.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Wolfe y Schafer, Programming Cochlear Implants; Hughes, Objective Measures in Cochlear Implants; Madell, Flexer, Wolfe y Schafer, Pediatric Audiology: Diagnosis, Technology, and Management; Sharma et al. (2002), A sensitive period for the development of the central auditory system in children with cochlear implants, Ear and Hearing.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "implantecoclear",
+   "audiologiapediatrica"
+  ],
+  "etiketler": [
+   "implante coclear en niños",
+   "programación del implante coclear",
+   "programación objetiva",
+   "ECAP",
+   "ESRT",
+   "umbrales con implante",
+   "confirmación conductual",
+   "audiometría por refuerzo visual",
+   "audiometría por juego",
+   "audiología pediátrica",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 243",
+   "baslik": "Programación del *implante infantil*",
+   "alt": "ECAP, ESRT y confirmación conductual",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo se crea el mapa del implante en niños pequeños que no pueden decirnos qué tan fuerte es un sonido.",
+    "Hablaremos de la predicción con medidas objetivas, la confirmación conductual adecuada a la edad y el control con umbrales con implante."
+   ]
+  },
+  {
+   "id": "farklar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué es distinto?",
+   "baslik": "¿*Por qué* es distinto programar en niños?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "No pueden informar",
+     "cumle": 0,
+     "metin": "No describen la sonoridad"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Atención breve",
+     "cumle": 1,
+     "metin": "Sesiones cortas y frecuentes"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sobreestimulación",
+     "cumle": 2,
+     "metin": "Sobresalto, rechazo del dispositivo"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Período crítico",
+     "cumle": 4,
+     "metin": "Acceso temprano y preciso"
+    }
+   ],
+   "cumleler": [
+    "Los adultos informan sus propios niveles T y C; los bebés y los niños pequeños no pueden decir cuándo oyen un sonido ni qué tan fuerte es.",
+    "La atención de un niño dura poco, así que las sesiones se hacen cortas y se repiten a menudo.",
+    "Una estimulación demasiado fuerte puede asustar al niño y llevarlo a rechazar el procesador.",
+    "Una estimulación demasiado suave hace inaudibles los sonidos del habla y frena el desarrollo.",
+    "En esta etapa, en la que el cerebro auditivo es más flexible, el acceso temprano y constante a los sonidos del habla es vital.",
+    "Por eso, programar en niños es un proceso que combina medidas objetivas, observación conductual e informes de la familia."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué es distinto?",
+   "baslik": "El *camino* hacia el mapa del niño",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Datos quirúrgicos",
+     "cumle": 0,
+     "metin": "Impedancia, ECAP, ESRT"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Predicción objetiva",
+     "cumle": 1,
+     "metin": "Perfil de niveles"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Conducta",
+     "cumle": 2,
+     "metin": "Observación y condicionamiento"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Umbral con implante",
+     "cumle": 3,
+     "metin": "En campo libre"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Desarrollo",
+     "cumle": 4,
+     "metin": "Habilidades y lenguaje"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Se parte de las medidas quirúrgicas; la impedancia y el potencial de acción compuesto evocado eléctricamente (ECAP) orientan el primer mapa."
+    },
+    "Las medidas objetivas ayudan a predecir cómo cambian los niveles a lo largo de los electrodos, es decir, el perfil.",
+    "La observación conductual y los métodos de evaluación adecuados a la edad muestran si los niveles previstos son correctos.",
+    "Los umbrales con implante medidos en campo libre comprueban si el mapa hace audibles los sonidos del habla.",
+    "Por último, se siguen las habilidades auditivas y el desarrollo del lenguaje; si el desarrollo es más lento de lo esperado, se revisa el mapa.",
+    "Estos pasos no se hacen una sola vez: se repiten en ciclo en cada consulta durante los primeros años."
+   ]
+  },
+  {
+   "id": "ecap_profil",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Predicción con ECAP",
+   "baslik": "Del ECAP al *perfil del mapa*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 12.5,
+     "ad": "Electrodo (ejemplo)",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    "y": {
+     "min": 100,
+     "max": 200,
+     "adim": 20,
+     "ad": "Nivel de corriente"
+    },
+    "seriler": [
+     {
+      "ad": "ecap_esikleri",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        1,
+        180
+       ],
+       [
+        2,
+        176
+       ],
+       [
+        3,
+        174
+       ],
+       [
+        4,
+        177
+       ],
+       [
+        5,
+        172
+       ],
+       [
+        6,
+        170
+       ],
+       [
+        7,
+        172
+       ],
+       [
+        8,
+        175
+       ],
+       [
+        9,
+        171
+       ],
+       [
+        10,
+        173
+       ],
+       [
+        11,
+        176
+       ],
+       [
+        12,
+        179
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "umbrales del ECAP",
+      "cumle": 0
+     },
+     {
+      "ad": "baslangic_c",
+      "noktalar": [
+       [
+        1,
+        168
+       ],
+       [
+        2,
+        164
+       ],
+       [
+        3,
+        162
+       ],
+       [
+        4,
+        165
+       ],
+       [
+        5,
+        160
+       ],
+       [
+        6,
+        158
+       ],
+       [
+        7,
+        160
+       ],
+       [
+        8,
+        163
+       ],
+       [
+        9,
+        159
+       ],
+       [
+        10,
+        161
+       ],
+       [
+        11,
+        164
+       ],
+       [
+        12,
+        167
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "etiket": "nivel superior inicial",
+      "cumle": 3
+     },
+     {
+      "ad": "baslangic_t",
+      "noktalar": [
+       [
+        1,
+        125
+       ],
+       [
+        2,
+        121
+       ],
+       [
+        3,
+        119
+       ],
+       [
+        4,
+        122
+       ],
+       [
+        5,
+        117
+       ],
+       [
+        6,
+        115
+       ],
+       [
+        7,
+        117
+       ],
+       [
+        8,
+        120
+       ],
+       [
+        9,
+        116
+       ],
+       [
+        10,
+        118
+       ],
+       [
+        11,
+        121
+       ],
+       [
+        12,
+        124
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "T previsto",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ecap_esikleri",
+     "cumle": 1
+    },
+    {
+     "parca": "baslangic_c",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Este ejemplo muestra umbrales del ECAP medidos en varios electrodos."
+    },
+    {
+     "yazi": "El umbral absoluto del ECAP no da exactamente los niveles conductuales, pero refleja bien la forma de los niveles a lo largo de los electrodos."
+    },
+    {
+     "yazi": "En la mayoría de los niños, el umbral del ECAP está entre T y C, a menudo más cerca de C; en algunos niños puede quedar por encima del nivel C."
+    },
+    {
+     "yazi": "Por eso muchos centros inician los niveles superiores del primer mapa siguiendo la forma del perfil del ECAP, pero algo por debajo de él."
+    },
+    "Los niveles T también pueden predecirse a partir del mismo perfil, o fijarse como una fracción fija del nivel superior.",
+    "Luego, con sonido en vivo, todo el perfil se sube o se baja en conjunto mientras se observa la respuesta del niño.",
+    "Las fracciones y reglas usadas varían según el centro y el dispositivo; los valores del gráfico son solo ejemplos."
+   ]
+  },
+  {
+   "id": "ecap_olcum",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Predicción con ECAP",
+   "baslik": "El *ECAP* en un niño despierto",
+   "maddeler": [
+    {
+     "metin": "No requiere sueño ni sedación",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "El niño puede mirar un video",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Unos electrodos, unos minutos",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Electrodos intermedios estimados",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Se siguen los cambios",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "VENTAJA",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Sin respuesta del niño",
+      "cumle": 0,
+      "metin": "Independiente de la conducta"
+     },
+     {
+      "ikon": "kronometre",
+      "baslik": "Rápido",
+      "cumle": 2,
+      "metin": "Sesión corta"
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Como el sueño y la anestesia no afectan claramente al ECAP, también puede medirse de forma confiable en un niño despierto."
+    },
+    "Durante la medición, el niño puede estar sentado en el regazo de un adulto y mirar un video sin sonido o jugar con un juguete.",
+    "Las mediciones suelen hacerse en varios electrodos elegidos a lo largo de la guía, lo que lleva unos minutos.",
+    "Los valores de los electrodos no medidos se estiman por interpolación entre sus vecinos.",
+    {
+     "yazi": "Los umbrales del ECAP pueden cambiar en los primeros meses, por eso se repiten y se comparan en los controles."
+    },
+    {
+     "yazi": "En niños sin ECAP en la cirugía, a veces puede obtenerse una respuesta después de la activación."
+    }
+   ]
+  },
+  {
+   "id": "esrt",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Predicción con ESRT",
+   "baslik": "El límite superior con el *ESRT*",
+   "cizim": "akustik_refleks_arki",
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 1,
+    "kontra_cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "el implante estimula",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_stapedius",
+     "metin": "se mide con una sonda",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "karsi_stapedius",
+     "cumle": 1
+    },
+    {
+     "parca": "kontralateral_yol",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La segunda herramienta objetiva es el umbral del reflejo estapedial evocado eléctricamente (ESRT), que se mide después de la cirugía."
+    },
+    "Mientras el implante estimula un electrodo o varios a la vez, una sonda de inmitancia en el otro oído registra si cambia la admitancia.",
+    "El niño debe quedarse quieto y tranquilo unos segundos; chupar un chupete o hablar puede arruinar el registro.",
+    {
+     "yazi": "El ESRT se relaciona bien con el nivel de confort más alto; la mayoría de los centros evita fijar los niveles superiores por encima del ESRT."
+    },
+    "Si hay líquido en el oído medio del otro lado, el reflejo no puede medirse, así que primero se hace una timpanometría.",
+    "En algunos niños el reflejo está ausente aun con un oído medio normal; el mapa se apoya entonces en otra información.",
+    {
+     "yazi": "Usados juntos, el ESRT y el ECAP dan una predicción más confiable tanto de la forma como del límite superior del mapa."
+    }
+   ]
+  },
+  {
+   "id": "siralama",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Predicción con ESRT",
+   "baslik": "El *orden típico* en un electrodo",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 100,
+     "max": 220,
+     "ad": "Nivel de corriente (ejemplo)",
+     "isaretler": [
+      100,
+      130,
+      160,
+      190,
+      220
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "isaretler": [],
+     "ad": ""
+    },
+    "isaretler": [
+     {
+      "ad": "t",
+      "x": 125,
+      "y": 0.5,
+      "cizgi": "dikey",
+      "etiket": "T",
+      "cumle": 0
+     },
+     {
+      "ad": "ecap",
+      "x": 168,
+      "y": 0.5,
+      "cizgi": "dikey",
+      "etiket": "umbral del ECAP",
+      "cumle": 1
+     },
+     {
+      "ad": "c",
+      "x": 185,
+      "y": 0.5,
+      "cizgi": "dikey",
+      "etiket": "C/M",
+      "cumle": 2
+     },
+     {
+      "ad": "esrt",
+      "x": 198,
+      "y": 0.5,
+      "cizgi": "dikey",
+      "etiket": "ESRT",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "guvenli",
+      "x": [
+       125,
+       198
+      ],
+      "y": 0.85,
+      "etiket": "el mapa se arma en este rango",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ecap",
+     "cumle": 1
+    },
+    {
+     "parca": "esrt",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Este diagrama resume el orden de los niveles en un electrodo que se ve en la mayoría de las personas; el nivel T está abajo.",
+    {
+     "yazi": "El umbral del ECAP suele estar en la mitad superior del rango dinámico."
+    },
+    "El nivel de confort queda un poco por encima.",
+    {
+     "yazi": "El ESRT suele estar cerca del nivel de confort, o un poco por encima."
+    },
+    "Este orden es una tendencia general, no una regla fija; se confirma con observación conductual en cada niño.",
+    "Si las medidas no coinciden, se elige el valor más prudente y se sigue al niño de cerca."
+   ]
+  },
+  {
+   "id": "davranis",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Confirmación conductual",
+   "baslik": "Métodos *conductuales* según la edad",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Observación conductual",
+     "cumle": 0,
+     "metin": "Succión, apertura ocular, quietud"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "VRA",
+     "cumle": 2,
+     "metin": "Desde los seis meses"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Audiometría por juego",
+     "cumle": 4,
+     "metin": "Hacia los dos años y medio"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Autoinforme",
+     "cumle": 5,
+     "metin": "En edad escolar"
+    }
+   ],
+   "cumleler": [
+    "En los bebés más pequeños se usa la observación conductual; una pausa en la succión, abrir los ojos o quedarse quieto pueden contar como respuesta.",
+    "Estas respuestas suelen aparecer por encima del umbral, así que por sí solas no son confiables para fijar un nivel T.",
+    "Desde los seis meses, la audiometría por refuerzo visual (VRA) puede dar respuestas en cada electrodo o con sonido en vivo.",
+    "Los electrodos se presentan uno por uno desde el software de programación; cuando el niño gira la cabeza, se lo premia con un juguete luminoso.",
+    "Desde los dos años y medio, con la audiometría por juego condicionado, se enseña al niño a hacer un movimiento de juego al oír el sonido.",
+    "Hacia la edad escolar, el niño puede indicar la sonoridad en una escala con dibujos y comparar electrodos.",
+    "Vimos estos métodos en detalle en las lecciones de audiología pediátrica; los mismos principios se aplican en la programación del implante."
+   ]
+  },
+  {
+   "id": "isaretler",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Confirmación conductual",
+   "baslik": "¿Demasiado, o *demasiado poco?*",
+   "maddeler": [
+    {
+     "metin": "Llanto, se quita el procesador",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Parpadeo, sobresalto",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Sin interés por el sonido",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Sin cambios en las vocalizaciones",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "OBSERVACIÓN DE LA FAMILIA",
+    "cumle": 5,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "En casa",
+      "cumle": 5,
+      "metin": "¿Hacia qué sonidos se gira?"
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Notas",
+      "cumle": 5,
+      "metin": "Un diario breve"
+     }
+    ]
+   },
+   "cumleler": [
+    "Si la estimulación es demasiado fuerte, el niño puede llorar o quitarse el procesador o la antena.",
+    "El parpadeo, el sobresalto o las contracciones faciales ante sonidos fuertes también pueden indicar sobreestimulación o estimulación del nervio facial.",
+    "En ese caso se bajan los niveles implicados y el niño se vuelve a evaluar en la consulta siguiente.",
+    "Si la estimulación es demasiado suave, el niño puede no mostrar interés por su nombre ni por los sonidos del entorno.",
+    "Que las vocalizaciones y el balbuceo no cambien después de varios meses también sugiere un acceso insuficiente.",
+    "La familia es quien más ve al niño; anotar brevemente hacia qué sonidos se gira aporta información valiosa para la programación."
+   ]
+  },
+  {
+   "id": "cihazli",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 5",
+   "bolum": "Umbrales con implante",
+   "baslik": "Objetivo: *20 a 30* dB HL",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 10,
+     "ad": "Nivel de audición (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "cihazsiz",
+      "noktalar": [
+       [
+        250,
+        95
+       ],
+       [
+        500,
+        105
+       ],
+       [
+        1000,
+        115
+       ],
+       [
+        2000,
+        120
+       ],
+       [
+        4000,
+        120
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "sin implante (ejemplo)",
+      "cumle": 0
+     },
+     {
+      "ad": "implantli",
+      "noktalar": [
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        25
+       ],
+       [
+        1000,
+        25
+       ],
+       [
+        2000,
+        25
+       ],
+       [
+        4000,
+        30
+       ],
+       [
+        6000,
+        30
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kalin": 4,
+      "etiket": "con el implante",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "hedef",
+      "y": [
+       20,
+       30
+      ],
+      "renk": "yesil",
+      "etiket": "zona objetivo",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "hedef",
+     "cumle": 3
+    },
+    {
+     "parca": "implantli",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En este ejemplo, los umbrales del niño sin implante son profundos; en las frecuencias agudas no hay respuesta ni en los límites del audiómetro.",
+    "Para comprobar el mapa, el niño se sienta frente a un altavoz y se buscan los umbrales en campo libre con estímulos específicos por frecuencia.",
+    "Se usan tonos modulados en frecuencia o ruido de banda estrecha; los tonos puros desde un altavoz pueden generar ondas estacionarias.",
+    "Con un implante coclear, el objetivo son umbrales de unos 20 a 30 dB HL entre 250 y 6000 Hz.",
+    "Este nivel muestra que también se oye el habla suave; si los umbrales son claramente peores, se revisan los niveles T y la sensibilidad del micrófono.",
+    "Si los umbrales son inesperadamente buenos, los niveles T pueden estar demasiado altos, lo que puede generar una estimulación de fondo constante.",
+    "Los umbrales con implante no bastan por sí solos; a medida que el niño crece, la percepción del habla también se mide con pruebas de palabras y frases."
+   ]
+  },
+  {
+   "id": "gelisim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Umbrales con implante",
+   "baslik": "*Seguimiento* del desarrollo",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Cuestionarios",
+     "cumle": 0,
+     "metin": "Informe de la familia"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Niveles de habilidad",
+     "cumle": 1,
+     "metin": "De la detección a la comprensión"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Respuesta cortical",
+     "cumle": 3,
+     "metin": "Latencia de P1"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Registro de datos",
+     "cumle": 4,
+     "metin": "Horas de uso diarias"
+    }
+   ],
+   "cumleler": [
+    "En niños pequeños, el desarrollo se sigue con cuestionarios estándar para padres, como las escalas de integración auditiva significativa.",
+    "Los niveles de habilidad auditiva, es decir, detección, discriminación, identificación y comprensión, enmarcan el progreso.",
+    "La evaluación fonoaudiológica compara el desarrollo del lenguaje del niño con el de sus pares.",
+    {
+     "yazi": "Como mostraron Sharma y sus colegas, la latencia de P1 en las respuestas corticales permite seguir la maduración de la corteza auditiva."
+    },
+    "El registro de datos del procesador muestra cuántas horas al día usa el niño el implante y en qué ambientes.",
+    "Si el uso es bajo, primero se aborda la causa con la familia, porque ningún mapa sirve con un procesador que no se usa."
+   ]
+  },
+  {
+   "id": "takvim",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "Umbrales con implante",
+   "baslik": "El *calendario* del primer año",
+   "adimlar": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Activación",
+     "cumle": 0,
+     "metin": "Primer mapa"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Primeras semanas",
+     "cumle": 1,
+     "metin": "Ajustes frecuentes"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Primeros meses",
+     "cumle": 2,
+     "metin": "Umbrales con implante"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Después",
+     "cumle": 4,
+     "metin": "Controles más espaciados"
+    }
+   ],
+   "cumleler": [
+    "El primer mapa se hace el día de la activación; en los niños, este mapa suele ser deliberadamente prudente.",
+    "Como los niveles cambian rápido en las primeras semanas, los controles son frecuentes; algunos centros ven al niño varias veces el primer mes.",
+    "En los primeros meses, los umbrales con implante y los niveles conductuales se miden de forma cada vez más confiable.",
+    "Cuando los niveles se estabilizan, los intervalos se alargan, pero los niños siguen controlándose con más frecuencia que los adultos.",
+    "En cada consulta se evalúan en conjunto la impedancia, los niveles, los umbrales con implante, el registro de datos y las observaciones de la familia.",
+    "El calendario varía entre centros; lo importante es detectar los problemas antes de que causen un retraso en el desarrollo."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Umbrales con implante",
+   "baslik": "*Controles* diarios en casa",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Equipo",
+     "cumle": 0,
+     "metin": "Batería, cable, antena"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Escucha de control",
+     "cumle": 1,
+     "metin": "Auriculares de monitoreo"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Sonidos de Ling",
+     "cumle": 2,
+     "metin": "Cada mañana"
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Aviso",
+     "cumle": 4,
+     "metin": "Llamar si algo cambia"
+    }
+   ],
+   "cumleler": [
+    "Cada mañana, la familia comprueba que la batería esté cargada, que el cable esté intacto y que la antena se mantenga en su lugar.",
+    "En algunos procesadores, unos auriculares de monitoreo o una aplicación permiten comprobar que el micrófono funciona, escuchando o con un indicador.",
+    "Luego, con la prueba de los seis sonidos de Ling, se comprueba si el niño responde a cada sonido.",
+    "Si el niño deja de responder a un sonido al que antes respondía, o de pronto empieza a rechazar el procesador, se llama al centro.",
+    "Estos controles sencillos evitan que una falla o un problema del mapa pase inadvertido durante días."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Agendar la cita cuando el niño esté alimentado, descansado y tranquilo. Pedir a uno de los padres que observe, registrar juntos las respuestas y mantener la sesión corta.",
+   "cumleler": [
+    "Un consejo de la clínica: agenden la cita de programación del niño para un momento en que esté alimentado, descansado y tranquilo.",
+    "Incluyan a uno de los padres como observador en la sesión; conoce las pequeñas reacciones del niño mejor que ustedes.",
+    "Registren en qué electrodo y a qué nivel se obtuvo cada respuesta; ese registro los guiará en la consulta siguiente.",
+    "No insistan con un niño cansado; una sesión corta y exitosa da más información que una larga y llena de lágrimas."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "ECAP: da el perfil de niveles",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "ESRT: orienta el límite superior",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "La confirmación conductual es imprescindible",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Con implante: unos 20 a 30 dB HL",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Los umbrales del ECAP pueden medirse en un niño despierto y ayudan a predecir el perfil del mapa a lo largo de los electrodos."
+    },
+    {
+     "yazi": "El ESRT da un valor cercano al nivel de confort y ofrece un límite seguro para los niveles superiores."
+    },
+    "Las predicciones objetivas se confirman con métodos conductuales adecuados a la edad y con las observaciones de la familia.",
+    "El objetivo son umbrales con implante en campo libre de unos 20 a 30 dB HL; el desarrollo y las horas de uso se siguen con regularidad."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cuál es el objetivo para los umbrales con implante?",
+   "secenekler": [
+    "0 a 10 dB HL",
+    "20 a 30 dB HL",
+    "50 a 60 dB HL",
+    "70 dB HL o más"
+   ],
+   "dogru": 1,
+   "aciklama": "Este nivel muestra que también se oye el _habla suave_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en un niño con implante, ¿qué nivel suele ser el objetivo para los umbrales con implante en campo libre?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: unos 20 a 30 dB HL.",
+    "Este nivel muestra que también se oyen los sonidos suaves del habla; umbrales claramente peores obligan a revisar el mapa."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Audición *bimodal* e implantes bilaterales",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos el uso de un implante en un oído y un audífono en el otro, y los implantes bilaterales.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

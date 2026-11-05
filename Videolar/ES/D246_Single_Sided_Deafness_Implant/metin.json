@@ -1,0 +1,734 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D246_Single_Sided_Deafness_Implant_ES",
+ "kapak": {
+  "ust": "LECCIÓN 246",
+  "baslik": "Sordera unilateral<br>e *implantes*",
+  "alt": "CROS, vía ósea e implante coclear",
+  "grafik": {
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      10,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      95,
+      105,
+      110,
+      115,
+      120,
+      120
+     ],
+     "yanitsiz": [
+      4,
+      5
+     ]
+    }
+   ],
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   }
+  }
+ },
+ "youtube": {
+  "baslik": "Sordera unilateral y la opción del implante coclear | Lección 246 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué opciones tiene una persona con un oído normal y el otro sordo? En esta lección vemos los efectos cotidianos de la sordera unilateral, cómo se comparan el CROS y los dispositivos de vía ósea con el implante coclear, los resultados en localización y audición en ruido, el efecto sobre el tinnitus y los puntos clave de la candidatura.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Van de Heyning et al. (2008), Incapacitating unilateral tinnitus in single-sided deafness treated by cochlear implantation, Annals of Otology, Rhinology and Laryngology; Arndt et al. (2011), Comparison of pseudobinaural hearing to real binaural hearing rehabilitation after cochlear implantation in patients with unilateral deafness and tinnitus, Otology and Neurotology; Wolfe, Cochlear Implants; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "implantecoclear",
+   "sorderaunilateral"
+  ],
+  "etiketler": [
+   "sordera unilateral",
+   "hipoacusia unilateral",
+   "implante coclear",
+   "CROS",
+   "dispositivo de vía ósea",
+   "audición espacial",
+   "localización sonora",
+   "tinnitus",
+   "pérdida auditiva asimétrica",
+   "efecto sombra de la cabeza",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 246",
+   "baslik": "Sordera unilateral e *implantes*",
+   "alt": "CROS, vía ósea e implante coclear",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos las opciones para quienes tienen un oído normal y el otro sordo, y el lugar que ocupa el implante coclear.",
+    "Compararemos el redireccionamiento de la señal, los dispositivos de vía ósea y el implante en localización, audición en ruido y tinnitus."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 1",
+   "bolum": "Sordera unilateral",
+   "baslik": "Ejemplo: *oído izquierdo* sordo",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: vía aérea enmascarada",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Rango _normal_",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       10,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       95,
+       105,
+       110,
+       115,
+       120,
+       120
+      ],
+      "yanitsiz": [
+       4,
+       5
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, la audición del oído derecho está dentro de los límites normales.",
+    "En el oído izquierdo, la prueba enmascarada muestra una pérdida profunda; en las frecuencias altas no hay respuesta en el límite del audiómetro.",
+    "Cuando un oído es casi normal y el otro tiene demasiada pérdida para beneficiarse de un audífono, hablamos de sordera unilateral.",
+    "Cuando el mejor oído también tiene una pérdida leve a moderada y los oídos difieren claramente, hablamos de pérdida auditiva asimétrica.",
+    "Estas personas oyen sin dificultad a quien tienen enfrente en silencio; por eso el problema suele subestimarse.",
+    "Sin embargo, tienen dificultades claras en los ambientes ruidosos y concurridos de la vida diaria."
+   ]
+  },
+  {
+   "id": "sorunlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Sordera unilateral",
+   "baslik": "La *vida diaria* con un solo oído",
+   "ogeler": [
+    {
+     "ikon": "dikkat",
+     "baslik": "Localización",
+     "cumle": 0,
+     "metin": "¿De dónde viene el sonido?"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "En ruido",
+     "cumle": 1,
+     "metin": "Habla del lado malo"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Esfuerzo auditivo",
+     "cumle": 3,
+     "metin": "Fatiga"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitus",
+     "cumle": 4,
+     "metin": "Zumbido en el oído sordo"
+    }
+   ],
+   "cumleler": [
+    "La audición espacial, es decir, ubicar los sonidos y separarlos según su dirección, requiere dos oídos.",
+    "Cuando el habla llega desde el lado sordo, la sombra de la cabeza la debilita y llega menos al oído bueno.",
+    "Si el ruido viene del lado del oído bueno, comprender el habla se vuelve aún más difícil.",
+    "Las personas describen un esfuerzo constante para seguir una conversación en grupo y un gran cansancio al final del día.",
+    "Muchas personas también tienen tinnitus en el oído sordo, lo que puede afectar claramente la calidad de vida.",
+    "Los niños con pérdida unilateral tienen mayor riesgo de dificultades escolares y del lenguaje; por eso se los sigue de cerca."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Sordera unilateral",
+   "baslik": "La causa y la *duración* importan",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Sordera súbita",
+     "cumle": 0,
+     "metin": "Causa frecuente en adultos"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Cirugía, trauma",
+     "cumle": 1,
+     "metin": "Tumor, fractura"
+    },
+    {
+     "ikon": "virus",
+     "baslik": "CMV congénito",
+     "cumle": 2,
+     "metin": "Causa frecuente en niños"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Nervio coclear",
+     "cumle": 3,
+     "metin": "Las imágenes son imprescindibles"
+    }
+   ],
+   "cumleler": [
+    "Entre las causas frecuentes de sordera unilateral en adultos están la sordera súbita, las infecciones del oído interno y la enfermedad de Ménière.",
+    "La cirugía del schwannoma vestibular y las fracturas del hueso temporal también pueden causar sordera unilateral.",
+    "En los niños, la infección congénita por citomegalovirus es una causa importante.",
+    "Algunos niños que nacen con sordera unilateral tienen un nervio coclear deficiente; por eso las imágenes preceden a la decisión del implante.",
+    "Además de la causa, preguntamos desde cuándo existe la pérdida, porque es uno de los factores que más influyen en el resultado del implante.",
+    "Si el nervio coclear se seccionó durante una cirugía, el implante no es una opción."
+   ]
+  },
+  {
+   "id": "secenekler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Opciones",
+   "baslik": "Cuatro *opciones*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Estrategias",
+     "cumle": 0,
+     "metin": "Ubicación y comunicación"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "CROS",
+     "cumle": 1,
+     "metin": "Lleva el sonido al oído bueno"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Vía ósea",
+     "cumle": 2,
+     "metin": "Lo transmite a través del cráneo"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Implante coclear",
+     "cumle": 3,
+     "metin": "Estimula el oído sordo"
+    }
+   ],
+   "cumleler": [
+    "Para algunas personas bastan la información y las estrategias de comunicación: por ejemplo, sentarse en las reuniones con el oído bueno hacia quien habla.",
+    "El enrutamiento contralateral de la señal, o CROS, lleva el sonido del lado sordo de forma inalámbrica a un receptor en el oído bueno.",
+    "Los dispositivos de vía ósea llevan el sonido del lado sordo a la cóclea del lado bueno mediante la vibración del cráneo.",
+    "A diferencia de los demás, el implante coclear vuelve a estimular el propio oído sordo.",
+    "Vimos el CROS y los dispositivos de vía ósea en lecciones anteriores; ahora los compararemos con el implante.",
+    "La elección entre las opciones se hace tras una información imparcial, junto con los objetivos de la persona y sus ambientes cotidianos."
+   ]
+  },
+  {
+   "id": "yonlendirme",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Opciones",
+   "baslik": "¿Redirigir o *estimular?*",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "cros",
+    "cihaz": "ikisi",
+    "kotu_kulak": "sag",
+    "cihaz_cumle": 2,
+    "aktarim_cumle": 2,
+    "implant_cumle": 5
+   },
+   "etiketler": [
+    {
+     "parca": "yakin_kulak",
+     "metin": "oído sordo",
+     "cumle": 0
+    },
+    {
+     "parca": "uzak_kulak",
+     "metin": "oído bueno",
+     "cumle": 0
+    },
+    {
+     "parca": "bas_golgesi",
+     "metin": "sombra de la cabeza",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "bas_golgesi",
+     "cumle": 1
+    },
+    {
+     "parca": "uzak_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "yakin_kulak",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En este dibujo, el sonido llega desde el lado del oído sordo; el oído del otro lado oye normalmente.",
+    "Por la sombra de la cabeza, el habla llega debilitada al oído bueno, sobre todo en las frecuencias altas.",
+    "El CROS y los dispositivos de vía ósea superan la sombra llevando ese sonido al oído bueno; así se oye mejor el habla del lado malo.",
+    "Pero en ambos sistemas todos los sonidos terminan llegando a una sola cóclea; es decir, la persona sigue oyendo con un solo oído.",
+    "Por eso la localización no mejora, y si el ruido viene del lado malo, el ruido también se lleva al oído bueno.",
+    "El implante coclear le devuelve al oído sordo su propia entrada; el cerebro vuelve a recibir información de dos oídos distintos.",
+    "Aunque el sonido acústico del oído normal y el sonido eléctrico del implante son diferentes, con el tiempo el cerebro puede aprender a combinarlos."
+   ]
+  },
+  {
+   "id": "karsilastirma",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Opciones",
+   "baslik": "*Sopesar* las opciones",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "CROS",
+     "cumle": 0,
+     "metin": "Sin cirugía, prueba inmediata"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Vía ósea",
+     "cumle": 2,
+     "metin": "Pierde agudos al cruzar el cráneo"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Implante",
+     "cumle": 4,
+     "metin": "Cirugía y entrenamiento largo"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Decisión",
+     "cumle": 6,
+     "metin": "Los objetivos de la persona"
+    }
+   ],
+   "cumleler": [
+    "El CROS no requiere cirugía, puede probarse de inmediato y abandonarse fácilmente; por eso suele ser la primera opción que se prueba.",
+    "El receptor del oído bueno suele adaptarse con un domo abierto; pero a algunas personas les molesta llevar dispositivos en ambos oídos.",
+    "Con un dispositivo de vía ósea, la vibración pierde algo de fuerza al cruzar el cráneo hacia la otra cóclea, sobre todo en las frecuencias altas.",
+    "Este dispositivo puede probarse sin cirugía con una banda; en cambio, el uso permanente requiere un implante colocado en el hueso.",
+    "El implante coclear requiere cirugía, y los resultados exigen meses de uso regular y entrenamiento auditivo.",
+    "Para cada opción se habla también del cuidado, el costo, el reembolso y de cualquier necesidad futura de resonancia magnética, o RM.",
+    "Al final, la opción adecuada depende de los ambientes cotidianos de la persona y de la dificultad que más desea resolver."
+   ]
+  },
+  {
+   "id": "sonuclar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Resultados del implante",
+   "baslik": "¿*Qué* cambia con el implante?",
+   "ogeler": [
+    {
+     "ikon": "dikkat",
+     "baslik": "Localización",
+     "cumle": 0,
+     "metin": "Mejora clara"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "En ruido",
+     "cumle": 2,
+     "metin": "Beneficio según la disposición"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitus",
+     "cumle": 4,
+     "metin": "Disminuye en la mayoría"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Calidad de vida",
+     "cumle": 5,
+     "metin": "Menos esfuerzo"
+    }
+   ],
+   "cumleler": [
+    "Los estudios muestran que, en la sordera unilateral, el implante mejora la localización más que el CROS y los dispositivos de vía ósea.",
+    "La localización a menudo no alcanza el nivel de las personas con audición normal, pero aporta una mejora notable en la vida diaria.",
+    "El beneficio para comprender en ruido depende de qué lado vienen el habla y el ruido.",
+    "El beneficio es más claro cuando el habla viene del lado implantado; cuando ambos vienen de frente, el beneficio es menor.",
+    "Se ha descrito que muchas personas tienen claramente menos tinnitus en el oído sordo mientras el implante está encendido.",
+    "Las personas suelen referir menos esfuerzo auditivo y mejor calidad de vida; pero el beneficio varía de una persona a otra."
+   ]
+  },
+  {
+   "id": "tinnitus",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Resultados del implante",
+   "baslik": "Efecto *sobre* el tinnitus",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 3.5,
+     "ad": "",
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "before surgery",
+      "2": "implant off",
+      "3": "implant on",
+      "1": "antes de la cirugía",
+      "2": "implante apagado",
+      "3": "implante encendido"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Intensidad del tinnitus (0 a 10)"
+    },
+    "seriler": [
+     {
+      "ad": "once",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        8
+       ]
+      ],
+      "renk": "gri",
+      "cumle": 1
+     },
+     {
+      "ad": "kapali",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        6.5
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 3
+     },
+     {
+      "ad": "acik",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        3,
+        3
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "acik",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En 2008, Van de Heyning y colaboradores informaron que el implante redujo el tinnitus en personas con sordera unilateral y tinnitus intenso."
+    },
+    "Este gráfico esquemático muestra el panorama general de estos estudios; los valores no son datos reales.",
+    "En la mayoría de las personas, la intensidad del tinnitus baja claramente mientras el implante está encendido.",
+    "En algunas personas el efecto persiste en parte al apagar el implante; en otras, el tinnitus vuelve a su nivel anterior.",
+    "No hay que esperar que el tinnitus desaparezca por completo; por eso se le da a la persona una expectativa realista.",
+    "El tinnitus no se considera por sí solo un motivo para el implante, sino junto con los objetivos auditivos."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Resultados del implante",
+   "baslik": "Criterios de *candidatura*",
+   "adimlar": [
+    {
+     "ikon": "takvim",
+     "baslik": "2019",
+     "cumle": 0,
+     "metin": "Aprobación en Estados Unidos"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Edad",
+     "cumle": 1,
+     "metin": "Desde los cinco años"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Mejor oído",
+     "cumle": 2,
+     "metin": "Promedio de 30 dB HL o mejor"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Prueba",
+     "cumle": 3,
+     "metin": "Al menos un mes"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Turquía",
+     "cumle": 5,
+     "metin": "Revisar la normativa vigente"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Algunos centros de Europa colocan implantes en casos de sordera unilateral desde la década de 2000; en Estados Unidos, este uso se aprobó en 2019."
+    },
+    "Estas aprobaciones abarcaron a personas de cinco años o más.",
+    "La definición de sordera unilateral exigía en el oído bueno un promedio de cuatro frecuencias de treinta decibeles HL o mejor.",
+    "Una de las aprobaciones exigía al menos un mes de prueba sin beneficio con un audífono, un CROS o un dispositivo similar antes del implante.",
+    "En la pérdida asimétrica se admite más pérdida en el mejor oído, y se exige una diferencia clara entre ambos oídos.",
+    {
+     "yazi": "Los criterios varían según el país y el dispositivo; para el reembolso en Turquía, revisen siempre el Comunicado de Aplicación en Salud vigente, el SUT."
+    }
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Qué influye en el resultado",
+   "baslik": "¿Quién *obtiene más?*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Duración",
+     "cumle": 0,
+     "metin": "Poco tiempo de sordera"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Pérdida congénita",
+     "cumle": 1,
+     "metin": "Intervención temprana imprescindible"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Nervio",
+     "cumle": 3,
+     "metin": "Nervio coclear íntegro"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Motivación",
+     "cumle": 4,
+     "metin": "Uso regular"
+    }
+   ],
+   "cumleler": [
+    "En adultos, cuanto menor es la duración de la sordera, mejores suelen ser los resultados del implante; por eso no conviene demorar la evaluación.",
+    "En los niños que nacen con sordera unilateral, la vía auditiva del oído sordo no recibe estimulación durante años.",
+    "En estos niños solo se espera un beneficio significativo si el implante se hace temprano; si se hace tarde, los resultados pueden ser muy limitados.",
+    "Las imágenes deben mostrar que el nervio coclear está íntegro.",
+    "Como el oído normal sigue siendo dominante, el uso regular y la adaptación al implante requieren paciencia; la motivación influye claramente en el resultado.",
+    "Si los objetivos de la persona no son claros o sus expectativas no son realistas, se necesita una orientación más detallada antes de decidir."
+   ]
+  },
+  {
+   "id": "rehab",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Qué influye en el resultado",
+   "baslik": "*Entrenar* el oído implantado",
+   "maddeler": [
+    {
+     "metin": "El oído normal sigue dominando",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sonido transmitido solo al implante",
+     "cumle": 1,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Sesiones de escucha breves y regulares",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Equilibrio entre ambos oídos",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "dis_islemci",
+      "metin": "transmisión directa de audio",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "dis_islemci",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "En la sordera unilateral, el oído normal oye el sonido con mucha más claridad, por lo que al principio el cerebro puede ignorar el implante.",
+    "Para entrenar solo el oído implantado, una fuente como el teléfono o un audiolibro puede transmitirse directamente al procesador.",
+    "Mientras tanto el oído normal no oye; la persona escucha solo a través del implante e intenta comprender el habla.",
+    "Las sesiones de escucha breves y diarias ayudan a desarrollar la comprensión del habla con el oído implantado.",
+    "En la programación, la sonoridad del implante se equilibra con el oído normal; el sonido debe sentirse equilibrado, no cargado hacia un lado.",
+    "El implante sonará distinto del oído normal; desde el principio se explica que esto es lo esperable."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Expliquen todas las opciones a la persona con sordera unilateral sin sesgos. Probar un CROS o un dispositivo de vía ósea con banda antes de la cirugía aclara las expectativas.",
+   "cumleler": [
+    "Un consejo de la clínica: en la primera consulta, expliquen con imparcialidad todas las opciones a la persona con sordera unilateral, con ventajas y límites.",
+    "Antes de decidir la cirugía, probar un CROS o un dispositivo de vía ósea con banda en los ambientes cotidianos aclara las necesidades de la persona.",
+    "Como la duración de la sordera influye en el resultado del implante, deriven sin demora a evaluación a quien se interese por un implante.",
+    "Si la sordera unilateral apareció tras una sordera súbita, planifiquen esta consulta una vez terminado el tratamiento médico."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Un solo oído afecta la localización",
+     "cumle": 0,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "CROS y vía ósea: redirigen el sonido",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Implante: estimula el oído sordo",
+     "cumle": 2,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Duración y nervio determinan el resultado",
+     "cumle": 3,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "La sordera unilateral afecta la localización y la audición en ruido, aumenta el esfuerzo auditivo y a menudo se acompaña de tinnitus.",
+    "El CROS y los dispositivos de vía ósea llevan el sonido del lado sordo al oído bueno; pero no devuelven la audición con dos oídos.",
+    "El implante coclear estimula el propio oído sordo; se describen beneficios en localización, en algunas situaciones de ruido y en el tinnitus.",
+    "El resultado depende de la duración de la sordera, del estado del nervio coclear y del uso regular; los criterios varían según el país."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué opción busca recuperar la localización?",
+   "secenekler": [
+    "Sistema CROS",
+    "Dispositivo de vía ósea",
+    "Implante coclear",
+    "Audífono en un oído"
+   ],
+   "dogru": 2,
+   "aciklama": "El implante estimula _el propio oído sordo_; los demás llevan el sonido al oído bueno.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en la sordera unilateral, ¿qué opción busca recuperar la localización?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: el implante coclear.",
+    "El CROS y los dispositivos de vía ósea llevan el sonido a una sola cóclea; el implante da al oído sordo su propia entrada y busca la audición binaural."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Resultados* del implante coclear y solución de fallas",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos los factores que influyen en el rendimiento del implante, las fallas del dispositivo y la seguridad en resonancia magnética.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

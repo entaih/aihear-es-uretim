@@ -1,0 +1,778 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D186_Telecoil_Wireless_ALDs_ES",
+ "kapak": {
+  "ust": "LECCIÓN 186",
+  "baslik": "Bobina telefónica<br>y sonido *inalámbrico*",
+  "alt": "Bucles, Bluetooth, micrófonos remotos",
+  "cizim": "oda_plani",
+  "ayar": {
+   "mod": "kritik_mesafe",
+   "kritik_mesafe_m": 1.5,
+   "oda": [
+    9,
+    7
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Bobina telefónica, inalámbricos y sistemas de apoyo | Lección 186 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Por qué a un audífono le cuesta captar a un interlocutor lejano en el ruido? En esta lección vemos la bobina telefónica y el bucle de inducción, la transmisión por Bluetooth, los sistemas de micrófono remoto FM y digitales, y qué solución elegir en cada situación.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Dillon, Hearing Aids; IEC 60118-4, Electroacoustics: Hearing aids, Induction loop systems for assisted hearing; American Speech-Language-Hearing Association, Acoustics in Educational Settings (2005); American Academy of Audiology, Clinical Practice Guidelines: Remote Microphone Hearing Assistance Technologies for Children and Youth from Birth to 21 Years (2008).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "bobinatelefonica"
+  ],
+  "etiketler": [
+   "bobina telefónica",
+   "telebobina",
+   "bucle de inducción",
+   "bucle magnético",
+   "micrófono remoto",
+   "sistema FM",
+   "Bluetooth en audífonos",
+   "Auracast",
+   "dispositivos de ayuda auditiva",
+   "relación señal-ruido",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 186",
+   "baslik": "Bobina telefónica y sonido *inalámbrico*",
+   "alt": "Dispositivos de ayuda auditiva",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos los sistemas que llevan el sonido al audífono directamente desde la fuente, y no a través de su micrófono.",
+    "Compararemos la bobina telefónica y el bucle de inducción, la transmisión por Bluetooth y los sistemas de micrófono remoto."
+   ]
+  },
+  {
+   "id": "mesafe",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El problema de la distancia",
+   "baslik": "Distancia, reverberación y *ruido*",
+   "cizim": "oda_plani",
+   "ayar": {
+    "mod": "kritik_mesafe",
+    "kritik_mesafe_m": 1.5,
+    "oda": [
+     9,
+     7
+    ],
+    "halka_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "ogretmen",
+     "metin": "interlocutor",
+     "cumle": 0
+    },
+    {
+     "parca": "kritik_mesafe",
+     "metin": "distancia crítica",
+     "cumle": 2
+    },
+    {
+     "parca": "ogrenciler",
+     "metin": "oyente lejano",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ogretmen",
+     "cumle": 0
+    },
+    {
+     "parca": "yankilanan_alan",
+     "cumle": 2
+    },
+    {
+     "parca": "ogrenciler",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "El sonido directo _cae_ con la distancia",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "La reverberación difumina el habla",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Solución: captar el sonido en la fuente",
+     "cumle": 5,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "El micrófono del audífono está en el oído del usuario, mientras que el interlocutor suele estar a varios metros.",
+    "A medida que aumenta la distancia a la fuente, el nivel del sonido directo baja, mientras que el ruido de fondo se mantiene igual.",
+    "Más allá de la distancia crítica, el sonido reflejado se vuelve más intenso que el directo y el habla se difumina.",
+    "Por eso, la relación señal-ruido de un estudiante en la última fila es mucho peor que la de uno en la primera fila.",
+    "Un audífono no puede limpiar la mezcla de sonidos que llega a su micrófono; solo puede amplificarla y modelarla.",
+    "Los dispositivos de ayuda auditiva resuelven este problema captando el sonido junto a la fuente y enviándolo directamente al audífono."
+   ]
+  },
+  {
+   "id": "uc_yol",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "El problema de la distancia",
+   "baslik": "*Tres formas* de llevar el sonido",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Bobina telefónica",
+     "cumle": 1,
+     "metin": "Campo magnético de un bucle"
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Bluetooth",
+     "cumle": 2,
+     "metin": "Sonido directo desde el teléfono"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Micrófono remoto",
+     "cumle": 3,
+     "metin": "En la solapa del interlocutor"
+    }
+   ],
+   "cumleler": [
+    "Hay tres formas principales de llevar el sonido directamente a un audífono.",
+    "La primera es la bobina telefónica con el bucle de inducción, que funcionan mediante un campo magnético.",
+    "La segunda es la transmisión inalámbrica por Bluetooth desde dispositivos como teléfonos y televisores.",
+    "La tercera son los sistemas de micrófono remoto, que lleva el interlocutor y que envían el sonido por ondas de radio.",
+    "Las tres tienen el mismo objetivo: captar el sonido junto a la fuente y llevarlo al oído sin sumar distancia, reverberación ni ruido."
+   ]
+  },
+  {
+   "id": "telebobin",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Bobina telefónica y bucle",
+   "baslik": "¿Qué es una *bobina telefónica*?",
+   "maddeler": [
+    {
+     "metin": "Una pequeña bobina de alambre en el audífono",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Del campo magnético a señal eléctrica",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Programa T: solo la bobina",
+     "cumle": 3,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Programa MT: bobina y micrófono",
+     "cumle": 4,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Sin receptor extra ni emparejamiento",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "etiketler": [
+     {
+      "parca": "islemci",
+      "metin": "bobina telefónica en la carcasa",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "islemci",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "La bobina telefónica es una pequeña bobina de alambre dentro del audífono.",
+    "Cuando se encuentra en un campo magnético variable, en la bobina se genera una corriente eléctrica; el audífono la procesa como señal de sonido.",
+    "La bobina telefónica se usó primero para captar el campo magnético que dejaban escapar los auriculares de los teléfonos antiguos.",
+    {
+     "yazi": "En el programa T, el audífono entrega solo el sonido de la bobina, por lo que el ruido de fondo queda casi totalmente excluido.",
+     "ses": "En el programa te, el audífono entrega solo el sonido de la bobina, por lo que el ruido de fondo queda casi totalmente excluido."
+    },
+    {
+     "yazi": "En el programa de micrófono y bobina, o programa MT, ambos funcionan juntos; la persona oye tanto el bucle como a quienes están cerca.",
+     "ses": "En el programa de micrófono y bobina, o programa eme te, ambos funcionan juntos; la persona oye tanto el bucle como a quienes están cerca."
+    },
+    "Los teléfonos compatibles con bobina telefónica emiten un campo magnético desde el auricular; en los celulares, esta compatibilidad varía según el modelo.",
+    "Una bobina telefónica no necesita receptor adicional ni emparejamiento, pero no siempre cabe en los audífonos intraauriculares pequeños."
+   ]
+  },
+  {
+   "id": "dongu",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Bobina telefónica y bucle",
+   "baslik": "El *bucle* de inducción",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Fuente de sonido",
+     "cumle": 0,
+     "metin": "Micrófono o transmisión"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Amplificador",
+     "cumle": 1,
+     "metin": "Genera la corriente"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Cable del bucle",
+     "cumle": 2,
+     "metin": "Alrededor de la sala"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Campo magnético",
+     "cumle": 3,
+     "metin": "Dentro del bucle"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Bobina telefónica",
+     "cumle": 4,
+     "metin": "Capta el sonido"
+    }
+   ],
+   "cumleler": [
+    "En un sistema de bucle de inducción, el sonido se capta primero del micrófono del interlocutor o de una fuente de transmisión.",
+    "El amplificador del bucle convierte este sonido en una corriente eléctrica.",
+    "La corriente circula por un cable tendido alrededor de la sala o bajo el piso.",
+    "En el área que encierra el cable se forma un campo magnético que cambia junto con el sonido.",
+    "Cualquier persona dentro de este campo puede activar su bobina telefónica y oír el sonido directamente, sin efectos de distancia ni reverberación.",
+    "Un pequeño collar de inducción aplica el mismo principio de forma personal, para un teléfono o un reproductor de música."
+   ]
+  },
+  {
+   "id": "standart",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Bobina telefónica y bucle",
+   "baslik": "¿*Dónde* y cómo se usan los bucles?",
+   "maddeler": [
+    {
+     "metin": "Intensidad de campo: referencia _400 mA/m_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Respuesta: de 100 a 5000 Hz",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Señal: una oreja y la letra T",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Mostradores, salas, templos, taxis",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "La instalación del bucle se verifica midiendo",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "¿DÓNDE?",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "is_yeri",
+      "baslik": "Mostradores",
+      "cumle": 3,
+      "metin": "Bancos, estaciones"
+     },
+     {
+      "ikon": "kalabalik",
+      "baslik": "Salas",
+      "cumle": 3,
+      "metin": "Teatro, conferencias"
+     },
+     {
+      "ikon": "ev",
+      "baslik": "Hogar",
+      "cumle": 4,
+      "metin": "Bucle para televisión"
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Los sistemas de bucle se instalan según la norma internacional IEC 60118-4; la intensidad de campo de referencia es de 400 mA/m.",
+     "ses": "Los sistemas de bucle se instalan según la norma internacional IEC sesenta mil ciento dieciocho, parte cuatro; la intensidad de campo de referencia es de cuatrocientos miliamperios por metro."
+    },
+    "La misma norma exige que la respuesta en frecuencia del campo sea plana, aproximadamente de 100 a 5000 Hz.",
+    "Los lugares con bucle se identifican con un símbolo de una oreja tachada sobre fondo azul con la letra T en una esquina.",
+    "Las taquillas, las salas de reuniones, los teatros y los lugares de culto son donde los bucles resultan más útiles.",
+    "La mayor ventaja de un bucle es que cualquier persona con bobina telefónica puede usar el sistema sin un receptor adicional.",
+    "Después de la instalación, la intensidad de campo debe comprobarse con un medidor; un campo débil o irregular da un sonido deficiente."
+   ]
+  },
+  {
+   "id": "bluetooth",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Conectividad inalámbrica",
+   "baslik": "Sonido *directo* con Bluetooth",
+   "ogeler": [
+    {
+     "ikon": "telefon",
+     "baslik": "Teléfono",
+     "cumle": 0,
+     "metin": "Directo a ambos oídos"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Dispositivo intermedio",
+     "cumle": 1,
+     "metin": "Necesario en sistemas antiguos"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Baja energía",
+     "cumle": 2,
+     "metin": "Transmisión directa"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Audio de difusión",
+     "cumle": 4,
+     "metin": "Abierto a todos"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Consumo de batería",
+     "cumle": 6,
+     "metin": "La transmisión acorta la autonomía"
+    }
+   ],
+   "cumleler": [
+    "El Bluetooth permite transmitir de forma inalámbrica al audífono el sonido de teléfonos, televisores y computadoras.",
+    "Como el Bluetooth clásico consume mucha energía, los sistemas antiguos necesitaban un dispositivo intermedio colgado al cuello, llamado streamer.",
+    "Con la tecnología Bluetooth de baja energía, hoy muchos audífonos pueden recibir el sonido de un teléfono sin intermediario.",
+    "Como una llamada telefónica puede llegar a ambos oídos a la vez, la inteligibilidad suele mejorar notablemente.",
+    "Auracast, la función de difusión del nuevo estándar de audio Bluetooth, puede enviar el sonido de una fuente a muchos oyentes.",
+    "Con las aplicaciones del teléfono, los usuarios pueden cambiar el volumen y el programa; es un beneficio adicional de la conectividad inalámbrica.",
+    "La transmisión aumenta el consumo de batería, y la compatibilidad varía según el audífono y el teléfono, así que conviene probarla antes."
+   ]
+  },
+  {
+   "id": "uzak",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Micrófonos remotos",
+   "baslik": "¿*Cómo* funciona un micrófono remoto?",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Interlocutor",
+     "cumle": 0,
+     "metin": "Micrófono cerca de la boca"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Transmisor",
+     "cumle": 1,
+     "metin": "Codifica el sonido"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Onda de radio",
+     "cumle": 2,
+     "metin": "FM o digital"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Receptor",
+     "cumle": 3,
+     "metin": "Conectado al audífono"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Oído",
+     "cumle": 4,
+     "metin": "SNR alta"
+    }
+   ],
+   "cumleler": [
+    "En un sistema de micrófono remoto, el micrófono se lleva cerca de la boca del interlocutor, por ejemplo en la solapa.",
+    "El transmisor capta este sonido cercano y limpio y lo prepara para la transmisión inalámbrica.",
+    "Los sistemas antiguos envían el sonido por ondas de radio de frecuencia modulada, o FM, y los nuevos, por un enlace inalámbrico digital.",
+    "El receptor puede ser una pequeña pieza acoplada al audífono, o puede estar integrado en él.",
+    "Así, aunque el interlocutor esté a varios metros, el oyente recibe el sonido como si estuviera junto a su boca.",
+    "Por eso, el micrófono remoto se considera la herramienta de ayuda más potente contra el ruido y la distancia."
+   ]
+  },
+  {
+   "id": "snr",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Micrófonos remotos",
+   "baslik": "Distancia y *relación señal-ruido*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 8,
+     "log": true,
+     "ond": 1,
+     "ad": "Distancia al interlocutor (m)",
+     "isaretler": [
+      0.5,
+      1,
+      2,
+      4,
+      8
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 25,
+     "adim": 5,
+     "ad": "SNR (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "cihaz",
+      "noktalar": [
+       [
+        0.5,
+        14
+       ],
+       [
+        1,
+        8
+       ],
+       [
+        2,
+        2
+       ],
+       [
+        4,
+        -3
+       ],
+       [
+        8,
+        -6
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "solo audífono",
+      "cumle": 1
+     },
+     {
+      "ad": "uzak",
+      "noktalar": [
+       [
+        0.5,
+        18
+       ],
+       [
+        1,
+        18
+       ],
+       [
+        2,
+        18
+       ],
+       [
+        4,
+        18
+       ],
+       [
+        8,
+        18
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "micrófono remoto",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "hedef",
+      "y": [
+       15,
+       25
+      ],
+      "renk": "yesil",
+      "etiket": "objetivo: al menos +15 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Este gráfico muestra, con valores de ejemplo, la relación señal-ruido que llega a un oyente en un aula ruidosa.",
+    "Cuando se escucha solo a través del micrófono del audífono, la relación cae rápidamente al alejarse del interlocutor.",
+    "Con un micrófono remoto, en cambio, la relación se mantiene alta dondequiera que se siente el oyente.",
+    "Los estudios clásicos han informado una mejora de unos 15 a 20 dB con los micrófonos remotos.",
+    "La American Speech-Language-Hearing Association recomienda en el aula una relación de al menos más 15 dB para los niños con pérdida auditiva.",
+    "En un aula grande, a menudo no es posible alcanzar este objetivo solo con audífonos."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Micrófonos remotos",
+   "baslik": "¿Micrófonos remotos *para quién*?",
+   "ogeler": [
+    {
+     "ikon": "okul",
+     "baslik": "Edad escolar",
+     "cumle": 0,
+     "metin": "La voz del docente en clase"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Niño pequeño",
+     "cumle": 1,
+     "metin": "En casa y en el auto"
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Adulto",
+     "cumle": 2,
+     "metin": "Reuniones y restaurantes"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Implante",
+     "cumle": 3,
+     "metin": "Funciona con el mismo sistema"
+    }
+   ],
+   "cumleler": [
+    "Para los niños en edad escolar con pérdida auditiva, se recomienda ampliamente un micrófono remoto que lleve la voz del docente directamente en clase.",
+    "En los niños más pequeños, puede usarse para llevar la voz de un padre a distancia, por ejemplo en el auto o en el parque.",
+    "En los adultos, los micrófonos colocados sobre la mesa o entregados al interlocutor ayudan en entornos como reuniones y restaurantes.",
+    "Muchos procesadores de sonido de implante coclear también pueden usarse con los mismos sistemas de micrófono remoto."
+   ]
+  },
+  {
+   "id": "secim",
+   "tur": "tablo",
+   "bolum_no": "PARTE 5",
+   "bolum": "La elección correcta",
+   "baslik": "¿*Qué solución* para cada situación?",
+   "sutunlar": [
+    "Situación",
+    "Solución"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Llamada telefónica",
+      "Bluetooth o bobina"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Televisión",
+      "Transmisor inalámbrico de TV"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Aula",
+      "Micrófono remoto"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Teatro, mostrador",
+      "Bucle o difusión"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Reunión, restaurante",
+      "Micrófono de mesa"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La elección del sistema de ayuda se basa en las situaciones difíciles de la vida diaria de la persona.",
+    "Para el teléfono puede usarse la transmisión por Bluetooth, o la bobina telefónica con teléfonos compatibles.",
+    "Para la televisión, un pequeño transmisor inalámbrico conectado al televisor envía el sonido directamente al audífono.",
+    "En el aula, la solución más eficaz es un micrófono remoto.",
+    "En espacios compartidos como teatros, taquillas y lugares de culto, se usan sistemas de bucle o de difusión.",
+    "En entornos con muchos interlocutores, como reuniones y restaurantes, puede ayudar un micrófono colocado sobre la mesa."
+   ]
+  },
+  {
+   "id": "surec",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "La elección correcta",
+   "baslik": "De la elección al *uso*",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Preguntar necesidades",
+     "cumle": 0,
+     "metin": "Situaciones difíciles"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Comprobar compatibilidad",
+     "cumle": 1,
+     "metin": "Audífono y teléfono"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Probar juntos",
+     "cumle": 2,
+     "metin": "En la clínica"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Enseñar",
+     "cumle": 3,
+     "metin": "Botones y señales"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Hacer seguimiento",
+     "cumle": 4,
+     "metin": "Preguntar en los controles"
+    }
+   ],
+   "cumleler": [
+    "Recomendar un sistema de ayuda empieza por preguntar a la persona dónde tiene más dificultades en su vida diaria.",
+    "Luego se comprueba la compatibilidad del audífono con bobina telefónica, Bluetooth y micrófono remoto, y el modelo de teléfono de la persona.",
+    "Si es posible, el sistema se prueba en la clínica con las propias fuentes de sonido de la persona y con su propio teléfono.",
+    "Al usuario, y a un familiar si hace falta, se les enseñan pasos prácticos como cambiar de programa y cargar el equipo.",
+    "En las visitas de control, pregunta si el sistema realmente se usa; un sistema que no se usa no aporta ningún beneficio."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En muchos audífonos la bobina telefónica viene desactivada. Activa su programa en la primera adaptación, pruébala junto al usuario en un bucle y muéstrale el botón.",
+   "cumleler": [
+    "Un consejo de la práctica: muchos audífonos tienen bobina telefónica, pero a menudo su programa no viene activado de fábrica.",
+    "En la primera adaptación, activa el programa de bobina telefónica y, si es posible, pruébalo con la persona en un bucle o equipo de prueba de la clínica.",
+    "Muéstrale al usuario cómo pasar a este programa y dónde buscar el símbolo del bucle.",
+    "En las conexiones inalámbricas, pedir a la persona que traiga su propio teléfono y emparejarlo en la clínica reduce los problemas posteriores.",
+    "Los sistemas de ayuda solo funcionan si el usuario los conoce y puede usarlos con facilidad."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Distancia y reverberación reducen la SNR",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "La bobina capta el campo magnético del bucle",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Bluetooth: sonido del teléfono y la TV",
+     "cumle": 2,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Micrófono remoto: la mayor mejora de SNR",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que la relación señal-ruido cae a medida que aumentan la distancia al interlocutor y la reverberación.",
+    "La bobina telefónica capta el campo magnético de un bucle de inducción y lleva el sonido directamente al audífono.",
+    "El Bluetooth permite la transmisión inalámbrica desde dispositivos como teléfonos y televisores.",
+    "Los sistemas de micrófono remoto dan la mayor mejora de la relación señal-ruido frente al ruido y la distancia."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿La forma más eficaz de entender al docente en clase?",
+   "secenekler": [
+    "Más ganancia",
+    "Micrófono remoto",
+    "Ventilación amplia",
+    "Programa de ruido"
+   ],
+   "dogru": 1,
+   "aciklama": "Un micrófono remoto capta el sonido _en la fuente_ y elimina en gran parte los efectos de la distancia y la reverberación.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: para un estudiante con pérdida auditiva sentado en la última fila de un aula ruidosa, ¿qué solución es más eficaz?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: un micrófono remoto.",
+    "Un micrófono remoto capta el sonido cerca de la boca del docente, así que los efectos de la distancia y la reverberación desaparecen en gran parte."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Mediciones en caja de pruebas y el *acoplador de 2 cc*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo se mide un audífono en una caja de pruebas y en un acoplador antes de entregarlo.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

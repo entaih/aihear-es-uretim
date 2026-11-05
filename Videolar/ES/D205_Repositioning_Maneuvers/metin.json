@@ -1,0 +1,809 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D205_Repositioning_Maneuvers_ES",
+ "kapak": {
+  "ust": "LECCIÓN 205",
+  "baslik": "Maniobras<br>*para el VPPB*",
+  "alt": "Epley, Semont, Gufoni, barbacoa",
+  "cizim": "vestibuler",
+  "vurgula": [
+   "posterior_kanal"
+  ]
+ },
+ "youtube": {
+  "baslik": "Maniobras de reposicionamiento: Epley, Semont y Gufoni | Lección 205 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo se devuelven los cristales del oído a su lugar en el VPPB? En esta lección, con fines educativos, vemos la lógica de las maniobras de Epley y Semont para el canal posterior y de las maniobras de Gufoni y de barbacoa para el canal lateral, las consideraciones de seguridad y la reevaluación tras la maniobra. Las maniobras las realiza un profesional capacitado y habilitado, en un paciente adecuado.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Bhattacharyya et al., Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update), Otolaryngology-Head and Neck Surgery (2017); von Brevern et al., Benign paroxysmal positional vertigo: Diagnostic criteria, Journal of Vestibular Research (2015); Jacobson y Shepard, Balance Function Assessment and Management.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "VPPB",
+   "vertigo"
+  ],
+  "etiketler": [
+   "VPPB",
+   "maniobra de Epley",
+   "maniobra de Semont",
+   "maniobra de Gufoni",
+   "maniobra de Lempert",
+   "maniobra de reposicionamiento de canalitos",
+   "canal posterior",
+   "canal lateral",
+   "vértigo posicional",
+   "rehabilitación vestibular",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 205",
+   "baslik": "Maniobras de *reposicionamiento* en el VPPB",
+   "alt": "Epley, Semont, Gufoni y la maniobra de barbacoa",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos las maniobras de Epley, Semont, Gufoni y de barbacoa, que se usan en el vértigo posicional paroxístico benigno (VPPB).",
+    "Este contenido es educativo; las maniobras las realiza un profesional capacitado y habilitado, en un paciente adecuado."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El principio básico",
+   "baslik": "Devolver los cristales a su *lugar*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "posterior_kanal",
+     "metin": "Canal posterior",
+     "cumle": 3
+    },
+    {
+     "parca": "crus_commune",
+     "metin": "Pilar común",
+     "cumle": 3
+    },
+    {
+     "parca": "utrikul",
+     "metin": "Utrículo",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "posterior_kanal",
+     "cumle": 3
+    },
+    {
+     "parca": "crus_commune",
+     "cumle": 3
+    },
+    {
+     "parca": "utrikul",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Primero identificar _canal y lado_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "posterior_kanal",
+     "cumle": 3,
+     "olcek": 1.7
+    },
+    {
+     "parca": "utrikul",
+     "cumle": 4,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En la lección anterior vimos que en el VPPB las otoconias que se desprenden del utrículo entran en un canal semicircular.",
+    "Una maniobra de reposicionamiento de canalitos busca sacar estos cristales del canal y devolverlos al utrículo.",
+    "Para ello, la cabeza se lleva a una serie de posiciones; en cada una, la gravedad hace avanzar un poco más los cristales por el canal.",
+    "En el canal posterior, los cristales se guían desde el punto más bajo del canal hasta el pilar común, y de allí al utrículo.",
+    "Los cristales que vuelven al utrículo ya no arrastran el líquido del canal, y el vértigo posicional se resuelve.",
+    "Por eso, antes de una maniobra hay que identificar correctamente el canal y el lado afectados con las pruebas posicionales.",
+    "Una maniobra para el canal o el lado equivocado no funciona y causa al paciente molestias innecesarias."
+   ],
+   "ayar": {
+    "epley": true,
+    "taraf": "sag",
+    "epley_cumle": 2,
+    "utrikul_cumle": 4
+   }
+  },
+  {
+   "id": "guvenlik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El principio básico",
+   "baslik": "Primero la *seguridad*",
+   "maddeler": [
+    {
+     "metin": "_Preguntar por_ problemas de cuello y espalda",
+     "cumle": 0,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Enfermedad vascular: decidir _con el médico_",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Signos de alarma: _sin maniobra_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Prever náuseas y _caídas_",
+     "cumle": 3,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "El paciente está _informado_",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "uyari",
+      "baslik": "Signo de alarma",
+      "metin": "Sin maniobra, derivar",
+      "cumle": 2
+     },
+     {
+      "ikon": "agri",
+      "baslik": "Problema cervical",
+      "metin": "Técnica modificada",
+      "cumle": 4
+     }
+    ],
+    "ust": "PRECAUCIÓN"
+   },
+   "cumleler": [
+    "Antes de la maniobra, pregunta por dolor cervical, cirugías de cuello o espalda y limitación del movimiento del cuello.",
+    "Si hay una enfermedad vascular cervical grave u otro problema de salud importante, la decisión de hacer una maniobra se toma con el médico.",
+    "Si el cuadro no es un VPPB típico, o hay signos de alarma de causa central, no se hace la maniobra; se deriva al paciente al médico.",
+    "Durante la maniobra pueden aparecer vértigo intenso y náuseas; siempre se sostiene al paciente para evitar caídas.",
+    "En personas con movilidad limitada, puede usarse una camilla basculante o técnicas modificadas en lugar de la camilla de examen.",
+    "Se explica al paciente de antemano qué se hará, por qué y qué puede sentir durante la maniobra."
+   ]
+  },
+  {
+   "id": "duzlem",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Canal posterior",
+   "baslik": "¿Por qué *45 grados?*",
+   "cizim": "kanal_duzlemleri",
+   "ayar": {
+    "goster": [
+     "larp"
+    ],
+    "cift_cumleleri": {
+     "larp": 2
+    },
+    "donus": 45,
+    "donus_cumle": 3
+   },
+   "etiketler": [
+    {
+     "parca": "sag_arka_kanal",
+     "metin": "Canal posterior derecho",
+     "cumle": 1
+    },
+    {
+     "parca": "larp",
+     "metin": "Plano LARP",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "sag_arka_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "bas",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La mayoría de las maniobras del canal posterior empiezan girando la cabeza unos cuarenta y cinco grados.",
+    "Esto se debe a que el canal posterior se encuentra en un plano inclinado unos cuarenta y cinco grados respecto de la línea media de la cabeza.",
+    "El canal posterior derecho está en el mismo plano que el canal anterior izquierdo; esto se llama plano LARP.",
+    "Con la cabeza girada cuarenta y cinco grados a la derecha, el plano del canal posterior derecho se alinea con el plano anteroposterior del cuerpo.",
+    "Cuando luego se acuesta al paciente, el canal rota de lleno en la dirección de la gravedad, y los cristales se desplazan por el canal.",
+    "Por eso también la maniobra de Dix-Hallpike y el primer paso de la maniobra de Epley son iguales."
+   ]
+  },
+  {
+   "id": "epley",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Canal posterior",
+   "baslik": "La maniobra de *Epley*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Sentado",
+     "metin": "Cabeza 45 grados al lado afectado",
+     "cumle": 0
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Supino",
+     "metin": "Posición de Dix-Hallpike",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Giro de cabeza",
+     "metin": "90 grados al otro lado",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Decúbito lateral",
+     "metin": "Cara hacia el suelo",
+     "cumle": 4
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Sentarse",
+     "metin": "Despacio, mentón algo abajo",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "La maniobra de Epley es la maniobra de reposicionamiento más usada en el VPPB del canal posterior; nuestro ejemplo es el canal posterior derecho.",
+    "El paciente está sentado, se gira la cabeza cuarenta y cinco grados a la derecha y se lo acuesta rápido en la posición de Dix-Hallpike.",
+    "En esta posición, se espera a que pasen el nistagmo y el giro; suele llevar de veinte a treinta segundos.",
+    "Luego, manteniendo la cabeza extendida, se la gira lentamente noventa grados a la izquierda, y se espera otra vez.",
+    "Después el paciente rueda sobre el lado izquierdo; la cabeza gira otros noventa grados y la cara queda mirando al suelo.",
+    "Tras esperar también en esta posición, la mayoría de los cristales ya llegó al utrículo a través del pilar común.",
+    "Por último, se lleva al paciente lentamente a la posición sentada, con la cabeza girada a la izquierda y el mentón algo hacia abajo.",
+    "Los tiempos de espera varían según la fuente; el principio común es esperar en cada posición hasta que el nistagmo se atenúe."
+   ]
+  },
+  {
+   "id": "semont",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Canal posterior",
+   "baslik": "La maniobra de *Semont*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Sentado al borde",
+     "metin": "Cabeza 45 grados al lado sano",
+     "cumle": 0
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Al lado afectado",
+     "metin": "Acostarlo rápido",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Espera",
+     "metin": "Uno a dos minutos",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Al otro lado",
+     "metin": "Giro rápido, cara abajo",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Sentarse",
+     "metin": "Despacio",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La maniobra de Semont también se conoce como maniobra liberadora; nuestro ejemplo es otra vez el canal posterior derecho.",
+    "Sentado al borde de la camilla, se gira la cabeza cuarenta y cinco grados al lado sano, el izquierdo, y se acuesta rápido al paciente sobre el derecho.",
+    "En esta posición la cara mira al techo; se espera a que pasen el nistagmo y el giro, por lo general uno a dos minutos.",
+    "Luego, sin cambiar en nada el ángulo de la cabeza, se lleva rápido al paciente, pasando por sentado, al lado izquierdo; ahora la cara mira abajo.",
+    "Esta transición rápida busca usar la inercia para sacar los cristales del canal; también aquí se esperan unos minutos.",
+    "Por último, se lleva al paciente lentamente a la posición sentada.",
+    "Como no requiere extender el cuello, la maniobra de Semont puede preferirse en personas en quienes extender la cabeza hacia atrás es un problema."
+   ]
+  },
+  {
+   "id": "karsilastirma",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Canal posterior",
+   "baslik": "¿Epley o *Semont?*",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "Epley",
+     "metin": "Frecuente; cuello extendido, transiciones lentas.",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Semont",
+     "metin": "Sin extensión cervical; movimiento rápido.",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "En común",
+     "metin": "Eficacia similar según los estudios.",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La elección entre las dos maniobras del canal posterior depende sobre todo de las características del paciente y de la experiencia del profesional.",
+    "La maniobra de Epley usa transiciones más lentas, pero exige extender la cabeza hacia atrás.",
+    "La maniobra de Semont no requiere extender el cuello; a cambio, exige un movimiento corporal rápido y amplio.",
+    "En los estudios comparativos, ambas maniobras han mostrado en general una eficacia similar.",
+    {
+     "yazi": "La guía de 2017 de la American Academy of Otolaryngology señala el reposicionamiento como tratamiento recomendado del VPPB del canal posterior."
+    },
+    "En estudios controlados, las maniobras mostraron tasas de resolución claramente mayores que una maniobra simulada."
+   ]
+  },
+  {
+   "id": "lateral_taraf",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Canales lateral y anterior",
+   "baslik": "Canal lateral: *¿qué lado?*",
+   "maddeler": [
+    {
+     "metin": "Se _identifica_ con el giro cefálico en supino",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Geotrópico: afectado el lado _más intenso_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Apogeotrópico: afectado el lado _más débil_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Un lado dudoso cambia el _abordaje_",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "lateral_kanal",
+      "metin": "Canal lateral",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "En el VPPB del canal lateral, la prueba de giro cefálico en decúbito supino identifica primero el tipo de nistagmo y el lado afectado.",
+    "Con un nistagmo geotrópico, el lado donde el nistagmo es más intenso suele ser el oído afectado.",
+    "Con un nistagmo apogeotrópico, el lado donde el nistagmo es más débil suele ser el oído afectado.",
+    "Esta distinción decide directamente hacia qué lado se hace la maniobra.",
+    "Si la intensidad del nistagmo es muy parecida en ambos lados, identificar el lado es más difícil y se recurre a signos adicionales."
+   ]
+  },
+  {
+   "id": "gufoni",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Canales lateral y anterior",
+   "baslik": "La maniobra de *Gufoni* (geotrópico)",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Sentado",
+     "metin": "Posición inicial",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Lado sano",
+     "metin": "Decúbito lateral rápido",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Espera",
+     "metin": "Hasta que el nistagmo ceda",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Cabeza abajo",
+     "metin": "Unos 45 grados",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Sentarse",
+     "metin": "Tras uno a dos minutos",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La maniobra de Gufoni es una maniobra breve y sencilla que se usa con frecuencia en el VPPB del canal lateral.",
+    "En el tipo geotrópico, se lleva rápido al paciente de sentado a decúbito lateral recto sobre el lado sano.",
+    "Se espera a que el nistagmo de esta posición se atenúe, por lo general alrededor de un minuto.",
+    "Luego se gira rápido la cabeza unos cuarenta y cinco grados hacia el suelo.",
+    "Tras esperar uno a dos minutos en esta posición, se lleva al paciente lentamente a la posición sentada.",
+    "En el tipo apogeotrópico se usan otras versiones de la maniobra hacia el lado afectado; los detalles varían según el protocolo."
+   ]
+  },
+  {
+   "id": "barbeku",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Canales lateral y anterior",
+   "baslik": "La maniobra de *barbacoa*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Supino",
+     "metin": "Cabeza al lado afectado",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "90 grados",
+     "metin": "Cara arriba",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "90 grados",
+     "metin": "Al lado sano",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "90 grados",
+     "metin": "Cara abajo",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Sentarse",
+     "metin": "Por el lado sano",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La maniobra de barbacoa es una técnica para el canal lateral, también conocida como maniobra de Lempert.",
+    "El paciente está en decúbito supino, y primero se gira la cabeza hacia el lado afectado.",
+    "Luego se rotan la cabeza y el cuerpo hacia el lado sano en pasos de noventa grados.",
+    "El paciente gira hasta quedar boca abajo y completa una rotación total de doscientos setenta a trescientos sesenta grados.",
+    "En cada posición se espera a que el nistagmo se atenúe, por lo general de treinta segundos a un minuto.",
+    "Por último, se lleva al paciente lentamente a la posición sentada por el lado sano.",
+    "Algunos profesionales usan también la posición prolongada forzada: el paciente se acuesta sobre el lado sano, por ejemplo durante la noche."
+   ]
+  },
+  {
+   "id": "on_kanal",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Canales lateral y anterior",
+   "baslik": "Canal anterior y *casos especiales*",
+   "maddeler": [
+    {
+     "metin": "Canal anterior: _raro_",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Maniobras con la cabeza muy colgante",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Nistagmo vertical inferior: _descartar causa central_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Cupulolitiasis: primero _liberar los cristales_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "superior_kanal",
+      "metin": "Canal anterior (superior)",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "superior_kanal",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "El VPPB del canal anterior es raro y más difícil de diagnosticar que los otros tipos.",
+    "Se trata con maniobras en las que la cabeza cuelga bien por debajo del borde de la camilla; la maniobra de Yacovino es una de ellas.",
+    "El nistagmo posicional vertical inferior también puede deberse a causas centrales.",
+    "Por eso, descartar causas centrales es especialmente importante antes de diagnosticar un VPPB del canal anterior.",
+    "En la cupulolitiasis, los cristales se adhieren a la cúpula.",
+    "En este caso pueden usarse maniobras modificadas que buscan primero liberar los cristales.",
+    "En estos casos especiales, elegir la maniobra requiere más experiencia; si no hay mejoría, se reevalúa al paciente."
+   ]
+  },
+  {
+   "id": "gozlem",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Después de la maniobra",
+   "baslik": "Observar *durante* la maniobra",
+   "maddeler": [
+    {
+     "metin": "Ojos observados _en cada posición_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Nistagmo en igual dirección: _buena señal_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Nistagmo invertido: _reflujo_",
+     "cumle": 4,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Nuevo tipo de nistagmo: _conversión de canal_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Misma dirección",
+      "metin": "Señal de avance",
+      "cumle": 2
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Invertido",
+      "metin": "Posible reflujo",
+      "cumle": 4
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Nuevo tipo",
+      "metin": "Conversión de canal",
+      "cumle": 5
+     }
+    ],
+    "ust": "OBSERVACIÓN"
+   },
+   "cumleler": [
+    "Siempre que sea posible, la maniobra se hace con lentes de Frenzel o gafas de video, y se observan los ojos en cada posición.",
+    "En el canal posterior, también puede aparecer nistagmo en la segunda y la tercera posición de la maniobra.",
+    "Si este nistagmo bate en la misma dirección que en la primera posición, se ha descrito como señal de que los cristales avanzan bien.",
+    "Este hallazgo sugiere que la maniobra probablemente tenga éxito.",
+    "Un nistagmo en dirección opuesta puede sugerir que los cristales retroceden hacia la ampolla.",
+    "Durante una maniobra, los cristales pueden pasar a otro canal; esto se llama conversión de canal, y cambia el tipo de nistagmo.",
+    "En ese caso, se identifica el nuevo canal afectado y se elige una maniobra adecuada para él."
+   ]
+  },
+  {
+   "id": "sonra",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Después de la maniobra",
+   "baslik": "*Después* de la maniobra",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Reevaluar",
+     "metin": "Misma sesión o la siguiente",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Repetir si hace falta",
+     "metin": "La misma maniobra",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Inestabilidad residual",
+     "metin": "Puede durar días",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Dentro de un mes",
+     "metin": "Reevaluación",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Orientación",
+     "metin": "Puede recurrir",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Tras la maniobra, la prueba posicional se repite en la misma sesión o en la siguiente consulta, y se registra el resultado.",
+    "Si el nistagmo persiste, puede repetirse la misma maniobra; algunos pacientes necesitan varias sesiones.",
+    {
+     "yazi": "La guía de 2017 no recomienda restricciones rutinarias de la cabeza ni del sueño tras una maniobra del canal posterior."
+    },
+    "Incluso tras una maniobra exitosa, puede quedar una leve sensación de inestabilidad durante unos días o unas semanas.",
+    "La guía recomienda reevaluar al paciente alrededor de un mes después del tratamiento inicial o de la observación.",
+    "Si los síntomas persisten, se revisa el diagnóstico y se busca otro problema vestibular o una causa central.",
+    "Se explica al paciente que el VPPB puede recurrir y que puede volver a consultar si tiene una nueva crisis."
+   ]
+  },
+  {
+   "id": "ev",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Después de la maniobra",
+   "baslik": "Ejercicios en casa y *rehabilitación*",
+   "maddeler": [
+    {
+     "metin": "Puede enseñarse la _Epley_ autoaplicada",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "_Brandt-Daroff_: menos eficaces",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "_Rehabilitación_ ante inestabilidad residual",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Prevención de _caídas_ en adultos mayores",
+     "cumle": 4,
+     "ikon": "yasli"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Al enseñar un ejercicio para casa, hazlo una vez con el paciente y entrégale el lado por escrito.",
+    "cumle": 0
+   },
+   "cumleler": [
+    "A los pacientes adecuados se les puede enseñar una maniobra de Epley autoaplicada para usar en casa, tras practicarla con un profesional.",
+    "Los ejercicios de Brandt-Daroff también se usan en casa, pero se ha descrito que son menos eficaces que las maniobras de reposicionamiento.",
+    "Para el uso en casa, el lado debe estar bien identificado y el paciente debe estar en un entorno seguro.",
+    "Si la inestabilidad persiste tras la maniobra, o el paciente evita moverse, la rehabilitación vestibular puede ayudar.",
+    "En pacientes mayores, se evalúa el riesgo de caídas y se analizan medidas de seguridad en el hogar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Confirma en video el canal y el lado afectados antes de la maniobra. No hagas una maniobra ante un nistagmo atípico; deriva al médico.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la práctica: el éxito de una maniobra depende de un diagnóstico preciso.",
+    "Confirma el hallazgo posicional con una grabación en video si es posible; la dirección de un nistagmo torsional breve se ve mucho mejor.",
+    "Si el nistagmo no encaja con un VPPB típico, por ejemplo sin latencia, sin fatiga o vertical inferior puro, no hagas la maniobra.",
+    "En ese caso, registra los hallazgos y deriva al paciente para una evaluación médica."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Objetivo: devolver los cristales al _utrículo_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Canal posterior: _Epley_ o Semont",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Canal lateral: _Gufoni_ o barbacoa",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Luego: reevaluar, control dentro de _un mes_",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Las maniobras de reposicionamiento buscan devolver al utrículo, mediante posiciones de la cabeza, las otoconias que entraron en un canal.",
+    "Para el canal posterior se usan las maniobras de Epley y Semont, que muestran una eficacia similar.",
+    "En el canal lateral se usan las maniobras de Gufoni y de barbacoa; el lado afectado decide la dirección.",
+    "Tras la maniobra se repite la prueba, no se recomiendan restricciones rutinarias y se reevalúa en alrededor de un mes."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué corresponde en un VPPB del canal posterior derecho?",
+   "secenekler": [
+    "Maniobra de Epley derecha",
+    "Barbacoa hacia la derecha",
+    "Maniobra de Gufoni",
+    "No requiere maniobra"
+   ],
+   "dogru": 0,
+   "aciklama": "El VPPB del canal posterior se trata con _Epley_ o Semont; la Epley comienza por el lado afectado.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué maniobra es la adecuada para un VPPB del canal posterior derecho?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: la maniobra de Epley comenzando por el lado derecho.",
+    "Las maniobras de barbacoa y de Gufoni son para el canal lateral; para el canal posterior se usa la Epley o la Semont."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Neuritis vestibular y *laberintitis*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos el vértigo que empieza de forma súbita y dura días: la neuritis vestibular y la laberintitis.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,704 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D248_Auditory_Brainstem_Implant_ES",
+ "kapak": {
+  "ust": "LECCIÓN 248",
+  "baslik": "*Implante* auditivo<br>de tronco cerebral",
+  "alt": "Sin cóclea o sin nervio: el ABI",
+  "cizim": "isitme_yolu",
+  "vurgula": [
+   "koklear_nukleus"
+  ]
+ },
+ "youtube": {
+  "baslik": "Implante auditivo de tronco cerebral (ABI) | Lección 248 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo llegar a la audición cuando no hay cóclea o no hay nervio coclear? En esta lección vemos la lógica del implante auditivo de tronco cerebral (ABI), la neurofibromatosis tipo 2 y las indicaciones no tumorales, la colocación del electrodo sobre el núcleo coclear, la activación inicial y la programación, los resultados esperables y la rehabilitación.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Colletti et al. (2009), Outcomes in nontumor adults fitted with the auditory brainstem implant: 10 years' experience, Otology and Neurotology; Sennaroglu et al. (2011), Auditory brainstem implantation in children and non-neurofibromatosis type 2 patients: a consensus statement, Otology and Neurotology; Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "ABI",
+   "audicion"
+  ],
+  "etiketler": [
+   "implante auditivo de tronco cerebral",
+   "ABI",
+   "neurofibromatosis tipo 2",
+   "NF2",
+   "aplasia del nervio coclear",
+   "núcleo coclear",
+   "EABR",
+   "malformaciones del oído interno",
+   "Sennaroglu",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 248",
+   "baslik": "*Implante* auditivo de tronco cerebral",
+   "alt": "Sin cóclea o sin nervio: el ABI",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos el implante que llega a la vía auditiva en el tronco cerebral cuando no es posible un implante coclear.",
+    "Hablaremos de las indicaciones, la colocación del electrodo, la programación y los resultados esperables."
+   ]
+  },
+  {
+   "id": "mantik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué el tronco cerebral?",
+   "baslik": "*Sortear* la cóclea y el nervio",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "cóclea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "nervio auditivo",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "núcleo coclear",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 2
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 6
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 4,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Para funcionar, el implante coclear necesita dos cosas: una cóclea que aloje los electrodos y un nervio auditivo que transmita la estimulación.",
+    "Si la cóclea nunca se desarrolló, o está demasiado osificada para insertar un electrodo, no puede usarse un implante coclear.",
+    "Si el nervio auditivo no existe o se seccionó en una cirugía, no queda nervio que los electrodos de la cóclea puedan estimular.",
+    "El implante auditivo de tronco cerebral, o ABI, evita estos dos pasos.",
+    "Los electrodos se colocan directamente sobre el núcleo coclear, en el tronco cerebral.",
+    "El núcleo coclear es donde el nervio auditivo hace su primera sinapsis en el tronco cerebral.",
+    "Desde allí, la señal sigue la conocida vía auditiva central hasta llegar a la corteza auditiva."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué el tronco cerebral?",
+   "baslik": "Una *breve historia* del ABI",
+   "adimlar": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "1979",
+     "cumle": 0,
+     "metin": "Primer electrodo único"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Multicanal",
+     "cumle": 1,
+     "metin": "Portaelectrodos en forma de paleta"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "2000",
+     "cumle": 2,
+     "metin": "Aprobación en Estados Unidos para NF2"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "No tumoral",
+     "cumle": 3,
+     "metin": "Niños y adultos"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En 1979, William House y William Hitselberger colocaron el primer ABI, de un solo electrodo, en un paciente con neurofibromatosis tipo 2."
+    },
+    "En los años siguientes se desarrollaron sistemas con muchos electrodos sobre un soporte plano en forma de paleta.",
+    {
+     "yazi": "En Estados Unidos, la aprobación llegó en 2000 para pacientes con neurofibromatosis tipo 2 de doce años o más."
+    },
+    "En Europa, Colletti y colaboradores comenzaron a usar el ABI también en adultos y niños sin tumores.",
+    {
+     "yazi": "En Turquía, Sennaroglu y su equipo de la Universidad Hacettepe publicaron una amplia experiencia con el ABI en niños con malformaciones del oído interno."
+    },
+    {
+     "yazi": "En 2011 se publicó una declaración de consenso internacional sobre el ABI en niños y en condiciones no tumorales."
+    }
+   ]
+  },
+  {
+   "id": "nf2",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "¿Para quién es?",
+   "baslik": "Neurofibromatosis *tipo 2*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "ic_kulak_yolu",
+     "metin": "conducto auditivo interno",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "nervio coclear",
+     "cumle": 3
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "nervio vestibular",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 3
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La primera indicación, y la clásica, del ABI es la neurofibromatosis tipo 2, o NF2."
+    },
+    "En esta enfermedad genética se desarrollan schwannomas vestibulares bilaterales, que nacen del nervio vestibular en el conducto auditivo interno.",
+    {
+     "yazi": "El nombre actual de la enfermedad es schwannomatosis relacionada con NF2."
+    },
+    "A medida que los tumores crecen o se extirpan quirúrgicamente, el nervio coclear se daña y puede aparecer una sordera bilateral.",
+    "Por eso el ABI suele colocarse en la misma operación en la que se extirpa el tumor.",
+    {
+     "yazi": "En pacientes seleccionados con NF2 en los que puede preservarse el nervio coclear, el implante coclear también puede ser una opción; decide el equipo."
+    }
+   ]
+  },
+  {
+   "id": "tumor_disi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "¿Para quién es?",
+   "baslik": "Indicaciones *no tumorales*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Aplasia del nervio",
+     "cumle": 0,
+     "metin": "Sin nervio coclear"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Sin cóclea",
+     "cumle": 2,
+     "metin": "Michel, aplasia coclear"
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Osificación",
+     "cumle": 3,
+     "metin": "Tras una meningitis"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Trauma",
+     "cumle": 4,
+     "metin": "Avulsión del nervio"
+    }
+   ],
+   "cumleler": [
+    "En los niños, la indicación no tumoral más frecuente es la aplasia del nervio coclear, en la que el nervio coclear nunca se desarrolló.",
+    "Cuando el nervio es muy delgado y el cuadro no es claro, algunos centros prueban primero un implante coclear y consideran el ABI si no alcanza.",
+    "En la aplasia de Michel, el otocisto rudimentario y la aplasia coclear, vistos en una lección anterior, no hay cóclea; por eso la opción es el ABI.",
+    "La osificación completa de la cóclea tras una meningitis, que impide insertar cualquier electrodo, también es una indicación.",
+    "La avulsión del nervio coclear por una fractura del hueso temporal también puede considerarse para un ABI.",
+    "En todos estos cuadros, el diagnóstico se basa en la resonancia magnética, o RM, y la TC, junto con los hallazgos audiológicos y electrofisiológicos.",
+    "La decisión la toma un equipo con experiencia, después de explicar en detalle a la familia los resultados esperables."
+   ]
+  },
+  {
+   "id": "degerlendirme",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "¿Para quién es?",
+   "baslik": "Evaluación *antes del ABI*",
+   "adimlar": [
+    {
+     "ikon": "rapor",
+     "baslik": "Imágenes",
+     "cumle": 0,
+     "metin": "Cóclea y nervio"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Pruebas auditivas",
+     "cumle": 1,
+     "metin": "Prueba con audífonos"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Electrofisiología",
+     "cumle": 2,
+     "metin": "¿Hay alguna respuesta?"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Familia y equipo",
+     "cumle": 4,
+     "metin": "Expectativas y decisión"
+    }
+   ],
+   "cumleler": [
+    "La evaluación comienza con una RM y una TC detalladas que muestran el estado de la cóclea y del nervio coclear.",
+    "Las pruebas auditivas conductuales y una prueba adecuada con audífonos muestran si existe alguna audición residual.",
+    "Las pruebas electrofisiológicas aportan información adicional sobre si parte de la vía auditiva puede estimularse.",
+    "También se evalúan el desarrollo general del niño, las discapacidades asociadas y la capacidad de la familia para sostener la rehabilitación.",
+    "Todos los hallazgos se discuten en un equipo de neurocirujano, otólogo, audiólogo, radiólogo y fonoaudiólogo.",
+    "Se le explica con claridad a la familia que el ABI busca un resultado diferente, y por lo general más limitado, que el implante coclear."
+   ]
+  },
+  {
+   "id": "yerlesim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cirugía y colocación",
+   "baslik": "¿*Dónde* va el electrodo?",
+   "cizim": "beyin_sapi_implanti",
+   "etiketler": [
+    {
+     "parca": "koklear_nukleus",
+     "metin": "electrodo aquí",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "complejo olivar superior",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La cirugía del ABI requiere experiencia en neurocirugía y en cirugía otológica, y los dos equipos suelen trabajar juntos.",
+    "El portaelectrodos se avanza hasta el receso lateral del cuarto ventrículo y se apoya sobre la superficie del núcleo coclear.",
+    "El portaelectrodos es una paleta pequeña y plana; según el fabricante, tiene entre doce y veintiún electrodos aproximadamente.",
+    "Como el núcleo coclear no puede verse por completo, se usan reparos anatómicos para encontrar la posición correcta.",
+    "Durante la cirugía se registran los potenciales evocados auditivos de tronco cerebral eléctricos, o EABR, para ver si la vía auditiva se estimula.",
+    "Si es necesario, el portaelectrodos se desplaza en pequeños pasos hasta obtener la mejor respuesta.",
+    "El receptor-estimulador y la unidad externa se parecen a los del implante coclear; la diferencia clave es la posición y la forma del electrodo."
+   ],
+   "ayar": {
+    "elektrot_cumle": 1,
+    "ust_yollar_cumle": 4
+   }
+  },
+  {
+   "id": "aktivasyon",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Programación",
+   "baslik": "*Activación inicial* del ABI",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Supervisión",
+     "cumle": 0,
+     "metin": "Con monitoreo médico"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Un electrodo a la vez",
+     "cumle": 2,
+     "metin": "¿Hay alguna sensación?"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Efecto adverso",
+     "cumle": 3,
+     "metin": "Electrodo desactivado"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Orden tonal",
+     "cumle": 4,
+     "metin": "Propio de cada persona"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Mapa",
+     "cumle": 5,
+     "metin": "Con los electrodos restantes"
+    }
+   ],
+   "cumleler": [
+    "La activación inicial suele hacerse en un entorno hospitalario, con monitoreo del ritmo cardíaco y de los signos vitales.",
+    "El motivo es que la estimulación en el tronco cerebral también puede afectar otras estructuras nerviosas cercanas.",
+    "Cada electrodo se estimula uno por uno, empezando a un nivel bajo, y se pregunta a la persona si percibe alguna sensación auditiva.",
+    "Los electrodos que causan sensaciones no auditivas se desactivan; algunos electrodos pueden no producir ninguna sensación.",
+    "El orden tonal de los electrodos que dan sensación auditiva se establece uno por uno; a diferencia del implante coclear, este orden no es regular.",
+    "El mapa se construye con los electrodos que dan sensación auditiva, siguiendo su orden tonal.",
+    "Como pueden usarse menos electrodos y los niveles varían, la programación es un proceso más largo que requiere paciencia."
+   ]
+  },
+  {
+   "id": "yan_etki",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Programación",
+   "baslik": "*Sensaciones* no auditivas",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Hormigueo",
+     "cumle": 0,
+     "metin": "En el cuerpo o la cara"
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Mareo",
+     "cumle": 1,
+     "metin": "Vías del equilibrio"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Visión",
+     "cumle": 2,
+     "metin": "Temblor de la imagen"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Garganta",
+     "cumle": 3,
+     "metin": "Opresión, tos"
+    }
+   ],
+   "cumleler": [
+    "La sensación no auditiva descrita con más frecuencia es un hormigueo en alguna parte del cuerpo o en la cara.",
+    "El mareo o la sensación de balanceo sugieren que se están estimulando las vías del equilibrio.",
+    "Algunas personas describen que la imagen tiembla o un movimiento en los ojos.",
+    "También se han descrito sensaciones como opresión en la garganta o ganas de toser.",
+    "Estas sensaciones suelen cesar al detener la estimulación; se resuelven desactivando ese electrodo o cambiando el patrón de estimulación.",
+    "En los niños que no pueden hablar, se observan con atención la expresión facial, los movimientos oculares y la conducta para detectar estas sensaciones."
+   ]
+  },
+  {
+   "id": "sonuclar",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 5",
+   "bolum": "Resultados",
+   "baslik": "Con y *sin* tumores",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 2.5,
+     "ad": "",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "NF2 (tumor)",
+      "2": "nontumor adults",
+      "1": "NF2 (tumor)",
+      "2": "adultos sin tumor"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Habla en formato abierto, media (%)"
+    },
+    "seriler": [
+     {
+      "ad": "tumor",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        10
+       ]
+      ],
+      "renk": "gri",
+      "cumle": 2
+     },
+     {
+      "ad": "tumorsuz",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        59
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "tumorsuz",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Los resultados con el ABI suelen ser más limitados y más variables que con el implante coclear.",
+    {
+     "yazi": "En la mayoría de los pacientes con NF2, el ABI permite percibir los sonidos del entorno y apoya la lectura labial."
+    },
+    {
+     "yazi": "En el estudio de Colletti y colaboradores de 2009, el reconocimiento medio del habla en formato abierto en pacientes con NF2 rondó el diez por ciento."
+    },
+    "En el mismo estudio, la media en adultos sin tumores fue de alrededor del cincuenta y nueve por ciento, y algunos podían usar el teléfono.",
+    {
+     "yazi": "Esta diferencia se explica porque, en la NF2, el tumor y la cirugía también pueden dañar el núcleo coclear."
+    },
+    "Los valores del gráfico son las medias de un solo centro; en otras series los resultados pueden ser distintos.",
+    {
+     "yazi": "Una pequeña parte de los pacientes con NF2 también puede lograr comprensión del habla en formato abierto; por eso el resultado se valora en cada persona."
+    }
+   ]
+  },
+  {
+   "id": "cocuk",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Resultados",
+   "baslik": "ABI en niños: *expectativas*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Percepción del sonido",
+     "cumle": 0,
+     "metin": "En la mayoría de los niños"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Percepción del habla",
+     "cumle": 1,
+     "metin": "Se desarrolla en algunos"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Edad temprana",
+     "cumle": 2,
+     "metin": "Mejores resultados"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Entrenamiento largo",
+     "cumle": 4,
+     "metin": "Familia y terapeuta"
+    }
+   ],
+   "cumleler": [
+    "La mayoría de los niños con ABI logran percibir el sonido y advierten los sonidos del entorno.",
+    "Algunos desarrollan percepción del habla en formato cerrado y abierto y lenguaje oral; pero avanzan más lento que los niños con implante coclear.",
+    "El implante temprano y la ausencia de discapacidades asociadas suelen relacionarse con mejores resultados.",
+    "Algunos niños pueden necesitar que la comunicación continúe con lengua de señas o apoyo visual.",
+    "La rehabilitación auditiva intensiva y a largo plazo es parte integral del ABI; la familia está en el centro de este proceso.",
+    "Antes de la cirugía, se le explica con claridad a la familia que los resultados posibles abarcan un rango muy amplio."
+   ]
+  },
+  {
+   "id": "rehab",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Resultados",
+   "baslik": "*Rehabilitación* tras el ABI",
+   "maddeler": [
+    {
+     "metin": "Empezar por la percepción del sonido",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Escucha junto con lectura labial",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Sesiones breves, frecuentes y regulares",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Metas personales y alcanzables",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "METAS",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "Sonidos del entorno",
+      "cumle": 4,
+      "metin": "Puerta, teléfono, nombre"
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Lectura labial",
+      "cumle": 5,
+      "metin": "Comprensión más fácil"
+     }
+    ]
+   },
+   "cumleler": [
+    "La rehabilitación tras el ABI parte del escalón más bajo de las habilidades auditivas, es decir, detectar la presencia de sonidos.",
+    "En adultos, la escucha suele practicarse junto con la lectura labial, porque el beneficio más frecuente del ABI es facilitar la lectura labial.",
+    "Luego vienen los ejercicios de discriminación e identificación de sonidos; estos pasos pueden llevar meses y años.",
+    "Las sesiones breves, frecuentes y regulares son más eficaces que las largas pero espaciadas.",
+    "Las metas se fijan para cada persona: oír que golpean la puerta, el teléfono o el propio nombre son logros significativos.",
+    "La mejora en la lectura labial también se mide, se sigue y se comparte con la persona."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "En cada consulta, registren en una tabla qué electrodos del usuario de ABI dan sensaciones auditivas y cuáles no auditivas. Puede haber cambios; vuelvan a probar los desactivados.",
+   "cumleler": [
+    "Un consejo de la clínica: en cada consulta, registren qué electrodos dan sensaciones auditivas y cuáles no auditivas en el usuario de ABI.",
+    "La sensación que da un electrodo puede cambiar con el tiempo; un electrodo desactivado antes puede dar luego una sensación auditiva.",
+    "Por eso, vuelvan a probar a intervalos fijos los electrodos desactivados, empezando a un nivel bajo.",
+    "Valoren el progreso no solo con pruebas de habla, sino con metas adecuadas a la persona, como la percepción del sonido y la ayuda en la lectura labial."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "ABI: estimula el núcleo coclear",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "NF2 e indicaciones no tumorales",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Se desactivan electrodos con efectos adversos",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Resultados limitados y variables",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "El implante auditivo de tronco cerebral evita la cóclea y el nervio auditivo y estimula directamente el núcleo coclear en el tronco cerebral.",
+    {
+     "yazi": "La indicación clásica es la NF2; la aplasia del nervio coclear, la ausencia de cóclea, la osificación grave y el trauma son indicaciones no tumorales."
+    },
+    "En la programación, cada electrodo se prueba por separado; los que dan sensaciones no auditivas se desactivan y el orden tonal se fija para cada persona.",
+    {
+     "yazi": "Los resultados son más limitados y variables que con el implante coclear; en pacientes sin tumor suelen ser mejores que en la NF2."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué opción hay si no existe nervio coclear?",
+   "secenekler": [
+    "Audífono potente",
+    "Implante de vía ósea",
+    "Implante auditivo de tronco cerebral",
+    "Implante de oído medio"
+   ],
+   "dogru": 2,
+   "aciklama": "Sin nervio, la estimulación va directamente al _núcleo coclear_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en un niño con aplasia del nervio coclear, ¿qué opción podría considerarse en lugar de un implante coclear?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: el implante auditivo de tronco cerebral.",
+    "Sin nervio coclear, los electrodos de la cóclea no tienen nada que estimular; el ABI estimula directamente el núcleo coclear."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Implantes de vía ósea: *percutáneos* y transcutáneos",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos los implantes de vía ósea, es decir, los sistemas que atraviesan la piel y los que quedan debajo de ella.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

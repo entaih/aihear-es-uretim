@@ -1,0 +1,635 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D176_School_Age_Hearing_Screening_ES",
+ "kapak": {
+  "ust": "LECCIÓN 176",
+  "baslik": "Tamizaje auditivo<br>en la *edad escolar*",
+  "alt": "Tonos puros, timpanometría, derivación",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Tamizaje auditivo en la edad escolar | Lección 176 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Por qué y cómo se tamiza la audición de los niños en edad escolar? En esta lección vemos el programa de tamizaje de primer grado en Turquía, el protocolo de tamizaje con tonos puros a 20 dB HL, el papel de la timpanometría y los criterios de repetición y derivación.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: American Academy of Audiology, Childhood Hearing Screening Guidelines (2011); American Speech-Language-Hearing Association, Guidelines for Audiologic Screening (1997); Republic of Türkiye Ministry of Health, School-Age Children Hearing Screening Program; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "tamizajeescolar",
+   "audicion"
+  ],
+  "etiketler": [
+   "tamizaje auditivo escolar",
+   "tamizaje auditivo en la edad escolar",
+   "tamizaje con tonos puros",
+   "repetición del tamizaje",
+   "timpanometría",
+   "20 dB HL",
+   "tamizaje auditivo infantil",
+   "audiología pediátrica",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 176",
+   "baslik": "Tamizaje auditivo en la *edad escolar*",
+   "alt": "Tamizaje con tonos puros, timpanometría y derivación",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos por qué se hace el tamizaje auditivo en niños en edad escolar y cómo se lleva a cabo.",
+    "Paso a paso veremos el nivel del tamizaje con tonos puros, el papel de la timpanometría y los criterios de repetición y derivación."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué en la escuela?",
+   "baslik": "¿Por qué tamizar *en la escuela*?",
+   "maddeler": [
+    {
+     "metin": "Pérdidas de inicio tardío y progresivas",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Pérdidas leves y unilaterales",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Líquido frecuente en el oído medio",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Cambios tempranos relacionados con el ruido",
+     "cumle": 5,
+     "ikon": "muzik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Recién nacido",
+      "cumle": 0,
+      "metin": "Tamizaje hecho"
+     },
+     {
+      "ikon": "okul",
+      "baslik": "Edad escolar",
+      "cumle": 2,
+      "metin": "Pérdidas nuevas y leves"
+     },
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "Oído medio",
+      "cumle": 3,
+      "metin": "Pérdidas transitorias"
+     }
+    ],
+    "ust": "UNA SEGUNDA OPORTUNIDAD"
+   },
+   "cumleler": [
+    "Incluso en un niño que pasó el tamizaje neonatal, una pérdida puede empezar más tarde o progresar.",
+    "Algunas de estas pérdidas pasan inadvertidas hasta que el niño empieza la escuela.",
+    "Las pérdidas leves y unilaterales se pasan por alto con facilidad en niños que entienden bien el habla en un ambiente silencioso.",
+    "En los años preescolares y en los primeros años escolares es frecuente el líquido en el oído medio, u otitis media con efusión.",
+    "Este líquido suele ser transitorio, pero cuando dura mucho puede afectar la escucha y el aprendizaje en clase.",
+    "En niños mayores y adolescentes también pueden aparecer cambios en las frecuencias agudas relacionados con el ruido.",
+    "El tamizaje escolar busca detectar estas pérdidas, que docentes y familias no notan, antes de que crezcan sus efectos en clase."
+   ]
+  },
+  {
+   "id": "turkiye",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué en la escuela?",
+   "baslik": "*Tamizaje escolar* en Turquía",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "Ministerio de Salud",
+     "cumle": 0,
+     "metin": "Con el Ministerio de Educación"
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Primer grado",
+     "cumle": 1,
+     "metin": "Al inicio de la primaria"
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Equipo de tamizaje",
+     "cumle": 2,
+     "metin": "Personal de salud capacitado"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Consentimiento de los padres",
+     "cumle": 4,
+     "metin": "Nota informativa y cuestionario"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En Turquía, el Ministerio de Salud realiza desde 2016 el tamizaje auditivo en la edad escolar junto con el Ministerio de Educación Nacional."
+    },
+    "El programa abarca a los alumnos de primer grado de primaria de escuelas públicas y privadas.",
+    "El tamizaje lo hace en la escuela personal de salud capacitado, con un equipo portátil y un enfoque basado en el juego.",
+    "El protocolo detallado, el nivel de tamizaje y las reglas de derivación del programa figuran en los documentos vigentes del Ministerio.",
+    "Antes del tamizaje, los padres reciben una nota informativa, dan su consentimiento y llenan un breve cuestionario sobre la audición del niño.",
+    "En esta lección nos basaremos en los principios comunes de las guías internacionales."
+   ]
+  },
+  {
+   "id": "siniflar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué en la escuela?",
+   "baslik": "¿A qué *edades*?",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Preescolar",
+     "cumle": 1,
+     "metin": "Se agrega timpanometría"
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Primeros grados",
+     "cumle": 2,
+     "metin": "Período de tamizaje frecuente"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Grados intermedios",
+     "cumle": 3,
+     "metin": "Tamizaje periódico"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Adolescencia",
+     "cumle": 5,
+     "metin": "Frecuencias agudas, ruido"
+    }
+   ],
+   "cumleler": [
+    "La guía de tamizaje infantil de 2011 de la Academia Estadounidense de Audiología también define los grados mínimos que deben tamizarse.",
+    "El preescolar, el jardín de infantes y el primer grado encabezan esta lista; a estas edades los problemas del oído medio son más frecuentes.",
+    "La guía también recomienda tamizar en grados posteriores de la primaria, por ejemplo en tercero y en quinto.",
+    "Se recomienda al menos un tamizaje más en los primeros o en los últimos años de la secundaria.",
+    "Estos grados son el mínimo; los programas pueden tamizar con más frecuencia según sus recursos.",
+    "En los alumnos mayores también se recomienda tamizar las frecuencias agudas cuando el tamizaje se combina con educación en conservación auditiva.",
+    "Todo niño cuyo docente o familia tenga una preocupación se evalúa, independientemente del calendario de tamizaje."
+   ]
+  },
+  {
+   "id": "saf_ses",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tamizaje con tonos puros",
+   "baslik": "Tamizaje con *tonos puros*",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "cihaz",
+     "metin": "audiómetro de tamizaje",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "auriculares supraaurales",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    },
+    {
+     "parca": "cihaz",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "1000, 2000, 4000 Hz",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Un solo nivel: 20 dB HL",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Un tono sin respuesta: no pasa",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "En la edad escolar, el método central es el tamizaje con tonos puros; las guías lo recomiendan desde los tres años, aproximadamente.",
+    "Con un audiómetro de tamizaje y auriculares supraaurales se evalúan mil, dos mil y cuatro mil hertz en cada oído.",
+    {
+     "yazi": "En las guías de la Asociación Estadounidense del Habla, Lenguaje y Audición (ASHA) y de la Academia Estadounidense de Audiología, el nivel es de veinte dB HL."
+    },
+    "El tamizaje no busca un umbral; comprueba si el niño oye el sonido a este único nivel.",
+    "Si el niño no responde, el mismo tono puede presentarse de nuevo hasta cuatro veces.",
+    "Si no hay respuesta en alguna frecuencia de cualquiera de los oídos, el resultado se registra como no pasa.",
+    "En niños pequeños, las respuestas de juego, como echar un bloque en una caja al oír el sonido, son más confiables que levantar la mano."
+   ]
+  },
+  {
+   "id": "duzey",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tamizaje con tonos puros",
+   "baslik": "¿Qué detecta el *nivel* de tamizaje?",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: pasa al nivel de tamizaje",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: no pasa en 4000 Hz",
+     "cumle": 3
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Límite de tamizaje de 20 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15,
+       10
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       10,
+       15,
+       35,
+       25
+      ],
+      "cumle": 3
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 20,
+     "etiket": "Tamizaje",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Veamos qué detecta el nivel de tamizaje en este audiograma de ejemplo; la zona verde llega hasta veinte decibeles HL."
+    },
+    "Los umbrales del oído derecho están dentro de la zona verde en todas las frecuencias evaluadas, es decir, son mejores que el nivel de tamizaje.",
+    {
+     "yazi": "Este oído oye los tonos de veinte decibeles HL y pasa el tamizaje."
+    },
+    {
+     "yazi": "En el oído izquierdo, en cambio, hay un umbral de treinta y cinco decibeles HL en cuatro mil hertz."
+    },
+    {
+     "yazi": "Este niño no oirá el tono de veinte decibeles HL en cuatro mil hertz y, por lo tanto, no pasa el tamizaje."
+    },
+    {
+     "yazi": "Algunos programas usan veinticinco decibeles HL por el ruido ambiental, pero veinte decibeles HL detecta mejor las pérdidas leves y de frecuencias agudas."
+    },
+    "Recuerden que en el tamizaje no conocemos estos umbrales; este audiograma es un ejemplo hecho solo para mostrar la lógica."
+   ]
+  },
+  {
+   "id": "bes_yuz",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tamizaje con tonos puros",
+   "baslik": "¿Por qué no *500 Hz*?",
+   "maddeler": [
+    {
+     "metin": "El ruido ambiental enmascara 500 Hz",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Detecta mal el líquido del oído medio",
+     "cumle": 2,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "La timpanometría lo hace mejor",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Control biológico diario",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "gurultu",
+      "baslik": "Ruido del aula",
+      "cumle": 0,
+      "metin": "Enmascara las frecuencias graves"
+     },
+     {
+      "ikon": "timpanometre_prob",
+      "baslik": "Timpanometría",
+      "cumle": 3,
+      "metin": "Para el oído medio"
+     }
+    ],
+    "ust": "500 HZ"
+   },
+   "cumleler": [
+    "Las escuelas no son cabinas sonoamortiguadas; el ruido del aula y de los pasillos enmascara sobre todo las frecuencias graves.",
+    "Por eso, la falta de respuesta en quinientos hertz puede deberse al ruido ambiental y no a una pérdida auditiva.",
+    {
+     "yazi": "Antes se agregaba quinientos hertz al tamizaje para detectar líquido en el oído medio, pero resultó poco confiable para ese fin."
+    },
+    {
+     "yazi": "En 1997, la ASHA retiró quinientos hertz de sus recomendaciones; la timpanometría es una herramienta mejor para el estado del oído medio."
+    },
+    "Los programas pueden agregar quinientos hertz según sus condiciones; en ese caso, una sala silenciosa es especialmente importante.",
+    "Cada día de tamizaje empieza con un control biológico que muestra que el equipo y los auriculares funcionan."
+   ]
+  },
+  {
+   "id": "timp",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Timpanometría",
+   "baslik": "*Junto* con la timpanometría",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 2
+     },
+     {
+      "tip": "B",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Preescolar y primeros grados",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Ancho mayor de 250 daPa: no pasa",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "No solo por presión negativa",
+     "cumle": 6,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El tamizaje con tonos puros puede pasar por alto algunos problemas del oído medio, porque el líquido no siempre causa una pérdida mayor de veinte decibeles."
+    },
+    "Por eso, las guías recomiendan agregar la timpanometría a los tonos puros, sobre todo en preescolar, jardín de infantes y primer grado.",
+    "En un oído medio sano, el timpanograma muestra un pico claro; esto se llama tipo A.",
+    "Cuando el oído medio está lleno de líquido, la curva se aplana; esta curva plana se llama tipo B.",
+    {
+     "yazi": "La guía de la Academia Estadounidense de Audiología recomienda como criterio de no pasa un ancho timpanométrico mayor de doscientos cincuenta decapascales."
+    },
+    {
+     "yazi": "Si el equipo no informa el ancho, puede usarse como segunda opción una admitancia estática menor de unos cero coma dos mmho."
+    },
+    "Según la guía, la presión negativa por sí sola no es motivo de derivación.",
+    "La timpanometría también se usa como prueba de segunda etapa en un niño que no pasó el tamizaje con tonos puros."
+   ]
+  },
+  {
+   "id": "yonlendirme",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Repetición",
+   "baslik": "*Después* de un no pasa",
+   "adimlar": [
+    {
+     "ikon": "uyari",
+     "baslik": "No pasa en tonos puros",
+     "cumle": 0,
+     "metin": "Repetir de inmediato"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometría",
+     "cumle": 2,
+     "metin": "Segunda etapa"
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Timpanograma normal",
+     "cumle": 3,
+     "metin": "Derivar a audiología"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "No pasa en ambas",
+     "cumle": 5,
+     "metin": "A las 8 a 10 semanas"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "No pasa de nuevo",
+     "cumle": 7,
+     "metin": "Evaluación médica y audiológica"
+    }
+   ],
+   "cumleler": [
+    "Un niño que no pasó el tamizaje con tonos puros se vuelve a tamizar de inmediato, recolocando los auriculares y repitiendo las instrucciones.",
+    "A menudo, la razón de no pasar es un auricular mal colocado o no haber entendido las instrucciones.",
+    "Al niño que tampoco pasa la repetición se le hace una timpanometría.",
+    "Si no pasa los tonos puros pero el timpanograma es normal, la pérdida puede ser neurosensorial; el niño va a audiología sin esperar.",
+    "La guía subraya claramente que estos niños no deben esperar un nuevo tamizaje.",
+    {
+     "yazi": "Un niño que no pasó ni los tonos puros ni la timpanometría se vuelve a tamizar entre ocho y diez semanas después."
+    },
+    "Esto se debe a que el líquido en el oído medio a menudo se resuelve solo en ese tiempo.",
+    "Un niño que tampoco pasa este segundo tamizaje se deriva a evaluación médica y audiológica.",
+    "Los programas pueden usar un protocolo de repetición y derivación más intensivo, según sus recursos."
+   ]
+  },
+  {
+   "id": "dogru",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Repetición",
+   "baslik": "*Para* un tamizaje confiable",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Control diario",
+     "cumle": 0,
+     "metin": "Control biológico y calibración"
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Sala silenciosa",
+     "cumle": 1,
+     "metin": "Lejos del ruido"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Instrucciones claras",
+     "cumle": 2,
+     "metin": "Primero un tono de práctica"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Pistas involuntarias",
+     "cumle": 3,
+     "metin": "Sin ritmo ni miradas"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registros",
+     "cumle": 5,
+     "metin": "Por oído y frecuencia"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Información a la familia",
+     "cumle": 6,
+     "metin": "Resultado y siguiente paso"
+    }
+   ],
+   "cumleler": [
+    "El día de tamizaje empieza con un control biológico del equipo; su calibración anual también debe estar al día.",
+    "Para el tamizaje se elige la sala más silenciosa de la escuela; si es posible, puertas y ventanas se mantienen cerradas.",
+    "Primero se le enseña al niño cómo responder, con un tono de práctica audible.",
+    "Presentar los tonos con un ritmo regular, o mirar al niño mientras se presenta un tono, hace que las respuestas sean predecibles.",
+    "Por eso, los intervalos entre tonos se varían y el niño se sienta de modo que no vea los controles del equipo.",
+    "El resultado se registra por separado para cada oído y cada frecuencia.",
+    "Se informa por escrito a la familia el resultado y el siguiente paso, y se verifica que la derivación se complete."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si un niño no pasa, revisen primero la colocación de los auriculares, el conducto auditivo y las instrucciones. Pero no busquen excusas para descartar el resultado.",
+   "cumleler": [
+    "Un consejo de la práctica: ante un niño que no pasó, revisen primero las causas simples.",
+    "Comprueben si el auricular cubre bien la oreja y si el cabello o una patilla de los anteojos estorban.",
+    "Expliquen las instrucciones de nuevo con palabras más sencillas, o mediante el juego.",
+    "Pero si el niño sigue sin pasar después de estas revisiones, no intenten justificarlo como timidez o distracción.",
+    "El protocolo existe precisamente para estos niños; la decisión de derivar se toma según el protocolo."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "El tamizaje escolar halla pérdidas nuevas y leves",
+     "cumle": 0,
+     "ikon": "okul"
+    },
+    {
+     "metin": "1000, 2000, 4000 Hz a 20 dB HL",
+     "cumle": 1,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Timpanometría en edades tempranas",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Timpanograma normal: derivar sin esperar",
+     "cumle": 3,
+     "ikon": "odyolog"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que el tamizaje escolar busca detectar pérdidas nuevas, progresivas, leves y unilaterales.",
+    {
+     "yazi": "En el tamizaje con tonos puros se evalúan mil, dos mil y cuatro mil hertz en cada oído a veinte decibeles HL."
+    },
+    "En preescolar y en los primeros grados también se agrega la timpanometría, que se usa como segunda etapa en los niños que no pasan.",
+    "Un niño que no pasó los tonos puros pero tiene un timpanograma normal se deriva a evaluación audiológica sin esperar un nuevo tamizaje."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "No pasa en tonos puros; timpanograma normal. ¿Siguiente paso?",
+   "secenekler": [
+    "Esperar 8 a 10 semanas",
+    "Derivar a evaluación audiológica",
+    "Ignorar el resultado",
+    "Agregar solo 500 Hz"
+   ],
+   "dogru": 1,
+   "aciklama": "Si el oído medio es normal, la pérdida puede ser _neurosensorial_; no se espera.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: un niño no pasó la repetición del tamizaje con tonos puros y su timpanograma es normal. ¿Cuál es el siguiente paso?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: derivar a evaluación audiológica.",
+    "Como el oído medio es normal, la pérdida puede ser neurosensorial; estos niños no esperan un nuevo tamizaje."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tamizaje auditivo en adultos y *adultos mayores*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos el tamizaje auditivo en adultos y adultos mayores, los cuestionarios y la prueba de dígitos en ruido.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}
