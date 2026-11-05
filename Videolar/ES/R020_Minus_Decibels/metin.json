@@ -1,0 +1,117 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R020_Minus_Decibels_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #20",
+  "baslik": "Oír en decibeles *negativos*",
+  "alt": "Cero dB HL es un promedio",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      0,
+      -5,
+      -5,
+      -10,
+      0,
+      5
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      5,
+      0,
+      -5,
+      -5,
+      5,
+      10
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Se puede oír un sonido en decibeles negativos? #shorts",
+  "aciklama": "Cero dB HL es el umbral promedio de adultos jóvenes con audición normal. Por eso, algunas personas tienen umbrales de menos 5 o menos 10 dB HL, lo que indica que son un poco más sensibles que el promedio. El audiograma que se muestra es un ejemplo.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "decibeles",
+   "audiograma"
+  ],
+  "etiketler": [
+   "dB HL",
+   "decibeles negativos",
+   "umbral auditivo",
+   "audiograma",
+   "decibel",
+   "prueba de audición",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Se puede oír un sonido en decibeles negativos?",
+  "bilgiler": [
+   "Cero dB HL es el umbral promedio de adultos jóvenes con audición normal.",
+   "Por eso, algunos umbrales pueden ser de menos 5 o menos 10 dB HL.",
+   "Un valor negativo indica una sensibilidad algo mejor que el promedio."
+  ],
+  "hashtag": [
+   "audiologia",
+   "decibeles",
+   "audiograma"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #20",
+   "metin": "¿Se puede oír *en decibeles negativos?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Se puede oír un sonido en decibeles negativos?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Algunos umbrales: *menos diez* dB HL",
+   "sayi": "-10",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Cero dB HL es el umbral promedio de adultos jóvenes con audición normal.",
+    "Como el cero es un promedio, algunos umbrales pueden ser de menos diez.",
+    "Un valor negativo no significa que no haya sonido.",
+    "Indica que la persona es un poco más sensible que el promedio."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D038",
+ "kaynak_baslik": "dB SPL, dB HL y dB SL: cuándo usar cada uno"
+}

@@ -1,0 +1,777 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D071_Ossicular_Discontinuity_ES",
+ "kapak": {
+  "ust": "LECCIÓN 71",
+  "baslik": "Disrupción<br>*osicular*",
+  "alt": "Trauma del oído medio",
+  "cizim": "kemikcikler",
+  "vurgula": [
+   "incudostapedial_eklem"
+  ]
+ },
+ "youtube": {
+  "baslik": "Disrupción osicular y trauma del oído medio | Lección 71 | AIHEAR Academia de Audiología",
+  "aciklama": "En esta lección estudiamos la disrupción de la cadena osicular y el trauma del oído medio: la separación de la articulación incudoestapedial, la brecha aéreo-ósea grande, el timpanograma tipo Ad y los hallazgos del reflejo acústico. También vemos el barotrauma, el hemotímpano, las fracturas del hueso temporal y el seguimiento después del trauma.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Jerger J (1970), Clinical experience with impedance audiometry, Archives of Otolaryngology; Cummings Otolaryngology Head and Neck Surgery.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "oidomedio",
+   "timpanometria"
+  ],
+  "etiketler": [
+   "disrupción osicular",
+   "cadena osicular",
+   "articulación incudoestapedial",
+   "timpanograma tipo Ad",
+   "barotrauma",
+   "hemotímpano",
+   "fractura del hueso temporal",
+   "brecha aéreo-ósea",
+   "osiculoplastia",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 71",
+   "baslik": "*Disrupción* osicular y trauma",
+   "alt": "Disrupción de la cadena osicular y trauma del oído medio",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos las condiciones en las que la cadena osicular pierde su continuidad y las lesiones del oído medio.",
+    "Interpretaremos juntos los hallazgos del audiograma, el timpanograma y el reflejo acústico, y veremos también el barotrauma y el hemotímpano."
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Disrupción osicular",
+   "baslik": "La *cadena* osicular",
+   "cizim": "kemikcikler",
+   "ayar": {
+    "adlar": true
+   },
+   "yakinlastir": [
+    {
+     "parca": "incudostapedial_eklem",
+     "cumle": 3,
+     "olcek": 2.2
+    },
+    {
+     "parca": "incus",
+     "cumle": 4,
+     "olcek": 1.7
+    },
+    {
+     "parca": "incus_uzun_kol",
+     "cumle": 5,
+     "olcek": 2.0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "incudomalleolar_eklem",
+     "cumle": 1
+    },
+    {
+     "parca": "incudostapedial_eklem",
+     "cumle": 3
+    },
+    {
+     "parca": "incus",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "incudomalleolar_eklem",
+     "metin": "articulación incudomaleolar",
+     "cumle": 1
+    },
+    {
+     "parca": "incudostapedial_eklem",
+     "metin": "articulación incudoestapedial",
+     "cumle": 1
+    },
+    {
+     "parca": "incus_uzun_kol",
+     "metin": "apófisis larga del yunque",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Lo más frecuente: separación _incudoestapedial_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Yunque: el hueso menos _sostenido_",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Inflamación crónica: erosión de la _apófisis larga_",
+     "cumle": 5,
+     "ikon": "enfeksiyon"
+    }
+   ],
+   "cumleler": [
+    "La cadena osicular está formada por el martillo, el yunque y el estribo, unidos por dos articulaciones.",
+    "La articulación incudomaleolar está entre el martillo y el yunque, y la incudoestapedial entre el yunque y el estribo.",
+    "La disrupción osicular es una pérdida de continuidad en cualquier punto de esta cadena.",
+    "La forma más frecuente es la separación de la articulación incudoestapedial.",
+    "El yunque cuelga entre dos articulaciones y es el menos sostenido por ligamentos; por eso es el huesecillo que más fácilmente se luxa en un trauma.",
+    "En la inflamación crónica, la delgada apófisis larga del yunque puede erosionarse e interrumpir la cadena."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Disrupción osicular",
+   "baslik": "Causas de *disrupción*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Traumatismo craneal",
+     "cumle": 1,
+     "metin": "Fractura del hueso temporal"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Objeto penetrante",
+     "cumle": 2,
+     "metin": "Hisopo, horquilla"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Otitis crónica",
+     "cumle": 3,
+     "metin": "Erosión ósea"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Explosión, presión",
+     "cumle": 4,
+     "metin": "Onda de presión súbita"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Congénita",
+     "cumle": 5,
+     "metin": "Anomalía del desarrollo"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Tras la cirugía",
+     "cumle": 5,
+     "metin": "Prótesis desplazada"
+    }
+   ],
+   "cumleler": [
+    "Las causas de la disrupción osicular pueden agruparse en trauma y enfermedad.",
+    "En un traumatismo craneal, sobre todo con fractura del hueso temporal, el yunque puede luxarse.",
+    "Un objeto que entra en el conducto, como un hisopo o una horquilla, puede perforar el tímpano y dañar directamente la cadena.",
+    "La otitis media crónica y el colesteatoma pueden interrumpir la cadena al erosionar el hueso.",
+    "Una explosión cercana o una onda de presión súbita también pueden afectar la cadena junto con el tímpano.",
+    "Con menos frecuencia, las anomalías congénitas o una prótesis desplazada tras una cirugía de oído también causan disrupción."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos de las pruebas",
+   "baslik": "Ejemplo: disrupción *completa*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea 55 a 65 dB HL",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Derecho_: vía ósea enmascarada normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: normal",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       60,
+       60,
+       55,
+       55,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       5,
+       10,
+       5,
+       10,
+       15
+      ],
+      "cumle": 1,
+      "cizgi": false
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25
+    },
+    "aralik": {
+     "konum": [
+      2,
+      5,
+      55
+     ],
+     "etiket": "50 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, los umbrales por vía aérea derechos están entre cincuenta y cinco y sesenta y cinco decibeles HL, con una curva bastante plana.",
+    "La vía ósea enmascarada está dentro de los límites normales, así que la pérdida es conductiva.",
+    "La brecha aéreo-ósea es de unos cincuenta decibeles, una brecha grande entre las pérdidas conductivas.",
+    "Una interrupción completa de la cadena tras un tímpano intacto causa una de las mayores pérdidas conductivas; la brecha puede llegar a sesenta decibeles.",
+    "Esto se debe a que el tímpano intacto no transmite el sonido a los huesecillos y además impide en gran parte que llegue directo a las ventanas.",
+    "Si queda un tejido fibroso delgado entre los extremos interrumpidos, la brecha puede ser menor y a veces más marcada en las frecuencias altas."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos de las pruebas",
+   "baslik": "Timpanograma: tipo *Ad*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     },
+     {
+      "tip": "Ad",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Presión normal, pico _muy alto_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tímpano cicatricial: curva puede parecer _normal_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Ad + brecha grande: _cadena_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Cuando la cadena se interrumpe, la membrana timpánica queda libre de la carga de la cóclea y se mueve con mucha más facilidad de lo normal.",
+    {
+     "yazi": "Así, el timpanograma puede mostrar una presión del pico normal con una altura del pico claramente aumentada; es una curva tipo Ad."
+    },
+    "Sin embargo, si el tímpano está engrosado o cicatrizado, la curva puede verse normal a pesar de la disrupción.",
+    {
+     "yazi": "A la inversa, un tímpano delgado o flácido puede producir por sí solo una curva tipo Ad con audición normal."
+    },
+    {
+     "yazi": "Por eso, una curva tipo Ad siempre se interpreta con el audiograma: si hay una brecha aéreo-ósea grande, piensa en una disrupción osicular."
+    }
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos de las pruebas",
+   "baslik": "¿Qué nos *dice* el reflejo acústico?",
+   "maddeler": [
+    {
+     "metin": "Sonda en oído afectado: _generalmente ausente_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Interrupción _lateral_ a la inserción del estapedio",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Fractura de supraestructura: _puede medirse_",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Estímulo en oído afectado: influye la _pérdida conductiva_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "akustik_refleks_arki",
+    "cumle": 0,
+    "ayar": {
+     "uyarilan": "sag"
+    },
+    "vurgula": [
+     {
+      "parca": "stapedius",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "stapedius",
+      "metin": "estapedio",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Con la sonda en el oído afectado, el reflejo acústico generalmente no puede medirse.",
+    "La interrupción suele estar lateral a la inserción del tendón del estapedio, por ejemplo en la articulación incudoestapedial.",
+    "El músculo estapedio puede contraerse, pero el movimiento no llega a la membrana timpánica, así que la sonda no mide ningún cambio.",
+    "Si la interrupción es medial a ese punto, por ejemplo en las ramas del estribo, a veces el reflejo puede medirse.",
+    "Cuando el estímulo se presenta en el oído afectado, la pérdida conductiva lo debilita, por lo que el reflejo puede estar elevado o ausente."
+   ]
+  },
+  {
+   "id": "uclu",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos de las pruebas",
+   "baslik": "Los hallazgos *en conjunto*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Brecha grande",
+     "cumle": 0,
+     "metin": "Pérdida conductiva plana y marcada"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Tipo Ad",
+     "cumle": 1,
+     "metin": "Tímpano hipermóvil"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Sin reflejo",
+     "cumle": 2,
+     "metin": "Sonda en el oído afectado"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia",
+     "cumle": 3,
+     "metin": "Tímpano a menudo intacto"
+    }
+   ],
+   "cumleler": [
+    "El cuadro que sugiere una disrupción osicular surge de la combinación de hallazgos, no de una sola prueba.",
+    "El audiograma muestra una brecha aéreo-ósea grande y a menudo plana.",
+    {
+     "yazi": "El timpanograma es tipo Ad y, con la sonda en el oído afectado, el reflejo acústico está ausente."
+    },
+    "En la otoscopia, el tímpano suele estar intacto; justo después del trauma puede verse sangre detrás de él.",
+    "La tomografía computarizada y la evaluación quirúrgica para un diagnóstico definitivo corresponden al médico."
+   ]
+  },
+  {
+   "id": "barotravma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Trauma del oído medio",
+   "baslik": "*Barotrauma*",
+   "maddeler": [
+    {
+     "metin": "Ocurre al _descender_ buceando o volando",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "La trompa _no logra igualar_ la presión",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Tímpano retraído, _líquido o sangre_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Dolor, plenitud, pérdida _conductiva_",
+     "cumle": 3,
+     "ikon": "agri"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "ostaki_borusu",
+      "cumle": 1
+     },
+     {
+      "parca": "timpanik_membran",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "ostaki_borusu",
+      "metin": "trompa de Eustaquio",
+      "cumle": 1
+     },
+     {
+      "parca": "timpanik_membran",
+      "metin": "tímpano retraído",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "El barotrauma se produce cuando la presión del oído medio no logra seguir un cambio rápido de la presión exterior.",
+    "Es más frecuente al bucear y cuando un avión desciende, si la trompa de Eustaquio no se abre para igualar la presión exterior creciente.",
+    "Se forma una presión negativa relativa; el tímpano se retrae, la mucosa se inflama, puede acumularse líquido o sangre y el tímpano puede romperse.",
+    "La persona siente dolor y plenitud en el oído; el audiograma suele mostrar una pérdida conductiva.",
+    "Un resfriado, las alergias o una disfunción conocida de la trompa de Eustaquio aumentan el riesgo.",
+    "El barotrauma también puede afectar el oído interno; ante una pérdida neurosensorial súbita, tinnitus o vértigo, la persona se deriva con urgencia."
+   ]
+  },
+  {
+   "id": "hemotimpanum",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Trauma del oído medio",
+   "baslik": "*Hemotímpano*",
+   "cizim": "kulak_zari_otoskopik",
+   "ayar": {
+    "kulak": "sag",
+    "patoloji": {
+     "tur": "hemotimpanum",
+     "cumle": 1
+    }
+   },
+   "etiketler": [
+    {
+     "parca": "hemotimpanum",
+     "metin": "sangre tras el tímpano: violáceo oscuro",
+     "cumle": 1
+    },
+    {
+     "parca": "manubrium",
+     "metin": "tímpano intacto, mango visible",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tímpano rojo oscuro, _azulado_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Fractura y _barotrauma_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "La sangre se reabsorbe, _la audición se recupera_",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "El hemotímpano es una acumulación de sangre en la cavidad del oído medio.",
+    "En la otoscopia se ve un color rojo oscuro, violáceo o azulado detrás de un tímpano intacto.",
+    "Sus causas más frecuentes son la fractura del hueso temporal y el barotrauma.",
+    "Al igual que el líquido, la sangre en el oído medio reduce el movimiento del tímpano y causa una pérdida conductiva; el timpanograma puede ser plano.",
+    "La sangre suele reabsorberse en pocas semanas y la audición se recupera; una pérdida que no se recupera sugiere un daño de la cadena."
+   ]
+  },
+  {
+   "id": "kirik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Trauma del oído medio",
+   "baslik": "*Fracturas* del hueso temporal",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Fractura longitudinal",
+     "cumle": 1,
+     "metin": "Más frecuente; pérdida conductiva"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Fractura transversal",
+     "cumle": 3,
+     "metin": "Menos frecuente; pérdida neurosensorial"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Sangrado del conducto",
+     "cumle": 2,
+     "metin": "Puede haber hemotímpano"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Parálisis facial",
+     "cumle": 4,
+     "metin": "Más frecuente en las transversales"
+    }
+   ],
+   "cumleler": [
+    "Las fracturas del hueso temporal se clasifican clásicamente según la dirección del trazo de fractura respecto del eje mayor del hueso.",
+    "Las fracturas longitudinales son más frecuentes y suelen afectar el oído medio, el tímpano y la cadena osicular.",
+    "En estas fracturas son frecuentes el sangrado del conducto auditivo, el hemotímpano y la pérdida conductiva.",
+    "Las fracturas transversales son más raras; pueden atravesar el oído interno y causar pérdida neurosensorial y vértigo.",
+    "La parálisis facial es más frecuente en las fracturas transversales.",
+    "Hoy también es común una clasificación basada en si la fractura compromete la cubierta ósea del oído interno, la cápsula ótica."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento y reparación",
+   "baslik": "*Seguimiento* tras el trauma",
+   "adimlar": [
+    {
+     "ikon": "hekim",
+     "baslik": "Examen médico",
+     "cumle": 0,
+     "metin": "Primera evaluación"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Primer audiograma",
+     "cumle": 1,
+     "metin": "Vía aérea y vía ósea"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Espera",
+     "cumle": 2,
+     "metin": "Se reabsorben sangre y líquido"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Audiograma de seguimiento",
+     "cumle": 3,
+     "metin": "¿Persiste la brecha?"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Estudios adicionales",
+     "cumle": 4,
+     "metin": "TC, decisión quirúrgica"
+    }
+   ],
+   "cumleler": [
+    "Tras un trauma del oído medio, la primera evaluación la realiza el médico.",
+    "En el primer audiograma, la vía ósea es especialmente importante; muestra si el oído interno está afectado.",
+    "El hemotímpano y el líquido suelen reabsorberse en pocas semanas, y la pérdida conductiva puede disminuir sola durante ese tiempo.",
+    "Cuando el tímpano ha cicatrizado y la sangre se ha reabsorbido, por lo general unas semanas después del trauma, se hace un audiograma de seguimiento.",
+    "Si en este control persiste una brecha aéreo-ósea clara, se sospecha un daño de la cadena y el médico planifica estudios adicionales."
+   ]
+  },
+  {
+   "id": "onarim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento y reparación",
+   "baslik": "*Reparación* de la cadena",
+   "maddeler": [
+    {
+     "metin": "Osiculoplastia: _reconstruir_ la cadena",
+     "cumle": 0,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Huesecillo propio o una _prótesis_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Opción: _audífono_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Después: _brecha_ y vía ósea",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kemikcikler",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "incus",
+      "cumle": 1
+     },
+     {
+      "parca": "stapes",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "incus",
+      "metin": "yunque remodelado",
+      "cumle": 1
+     },
+     {
+      "parca": "stapes",
+      "metin": "estribo",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "La reconstrucción quirúrgica de la cadena se llama osiculoplastia.",
+    "El cirujano puede remodelar el propio yunque del paciente y colocarlo en el espacio, o usar una prótesis osicular parcial o total.",
+    "El método elegido depende de qué partes de los huesecillos siguen intactas.",
+    "Para quienes no quieren o no pueden operarse, el audífono es una buena opción porque la vía ósea es normal.",
+    "En los controles posoperatorios se evalúan el cierre de la brecha aéreo-ósea y la conservación de la vía ósea."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Una curva tipo Ad por sí sola no significa disrupción osicular. Piensa en la cadena cuando se acompaña de una brecha aéreo-ósea grande y un reflejo acústico ausente.",
+   "cumleler": [
+    {
+     "yazi": "Un consejo de la práctica: cuando veas un timpanograma tipo Ad, no anotes de inmediato una disrupción osicular."
+    },
+    {
+     "yazi": "En una persona con audición normal y un tímpano delgado o cicatricial, la curva tipo Ad es un hallazgo frecuente e inofensivo."
+    },
+    "Si la misma curva se acompaña de una brecha aéreo-ósea grande y un reflejo acústico ausente, la disrupción osicular se vuelve muy probable.",
+    "Tras un trauma, espera a que la sangre se reabsorba y el tímpano cicatrice, y luego repite el audiograma."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Lo más frecuente: separación _incudoestapedial_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Pérdida _conductiva_ grande y plana",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Curva tipo Ad, _sin reflejo_",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "El hemotímpano se reabsorbe; pérdida persistente: _cadena_",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "La forma más frecuente de disrupción es la separación de la articulación incudoestapedial; el yunque es el huesecillo que se luxa con más facilidad.",
+    "Una interrupción completa tras un tímpano intacto causa una pérdida conductiva grande y plana.",
+    {
+     "yazi": "El timpanograma suele ser tipo Ad y, con la sonda en el oído afectado, el reflejo acústico está ausente."
+    },
+    "El hemotímpano se reabsorbe en pocas semanas; una brecha que persiste después sugiere un daño de la cadena."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Brecha grande, curva tipo Ad, sin reflejo. ¿Qué debes sospechar?",
+   "secenekler": [
+    "Otosclerosis",
+    "Disrupción osicular",
+    "Otitis media con efusión",
+    "Tapón de cerumen"
+   ],
+   "dogru": 1,
+   "aciklama": "Cuando la cadena se interrumpe, el tímpano se vuelve _hipermóvil_, la pérdida es grande y la contracción del estapedio no llega a la sonda.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué sugieren en conjunto una brecha aéreo-ósea grande, un timpanograma tipo Ad y un reflejo acústico ausente?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: una disrupción de la cadena osicular.",
+    {
+     "yazi": "El reflejo también falta en la otosclerosis, pero el sistema rígido suele dar una curva tipo A o As; una curva tipo Ad sugiere disrupción."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Disfunción* tubárica y presión negativa",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la disfunción de la trompa de Eustaquio y los efectos de la presión negativa en el oído medio.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

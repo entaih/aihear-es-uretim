@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R004_Your_Own_Voice_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #4",
+  "baslik": "¿Tu voz *suena distinta?*",
+  "alt": "También nos oímos por vía ósea",
+  "cizim": "isitme_yolu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Por qué tu voz suena distinta en una grabación? #shorts",
+  "aciklama": "El sonido llega a la cóclea no solo por el aire, sino también por la vibración de los huesos del cráneo: es la conducción ósea, o vía ósea. Una de las razones por las que nuestra voz grabada suena distinta es que, al hablar, también nos oímos por vía ósea.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "oido",
+   "datoscuriosos"
+  ],
+  "etiketler": [
+   "vía ósea",
+   "conducción ósea",
+   "propia voz",
+   "voz grabada",
+   "cóclea",
+   "audición",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Por qué tu voz suena distinta en una grabación?",
+  "bilgiler": [
+   "El sonido puede llegar a la cóclea por la vibración del cráneo: la vía ósea.",
+   "Esta vía evita en gran parte el oído externo y el oído medio.",
+   "Al hablar, también nos oímos por vía ósea."
+  ],
+  "hashtag": [
+   "audiologia",
+   "oido",
+   "datoscuriosos"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #4",
+   "metin": "¿Por qué tu voz grabada suena *distinta?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Por qué tu propia voz suena distinta en una grabación?"
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "zincir",
+   "baslik": "La *segunda vía* del sonido",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Vibración",
+     "cumle": 0
+    },
+    {
+     "ad": "Cráneo",
+     "cumle": 0,
+     "gecikme": 0.9,
+     "tr": "huesos"
+    },
+    {
+     "ad": "Cóclea",
+     "cumle": 0,
+     "gecikme": 1.8
+    }
+   ],
+   "alt": "Al hablar, también nos oímos por _vía ósea_.",
+   "alt_cumle": 3,
+   "cumleler": [
+    "El sonido también puede llegar a la cóclea por la vibración del cráneo.",
+    "Esto se llama conducción ósea, o vía ósea.",
+    "Esta vía evita en gran parte el oído externo y el oído medio.",
+    "Al hablar, también nos oímos por vía ósea.",
+    "Esa es una de las razones por las que nuestra voz grabada suena distinta."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D003",
+ "kaynak_baslik": "Cómo viaja el sonido del oído al cerebro"
+}

@@ -1,0 +1,705 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D030_Basilar_Membrane_Traveling_Wave_ES",
+ "kapak": {
+  "ust": "LECCIÓN 30",
+  "baslik": "Membrana basilar,<br>*onda viajera*",
+  "alt": "El descubrimiento de Békésy y la tonotopía",
+  "cizim": "koklea_acik"
+ },
+ "youtube": {
+  "baslik": "La membrana basilar y la onda viajera | Lección 30 | AIHEAR Academia de Audiología",
+  "aciklama": "El movimiento del estribo se convierte en una onda viajera que recorre la membrana basilar dentro de la cóclea. En esta lección vemos la estructura de la membrana basilar, la onda viajera de von Békésy, el mapa de frecuencias de la base al ápice, llamado tonotopía, y su importancia clínica.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: von Békésy, Experiments in Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Pickles, An Introduction to the Physiology of Hearing; Moore, An Introduction to the Psychology of Hearing.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "coclea",
+   "audicion"
+  ],
+  "etiketler": [
+   "membrana basilar",
+   "onda viajera",
+   "tonotopía",
+   "von Békésy",
+   "cóclea",
+   "espira basal",
+   "ápice coclear",
+   "lugar característico",
+   "amplificador coclear",
+   "fisiología de la audición",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 30",
+   "baslik": "La membrana basilar y la *onda viajera*",
+   "alt": "El descubrimiento de Békésy y la organización tonotópica",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo la vibración del estribo se convierte en una onda viajera dentro de la cóclea.",
+    "Luego veremos cómo la cóclea distribuye las frecuencias en un mapa, lo que se llama tonotopía."
+   ]
+  },
+  {
+   "id": "kesit",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Estructura de la cóclea",
+   "baslik": "*Corte transversal* de la cóclea",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_vestibuli",
+     "metin": "rampa vestibular",
+     "cumle": 1
+    },
+    {
+     "parca": "scala_media",
+     "metin": "rampa media",
+     "cumle": 1
+    },
+    {
+     "parca": "scala_tympani",
+     "metin": "rampa timpánica",
+     "cumle": 1
+    },
+    {
+     "parca": "reissner_membrani",
+     "metin": "membrana de Reissner",
+     "cumle": 2
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "membrana basilar",
+     "cumle": 3
+    },
+    {
+     "parca": "corti_organi",
+     "metin": "órgano de Corti",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 3
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "corti_organi",
+     "cumle": 4,
+     "olcek": 1.6
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Primero, un breve repaso: la cóclea es un conducto óseo que da unas dos vueltas y media.",
+    "Dentro de este conducto hay tres cámaras: la rampa vestibular, la rampa media y la rampa timpánica.",
+    "La delgada membrana de Reissner separa la rampa vestibular de la rampa media.",
+    "La membrana basilar se extiende entre la rampa media y la rampa timpánica.",
+    "El órgano de Corti descansa sobre esta membrana; cuando la membrana basilar se mueve, las células ciliadas se mueven con ella.",
+    "La rampa vestibular y la timpánica se unen en el ápice de la cóclea por una pequeña abertura llamada helicotrema."
+   ]
+  },
+  {
+   "id": "acik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Estructura de la cóclea",
+   "baslik": "La cóclea *desenrollada*",
+   "cizim": "koklea_acik",
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "base (espira basal)",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "ápice",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "ventana oval",
+     "cumle": 3
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "ventana redonda",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Longitud: unos 35 mm",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "El líquido no se comprime",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Imaginen la cóclea desenrollada como un tubo recto; la membrana basilar mide unos treinta y cinco milímetros.",
+    "El extremo donde están la ventana oval y la redonda se llama base, o espira basal.",
+    "El otro extremo se llama ápice.",
+    "Cuando el estribo empuja la ventana oval hacia adentro, sube la presión en la rampa vestibular y la ventana redonda se abomba hacia afuera.",
+    "Esta diferencia de presión mueve hacia arriba y hacia abajo la membrana basilar, que separa las cámaras.",
+    "Como los líquidos no se comprimen, la elasticidad de la ventana redonda es necesaria para que ocurra este movimiento."
+   ]
+  },
+  {
+   "id": "taban_tepe",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 2",
+   "bolum": "Propiedades de la membrana basilar",
+   "baslik": "Base y *ápice*",
+   "sol": {
+    "ust": "Base (espira basal)",
+    "maddeler": [
+     {
+      "metin": "_Estrecha_",
+      "cumle": 1
+     },
+     {
+      "metin": "_Rígida_",
+      "cumle": 1
+     },
+     {
+      "metin": "Sintonizada con los agudos",
+      "cumle": 4
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Ápice",
+    "maddeler": [
+     {
+      "metin": "_Ancho_",
+      "cumle": 1
+     },
+     {
+      "metin": "_Flexible_",
+      "cumle": 1
+     },
+     {
+      "metin": "Sintonizado con los graves",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "La característica más importante de la membrana basilar es que su estructura cambia de forma gradual a lo largo de su longitud.",
+    "La membrana es estrecha y rígida en la base, y se vuelve más ancha y flexible hacia el ápice.",
+    "Un detalle interesante: mientras el conducto óseo se estrecha hacia el ápice, la membrana basilar se ensancha.",
+    "Esta disminución gradual de la rigidez hace que cada región de la membrana responda mejor a una frecuencia distinta.",
+    "La base, rígida y estrecha, está sintonizada con los agudos, y el ápice, ancho y flexible, con los graves.",
+    "Piensen en un piano: sus cuerdas cortas y tensas dan las notas agudas, y las largas y más flojas, las graves."
+   ]
+  },
+  {
+   "id": "bekesy",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "La onda viajera",
+   "baslik": "La *onda viajera* de Békésy",
+   "maddeler": [
+    {
+     "metin": "Observación _directa_ en cócleas de cadáver",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Siempre avanza _de la base al ápice_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "La amplitud crece hasta un _pico_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Se extingue rápido tras el pico",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "NOBEL",
+    "metin": "Békésy, Premio *Nobel* de Fisiología o Medicina 1961",
+    "cumle": 5
+   },
+   "cumleler": [
+    "La primera persona en observar en detalle cómo responde la membrana basilar al sonido fue Georg von Békésy.",
+    "Békésy observó al microscopio el movimiento de la membrana en cócleas obtenidas de cadáveres humanos.",
+    "Lo que vio fue una onda que comenzaba en la base y avanzaba hacia el ápice; se le llamó onda viajera.",
+    "A medida que la onda avanza, su amplitud crece gradualmente y alcanza un máximo en un punto determinado.",
+    "Justo después de ese punto, la amplitud cae rápidamente y la onda se extingue.",
+    {
+     "yazi": "Békésy recibió el Premio Nobel de Fisiología o Medicina en 1961 por su trabajo sobre la mecánica coclear."
+    }
+   ]
+  },
+  {
+   "id": "dalga1000",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "La onda viajera",
+   "baslik": "La *onda viajera* para 1000 Hz",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "onda viajera",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Lugar del pico: lugar característico",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "La rigidez de la membrana guía la onda",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "La figura muestra la onda viajera de un tono puro de mil hertz.",
+    "La onda comienza en la base, crece a medida que avanza y alcanza su pico en una región cercana al centro de la membrana.",
+    "El lugar donde la onda es máxima se llama lugar característico; cada frecuencia tiene su propio lugar característico.",
+    "Un punto importante: la dirección de la onda no la determina el flujo del líquido, sino la rigidez cambiante a lo largo de la membrana.",
+    "Por eso, llegue como llegue la vibración a la cóclea, la onda siempre viaja de la base hacia el ápice.",
+    "Que la estimulación por vía ósea produzca la misma onda viajera es la base de las pruebas por vía ósea."
+   ]
+  },
+  {
+   "id": "dalga4000",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "La onda viajera",
+   "baslik": "Agudos: cerca de la *base*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "4000 Hz: pico cerca de la base",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Ahora subamos la frecuencia a cuatro mil hertz.",
+    "Esta vez la onda alcanza su pico más cerca de la base, en la espira basal, y se extingue tras recorrer una distancia corta.",
+    "Los sonidos agudos ponen en movimiento claramente solo la región basal de la cóclea.",
+    "Cada octava ocupa una longitud similar de la membrana; las octavas más agudas están al inicio de la base, cerca de la ventana oval.",
+    "Por eso, en las pérdidas en agudos, se suele considerar que el daño se concentra en la espira basal."
+   ]
+  },
+  {
+   "id": "dalga250",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "La onda viajera",
+   "baslik": "Graves: cerca del *ápice*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 250
+   },
+   "vurgula": [
+    {
+     "parca": "tepe",
+     "cumle": 1
+    },
+    {
+     "parca": "taban",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "250 Hz: pico cerca del ápice",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Los graves también mueven la base",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Propagación ascendente del enmascaramiento",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "Cuando bajamos la frecuencia a doscientos cincuenta hertz, el cuadro cambia.",
+    "La onda avanza hasta una región cercana al ápice y alcanza su pico junto al ápice.",
+    "Observen que la onda de un sonido grave también mueve en cierta medida la región basal en su recorrido.",
+    "Esto explica por qué los sonidos graves intensos también pueden estimular las regiones de frecuencias agudas.",
+    "Una consecuencia clínica es la propagación ascendente del enmascaramiento: un ruido grave enmascara con más facilidad los sonidos agudos.",
+    "Además, como la onda de un sonido grave recorre más distancia, llega más tarde a su lugar característico."
+   ]
+  },
+  {
+   "id": "frekans_tablo",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "La onda viajera",
+   "baslik": "Frecuencia y *lugar del pico*",
+   "sutunlar": [
+    "Frecuencia",
+    "Lugar del pico",
+    "Recorrido de la onda"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "4000 Hz",
+      "Cerca de la base",
+      "Corto"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "Región media",
+      "Medio"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "250 Hz",
+      "Cerca del ápice",
+      "Largo"
+     ],
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "Resumiendo lo que vimos: a medida que baja la frecuencia, el pico de la onda se desplaza de la base hacia el ápice.",
+    "La onda de un sonido agudo recorre una distancia corta y alcanza su pico rápidamente.",
+    "La onda de un sonido grave recorre la mayor parte de la cóclea y llega a su lugar característico unos milisegundos después.",
+    "Este retardo explica en parte por qué las latencias de los potenciales evocados auditivos de tronco cerebral (PEATC) son mayores con estímulos graves."
+   ]
+  },
+  {
+   "id": "canli",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "La onda viajera",
+   "baslik": "Un pico más *agudo* en la cóclea viva",
+   "maddeler": [
+    {
+     "metin": "Békésy: pico _amplio_ en tejido muerto",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Cóclea viva: pico _agudo_ y alto",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Responsables: _células ciliadas externas_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "El daño reduce sensibilidad y selectividad",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "corti",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "baziler_membran",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_tuy_hucreleri",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "baziler_membran",
+      "metin": "Membrana basilar",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_tuy_hucreleri",
+      "metin": "Células ciliadas externas",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Como Békésy trabajó con tejido muerto y con niveles sonoros altos, el pico de la onda que observó era bastante amplio.",
+    "Estudios posteriores mostraron que, en una cóclea viva y sana, el pico es mucho más agudo y alto.",
+    "Esta diferencia se debe a las células ciliadas externas, que refuerzan activamente el movimiento de la membrana.",
+    "Este mecanismo se llama amplificador coclear y es especialmente importante para los sonidos débiles.",
+    "Cuando las células ciliadas externas se dañan, disminuyen tanto la sensibilidad como la selectividad frecuencial.",
+    "Veremos el amplificador coclear en detalle en una lección aparte."
+   ]
+  },
+  {
+   "id": "tonotopi",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Tonotopía",
+   "baslik": "*Tonotopía*: un mapa de frecuencias",
+   "maddeler": [
+    {
+     "metin": "Base: unos _20 000 Hz_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ápice: unos _20 Hz_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Disposición _logarítmica_ en medios y agudos",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "TONOTOPÍA",
+    "metin": "Cada frecuencia tiene un *lugar propio* en la membrana",
+    "cumle": 0
+   },
+   "cumleler": [
+    "La correspondencia de cada frecuencia con un lugar específico de la membrana basilar se llama tonotopía, u organización tonotópica.",
+    "En el ser humano, las frecuencias más altas, alrededor de veinte mil hertz, están representadas en la base.",
+    "Las frecuencias más bajas, alrededor de veinte hertz, se encuentran cerca del ápice.",
+    "El mapa es logarítmico, sobre todo en medios y agudos; cada octava ocupa un tramo de longitud similar en la membrana.",
+    "La división del eje de frecuencias del audiograma en pasos iguales de octava concuerda con esta disposición.",
+    "Gracias a ella, la cóclea funciona como un analizador de frecuencias y descompone un sonido complejo en sus componentes a lo largo de la membrana."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Tonotopía",
+   "baslik": "El mapa se conserva hasta el *cerebro*",
+   "cizim": "isitme_yolu",
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 0
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 2
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "nervio auditivo",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "núcleo coclear",
+     "cumle": 2
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "colículo inferior",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "corteza auditiva",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La tonotopía no se limita a la cóclea.",
+    "Cada fibra del nervio auditivo lleva información de una región concreta de la membrana basilar y tiene una frecuencia a la que responde mejor.",
+    "Este orden de frecuencias se mantiene en todo el tronco cerebral, desde el núcleo coclear hasta el colículo inferior.",
+    "También en la corteza auditiva las frecuencias se disponen como un mapa ordenado.",
+    "Así, el mapa de frecuencias que nace en la cóclea reaparece en cada etapa de la vía auditiva."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Vínculos clínicos",
+   "baslik": "La *tonotopía* en la clínica",
+   "maddeler": [
+    {
+     "metin": "Pérdida en agudos: daño en la _espira basal_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Edad y ototoxicidad: empiezan en la base",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Ruido: unos _3000 a 6000 Hz_",
+     "cumle": 3,
+     "ikon": "fabrika"
+    },
+    {
+     "metin": "Pérdidas en graves: _menos frecuentes_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "La tonotopía nos permite leer el audiograma como un mapa aproximado de la cóclea.",
+    "Por ejemplo, una pérdida en agudos sugiere que el daño está principalmente en la espira basal.",
+    "En la pérdida auditiva relacionada con la edad y con muchos fármacos ototóxicos, el daño suele empezar en la base.",
+    "Con el ruido, el daño suele concentrarse en la región que corresponde a tres mil a seis mil hertz.",
+    "Las pérdidas que afectan los graves son menos frecuentes; pueden aparecer, por ejemplo, al inicio de la enfermedad de Ménière.",
+    "Recuerden que el audiograma muestra el lugar del daño solo de forma aproximada; una evaluación detallada requiere otras pruebas."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 5",
+   "bolum": "Vínculos clínicos",
+   "baslik": "Consejo clínico",
+   "metin": "Usar la tonotopía al explicar los resultados: decir que está afectada la entrada de la cóclea, donde se perciben los agudos, ayuda al paciente a entender su pérdida.",
+   "cumleler": [
+    "Un consejo de la práctica: usen la tonotopía cuando expliquen el audiograma al paciente.",
+    "Explíquenle que la cóclea, como el teclado de un piano, percibe los agudos en un extremo y los graves en el otro.",
+    "Si hay una pérdida en agudos, muestren en el audiograma que la pérdida está en la región de entrada, la que percibe los agudos.",
+    "Esta comparación sencilla ayuda al paciente a entender por qué oye los sonidos pero se le escapan algunas palabras."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Membrana basilar: base _rígida_, ápice _flexible_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Onda viajera siempre _de base a ápice_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Agudos en la base, graves en el ápice",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "La tonotopía se _conserva_ hasta el cerebro",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "La membrana basilar es estrecha y rígida en la base, y ancha y flexible en el ápice.",
+    "El movimiento del estribo crea una onda viajera que avanza de la base al ápice y alcanza su pico en un lugar propio de cada frecuencia.",
+    "Los sonidos agudos producen la mayor respuesta en la base, y los graves, cerca del ápice.",
+    "Este mapa de frecuencias, llamado tonotopía, se conserva a lo largo de la vía auditiva hasta la corteza."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Dónde alcanza su pico un tono de 4000 Hz en la onda viajera?",
+   "secenekler": [
+    "Cerca del ápice",
+    "Cerca de la base",
+    "En el helicotrema",
+    "Justo en el centro"
+   ],
+   "dogru": 1,
+   "aciklama": "La _base_, estrecha y rígida, está sintonizada con las frecuencias agudas.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿dónde alcanza su máxima amplitud en la onda viajera un tono puro de cuatro mil hertz?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: cerca de la base.",
+    "La región basal de la membrana basilar, estrecha y rígida, está sintonizada con las frecuencias agudas."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "De sonido a señal eléctrica: las células *ciliadas*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo el movimiento de la membrana basilar se convierte en una señal eléctrica en las células ciliadas.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

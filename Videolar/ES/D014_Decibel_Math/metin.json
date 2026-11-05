@@ -1,0 +1,2524 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D014_Decibel_Math_ES",
+ "kapak": {
+  "ust": "LECCIÓN 14",
+  "baslik": "Cálculos con<br>*decibeles*",
+  "alt": "Suma de sonidos y efecto de la distancia",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 1,
+    "max": 16,
+    "log": true,
+    "isaretler": [
+     1,
+     2,
+     4,
+     8,
+     16
+    ],
+    "ad": "Distancia (m)"
+   },
+   "y": {
+    "min": 30,
+    "max": 66,
+    "adim": 6,
+    "ad": "Nivel (dB SPL)"
+   },
+   "seriler": [
+    {
+     "ad": "duzey",
+     "noktalar": [
+      [
+       1.0,
+       60.0
+      ],
+      [
+       1.072,
+       59.4
+      ],
+      [
+       1.149,
+       58.8
+      ],
+      [
+       1.231,
+       58.19
+      ],
+      [
+       1.32,
+       57.59
+      ],
+      [
+       1.414,
+       56.99
+      ],
+      [
+       1.516,
+       56.39
+      ],
+      [
+       1.625,
+       55.79
+      ],
+      [
+       1.741,
+       55.18
+      ],
+      [
+       1.866,
+       54.58
+      ],
+      [
+       2.0,
+       53.98
+      ],
+      [
+       2.144,
+       53.38
+      ],
+      [
+       2.297,
+       52.78
+      ],
+      [
+       2.462,
+       52.17
+      ],
+      [
+       2.639,
+       51.57
+      ],
+      [
+       2.828,
+       50.97
+      ],
+      [
+       3.031,
+       50.37
+      ],
+      [
+       3.249,
+       49.76
+      ],
+      [
+       3.482,
+       49.16
+      ],
+      [
+       3.732,
+       48.56
+      ],
+      [
+       4.0,
+       47.96
+      ],
+      [
+       4.287,
+       47.36
+      ],
+      [
+       4.595,
+       46.75
+      ],
+      [
+       4.925,
+       46.15
+      ],
+      [
+       5.278,
+       45.55
+      ],
+      [
+       5.657,
+       44.95
+      ],
+      [
+       6.063,
+       44.35
+      ],
+      [
+       6.498,
+       43.74
+      ],
+      [
+       6.964,
+       43.14
+      ],
+      [
+       7.464,
+       42.54
+      ],
+      [
+       8.0,
+       41.94
+      ],
+      [
+       8.574,
+       41.34
+      ],
+      [
+       9.19,
+       40.73
+      ],
+      [
+       9.849,
+       40.13
+      ],
+      [
+       10.556,
+       39.53
+      ],
+      [
+       11.314,
+       38.93
+      ],
+      [
+       12.126,
+       38.33
+      ],
+      [
+       12.996,
+       37.72
+      ],
+      [
+       13.929,
+       37.12
+      ],
+      [
+       14.929,
+       36.52
+      ],
+      [
+       16.0,
+       35.92
+      ]
+     ],
+     "renk": "mavi"
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Cálculos con decibeles: suma de sonidos y distancia | Lección 14 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos paso a paso por qué los decibeles no se suman directamente y cómo se suman los sonidos: unos 3 dB para dos fuentes iguales, una tabla de suma para niveles distintos, la resta del ruido de fondo y la suma en fase. Con ejemplos, vemos que el nivel baja unos 6 dB al duplicarse la distancia según la ley del cuadrado inverso, y cómo se relaciona la regla de los 3 dB con el tiempo de exposición al ruido.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Speaks, Introduction to Sound: Acoustics for the Hearing and Speech Sciences; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; NIOSH, Criteria for a Recommended Standard: Occupational Noise Exposure (1998); European Parliament and Council, Directive 2003/10/EC on noise.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "decibel",
+   "acustica"
+  ],
+  "etiketler": [
+   "cálculos con decibeles",
+   "suma de decibeles",
+   "suma incoherente",
+   "ley del cuadrado inverso",
+   "campo libre",
+   "fuente puntual",
+   "regla de los 3 dB",
+   "tasa de intercambio",
+   "exposición al ruido",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 14",
+   "baslik": "Cálculos con *decibeles*",
+   "alt": "Suma de sonidos y efecto de la distancia",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En la lección anterior vimos que el decibel es una proporción logarítmica; en esta aprenderemos a calcular con decibeles.",
+    "Paso a paso, sumaremos sonidos, separaremos el ruido de una medición y veremos cómo la distancia cambia el nivel sonoro."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Suma de sonidos",
+   "baslik": "Los decibeles *no se suman directamente*",
+   "maddeler": [
+    {
+     "metin": "Los decibeles _no se suman directamente_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Lo que se suma: _la intensidad_, la energía",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Fuentes independientes: _incoherentes_",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "MÉTODO",
+    "metin": "Pasar de decibeles a intensidad, *sumar* y volver a decibeles",
+    "cumle": 2
+   },
+   "cumleler": [
+    "Como los decibeles son logarítmicos, no se suman directamente; sesenta más sesenta no da ciento veinte.",
+    "Lo que se suma no son los decibeles, sino las intensidades de los sonidos, es decir, su energía.",
+    "Así, cada valor en decibeles se convierte en una proporción de intensidad, se suman las intensidades y el resultado vuelve a decibeles.",
+    "Este método se aplica a fuentes independientes, como dos máquinas, dos hablantes o dos ruidos distintos.",
+    "Las ondas de estas fuentes no tienen una relación de fase fija; esto se llama suma incoherente.",
+    "Casi todos los ruidos cotidianos se suman de esta forma."
+   ]
+  },
+  {
+   "id": "adim",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "Suma de sonidos",
+   "baslik": "Paso a paso: *60 + 60*",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Dos fuentes",
+     "cumle": 1,
+     "metin": "60 dB cada una"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Sumar intensidades",
+     "cumle": 2,
+     "metin": "Dos millones de veces"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Sacar el logaritmo",
+     "cumle": 3,
+     "metin": "Cerca de 6,3 x 10"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Resultado",
+     "cumle": 4,
+     "metin": "Cerca de 63 dB"
+    }
+   ],
+   "cumleler": [
+    "Vamos paso a paso con dos fuentes iguales, de sesenta decibeles cada una.",
+    "Sesenta decibeles significan una intensidad diez elevado a la seis, o un millón de veces la referencia.",
+    "Sumamos las intensidades de las dos fuentes: dos millones de veces.",
+    "El logaritmo de dos millones es cerca de seis coma tres; multiplicado por diez, da unos sesenta y tres decibeles.",
+    "Así, una segunda fuente igual agrega solo unos tres decibeles, porque diez veces el logaritmo de dos es cerca de tres."
+   ]
+  },
+  {
+   "id": "esit",
+   "tur": "tablo",
+   "bolum_no": "PARTE 1",
+   "bolum": "Suma de sonidos",
+   "baslik": "Fuentes iguales: *+10 log n*",
+   "sutunlar": [
+    "Número de fuentes iguales",
+    "Aumento de nivel"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1",
+      "0 dB"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "2",
+      "cerca de 3 dB"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "3",
+      "cerca de 4,8 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "4",
+      "cerca de 6 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "10",
+      "10 dB"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "100",
+      "20 dB"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Para varias fuentes iguales hay una regla corta: el aumento total es diez veces el logaritmo del número de fuentes.",
+    "Dos fuentes iguales dan un aumento de unos tres decibeles.",
+    "Tres fuentes iguales dan un aumento de unos cuatro coma ocho decibeles, y cuatro fuentes iguales, de unos seis decibeles.",
+    "Diez fuentes iguales significan un aumento de diez decibeles, y cien fuentes iguales, de veinte decibeles.",
+    "Por ejemplo, diez máquinas de setenta decibeles cada una producen juntas unos ochenta decibeles de ruido.",
+    "Cada vez que se duplica el número de fuentes, el nivel sube solo unos tres decibeles."
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Niveles distintos",
+   "baslik": "Más diferencia, *menor aporte*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 15,
+     "adim": 3,
+     "ad": "Diferencia entre las dos fuentes (dB)"
+    },
+    "y": {
+     "min": 0,
+     "max": 3.5,
+     "adim": 1,
+     "ad": "Cantidad a sumar (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "egri",
+      "noktalar": [
+       [
+        0.0,
+        3.01
+       ],
+       [
+        0.25,
+        2.887
+       ],
+       [
+        0.5,
+        2.767
+       ],
+       [
+        0.75,
+        2.651
+       ],
+       [
+        1.0,
+        2.539
+       ],
+       [
+        1.25,
+        2.43
+       ],
+       [
+        1.5,
+        2.325
+       ],
+       [
+        1.75,
+        2.223
+       ],
+       [
+        2.0,
+        2.124
+       ],
+       [
+        2.25,
+        2.029
+       ],
+       [
+        2.5,
+        1.938
+       ],
+       [
+        2.75,
+        1.849
+       ],
+       [
+        3.0,
+        1.764
+       ],
+       [
+        3.25,
+        1.682
+       ],
+       [
+        3.5,
+        1.604
+       ],
+       [
+        3.75,
+        1.528
+       ],
+       [
+        4.0,
+        1.455
+       ],
+       [
+        4.25,
+        1.386
+       ],
+       [
+        4.5,
+        1.319
+       ],
+       [
+        4.75,
+        1.255
+       ],
+       [
+        5.0,
+        1.193
+       ],
+       [
+        5.25,
+        1.135
+       ],
+       [
+        5.5,
+        1.078
+       ],
+       [
+        5.75,
+        1.025
+       ],
+       [
+        6.0,
+        0.973
+       ],
+       [
+        6.25,
+        0.924
+       ],
+       [
+        6.5,
+        0.877
+       ],
+       [
+        6.75,
+        0.833
+       ],
+       [
+        7.0,
+        0.79
+       ],
+       [
+        7.25,
+        0.749
+       ],
+       [
+        7.5,
+        0.711
+       ],
+       [
+        7.75,
+        0.674
+       ],
+       [
+        8.0,
+        0.639
+       ],
+       [
+        8.25,
+        0.606
+       ],
+       [
+        8.5,
+        0.574
+       ],
+       [
+        8.75,
+        0.544
+       ],
+       [
+        9.0,
+        0.515
+       ],
+       [
+        9.25,
+        0.488
+       ],
+       [
+        9.5,
+        0.462
+       ],
+       [
+        9.75,
+        0.437
+       ],
+       [
+        10.0,
+        0.414
+       ],
+       [
+        10.25,
+        0.392
+       ],
+       [
+        10.5,
+        0.371
+       ],
+       [
+        10.75,
+        0.351
+       ],
+       [
+        11.0,
+        0.332
+       ],
+       [
+        11.25,
+        0.314
+       ],
+       [
+        11.5,
+        0.297
+       ],
+       [
+        11.75,
+        0.281
+       ],
+       [
+        12.0,
+        0.266
+       ],
+       [
+        12.25,
+        0.251
+       ],
+       [
+        12.5,
+        0.238
+       ],
+       [
+        12.75,
+        0.225
+       ],
+       [
+        13.0,
+        0.212
+       ],
+       [
+        13.25,
+        0.201
+       ],
+       [
+        13.5,
+        0.19
+       ],
+       [
+        13.75,
+        0.179
+       ],
+       [
+        14.0,
+        0.17
+       ],
+       [
+        14.25,
+        0.16
+       ],
+       [
+        14.5,
+        0.151
+       ],
+       [
+        14.75,
+        0.143
+       ],
+       [
+        15.0,
+        0.135
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "esit",
+      "x": 0,
+      "y": 3.01,
+      "dolu": true,
+      "etiket": "3 dB",
+      "hiza": "start",
+      "dx": 16,
+      "dy": -8,
+      "cumle": 2
+     },
+     {
+      "ad": "alti",
+      "x": 6,
+      "y": 0.97,
+      "dus": "xy",
+      "dolu": true,
+      "etiket": "cerca de 1 dB",
+      "hiza": "start",
+      "dx": 14,
+      "dy": -14,
+      "cumle": 3
+     },
+     {
+      "ad": "on",
+      "x": 10,
+      "y": 0.41,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "0,4 dB",
+      "dy": -20,
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Fuentes iguales: _+3 dB_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "80 + 70: cerca de _80,4 dB_",
+     "cumle": 5,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Diferencia mayor de 15 dB: _despreciable_",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Si las fuentes no son iguales, el nivel total depende de la diferencia entre las dos fuentes.",
+    "El gráfico muestra en el eje horizontal la diferencia entre las dos fuentes, y en el vertical, lo que se suma a la más fuerte.",
+    "Si la diferencia es cero, es decir, si las fuentes son iguales, se suman tres decibeles.",
+    "Cuando la diferencia es de seis decibeles, la cantidad a sumar baja a cerca de un decibel.",
+    "Cuando la diferencia es de diez decibeles, solo se suman unos cero coma cuatro decibeles.",
+    "Por ejemplo, fuentes de ochenta y setenta decibeles juntas dan unos ochenta coma cuatro; la fuente más débil apenas se nota.",
+    "Cuando la diferencia supera los quince decibeles, el aporte de la fuente más débil es tan pequeño que puede ignorarse."
+   ]
+  },
+  {
+   "id": "toplama_tablosu",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Niveles distintos",
+   "baslik": "Tabla rápida *de suma*",
+   "sutunlar": [
+    "Diferencia (dB)",
+    "Sumar al nivel mayor"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "0",
+      "3,0 dB"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "1",
+      "2,5 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2",
+      "2,1 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "3",
+      "1,8 dB"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "4",
+      "1,5 dB"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "6",
+      "1,0 dB"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "10",
+      "0,4 dB"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Esta tabla es útil para hacer cálculos rápidos en la clínica y en el terreno.",
+    "Primero se halla la diferencia entre los dos niveles; luego se lee en la tabla la cantidad a sumar y se suma al nivel mayor.",
+    "Por ejemplo, ochenta y cinco y ochenta y dos decibeles: la diferencia es tres; se suma uno coma ocho y da unos ochenta y seis coma ocho.",
+    "Con tres fuentes o más, se repite el mismo paso de dos en dos.",
+    "Dos de tres máquinas de ochenta y cinco decibeles dan ochenta y ocho; al sumar la tercera, se llega a unos ochenta y nueve coma ocho.",
+    "Este resultado coincide con el aumento de unos cuatro coma ocho decibeles que obtuvimos con la regla de diez log tres."
+   ]
+  },
+  {
+   "id": "cikarma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Niveles distintos",
+   "baslik": "Restar: *el ruido de fondo*",
+   "maddeler": [
+    {
+     "metin": "Total 65 dB, fondo _60 dB_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Solo la máquina: _63,3 dB_",
+     "cumle": 2,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Diferencia de 10 dB o más: _despreciable_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Diferencia menor de 3 dB: _poco fiable_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "test_kabini",
+    "cumle": 5,
+    "vurgula": [
+     {
+      "parca": "ses_emici",
+      "cumle": 5
+     },
+     {
+      "parca": "cift_duvar",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "A veces hay que hacer lo contrario: restar de una medición el aporte del ruido de fondo.",
+    "Supongamos que medimos sesenta y cinco decibeles con una máquina en marcha, y sesenta decibeles de ruido de fondo con la máquina apagada.",
+    "Al restar las intensidades, el nivel de la máquina sola resulta de unos sesenta y tres coma tres decibeles.",
+    "Si el total supera al fondo en diez decibeles o más, el ruido de fondo cambia el resultado en menos de medio decibel.",
+    "Si la diferencia es menor de tres decibeles, la medición no es fiable; el ruido de fondo afecta claramente el resultado.",
+    "La misma lógica se aplica en la cabina audiométrica: si el ruido de fondo no se mantiene bajo, los tonos más débiles no pueden oírse."
+   ]
+  },
+  {
+   "id": "es_faz",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Niveles distintos",
+   "baslik": "En fase y *en contrafase*",
+   "maddeler": [
+    {
+     "metin": "En fase: doble presión, _+6 dB_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "En contrafase: _cancelación_",
+     "cumle": 3,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "_Auriculares_ con cancelación de ruido",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Fuentes independientes: _+3 dB_",
+     "cumle": 5,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 0,
+      "max": 2,
+      "adim": 1,
+      "ad": "Tiempo (ms)"
+     },
+     "y": {
+      "min": -2.3,
+      "max": 2.3,
+      "isaretler": [
+       -2,
+       -1,
+       0,
+       1,
+       2
+      ],
+      "ad": "Presión"
+     },
+     "seriler": [
+      {
+       "ad": "tek",
+       "noktalar": [
+        [
+         0.0,
+         0.0
+        ],
+        [
+         0.0167,
+         0.1045
+        ],
+        [
+         0.0333,
+         0.2079
+        ],
+        [
+         0.05,
+         0.309
+        ],
+        [
+         0.0667,
+         0.4067
+        ],
+        [
+         0.0833,
+         0.5
+        ],
+        [
+         0.1,
+         0.5878
+        ],
+        [
+         0.1167,
+         0.6691
+        ],
+        [
+         0.1333,
+         0.7431
+        ],
+        [
+         0.15,
+         0.809
+        ],
+        [
+         0.1667,
+         0.866
+        ],
+        [
+         0.1833,
+         0.9135
+        ],
+        [
+         0.2,
+         0.9511
+        ],
+        [
+         0.2167,
+         0.9781
+        ],
+        [
+         0.2333,
+         0.9945
+        ],
+        [
+         0.25,
+         1.0
+        ],
+        [
+         0.2667,
+         0.9945
+        ],
+        [
+         0.2833,
+         0.9781
+        ],
+        [
+         0.3,
+         0.9511
+        ],
+        [
+         0.3167,
+         0.9135
+        ],
+        [
+         0.3333,
+         0.866
+        ],
+        [
+         0.35,
+         0.809
+        ],
+        [
+         0.3667,
+         0.7431
+        ],
+        [
+         0.3833,
+         0.6691
+        ],
+        [
+         0.4,
+         0.5878
+        ],
+        [
+         0.4167,
+         0.5
+        ],
+        [
+         0.4333,
+         0.4067
+        ],
+        [
+         0.45,
+         0.309
+        ],
+        [
+         0.4667,
+         0.2079
+        ],
+        [
+         0.4833,
+         0.1045
+        ],
+        [
+         0.5,
+         0.0
+        ],
+        [
+         0.5167,
+         -0.1045
+        ],
+        [
+         0.5333,
+         -0.2079
+        ],
+        [
+         0.55,
+         -0.309
+        ],
+        [
+         0.5667,
+         -0.4067
+        ],
+        [
+         0.5833,
+         -0.5
+        ],
+        [
+         0.6,
+         -0.5878
+        ],
+        [
+         0.6167,
+         -0.6691
+        ],
+        [
+         0.6333,
+         -0.7431
+        ],
+        [
+         0.65,
+         -0.809
+        ],
+        [
+         0.6667,
+         -0.866
+        ],
+        [
+         0.6833,
+         -0.9135
+        ],
+        [
+         0.7,
+         -0.9511
+        ],
+        [
+         0.7167,
+         -0.9781
+        ],
+        [
+         0.7333,
+         -0.9945
+        ],
+        [
+         0.75,
+         -1.0
+        ],
+        [
+         0.7667,
+         -0.9945
+        ],
+        [
+         0.7833,
+         -0.9781
+        ],
+        [
+         0.8,
+         -0.9511
+        ],
+        [
+         0.8167,
+         -0.9135
+        ],
+        [
+         0.8333,
+         -0.866
+        ],
+        [
+         0.85,
+         -0.809
+        ],
+        [
+         0.8667,
+         -0.7431
+        ],
+        [
+         0.8833,
+         -0.6691
+        ],
+        [
+         0.9,
+         -0.5878
+        ],
+        [
+         0.9167,
+         -0.5
+        ],
+        [
+         0.9333,
+         -0.4067
+        ],
+        [
+         0.95,
+         -0.309
+        ],
+        [
+         0.9667,
+         -0.2079
+        ],
+        [
+         0.9833,
+         -0.1045
+        ],
+        [
+         1.0,
+         -0.0
+        ],
+        [
+         1.0167,
+         0.1045
+        ],
+        [
+         1.0333,
+         0.2079
+        ],
+        [
+         1.05,
+         0.309
+        ],
+        [
+         1.0667,
+         0.4067
+        ],
+        [
+         1.0833,
+         0.5
+        ],
+        [
+         1.1,
+         0.5878
+        ],
+        [
+         1.1167,
+         0.6691
+        ],
+        [
+         1.1333,
+         0.7431
+        ],
+        [
+         1.15,
+         0.809
+        ],
+        [
+         1.1667,
+         0.866
+        ],
+        [
+         1.1833,
+         0.9135
+        ],
+        [
+         1.2,
+         0.9511
+        ],
+        [
+         1.2167,
+         0.9781
+        ],
+        [
+         1.2333,
+         0.9945
+        ],
+        [
+         1.25,
+         1.0
+        ],
+        [
+         1.2667,
+         0.9945
+        ],
+        [
+         1.2833,
+         0.9781
+        ],
+        [
+         1.3,
+         0.9511
+        ],
+        [
+         1.3167,
+         0.9135
+        ],
+        [
+         1.3333,
+         0.866
+        ],
+        [
+         1.35,
+         0.809
+        ],
+        [
+         1.3667,
+         0.7431
+        ],
+        [
+         1.3833,
+         0.6691
+        ],
+        [
+         1.4,
+         0.5878
+        ],
+        [
+         1.4167,
+         0.5
+        ],
+        [
+         1.4333,
+         0.4067
+        ],
+        [
+         1.45,
+         0.309
+        ],
+        [
+         1.4667,
+         0.2079
+        ],
+        [
+         1.4833,
+         0.1045
+        ],
+        [
+         1.5,
+         0.0
+        ],
+        [
+         1.5167,
+         -0.1045
+        ],
+        [
+         1.5333,
+         -0.2079
+        ],
+        [
+         1.55,
+         -0.309
+        ],
+        [
+         1.5667,
+         -0.4067
+        ],
+        [
+         1.5833,
+         -0.5
+        ],
+        [
+         1.6,
+         -0.5878
+        ],
+        [
+         1.6167,
+         -0.6691
+        ],
+        [
+         1.6333,
+         -0.7431
+        ],
+        [
+         1.65,
+         -0.809
+        ],
+        [
+         1.6667,
+         -0.866
+        ],
+        [
+         1.6833,
+         -0.9135
+        ],
+        [
+         1.7,
+         -0.9511
+        ],
+        [
+         1.7167,
+         -0.9781
+        ],
+        [
+         1.7333,
+         -0.9945
+        ],
+        [
+         1.75,
+         -1.0
+        ],
+        [
+         1.7667,
+         -0.9945
+        ],
+        [
+         1.7833,
+         -0.9781
+        ],
+        [
+         1.8,
+         -0.9511
+        ],
+        [
+         1.8167,
+         -0.9135
+        ],
+        [
+         1.8333,
+         -0.866
+        ],
+        [
+         1.85,
+         -0.809
+        ],
+        [
+         1.8667,
+         -0.7431
+        ],
+        [
+         1.8833,
+         -0.6691
+        ],
+        [
+         1.9,
+         -0.5878
+        ],
+        [
+         1.9167,
+         -0.5
+        ],
+        [
+         1.9333,
+         -0.4067
+        ],
+        [
+         1.95,
+         -0.309
+        ],
+        [
+         1.9667,
+         -0.2079
+        ],
+        [
+         1.9833,
+         -0.1045
+        ],
+        [
+         2.0,
+         -0.0
+        ]
+       ],
+       "renk": "mavi",
+       "yumusak": true,
+       "cumle": 0
+      },
+      {
+       "ad": "es_fazli",
+       "noktalar": [
+        [
+         0.0,
+         0.0
+        ],
+        [
+         0.0167,
+         0.2091
+        ],
+        [
+         0.0333,
+         0.4158
+        ],
+        [
+         0.05,
+         0.618
+        ],
+        [
+         0.0667,
+         0.8135
+        ],
+        [
+         0.0833,
+         1.0
+        ],
+        [
+         0.1,
+         1.1756
+        ],
+        [
+         0.1167,
+         1.3383
+        ],
+        [
+         0.1333,
+         1.4863
+        ],
+        [
+         0.15,
+         1.618
+        ],
+        [
+         0.1667,
+         1.7321
+        ],
+        [
+         0.1833,
+         1.8271
+        ],
+        [
+         0.2,
+         1.9021
+        ],
+        [
+         0.2167,
+         1.9563
+        ],
+        [
+         0.2333,
+         1.989
+        ],
+        [
+         0.25,
+         2.0
+        ],
+        [
+         0.2667,
+         1.989
+        ],
+        [
+         0.2833,
+         1.9563
+        ],
+        [
+         0.3,
+         1.9021
+        ],
+        [
+         0.3167,
+         1.8271
+        ],
+        [
+         0.3333,
+         1.7321
+        ],
+        [
+         0.35,
+         1.618
+        ],
+        [
+         0.3667,
+         1.4863
+        ],
+        [
+         0.3833,
+         1.3383
+        ],
+        [
+         0.4,
+         1.1756
+        ],
+        [
+         0.4167,
+         1.0
+        ],
+        [
+         0.4333,
+         0.8135
+        ],
+        [
+         0.45,
+         0.618
+        ],
+        [
+         0.4667,
+         0.4158
+        ],
+        [
+         0.4833,
+         0.2091
+        ],
+        [
+         0.5,
+         0.0
+        ],
+        [
+         0.5167,
+         -0.2091
+        ],
+        [
+         0.5333,
+         -0.4158
+        ],
+        [
+         0.55,
+         -0.618
+        ],
+        [
+         0.5667,
+         -0.8135
+        ],
+        [
+         0.5833,
+         -1.0
+        ],
+        [
+         0.6,
+         -1.1756
+        ],
+        [
+         0.6167,
+         -1.3383
+        ],
+        [
+         0.6333,
+         -1.4863
+        ],
+        [
+         0.65,
+         -1.618
+        ],
+        [
+         0.6667,
+         -1.7321
+        ],
+        [
+         0.6833,
+         -1.8271
+        ],
+        [
+         0.7,
+         -1.9021
+        ],
+        [
+         0.7167,
+         -1.9563
+        ],
+        [
+         0.7333,
+         -1.989
+        ],
+        [
+         0.75,
+         -2.0
+        ],
+        [
+         0.7667,
+         -1.989
+        ],
+        [
+         0.7833,
+         -1.9563
+        ],
+        [
+         0.8,
+         -1.9021
+        ],
+        [
+         0.8167,
+         -1.8271
+        ],
+        [
+         0.8333,
+         -1.7321
+        ],
+        [
+         0.85,
+         -1.618
+        ],
+        [
+         0.8667,
+         -1.4863
+        ],
+        [
+         0.8833,
+         -1.3383
+        ],
+        [
+         0.9,
+         -1.1756
+        ],
+        [
+         0.9167,
+         -1.0
+        ],
+        [
+         0.9333,
+         -0.8135
+        ],
+        [
+         0.95,
+         -0.618
+        ],
+        [
+         0.9667,
+         -0.4158
+        ],
+        [
+         0.9833,
+         -0.2091
+        ],
+        [
+         1.0,
+         -0.0
+        ],
+        [
+         1.0167,
+         0.2091
+        ],
+        [
+         1.0333,
+         0.4158
+        ],
+        [
+         1.05,
+         0.618
+        ],
+        [
+         1.0667,
+         0.8135
+        ],
+        [
+         1.0833,
+         1.0
+        ],
+        [
+         1.1,
+         1.1756
+        ],
+        [
+         1.1167,
+         1.3383
+        ],
+        [
+         1.1333,
+         1.4863
+        ],
+        [
+         1.15,
+         1.618
+        ],
+        [
+         1.1667,
+         1.7321
+        ],
+        [
+         1.1833,
+         1.8271
+        ],
+        [
+         1.2,
+         1.9021
+        ],
+        [
+         1.2167,
+         1.9563
+        ],
+        [
+         1.2333,
+         1.989
+        ],
+        [
+         1.25,
+         2.0
+        ],
+        [
+         1.2667,
+         1.989
+        ],
+        [
+         1.2833,
+         1.9563
+        ],
+        [
+         1.3,
+         1.9021
+        ],
+        [
+         1.3167,
+         1.8271
+        ],
+        [
+         1.3333,
+         1.7321
+        ],
+        [
+         1.35,
+         1.618
+        ],
+        [
+         1.3667,
+         1.4863
+        ],
+        [
+         1.3833,
+         1.3383
+        ],
+        [
+         1.4,
+         1.1756
+        ],
+        [
+         1.4167,
+         1.0
+        ],
+        [
+         1.4333,
+         0.8135
+        ],
+        [
+         1.45,
+         0.618
+        ],
+        [
+         1.4667,
+         0.4158
+        ],
+        [
+         1.4833,
+         0.2091
+        ],
+        [
+         1.5,
+         0.0
+        ],
+        [
+         1.5167,
+         -0.2091
+        ],
+        [
+         1.5333,
+         -0.4158
+        ],
+        [
+         1.55,
+         -0.618
+        ],
+        [
+         1.5667,
+         -0.8135
+        ],
+        [
+         1.5833,
+         -1.0
+        ],
+        [
+         1.6,
+         -1.1756
+        ],
+        [
+         1.6167,
+         -1.3383
+        ],
+        [
+         1.6333,
+         -1.4863
+        ],
+        [
+         1.65,
+         -1.618
+        ],
+        [
+         1.6667,
+         -1.7321
+        ],
+        [
+         1.6833,
+         -1.8271
+        ],
+        [
+         1.7,
+         -1.9021
+        ],
+        [
+         1.7167,
+         -1.9563
+        ],
+        [
+         1.7333,
+         -1.989
+        ],
+        [
+         1.75,
+         -2.0
+        ],
+        [
+         1.7667,
+         -1.989
+        ],
+        [
+         1.7833,
+         -1.9563
+        ],
+        [
+         1.8,
+         -1.9021
+        ],
+        [
+         1.8167,
+         -1.8271
+        ],
+        [
+         1.8333,
+         -1.7321
+        ],
+        [
+         1.85,
+         -1.618
+        ],
+        [
+         1.8667,
+         -1.4863
+        ],
+        [
+         1.8833,
+         -1.3383
+        ],
+        [
+         1.9,
+         -1.1756
+        ],
+        [
+         1.9167,
+         -1.0
+        ],
+        [
+         1.9333,
+         -0.8135
+        ],
+        [
+         1.95,
+         -0.618
+        ],
+        [
+         1.9667,
+         -0.4158
+        ],
+        [
+         1.9833,
+         -0.2091
+        ],
+        [
+         2.0,
+         -0.0
+        ]
+       ],
+       "renk": "lacivert",
+       "yumusak": true,
+       "etiket": "suma en fase",
+       "etiket_konum": [
+        0.3,
+        2.0
+       ],
+       "cumle": 1
+      },
+      {
+       "ad": "ters_fazli",
+       "noktalar": [
+        [
+         0,
+         0
+        ],
+        [
+         2,
+         0
+        ]
+       ],
+       "renk": "kirmizi",
+       "kesik": true,
+       "etiket": "suma en contrafase",
+       "etiket_konum": [
+        1.0,
+        0
+       ],
+       "cumle": 3
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Dos señales idénticas que vienen de la misma fuente se comportan de otra manera.",
+    "Si dos señales así están en fase, es decir, si sus picos llegan juntos, las presiones se suman y la presión se duplica.",
+    "En este caso, el nivel sube unos seis decibeles, no tres.",
+    "Dos señales idénticas en fase opuesta se cancelan entre sí, porque el pico de una coincide con el valle de la otra.",
+    "Los auriculares con cancelación activa de ruido usan este principio: reducen sobre todo el ruido grave con una señal en fase opuesta.",
+    "Los casos totalmente en fase o en contrafase son raros en la realidad; para fuentes independientes se aplica la regla de los tres decibeles."
+   ]
+  },
+  {
+   "id": "mesafe",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Efecto de la distancia",
+   "baslik": "Doble de distancia: *-6 dB*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1,
+     "max": 16,
+     "log": true,
+     "isaretler": [
+      1,
+      2,
+      4,
+      8,
+      16
+     ],
+     "ad": "Distancia (m)"
+    },
+    "y": {
+     "min": 30,
+     "max": 66,
+     "adim": 6,
+     "ad": "Nivel (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "duzey",
+      "noktalar": [
+       [
+        1.0,
+        60.0
+       ],
+       [
+        1.072,
+        59.4
+       ],
+       [
+        1.149,
+        58.8
+       ],
+       [
+        1.231,
+        58.19
+       ],
+       [
+        1.32,
+        57.59
+       ],
+       [
+        1.414,
+        56.99
+       ],
+       [
+        1.516,
+        56.39
+       ],
+       [
+        1.625,
+        55.79
+       ],
+       [
+        1.741,
+        55.18
+       ],
+       [
+        1.866,
+        54.58
+       ],
+       [
+        2.0,
+        53.98
+       ],
+       [
+        2.144,
+        53.38
+       ],
+       [
+        2.297,
+        52.78
+       ],
+       [
+        2.462,
+        52.17
+       ],
+       [
+        2.639,
+        51.57
+       ],
+       [
+        2.828,
+        50.97
+       ],
+       [
+        3.031,
+        50.37
+       ],
+       [
+        3.249,
+        49.76
+       ],
+       [
+        3.482,
+        49.16
+       ],
+       [
+        3.732,
+        48.56
+       ],
+       [
+        4.0,
+        47.96
+       ],
+       [
+        4.287,
+        47.36
+       ],
+       [
+        4.595,
+        46.75
+       ],
+       [
+        4.925,
+        46.15
+       ],
+       [
+        5.278,
+        45.55
+       ],
+       [
+        5.657,
+        44.95
+       ],
+       [
+        6.063,
+        44.35
+       ],
+       [
+        6.498,
+        43.74
+       ],
+       [
+        6.964,
+        43.14
+       ],
+       [
+        7.464,
+        42.54
+       ],
+       [
+        8.0,
+        41.94
+       ],
+       [
+        8.574,
+        41.34
+       ],
+       [
+        9.19,
+        40.73
+       ],
+       [
+        9.849,
+        40.13
+       ],
+       [
+        10.556,
+        39.53
+       ],
+       [
+        11.314,
+        38.93
+       ],
+       [
+        12.126,
+        38.33
+       ],
+       [
+        12.996,
+        37.72
+       ],
+       [
+        13.929,
+        37.12
+       ],
+       [
+        14.929,
+        36.52
+       ],
+       [
+        16.0,
+        35.92
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "bir",
+      "x": 1,
+      "y": 60,
+      "dolu": true,
+      "etiket": "60",
+      "hiza": "start",
+      "dx": 14,
+      "dy": -10,
+      "cumle": 0
+     },
+     {
+      "ad": "iki",
+      "x": 2,
+      "y": 54,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "54",
+      "hiza": "start",
+      "dx": 14,
+      "dy": -10,
+      "cumle": 1
+     },
+     {
+      "ad": "dort",
+      "x": 4,
+      "y": 48,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "48",
+      "hiza": "start",
+      "dx": 14,
+      "dy": -10,
+      "cumle": 4
+     },
+     {
+      "ad": "sekiz",
+      "x": 8,
+      "y": 42,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "42",
+      "hiza": "start",
+      "dx": 14,
+      "dy": -10,
+      "cumle": 4
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "alti_db",
+      "xk": 1.5,
+      "y": [
+       54,
+       60
+      ],
+      "etiket": "-6 dB",
+      "renk": "sari",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Doble de distancia: _-6 dB_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Fórmula: _20 log (r2 / r1)_",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Fuente puntual, _campo libre_",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "En lecciones anteriores vimos la ley del cuadrado inverso: al duplicarse la distancia, la intensidad baja a un cuarto.",
+    "Que la intensidad baje a un cuarto significa diez veces el logaritmo de un cuarto, o sea, unos menos seis decibeles.",
+    "Desde la presión llegamos a lo mismo: la presión se reduce a la mitad, y veinte veces el logaritmo de un medio también da unos menos seis.",
+    "La fórmula general es: el cambio de nivel es veinte veces el logaritmo de la razón entre las dos distancias.",
+    "Si la distancia se cuadruplica, el nivel baja doce decibeles, y si aumenta diez veces, baja veinte decibeles.",
+    "A la inversa, reducir a la mitad la distancia a la fuente sube el nivel unos seis decibeles.",
+    "Este cálculo se aplica a una fuente puntual en un campo libre sin reflexiones."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Efecto de la distancia",
+   "baslik": "Ejemplo: *el habla y la distancia*",
+   "sutunlar": [
+    "Distancia",
+    "Nivel aproximado"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "0,5 m",
+      "66 dB SPL"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "1 m",
+      "60 dB SPL"
+     ],
+     "cumle": 0,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "2 m",
+      "54 dB SPL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "4 m",
+      "48 dB SPL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "8 m",
+      "42 dB SPL"
+     ],
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Pensemos en un hablante de sesenta decibeles SPL a un metro de distancia.",
+    "En campo libre, el nivel baja a unos cincuenta y cuatro decibeles a dos metros, y a unos cuarenta y ocho a cuatro metros.",
+    "A ocho metros quedan unos cuarenta y dos decibeles.",
+    "Si nos acercamos a medio metro, el nivel sube a unos sesenta y seis decibeles.",
+    "En salas reales, las reflexiones frenan la caída a partir de cierto punto; lo veremos más adelante con el concepto de distancia crítica.",
+    "Aun así, el efecto de acercarse es claro en cualquier entorno y es muy valioso para una persona con pérdida auditiva."
+   ]
+  },
+  {
+   "id": "kaynaklar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Efecto de la distancia",
+   "baslik": "Fuente puntual, lineal y *micrófono remoto*",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Fuente puntual",
+     "cumle": 0,
+     "metin": "Doble de distancia: -6 dB"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Fuente lineal",
+     "cumle": 2,
+     "metin": "Doble de distancia: -3 dB"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Micrófono remoto",
+     "cumle": 4,
+     "metin": "15 cm: cerca de +22 dB"
+    }
+   ],
+   "cumleler": [
+    "No todas las fuentes se comportan como una fuente puntual.",
+    "Con fuentes alineadas a lo largo de una línea larga, como una autopista con mucho tráfico, el sonido se propaga como un cilindro.",
+    "Con una fuente lineal así, el nivel baja unos tres decibeles al duplicarse la distancia.",
+    "El ejemplo del micrófono remoto es llamativo: el micrófono está a unos quince centímetros de la boca del hablante.",
+    "Frente a un oyente a dos metros, esto significa una señal unos veintidós decibeles más fuerte en campo libre.",
+    "Esta ganancia es una de las formas más eficaces de elevar el habla por encima del ruido en un aula ruidosa."
+   ]
+  },
+  {
+   "id": "sure",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ruido y tiempo",
+   "baslik": "La regla de los 3 dB y *el tiempo*",
+   "maddeler": [
+    {
+     "metin": "+3 dB: _el doble de energía_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Misma dosis: _la mitad_ del tiempo",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "85 dB(A) 8 horas, _88 dB(A) 4 horas_",
+     "cumle": 3,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Dos máquinas iguales: _la mitad del tiempo_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 3,
+    "ayar": {
+     "x": {
+      "min": 0.5,
+      "max": 4.5,
+      "ad": "Nivel (dB A)",
+      "isaretler": [
+       1,
+       2,
+       3,
+       4
+      ],
+      "yazilar": {
+       "1": "85",
+       "2": "88",
+       "3": "91",
+       "4": "94",
+       "1": "85",
+       "2": "88",
+       "3": "91",
+       "4": "94"
+      }
+     },
+     "y": {
+      "min": 0,
+      "max": 9,
+      "adim": 2,
+      "ad": "Tiempo (horas)"
+     },
+     "seriler": [
+      {
+       "ad": "s85",
+       "tur": "cubuk",
+       "genislik": 0.5,
+       "noktalar": [
+        [
+         1,
+         8
+        ]
+       ],
+       "renk": "mavi",
+       "etiket": "8 horas",
+       "etiket_konum": [
+        1,
+        8
+       ],
+       "cumle": 3
+      },
+      {
+       "ad": "s88",
+       "tur": "cubuk",
+       "genislik": 0.5,
+       "noktalar": [
+        [
+         2,
+         4
+        ]
+       ],
+       "renk": "mavi",
+       "etiket": "4",
+       "etiket_konum": [
+        2,
+        4
+       ],
+       "cumle": 3
+      },
+      {
+       "ad": "s91",
+       "tur": "cubuk",
+       "genislik": 0.5,
+       "noktalar": [
+        [
+         3,
+         2
+        ]
+       ],
+       "renk": "mavi",
+       "etiket": "2",
+       "etiket_konum": [
+        3,
+        2
+       ],
+       "cumle": 3
+      },
+      {
+       "ad": "s94",
+       "tur": "cubuk",
+       "genislik": 0.5,
+       "noktalar": [
+        [
+         4,
+         1
+        ]
+       ],
+       "renk": "mavi",
+       "etiket": "1",
+       "etiket_konum": [
+        4,
+        1
+       ],
+       "cumle": 3
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Uno de los usos más importantes de la regla de suma es el tiempo de exposición al ruido.",
+    "Un aumento de tres decibeles significa que la energía sonora se duplica.",
+    "Por eso, según el principio de igual energía, cuando el ruido sube tres decibeles, el tiempo para la misma dosis se reduce a la mitad.",
+    "Por ejemplo, ocho horas a ochenta y cinco decibeles A, cuatro horas a ochenta y ocho y dos horas a noventa y uno dan dosis iguales.",
+    "En Turquía y en Europa, las normas sobre ruido también usan esta tasa de intercambio de tres decibeles.",
+    "Si dos máquinas igual de ruidosas funcionan en el mismo lugar, el nivel sube tres decibeles y el tiempo para la misma dosis baja a la mitad."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En pruebas en campo libre, mantener la cabeza del paciente en el punto de calibración. Sentarse a medio metro en vez de a uno sube el nivel unos 6 dB, en teoría.",
+   "cumleler": [
+    "Un consejo útil para las pruebas en campo libre: la cabeza del paciente debe estar en el punto donde se hizo la calibración.",
+    "Un paciente sentado a medio metro de un altavoz calibrado a un metro recibe, en teoría, unos seis decibeles más.",
+    "Por las reflexiones de la sala, la diferencia real puede ser algo menor, pero aun así los umbrales serán erróneos.",
+    "Marcar en el piso la posición de la silla es una forma sencilla de evitar este error."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Se suman _intensidades_, no decibeles",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Dos fuentes iguales: _+3 dB_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Diferencia de 10 dB: solo _+0,4 dB_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Doble de distancia: _-6 dB_",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "En sonidos independientes se suman las intensidades, no los decibeles; luego el resultado vuelve a pasarse a decibeles.",
+    "Dos fuentes iguales dan un aumento de unos tres decibeles, y diez fuentes iguales, de diez decibeles.",
+    "Cuando la diferencia entre fuentes llega a diez decibeles, la más débil sube el total solo unos cero coma cuatro decibeles.",
+    "En campo libre, cuando se duplica la distancia a una fuente puntual, el nivel baja unos seis decibeles."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "70 dB SPL a 1 m; ¿cuánto es a 4 m en campo libre?",
+   "secenekler": [
+    "64 dB SPL",
+    "58 dB SPL",
+    "52 dB SPL",
+    "35 dB SPL"
+   ],
+   "dogru": 1,
+   "aciklama": "Cuatro veces la distancia: _20 log 4 = cerca de 12 dB_ menos.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: una fuente puntual da setenta decibeles SPL a un metro; ¿qué nivel tiene a cuatro metros en campo libre?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: unos cincuenta y ocho decibeles SPL.",
+    "Cuando la distancia se cuadruplica, el nivel baja veinte veces el logaritmo de cuatro, o sea, unos doce decibeles."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Transductores: cómo funcionan *micrófonos* y altavoces",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección conoceremos los transductores: micrófonos y altavoces que convierten el sonido en electricidad y de nuevo en sonido.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

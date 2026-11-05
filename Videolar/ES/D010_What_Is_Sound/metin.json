@@ -1,0 +1,635 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D010_What_Is_Sound_ES",
+ "kapak": {
+  "ust": "LECCIÓN 10",
+  "baslik": "¿Qué es el *sonido?*",
+  "alt": "Vibración, ondas y medio",
+  "cizim": "ses_dalgasi",
+  "ayar": {
+   "frekans_hz": 1000
+  }
+ },
+ "youtube": {
+  "baslik": "¿Qué es el sonido? Vibración, ondas y medio | Lección 10 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos desde la base qué es el sonido: la vibración, la compresión y la rarefacción, las ondas longitudinales, la velocidad del sonido en distintos medios y por qué el sonido no viaja en el vacío. También vemos brevemente cómo el sonido pasa del aire al sólido y al líquido dentro del oído.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Speaks, Introduction to Sound: Acoustics for the Hearing and Speech Sciences; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "acustica",
+   "fisicadelsonido"
+  ],
+  "etiketler": [
+   "qué es el sonido",
+   "física del sonido",
+   "vibración",
+   "onda longitudinal",
+   "compresión",
+   "rarefacción",
+   "velocidad del sonido",
+   "medio de propagación",
+   "ciencias de la audición",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 10",
+   "baslik": "¿Qué es el *sonido?*",
+   "alt": "Vibración, ondas y medio",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "Con esta lección empezamos la física del sonido: veremos qué es el sonido, cómo se produce y cómo viaja.",
+    "Veremos la vibración, la compresión y la rarefacción, las ondas longitudinales y por qué el sonido no puede viajar en el vacío."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La vibración",
+   "baslik": "El sonido necesita *tres cosas*",
+   "adimlar": [
+    {
+     "ikon": "diyapazon",
+     "baslik": "Fuente",
+     "cumle": 1,
+     "metin": "Un objeto que vibra"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Medio",
+     "cumle": 2,
+     "metin": "Aire, agua, hueso"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Receptor",
+     "cumle": 3,
+     "metin": "Oído o micrófono"
+    }
+   ],
+   "cumleler": [
+    "El sonido es una forma de energía que viaja por la vibración de las moléculas de un medio.",
+    "Primero, el sonido necesita una fuente que vibre, como un diapasón, el cono de un altavoz o los pliegues vocales.",
+    "La segunda condición es un medio que transporte la vibración, como el aire, el agua o el hueso.",
+    "Para oír se necesita una tercera cosa: un receptor que detecte la vibración, como un oído o un micrófono.",
+    "En física, el sonido existe aunque nadie lo oiga; la audición es la percepción del sonido por un ser vivo."
+   ]
+  },
+  {
+   "id": "titresim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La vibración",
+   "baslik": "¿Qué es la *vibración?*",
+   "cizim": "diyapazon",
+   "ayar": {
+    "test": "rinne"
+   },
+   "etiketler": [
+    {
+     "parca": "diyapazon",
+     "metin": "Diapasón: fuente que vibra",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "diyapazon",
+     "cumle": 1
+    },
+    {
+     "parca": "kulak",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Elasticidad: _lo devuelve_",
+     "cumle": 4,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Masa: _sobrepasa el reposo_",
+     "cumle": 4,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Fricción: _amortiguación_",
+     "cumle": 6,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "La vibración es el movimiento de ida y vuelta de un objeto alrededor de su posición de reposo.",
+    "Cuando golpeamos un diapasón, sus ramas empiezan a oscilar rápidamente hacia afuera y hacia adentro.",
+    "Cuando las ramas se mueven hacia afuera, empujan las moléculas de aire cercanas y las juntan.",
+    "Cuando las ramas vuelven hacia adentro, dejan atrás una región donde las moléculas están más separadas.",
+    "El movimiento continúa gracias a dos propiedades: la elasticidad devuelve el objeto, y su masa hace que sobrepase la posición de reposo.",
+    "Este movimiento regular, de una sola frecuencia, se llama movimiento armónico simple; así produce un diapasón un tono puro.",
+    "La fricción consume algo de energía en cada ciclo, por eso la vibración se apaga con el tiempo; esto se llama amortiguación."
+   ]
+  },
+  {
+   "id": "dalga",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Las ondas",
+   "baslik": "Compresión y *rarefacción*",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "dalga",
+     "metin": "Cambio de presión",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Cresta: _compresión_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Valle: _rarefacción_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Presión que varía en torno a la _atmosférica_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Mientras el diapasón sigue vibrando, regiones de compresión y de rarefacción se suceden alejándose de la fuente.",
+    "La región donde las moléculas se juntan y la presión sube un poco se llama compresión, o condensación.",
+    "La región donde las moléculas se separan y la presión baja un poco se llama rarefacción.",
+    "Arriba en la pantalla ven cómo se distribuyen las moléculas, y abajo, el cambio de presión medido en el mismo instante.",
+    "Las crestas de la curva de presión corresponden a las compresiones, y los valles, a las rarefacciones.",
+    "Esta curva es la forma más común de mostrar el sonido, pero el sonido no es una línea ondulada; es un cambio de presión en el aire."
+   ]
+  },
+  {
+   "id": "molekul",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Las ondas",
+   "baslik": "Las moléculas *no viajan*",
+   "maddeler": [
+    {
+     "metin": "Las moléculas oscilan _en su lugar_",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Lo que viaja: _energía_ y patrón",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ola de estadio: _cada persona en su lugar_",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "El sonido _no es viento_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ses_dalgasi",
+    "cumle": 0,
+    "ayar": {
+     "frekans_hz": 500
+    },
+    "vurgula": [
+     {
+      "parca": "dalga",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Un punto importante: cuando el sonido viaja, las moléculas de aire no recorren todo el camino desde la fuente hasta el oído.",
+    "Cada molécula solo se mueve de ida y vuelta una distancia corta alrededor de su posición de reposo y pasa el movimiento a su vecina.",
+    "Lo que viaja no son las moléculas, sino el patrón de compresión y rarefacción, es decir, la energía.",
+    "Piensen en la ola de un estadio: el público se levanta y se sienta en su lugar, pero la ola recorre las tribunas.",
+    "Así, el sonido no es una corriente de aire como el viento; el viento es aire que se traslada de un lugar a otro.",
+    "Un resorte de juguete muestra lo mismo: las espiras oscilan en su lugar, mientras la zona comprimida avanza a lo largo del resorte."
+   ]
+  },
+  {
+   "id": "boyuna",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Las ondas",
+   "baslik": "Ondas longitudinales y *transversales*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Onda longitudinal",
+     "cumle": 1,
+     "metin": "Movimiento en la dirección de avance"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Sonido en el aire",
+     "cumle": 2,
+     "metin": "Compresión y rarefacción"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Onda transversal",
+     "cumle": 3,
+     "metin": "Movimiento en ángulo recto"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Cóclea",
+     "cumle": 5,
+     "metin": "La membrana sube y baja"
+    }
+   ],
+   "cumleler": [
+    "Las ondas se dividen en dos grupos, según la dirección en que se mueven las partículas.",
+    "En una onda longitudinal, las partículas van y vienen sobre la misma línea en que avanza la onda.",
+    "El sonido en el aire es una onda longitudinal; la compresión y la rarefacción solo pueden formarse con este tipo de movimiento.",
+    "En una onda transversal, las partículas se mueven en ángulo recto respecto de la dirección de avance, como en una cuerda tensa.",
+    "En líquidos y gases, el sonido viaja solo como onda longitudinal, mientras que en los sólidos también pueden formarse ondas transversales.",
+    "En la onda viajera de la cóclea, la membrana basilar sube y baja; lo veremos en próximas lecciones."
+   ]
+  },
+  {
+   "id": "ozellik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Las ondas",
+   "baslik": "Cómo *describir* un sonido",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frecuencia",
+     "cumle": 1,
+     "metin": "Tono grave o agudo"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Amplitud",
+     "cumle": 2,
+     "metin": "Relacionada con la sonoridad"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Longitud de onda",
+     "cumle": 3,
+     "metin": "De compresión a compresión"
+    }
+   ],
+   "cumleler": [
+    "Para describir una onda sonora, miramos algunas propiedades básicas.",
+    "La frecuencia es el número de vibraciones por segundo, y se relaciona con que oigamos un sonido como grave o agudo.",
+    "La amplitud es el tamaño del cambio de presión, y se relaciona con la sonoridad percibida.",
+    "La longitud de onda es la distancia entre una compresión y la siguiente.",
+    "Estudiaremos estas propiedades en detalle en las próximas dos lecciones."
+   ]
+  },
+  {
+   "id": "hiz",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "El medio",
+   "baslik": "La *velocidad* del sonido",
+   "sutunlar": [
+    "Medio",
+    "Velocidad aproximada"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Aire, 0 °C",
+      "331 m/s"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Aire, 20 °C",
+      "343 m/s"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Agua",
+      "1480 m/s"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Acero",
+      "Más de 5000 m/s"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El sonido no viaja a la misma velocidad en todos los medios; su velocidad depende de la rigidez y la densidad del medio.",
+    "En el aire a veinte grados Celsius, el sonido recorre unos trescientos cuarenta y tres metros por segundo.",
+    "La velocidad aumenta con el calor; a cero grados baja a unos trescientos treinta y un metros, unos cero coma seis metros menos por grado.",
+    "En el agua, el sonido es unas cuatro veces más rápido: cerca de mil cuatrocientos ochenta metros por segundo.",
+    "En sólidos duros como el acero, la velocidad supera los cinco mil metros por segundo.",
+    "Los sólidos son más densos, pero mucho más rígidos, es decir, más difíciles de comprimir, por eso el sonido viaja más rápido en ellos.",
+    "Contar los segundos entre el relámpago y el trueno es un ejemplo cotidiano: cada tres segundos equivalen a cerca de un kilómetro."
+   ]
+  },
+  {
+   "id": "hiz_klinik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "El medio",
+   "baslik": "La velocidad *en la clínica*",
+   "maddeler": [
+    {
+     "metin": "Tubo de inserción: retraso de unos _0,9 ms_",
+     "cumle": 1,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "_Se tiene en cuenta_ en los PEATC",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "1 metro de aire: unos _3 ms_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Diferencia interaural de tiempo: _dirección_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "ayar": {
+     "insert": true
+    },
+    "etiketler": [
+     {
+      "parca": "ses_tupu",
+      "metin": "Tubo de sonido",
+      "cumle": 1
+     },
+     {
+      "parca": "transduser",
+      "metin": "Transductor",
+      "cumle": 1
+     }
+    ],
+    "yakinlastir": {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 1.5
+    }
+   },
+   "cumleler": [
+    "Conocer la velocidad del sonido también es útil en la clínica.",
+    "Con auriculares de inserción, el sonido va del transductor al oído por un tubo fino, lo que agrega un retraso de unos cero coma nueve milisegundos.",
+    "Este retraso se tiene en cuenta en las pruebas medidas en milisegundos, como los potenciales evocados auditivos de tronco cerebral (PEATC).",
+    "En las pruebas en campo libre, un metro de distancia entre el altavoz y la cabeza significa un retraso de unos tres milisegundos.",
+    "El cerebro también aprovecha que el sonido llega a los dos oídos en momentos distintos para localizarlo; lo veremos más adelante."
+   ]
+  },
+  {
+   "id": "bosluk",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "El medio",
+   "baslik": "No hay sonido en el *vacío*",
+   "maddeler": [
+    {
+     "metin": "Sin moléculas: _no hay sonido_",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Campana de vidrio: la campana _enmudece_",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Hablar en el espacio: _radio_",
+     "cumle": 3,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "El sonido es una onda _mecánica_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DOS TIPOS DE ONDAS",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Onda mecánica",
+      "cumle": 4,
+      "metin": "Necesita un medio"
+     },
+     {
+      "ikon": "telefon",
+      "baslik": "Electromagnética",
+      "cumle": 4,
+      "metin": "Viaja también en el vacío"
+     }
+    ]
+   },
+   "cumleler": [
+    "Como el sonido se transmite por la vibración de las moléculas, no puede viajar donde no hay moléculas.",
+    "En un experimento clásico del siglo diecisiete, al extraer el aire de un frasco de vidrio, el sonido de la campana interior se va apagando.",
+    "La campana sigue vibrando, pero ya no queda aire que lleve la vibración hasta el oído.",
+    "Por eso el sonido tampoco viaja en el espacio; los astronautas hablan por radio, es decir, con ondas electromagnéticas.",
+    "La luz y las ondas de radio son ondas electromagnéticas y pueden viajar en el vacío, mientras que el sonido es una onda mecánica.",
+    "En resumen, el sonido necesita un medio: aire, agua, hueso u otro material."
+   ]
+  },
+  {
+   "id": "kulakta",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "El sonido en el oído",
+   "baslik": "*Tres medios* en el oído",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Aire",
+     "cumle": 1
+    },
+    {
+     "parca": "kemikcikler",
+     "metin": "Sólido: huesecillos",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "metin": "Líquido: cóclea",
+     "cumle": 3
+    },
+    {
+     "parca": "temporal_kemik",
+     "metin": "Conducción ósea",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "kemikcikler",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3
+    },
+    {
+     "parca": "temporal_kemik",
+     "cumle": 5
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "orta_kulak",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El propio oído es un camino en el que el sonido atraviesa distintos medios.",
+    "El sonido viaja por el aire en el conducto auditivo y hace vibrar la membrana timpánica, el tímpano.",
+    "En el oído medio, la vibración la transmiten estructuras sólidas, la cadena osicular.",
+    "En el oído interno, la vibración pasa al líquido que hay dentro de la cóclea.",
+    "Al pasar del aire al líquido puede reflejarse gran parte de la energía; veremos cómo lo resuelve el oído medio en próximas lecciones.",
+    "El sonido también puede llegar al oído interno directamente por los huesos del cráneo; en esto se basa la audición por conducción ósea.",
+    "Por eso, en parte, nuestra voz grabada nos suena extraña: al hablar, oímos nuestra voz por el aire y por el hueso."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Sostener el diapasón solo por el mango; tocar las ramas amortigua la vibración. Golpearlo suavemente en una almohadilla de goma o la rodilla, no en una superficie dura.",
+   "cumleler": [
+    "Un consejo útil al trabajar con un diapasón: sosténganlo solo por el mango.",
+    "En cuanto se tocan las ramas, la vibración se amortigua y el sonido desaparece de inmediato.",
+    "Golpeen el diapasón suavemente en una almohadilla de goma o en la rodilla, no en una superficie dura; un golpe fuerte puede producir tonos no deseados.",
+    "Veremos las pruebas con diapasón en detalle en próximas lecciones."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Sonido: _energía de vibración_ en un medio",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Compresión y rarefacción: _onda longitudinal_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Unos _343 m/s_ en el aire",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "El sonido _no viaja_ en el vacío",
+     "cumle": 3,
+     "ikon": "sessizlik"
+    }
+   ],
+   "cumleler": [
+    "El sonido es energía que una fuente vibrante propaga a través de las moléculas de un medio.",
+    "En el aire, el sonido es una onda longitudinal de compresiones y rarefacciones; las moléculas oscilan en su lugar.",
+    {
+     "yazi": "La velocidad del sonido depende del medio: unos 343 metros por segundo en el aire a 20 grados, y unos 1480 en el agua."
+    },
+    "Como el sonido es una onda mecánica, no puede viajar en el vacío."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿En qué medio no puede viajar el sonido?",
+   "secenekler": [
+    "Agua",
+    "Aire",
+    "Vacío",
+    "Hueso"
+   ],
+   "dogru": 2,
+   "aciklama": "El sonido es una onda _mecánica_; no puede viajar sin moléculas que transmitan la vibración.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿en qué medio no puede viajar el sonido?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: el vacío.",
+    "El sonido es una onda mecánica; no puede viajar sin moléculas que transmitan la vibración."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Frecuencia, período y *longitud de onda*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección aprenderemos la frecuencia, el período y la longitud de onda, junto con las fórmulas simples que los relacionan.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

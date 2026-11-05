@@ -1,0 +1,147 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R475_Earplug_at_the_Canal_Entrance_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #475",
+  "baslik": "En la *entrada del conducto*",
+  "alt": "Cómo colocar bien los tapones auditivos",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      30,
+      40,
+      35,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      20,
+      25,
+      25,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Por qué puede seguir el cambio de umbral si se usan tapones de espuma? #shorts",
+  "aciklama": "Una de las causas más frecuentes de un cambio de umbral es un protector mal colocado o usado de forma irregular. En el caso de ejemplo, se le pide al trabajador que se coloque el tapón delante del audiólogo, y el tapón queda solo en la entrada del conducto; un tapón de espuma debe enrollarse hasta formar un cilindro delgado e introducirse profundamente en el conducto mientras se tira del pabellón auricular hacia arriba y hacia atrás. La forma de medir la protección real, en lugar de suponerla, es la prueba de ajuste individual; incluso quitarse el protector por períodos cortos durante la jornada reduce claramente la protección efectiva.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "ruido",
+   "saludocupacional"
+  ],
+  "etiketler": [
+   "tapones auditivos",
+   "protección auditiva",
+   "prueba de ajuste individual",
+   "cambio estándar del umbral",
+   "hipoacusia inducida por ruido",
+   "caso clínico",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Por qué puede seguir el cambio de umbral si se usan tapones de espuma?",
+  "bilgiler": [
+   "Un tapón en la entrada del conducto protege mucho menos que su etiqueta.",
+   "Enróllalo en un cilindro delgado; tira del pabellón hacia arriba y atrás.",
+   "La protección real se mide con la prueba de ajuste individual."
+  ],
+  "hashtag": [
+   "audiologia",
+   "ruido",
+   "saludocupacional"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #475",
+   "metin": "Con tapones, *¿y el cambio?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Por qué puede seguir el cambio de umbral si se usan tapones de espuma?"
+   ]
+  },
+  {
+   "id": "takma",
+   "tur": "zincir",
+   "baslik": "Colocación *correcta*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Enrollar",
+     "tr": "cilindro delgado",
+     "cumle": 2
+    },
+    {
+     "ad": "Tirar",
+     "tr": "pabellón arriba y atrás",
+     "cumle": 2,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Introducir",
+     "tr": "profundo en el conducto",
+     "cumle": 2,
+     "gecikme": 1.2
+    }
+   ],
+   "alt": "Prueba de _ajuste individual_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "El trabajador se coloca el tapón delante del audiólogo.",
+    "Aquí queda en la entrada del conducto, muy por debajo de la protección de su etiqueta.",
+    "Enróllalo delgado, tira del pabellón hacia arriba y atrás, e introdúcelo a fondo.",
+    "La protección real no se supone: se mide con la prueba de ajuste individual."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D278",
+ "kaynak_baslik": "Caso: audiogramas anuales de un trabajador con ruido"
+}

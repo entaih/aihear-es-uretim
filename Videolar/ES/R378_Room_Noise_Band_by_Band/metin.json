@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R378_Room_Noise_Band_by_Band_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #378",
+  "baslik": "Ruido de la sala, *banda por banda*",
+  "alt": "¿Cómo se mide el ruido ambiental?",
+  "cizim": "test_kabini",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿El ruido de la sala de pruebas se juzga con un solo valor en decibeles? #shorts",
+  "aciklama": "El ruido ambiental máximo permitido en una sala de pruebas no se da como un solo número, sino como niveles por bandas de octava o de tercio de octava, así que un único valor en decibeles con ponderación A no basta. El micrófono se coloca donde estará la cabeza del paciente, a la altura del oído, con la puerta cerrada y la ventilación, las luces y las computadoras funcionando. Como el ruido puede cambiar durante el día, repite la medición en las horas de mayor actividad de la clínica.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "cabinaaudiometrica",
+   "audiometria"
+  ],
+  "etiketler": [
+   "ruido ambiental",
+   "MPANL",
+   "cabina audiométrica",
+   "banda de octava",
+   "sonómetro",
+   "audiometría",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿El ruido de la sala de pruebas se juzga con un solo valor en decibeles?",
+  "bilgiler": [
+   "Los límites se dan por separado para cada banda de octava.",
+   "El micrófono va en la posición de la cabeza del paciente, a la altura del oído.",
+   "Mide en condiciones reales, también en las horas pico."
+  ],
+  "hashtag": [
+   "audiologia",
+   "cabinaaudiometrica",
+   "audiometria"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #378",
+   "metin": "¿Un solo *número?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿El ruido de la sala de pruebas se juzga con un solo valor en decibeles?"
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "zincir",
+   "baslik": "¿Cómo se mide *el ruido de la sala?*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Bandas de octava",
+     "tr": "cada banda aparte",
+     "cumle": 0
+    },
+    {
+     "ad": "Posición de la cabeza",
+     "tr": "altura del oído",
+     "cumle": 2
+    },
+    {
+     "ad": "Condiciones reales",
+     "tr": "todo funcionando",
+     "cumle": 3
+    }
+   ],
+   "alt": "Horas pico: _mide otra vez_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "No; los límites se dan por separado para cada banda de octava.",
+    "Por eso, un solo valor en decibeles con ponderación A no basta.",
+    "El micrófono va donde estará la cabeza del paciente, a la altura del oído.",
+    "Mide con la puerta cerrada, y con la ventilación, las luces y las computadoras funcionando.",
+    "El ruido cambia durante el día; repite la medición en las horas de más actividad de la clínica."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D115",
+ "kaynak_baslik": "Normas de la sala de pruebas: ruido ambiental máximo"
+}

@@ -1,0 +1,107 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R278_What_Noise_Reduction_Does_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #278",
+  "baslik": "Lo que hace la *reducción de ruido*",
+  "alt": "Expectativas realistas de la reducción digital de ruido",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿La reducción de ruido facilita entender el habla en ruido? #shorts",
+  "aciklama": "La reducción digital de ruido baja la ganancia en los canales donde predomina el ruido, pero como el habla y el ruido de un mismo canal bajan juntos, no puede cambiar la relación señal-ruido dentro de ese canal. Los estudios muestran más confort auditivo, mientras que la comprensión del habla por lo general no cambia de forma clara.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audifonos",
+   "ruido"
+  ],
+  "etiketler": [
+   "reducción digital de ruido",
+   "DNR",
+   "relación señal-ruido",
+   "confort auditivo",
+   "habla en ruido",
+   "audífono",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿La reducción de ruido facilita entender el habla en ruido?",
+  "bilgiler": [
+   "La ganancia baja en los canales donde predomina el ruido.",
+   "Habla y ruido de un canal bajan juntos; la relación se mantiene.",
+   "Mejora el confort; la comprensión no suele cambiar con claridad."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "ruido"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #278",
+   "metin": "¿Más *comprensible?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿La reducción de ruido facilita entender el habla en ruido?"
+   ]
+  },
+  {
+   "id": "dnr",
+   "tur": "zincir",
+   "baslik": "El efecto de la *reducción de ruido*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Canal",
+     "tr": "¿habla o ruido?",
+     "cumle": 0
+    },
+    {
+     "ad": "Ganancia",
+     "tr": "se reduce",
+     "cumle": 1
+    },
+    {
+     "ad": "Confort",
+     "tr": "mejora",
+     "cumle": 3
+    }
+   ],
+   "alt": "Más tolerable, _no más inteligible_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Cada canal evalúa si la señal se parece más al habla o al ruido.",
+    "La ganancia se reduce en los canales donde predomina el ruido.",
+    "Pero el habla y el ruido de un canal bajan juntos; la relación se mantiene.",
+    "Los estudios muestran mejor confort auditivo y mayor tolerancia al ruido.",
+    "Sin embargo, la comprensión del habla por lo general no mostró una mejora clara."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D183",
+ "kaynak_baslik": "Micrófonos direccionales y reducción de ruido"
+}

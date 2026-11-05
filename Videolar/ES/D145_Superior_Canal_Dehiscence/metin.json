@@ -1,0 +1,920 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D145_Superior_Canal_Dehiscence_ES",
+ "kapak": {
+  "ust": "LECCIÓN 145",
+  "baslik": "La tercera<br>*ventana*",
+  "alt": "Dehiscencia del canal superior",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      25,
+      20,
+      15,
+      10,
+      10,
+      15
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      -10,
+      -10,
+      0,
+      5,
+      10
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Tercera ventana: dehiscencia del canal superior | Lección 145 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos el vértigo inducido por sonido y presión, la autofonía y el efecto de tercera ventana de la dehiscencia del canal semicircular superior. Vemos la brecha aéreo-ósea en graves, los umbrales óseos por debajo de cero, los reflejos acústicos conservados y los hallazgos de los VEMP, y los comparamos con la otosclerosis.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Ward et al., Superior semicircular canal dehiscence syndrome: Diagnostic criteria consensus document of the Bárány Society, Journal of Vestibular Research (2021); Minor et al., Archives of Otolaryngology Head and Neck Surgery (1998); Jacobson and Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "terceraventana",
+   "VEMP"
+  ],
+  "etiketler": [
+   "dehiscencia del canal superior",
+   "dehiscencia del canal semicircular superior",
+   "síndrome de tercera ventana",
+   "fenómeno de Tullio",
+   "signo de Hennebert",
+   "autofonía",
+   "brecha aéreo-ósea",
+   "VEMP",
+   "diagnóstico diferencial otosclerosis",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 145",
+   "baslik": "La tercera ventana: el *canal superior*",
+   "alt": "Dehiscencia del canal superior y hallazgos audiológicos",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos los síndromes de tercera ventana y su ejemplo más conocido, la dehiscencia del canal superior.",
+    "Veremos el vértigo desencadenado por sonido y presión, la brecha aéreo-ósea y los hallazgos de los potenciales evocados miogénicos vestibulares (VEMP)."
+   ]
+  },
+  {
+   "id": "iki_pencere",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La tercera ventana",
+   "baslik": "Dos ventanas, *un* equilibrio",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "oval_pencere",
+     "metin": "Ventana oval",
+     "cumle": 0
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Ventana redonda",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "Membrana basilar",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "oval_pencere",
+     "cumle": 0
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 2
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "La energía va a la _membrana basilar_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Una tercera abertura: _la energía escapa_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Sabemos que el oído interno tiene dos ventanas que se abren al oído medio: la ventana oval y la ventana redonda.",
+    "Cuando el estribo empuja la ventana oval, una onda de presión recorre la cóclea y la membrana de la ventana redonda se abomba hacia afuera.",
+    "En esta disposición, la mayor parte de la energía se usa para hacer vibrar la membrana basilar.",
+    "Si se forma una tercera abertura en el laberinto óseo, parte de la energía escapa por este nuevo camino.",
+    "Estos cuadros se conocen en conjunto como síndromes de tercera ventana."
+   ]
+  },
+  {
+   "id": "dehisans",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La tercera ventana",
+   "baslik": "*Dehiscencia* del canal superior",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "superior_kanal",
+     "metin": "Canal superior",
+     "cumle": 1
+    },
+    {
+     "parca": "dehisans",
+     "metin": "defecto óseo",
+     "cumle": 1
+    },
+    {
+     "parca": "dura",
+     "metin": "duramadre",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "superior_kanal",
+     "cumle": 1
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dehisans",
+     "cumle": 1,
+     "olcek": 1.6
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Un _defecto óseo_ en el techo del canal",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Primera descripción: _1998_",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "En cerca de _5 de cada 1000_ huesos",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "La tercera ventana más conocida es la dehiscencia del canal semicircular superior.",
+    "En este cuadro, el hueso que cubre el techo del canal semicircular superior se adelgaza y se abre.",
+    "El defecto se sitúa entre el canal y la fosa craneal media; allí, el canal queda cubierto solo por la duramadre.",
+    {
+     "yazi": "El cuadro fue descrito por primera vez en 1998 por Lloyd Minor y sus colaboradores."
+    },
+    "En estudios en cadáveres se halló un defecto en cerca de cinco de cada mil huesos temporales, y hueso muy delgado en más.",
+    "Se cree que el hueso es delgado desde el nacimiento y que se abre más tarde con un traumatismo o con cambios de presión."
+   ],
+   "ayar": {
+    "dehisans": true,
+    "dehisans_cumle": 1,
+    "fossa_cumle": 2
+   }
+  },
+  {
+   "id": "mekanizma",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La tercera ventana",
+   "baslik": "¿Por qué el sonido causa *mareo?*",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Sonido, presión",
+     "metin": "Llegan al oído interno",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Canal abierto",
+     "metin": "La energía va al defecto",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "La cúpula se desvía",
+     "metin": "La endolinfa se mueve",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Vértigo",
+     "metin": "Aparecen movimientos oculares",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El defecto vuelve al canal superior sensible al sonido y a la presión.",
+    "Un sonido fuerte o un cambio de presión se transmite al oído interno a través del estribo.",
+    "Parte de la energía no fluye hacia la cóclea, sino por el canal superior, hacia el defecto de baja resistencia.",
+    "Este flujo desvía la cúpula en la ampolla del canal, y llega al cerebro una falsa señal de rotación.",
+    "El resultado es vértigo y movimientos oculares desencadenados por el sonido o la presión."
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Síntomas",
+   "baslik": "*Síntomas* típicos",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Fenómeno de Tullio",
+     "metin": "Vértigo por sonido",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Signo de Hennebert",
+     "metin": "Vértigo por presión",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Autofonía",
+     "metin": "La propia voz resuena",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Sonidos internos",
+     "metin": "Pulso, pasos, ojos",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Plenitud",
+     "metin": "Se confunde con oído medio",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El vértigo o la oscilopsia provocados por el sonido se denominan fenómeno de Tullio.",
+    "Un síntoma provocado por la tos, el pujo, soplar con la nariz tapada o la presión en el conducto auditivo se llama signo de Hennebert.",
+    "Oír la propia voz con eco y fuerte se llama autofonía; es una queja muy frecuente.",
+    "Algunos pacientes dicen que oyen en el oído su propio pulso, sus pasos e incluso sus movimientos oculares.",
+    "La plenitud ótica también es frecuente y puede confundirse fácilmente con un problema del oído medio.",
+    "Los síntomas pueden ser unilaterales o bilaterales; algunas personas con el defecto no tienen ningún síntoma."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Síntomas",
+   "baslik": "*Pistas* en la anamnesis",
+   "maddeler": [
+    {
+     "metin": "Suele comenzar en la _adultez_",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Inicio tras un traumatismo o _esfuerzo_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Defecto en uno o _ambos oídos_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Puede seguir _sin diagnóstico_ durante años",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "_Preguntar_ por sonido y presión",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PREGUNTAR",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "hoparlor",
+      "baslik": "¿Sonidos fuertes?",
+      "metin": "Giro o desplazamiento",
+      "cumle": 4
+     },
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "¿Tos, esfuerzo?",
+      "metin": "¿Aumentan los síntomas?",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Los síntomas suelen comenzar en la adultez, a veces tras un evento de presión como un traumatismo craneal o levantar mucho peso.",
+    "Algunos pacientes tienen el defecto en un oído y otros en ambos.",
+    "Las quejas pueden quedar sin diagnóstico durante años; a menudo los pacientes ya han consultado en varias clínicas.",
+    "La autofonía constante y el mareo provocado por sonidos pueden afectar notablemente la vida diaria.",
+    "Por eso, preguntar específicamente cómo se relacionan los síntomas con el sonido y la presión es el primer paso clave hacia el diagnóstico."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "Vía ósea *por debajo de cero*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Vía ósea enmascarada_: bajo cero",
+     "cumle": 2
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: normal",
+     "cumle": 5
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       25,
+       20,
+       15,
+       10,
+       10,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       -10,
+       -10,
+       0,
+       5,
+       10
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 5
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "aralik": {
+     "konum": [
+      0,
+      -10,
+      25
+     ],
+     "etiket": "35 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, los umbrales por vía aérea del oído derecho están algo elevados en las frecuencias graves.",
+    "Sin embargo, el hallazgo llamativo es la vía ósea.",
+    "Los umbrales por vía ósea enmascarada bajan de cero, hasta menos diez decibeles, en doscientos cincuenta y quinientos hertz.",
+    "El resultado es una clara brecha aéreo-ósea en graves; se la llama brecha de oído interno o pseudoconductiva.",
+    "La tercera ventana deja escapar parte de la energía que llega por vía aérea, y a la vez aumenta la sensibilidad por vía ósea.",
+    "En este ejemplo, el oído izquierdo está dentro de límites normales; los timpanogramas y los reflejos acústicos son normales en ambos oídos."
+   ]
+  },
+  {
+   "id": "neden_aralik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "¿*Cómo* se forma la brecha?",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 500
+   },
+   "etiketler": [
+    {
+     "parca": "oval_pencere",
+     "metin": "Lado vestibular",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Ventana redonda",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 1
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vía ósea: estimulación _más fuerte_",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Vía aérea: _la energía escapa_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Juntas: una _brecha_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Veamos con más detalle por qué la vía ósea se oye mejor de lo normal.",
+    "La vibración por vía ósea mueve la membrana basilar al crear una diferencia de presión entre los dos lados de la cóclea.",
+    "Normalmente, el lado vestibular tiene una impedancia alta; la tercera ventana reduce la impedancia de este lado.",
+    "Así, en la vía ósea, la diferencia de presión entre ambos lados aumenta y la cóclea se estimula con más fuerza.",
+    "En la vía aérea, parte de la energía escapa por el defecto; juntos, ambos efectos crean la brecha aéreo-ósea."
+   ]
+  },
+  {
+   "id": "vemp",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "VEMP: respuestas *aumentadas*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "cVEMP",
+     "metin": "El umbral baja",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "oVEMP",
+     "metin": "La amplitud aumenta",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frecuencia alta",
+     "metin": "Destaca una respuesta en agudos",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Normas locales",
+     "metin": "Los límites dependen del laboratorio",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Los potenciales evocados miogénicos vestibulares (VEMP) son una de las pruebas fisiológicas más valiosas para la dehiscencia.",
+    {
+     "yazi": "El VEMP cervical (cVEMP) se obtiene a una intensidad claramente menor de lo normal en el oído dehiscente."
+    },
+    {
+     "yazi": "La amplitud del VEMP ocular (oVEMP) aumenta notablemente; en muchos estudios, este es el hallazgo más distintivo."
+    },
+    {
+     "yazi": "Un oVEMP claro ante un estímulo de cuatro mil hertz, que normalmente da una respuesta débil, también puede sugerir dehiscencia."
+    },
+    "En la otosclerosis, en cambio, un estímulo por vía aérea no suele dar VEMP; esta diferencia es muy valiosa para el diagnóstico.",
+    "Como los valores de corte varían según el equipo, el estímulo y el laboratorio, la interpretación usa normas locales."
+   ]
+  },
+  {
+   "id": "otoskleroz",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "¿Otosclerosis o *dehiscencia?*",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Reflejo acústico",
+     "metin": "Otosclerosis: _ausente_. Dehiscencia: _presente_.",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Vía ósea",
+     "metin": "Otosclerosis: no baja de cero, muesca de Carhart. Dehiscencia: _valores negativos_.",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Sonido y presión",
+     "metin": "Dehiscencia: provocan _vértigo_; no esperado en otosclerosis.",
+     "cumle": 4
+    },
+    {
+     "ikon": "noron",
+     "baslik": "VEMP",
+     "metin": "Otosclerosis: suelen estar _ausentes_. Dehiscencia: _aumentados_.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Una brecha aéreo-ósea en graves hace pensar primero en otosclerosis, por lo que distinguir ambos cuadros es muy importante.",
+    "En la otosclerosis, la platina del estribo está fijada, por lo que el reflejo acústico suele estar ausente.",
+    "En la dehiscencia del canal superior, el oído medio está indemne y el reflejo acústico suele estar presente.",
+    "En la otosclerosis, la vía ósea no baja de cero; a menudo se ve una muesca de Carhart alrededor de dos mil hertz.",
+    "En la dehiscencia, los síntomas por sonido y presión y las respuestas VEMP aumentadas completan el cuadro.",
+    "Una cirugía del estribo hecha con un diagnóstico erróneo no alivia los síntomas, así que no hay que omitir la prueba de reflejos."
+   ]
+  },
+  {
+   "id": "diger_bulgular",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "Otras *pistas*",
+   "maddeler": [
+    {
+     "metin": "Weber lateralizado _al oído dehiscente_",
+     "cumle": 0,
+     "ikon": "diyapazon"
+    },
+    {
+     "metin": "_Oír_ un diapasón en el tobillo",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "_Hiperacusia por vía ósea_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "ECochG: la relación _PS/PA_ puede subir",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "diyapazon",
+    "ayar": {
+     "test": "weber"
+    },
+    "vurgula": [
+     {
+      "parca": "alin",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "En las pruebas con diapasón, el Weber puede lateralizarse hacia el oído dehiscente.",
+    "Algunos pacientes incluso oyen, en ese oído, un diapasón apoyado sobre la prominencia ósea del tobillo.",
+    "Estos hallazgos indican una hipersensibilidad al sonido por vía ósea, llamada hiperacusia por vía ósea.",
+    {
+     "yazi": "La electrococleografía (ECochG) puede mostrar una relación aumentada entre el potencial de suma y el potencial de acción en el oído dehiscente."
+    },
+    "Como este aumento también se observa en la enfermedad de Ménière, por sí solo no es distintivo."
+   ]
+  },
+  {
+   "id": "goz",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "*Movimientos oculares* por sonido",
+   "maddeler": [
+    {
+     "metin": "Se _aplica_ sonido o presión",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Movimiento _en el plano del canal superior_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Presión inversa, dirección _inversa_",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Registro con _videooculografía_",
+     "cumle": 4,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kanal_duzlemleri",
+    "ayar": {
+     "goster": [
+      "larp",
+      "ralp"
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "sag_on_kanal",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Los síntomas también pueden demostrarse durante la exploración.",
+    "Se observan con atención los ojos mientras se aplica presión en el conducto auditivo o se presenta un sonido fuerte.",
+    "En la dehiscencia puede aparecer un movimiento ocular vertical y torsional en el plano del canal superior abierto.",
+    "Cuando cambia el sentido de la presión, también se invierte la dirección del movimiento ocular.",
+    "Si esta exploración se hace con lentes de video, incluso los movimientos pequeños pueden registrarse y revisarse después."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "No detengas la vía ósea en 0 dB; prueba también valores negativos. Timpanograma normal, brecha en graves y reflejos presentes: piensa en una tercera ventana.",
+   "cumleler": [
+    "Un consejo clínico: no dejen de buscar cuando encuentren un umbral por vía ósea en cero decibeles.",
+    "Prueben también si el paciente responde a menos cinco o menos diez decibeles, y registren el resultado.",
+    "Cuando coinciden un timpanograma normal, una brecha aéreo-ósea en graves y reflejos acústicos presentes, piensen en una tercera ventana.",
+    "Describir este patrón con claridad en el informe ayuda al médico a solicitar el estudio de imagen adecuado."
+   ]
+  },
+  {
+   "id": "tani",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Diagnóstico y papel",
+   "baslik": "Diagnóstico: *tres* pilares",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Síntoma",
+     "metin": "Sonido, presión, autofonía",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Prueba fisiológica",
+     "metin": "Vía ósea, VEMP, ojos",
+     "cumle": 1
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "TC",
+     "metin": "Cortes en el plano del canal",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Decisión del médico",
+     "metin": "Según la gravedad de los síntomas",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En 2021, la Sociedad Bárány publicó criterios diagnósticos para el síndrome de dehiscencia del canal superior."
+    },
+    "Estos criterios exigen un síntoma compatible con una tercera ventana junto con al menos un hallazgo en una prueba fisiológica.",
+    "Además, la tomografía computarizada (TC) de alta resolución debe mostrar el defecto en imágenes reconstruidas en el plano del canal.",
+    "Como la TC puede hacer que un hueso delgado parezca un defecto, el hallazgo de imagen por sí solo no basta.",
+    "El médico valora las opciones de tratamiento según la gravedad de los síntomas; si son graves, puede considerarse la reparación quirúrgica."
+   ]
+  },
+  {
+   "id": "diger_pencereler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Diagnóstico y papel",
+   "baslik": "Otras *terceras ventanas*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Acueducto dilatado",
+     "metin": "La próxima lección",
+     "cumle": 1
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Otras dehiscencias",
+     "metin": "Canal posterior, vasos cercanos",
+     "cumle": 2
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Ligada al X",
+     "metin": "Malformación del oído interno",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El efecto de tercera ventana no se observa solo en el canal superior.",
+    "Un acueducto vestibular dilatado también puede dar una brecha similar en graves y respuestas VEMP grandes.",
+    "También se han descrito la dehiscencia del canal posterior y defectos donde el canal limita con un vaso sanguíneo grande.",
+    "En una malformación del oído interno ligada al X, una comunicación amplia entre el conducto auditivo interno y la cóclea tiene un efecto similar.",
+    "Lo que comparten estos cuadros es una brecha aéreo-ósea pese a un oído medio normal."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Diagnóstico y papel",
+   "baslik": "El papel del *audiólogo*",
+   "maddeler": [
+    {
+     "metin": "Puede ser _el primero en notarlo_",
+     "cumle": 0,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Vía ósea negativa, reflejos, _VEMP_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Anamnesis_ de sonido y presión",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Comparación _antes y después_ de la cirugía",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Informe claro, _basado en criterios_",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "akustik_refleks_arki",
+    "ayar": {
+     "uyarilan": "sag",
+     "ipsi_cumle": 1
+    },
+    "cumle": 1
+   },
+   "cumleler": [
+    "El audiólogo puede ser el primero en notar hallazgos que sugieren una tercera ventana.",
+    "Medir la vía ósea hasta valores negativos, evaluar los reflejos y realizar los VEMP son aportes clave en este punto.",
+    "Preguntar en la anamnesis cómo se relacionan los síntomas con el sonido y la presión también orienta el diagnóstico.",
+    "En los pacientes operados, la audición y la función vestibular se comparan antes y después de la cirugía.",
+    "Los resultados se informan con claridad al otorrinolaringólogo, de acuerdo con los criterios diagnósticos."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Una tercera abertura: _la energía escapa_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Vértigo_ por sonido y presión, autofonía",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Brecha en graves, _vía ósea negativa_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Reflejos presentes, _VEMP aumentados_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "La dehiscencia del canal superior crea una tercera ventana en el oído interno, y parte de la energía escapa por ella.",
+    "El vértigo por sonido y presión, la autofonía y oír los sonidos internos del cuerpo son síntomas típicos.",
+    "El audiograma puede mostrar una brecha aéreo-ósea en graves y umbrales por vía ósea por debajo de cero.",
+    "Los reflejos acústicos presentes y las respuestas VEMP aumentadas ayudan a distinguirla de la otosclerosis."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué hallazgo sugiere dehiscencia y no otosclerosis?",
+   "secenekler": [
+    "Reflejo acústico ausente",
+    "Muesca de Carhart",
+    "Umbral bajo del cVEMP",
+    "Timpanograma plano"
+   ],
+   "dogru": 2,
+   "aciklama": "En la dehiscencia, el _umbral del cVEMP baja_ y la amplitud del oVEMP aumenta; en la otosclerosis, los VEMP suelen estar ausentes.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en un paciente con brecha en graves, ¿qué hallazgo sugiere dehiscencia y no otosclerosis?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: un umbral bajo del VEMP cervical.",
+    "Un reflejo ausente y una muesca de Carhart encajan mejor con la otosclerosis."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Acueducto* vestibular dilatado (EVA)",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección estudiaremos otro ejemplo de tercera ventana: el acueducto vestibular dilatado.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

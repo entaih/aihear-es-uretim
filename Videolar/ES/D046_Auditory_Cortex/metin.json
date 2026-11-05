@@ -1,0 +1,914 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D046_Auditory_Cortex_ES",
+ "kapak": {
+  "ust": "LECCIÓN 46",
+  "baslik": "Corteza auditiva<br>y *lenguaje*",
+  "alt": "Giro de Heschl, área de Wernicke, escucha dicótica",
+  "cizim": "isitme_yolu",
+  "vurgula": [
+   "isitme_korteksi"
+  ]
+ },
+ "youtube": {
+  "baslik": "La corteza auditiva y las áreas del lenguaje | Lección 46 | AIHEAR Academia de Audiología",
+  "aciklama": "La última parada de la vía auditiva es la corteza auditiva. En esta lección vemos la corteza auditiva primaria en el giro de Heschl (áreas 41 y 42 de Brodmann), el área de Wernicke y el plano temporal, la especialización hemisférica, el cuerpo calloso y la ventaja del oído derecho en la escucha dicótica.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Musiek FE and Baran JA, The Auditory System: Anatomy, Physiology, and Clinical Correlates; Kimura D, Cerebral dominance and the perception of verbal stimuli (Canadian Journal of Psychology, 1961); Geschwind N and Levitsky W, Human brain: left-right asymmetries in temporal speech region (Science, 1968); Hickok G and Poeppel D, The cortical organization of speech processing (Nature Reviews Neuroscience, 2007); Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "neuroanatomia",
+   "cerebro"
+  ],
+  "etiketler": [
+   "corteza auditiva",
+   "giro de Heschl",
+   "circunvolución temporal transversa",
+   "área de Wernicke",
+   "plano temporal",
+   "cuerpo calloso",
+   "escucha dicótica",
+   "ventaja del oído derecho",
+   "neuroanatomía",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 46",
+   "baslik": "La *corteza* auditiva y el lenguaje",
+   "alt": "Giro de Heschl, área de Wernicke y escucha dicótica",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos la última parada de la vía auditiva, la corteza auditiva, y las áreas del lenguaje.",
+    "También veremos las distintas funciones de los dos hemisferios y las pruebas de escucha dicótica que las evalúan en la clínica."
+   ]
+  },
+  {
+   "id": "yeri",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La corteza auditiva",
+   "baslik": "¿*Dónde* está la corteza?",
+   "cizim": "beyin_yan",
+   "etiketler": [
+    {
+     "parca": "temporal_lob",
+     "metin": "Lóbulo temporal",
+     "cumle": 1
+    },
+    {
+     "parca": "lateral_yarik",
+     "metin": "Surco lateral",
+     "cumle": 2
+    },
+    {
+     "parca": "heschl_girusu",
+     "metin": "Giro de Heschl",
+     "cumle": 3
+    },
+    {
+     "parca": "planum_temporale",
+     "metin": "Plano temporal",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "superior_temporal_girus",
+     "cumle": 1
+    },
+    {
+     "parca": "lateral_yarik",
+     "cumle": 2
+    },
+    {
+     "parca": "heschl_girusu",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Cara superior_ del lóbulo temporal",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Oculta _dentro_ del surco lateral",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Presente_ en ambos hemisferios",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "heschl_girusu",
+     "cumle": 3,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la lección anterior vimos que la información auditiva llega a la corteza desde el cuerpo geniculado medial del tálamo.",
+    "La corteza auditiva se ubica en la cara superior del lóbulo temporal.",
+    "Esta región está oculta dentro de un surco profundo en la cara lateral del cerebro, el surco lateral, por lo que no se ve desde afuera.",
+    "Aquí destaca un pliegue que cruza transversalmente la superficie del lóbulo temporal.",
+    "Hay una corteza auditiva en cada hemisferio, y cada una recibe información de ambos oídos."
+   ],
+   "ayar": {
+    "yarik_acik": true,
+    "acilma_cumle": 2
+   }
+  },
+  {
+   "id": "heschl",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La corteza auditiva",
+   "baslik": "El giro de *Heschl*",
+   "maddeler": [
+    {
+     "metin": "Giro de Heschl (giro temporal transverso)",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Corteza auditiva primaria: _Brodmann 41_",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Un _mapa de frecuencias_ ordenado",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Dos_ giros en algunas personas",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_acik",
+    "ayar": {
+     "frekans": 4000
+    },
+    "vurgula": [
+     {
+      "parca": "taban",
+      "cumle": 3
+     },
+     {
+      "parca": "tepe",
+      "cumle": 4
+     }
+    ],
+    "cumle": 3,
+    "etiketler": [
+     {
+      "parca": "taban",
+      "metin": "base: agudos",
+      "cumle": 4
+     },
+     {
+      "parca": "tepe",
+      "metin": "ápice: graves",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Este pliegue transversal se llama giro de Heschl, o giro temporal transverso.",
+    "Lleva el nombre del anatomista austríaco Heschl, que lo describió en el siglo diecinueve.",
+    {
+     "yazi": "La corteza auditiva primaria se encuentra en este giro y corresponde al área 41 de la clasificación de Brodmann."
+    },
+    "La corteza auditiva primaria contiene una copia del mapa de frecuencias de la cóclea.",
+    "Así, las regiones de frecuencias agudas y graves de la base y el ápice de la cóclea también están representadas en orden en la corteza.",
+    "El giro de Heschl varía de una persona a otra; algunas personas tienen dos giros en un mismo hemisferio."
+   ]
+  },
+  {
+   "id": "alanlar",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La corteza auditiva",
+   "baslik": "*Áreas* de la corteza auditiva",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Primaria (41)",
+     "metin": "Rasgos básicos del sonido",
+     "cumle": 1
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Secundaria (42)",
+     "metin": "Patrones sonoros complejos",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Asociación (22)",
+     "metin": "Habla y significado",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La corteza auditiva está formada por áreas dispuestas como anillos concéntricos.",
+    "La corteza primaria, en el centro, procesa rasgos básicos del sonido como la frecuencia, la intensidad y la temporalidad.",
+    {
+     "yazi": "Las áreas secundarias que la rodean, el área 42 de Brodmann, responden a patrones sonoros más complejos."
+    },
+    {
+     "yazi": "Las áreas de asociación, más externas, el área 22 de Brodmann, vinculan los sonidos con el habla y el significado."
+    },
+    "Así, a medida que la información avanza del centro hacia afuera, se procesan rasgos más abstractos del sonido."
+   ]
+  },
+  {
+   "id": "wernicke",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Áreas del lenguaje",
+   "baslik": "El área de *Wernicke*",
+   "maddeler": [
+    {
+     "metin": "_Parte posterior_ del giro temporal superior",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "En el hemisferio _izquierdo_ en la mayoría",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Clave para _comprender_ el habla",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Lesión: habla fluida pero _sin sentido_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Área de Broca: _producción_ del habla",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_yan",
+    "cumle": 0,
+    "ayar": {
+     "arkuat": true,
+     "arkuat_cumle": 4
+    },
+    "etiketler": [
+     {
+      "parca": "wernicke_alani",
+      "metin": "Área de Wernicke",
+      "cumle": 0
+     },
+     {
+      "parca": "broca_alani",
+      "metin": "Área de Broca",
+      "cumle": 4
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "wernicke_alani",
+      "cumle": 0
+     },
+     {
+      "parca": "broca_alani",
+      "cumle": 4
+     },
+     {
+      "parca": "arkuat_demet",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Detrás de la corteza auditiva, en la parte posterior del giro temporal superior, se encuentra el área de Wernicke."
+    },
+    "En la mayoría de las personas, esta área forma parte de la red del lenguaje del hemisferio izquierdo.",
+    {
+     "yazi": "Lleva el nombre del neurólogo alemán Carl Wernicke, que la describió en 1874; cumple un papel clave en la comprensión del habla."
+    },
+    {
+     "yazi": "Con una lesión aquí, la persona habla con fluidez, pero sus palabras pierden sentido y le cuesta comprender; es la afasia de Wernicke."
+    },
+    {
+     "yazi": "El área de Broca, en el lóbulo frontal, se relaciona con la producción del habla y se conecta con el área de Wernicke mediante un haz de fibras."
+    },
+    "Hoy se considera que el lenguaje no se procesa en un solo punto, sino en una amplia red que une estas áreas."
+   ]
+  },
+  {
+   "id": "planum",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Áreas del lenguaje",
+   "baslik": "Asimetría del *plano temporal*",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Mayor a la izquierda",
+     "metin": "Alrededor del 65 por ciento",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Mayor a la derecha",
+     "metin": "Alrededor del 11 por ciento",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Igual",
+     "metin": "Alrededor del 24 por ciento",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Coincide con el lenguaje",
+     "metin": "Lenguaje mayormente a la izquierda",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Justo detrás del giro de Heschl, un área triangular se extiende sobre la cara superior del lóbulo temporal.",
+    {
+     "yazi": "Esta área se llama plano temporal (planum temporale) y contiene parte del área de Wernicke."
+    },
+    {
+     "yazi": "En el estudio de Geschwind y Levitsky de 1968, con cien cerebros, esta área era mayor a la izquierda en cerca del sesenta y cinco por ciento."
+    },
+    "Era mayor a la derecha en cerca del once por ciento de los cerebros, e igual en ambos lados en cerca del veinticuatro por ciento.",
+    "Se vio que esta asimetría coincide con que el lenguaje se procesa en el hemisferio izquierdo en la mayoría de las personas."
+   ]
+  },
+  {
+   "id": "iki_akim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Áreas del lenguaje",
+   "baslik": "*Dos vías* para el habla",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Vía ventral",
+     "metin": "Lóbulo temporal: del sonido al significado",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Ambos hemisferios",
+     "metin": "Vía ventral en ambos lados",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Vía dorsal",
+     "metin": "Parietal y frontal: movimientos del habla",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Dominancia izquierda",
+     "metin": "Vía dorsal mayormente a la izquierda",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Según los modelos actuales, después de la corteza auditiva el habla se procesa en dos vías principales.",
+    "La vía ventral recorre el lóbulo temporal y vincula el sonido escuchado con las palabras y el significado.",
+    "Se considera que esta vía funciona en ambos hemisferios.",
+    "La vía dorsal se extiende a los lóbulos parietal y frontal y vincula el sonido escuchado con los movimientos del habla.",
+    "En la mayoría de las personas, esta vía es claramente dominante en el hemisferio izquierdo."
+   ]
+  },
+  {
+   "id": "sol_sag",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Especialización hemisférica",
+   "baslik": "Hemisferios izquierdo y *derecho*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Hemisferio izquierdo",
+     "metin": "Lenguaje y sonidos del habla",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Cambios rápidos",
+     "metin": "Transiciones consonánticas: izquierdo",
+     "cumle": 2
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Hemisferio derecho",
+     "metin": "Melodía, tono, acento, carga emocional",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Reconocimiento de voces",
+     "metin": "Voces conocidas: derecho",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los dos hemisferios procesan juntos la información auditiva, pero uno lidera en algunas tareas; esto se llama especialización hemisférica.",
+    "El lenguaje se procesa principalmente en el hemisferio izquierdo en cerca del noventa y cinco por ciento de los diestros y en la mayoría de los zurdos.",
+    "Se considera que el hemisferio izquierdo es más sensible a los cambios temporales rápidos, como las transiciones consonánticas del habla.",
+    "El hemisferio derecho lidera en la melodía, el tono, la música, y el acento y el tono emocional del habla.",
+    "También se ha descrito que el hemisferio derecho cumple un papel importante en reconocer a una persona conocida por su voz."
+   ]
+  },
+  {
+   "id": "corpus_callosum",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Especialización hemisférica",
+   "baslik": "Un *puente* entre los hemisferios",
+   "cizim": "beyin_ustten",
+   "vurgula": [
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 0
+    },
+    {
+     "parca": "corpus_callosum",
+     "cumle": 1
+    },
+    {
+     "parca": "arka_bolum",
+     "cumle": 2
+    },
+    {
+     "parca": "kallozal_yol",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Cuerpo calloso",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Fibras auditivas en la parte _posterior_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Madura hasta la _adolescencia_",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Las áreas auditivas de los dos hemisferios están conectadas por el cuerpo calloso."
+    },
+    {
+     "yazi": "El cuerpo calloso es el mayor haz de fibras del cerebro y permite un intercambio constante de información entre los hemisferios."
+    },
+    "Las fibras que transportan información auditiva pasan sobre todo por la parte posterior de esta estructura.",
+    {
+     "yazi": "La mielinización del cuerpo calloso continúa durante la infancia y no se completa hasta la adolescencia."
+    }
+   ],
+   "ayar": {
+    "mod": "kallozal"
+   },
+   "etiketler": [
+    {
+     "parca": "corpus_callosum",
+     "metin": "Cuerpo calloso",
+     "cumle": 0
+    },
+    {
+     "parca": "sol_isitme_korteksi",
+     "metin": "Corteza auditiva",
+     "cumle": 0
+    },
+    {
+     "parca": "arka_bolum",
+     "metin": "Parte posterior",
+     "cumle": 2
+    }
+   ]
+  },
+  {
+   "id": "dikotik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Escucha dicótica",
+   "baslik": "Escucha *dicótica*",
+   "cizim": "beyin_ustten",
+   "vurgula": [
+    {
+     "parca": "sag_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "sol_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "ayni_taraf_yol",
+     "cumle": 2
+    },
+    {
+     "parca": "capraz_yol_sag",
+     "cumle": 3
+    },
+    {
+     "parca": "capraz_yol_sol",
+     "cumle": 4
+    },
+    {
+     "parca": "kallozal_yol",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Estímulos distintos en cada oído _a la vez_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "La vía cruzada _domina_, la ipsilateral se suprime",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Oído izquierdo: por el _cuerpo calloso_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "sag_kulak",
+     "metin": "Un número al oído derecho",
+     "cumle": 0
+    },
+    {
+     "parca": "sol_kulak",
+     "metin": "Otro al oído izquierdo",
+     "cumle": 0
+    },
+    {
+     "parca": "sol_isitme_korteksi",
+     "metin": "Hemisferio izquierdo: lenguaje",
+     "cumle": 3
+    },
+    {
+     "parca": "arka_bolum",
+     "metin": "Cuerpo calloso",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la escucha dicótica, llegan estímulos distintos a los dos oídos a la vez, por ejemplo un número al oído derecho y otro al izquierdo.",
+    "En esta situación, la información de los dos oídos compite en la vía auditiva.",
+    "Durante esta competencia, las vías cruzadas se vuelven dominantes, mientras que las vías del mismo lado quedan en gran parte suprimidas.",
+    "Una palabra presentada al oído derecho llega directamente, por la vía cruzada, al hemisferio izquierdo, dominante para el lenguaje.",
+    {
+     "yazi": "Una palabra presentada al oído izquierdo llega primero al hemisferio derecho y luego cruza el cuerpo calloso hasta el hemisferio izquierdo."
+    }
+   ],
+   "ayar": {
+    "mod": "dikotik",
+    "sozcukler": [
+     "siete",
+     "cuatro"
+    ],
+    "yol_cumleleri": {
+     "ayni_taraf_yol": 2,
+     "capraz_yol_sag": 3,
+     "capraz_yol_sol": 4,
+     "kallozal_yol": 4
+    }
+   }
+  },
+  {
+   "id": "sag_kulak",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Escucha dicótica",
+   "baslik": "La ventaja del *oído derecho*",
+   "maddeler": [
+    {
+     "metin": "Oído derecho _mejor_ con estímulos verbales",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Diferencia _mayor_ en los niños",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "_Descenso_ del oído izquierdo en la vejez",
+     "cumle": 3,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Atención libre o _dirigida_",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Por eso, el oído derecho suele obtener un puntaje algo mejor con estímulos verbales; esto se llama ventaja del oído derecho.",
+    {
+     "yazi": "Este hallazgo fue descrito por primera vez en 1961 en los estudios de escucha dicótica con dígitos de Doreen Kimura."
+    },
+    {
+     "yazi": "La ventaja del oído derecho es más marcada en los niños pequeños y disminuye a medida que madura el cuerpo calloso."
+    },
+    "En la vejez puede reaparecer un marcado descenso en los puntajes del oído izquierdo.",
+    "Las pruebas pueden hacerse de dos maneras: la persona repite lo que oye en ambos oídos o atiende primero a un oído; cada método da información distinta.",
+    "El recuerdo libre ofrece una imagen natural, mientras que la atención dirigida ayuda a revelar la capacidad real del oído más débil."
+   ]
+  },
+  {
+   "id": "testler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Escucha dicótica",
+   "baslik": "Pruebas *dicóticas* en la clínica",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Dígitos dicóticos",
+     "metin": "Pares de dígitos, aplicación rápida",
+     "cumle": 1
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "SSW",
+     "metin": "Palabras bisílabas superpuestas",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Oraciones en competencia",
+     "metin": "Dos oraciones distintas",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Sílabas dicóticas",
+     "metin": "Sílabas consonante-vocal",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Las pruebas dicóticas están entre los componentes centrales de una evaluación del procesamiento auditivo central.",
+    "La prueba de dígitos dicóticos presenta dos números a cada oído al mismo tiempo y se aplica con rapidez.",
+    {
+     "yazi": "La prueba Staggered Spondaic Word, o SSW, presenta palabras bisílabas a los dos oídos de modo que se superponen en parte."
+    },
+    "Las pruebas de oraciones en competencia y de sílabas dicóticas también aportan información similar con distintos niveles de dificultad.",
+    "Como estas pruebas dependen del idioma, se necesitan versiones desarrolladas y normalizadas en la lengua que se usa."
+   ]
+  },
+  {
+   "id": "lezyon",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Relaciones clínicas",
+   "baslik": "El *audiograma* cuando se afecta la corteza",
+   "maddeler": [
+    {
+     "metin": "Problema unilateral: audiograma posiblemente _normal_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Prueba dicótica: _oído opuesto_ débil",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Cuerpo calloso: _oído izquierdo_ débil",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Lesión bilateral: _sordera cortical_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        10,
+        10,
+        15,
+        15
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        10,
+        15,
+        10,
+        10,
+        15,
+        20
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Como cada oído está representado en ambos hemisferios, un problema cortical unilateral puede dejar el audiograma normal, como en este ejemplo.",
+    "En un caso así, los puntajes de las pruebas dicóticas suelen bajar en el oído opuesto al hemisferio afectado.",
+    {
+     "yazi": "Cuando se afecta el cuerpo calloso, la información del oído izquierdo no llega al hemisferio del lenguaje, y sus puntajes bajan marcadamente."
+    },
+    "Cuando se dañan las áreas auditivas de ambos hemisferios, puede aparecer un cuadro poco frecuente llamado sordera cortical."
+   ]
+  },
+  {
+   "id": "plastisite",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Relaciones clínicas",
+   "baslik": "La corteza y la *audición temprana*",
+   "maddeler": [
+    {
+     "metin": "La corteza se _desarrolla_ con estimulación",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Período sensible: los _primeros años_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "El apoyo auditivo temprano _importa_",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "vurgula": [
+     {
+      "parca": "elektrot_dizisi",
+      "cumle": 3
+     }
+    ],
+    "cumle": 3
+   },
+   "cumleler": [
+    "La corteza auditiva no está lista al nacer; necesita estimulación auditiva para desarrollarse.",
+    "Los primeros años, cuando este desarrollo es más rápido, se denominan período sensible.",
+    "Las áreas auditivas que no reciben estimulación en este período pueden asumir en parte funciones de otros sentidos, como la visión.",
+    "Por eso son importantes la identificación temprana de la pérdida auditiva y el apoyo temprano con audífonos o implante coclear."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 5",
+   "bolum": "Relaciones clínicas",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de una prueba dicótica, revisar los umbrales y la simetría de ambos oídos. Una pérdida periférica asimétrica puede hacer que una diferencia entre oídos parezca un hallazgo central.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo de la clínica: revisen siempre los umbrales tonales antes de interpretar los resultados de una prueba dicótica.",
+    "Si hay una diferencia de umbrales periférica entre los oídos, una diferencia entre oídos en la prueba dicótica puede parecer un hallazgo central.",
+    "Por eso las pruebas dicóticas dan los resultados más confiables en personas con umbrales normales o simétricos entre ambos oídos.",
+    "Comparen siempre los resultados con normas adecuadas para la edad."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Corteza primaria: _giro de Heschl_, Brodmann 41",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Área de Wernicke y _plano temporal_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Lenguaje mayormente en el hemisferio _izquierdo_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Ventaja del _oído derecho_ en escucha dicótica",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "La corteza auditiva primaria se encuentra en el giro de Heschl, en la cara superior del lóbulo temporal, y tiene un mapa de frecuencias ordenado.",
+    {
+     "yazi": "El área de Wernicke y el plano temporal son importantes para comprender el habla; el plano temporal es mayor a la izquierda en la mayoría de los cerebros."
+    },
+    {
+     "yazi": "El lenguaje se procesa sobre todo a la izquierda, y la melodía y el tono emocional más a la derecha; el cuerpo calloso une ambos hemisferios."
+    },
+    "Como en la escucha dicótica dominan las vías cruzadas, aparece una ventaja del oído derecho con estímulos verbales."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "En la escucha dicótica, ¿qué oído suele tener ventaja con estímulos verbales?",
+   "secenekler": [
+    "El oído derecho",
+    "El oído izquierdo",
+    "Siempre iguales",
+    "El oído que oye mejor"
+   ],
+   "dogru": 0,
+   "aciklama": "El oído derecho llega directamente, por la vía cruzada, al _hemisferio izquierdo_, dominante para el lenguaje.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en la escucha dicótica, ¿qué oído suele tener ventaja con estímulos verbales?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: el oído derecho.",
+    {
+     "yazi": "La información del oído derecho llega directamente al hemisferio izquierdo por la vía cruzada; la del oído izquierdo debe cruzar el cuerpo calloso."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "El sistema auditivo *eferente*: el haz olivococlear",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos el sistema auditivo eferente, que desciende del cerebro al oído, y el haz olivococlear.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R412_Impedance_Short_and_Open_Circuits_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #412",
+  "baslik": "¿Cortocircuito o *circuito abierto?*",
+  "alt": "Impedancia de los electrodos",
+  "cizim": "koklear_implant",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "En la cirugía, ¿cómo sabemos que los electrodos del implante están intactos? #shorts",
+  "aciklama": "Durante la cirugía de implante coclear, se envía una pequeña corriente conocida desde cada electrodo mediante un enlace inalámbrico llamado telemetría, se mide el voltaje resultante y se calcula la impedancia. Un valor muy bajo sugiere un cortocircuito y uno muy alto, un circuito abierto; en la cirugía, una pequeña burbuja de aire sobre la superficie del electrodo también puede elevar el valor temporalmente, y los electrodos con problemas persistentes se desactivan en la programación.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "implantecoclear",
+   "cirugia"
+  ],
+  "etiketler": [
+   "impedancia de electrodos",
+   "telemetría",
+   "cortocircuito",
+   "circuito abierto",
+   "mediciones intraoperatorias",
+   "implante coclear",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "En la cirugía, ¿cómo sabemos que los electrodos del implante están intactos?",
+  "bilgiler": [
+   "Una impedancia muy baja sugiere un cortocircuito.",
+   "Una impedancia muy alta sugiere un circuito abierto.",
+   "Una pequeña burbuja de aire puede elevar el valor temporalmente."
+  ],
+  "hashtag": [
+   "audiologia",
+   "implantecoclear",
+   "cirugia"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #412",
+   "metin": "¿Electrodos *intactos?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "En la cirugía, ¿cómo sabemos que los electrodos del implante están intactos?"
+   ]
+  },
+  {
+   "id": "empedans",
+   "tur": "zincir",
+   "baslik": "*Impedancia* de los electrodos",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Muy baja",
+     "tr": "cortocircuito",
+     "cumle": 1
+    },
+    {
+     "ad": "Muy alta",
+     "tr": "circuito abierto",
+     "cumle": 2
+    },
+    {
+     "ad": "Burbuja de aire",
+     "tr": "alta temporalmente",
+     "cumle": 3
+    }
+   ],
+   "alt": "Si persiste, _se desactiva_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Se pasa una pequeña corriente por cada electrodo y se mide el voltaje.",
+    "Una impedancia muy baja sugiere un cortocircuito entre electrodos.",
+    "Una impedancia muy alta sugiere una vía interrumpida, es decir, un circuito abierto.",
+    "Una pequeña burbuja de aire también puede dar un valor alto temporalmente.",
+    "Los electrodos con problemas persistentes se desactivan en la programación."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D240",
+ "kaynak_baslik": "Mediciones intraoperatorias: impedancia, ECAP y ESRT"
+}

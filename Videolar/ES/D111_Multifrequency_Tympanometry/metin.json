@@ -1,0 +1,2743 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D111_Multifrequency_Tympanometry_ES",
+ "kapak": {
+  "ust": "LECCIÓN 111",
+  "baslik": "Timpanometría<br>*multifrecuencia*",
+  "alt": "La frecuencia de resonancia del oído medio",
+  "cizim": "timpanogram",
+  "ayar": {
+   "egriler": [
+    {
+     "tip": "A"
+    },
+    {
+     "tip": "As"
+    },
+    {
+     "tip": "Ad"
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Timpanometría multifrecuencia y resonancia | Lección 111 | AIHEAR Academia de Audiología",
+  "aciklama": "¿El oído medio se evalúa solo a 226 Hz? En esta lección vemos la lógica de la timpanometría multifrecuencia, los componentes de susceptancia y conductancia, los métodos de barrido de frecuencia y de barrido de presión, los timpanogramas con muesca, la frecuencia de resonancia del oído medio y cómo se desplaza en la otosclerosis y en la disrupción de la cadena osicular.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Hunter and Shahnaz, Acoustic Immittance Measures: Basic and Advanced Practice; Margolis and Goycoolea (1993), Multifrequency tympanometry in normal adults, Ear and Hearing; Shahnaz and Polka (1997), Standard and multifrequency tympanometry in normal and otosclerotic ears, Ear and Hearing; Vanhuyse, Creten and Van Camp (1975), On the W-notching of tympanograms, Scandinavian Audiology; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "timpanometria",
+   "inmitancia"
+  ],
+  "etiketler": [
+   "timpanometría multifrecuencia",
+   "frecuencia de resonancia",
+   "resonancia del oído medio",
+   "susceptancia",
+   "conductancia",
+   "modelo de Vanhuyse",
+   "otosclerosis",
+   "disrupción de la cadena osicular",
+   "impedanciometría",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 111",
+   "baslik": "Timpanometría *multifrecuencia*",
+   "alt": "La frecuencia de resonancia del oído medio",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección llevamos la timpanometría más allá de un solo tono de sonda y conocemos la timpanometría multifrecuencia.",
+    "Veremos cómo se encuentra la frecuencia de resonancia del oído medio y cómo se desplaza con los cambios de rigidez y de masa."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué muchas frecuencias?",
+   "baslik": "De la rigidez a la *masa*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia del tono de sonda (Hz)",
+     "isaretler": [
+      226,
+      500,
+      1000,
+      2000,
+      4000
+     ]
+    },
+    "y": {
+     "min": -3,
+     "max": 3,
+     "isaretler": [
+      -2,
+      0,
+      2
+     ],
+     "yazisiz": true,
+     "ad": "Reactancia (relativa)"
+    },
+    "seriler": [
+     {
+      "ad": "sertlik",
+      "noktalar": [
+       [
+        340.1,
+        -2.94
+       ],
+       [
+        353.2,
+        -2.831
+       ],
+       [
+        366.9,
+        -2.726
+       ],
+       [
+        381.1,
+        -2.624
+       ],
+       [
+        395.8,
+        -2.527
+       ],
+       [
+        411.1,
+        -2.433
+       ],
+       [
+        427.0,
+        -2.342
+       ],
+       [
+        443.5,
+        -2.255
+       ],
+       [
+        460.6,
+        -2.171
+       ],
+       [
+        478.4,
+        -2.09
+       ],
+       [
+        496.9,
+        -2.012
+       ],
+       [
+        516.1,
+        -1.938
+       ],
+       [
+        536.1,
+        -1.865
+       ],
+       [
+        556.8,
+        -1.796
+       ],
+       [
+        578.3,
+        -1.729
+       ],
+       [
+        600.7,
+        -1.665
+       ],
+       [
+        623.9,
+        -1.603
+       ],
+       [
+        648.0,
+        -1.543
+       ],
+       [
+        673.0,
+        -1.486
+       ],
+       [
+        699.0,
+        -1.431
+       ],
+       [
+        726.1,
+        -1.377
+       ],
+       [
+        754.1,
+        -1.326
+       ],
+       [
+        783.3,
+        -1.277
+       ],
+       [
+        813.5,
+        -1.229
+       ],
+       [
+        845.0,
+        -1.183
+       ],
+       [
+        877.6,
+        -1.139
+       ],
+       [
+        911.5,
+        -1.097
+       ],
+       [
+        946.8,
+        -1.056
+       ],
+       [
+        983.4,
+        -1.017
+       ],
+       [
+        1021.4,
+        -0.979
+       ],
+       [
+        1060.9,
+        -0.943
+       ],
+       [
+        1101.9,
+        -0.908
+       ],
+       [
+        1144.4,
+        -0.874
+       ],
+       [
+        1188.7,
+        -0.841
+       ],
+       [
+        1234.6,
+        -0.81
+       ],
+       [
+        1282.3,
+        -0.78
+       ],
+       [
+        1331.9,
+        -0.751
+       ],
+       [
+        1383.4,
+        -0.723
+       ],
+       [
+        1436.8,
+        -0.696
+       ],
+       [
+        1492.4,
+        -0.67
+       ],
+       [
+        1550.0,
+        -0.645
+       ],
+       [
+        1609.9,
+        -0.621
+       ],
+       [
+        1672.2,
+        -0.598
+       ],
+       [
+        1736.8,
+        -0.576
+       ],
+       [
+        1803.9,
+        -0.554
+       ],
+       [
+        1873.6,
+        -0.534
+       ],
+       [
+        1946.1,
+        -0.514
+       ],
+       [
+        2021.3,
+        -0.495
+       ],
+       [
+        2099.4,
+        -0.476
+       ],
+       [
+        2180.5,
+        -0.459
+       ],
+       [
+        2264.8,
+        -0.442
+       ],
+       [
+        2352.3,
+        -0.425
+       ],
+       [
+        2443.2,
+        -0.409
+       ],
+       [
+        2537.7,
+        -0.394
+       ],
+       [
+        2635.7,
+        -0.379
+       ],
+       [
+        2737.6,
+        -0.365
+       ],
+       [
+        2843.4,
+        -0.352
+       ],
+       [
+        2953.3,
+        -0.339
+       ],
+       [
+        3067.5,
+        -0.326
+       ],
+       [
+        3186.0,
+        -0.314
+       ],
+       [
+        3309.1,
+        -0.302
+       ],
+       [
+        3437.0,
+        -0.291
+       ],
+       [
+        3569.9,
+        -0.28
+       ],
+       [
+        3707.9,
+        -0.27
+       ],
+       [
+        3851.2,
+        -0.26
+       ],
+       [
+        4000.0,
+        -0.25
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "cumle": 1,
+      "etiket": "efecto de rigidez",
+      "etiket_konum": [
+       400,
+       -2.5
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": 6
+     },
+     {
+      "ad": "kutle",
+      "noktalar": [
+       [
+        200.0,
+        0.2
+       ],
+       [
+        207.7,
+        0.208
+       ],
+       [
+        215.8,
+        0.216
+       ],
+       [
+        224.1,
+        0.224
+       ],
+       [
+        232.8,
+        0.233
+       ],
+       [
+        241.8,
+        0.242
+       ],
+       [
+        251.1,
+        0.251
+       ],
+       [
+        260.8,
+        0.261
+       ],
+       [
+        270.9,
+        0.271
+       ],
+       [
+        281.4,
+        0.281
+       ],
+       [
+        292.2,
+        0.292
+       ],
+       [
+        303.5,
+        0.304
+       ],
+       [
+        315.2,
+        0.315
+       ],
+       [
+        327.4,
+        0.327
+       ],
+       [
+        340.1,
+        0.34
+       ],
+       [
+        353.2,
+        0.353
+       ],
+       [
+        366.9,
+        0.367
+       ],
+       [
+        381.1,
+        0.381
+       ],
+       [
+        395.8,
+        0.396
+       ],
+       [
+        411.1,
+        0.411
+       ],
+       [
+        427.0,
+        0.427
+       ],
+       [
+        443.5,
+        0.443
+       ],
+       [
+        460.6,
+        0.461
+       ],
+       [
+        478.4,
+        0.478
+       ],
+       [
+        496.9,
+        0.497
+       ],
+       [
+        516.1,
+        0.516
+       ],
+       [
+        536.1,
+        0.536
+       ],
+       [
+        556.8,
+        0.557
+       ],
+       [
+        578.3,
+        0.578
+       ],
+       [
+        600.7,
+        0.601
+       ],
+       [
+        623.9,
+        0.624
+       ],
+       [
+        648.0,
+        0.648
+       ],
+       [
+        673.0,
+        0.673
+       ],
+       [
+        699.0,
+        0.699
+       ],
+       [
+        726.1,
+        0.726
+       ],
+       [
+        754.1,
+        0.754
+       ],
+       [
+        783.3,
+        0.783
+       ],
+       [
+        813.5,
+        0.814
+       ],
+       [
+        845.0,
+        0.845
+       ],
+       [
+        877.6,
+        0.878
+       ],
+       [
+        911.5,
+        0.912
+       ],
+       [
+        946.8,
+        0.947
+       ],
+       [
+        983.4,
+        0.983
+       ],
+       [
+        1021.4,
+        1.021
+       ],
+       [
+        1060.9,
+        1.061
+       ],
+       [
+        1101.9,
+        1.102
+       ],
+       [
+        1144.4,
+        1.144
+       ],
+       [
+        1188.7,
+        1.189
+       ],
+       [
+        1234.6,
+        1.235
+       ],
+       [
+        1282.3,
+        1.282
+       ],
+       [
+        1331.9,
+        1.332
+       ],
+       [
+        1383.4,
+        1.383
+       ],
+       [
+        1436.8,
+        1.437
+       ],
+       [
+        1492.4,
+        1.492
+       ],
+       [
+        1550.0,
+        1.55
+       ],
+       [
+        1609.9,
+        1.61
+       ],
+       [
+        1672.2,
+        1.672
+       ],
+       [
+        1736.8,
+        1.737
+       ],
+       [
+        1803.9,
+        1.804
+       ],
+       [
+        1873.6,
+        1.874
+       ],
+       [
+        1946.1,
+        1.946
+       ],
+       [
+        2021.3,
+        2.021
+       ],
+       [
+        2099.4,
+        2.099
+       ],
+       [
+        2180.5,
+        2.181
+       ],
+       [
+        2264.8,
+        2.265
+       ],
+       [
+        2352.3,
+        2.352
+       ],
+       [
+        2443.2,
+        2.443
+       ],
+       [
+        2537.7,
+        2.538
+       ],
+       [
+        2635.7,
+        2.636
+       ],
+       [
+        2737.6,
+        2.738
+       ],
+       [
+        2843.4,
+        2.843
+       ],
+       [
+        2953.3,
+        2.953
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "yumusak": true,
+      "cumle": 3,
+      "etiket": "efecto de masa",
+      "etiket_konum": [
+       2500,
+       2.5
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -8,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "net",
+      "noktalar": [
+       [
+        303.5,
+        -2.991
+       ],
+       [
+        315.2,
+        -2.857
+       ],
+       [
+        327.4,
+        -2.727
+       ],
+       [
+        340.1,
+        -2.6
+       ],
+       [
+        353.2,
+        -2.478
+       ],
+       [
+        366.9,
+        -2.359
+       ],
+       [
+        381.1,
+        -2.243
+       ],
+       [
+        395.8,
+        -2.131
+       ],
+       [
+        411.1,
+        -2.021
+       ],
+       [
+        427.0,
+        -1.915
+       ],
+       [
+        443.5,
+        -1.811
+       ],
+       [
+        460.6,
+        -1.71
+       ],
+       [
+        478.4,
+        -1.612
+       ],
+       [
+        496.9,
+        -1.516
+       ],
+       [
+        516.1,
+        -1.421
+       ],
+       [
+        536.1,
+        -1.329
+       ],
+       [
+        556.8,
+        -1.239
+       ],
+       [
+        578.3,
+        -1.151
+       ],
+       [
+        600.7,
+        -1.064
+       ],
+       [
+        623.9,
+        -0.979
+       ],
+       [
+        648.0,
+        -0.895
+       ],
+       [
+        673.0,
+        -0.813
+       ],
+       [
+        699.0,
+        -0.732
+       ],
+       [
+        726.1,
+        -0.651
+       ],
+       [
+        754.1,
+        -0.572
+       ],
+       [
+        783.3,
+        -0.493
+       ],
+       [
+        813.5,
+        -0.416
+       ],
+       [
+        845.0,
+        -0.339
+       ],
+       [
+        877.6,
+        -0.262
+       ],
+       [
+        911.5,
+        -0.185
+       ],
+       [
+        946.8,
+        -0.109
+       ],
+       [
+        983.4,
+        -0.034
+       ],
+       [
+        1021.4,
+        0.042
+       ],
+       [
+        1060.9,
+        0.118
+       ],
+       [
+        1101.9,
+        0.194
+       ],
+       [
+        1144.4,
+        0.271
+       ],
+       [
+        1188.7,
+        0.347
+       ],
+       [
+        1234.6,
+        0.425
+       ],
+       [
+        1282.3,
+        0.502
+       ],
+       [
+        1331.9,
+        0.581
+       ],
+       [
+        1383.4,
+        0.66
+       ],
+       [
+        1436.8,
+        0.741
+       ],
+       [
+        1492.4,
+        0.822
+       ],
+       [
+        1550.0,
+        0.905
+       ],
+       [
+        1609.9,
+        0.989
+       ],
+       [
+        1672.2,
+        1.074
+       ],
+       [
+        1736.8,
+        1.161
+       ],
+       [
+        1803.9,
+        1.25
+       ],
+       [
+        1873.6,
+        1.34
+       ],
+       [
+        1946.1,
+        1.432
+       ],
+       [
+        2021.3,
+        1.527
+       ],
+       [
+        2099.4,
+        1.623
+       ],
+       [
+        2180.5,
+        1.722
+       ],
+       [
+        2264.8,
+        1.823
+       ],
+       [
+        2352.3,
+        1.927
+       ],
+       [
+        2443.2,
+        2.034
+       ],
+       [
+        2537.7,
+        2.144
+       ],
+       [
+        2635.7,
+        2.256
+       ],
+       [
+        2737.6,
+        2.372
+       ],
+       [
+        2843.4,
+        2.492
+       ],
+       [
+        2953.3,
+        2.615
+       ],
+       [
+        3067.5,
+        2.741
+       ],
+       [
+        3186.0,
+        2.872
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "rezonans",
+      "x": 1000,
+      "y": 0,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "resonancia: reactancia neta 0",
+      "dy": -20,
+      "cumle": 4
+     },
+     {
+      "ad": "p226",
+      "x": 226,
+      "y": 0,
+      "cizgi": "dikey",
+      "renk": "sari",
+      "nokta": false,
+      "etiket": "226 Hz",
+      "dx": 8,
+      "dy": -170,
+      "hiza": "start",
+      "cumle": 0
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "p226",
+     "cumle": 1
+    },
+    {
+     "parca": "rezonans",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En lecciones anteriores hicimos la timpanometría de rutina con un solo tono de sonda, de doscientos veintiséis hertz.",
+    "En esta frecuencia, el oído medio del adulto está dominado por la rigidez, así que los cambios de masa a menudo quedan ocultos.",
+    "La timpanometría multifrecuencia repite la misma medición con muchas frecuencias de tono de sonda.",
+    "El objetivo es hallar el punto en que el oído medio pasa de estar dominado por la rigidez a estar dominado por la masa: la frecuencia de resonancia.",
+    "En la frecuencia de resonancia, los efectos de la masa y de la rigidez se anulan entre sí; la reactancia neta es cero.",
+    "Las patologías cambian la masa o la rigidez y así desplazan la frecuencia de resonancia; la medición multifrecuencia revela ese desplazamiento."
+   ]
+  },
+  {
+   "id": "bilesenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué muchas frecuencias?",
+   "baslik": "Los *componentes* de la admitancia",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Susceptancia: B",
+     "metin": "Masa y rigidez",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Conductancia: G",
+     "metin": "Fricción, absorción",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "En la resonancia",
+     "metin": "B cruza el cero",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Ángulo de fase",
+     "metin": "90 con rigidez, 0 en resonancia",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En la medición multifrecuencia, la admitancia no se examina como un solo número, sino a través de sus dos componentes.",
+    "La susceptancia, o B, es el componente de la admitancia relacionado con la masa y la rigidez.",
+    "La conductancia, o G, es el componente relacionado con la fricción, es decir, con la absorción de energía.",
+    "La susceptancia es positiva en la región dominada por la rigidez y negativa en la dominada por la masa; cruza el cero en la resonancia.",
+    "Algunos equipos muestran la magnitud y el ángulo de fase de la admitancia en lugar de sus componentes; ambos aportan la misma información.",
+    "En un sistema dominado por la rigidez, el ángulo de fase se acerca a más noventa grados; en la resonancia es cero."
+   ]
+  },
+  {
+   "id": "kurulum",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Medición",
+   "baslik": "La misma sonda, *muchas* frecuencias",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   },
+   "yakinlastir": [
+    {
+     "parca": "prob",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob_hoparlor",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_ucu",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "prob_hoparlor",
+     "metin": "Altavoz: de 226 a 2000 Hz",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "Micrófono",
+     "cumle": 0
+    },
+    {
+     "parca": "prob_pompa",
+     "metin": "Bomba",
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "El equipo es el mismo que en la timpanometría de rutina: una sonda con un altavoz, un micrófono y una bomba.",
+    "La diferencia es que el altavoz de la sonda puede producir no solo doscientos veintiséis hertz, sino muchas frecuencias, hasta unos dos kilohertz.",
+    "El conducto auditivo debe quedar sellado herméticamente; una fuga arruina la medición, sobre todo en las frecuencias bajas.",
+    "En las frecuencias altas, el conducto ya no se comporta como un simple volumen de aire, así que importan la calibración y las correcciones del equipo.",
+    "Esta medición no está disponible en todas las clínicas; suele hacerse como una prueba diagnóstica adicional."
+   ]
+  },
+  {
+   "id": "yontem",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Medición",
+   "baslik": "Dos *métodos*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Barrido de frecuencia",
+     "metin": "Presión fija, frecuencia variable",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Diferencia",
+     "metin": "Presión del pico menos +200",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Barrido de presión",
+     "metin": "Un timpanograma en cada frecuencia",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Normas por método",
+     "metin": "Los valores pueden variar",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "La timpanometría multifrecuencia se realiza con dos métodos principales.",
+    "En el método de barrido de frecuencia, la presión se mantiene constante y la frecuencia del tono de sonda se barre en un rango amplio.",
+    "La medición se hace primero a más doscientos decapascales y luego a la presión del pico timpanométrico, y se calcula la diferencia.",
+    "A más doscientos decapascales el tímpano está tenso y el oído medio aporta lo mínimo, así que la diferencia da el valor del oído medio.",
+    "En el método de barrido de presión, la presión se barre como en la timpanometría estándar, y esto se repite sucesivamente con muchos tonos de sonda.",
+    "En ambos métodos, la frecuencia de resonancia es la frecuencia en la que la susceptancia del oído medio es cero.",
+    "Los dos métodos pueden dar valores distintos, por lo que el resultado se compara con las normas del método utilizado."
+   ]
+  },
+  {
+   "id": "w_centigi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Medición",
+   "baslik": "Timpanogramas con *muesca*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -300,
+     "max": 200,
+     "adim": 100,
+     "ad": "Presión (daPa)"
+    },
+    "y": {
+     "min": 0,
+     "max": 2.4,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": "Susceptancia (relativa)"
+    },
+    "seriler": [
+     {
+      "ad": "b226",
+      "noktalar": [
+       [
+        -300,
+        0.5
+       ],
+       [
+        -290,
+        0.5
+       ],
+       [
+        -280,
+        0.5
+       ],
+       [
+        -270,
+        0.5
+       ],
+       [
+        -260,
+        0.5
+       ],
+       [
+        -250,
+        0.5
+       ],
+       [
+        -240,
+        0.5
+       ],
+       [
+        -230,
+        0.5
+       ],
+       [
+        -220,
+        0.5
+       ],
+       [
+        -210,
+        0.5
+       ],
+       [
+        -200,
+        0.501
+       ],
+       [
+        -190,
+        0.501
+       ],
+       [
+        -180,
+        0.502
+       ],
+       [
+        -170,
+        0.504
+       ],
+       [
+        -160,
+        0.508
+       ],
+       [
+        -150,
+        0.515
+       ],
+       [
+        -140,
+        0.525
+       ],
+       [
+        -130,
+        0.542
+       ],
+       [
+        -120,
+        0.568
+       ],
+       [
+        -110,
+        0.604
+       ],
+       [
+        -100,
+        0.653
+       ],
+       [
+        -90,
+        0.717
+       ],
+       [
+        -80,
+        0.794
+       ],
+       [
+        -70,
+        0.884
+       ],
+       [
+        -60,
+        0.98
+       ],
+       [
+        -50,
+        1.077
+       ],
+       [
+        -40,
+        1.166
+       ],
+       [
+        -30,
+        1.237
+       ],
+       [
+        -20,
+        1.284
+       ],
+       [
+        -10,
+        1.3
+       ],
+       [
+        0,
+        1.284
+       ],
+       [
+        10,
+        1.237
+       ],
+       [
+        20,
+        1.166
+       ],
+       [
+        30,
+        1.077
+       ],
+       [
+        40,
+        0.98
+       ],
+       [
+        50,
+        0.884
+       ],
+       [
+        60,
+        0.794
+       ],
+       [
+        70,
+        0.717
+       ],
+       [
+        80,
+        0.653
+       ],
+       [
+        90,
+        0.604
+       ],
+       [
+        100,
+        0.568
+       ],
+       [
+        110,
+        0.542
+       ],
+       [
+        120,
+        0.525
+       ],
+       [
+        130,
+        0.515
+       ],
+       [
+        140,
+        0.508
+       ],
+       [
+        150,
+        0.504
+       ],
+       [
+        160,
+        0.502
+       ],
+       [
+        170,
+        0.501
+       ],
+       [
+        180,
+        0.501
+       ],
+       [
+        190,
+        0.5
+       ],
+       [
+        200,
+        0.5
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": 4,
+      "yumusak": true,
+      "cumle": 1,
+      "etiket": "226 Hz: un solo pico",
+      "etiket_konum": [
+       -10,
+       1.3
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": 28,
+      "etiket_hiza": "middle"
+     },
+     {
+      "ad": "b678",
+      "noktalar": [
+       [
+        -300,
+        1.0
+       ],
+       [
+        -290,
+        1.0
+       ],
+       [
+        -280,
+        1.0
+       ],
+       [
+        -270,
+        1.0
+       ],
+       [
+        -260,
+        1.0
+       ],
+       [
+        -250,
+        1.0
+       ],
+       [
+        -240,
+        1.0
+       ],
+       [
+        -230,
+        1.0
+       ],
+       [
+        -220,
+        1.001
+       ],
+       [
+        -210,
+        1.001
+       ],
+       [
+        -200,
+        1.002
+       ],
+       [
+        -190,
+        1.004
+       ],
+       [
+        -180,
+        1.008
+       ],
+       [
+        -170,
+        1.014
+       ],
+       [
+        -160,
+        1.024
+       ],
+       [
+        -150,
+        1.04
+       ],
+       [
+        -140,
+        1.064
+       ],
+       [
+        -130,
+        1.1
+       ],
+       [
+        -120,
+        1.151
+       ],
+       [
+        -110,
+        1.22
+       ],
+       [
+        -100,
+        1.308
+       ],
+       [
+        -90,
+        1.415
+       ],
+       [
+        -80,
+        1.536
+       ],
+       [
+        -70,
+        1.656
+       ],
+       [
+        -60,
+        1.746
+       ],
+       [
+        -50,
+        1.769
+       ],
+       [
+        -40,
+        1.693
+       ],
+       [
+        -30,
+        1.534
+       ],
+       [
+        -20,
+        1.37
+       ],
+       [
+        -10,
+        1.3
+       ],
+       [
+        0,
+        1.37
+       ],
+       [
+        10,
+        1.534
+       ],
+       [
+        20,
+        1.693
+       ],
+       [
+        30,
+        1.769
+       ],
+       [
+        40,
+        1.746
+       ],
+       [
+        50,
+        1.656
+       ],
+       [
+        60,
+        1.536
+       ],
+       [
+        70,
+        1.415
+       ],
+       [
+        80,
+        1.308
+       ],
+       [
+        90,
+        1.22
+       ],
+       [
+        100,
+        1.151
+       ],
+       [
+        110,
+        1.1
+       ],
+       [
+        120,
+        1.064
+       ],
+       [
+        130,
+        1.04
+       ],
+       [
+        140,
+        1.024
+       ],
+       [
+        150,
+        1.014
+       ],
+       [
+        160,
+        1.008
+       ],
+       [
+        170,
+        1.004
+       ],
+       [
+        180,
+        1.002
+       ],
+       [
+        190,
+        1.001
+       ],
+       [
+        200,
+        1.001
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 2,
+      "etiket": "678 Hz: muesca",
+      "etiket_konum": [
+       60,
+       1.9
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": -6
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "centik",
+      "x": -10,
+      "y": 1.3,
+      "etiket": "muesca",
+      "dy": -60,
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "b226",
+     "cumle": 1
+    },
+    {
+     "parca": "centik",
+     "cumle": 2
+    },
+    {
+     "parca": "b678",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "A medida que sube la frecuencia del tono de sonda, también cambia la forma del timpanograma.",
+    "En doscientos veintiséis hertz, las curvas de susceptancia y de conductancia tienen un solo pico.",
+    "En frecuencias más altas, sobre todo cerca de la resonancia, aparece una muesca en el pico de la curva de susceptancia.",
+    "Seiscientos setenta y ocho hertz es tres veces doscientos veintiséis, y se usa a menudo como segundo tono de sonda.",
+    {
+     "yazi": "Las curvas con muesca se nombran por su número de picos y valles, como 1B1G, 3B1G, 3B3G y 5B3G.",
+     "ses": "Las curvas con muesca se nombran por su número de picos y valles, como uno be uno ge, tres be uno ge, tres be tres ge y cinco be tres ge."
+    },
+    {
+     "yazi": "Esta clasificación se basa en el modelo propuesto por Vanhuyse y colaboradores en 1975."
+    },
+    "En un oído adulto normal también puede aparecer una muesca en seiscientos setenta y ocho hertz, pero el número y el ancho de las muescas son limitados.",
+    "Si hay demasiadas muescas o una muesca es ancha, se sospecha un aumento del efecto de masa, como un tímpano flácido o una disrupción de la cadena osicular."
+   ]
+  },
+  {
+   "id": "rf_grafik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Frecuencia de resonancia",
+   "baslik": "La frecuencia de resonancia se *desplaza*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 226,
+     "max": 2000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia del tono de sonda (Hz)",
+     "isaretler": [
+      226,
+      500,
+      1000,
+      2000
+     ]
+    },
+    "y": {
+     "min": -1.5,
+     "max": 2.5,
+     "isaretler": [
+      -1,
+      0,
+      1,
+      2
+     ],
+     "yazisiz": true,
+     "ad": "Susceptancia del oído medio"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        330.2,
+        2.428
+       ],
+       [
+        340.8,
+        2.334
+       ],
+       [
+        351.8,
+        2.242
+       ],
+       [
+        363.0,
+        2.152
+       ],
+       [
+        374.7,
+        2.065
+       ],
+       [
+        386.7,
+        1.979
+       ],
+       [
+        399.1,
+        1.896
+       ],
+       [
+        412.0,
+        1.814
+       ],
+       [
+        425.2,
+        1.734
+       ],
+       [
+        438.8,
+        1.656
+       ],
+       [
+        452.9,
+        1.579
+       ],
+       [
+        467.5,
+        1.505
+       ],
+       [
+        482.5,
+        1.431
+       ],
+       [
+        498.0,
+        1.359
+       ],
+       [
+        513.9,
+        1.289
+       ],
+       [
+        530.4,
+        1.219
+       ],
+       [
+        547.5,
+        1.151
+       ],
+       [
+        565.1,
+        1.084
+       ],
+       [
+        583.2,
+        1.018
+       ],
+       [
+        601.9,
+        0.953
+       ],
+       [
+        621.2,
+        0.89
+       ],
+       [
+        641.2,
+        0.827
+       ],
+       [
+        661.8,
+        0.764
+       ],
+       [
+        683.0,
+        0.703
+       ],
+       [
+        704.9,
+        0.642
+       ],
+       [
+        727.6,
+        0.582
+       ],
+       [
+        750.9,
+        0.523
+       ],
+       [
+        775.0,
+        0.464
+       ],
+       [
+        799.9,
+        0.405
+       ],
+       [
+        825.6,
+        0.347
+       ],
+       [
+        852.1,
+        0.289
+       ],
+       [
+        879.5,
+        0.232
+       ],
+       [
+        907.7,
+        0.175
+       ],
+       [
+        936.8,
+        0.118
+       ],
+       [
+        966.9,
+        0.061
+       ],
+       [
+        998.0,
+        0.004
+       ],
+       [
+        1030.0,
+        -0.053
+       ],
+       [
+        1063.1,
+        -0.11
+       ],
+       [
+        1097.2,
+        -0.167
+       ],
+       [
+        1132.4,
+        -0.224
+       ],
+       [
+        1168.8,
+        -0.282
+       ],
+       [
+        1206.3,
+        -0.34
+       ],
+       [
+        1245.0,
+        -0.398
+       ],
+       [
+        1285.0,
+        -0.456
+       ],
+       [
+        1326.2,
+        -0.515
+       ],
+       [
+        1368.8,
+        -0.574
+       ],
+       [
+        1412.8,
+        -0.634
+       ],
+       [
+        1458.1,
+        -0.695
+       ],
+       [
+        1504.9,
+        -0.756
+       ],
+       [
+        1553.3,
+        -0.818
+       ],
+       [
+        1603.1,
+        -0.881
+       ],
+       [
+        1654.6,
+        -0.945
+       ],
+       [
+        1707.7,
+        -1.01
+       ],
+       [
+        1762.5,
+        -1.076
+       ],
+       [
+        1819.1,
+        -1.142
+       ],
+       [
+        1877.5,
+        -1.21
+       ],
+       [
+        1937.8,
+        -1.28
+       ],
+       [
+        2000.0,
+        -1.35
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 0,
+      "etiket": "normal",
+      "etiket_konum": [
+       700,
+       0.289
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": -10
+     },
+     {
+      "ad": "otoskleroz",
+      "noktalar": [
+       [
+        452.9,
+        2.491
+       ],
+       [
+        467.5,
+        2.395
+       ],
+       [
+        482.5,
+        2.301
+       ],
+       [
+        498.0,
+        2.21
+       ],
+       [
+        513.9,
+        2.121
+       ],
+       [
+        530.4,
+        2.034
+       ],
+       [
+        547.5,
+        1.95
+       ],
+       [
+        565.1,
+        1.867
+       ],
+       [
+        583.2,
+        1.786
+       ],
+       [
+        601.9,
+        1.706
+       ],
+       [
+        621.2,
+        1.629
+       ],
+       [
+        641.2,
+        1.553
+       ],
+       [
+        661.8,
+        1.479
+       ],
+       [
+        683.0,
+        1.406
+       ],
+       [
+        704.9,
+        1.334
+       ],
+       [
+        727.6,
+        1.264
+       ],
+       [
+        750.9,
+        1.195
+       ],
+       [
+        775.0,
+        1.127
+       ],
+       [
+        799.9,
+        1.061
+       ],
+       [
+        825.6,
+        0.995
+       ],
+       [
+        852.1,
+        0.931
+       ],
+       [
+        879.5,
+        0.867
+       ],
+       [
+        907.7,
+        0.805
+       ],
+       [
+        936.8,
+        0.743
+       ],
+       [
+        966.9,
+        0.682
+       ],
+       [
+        998.0,
+        0.621
+       ],
+       [
+        1030.0,
+        0.561
+       ],
+       [
+        1063.1,
+        0.502
+       ],
+       [
+        1097.2,
+        0.443
+       ],
+       [
+        1132.4,
+        0.385
+       ],
+       [
+        1168.8,
+        0.327
+       ],
+       [
+        1206.3,
+        0.269
+       ],
+       [
+        1245.0,
+        0.212
+       ],
+       [
+        1285.0,
+        0.154
+       ],
+       [
+        1326.2,
+        0.097
+       ],
+       [
+        1368.8,
+        0.041
+       ],
+       [
+        1412.8,
+        -0.016
+       ],
+       [
+        1458.1,
+        -0.073
+       ],
+       [
+        1504.9,
+        -0.13
+       ],
+       [
+        1553.3,
+        -0.187
+       ],
+       [
+        1603.1,
+        -0.245
+       ],
+       [
+        1654.6,
+        -0.302
+       ],
+       [
+        1707.7,
+        -0.36
+       ],
+       [
+        1762.5,
+        -0.418
+       ],
+       [
+        1819.1,
+        -0.477
+       ],
+       [
+        1877.5,
+        -0.536
+       ],
+       [
+        1937.8,
+        -0.595
+       ],
+       [
+        2000.0,
+        -0.656
+       ]
+      ],
+      "renk": "kirmizi",
+      "kesik": true,
+      "yumusak": true,
+      "cumle": 4,
+      "etiket": "rigidez aumentada",
+      "etiket_konum": [
+       1400,
+       0
+      ],
+      "etiket_dx": 12,
+      "etiket_dy": -12
+     },
+     {
+      "ad": "kopukluk",
+      "noktalar": [
+       [
+        226.0,
+        1.82
+       ],
+       [
+        233.3,
+        1.74
+       ],
+       [
+        240.7,
+        1.662
+       ],
+       [
+        248.5,
+        1.586
+       ],
+       [
+        256.4,
+        1.511
+       ],
+       [
+        264.7,
+        1.437
+       ],
+       [
+        273.2,
+        1.365
+       ],
+       [
+        282.0,
+        1.294
+       ],
+       [
+        291.0,
+        1.225
+       ],
+       [
+        300.3,
+        1.157
+       ],
+       [
+        310.0,
+        1.09
+       ],
+       [
+        319.9,
+        1.024
+       ],
+       [
+        330.2,
+        0.959
+       ],
+       [
+        340.8,
+        0.895
+       ],
+       [
+        351.8,
+        0.832
+       ],
+       [
+        363.0,
+        0.769
+       ],
+       [
+        374.7,
+        0.708
+       ],
+       [
+        386.7,
+        0.647
+       ],
+       [
+        399.1,
+        0.587
+       ],
+       [
+        412.0,
+        0.527
+       ],
+       [
+        425.2,
+        0.468
+       ],
+       [
+        438.8,
+        0.41
+       ],
+       [
+        452.9,
+        0.352
+       ],
+       [
+        467.5,
+        0.294
+       ],
+       [
+        482.5,
+        0.236
+       ],
+       [
+        498.0,
+        0.179
+       ],
+       [
+        513.9,
+        0.122
+       ],
+       [
+        530.4,
+        0.065
+       ],
+       [
+        547.5,
+        0.008
+       ],
+       [
+        565.1,
+        -0.049
+       ],
+       [
+        583.2,
+        -0.106
+       ],
+       [
+        601.9,
+        -0.163
+       ],
+       [
+        621.2,
+        -0.22
+       ],
+       [
+        641.2,
+        -0.277
+       ],
+       [
+        661.8,
+        -0.335
+       ],
+       [
+        683.0,
+        -0.393
+       ],
+       [
+        704.9,
+        -0.451
+       ],
+       [
+        727.6,
+        -0.51
+       ],
+       [
+        750.9,
+        -0.57
+       ],
+       [
+        775.0,
+        -0.63
+       ],
+       [
+        799.9,
+        -0.69
+       ],
+       [
+        825.6,
+        -0.751
+       ],
+       [
+        852.1,
+        -0.813
+       ],
+       [
+        879.5,
+        -0.876
+       ],
+       [
+        907.7,
+        -0.94
+       ],
+       [
+        936.8,
+        -1.005
+       ],
+       [
+        966.9,
+        -1.07
+       ],
+       [
+        998.0,
+        -1.137
+       ],
+       [
+        1030.0,
+        -1.205
+       ],
+       [
+        1063.1,
+        -1.274
+       ],
+       [
+        1097.2,
+        -1.344
+       ],
+       [
+        1132.4,
+        -1.416
+       ],
+       [
+        1168.8,
+        -1.489
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "cumle": 5,
+      "etiket": "masa aumentada, disrupción",
+      "etiket_konum": [
+       550,
+       0
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": 30,
+      "etiket_hiza": "end"
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sifir",
+      "x": 226,
+      "y": 0,
+      "cizgi": "yatay",
+      "renk": "gri",
+      "nokta": false,
+      "cumle": 1
+     },
+     {
+      "ad": "rf",
+      "x": 1000,
+      "y": 0,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "unos 1000 Hz",
+      "dy": 30,
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "norm",
+      "x": [
+       800,
+       1200
+      ],
+      "renk": "yesil",
+      "etiket": "rango normal",
+      "cumle": 2,
+      "opak": 0.12
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "rf",
+     "cumle": 1
+    },
+    {
+     "parca": "norm",
+     "cumle": 2
+    },
+    {
+     "parca": "otoskleroz",
+     "cumle": 4
+    },
+    {
+     "parca": "kopukluk",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El gráfico muestra cómo cambia la susceptancia del oído medio con la frecuencia; las curvas son representativas.",
+    "El punto en que la susceptancia cruza el cero es la frecuencia de resonancia.",
+    "En adultos sanos, la frecuencia de resonancia suele estar entre ochocientos y mil doscientos hertz.",
+    "Las normas varían según el método, el equipo y la población; algunos estudios informan rangos normales más amplios.",
+    "Cuando aumenta la rigidez, por ejemplo en la otosclerosis, la curva se desplaza a la derecha y la frecuencia de resonancia sube.",
+    "Cuando aumenta la masa o baja la rigidez, por ejemplo en la disrupción osicular, la curva se desplaza a la izquierda y la frecuencia de resonancia baja.",
+    "Además de la frecuencia de resonancia, se han estudiado medidas como la frecuencia en la que el ángulo de fase llega a cuarenta y cinco grados."
+   ]
+  },
+  {
+   "id": "patoloji",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Frecuencia de resonancia",
+   "baslik": "*Dirección* según la patología",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Otosclerosis",
+     "metin": "Más rigidez, la frecuencia sube",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Disrupción osicular",
+     "metin": "Descenso marcado",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tímpano flácido",
+     "metin": "Efecto de masa, descenso",
+     "cumle": 3
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Masa añadida",
+     "metin": "Lesión ocupante, líquido parcial",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Superposición",
+     "metin": "No diagnostica por sí sola",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "La dirección en que se desplaza la frecuencia de resonancia da una pista sobre el tipo de patología.",
+    "En la otosclerosis, la fijación de la platina del estribo vuelve más rígido el sistema; la frecuencia de resonancia tiende a subir.",
+    "Cuando la cadena osicular está interrumpida, la carga rigidizante de la cóclea no llega al tímpano; la frecuencia de resonancia baja de forma marcada.",
+    "Una zona flácida, delgada o cicatrizada del tímpano también puede bajar la frecuencia de resonancia al aumentar el efecto de masa.",
+    "Las condiciones que añaden masa al oído medio, como una masa detrás del tímpano o líquido parcial, pueden bajar la frecuencia de resonancia.",
+    "Esto aporta una pista extra en algunos casos de otosclerosis o de disrupción en los que el timpanograma de doscientos veintiséis hertz parece normal.",
+    "Pero los valores normales y anormales se superponen bastante; la medición multifrecuencia por sí sola no hace un diagnóstico."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Frecuencia de resonancia",
+   "baslik": "Tres *oídos* de ejemplo",
+   "sutunlar": [
+    "Ejemplo",
+    "Ytm (226 Hz)",
+    "Frecuencia de resonancia",
+    "Audiograma"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal",
+      "0,7 mmho",
+      "unos 1000 Hz",
+      "Normal"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Otosclerosis",
+      "0,35 mmho",
+      "unos 1400 Hz",
+      "Conductiva"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Disrupción osicular",
+      "2,4 mmho",
+      "unos 550 Hz",
+      "Conductiva"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Comparemos tres oídos de ejemplo; los valores tienen fines didácticos.",
+    "En el oído normal, la admitancia del pico en doscientos veintiséis hertz está dentro de los límites normales, y la resonancia está en torno a un kilohertz.",
+    "En el ejemplo de otosclerosis, la admitancia del pico está cerca del límite inferior normal, y la resonancia subió a unos mil cuatrocientos hertz.",
+    "En el ejemplo de disrupción de la cadena osicular, la admitancia del pico es alta, y la resonancia bajó a unos quinientos cincuenta hertz.",
+    "En ambas patologías se espera una pérdida conductiva en el audiograma; la medición multifrecuencia ayuda a distinguirlas."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "En la clínica",
+   "baslik": "¿Cuándo es *útil?*",
+   "maddeler": [
+    {
+     "metin": "No es de rutina: _resuelve problemas_",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Brecha aéreo-ósea + 226 Hz _normal_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "¿Rigidez o _masa_?",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Junto_ con reflejos y otoscopia",
+     "cumle": 3,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Lactantes: un solo tono de _1000 Hz_",
+     "cumle": 5,
+     "ikon": "bebek"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "timpanogram",
+    "cumle": 1,
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "As",
+       "cumle": 2
+      },
+      {
+       "tip": "Ad",
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "La timpanometría multifrecuencia no es una prueba de rutina, sino una prueba adicional para resolver problemas.",
+    "Es más útil cuando el audiograma muestra una brecha conductiva, pero el timpanograma de doscientos veintiséis hertz parece normal.",
+    "En ese caso, una frecuencia de resonancia alta o baja puede sugerir si el problema es de rigidez o de masa.",
+    "Su valor para tomar decisiones aumenta cuando se interpreta junto con los reflejos acústicos, la otoscopia y el audiograma.",
+    "Las alteraciones del propio tímpano pueden influir más que un problema osicular subyacente, por eso la otoscopia forma parte de la interpretación.",
+    "Antes de los seis meses de edad, lo habitual es un solo tono de sonda de mil hertz; los métodos multifrecuencia aún están en estudio."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "En la clínica",
+   "baslik": "Orden de *interpretación*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia",
+     "metin": "Aspecto del tímpano",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "226 Hz",
+     "metin": "Tipo, Ytm, presión",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "678 Hz",
+     "metin": "Patrón de muescas",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Resonancia",
+     "metin": "Normas del método",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Integrar",
+     "metin": "Audiograma y reflejos",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Seguir un orden sistemático ayuda a interpretar un resultado multifrecuencia.",
+    "El primer paso es la otoscopia; el aspecto del tímpano influye en toda la interpretación.",
+    "En el segundo paso, se evalúan el tipo, la admitancia del pico y la presión del timpanograma de doscientos veintiséis hertz.",
+    "En el tercer paso, verificamos si el patrón de muescas en seiscientos setenta y ocho hertz está dentro de los límites normales.",
+    "En el cuarto paso, la frecuencia de resonancia se compara con las normas del método utilizado.",
+    "En el último paso, todos los hallazgos se integran con el audiograma y los resultados del reflejo acústico."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "En la clínica",
+   "baslik": "*Limitaciones* del método",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Superposición",
+     "metin": "Sin punto de corte claro",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Depende del método",
+     "metin": "Las normas no se transfieren",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Domina el tímpano",
+     "metin": "Puede ocultar problemas profundos",
+     "cumle": 3
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Métodos nuevos",
+     "metin": "Medición de banda ancha",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La timpanometría multifrecuencia también tiene algunas limitaciones.",
+    "La superposición entre oídos normales y anormales es grande; ningún valor por sí solo da una separación clara.",
+    "Los resultados dependen del método y del equipo; las normas de un equipo no pueden aplicarse a otro.",
+    "El estado del tímpano puede influir en el resultado más que las estructuras más profundas del oído medio.",
+    "Estas limitaciones también impulsaron el desarrollo de las mediciones de banda ancha que veremos en la próxima lección."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Miren el tímpano antes de interpretar un resultado multifrecuencia. Una zona atrófica puede imitar una disrupción osicular; la miringoesclerosis puede llevar el resultado en sentido opuesto.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo de la clínica: miren siempre el tímpano antes de interpretar un resultado multifrecuencia.",
+    "Una zona atrófica o flácida del tímpano puede dar un resultado con muescas y resonancia baja que imita una disrupción de la cadena osicular.",
+    "Las placas de miringoesclerosis, en cambio, vuelven rígido el tímpano y pueden llevar el resultado en la dirección opuesta.",
+    "Informen el hallazgo junto con la brecha aéreo-ósea del audiograma y los resultados del reflejo."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Resonancia: _susceptancia igual a cero_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Normal: unos _800 a 1200 Hz_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "La rigidez _sube_, la masa _baja_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Tímpano y normas _influyen en la interpretación_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La timpanometría multifrecuencia encuentra la frecuencia en la que la susceptancia del oído medio es cero, es decir, la frecuencia de resonancia.",
+    "En adultos sanos, la frecuencia de resonancia suele estar entre ochocientos y mil doscientos hertz.",
+    "El aumento de rigidez, como en la otosclerosis, sube la frecuencia de resonancia; la disrupción osicular y la masa añadida la bajan.",
+    "El resultado se interpreta con normas propias del método, junto con la otoscopia, el audiograma y los hallazgos del reflejo."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Cómo cambia la frecuencia de resonancia en la disrupción de la cadena osicular?",
+   "secenekler": [
+    "Sube",
+    "Baja",
+    "No cambia"
+   ],
+   "dogru": 1,
+   "aciklama": "La _carga rigidizante_ de la cóclea no llega al tímpano; el sistema pasa a estar dominado por la masa.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cómo cambia la frecuencia de resonancia del oído medio en la disrupción de la cadena osicular?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: baja.",
+    "Cuando la cadena está interrumpida, la rigidez disminuye y domina la masa, así que la frecuencia de resonancia se desplaza hacia abajo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Inmitancia acústica de *banda ancha* y absorbancia",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la inmitancia de banda ancha y la absorbancia, que usan una señal de sonda que cubre a la vez un amplio rango de frecuencias.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R186_Turning_It_Up_Fails_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #186",
+  "baslik": "Subir el volumen *no basta*",
+  "alt": "La pérdida de SNR",
+  "cizim": "isitme_cihazi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "En el ruido, ¿sirve subir a la vez el habla y el ruido? #shorts",
+  "aciklama": "La pérdida de SNR indica cuánto mejor debe ser la relación señal-ruido que necesita una persona, en comparación con la audición normal, para entender lo mismo. Subir juntos el habla y el ruido no cambia esta relación, así que no compensa la pérdida de SNR; se necesitan soluciones como los micrófonos direccionales o remotos.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "ruido",
+   "audicion"
+  ],
+  "etiketler": [
+   "pérdida de SNR",
+   "relación señal-ruido",
+   "habla en ruido",
+   "QuickSIN",
+   "micrófono direccional",
+   "micrófono remoto",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "En el ruido, ¿sirve subir a la vez el habla y el ruido?",
+  "bilgiler": [
+   "La pérdida de SNR es la relación señal-ruido extra que se necesita frente a la audición normal.",
+   "Subir juntos el habla y el ruido no cambia esta relación.",
+   "En su lugar, se necesitan micrófonos direccionales o remotos."
+  ],
+  "hashtag": [
+   "audiologia",
+   "ruido",
+   "audicion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #186",
+   "metin": "¿Sirve subir *todo* el volumen?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "En el ruido, ¿sirve subir a la vez el habla y el ruido?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "La *pérdida de SNR* en este ejemplo",
+   "sayi": "8",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Quienes tienen dificultad en el ruido necesitan una relación señal-ruido (SNR) más alta.",
+    "La diferencia con la audición normal es la pérdida de SNR; aquí, ocho decibeles.",
+    "Subir juntos el habla y el ruido no cambia esta relación.",
+    "Por eso no reduce la pérdida de SNR.",
+    "En su lugar, se necesitan soluciones como los micrófonos direccionales o remotos."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D099",
+ "kaynak_baslik": "Pruebas de habla en ruido: QuickSIN, HINT y Matrix"
+}

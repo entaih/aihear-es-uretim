@@ -1,0 +1,107 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R288_The_Unaided_Ear_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #288",
+  "baslik": "El oído *sin audífono*",
+  "alt": "Privación auditiva de inicio tardío",
+  "cizim": "bas_ustten",
+  "ayar": {
+   "mod": "golge"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Con pérdida bilateral y un solo audífono, ¿qué pasa con el otro oído? #shorts",
+  "aciklama": "En algunas personas con pérdida auditiva bilateral que usan un solo audífono, el porcentaje de reconocimiento de palabras del oído sin audífono disminuye con el tiempo, mientras los umbrales se mantienen iguales. Esto se llama privación auditiva de inicio tardío y se describió por primera vez en 1984.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audifonos",
+   "binaural"
+  ],
+  "etiketler": [
+   "privación auditiva de inicio tardío",
+   "adaptación bilateral",
+   "amplificación binaural",
+   "reconocimiento de palabras",
+   "adaptación monoaural",
+   "audífono",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Con pérdida bilateral y un solo audífono, ¿qué pasa con el otro oído?",
+  "bilgiler": [
+   "El puntaje del oído con audífono puede mantenerse y el del otro, bajar.",
+   "Mientras tanto, los umbrales de ambos oídos no cambian.",
+   "Adaptar ese oído más tarde ayuda en parte a algunas personas."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "binaural"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #288",
+   "metin": "¿Qué pasa con *el otro oído?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Con pérdida bilateral y un solo audífono, ¿qué pasa con el otro oído?"
+   ]
+  },
+  {
+   "id": "yoksunluk",
+   "tur": "zincir",
+   "baslik": "*Privación* de inicio tardío",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Oído con audífono",
+     "tr": "puntaje estable",
+     "cumle": 0
+    },
+    {
+     "ad": "Oído sin audífono",
+     "tr": "el puntaje baja",
+     "cumle": 1
+    },
+    {
+     "ad": "Umbrales",
+     "tr": "sin cambios",
+     "cumle": 2
+    }
+   ],
+   "alt": "Mismos umbrales, _menor puntaje_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "En algunas personas, el reconocimiento de palabras del oído con audífono se mantiene estable durante años.",
+    "En cambio, el puntaje del oído sin audífono disminuye con el tiempo.",
+    "Sin embargo, los umbrales de ambos oídos no han cambiado.",
+    "Esto se llama privación auditiva de inicio tardío.",
+    "Adaptar ese oído más tarde ayuda en parte a algunas personas, pero no a otras."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D194",
+ "kaynak_baslik": "Adaptación bilateral, CROS y BiCROS"
+}

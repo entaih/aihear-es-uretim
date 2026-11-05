@@ -1,0 +1,100 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R001_Smallest_Bone_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #1",
+  "baslik": "¿El hueso más pequeño de tu *cuerpo?*",
+  "alt": "El estribo, de unos 3 mm",
+  "cizim": "uzengi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Dónde está el hueso más pequeño de tu cuerpo? #shorts",
+  "aciklama": "Con unos 3 mm de largo, el estribo es el hueso más pequeño del cuerpo humano. Junto con el martillo y el yunque, transmite las vibraciones del tímpano al oído interno.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "oido",
+   "datoscuriosos"
+  ],
+  "etiketler": [
+   "estribo",
+   "hueso más pequeño",
+   "oído medio",
+   "huesecillos",
+   "audiología",
+   "audición",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #1",
+   "metin": "¿Dónde está el hueso más pequeño de tu *cuerpo?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Dónde está el hueso más pequeño de tu cuerpo?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "El *estribo*, en el oído medio",
+   "sayi": "3",
+   "birim": "mm",
+   "cizim": true,
+   "cizim_cumle": 1,
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "En tu oído medio. Se llama estribo.",
+    "Mide apenas unos tres milímetros. Es más pequeño que un grano de arroz."
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Una cadena que *transmite el sonido*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Martillo",
+     "cumle": 0
+    },
+    {
+     "ad": "Yunque",
+     "cumle": 0,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Estribo",
+     "cumle": 0,
+     "gecikme": 1.1
+    }
+   ],
+   "alt": "Pasa las vibraciones del tímpano al _oído interno_.",
+   "alt_cumle": 1,
+   "cumleler": [
+    "El martillo, el yunque y el estribo forman una pequeña cadena.",
+    "El estribo es el último eslabón y pasa las vibraciones al oído interno."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D020"
+}

@@ -1,0 +1,134 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R002_Three_Questions_Audiogram_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #2",
+  "baslik": "Las *tres preguntas* del audiograma",
+  "alt": "Grado, tipo y configuración",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      20,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      35,
+      50,
+      55
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Qué tres preguntas responde un audiograma? #shorts",
+  "aciklama": "Al leer un audiograma, nos hacemos tres preguntas para cada oído: el grado, el tipo y la configuración de la pérdida. Luego se comparan los dos oídos.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audiograma",
+   "audicion"
+  ],
+  "etiketler": [
+   "audiograma",
+   "cómo leer un audiograma",
+   "grado de pérdida auditiva",
+   "tipo de pérdida auditiva",
+   "configuración audiométrica",
+   "audiología",
+   "prueba de audición",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Qué tres preguntas nos hacemos al leer un audiograma?",
+  "bilgiler": [
+   "Grado: ¿de qué magnitud es la pérdida?",
+   "Tipo: ¿qué parte del oído causa la pérdida?",
+   "Configuración: ¿qué forma dibuja la pérdida a lo largo de las frecuencias?"
+  ],
+  "hashtag": [
+   "audiologia",
+   "audiograma",
+   "audicion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #2",
+   "metin": "Leer un audiograma: ¿qué *tres preguntas?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Qué tres preguntas nos hacemos al leer un audiograma?"
+   ]
+  },
+  {
+   "id": "sorular",
+   "tur": "zincir",
+   "baslik": "*Tres preguntas* para cada oído",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Grado",
+     "cumle": 0,
+     "tr": "¿cuánto?"
+    },
+    {
+     "ad": "Tipo",
+     "cumle": 1,
+     "tr": "¿dónde?"
+    },
+    {
+     "ad": "Forma",
+     "cumle": 2,
+     "tr": "configuración"
+    }
+   ],
+   "alt": "Primero cada oído, luego _ambos oídos_ juntos",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Primero, el grado: ¿de qué magnitud es la pérdida?",
+    "Segundo, el tipo: ¿qué parte del oído la causa?",
+    "Tercero, la configuración: ¿qué forma dibuja a lo largo de las frecuencias?",
+    "Cada oído se analiza por separado, y luego se comparan los dos."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D001",
+ "kaynak_baslik": "¿Qué es un audiograma y cómo se lee?"
+}

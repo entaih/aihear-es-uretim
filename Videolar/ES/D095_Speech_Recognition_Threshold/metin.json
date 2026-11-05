@@ -1,0 +1,657 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D095_Speech_Recognition_Threshold_ES",
+ "kapak": {
+  "ust": "LECCIÓN 95",
+  "baslik": "Cómo obtener<br>el *URP*",
+  "alt": "Umbral de recepción de la palabra, paso a paso",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Cómo obtener el umbral de recepción de la palabra | Lección 95 | AIHEAR Academia de Audiología",
+  "aciklama": "El umbral de recepción de la palabra (URP) es el nivel más bajo en el que se repite correctamente el cincuenta por ciento de las palabras de dos sílabas, y sirve para verificar los umbrales tonales. En esta lección vemos las palabras espondaicas, la fase de familiarización, el método descendente de la ASHA, un ejemplo de cálculo del URP y la concordancia entre el URP y el promedio de tonos puros (PTP).\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: ASHA, Guidelines for Determining Threshold Level for Speech; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin y Clark, Introduction to Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "logoaudiometria",
+   "fonoaudiologia"
+  ],
+  "etiketler": [
+   "URP",
+   "umbral de recepción de la palabra",
+   "umbral de reconocimiento del habla",
+   "logoaudiometría",
+   "palabras espondaicas",
+   "familiarización",
+   "promedio de tonos puros",
+   "PTP",
+   "concordancia URP PTP",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 95",
+   "baslik": "Umbral de recepción de la palabra: *URP*",
+   "alt": "Espondeos, familiarización y concordancia entre URP y PTP",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos, paso a paso, cómo obtener el umbral de recepción de la palabra (URP).",
+    "Veremos la selección de palabras, la fase de familiarización y cómo se compara el resultado con el promedio de tonos puros."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definición y materiales",
+   "baslik": "¿Qué es el *URP*?",
+   "maddeler": [
+    {
+     "metin": "_Umbral de recepción de la palabra_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_50 %_ de palabras correctas",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Unidad: _dB HL_, cada oído por separado",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Una _verificación_ de los umbrales tonales",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "URP",
+    "metin": "Nivel más bajo en el que se repite bien *la mitad* de las palabras bisílabas",
+    "cumle": 1
+   },
+   "cumleler": [
+    "El umbral de recepción de la palabra (URP), en inglés SRT, es la medida de umbral básica de la logoaudiometría.",
+    "El URP es el nivel de intensidad más bajo en el que una persona puede repetir correctamente el cincuenta por ciento de las palabras de dos sílabas.",
+    "En las fuentes más antiguas en inglés, esta misma medida se llama umbral de recepción del habla.",
+    "Como los umbrales tonales, el resultado se registra en decibeles HL, por separado para cada oído.",
+    "La función más importante del URP es comprobar la confiabilidad de los umbrales tonales.",
+    "También se usa para decidir el nivel al que se aplicará la prueba de reconocimiento de palabras."
+   ]
+  },
+  {
+   "id": "spondee",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definición y materiales",
+   "baslik": "Palabras *espondaicas*",
+   "maddeler": [
+    {
+     "metin": "_Espondeo_: dos sílabas, igual acento",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Palabras _igualmente_ inteligibles",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Curva de rendimiento _pronunciada_ cerca del umbral",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Listas de _tres sílabas_ en turco",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "En el URP se usan espondeos, que son palabras de dos sílabas con igual acento.",
+    "En estas palabras, ambas sílabas se pronuncian con un acento y una intensidad similares.",
+    "Las palabras de una lista se eligen para que todas empiecen a reconocerse aproximadamente al mismo nivel de intensidad.",
+    "Gracias a esto, el porcentaje de respuestas correctas cambia rápido con pequeños cambios de nivel, y el umbral queda claro.",
+    "Como el turco tiene otro patrón de acento, las listas turcas habituales usan palabras de tres sílabas elegidas por su igual inteligibilidad.",
+    "Veremos en detalle los materiales de logoaudiometría en español en una lección aparte."
+   ]
+  },
+  {
+   "id": "duzenek",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definición y materiales",
+   "baslik": "La *preparación* de la prueba",
+   "cizim": "odyometre",
+   "vurgula": [
+    {
+     "parca": "cihaz",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "cihaz",
+     "metin": "audiómetro: canal de habla",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "auriculares: cada oído por separado",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "metin": "respuesta verbal, no el pulsador",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Voz viva o fuente grabada",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "El canal de habla también se calibra",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Las pruebas de habla se aplican por el canal de habla del audiómetro.",
+    "A este canal se conecta la voz viva a través de un micrófono, o una fuente grabada.",
+    "Las palabras se presentan al paciente con auriculares, a cada oído por separado.",
+    "El audiólogo oye la respuesta hablada del paciente por el micrófono del intercomunicador de la cabina.",
+    "Así, para el URP, el paciente repite la palabra en lugar de apretar el pulsador de respuesta.",
+    "La calibración del canal de habla debe controlarse con regularidad, igual que la del canal tonal."
+   ]
+  },
+  {
+   "id": "tanistirma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Preparación",
+   "baslik": "La fase de *familiarización*",
+   "maddeler": [
+    {
+     "metin": "_Familiarización_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Palabras presentadas _antes_ a nivel cómodo",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Las palabras desconocidas _se retiran_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Consigna: repetir, _adivinar_",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Antes de empezar la prueba hay una fase de familiarización.",
+    "En esta fase se presenta al paciente la lista de palabras, hablada o escrita, a un nivel de escucha cómodo.",
+    "Las palabras que el paciente no conoce o no puede repetir correctamente se retiran de la lista.",
+    "La familiarización reduce los errores debidos al vocabulario y hace el umbral más confiable.",
+    "Por eso, la guía de la Asociación Estadounidense del Habla, Lenguaje y Audición (ASHA) también recomienda la familiarización.",
+    "La consigna también debe ser clara: se pide al paciente que repita la palabra que oye y que adivine si no está seguro.",
+    "En pacientes que no pueden hablar, o en niños pequeños, se puede usar una respuesta señalando imágenes en lugar de repetir."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "RESPUESTA",
+    "cumle": 5,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Repetición",
+      "metin": "Dice la palabra que oyó",
+      "cumle": 5
+     },
+     {
+      "ikon": "cocuk",
+      "baslik": "Señalar imágenes",
+      "metin": "Niño pequeño, paciente que no habla",
+      "cumle": 6
+     }
+    ]
+   }
+  },
+  {
+   "id": "sunum",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Preparación",
+   "baslik": "Modo de *presentación*",
+   "maddeler": [
+    {
+     "metin": "Grabado o _voz viva_",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Voz viva: vigilar el _vúmetro_",
+     "cumle": 2,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Auriculares, _cada oído por separado_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "_Enmascarar_ el oído opuesto si hace falta",
+     "cumle": 5,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "Las palabras pueden presentarse desde material grabado o leídas por el audiólogo al micrófono, es decir, con voz viva.",
+    "El material grabado es más estandarizado, mientras que la voz viva es más flexible y rápida.",
+    "Con voz viva, el nivel de cada palabra se mantiene lo más estable posible vigilando el vúmetro del audiómetro.",
+    "Quien habla también cuida de decir las palabras con naturalidad y con la misma entonación.",
+    "La prueba se hace con auriculares, por separado para cada oído.",
+    "Si el nivel de presentación es suficiente para pasar al oído opuesto, ese oído se enmascara con ruido de habla."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PRESENTACIÓN",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "hoparlor",
+      "baslik": "Material grabado",
+      "metin": "Más estandarizado",
+      "cumle": 1
+     },
+     {
+      "ikon": "mikrofon",
+      "baslik": "Voz viva",
+      "metin": "Más flexible y rápida",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "yontem",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Método",
+   "baslik": "El método *descendente* de la ASHA",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Fase preliminar",
+     "metin": "Bajar en pasos de 10 dB",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Dos fallos",
+     "metin": "Empezar 10 dB más arriba",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Fase de prueba",
+     "metin": "5 palabras cada 5 dB",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Fin",
+     "metin": "5 de las últimas 6 erradas",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En el método descendente que recomienda la ASHA, la primera palabra se da unos treinta a cuarenta decibeles por encima del umbral estimado.",
+    "Mientras el paciente repita correctamente, el nivel se baja en pasos de diez decibeles.",
+    "Cuando el paciente falla dos palabras seguidas en un nivel, la fase de prueba empieza diez decibeles por encima de ese nivel.",
+    "En la fase de prueba se dan cinco palabras en cada paso de cinco decibeles y se anota el número de aciertos.",
+    "La prueba termina cuando el paciente falla cinco de las últimas seis palabras.",
+    "También hay una versión de este método con pasos de dos decibeles y dos palabras en cada paso."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Método",
+   "baslik": "Un ejemplo de *cálculo*",
+   "sutunlar": [
+    "Nivel (dB HL)",
+    "Aciertos (de 5)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "40",
+      "5"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "35",
+      "5"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "30",
+      "4"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "25",
+      "2"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "20",
+      "0"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "URP",
+      "26 dB HL"
+     ],
+     "cumle": 6,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Veamos un ejemplo: la fase de prueba empieza en cuarenta decibeles, y el paciente repite bien las cinco palabras.",
+    "En treinta y cinco decibeles, de nuevo acierta cinco de cinco.",
+    "En treinta decibeles acierta cuatro de las cinco palabras.",
+    "En veinticinco decibeles hay solo dos respuestas correctas.",
+    "En veinte decibeles no hay ninguna; al menos cinco de las últimas seis palabras son erradas, así que la prueba termina aquí.",
+    "El cálculo: el nivel inicial es cuarenta, el total de aciertos es dieciséis y la corrección para pasos de cinco decibeles es dos.",
+    "El URP es cuarenta menos dieciséis más dos, es decir, veintiséis dB HL."
+   ]
+  },
+  {
+   "id": "formul",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Método",
+   "baslik": "La fórmula y las *alternativas*",
+   "maddeler": [
+    {
+     "metin": "URP: inicio menos aciertos más _corrección_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Corrección con pasos de 5 dB: _2_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Corrección con pasos de 2 dB: _1_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "También _pueden usarse_ métodos ascendentes",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "La fórmula general es: al nivel inicial se le resta el total de aciertos y luego se suma el factor de corrección.",
+    "El factor de corrección es dos con pasos de cinco decibeles y uno con pasos de dos decibeles.",
+    "Este cálculo es una estimación estadística del punto de cincuenta por ciento de aciertos.",
+    "Algunas clínicas también usan métodos ascendentes, parecidos a la búsqueda del umbral tonal.",
+    "Sea cual sea el método elegido, lo importante es aplicarlo de forma constante en la misma clínica."
+   ]
+  },
+  {
+   "id": "uyum",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "URP y PTP",
+   "baslik": "*Concordancia* entre URP y PTP",
+   "maddeler": [
+    {
+     "metin": "_PTP_: promedio de 500, 1000 y 2000 Hz",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Diferencia esperada: hasta _10 dB_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ejemplo: PTP 27, URP _26_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "UDP _8 a 10 dB_ mejor que URP",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        25,
+        30,
+        40,
+        45
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "El URP se compara con el promedio de los umbrales tonales, llamado promedio de tonos puros (PTP).",
+    "El PTP suele ser el promedio de los umbrales en quinientos, mil y dos mil hertz.",
+    "La diferencia entre ambos valores suele quedar dentro de más o menos diez decibeles, y en la mayoría de los pacientes es aún menor.",
+    "En este ejemplo, el PTP del oído derecho es de unos veintisiete y el URP de veintiséis dB HL; ambos valores concuerdan.",
+    "La concordancia muestra que los umbrales tonales y el umbral de habla se confirman mutuamente.",
+    "El umbral de detección de la palabra (UDP) suele ser unos ocho a diez decibeles mejor que el URP."
+   ]
+  },
+  {
+   "id": "uyumsuz",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "URP y PTP",
+   "baslik": "*Posibles causas* de discrepancia",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "URP mucho mejor",
+     "metin": "Posible pérdida auditiva funcional",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "URP algo mejor",
+     "metin": "Audiograma con caída pronunciada",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "URP peor",
+     "metin": "Idioma o cognición",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "En ambos sentidos",
+     "metin": "Consigna o calibración",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Si el URP es claramente mejor que el PTP, una posibilidad importante a considerar es la pérdida auditiva funcional, o no orgánica.",
+    "Estas personas pueden mostrar umbrales tonales elevados y, sin embargo, repetir el habla a un nivel mucho más bajo de lo esperado.",
+    "Con un audiograma de caída pronunciada, el URP también puede resultar mejor que el PTP de tres frecuencias.",
+    "En ese caso, el URP concuerda mejor con el promedio de los dos mejores de esos tres umbrales; es el llamado promedio de Fletcher.",
+    "Si el URP es claramente peor que el PTP, se puede pensar en una diferencia de idioma, una dificultad cognitiva o un problema de comprensión del habla.",
+    "En ambos sentidos, primero hay que comprobar que la consigna se entendió y que el equipo funciona correctamente."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si el URP y el PTP difieren en más de 10 dB, repitan la consigna y revisen los umbrales tonales antes de redactar el informe.",
+   "cumleler": [
+    "Este es un hábito muy útil en la clínica.",
+    "Comparen el resultado del URP con el PTP mientras el paciente sigue en la cabina.",
+    "Si la diferencia supera los diez decibeles, repitan la consigna y revisen los umbrales tonales antes de redactar el informe.",
+    "Con esta simple comparación se detectan muchos problemas de confiabilidad antes de terminar la prueba.",
+    "Cuando se sospecha una pérdida funcional, algunos clínicos prefieren medir el URP antes de la audiometría tonal."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "URP y PTP",
+   "baslik": "¿Para qué *sirve* el URP?",
+   "maddeler": [
+    {
+     "metin": "_Confirmar_ los umbrales tonales",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Nivel de presentación_ del reconocimiento de palabras",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Información_ en pacientes difíciles de evaluar",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Comparación _con audífono_ en campo libre",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "El primer uso del URP es confirmar los umbrales tonales.",
+    "El segundo es fijar el nivel de presentación de la prueba de reconocimiento de palabras, a menudo treinta a cuarenta decibeles sobre el URP.",
+    "En algunos pacientes que no pueden responder de forma confiable a los tonos puros, el umbral de habla puede dar una idea del nivel auditivo.",
+    "Por ejemplo, en niños pequeños, un umbral de habla obtenido señalando imágenes es una información valiosa.",
+    "Un umbral de habla medido en campo libre también puede usarse para comparar la audición con y sin audífono."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "URP: _50 %_ de palabras correctas",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Palabras _espondaicas_ y familiarización",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Inicio menos aciertos _más corrección_",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Dentro de _unos 10 dB_ del PTP",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "El URP es el nivel más bajo en el que se repite correctamente el cincuenta por ciento de las palabras de dos sílabas.",
+    "La prueba usa palabras de dos sílabas igualmente inteligibles, tras una fase de familiarización.",
+    "En el método de la ASHA, el URP es el nivel inicial menos el número de aciertos, más un factor de corrección.",
+    "El URP y el PTP suelen diferir en diez decibeles o menos; una diferencia grande obliga a revisar el resultado."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Inicio 50 dB, 18 aciertos, pasos de 5 dB. ¿Cuál es el URP?",
+   "secenekler": [
+    "32 dB HL",
+    "34 dB HL",
+    "36 dB HL",
+    "50 dB HL"
+   ],
+   "dogru": 1,
+   "aciklama": "50 menos 18 más 2 = 34; con pasos de 5 dB el _factor de corrección es 2_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: el nivel inicial es de cincuenta decibeles, el total de aciertos es dieciocho y el paso es de cinco decibeles. ¿Cuál es el URP?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: treinta y cuatro dB HL.",
+    "Cincuenta menos dieciocho más dos es treinta y cuatro; con pasos de cinco decibeles, el factor de corrección es dos."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cómo medir el *porcentaje* de reconocimiento de palabras",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo medir el porcentaje de reconocimiento de palabras, una prueba supraumbral.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,869 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D033_Bone_Conduction_Hearing_ES",
+ "kapak": {
+  "ust": "LECCIÓN 33",
+  "baslik": "La audición por<br>*vía ósea*",
+  "alt": "Tres componentes y el efecto de oclusión",
+  "cizim": "diyapazon",
+  "ayar": {
+   "test": "rinne"
+  }
+ },
+ "youtube": {
+  "baslik": "Cómo funciona la audición por vía ósea | Lección 33 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo llega la vibración del cráneo a la cóclea? En esta lección vemos los componentes de compresión, inercial y osteotimpánico de la conducción ósea, y por qué la vía ósea refleja en gran medida la cóclea de forma directa. También repasamos la muesca de Carhart y la importancia clínica del efecto de oclusión.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Tonndorf J, Bone conduction: studies in experimental animals (Acta Oto-Laryngologica, Suppl. 213, 1966); Stenfelt S y Goode RL, Bone-conducted sound: physiological and clinical aspects (Otology and Neurotology, 2005); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "viaosea",
+   "audicion"
+  ],
+  "etiketler": [
+   "conducción ósea",
+   "vía ósea",
+   "conducción ósea inercial",
+   "conducción ósea por compresión",
+   "conducción ósea osteotimpánica",
+   "efecto de oclusión",
+   "muesca de Carhart",
+   "brecha aéreo-ósea",
+   "vibrador óseo",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 33",
+   "baslik": "La audición por *vía ósea*",
+   "alt": "Componentes de compresión, inercial y osteotimpánico",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo llega el sonido a la cóclea a través de la vibración del cráneo: la audición por vía ósea.",
+    "Conoceremos sus tres componentes principales, por qué la vía ósea refleja en gran medida la cóclea y el efecto de oclusión."
+   ]
+  },
+  {
+   "id": "iki_yol",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Dos vías, un mismo destino",
+   "baslik": "Vía aérea y *vía ósea*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "conducto auditivo",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "membrana timpánica (tímpano)",
+     "cumle": 1
+    },
+    {
+     "parca": "kemikcikler",
+     "metin": "huesecillos",
+     "cumle": 1
+    },
+    {
+     "parca": "temporal_kemik",
+     "metin": "hueso temporal: vibración del cráneo",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "metin": "cóclea",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "temporal_kemik",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vía aérea: oído _externo y medio_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Vía ósea: vibración del _cráneo_",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Destino común: la _cóclea_",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "genel",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "cumle": 5,
+     "olcek": 2.2
+    }
+   ],
+   "cumleler": [
+    "En la vida diaria oímos el sonido sobre todo por vía aérea.",
+    "El sonido recorre el conducto auditivo, hace vibrar la membrana timpánica, o tímpano, y los huesecillos llevan la vibración a la cóclea.",
+    "Sin embargo, cuando el cráneo vibra, el sonido también puede llegar a la cóclea por vía ósea.",
+    "Al oír nuestra propia voz siempre actúa la vía ósea; el cráneo transmite bien los graves, por eso nuestra voz nos suena más llena.",
+    "Nuestra voz grabada la oímos solo por vía aérea; por eso una grabación nos suena extraña y más delgada.",
+    "Ambas vías tienen el mismo objetivo: hacer vibrar la membrana basilar dentro de la cóclea."
+   ]
+  },
+  {
+   "id": "uc_bilesen",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tres componentes",
+   "baslik": "Los *tres componentes* de la vía ósea",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "De compresión",
+     "metin": "Oído interno: cápsula comprimida, líquido desplazado",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Inercial",
+     "metin": "Huesecillos y líquidos se retrasan",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Osteotimpánico",
+     "metin": "La pared del conducto irradia sonido",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Clásicamente se describen tres componentes: de compresión, inercial y osteotimpánico.",
+    "El componente de compresión surge en el oído interno, cuando la cápsula coclear se comprime y se expande.",
+    "El componente inercial surge porque los huesecillos y los líquidos cocleares se quedan atrás respecto del movimiento del cráneo.",
+    "El componente osteotimpánico es el sonido que las paredes vibrantes del conducto auditivo irradian hacia su interior.",
+    "Estudios recientes muestran que otras vías, como la transmisión de presión a través del líquido cefalorraquídeo, también aportan un poco."
+   ]
+  },
+  {
+   "id": "kompresyonel",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tres componentes",
+   "baslik": "El componente de *compresión*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "etiketler": [
+    {
+     "parca": "oval_pencere",
+     "metin": "ventana oval",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "ventana redonda: más distensible",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "La cápsula se _comprime_ y expande",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "El líquido se _desplaza_ hacia la ventana distensible",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Más importante_ en frecuencias agudas",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Cuando el cráneo vibra, la cápsula coclear, el hueso que rodea la cóclea, se comprime y se expande muy levemente, una y otra vez.",
+    "Los líquidos cocleares no se pueden comprimir, así que la cápsula comprimida empuja el líquido hacia las ventanas.",
+    "La ventana redonda es más distensible que la oval, y el volumen de líquido del lado de la rampa vestibular es mayor.",
+    "Esta asimetría hace que el líquido se desplace en una dirección y mueva la membrana basilar.",
+    "El componente de compresión cobra importancia sobre todo en las frecuencias agudas, cuando el cráneo vibra por segmentos."
+   ]
+  },
+  {
+   "id": "ataletsel",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tres componentes",
+   "baslik": "El componente *inercial*",
+   "cizim": "orta_kulak",
+   "etiketler": [
+    {
+     "parca": "malleus",
+     "metin": "martillo",
+     "cumle": 1
+    },
+    {
+     "parca": "incus",
+     "metin": "yunque",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "metin": "estribo",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "ventana oval",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "malleus",
+     "cumle": 1
+    },
+    {
+     "parca": "incus",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Los huesecillos _se retrasan_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Movimiento _relativo_ de estribo y ventana",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Claro alrededor de _2000 Hz_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "oval_pencere",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Cuando el cráneo se mueve hacia adelante y hacia atrás como un todo, los huesecillos, suspendidos con holgura, no lo siguen de inmediato.",
+    "Por su masa, el martillo y el yunque se quedan atrás respecto del cráneo; esto se llama inercia.",
+    "Así se produce un movimiento relativo entre el estribo y la ventana oval, y el líquido es empujado igual que en la vía aérea.",
+    "El componente inercial es claro en frecuencias graves y medias, y pesa más cerca de dos mil hertz por la resonancia osicular.",
+    "Este detalle explica la muesca de Carhart, que veremos en breve."
+   ]
+  },
+  {
+   "id": "osseotimpanik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tres componentes",
+   "baslik": "El componente *osteotimpánico*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "pared del conducto auditivo",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "membrana timpánica",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Las paredes _irradian_ sonido",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Con el conducto abierto, el sonido _escapa_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "_Aumenta_ con el conducto cerrado",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Al vibrar el cráneo, las paredes del conducto, sobre todo su porción cartilaginosa externa, también vibran e irradian sonido hacia su interior.",
+    "Este sonido llega a la membrana timpánica y viaja a la cóclea por la vía aérea habitual.",
+    "Con el conducto abierto, la mayor parte de este sonido, sobre todo su parte grave, escapa hacia afuera, así que su aporte es pequeño.",
+    "Cuando el conducto se cierra, el sonido queda dentro; de aquí viene el aumento que llamamos efecto de oclusión.",
+    "De ahí viene también el nombre: osteo se refiere al hueso, y timpánico, al tímpano."
+   ]
+  },
+  {
+   "id": "ortak_yol",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Un espejo de la cóclea",
+   "baslik": "El resultado: la misma *onda viajera*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vía aérea y ósea: la _misma_ onda",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Dos tonos pueden _cancelarse_",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Umbral óseo: sensibilidad _coclear_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "la misma onda viajera",
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "Sea cual sea el componente que la inicia, la vía ósea crea en la cóclea la misma onda viajera que la vía aérea.",
+    "En un experimento clásico que lo demuestra, se presentaron juntos un tono por vía aérea y un tono por vía ósea de la misma frecuencia.",
+    "Cuando el nivel y la fase de ambos tonos se ajustaban bien, se cancelaban entre sí y la persona no oía nada.",
+    "Este resultado muestra que las dos vías se convierten en el mismo estímulo en la cóclea.",
+    "Como la vía ósea evita en gran parte el oído externo y el medio, los umbrales por vía ósea reflejan la sensibilidad de la cóclea."
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Un espejo de la cóclea",
+   "baslik": "La *brecha* aéreo-ósea",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Vía aérea_: 35 a 45 dB HL",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Vía ósea_: normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       35,
+       35,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, los umbrales por vía aérea del oído derecho están entre treinta y cinco y cuarenta y cinco decibeles.",
+    "Los umbrales por vía ósea están dentro de límites normales, lo que significa que la cóclea funciona con normalidad.",
+    "El sonido no llega bien a la cóclea por vía aérea; la diferencia entre ambas se llama brecha aéreo-ósea.",
+    "Comparar los umbrales por vía aérea y por vía ósea es la base para distinguir una pérdida conductiva de una neurosensorial."
+   ]
+  },
+  {
+   "id": "carhart",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Un espejo de la cóclea",
+   "baslik": "No siempre pura: la *muesca de Carhart*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Vía aérea_: pérdida conductiva",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Vía ósea enmascarada_: caída en 2000 Hz",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       45,
+       45,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       15,
+       30,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Sin embargo, la vía ósea no es del todo independiente del oído medio.",
+    "En este ejemplo, en un oído con el estribo fijo, el umbral por vía ósea cae claramente alrededor de dos mil hertz.",
+    "Como el estribo no puede moverse, se pierde el componente inercial y el umbral por vía ósea empeora de forma artificial.",
+    "Esta caída se llama muesca de Carhart; es más marcada en dos mil hertz, con unos quince decibeles en promedio.",
+    "La muesca suele desaparecer tras una cirugía exitosa, lo que demuestra que es un efecto mecánico."
+   ]
+  },
+  {
+   "id": "iki_koklea",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Un espejo de la cóclea",
+   "baslik": "La vibración llega a *ambas cócleas*",
+   "maddeler": [
+    {
+     "metin": "Vibrador: _mastoides_ o frente",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Ambas posiciones tienen _ventajas_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Atenuación interaural: _cerca de 0 dB_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Umbral sin enmascarar: la _mejor_ cóclea",
+     "cumle": 4,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Enmascaramiento_ para umbrales por oído",
+     "cumle": 5,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "vurgula": [
+     {
+      "parca": "kemik_vibratoru",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "kemik_vibratoru",
+      "metin": "vibrador óseo",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "En la clínica, la vía ósea se evalúa con un vibrador óseo colocado sobre la apófisis mastoides o sobre la frente.",
+    "La colocación en la mastoides da mayor salida y es más común en la clínica; la frontal da resultados más reproducibles.",
+    "La vibración del cráneo se propaga en todas direcciones; sea cual sea el lado del vibrador, ambas cócleas se estimulan casi por igual.",
+    "La atenuación interaural por vía ósea es muy pequeña y suele tomarse como cero decibeles.",
+    "Por eso, el umbral por vía ósea sin enmascarar refleja la cóclea que oye mejor, en cualquier lado que esté el vibrador.",
+    "Un umbral por vía ósea específico de cada oído suele requerir enmascarar el oído contrario."
+   ]
+  },
+  {
+   "id": "okluzyon",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "El efecto de oclusión",
+   "baslik": "El efecto de *oclusión*",
+   "cizim": "diyapazon",
+   "ayar": {
+    "test": "bing"
+   },
+   "vurgula": [
+    {
+     "parca": "mastoid",
+     "cumle": 0
+    },
+    {
+     "parca": "kulak",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Conducto cerrado: aumentan los _graves_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "_Despreciable_ desde 2000 Hz",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Ausente_ o pequeño en pérdida conductiva",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "mastoid",
+     "metin": "mastoides",
+     "cumle": 0
+    },
+    {
+     "parca": "kulak",
+     "metin": "conducto auditivo cerrado",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Apoyen el mango de un diapasón en la mastoides, escuchen y luego cierren el conducto con un dedo: el sonido de pronto se vuelve más fuerte.",
+    "Esta percepción más fuerte del sonido grave por vía ósea al cerrar el conducto auditivo se llama efecto de oclusión.",
+    "La energía grave que el componente osteotimpánico irradia al conducto ya no puede escapar y se dirige al tímpano.",
+    "El efecto es claro entre doscientos cincuenta y mil hertz, y despreciable desde dos mil hertz en adelante.",
+    "En un oído con pérdida conductiva el efecto suele faltar o ser muy pequeño, porque la transmisión desde el conducto ya está alterada.",
+    "La prueba de Bing es una prueba sencilla con diapasón que explora este efecto."
+   ]
+  },
+  {
+   "id": "okluzyon_buyukluk",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "El efecto de oclusión",
+   "baslik": "*Magnitud* del efecto de oclusión",
+   "sutunlar": [
+    "Frecuencia",
+    "Auricular supraaural",
+    "Inserción profunda"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "250 Hz",
+      "Unos 30 dB",
+      "Unos 10 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "Unos 20 dB",
+      "Cerca de 0 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "Unos 10 dB",
+      "Cerca de 0 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2000 Hz o más",
+      "Cerca de 0 dB",
+      "Cerca de 0 dB"
+     ],
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "La magnitud del efecto de oclusión depende del tipo de auricular que cierra el oído y de la profundidad de su inserción.",
+    "Con un auricular supraaural, el aumento en doscientos cincuenta hertz puede llegar a unos treinta decibeles en promedio.",
+    "El efecto disminuye al subir la frecuencia: unos veinte decibeles en quinientos hertz y unos diez en mil hertz.",
+    "Un auricular de inserción profunda reduce claramente el efecto, porque deja fuera del espacio cerrado la porción cartilaginosa que irradia.",
+    "Como los valores varían entre personas, algunas clínicas usan valores promedio y otras miden el efecto con el oído abierto y cerrado."
+   ]
+  },
+  {
+   "id": "okluzyon_klinik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "El efecto de oclusión",
+   "baslik": "El efecto de oclusión *en la clínica*",
+   "maddeler": [
+    {
+     "metin": "Se suma una _corrección_ al enmascarar",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Conductiva contralateral: _no se suma_",
+     "cumle": 2,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Quejas por la _propia voz_ con audífonos",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Se reduce con _ventilación_ o adaptación abierta",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "ITE"
+    },
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 3
+     }
+    ],
+    "cumle": 3
+   },
+   "cumleler": [
+    "Al enmascarar en la vía ósea, el oído no evaluado se cubre con un auricular, así que en ese oído aparece un efecto de oclusión.",
+    "Por eso, en las frecuencias graves se suma al nivel inicial del ruido enmascarante una corrección igual al efecto de oclusión.",
+    "Si el oído no evaluado tiene una pérdida conductiva, el efecto no aparece, así que esta corrección no se suma.",
+    "Con audífonos, los moldes que cierran el conducto auditivo pueden hacer que la persona oiga su propia voz apagada y retumbante.",
+    "Esta queja se reduce con un conducto de ventilación perforado en el molde, o con una adaptación abierta."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "El efecto de oclusión",
+   "baslik": "Consejo clínico",
+   "metin": "En la prueba por vía ósea, mantengan abierto el conducto del oído evaluado. Si la diadema o el pabellón cierran el conducto, los umbrales graves pueden mejorar falsamente.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo de la práctica: en la prueba por vía ósea, el conducto del oído evaluado debe quedar abierto.",
+    "Si la diadema o un pabellón doblado cierran el conducto, aparece un efecto de oclusión y los umbrales graves pueden mejorar falsamente.",
+    "Esto puede crear la apariencia de una brecha aéreo-ósea que en realidad no existe.",
+    "Coloquen el vibrador de modo que no toque el pabellón, y comprueben que el conducto auditivo esté abierto."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Mismo destino: movimiento de la _membrana basilar_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Componentes: _compresión_, inercial, osteotimpánico",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "La vía ósea refleja sobre todo la _cóclea_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Oído cerrado: el efecto de _oclusión_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "Al igual que la vía aérea, la vía ósea crea la misma onda viajera en la cóclea.",
+    "Los tres componentes clásicos de la vía ósea son el de compresión, el inercial y el osteotimpánico.",
+    "Los umbrales por vía ósea reflejan en gran medida la sensibilidad coclear; la muesca de Carhart es la excepción.",
+    "Al cerrar el conducto auditivo, el sonido por vía ósea se vuelve más fuerte en los graves; este es el efecto de oclusión."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿En qué frecuencias es mayor el efecto de oclusión?",
+   "secenekler": [
+    "250 a 1000 Hz",
+    "Alrededor de 2000 Hz",
+    "4000 a 8000 Hz",
+    "Igual en todas las frecuencias"
+   ],
+   "dogru": 0,
+   "aciklama": "El conducto cerrado refuerza el sonido por vía ósea _en los graves_; desde 2000 Hz el efecto es despreciable.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿en qué frecuencias se observa más el efecto de oclusión?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: entre doscientos cincuenta y mil hertz.",
+    "Con el conducto auditivo cerrado, los sonidos graves no pueden escapar; desde dos mil hertz en adelante el efecto es despreciable."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Genética *básica*: genes, alelos y patrones de herencia",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos a la genética y conoceremos los genes, los alelos y los patrones de herencia.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

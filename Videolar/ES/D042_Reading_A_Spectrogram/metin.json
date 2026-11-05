@@ -1,0 +1,753 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D042_Reading_A_Spectrogram_ES",
+ "kapak": {
+  "ust": "LECCIÓN 42",
+  "baslik": "Cómo leer un<br>*espectrograma*",
+  "alt": "La acústica de los sonidos del habla",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "Cómo leer un espectrograma: acústica del habla | Lección 42 | AIHEAR Academia de Audiología",
+  "aciklama": "El espectrograma es una imagen del habla que muestra a la vez el tiempo, la frecuencia y la intensidad. En esta lección vemos sus ejes, los espectrogramas de banda ancha y de banda estrecha, los formantes F1 y F2 de las vocales, la energía aguda de las fricativas, el tiempo de inicio de la sonoridad (VOT) en las oclusivas y por qué todo esto importa en la pérdida auditiva de frecuencias agudas.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Kent RD and Read C, The Acoustic Analysis of Speech; Ladefoged P, A Course in Phonetics; Fant G, Acoustic Theory of Speech Production; Stevens KN, Acoustic Phonetics; Boersma P and Weenink D, Praat: doing phonetics by computer.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "acustica",
+   "habla"
+  ],
+  "etiketler": [
+   "espectrograma",
+   "formantes",
+   "F1 F2",
+   "consonantes fricativas",
+   "tiempo de inicio de la sonoridad",
+   "VOT",
+   "acústica del habla",
+   "modelo fuente-filtro",
+   "seis sonidos de Ling",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 42",
+   "baslik": "Cómo leer un *espectrograma*",
+   "alt": "Formantes, fricativas y tiempo de inicio de la sonoridad",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprenderemos a leer el espectrograma, la imagen del habla.",
+    "Veremos los formantes de las vocales, la energía aguda de las fricativas y el tiempo de inicio de la sonoridad en las consonantes oclusivas."
+   ]
+  },
+  {
+   "id": "uc_gosterim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El lenguaje del espectrograma",
+   "baslik": "De la forma de onda al *espectrograma*",
+   "cizim": "spektrogram",
+   "ayar": {
+    "cumle": 2
+   },
+   "vurgula": [
+    {
+     "parca": "dalga_bicimi",
+     "cumle": 0
+    },
+    {
+     "parca": "frekans_ekseni",
+     "cumle": 1
+    },
+    {
+     "parca": "koyuluk",
+     "cumle": 2
+    },
+    {
+     "parca": "a_sesi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Forma de onda: _tiempo_ y presión",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Espectro: _frecuencia_ e intensidad",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Espectrograma: _las tres_ a la vez",
+     "cumle": 2,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "Un sonido puede mostrarse de distintas maneras; la primera es la forma de onda, que muestra cómo cambia la presión en el tiempo.",
+    "El espectro muestra cuánta energía lleva un sonido en cada frecuencia en un momento dado.",
+    {
+     "yazi": "El espectrograma combina ambos: muestra cómo cambia el contenido de frecuencias a lo largo del tiempo."
+    },
+    "Como el habla es un sonido que cambia constantemente, el espectrograma es una de las herramientas más poderosas para estudiarla.",
+    {
+     "yazi": "Los primeros espectrógrafos de sonido se desarrollaron en los Laboratorios Bell en la década de 1940 y transformaron la investigación del habla."
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_bicimi",
+     "metin": "Forma de onda",
+     "cumle": 0
+    },
+    {
+     "parca": "formantlar",
+     "metin": "Bandas de formantes en la vocal",
+     "cumle": 3
+    },
+    {
+     "parca": "s_sesi",
+     "metin": "s: ruido agudo",
+     "cumle": 3
+    }
+   ]
+  },
+  {
+   "id": "eksenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "El lenguaje del espectrograma",
+   "baslik": "Tres *ejes*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Horizontal: tiempo",
+     "metin": "El habla avanza de izquierda a derecha",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Vertical: frecuencia",
+     "metin": "Graves abajo, agudos arriba",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Oscuridad: intensidad",
+     "metin": "Más oscuro, más intenso",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "A diferencia del audiograma",
+     "metin": "Allí la frecuencia va de izquierda a derecha",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En un espectrograma, el eje horizontal es el tiempo; el habla avanza de izquierda a derecha.",
+    "El eje vertical es la frecuencia, con las frecuencias graves abajo y las agudas arriba.",
+    "La tercera dimensión, la intensidad, se muestra con la oscuridad o el color; las zonas oscuras o brillantes indican más energía.",
+    "Observen que en el audiograma la frecuencia va de izquierda a derecha, pero en el espectrograma va de abajo hacia arriba.",
+    "Con estos tres ejes en mente, podemos leer las huellas de los sonidos del habla."
+   ]
+  },
+  {
+   "id": "genis_dar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "El lenguaje del espectrograma",
+   "baslik": "Banda ancha y *banda estrecha*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Banda ancha",
+     "metin": "Ventana corta: formantes, detalle temporal",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Banda estrecha",
+     "metin": "Ventana larga: armónicos, detalle frecuencial",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Los espectrogramas pueden hacerse con dos ajustes básicos: de banda ancha y de banda estrecha.",
+    "En un espectrograma de banda ancha la ventana de análisis es corta, y los formantes aparecen como bandas oscuras.",
+    "El detalle temporal es bueno; cada vibración de los pliegues vocales se ve como una delgada línea vertical.",
+    "En un espectrograma de banda estrecha la ventana es larga; esta vez los armónicos individuales aparecen como líneas horizontales.",
+    "El detalle frecuencial es bueno, pero los cambios rápidos en el tiempo se vuelven borrosos.",
+    "Ambos son válidos: la banda ancha suele elegirse para formantes y consonantes, y la banda estrecha para el tono y los armónicos."
+   ]
+  },
+  {
+   "id": "kaynak_suzgec",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Vocales y formantes",
+   "baslik": "Fuente y *filtro*",
+   "cumleler": [
+    "Para entender las vocales, usamos el modelo fuente-filtro.",
+    {
+     "yazi": "La fuente es la vibración de los pliegues vocales; su velocidad se llama frecuencia fundamental, o F0."
+    },
+    {
+     "yazi": "La F0 es de unos cien a ciento cincuenta hertz en los hombres, de doscientos a doscientos cincuenta en las mujeres, y más alta en los niños."
+    },
+    "Junto con la fundamental, los pliegues vocales producen sus múltiplos, los armónicos; el filtro es el tracto vocal, desde la laringe hasta los labios.",
+    "El tracto vocal refuerza ciertas regiones de frecuencia; estas regiones de resonancia se llaman formantes.",
+    "Cuando la lengua, la mandíbula y los labios cambian de posición, los formantes se desplazan y surgen distintas vocales."
+   ],
+   "cizim": "kaynak_suzgec",
+   "ayar": {
+    "f0": 125,
+    "kaynak_cumle": 1,
+    "suzgec_cumle": 3,
+    "cikis_cumle": 4
+   },
+   "etiketler": [
+    {
+     "parca": "formantlar",
+     "metin": "Formantes",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kaynak",
+     "cumle": 1
+    },
+    {
+     "parca": "f0",
+     "cumle": 2
+    },
+    {
+     "parca": "suzgec",
+     "cumle": 3
+    },
+    {
+     "parca": "formantlar",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Fuente: pliegues vocales, _F0_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Filtro: el _tracto vocal_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "La boca _desplaza los formantes_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ]
+  },
+  {
+   "id": "formantlar",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Vocales y formantes",
+   "baslik": "*F1 y F2* en las vocales",
+   "sutunlar": [
+    "Vocal",
+    "F1 (Hz)",
+    "F2 (Hz)",
+    "Posición de la lengua"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "i",
+      "Unos 300",
+      "Unos 2200",
+      "Alta, anterior"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "u",
+      "Unos 320",
+      "Unos 800",
+      "Alta, posterior"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "a",
+      "Unos 700",
+      "Unos 1250",
+      "Baja"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "e",
+      "Unos 450",
+      "Unos 1900",
+      "Media, anterior"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "o",
+      "Unos 450",
+      "Unos 900",
+      "Media, posterior"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Cada vocal se reconoce en gran parte por la posición de sus dos primeros formantes, F1 y F2."
+    },
+    {
+     "yazi": "El primer formante se relaciona de forma inversa con la altura de la lengua: en vocales altas como la i y la u, el F1 es bajo."
+    },
+    {
+     "yazi": "En las vocales bajas, con la boca abierta, como la a, el F1 es alto, de unos setecientos hertz."
+    },
+    {
+     "yazi": "El segundo formante se relaciona con el avance de la lengua: el F2 es alto en vocales anteriores como la i y la e, y bajo en posteriores como la u y la o."
+    },
+    "Los valores de la tabla son ejemplos aproximados para un hablante adulto de sexo masculino; los formantes son más altos en mujeres y niños.",
+    "Cada una de las ocho vocales del turco ocupa su propio lugar en el mapa que forman estos dos formantes."
+   ]
+  },
+  {
+   "id": "unluler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Vocales y formantes",
+   "baslik": "¿Por qué las vocales se oyen *con facilidad*?",
+   "cizim": "konusma_muzu",
+   "vurgula": [
+    {
+     "parca": "unluler",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Las vocales son _intensas_ y graves",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Vocales anteriores: F2 sobre _2000 Hz_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Pérdida aguda: las vocales pueden _confundirse_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "unluler",
+     "metin": "vocales: intensas, graves",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "metin": "consonantes: débiles, agudas",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Las vocales son los sonidos más intensos del habla, y la mayor parte de su energía está por debajo de mil hertz.",
+    "Por eso, incluso las personas con pérdida auditiva en frecuencias agudas suelen oír bien las vocales.",
+    {
+     "yazi": "Pero para distinguir las vocales también se necesita el segundo formante; en vocales anteriores como la i, este formante sube por encima de dos mil hertz."
+    },
+    {
+     "yazi": "Con una pérdida en frecuencias medias y agudas, pueden confundirse pares de vocales del turco como i y ü, o e y ö.",
+     "ses": "Con una pérdida en frecuencias medias y agudas, pueden confundirse vocales anteriores del turco como la i y su versión redondeada, o la e y su versión redondeada."
+    },
+    "También en la banana del habla vemos las vocales agrupadas en la región grave e intensa, y las consonantes en la región más aguda y débil."
+   ]
+  },
+  {
+   "id": "surtunmeli",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Las consonantes",
+   "baslik": "Consonantes *fricativas*",
+   "maddeler": [
+    {
+     "metin": "_Turbulencia_ en un paso estrecho: ruido",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "s: mayormente sobre _4000 Hz_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "sh: desde unos _2000 Hz_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "f: débil y _difusa_",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "z, v, zh: más la _sonoridad_",
+     "cumle": 6,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "unsuzler",
+      "metin": "s, sh, f",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Las fricativas se producen por la turbulencia que se genera cuando el aire pasa forzado por un paso estrecho en la boca."
+    },
+    "En el espectrograma no aparecen como armónicos regulares, sino como un ruido granulado repartido en una zona amplia.",
+    "La energía de la s está en la región más alta, por lo general concentrada por encima de cuatro mil hertz.",
+    "En la sh, el espacio delante de la constricción es más largo y los labios se redondean ligeramente.",
+    "Por eso la energía de la sh empieza más abajo, alrededor de dos mil a dos mil quinientos hertz.",
+    "La f es un ruido débil repartido en una zona amplia, lo que la convierte en uno de los sonidos que más fácilmente se pierden.",
+    "En las fricativas sonoras como la z, la v y la zh, además del ruido, se ve en la parte más baja una barra de sonoridad producida por los pliegues vocales."
+   ]
+  },
+  {
+   "id": "patlamali",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Las consonantes",
+   "baslik": "Oclusivas y *VOT*",
+   "ogeler": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Cierre",
+     "metin": "Un breve silencio",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Explosión",
+     "metin": "Una breve huella vertical",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "VOT",
+     "metin": "De la explosión a la sonoridad",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "b, d, g",
+     "metin": "Sonoridad con la explosión o antes",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "p, t, k",
+     "metin": "Sonoridad retrasada, con aspiración",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En las consonantes oclusivas, el flujo de aire se bloquea por completo un instante; en el espectrograma este cierre aparece como un breve silencio.",
+    "Luego, al liberarse el cierre, se ve una breve explosión vertical.",
+    {
+     "yazi": "El tiempo entre la explosión y el inicio de la vibración de los pliegues vocales se llama tiempo de inicio de la sonoridad, o VOT."
+    },
+    "En las oclusivas sonoras del turco, como la b, la d y la g, la sonoridad suele comenzar con la explosión o incluso antes.",
+    "En las oclusivas sordas como la p, la t y la k, la sonoridad comienza con un claro retraso, después de un ruido de aspiración.",
+    "Esta diferencia de unas pocas decenas de milisegundos muestra con qué precisión usa el cerebro la información temporal."
+   ]
+  },
+  {
+   "id": "tiz_kayip",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "El espectrograma en la clínica",
+   "baslik": "¿Qué se *pierde* en la pérdida aguda?",
+   "cizim": "konusma_muzu",
+   "ayar": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       20,
+       45,
+       65,
+       70
+      ],
+      "cumle": 0
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "unluler",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Las vocales _se oyen_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "s, sh, f _se pierden_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Sufijos y palabras _se confunden_",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Este audiograma de ejemplo muestra una pérdida que cae bruscamente por encima de mil hertz; la mayor parte de la energía vocálica queda en la zona audible.",
+    "Pero la energía de fricativas como la s, la sh y la f queda por encima de la línea de umbrales, en la zona inaudible.",
+    "La persona oye que alguien habla, pero puede entender mal las palabras.",
+    "En turco, muchos sufijos y palabras contienen el sonido s; perderlo puede cambiar el significado.",
+    "Con voces femeninas e infantiles, la energía de la s se desplaza aún más arriba; por eso la amplificación de banda ancha es importante en los niños."
+   ]
+  },
+  {
+   "id": "ling",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "El espectrograma en la clínica",
+   "baslik": "En la práctica: los *seis sonidos de Ling*",
+   "maddeler": [
+    {
+     "metin": "m, u: región _grave_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "a: región _media_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "i: F1 bajo, F2 _alto_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "sh, s: región _aguda_",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "_Control_ diario del dispositivo",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "vurgula": [
+     {
+      "parca": "unluler",
+      "cumle": 2
+     },
+     {
+      "parca": "unsuzler",
+      "cumle": 3
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Una aplicación práctica del conocimiento del espectrograma es la prueba de los seis sonidos de Ling.",
+    "Usa los sonidos m, u, a, i, sh y s, que juntos cubren aproximadamente el rango de frecuencias del habla.",
+    "La m y la u representan la región grave, y la a, la región media.",
+    "La i tiene un primer formante bajo y un segundo formante alto, mientras que la sh y la s representan la región aguda.",
+    "Se usa, sobre todo con niños, para comprobar rápidamente si el dispositivo deja pasar estos sonidos; la veremos en detalle más adelante."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "El espectrograma en la clínica",
+   "baslik": "Pasos para leer un *espectrograma*",
+   "adimlar": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Silencios",
+     "metin": "Cierre de oclusiva",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Líneas de sonoridad",
+     "metin": "Barra de sonoridad abajo",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Bandas de formantes",
+     "metin": "Dónde están F1 y F2",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido agudo",
+     "metin": "Consonantes fricativas",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Transiciones, duración",
+     "metin": "De consonante a vocal",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Al leer un espectrograma, busquen primero los silencios; a menudo corresponden a la fase de cierre de las oclusivas.",
+    "Luego busquen la barra de sonoridad en la parte baja y las delgadas líneas verticales que muestran la vibración de los pliegues vocales.",
+    {
+     "yazi": "En las vocales, encuentren las bandas oscuras de los formantes y observen dónde se ubican F1 y F2."
+    },
+    "Las zonas de ruido amplio y granulado en la región aguda indican fricativas.",
+    "Por último, observen las transiciones de formantes entre consonante y vocal, y la duración de los sonidos.",
+    {
+     "yazi": "Pueden probar estos pasos haciendo un espectrograma de su propia voz con programas gratuitos como Praat."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "El espectrograma en la clínica",
+   "baslik": "Consejo clínico",
+   "metin": "En las pruebas de habla, registrar qué sonidos se confunden. Confundir s, sh y f suele relacionarse con la región de 2000 a 8000 Hz y orienta la adaptación.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo de la clínica: en las pruebas de habla, anoten no solo cuántas respuestas son correctas, sino también qué sonidos confunde el paciente.",
+    "Las confusiones de s, sh y f suelen relacionarse con la región del audiograma entre dos mil y ocho mil hertz.",
+    "Por ejemplo, un paciente que oye sh o f en lugar de s puede no tener suficiente audibilidad en la región aguda.",
+    "Estas notas aportan información valiosa para la adaptación del dispositivo y la orientación."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Ejes: _tiempo_, frecuencia, intensidad",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Las vocales se reconocen por _F1 y F2_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Fricativas: ruido en la región _aguda_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Oclusivas: silencio, explosión, _VOT_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "En un espectrograma, el eje horizontal muestra el tiempo, el eje vertical la frecuencia, y la oscuridad indica la intensidad.",
+    "Las vocales se reconocen por la posición de los dos primeros formantes, las resonancias del tracto vocal.",
+    "Las fricativas aparecen como ruido en la región aguda; la energía de la s suele estar por encima de cuatro mil hertz.",
+    "En las oclusivas, el silencio del cierre, la explosión y el tiempo de inicio de la sonoridad separan los sonidos sonoros de los sordos."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Qué sonido aparece como ruido en la región más alta de un espectrograma?",
+   "secenekler": [
+    "La vocal a",
+    "La consonante m",
+    "La consonante s",
+    "La vocal u"
+   ],
+   "dogru": 2,
+   "aciklama": "La s es una consonante _fricativa_; su energía suele concentrarse por encima de 4000 Hz.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué sonido aparece como ruido en la región más alta de un espectrograma?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la C: la consonante s."
+    },
+    "La s es una fricativa, y su energía suele aparecer por encima de cuatro mil hertz como un ruido granulado."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "La *banana del habla*: los sonidos en el audiograma",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección ubicaremos los sonidos del habla en el audiograma y conoceremos la banana del habla.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

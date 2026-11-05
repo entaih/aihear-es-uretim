@@ -1,0 +1,750 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D064_Common_Pure_Tone_Mistakes_ES",
+ "kapak": {
+  "ust": "LECCIÓN 64",
+  "baslik": "Errores<br>*frecuentes*",
+  "alt": "Trampas de la audiometría tonal",
+  "cizim": "kulak_kesit",
+  "ayar": {
+   "kollaps": true
+  }
+ },
+ "youtube": {
+  "baslik": "Errores frecuentes en la audiometría tonal | Lección 64 | AIHEAR Academia de Audiología",
+  "aciklama": "En esta lección vemos los errores frecuentes en la audiometría tonal: respuestas falsas positivas y falsas negativas, colapso del conducto auditivo, errores de colocación de auriculares y vibrador, enmascaramiento olvidado y curva sombra, y errores de ambiente, equipo y registro. También repasamos formas sencillas de comprobar si un resultado es coherente.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry; BSA, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking (2018); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audiometria",
+   "audiometriatonal"
+  ],
+  "etiketler": [
+   "errores en audiometría tonal",
+   "respuesta falsa positiva",
+   "respuesta falsa negativa",
+   "colapso del conducto auditivo",
+   "conducto colapsado",
+   "curva sombra",
+   "enmascaramiento",
+   "auriculares de inserción",
+   "errores en el audiograma",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 64",
+   "baslik": "Errores *frecuentes*",
+   "alt": "Reconocer y prevenir errores en la audiometría tonal",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos los errores frecuentes en la audiometría tonal y cómo se manifiestan en el audiograma.",
+    "Paso a paso, veremos las respuestas falsas, los errores de auriculares y vibrador, el enmascaramiento olvidado y los errores de registro."
+   ]
+  },
+  {
+   "id": "iki_tur",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Errores de respuesta",
+   "baslik": "Dos tipos de *respuesta falsa*",
+   "ogeler": [
+    {
+     "ikon": "yanlis",
+     "baslik": "Falsa positiva",
+     "cumle": 1,
+     "metin": "Responde sin que haya tono"
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Falsa negativa",
+     "cumle": 3,
+     "metin": "No responde a un tono"
+    }
+   ],
+   "cumleler": [
+    "En la audiometría tonal, las respuestas del paciente pueden fallar en dos sentidos.",
+    "Responder cuando no se presentó ningún tono se llama respuesta falsa positiva.",
+    "Las respuestas falsas positivas hacen que el umbral se registre mejor de lo que realmente es.",
+    "No responder cuando se presentó un tono audible se llama respuesta falsa negativa.",
+    "Las respuestas falsas negativas, a su vez, hacen que el umbral parezca peor de lo que realmente es.",
+    "Ya vimos brevemente estos dos errores en la lección sobre Hughson-Westlake; ahora veamos con más detalle sus causas y cómo prevenirlos."
+   ]
+  },
+  {
+   "id": "pozitif",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Errores de respuesta",
+   "baslik": "Causas de *falsos positivos*",
+   "maddeler": [
+    {
+     "metin": "Presentación _rítmica_ de los tonos",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "_Confundir_ el tinnitus con el tono",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Ver_ la mano o pantalla del evaluador",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Paciente ansioso que _adivina_",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PREVENCIÓN",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "kronometre",
+      "baslik": "Intervalos irregulares",
+      "cumle": 1,
+      "metin": "Evitan que adivine"
+     },
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Tono pulsado",
+      "cumle": 2,
+      "metin": "Se distingue del tinnitus"
+     },
+     {
+      "ikon": "sessizlik",
+      "baslik": "Control en silencio",
+      "cumle": 5,
+      "metin": "Detecta respuestas al silencio"
+     }
+    ]
+   },
+   "cumleler": [
+    "Presentar los tonos con un ritmo regular permite al paciente predecir el tono siguiente.",
+    "Por eso los intervalos de silencio entre tonos se mantienen irregulares, y a veces se alarga el intervalo.",
+    "Un paciente con tinnitus, o zumbido en el oído, puede confundir el tono con el zumbido, sobre todo en frecuencias cercanas a su tinnitus.",
+    "Si el paciente puede ver la mano del evaluador, la pantalla del audiómetro o un reflejo en la ventana, puede responder a una pista visual.",
+    "Algunos pacientes presionan el botón ante la menor duda para no perderse ningún sonido.",
+    "Las respuestas durante intervalos de silencio largos revelan esta tendencia; en ese caso, se repiten las instrucciones."
+   ]
+  },
+  {
+   "id": "negatif",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Errores de respuesta",
+   "baslik": "Causas de *falsos negativos*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Fatiga",
+     "cumle": 1,
+     "metin": "La atención cae en pruebas largas"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Instrucciones poco claras",
+     "cumle": 2,
+     "metin": "Ignora los sonidos débiles"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Tono demasiado corto",
+     "cumle": 3,
+     "metin": "No alcanza para notarlo"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Respuesta lenta",
+     "cumle": 4,
+     "metin": "Las respuestas tardías se pierden"
+    }
+   ],
+   "cumleler": [
+    "Las respuestas falsas negativas también tienen algunas causas frecuentes.",
+    "En una prueba larga, la atención del paciente disminuye y empieza a perder los tonos débiles.",
+    "Un paciente que entiende mal las instrucciones puede creer que solo debe presionar cuando oye claramente el sonido.",
+    "Si el tono es demasiado corto, el paciente no alcanza a notarlo; la ASHA recomienda de uno a dos segundos, y la BSA, de uno a tres.",
+    "Una respuesta tardía de un paciente mayor o lento puede confundirse con el tono siguiente y no contarse como respuesta.",
+    "Las pausas breves, repetir las instrucciones y adaptarse a la velocidad de respuesta del paciente reducen estos errores."
+   ]
+  },
+  {
+   "id": "kollaps",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Transductores y colocación",
+   "baslik": "El *colapso* del conducto auditivo",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "kollaps": true,
+    "kollaps_cumle": 0
+   },
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kollaps",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kollaps",
+     "metin": "porción cartilaginosa colapsada",
+     "cumle": 0
+    },
+    {
+     "parca": "kanal_agzi",
+     "metin": "entrada del conducto",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Brecha aéreo-ósea _falsa_ en agudos",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Solución: auriculares _de inserción_",
+     "cumle": 4,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "cumleler": [
+    "La presión de un auricular supraaural puede cerrar la porción cartilaginosa del conducto; esto se llama colapso del conducto auditivo.",
+    "Un conducto colapsado impide que el sonido llegue a la membrana timpánica, sobre todo en las frecuencias agudas.",
+    "El resultado es una brecha aéreo-ósea en los agudos que en realidad no existe y que puede confundirse con una pérdida conductiva.",
+    "Una entrada del conducto en forma de ranura y la edad avanzada son señales de alerta de este error.",
+    "Ante la duda, se repite la medición con auriculares de inserción; si la brecha desaparece, el problema era el colapso."
+   ]
+  },
+  {
+   "id": "insert",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Transductores y colocación",
+   "baslik": "Errores al *colocar* auriculares de inserción",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "insert": true
+   },
+   "yakinlastir": [
+    {
+     "parca": "kopuk_uc",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "ses_tupu",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kopuk_uc",
+     "cumle": 1
+    },
+    {
+     "parca": "ses_tupu",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kopuk_uc",
+     "metin": "punta de espuma",
+     "cumle": 1
+    },
+    {
+     "parca": "ses_tupu",
+     "metin": "tubo de sonido",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Inserción superficial: riesgo de _audición cruzada_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tubo doblado: sonido _débil_",
+     "cumle": 3,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Los auriculares de inserción evitan muchos problemas, pero si se colocan mal, generan sus propios errores.",
+    "Si la punta de espuma no se introduce lo suficiente, la atenuación interaural disminuye y aumenta el riesgo de audición cruzada.",
+    "Si se evalúa antes de que la espuma se expanda del todo, o la punta presiona la pared del conducto, el sonido se fuga y los umbrales salen peores.",
+    "Un tubo de sonido doblado o aplastado también reduce el sonido que llega al oído.",
+    "Una punta de tamaño incorrecto causa errores similares; la cara externa de la espuma debe quedar al ras de la entrada del conducto o algo por dentro."
+   ]
+  },
+  {
+   "id": "supra",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Transductores y colocación",
+   "baslik": "Errores con *auriculares* supraaurales",
+   "maddeler": [
+    {
+     "metin": "Diafragma _no centrado_ en el conducto",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Lados rojo y azul _invertidos_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Cabello, anteojos o _aretes_ en medio",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "El auricular se _desliza_ durante la prueba",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "kulaklik",
+      "metin": "auricular supraaural",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Con un auricular supraaural, el diafragma, el centro por donde sale el sonido, debe quedar justo sobre la entrada del conducto auditivo.",
+    "Cuando el centro se desplaza, los umbrales salen peores de lo que realmente son, sobre todo en las frecuencias agudas.",
+    "Si no se advierte que los auriculares están invertidos, los resultados de los dos oídos se intercambian; un rápido control del lado lo evita.",
+    "El cabello, una patilla de anteojos o un arete entre la almohadilla y la oreja crean una fuga y pueden alterar los umbrales en los graves.",
+    "Si el paciente toca los auriculares o mueve la cabeza durante la prueba, se vuelve a revisar la colocación."
+   ]
+  },
+  {
+   "id": "kemik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Vía ósea y enmascaramiento",
+   "baslik": "Trampas de la *vía ósea*",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Respuesta vibrotáctil",
+     "cumle": 1,
+     "metin": "Falso umbral en graves"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Radiación acústica",
+     "cumle": 2,
+     "metin": "Falsa brecha en agudos"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Efecto de oclusión",
+     "cumle": 3,
+     "metin": "Mejora en graves con oído tapado"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Vibrador desplazado",
+     "cumle": 4,
+     "metin": "El umbral parece peor"
+    }
+   ],
+   "cumleler": [
+    "Las trampas que vimos en la lección sobre vía ósea son una gran parte de los errores frecuentes.",
+    "La BSA señala que, con el vibrador en la mastoides, el umbral vibrotáctil en doscientos cincuenta hertz puede ser de apenas veinticinco decibeles.",
+    "En los agudos, el sonido que el vibrador irradia al aire puede crear una falsa brecha aéreo-ósea, sobre todo en cuatro mil hertz.",
+    "En la vía ósea sin enmascaramiento, si un oído queda tapado, el efecto de oclusión mejora artificialmente los umbrales en los graves.",
+    "Si la diadema está floja o el vibrador se desplaza, los umbrales salen peores de lo que realmente son.",
+    "Recuerden que también en la vía aérea puede sentirse la vibración a niveles muy altos en quinientos hertz y por debajo."
+   ]
+  },
+  {
+   "id": "golge",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Vía ósea y enmascaramiento",
+   "baslik": "Enmascaramiento olvidado: la *sombra*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: audición normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: sin enmascarar, curva sombra",
+     "cumle": 1
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Mastoides izquierda_: ósea sin enmascarar",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       55,
+       55,
+       50,
+       55,
+       60,
+       60
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15
+      ],
+      "cumle": 3,
+      "cizgi": false
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, el oído derecho es normal, y el oído izquierdo se evaluó sin enmascaramiento.",
+    "Los umbrales del oído izquierdo siguen la curva del derecho unos cuarenta a cincuenta decibeles más abajo.",
+    "Puede tratarse de una curva sombra, que se forma cuando el sonido presentado al oído izquierdo atraviesa el cráneo y lo oye la cóclea derecha.",
+    "La vía ósea sin enmascaramiento en la mastoides izquierda también parece normal, pero lo más probable es que la respuesta venga de la cóclea derecha.",
+    "Sin enmascaramiento, este cuadro puede interpretarse mal como una pérdida conductiva; en realidad, el oído izquierdo puede tener una pérdida mucho mayor.",
+    "A la inversa, presentar demasiado ruido al oído opuesto, lo que se llama sobreenmascaramiento, empeora artificialmente el umbral del oído evaluado."
+   ]
+  },
+  {
+   "id": "ortam",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ambiente, equipo, registros",
+   "baslik": "Errores de ambiente y *equipo*",
+   "cizim": "test_kabini",
+   "vurgula": [
+    {
+     "parca": "cift_duvar",
+     "cumle": 1
+    },
+    {
+     "parca": "kapi",
+     "cumle": 2
+    },
+    {
+     "parca": "pencere",
+     "cumle": 3
+    },
+    {
+     "parca": "odyometre",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "cift_duvar",
+     "metin": "doble pared",
+     "cumle": 1
+    },
+    {
+     "parca": "pencere",
+     "metin": "ventana",
+     "cumle": 3
+    },
+    {
+     "parca": "odyometre",
+     "metin": "audiómetro",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ruido: _graves y vía ósea_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "_Control de escucha_ diario",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "_Fecha_ de calibración",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Algunos errores no vienen del paciente, sino del ambiente y del equipo.",
+    "Si el ruido ambiental supera el nivel permitido, salen peores los umbrales en los graves y los de vía ósea con los oídos destapados.",
+    "Una puerta de la cabina mal cerrada, o una conversación en la sala de control, también pueden interferir con la prueba.",
+    "Si el paciente puede ver al evaluador por la ventana, hay riesgo de pistas visuales, por eso se ubica la silla en consecuencia.",
+    "Un breve control de escucha cada día antes del primer paciente detecta a tiempo problemas como un cable defectuoso o chasquidos.",
+    "En un equipo con la calibración periódica vencida, o calibrado para otro transductor, incluso el mejor método da resultados erróneos."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ambiente, equipo, registros",
+   "baslik": "Errores de *registro*",
+   "maddeler": [
+    {
+     "metin": "Anotar el oído o la _frecuencia_ equivocados",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Mezclar_ enmascarado y sin enmascarar",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Unir las marcas sin respuesta con _líneas_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "_Sin anotar_ transductor ni confiabilidad",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        60,
+        65,
+        75,
+        90,
+        110,
+        110
+       ],
+       "cumle": 0,
+       "yanitsiz": [
+        4,
+        5
+       ]
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Esperar después de obtener un umbral aumenta el riesgo de anotarlo en el oído o la frecuencia equivocados, por eso se marca de inmediato.",
+    "Si los umbrales con y sin enmascaramiento se registran con el mismo símbolo, quien lee no puede saber si se usó enmascaramiento.",
+    "Unir con líneas las marcas de sin respuesta con los umbrales medidos da la impresión de una curva que no existe.",
+    "No anotar el auricular usado, la confiabilidad de las respuestas o una sospecha de respuesta vibrotáctil dificulta la interpretación posterior.",
+    "Cuando se usa un programa informático, hay que verificar en pantalla la selección de oído derecho o izquierdo en cada medición."
+   ]
+  },
+  {
+   "id": "tutarlilik",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ambiente, equipo, registros",
+   "baslik": "*Verificar* el resultado",
+   "adimlar": [
+    {
+     "ikon": "grafik",
+     "baslik": "Repetir 1 kHz",
+     "cumle": 0,
+     "metin": "Dentro de 5 dB"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "URP y promedio",
+     "cumle": 1,
+     "metin": "Coinciden en unos 10 dB"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Ósea y aérea",
+     "cumle": 2,
+     "metin": "La ósea no puede ser claramente peor"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Otras pruebas",
+     "cumle": 3,
+     "metin": "Otoscopia y timpanometría coinciden"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Tomar notas",
+     "cumle": 4,
+     "metin": "Informar las inconsistencias"
+    }
+   ],
+   "cumleler": [
+    "Antes de terminar la prueba, podemos comprobar con unas pocas preguntas sencillas si el resultado es coherente en sí mismo.",
+    {
+     "yazi": "¿La repetición en un kilohertz está dentro de cinco decibeles? ¿El umbral de recepción de la palabra, o URP, coincide con el promedio de tonos puros?"
+    },
+    "Si la vía ósea sale más de diez decibeles peor que la vía aérea, revisen primero la colocación del vibrador y la calibración.",
+    "Los hallazgos de la otoscopia y la timpanometría deben coincidir con el tipo de pérdida del audiograma.",
+    "Una inconsistencia sin explicación obliga a repetir la prueba y a anotarla en el informe; la pérdida auditiva funcional la veremos en otra lección."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Ante una brecha aéreo-ósea inesperada, descarta primero las causas técnicas: colapso del conducto, colocación del auricular, el vibrador y la radiación acústica.",
+   "cumleler": [
+    "Un consejo de la clínica: cuando vean una brecha aéreo-ósea inesperada, no anoten de inmediato un problema de oído medio.",
+    "Primero descarten un colapso del conducto auditivo, la colocación del auricular y del vibrador, y la radiación acústica en los agudos.",
+    "Si el timpanograma es normal y la brecha está solo en los agudos, un error técnico se vuelve aún más probable.",
+    "Una brecha que persiste después de descartar las causas técnicas es un hallazgo real y se informa como tal."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Falsos positivos: _mejor_; falsos negativos: _peor_",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Colapso y colocación: brecha _falsa_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Enmascaramiento olvidado: _curva sombra_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Controles de coherencia y _registro completo_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Las respuestas falsas positivas hacen que el umbral parezca mejor de lo que es, y las falsas negativas, peor.",
+    "El colapso del conducto auditivo y los errores de colocación del auricular o del vibrador pueden crear una falsa brecha aéreo-ósea.",
+    "Olvidar el enmascaramiento produce una curva sombra, y el sobreenmascaramiento, umbrales artificialmente peores.",
+    "Repetir mil hertz, la concordancia con el URP y un registro completo muestran cuán confiable es el resultado."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿A qué error lleva sobre todo presentar los tonos con un ritmo regular?",
+   "secenekler": [
+    "Respuesta falsa positiva",
+    "Colapso del conducto auditivo",
+    "Radiación acústica",
+    "Sobreenmascaramiento"
+   ],
+   "dogru": 0,
+   "aciklama": "Con una presentación rítmica, el paciente _predice_ el tono siguiente y puede responder cuando no lo hay.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿a qué error lleva sobre todo presentar los tonos con un ritmo regular?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la A: una respuesta falsa positiva."
+    },
+    "El paciente aprende el ritmo y predice el tono siguiente, por eso los intervalos de silencio se mantienen irregulares."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Audiometría de *alta frecuencia* extendida (8 a 16 kHz)",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la audiometría de alta frecuencia extendida, que mide las frecuencias por encima de ocho mil hertz.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

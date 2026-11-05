@@ -1,0 +1,107 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R444_Symptom_Score_During_Exercise_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #444",
+  "baslik": "De cero *a diez*",
+  "alt": "Puntaje de síntomas durante el ejercicio",
+  "cizim": "denge_durus",
+  "vurgula": [
+   "salinim"
+  ],
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Es mala señal que el mareo aumente durante el ejercicio? #shorts",
+  "aciklama": "En la rehabilitación vestibular, una forma práctica de vigilar los síntomas durante el ejercicio es un puntaje de síntomas de cero a diez; en el ejemplo, el puntaje es dos antes del ejercicio, sube a cinco durante este y pronto vuelve al nivel basal al terminar, lo que indica una intensidad adecuada. Si el puntaje sube mucho y se mantiene alto durante largo tiempo, se reduce la intensidad; un síntoma nuevo, una caída o un deterioro del estado general se informan de inmediato al profesional.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "equilibrio",
+   "rehabilitacion"
+  ],
+  "etiketler": [
+   "rehabilitación vestibular",
+   "puntaje de síntomas",
+   "programa de ejercicios en casa",
+   "intensidad del ejercicio",
+   "mareo",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Es mala señal que el mareo aumente durante el ejercicio?",
+  "bilgiler": [
+   "Los síntomas se puntúan de cero a diez.",
+   "Un aumento que pronto vuelve al nivel basal indica una intensidad adecuada.",
+   "Si el puntaje se mantiene alto mucho tiempo, se reduce la intensidad."
+  ],
+  "hashtag": [
+   "audiologia",
+   "equilibrio",
+   "rehabilitacion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #444",
+   "metin": "¿Mala *señal?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Es mala señal que el mareo aumente durante el ejercicio?"
+   ]
+  },
+  {
+   "id": "puan",
+   "tur": "zincir",
+   "baslik": "Puntaje *de síntomas*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Antes",
+     "tr": "puntaje 2",
+     "cumle": 1
+    },
+    {
+     "ad": "Durante",
+     "tr": "puntaje 5",
+     "cumle": 1,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Después",
+     "tr": "vuelve al basal",
+     "cumle": 2
+    }
+   ],
+   "alt": "Intensidad _adecuada_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Para seguir los síntomas se usa un puntaje de cero a diez.",
+    "En el ejemplo, el puntaje es dos antes del ejercicio y cinco durante este.",
+    "Después del ejercicio, el puntaje pronto vuelve al nivel basal.",
+    "Este cuadro indica una intensidad adecuada.",
+    "Si el puntaje sube mucho y se mantiene alto, se reduce la intensidad."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D260",
+ "kaynak_baslik": "Plan de rehabilitación vestibular y seguimiento"
+}

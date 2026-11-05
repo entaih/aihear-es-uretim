@@ -1,0 +1,135 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R150_Symbols_Not_Colors_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #150",
+  "baslik": "Símbolos, no *colores*",
+  "alt": "El símbolo identifica el oído",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      20,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      20,
+      25,
+      30
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Son obligatorios el rojo y el azul en un audiograma? #shorts",
+  "aciklama": "Usar rojo para el oído derecho y azul para el izquierdo es un hábito común, pero la ASHA no exige el uso de color. El color se pierde en una fotocopia, por eso el propio símbolo siempre debe identificar el oído.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audiograma",
+   "audiometria"
+  ],
+  "etiketler": [
+   "símbolos del audiograma",
+   "ASHA",
+   "vía aérea",
+   "umbral enmascarado",
+   "cómo leer un audiograma",
+   "audiometría tonal",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Son obligatorios el rojo y el azul en un audiograma?",
+  "bilgiler": [
+   "Rojo para el oído derecho y azul para el izquierdo es un hábito común.",
+   "La ASHA no exige el uso de color.",
+   "Oído derecho: O y triángulo; oído izquierdo: X y cuadrado."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audiograma",
+   "audiometria"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #150",
+   "metin": "¿Es *obligatorio* el color en el audiograma?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Son obligatorios el rojo y el azul en un audiograma?"
+   ]
+  },
+  {
+   "id": "sembol",
+   "tur": "zincir",
+   "baslik": "El *símbolo* indica el oído",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Oído derecho",
+     "tr": "O y triángulo",
+     "cumle": 1
+    },
+    {
+     "ad": "Oído izquierdo",
+     "tr": "X y cuadrado",
+     "cumle": 2
+    },
+    {
+     "ad": "Color",
+     "tr": "no obligatorio",
+     "cumle": 3
+    }
+   ],
+   "alt": "El color ayuda; _el símbolo decide_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Es común usar rojo para el oído derecho y azul para el izquierdo.",
+    "En el oído derecho se usa la O, y el triángulo cuando hay enmascaramiento.",
+    "Para el oído izquierdo, son la equis y el cuadrado.",
+    "Pero la ASHA no exige el uso de color.",
+    "El color se pierde en una fotocopia; el símbolo debe indicar el oído."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D062",
+ "kaynak_baslik": "Símbolos del audiograma y normas de registro"
+}

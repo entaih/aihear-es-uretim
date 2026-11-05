@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R127_Formants_Separate_Vowels_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #127",
+  "baslik": "Los formantes *distinguen las vocales*",
+  "alt": "La pérdida en agudos puede confundir vocales anteriores",
+  "cizim": "konusma_muzu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Por qué alguien que oye las vocales puede confundirlas? #shorts",
+  "aciklama": "La mayor parte de la energía de las vocales está por debajo de 1000 Hz, por lo que incluso las personas con pérdida auditiva en frecuencias altas suelen oír bien las vocales. Pero para distinguirlas también se necesita el segundo formante, que en vocales anteriores como la i supera los 2000 Hz.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "habla",
+   "audicion"
+  ],
+  "etiketler": [
+   "formante",
+   "vocales",
+   "espectrograma",
+   "pérdida auditiva en frecuencias altas",
+   "acústica del habla",
+   "comprensión del habla",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Por qué alguien que oye las vocales puede confundirlas?",
+  "bilgiler": [
+   "La mayor parte de la energía de las vocales está por debajo de 1000 Hz.",
+   "Para distinguir las vocales también se necesita el segundo formante.",
+   "Con pérdida en frecuencias medias y altas, pueden confundirse vocales anteriores parecidas."
+  ],
+  "hashtag": [
+   "audiologia",
+   "habla",
+   "audicion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #127",
+   "metin": "¿Oye las vocales, pero *las confunde?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Por qué alguien que oye las vocales puede confundirlas?"
+   ]
+  },
+  {
+   "id": "formant",
+   "tur": "zincir",
+   "baslik": "El *formante* detrás de cada vocal",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Vocales",
+     "tr": "energía bajo 1000 Hz",
+     "cumle": 0
+    },
+    {
+     "ad": "2.º formante",
+     "tr": "más de 2000 Hz en la i",
+     "cumle": 3
+    },
+    {
+     "ad": "Vocales anteriores",
+     "tr": "pueden confundirse",
+     "cumle": 4
+    }
+   ],
+   "alt": "Para distinguir vocales se necesita el _segundo formante_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "La mayor parte de la energía de las vocales está por debajo de mil hertz.",
+    "Por eso, incluso con pérdida en frecuencias altas, las vocales suelen oírse bien.",
+    "Pero para distinguir las vocales también se necesita el segundo formante.",
+    "En vocales anteriores como la i, supera los dos mil hertz.",
+    "Con pérdida en frecuencias medias y altas, pueden confundirse vocales anteriores parecidas."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D042",
+ "kaynak_baslik": "Cómo leer un espectrograma: acústica del habla"
+}

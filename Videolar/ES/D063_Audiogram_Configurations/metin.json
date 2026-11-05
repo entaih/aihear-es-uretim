@@ -1,0 +1,791 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D063_Audiogram_Configurations_ES",
+ "kapak": {
+  "ust": "LECCIÓN 63",
+  "baslik": "Configuraciones<br>*audiométricas*",
+  "alt": "Plana, descendente, con muesca, en galleta mordida",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      25,
+      50,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      20,
+      35,
+      50,
+      50,
+      35,
+      25
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Configuraciones audiométricas y lo que sugieren | Lección 63 | AIHEAR Academia de Audiología",
+  "aciklama": "La configuración es la forma que trazan los umbrales a lo largo de las frecuencias en el audiograma. En esta lección vemos con audiogramas de ejemplo las configuraciones plana, ascendente, descendente y de caída abrupta, la muesca en 4 kHz y las formas en galleta mordida y en galleta mordida invertida, y comentamos cómo describirlas en un informe.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Lloyd and Kaplan, Audiometric Interpretation: A Manual of Basic Audiometry; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audiograma",
+   "audicion"
+  ],
+  "etiketler": [
+   "configuración audiométrica",
+   "audiograma plano",
+   "pérdida auditiva descendente",
+   "muesca en 4 kHz",
+   "muesca por ruido",
+   "audiograma en galleta mordida",
+   "galleta mordida invertida",
+   "interpretación del audiograma",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 63",
+   "baslik": "*Configuraciones* audiométricas y lo que sugieren",
+   "alt": "Plana, descendente, con muesca y en galleta mordida",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprenderemos a reconocer y nombrar correctamente la forma del audiograma, es decir, su configuración.",
+    "Veremos cada configuración en un audiograma de ejemplo y comentaremos cómo describirla en un informe."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la configuración?",
+   "baslik": "*Describir* un audiograma",
+   "yan": {
+    "tur": "kart",
+    "ust": "CONFIGURACIÓN",
+    "metin": "La *forma* que trazan los umbrales según la frecuencia",
+    "cumle": 1
+   },
+   "maddeler": [
+    {
+     "metin": "Grado: ¿_cuánta_ pérdida?",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tipo: ¿_dónde_ está la pérdida?",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Configuración: ¿_qué forma_?",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Simetría: ¿los oídos son _parecidos_?",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Al describir un audiograma, miramos cuatro características: el grado, el tipo y la configuración de la pérdida, y la simetría entre los oídos.",
+    "La configuración es la forma que trazan los umbrales a lo largo de las frecuencias, es decir, la forma de la curva del audiograma.",
+    "Como vimos en lecciones anteriores, el grado y el tipo nos dicen cuánta pérdida hay y de dónde proviene.",
+    "La configuración muestra en qué frecuencias se concentra la pérdida.",
+    "Dos pérdidas del mismo grado pueden causar dificultades muy distintas en la vida diaria si sus configuraciones son diferentes."
+   ]
+  },
+  {
+   "id": "onem",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la configuración?",
+   "baslik": "¿Por qué *importa* la forma?",
+   "maddeler": [
+    {
+     "metin": "Muestra el _impacto_ en la vida diaria",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Un promedio puede _ocultar_ la forma",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Pistas de causa, _guía_ para adaptar",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "La configuración nos ayuda a prever cómo afectará una pérdida a la vida diaria.",
+    "Por ejemplo, el mismo umbral promedio puede causar problemas de habla muy distintos en una pérdida plana y en una pérdida de pendiente pronunciada.",
+    "Como el promedio de tonos puros incluye solo unas pocas frecuencias, puede ocultar esta diferencia.",
+    "La configuración también da pistas sobre las posibles causas y orienta la adaptación de audífonos."
+   ]
+  },
+  {
+   "id": "siniflama",
+   "tur": "tablo",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la configuración?",
+   "baslik": "Clasificación por *pendiente*",
+   "sutunlar": [
+    "Configuración",
+    "Criterio aproximado"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Plana",
+      "Menos de 5 dB/octava"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Ascendente",
+      "Mejora hacia agudos"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Descendente gradual",
+      "5 a 12 dB/octava"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Descendente pronunciada",
+      "15 a 20 dB/octava"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Caída abrupta",
+      "25 o más dB/octava"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Las configuraciones se clasifican según cuánto cambian los umbrales por octava.",
+    "Si los umbrales cambian menos de cinco decibeles por octava, la configuración es plana.",
+    "Si los umbrales mejoran más de cinco decibeles por octava hacia las frecuencias agudas, hablamos de una configuración ascendente.",
+    "Si los umbrales empeoran unos cinco a doce decibeles por octava, se llama descendente gradual.",
+    "Si el empeoramiento es de unos quince a veinte decibeles por octava, se llama descendente pronunciada.",
+    "Si a partir de cierta frecuencia hay una caída de veinticinco decibeles o más por octava, se llama de caída abrupta.",
+    "Estos límites se basan en la clasificación de Lloyd y Kaplan, muy utilizada; las fuentes pueden variar ligeramente."
+   ]
+  },
+  {
+   "id": "duz",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Plana, descendente y ascendente",
+   "baslik": "Configuración *plana*",
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        45,
+        45,
+        50,
+        50,
+        50,
+        55
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "maddeler": [
+    {
+     "metin": "Umbrales _similares_ en todas las frecuencias",
+     "cumle": 0
+    },
+    {
+     "metin": "Frecuente en pérdidas conductivas",
+     "cumle": 2
+    },
+    {
+     "metin": "También en pérdidas neurosensoriales",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En una configuración plana, los umbrales están cerca unos de otros en todas las frecuencias.",
+    "En este ejemplo, los umbrales del oído derecho están entre cuarenta y cinco y cincuenta y cinco dB HL y forman una línea casi horizontal.",
+    "La configuración plana es frecuente en pérdidas conductivas como la otitis media con efusión.",
+    "Una curva plana también puede verse en algunas pérdidas neurosensoriales.",
+    "En una pérdida plana, todas las frecuencias del habla se atenúan en un grado similar.",
+    "Por eso, sobre todo en las pérdidas conductivas planas, aumentar el volumen del sonido suele dar un beneficio claro."
+   ]
+  },
+  {
+   "id": "egimli",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Plana, descendente y ascendente",
+   "baslik": "Configuración *descendente*",
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        35,
+        45,
+        55,
+        65
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "maddeler": [
+    {
+     "metin": "Empeora _progresivamente_ hacia los agudos",
+     "cumle": 0
+    },
+    {
+     "metin": "De las _más frecuentes_ en adultos",
+     "cumle": 2
+    },
+    {
+     "metin": "Típica de la presbiacusia",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En una configuración descendente, o en caída, los umbrales empeoran progresivamente a medida que sube la frecuencia.",
+    "En este ejemplo, el umbral es de veinte dB HL en doscientos cincuenta hertz y baja a sesenta y cinco dB HL en ocho mil hertz.",
+    "Es una de las configuraciones más frecuentes en adultos.",
+    "La pérdida auditiva relacionada con la edad suele aparecer como una curva simétrica en ambos oídos, que cae hacia las frecuencias agudas.",
+    "Estas personas oyen las vocales pero pierden las consonantes agudas; lo vimos en detalle con la banana del habla.",
+    "Dónde empieza la pendiente y cuán pronunciada es también influyen en cuánta ganancia se da en cada frecuencia al adaptar audífonos."
+   ]
+  },
+  {
+   "id": "keskin",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Plana, descendente y ascendente",
+   "baslik": "Configuración de *caída abrupta*",
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       50,
+       80,
+       90
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "En este ejemplo, los umbrales están dentro de los límites normales hasta mil hertz.",
+    "Sin embargo, entre mil y dos mil hertz, el umbral cae de golpe treinta y cinco decibeles.",
+    "Esta caída brusca a partir de cierta frecuencia se llama configuración de caída abrupta.",
+    "En estas pérdidas, la región de la caída puede contener áreas donde la cóclea apenas funciona; se llaman zonas muertas cocleares.",
+    "Evaluar las frecuencias interoctava donde se produce la caída, por ejemplo mil quinientos hertz, aclara la forma de la curva.",
+    "Como sus frecuencias graves están bien, estas personas a veces notan su pérdida tarde."
+   ]
+  },
+  {
+   "id": "yukselen",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Plana, descendente y ascendente",
+   "baslik": "Configuración *ascendente*",
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        50,
+        45,
+        35,
+        25,
+        20,
+        20
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "maddeler": [
+    {
+     "metin": "_Peor_ en las frecuencias graves",
+     "cumle": 0
+    },
+    {
+     "metin": "_Rara_ frente a las descendentes",
+     "cumle": 1
+    },
+    {
+     "metin": "Ejemplo: Ménière en etapa inicial",
+     "cumle": 2
+    },
+    {
+     "metin": "Ejemplo: problemas conductivos por rigidez",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En una configuración ascendente, la pérdida es mayor en las frecuencias graves, y los umbrales mejoran hacia las agudas.",
+    "Esta forma es mucho más rara que una configuración descendente.",
+    "Por ejemplo, en la etapa inicial de la enfermedad de Ménière puede verse una pérdida neurosensorial en las frecuencias graves.",
+    "Algunos problemas conductivos que aumentan la rigidez del oído medio también pueden afectar más a las frecuencias graves.",
+    "Ninguno de estos ejemplos establece un diagnóstico por sí solo; la configuración es solo una pista."
+   ]
+  },
+  {
+   "id": "centik",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "La muesca",
+   "baslik": "La muesca en *4 kHz*",
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       25,
+       50,
+       25
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       30,
+       55,
+       30
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: vía aérea",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "Una muesca es una caída del umbral en una región de frecuencias determinada, seguida de una recuperación.",
+    "En este ejemplo, ambos oídos muestran una caída clara en cuatro mil hertz.",
+    "En ocho mil hertz los umbrales vuelven a mejorar; esto se llama recuperación.",
+    "Una muesca así entre tres mil y seis mil hertz es típica de la hipoacusia inducida por ruido.",
+    "La ubicación exacta de la muesca varía entre personas; puede aparecer en tres mil, cuatro mil o seis mil hertz.",
+    "En este ejemplo, el hallazgo es una pista que exige una historia detallada de exposición al ruido; no se diagnostica solo con el audiograma.",
+    "Otra muesca, la de Carhart, que se ve en la vía ósea alrededor de dos mil hertz, se asocia a la otosclerosis; la veremos aparte."
+   ]
+  },
+  {
+   "id": "kurabiye",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "La galleta mordida",
+   "baslik": "La *galleta mordida*",
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        35,
+        50,
+        50,
+        35,
+        25
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "maddeler": [
+    {
+     "metin": "_Peor_ en las frecuencias medias",
+     "cumle": 0
+    },
+    {
+     "metin": "Forma de _U_ en el audiograma",
+     "cumle": 1
+    },
+    {
+     "metin": "A menudo ligada a pérdidas hereditarias",
+     "cumle": 3
+    },
+    {
+     "metin": "Dificultad para entender el habla",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En una configuración en galleta mordida, la pérdida se concentra en las frecuencias medias, y las graves y agudas están mejor.",
+    "En el audiograma forma una U, como si se hubiera dado un mordisco al centro de la curva.",
+    "En este ejemplo, los umbrales son de cincuenta dB HL en mil y dos mil hertz, y de unos veinte a veinticinco dB HL en los extremos.",
+    "Esta configuración suele asociarse a pérdidas neurosensoriales hereditarias.",
+    "Como las frecuencias medias son importantes para el habla, la persona puede tener dificultad para entenderla aunque las frecuencias extremas estén bien."
+   ]
+  },
+  {
+   "id": "ters",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "La galleta mordida",
+   "baslik": "La galleta mordida *invertida*",
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        45,
+        35,
+        20,
+        20,
+        35,
+        50
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "maddeler": [
+    {
+     "metin": "Peor en los extremos, _mejor_ al centro",
+     "cumle": 0
+    },
+    {
+     "metin": "Una _U invertida_ en el audiograma",
+     "cumle": 1
+    },
+    {
+     "metin": "_Rara_ en la práctica general",
+     "cumle": 2
+    },
+    {
+     "metin": "Descrita en Ménière, _no específica_",
+     "cumle": 3
+    },
+    {
+     "metin": "_Repetir_ la medición",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La galleta mordida invertida es lo contrario: las frecuencias graves y agudas están peor, y las medias, mejor.",
+    "En el audiograma forma una U invertida.",
+    "Es una configuración rara en la práctica clínica general.",
+    "Lloyd y Kaplan la llaman audiograma en pico; se describe a menudo en la enfermedad de Ménière, pero no es específica de ella.",
+    "Ante formas inesperadas como esta, también es importante repetir la evaluación para descartar un error de medición."
+   ]
+  },
+  {
+   "id": "simetri",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "El informe",
+   "baslik": "*Simetría*",
+   "maddeler": [
+    {
+     "metin": "_Comparar_ ambos oídos",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Diferencia pequeña: _simétrica_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Los criterios de asimetría _varían_",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Asimetría sin explicación: _anotarla_",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Después de describir la configuración, comparamos los dos oídos.",
+    "Si la diferencia de umbrales entre los oídos es pequeña, la pérdida se considera simétrica.",
+    "Las fuentes usan distintos criterios de asimetría, por ejemplo una diferencia de quince decibeles o más en dos o más frecuencias.",
+    "Una asimetría clara y sin explicación se anota como un hallazgo que puede requerir más evaluación.",
+    "Juntas, la configuración y la simetría completan el cuadro de la pérdida."
+   ]
+  },
+  {
+   "id": "ozet_tablo",
+   "tur": "tablo",
+   "bolum_no": "PARTE 5",
+   "bolum": "El informe",
+   "baslik": "Las configuraciones *de un vistazo*",
+   "sutunlar": [
+    "Configuración",
+    "Forma",
+    "Posible relación"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Plana",
+      "Línea horizontal",
+      "Pérdidas conductivas"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Descendente",
+      "Cae hacia agudos",
+      "Presbiacusia"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Ascendente",
+      "Mejora hacia agudos",
+      "Ménière inicial"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Con muesca",
+      "Caída en 4 kHz",
+      "Exposición al ruido"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Galleta mordida",
+      "Caída en el centro",
+      "Pérdidas hereditarias"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Galleta mordida invertida",
+      "Caída en los extremos",
+      "Ménière (no específica)"
+     ],
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "Veamos ahora todas las configuraciones juntas.",
+    "Las relaciones de la tabla son solo ejemplos posibles; una misma configuración puede tener causas distintas.",
+    "La configuración cobra sentido junto con la historia clínica, el tipo de pérdida y las demás pruebas.",
+    "Escribir juntos en el informe el grado, el tipo, la configuración y la simetría deja la información clara para todos los que lo lean.",
+    "Por ejemplo: hipoacusia neurosensorial bilateral simétrica, de leve a moderada, de configuración descendente."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 5",
+   "bolum": "El informe",
+   "baslik": "Consejo clínico",
+   "metin": "Si dos octavas vecinas difieren en 20 dB o más, evalúa también las frecuencias interoctava; si se omite 6000 Hz, puede pasarse por alto una muesca por ruido.",
+   "cumleler": [
+    "Un consejo de la práctica: las frecuencias de octava por sí solas pueden no bastar para ver bien la configuración.",
+    "Si dos octavas vecinas difieren en veinte decibeles o más, evalúen también las frecuencias interoctava.",
+    "Si se omite en particular seis mil hertz, puede pasarse por alto una muesca inducida por ruido.",
+    "Tres mil hertz aclara dónde empieza una caída pronunciada y cubre una región importante para el habla."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Configuración: la _forma_ de los umbrales",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Plana, ascendente, descendente, _abrupta_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Muesca en 4 kHz, _recuperación_ en 8 kHz",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Galleta mordida: pérdida en frecuencias _medias_",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "La configuración es la forma que trazan los umbrales según la frecuencia, y se describe junto con el grado, el tipo y la simetría.",
+    "Según la pendiente, distinguimos configuraciones plana, ascendente, descendente y de caída abrupta.",
+    "Una muesca en cuatro mil hertz con recuperación en ocho mil hertz obliga a preguntar por la exposición al ruido.",
+    "En la galleta mordida, la pérdida está en las frecuencias medias; en la galleta mordida invertida, en las frecuencias extremas."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Cómo se llama la forma que cae en 4 kHz y se recupera en 8 kHz?",
+   "secenekler": [
+    "Configuración plana",
+    "Muesca",
+    "Galleta mordida",
+    "Configuración ascendente"
+   ],
+   "dogru": 1,
+   "aciklama": "Una forma que cae en una región y luego se recupera es una _muesca_; obliga a preguntar por la exposición al ruido.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cómo se llama la forma en que los umbrales caen en cuatro mil hertz y se recuperan en ocho mil hertz?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: una muesca.",
+    "Esta forma es típica de la hipoacusia inducida por ruido, pero el diagnóstico se hace junto con la historia clínica y otros hallazgos."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Errores* frecuentes en la audiometría tonal",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos los errores frecuentes en la audiometría tonal y cómo podemos evitarlos.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

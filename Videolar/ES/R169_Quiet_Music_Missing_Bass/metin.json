@@ -1,0 +1,108 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R169_Quiet_Music_Missing_Bass_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #169",
+  "baslik": "Música baja, graves *ausentes*",
+  "alt": "Curvas de igual sonoridad",
+  "cizim": "ses_dalgasi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Por qué desaparecen los graves al bajar el volumen de la música? #shorts",
+  "aciklama": "Las curvas de igual sonoridad muestran que, a niveles bajos, el oído es mucho menos sensible a los sonidos graves: para 40 fones se necesitan unos 64 dB SPL a 100 Hz, pero solo 40 dB SPL a 1000 Hz. Al subir el nivel, las curvas se aplanan, por eso los graves parecen desaparecer cuando la música suena baja y vuelven al subir el volumen.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "acustica",
+   "musica"
+  ],
+  "etiketler": [
+   "curvas de igual sonoridad",
+   "fon",
+   "sonoridad",
+   "graves",
+   "ISO 226",
+   "psicoacústica",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Por qué desaparecen los graves cuando bajas el volumen de la música?",
+  "bilgiler": [
+   "A niveles bajos, el oído es mucho menos sensible a los sonidos graves.",
+   "Para 40 fones, a 100 Hz se necesitan unos 64 dB SPL.",
+   "Al subir el nivel, las curvas se aplanan y los graves vuelven."
+  ],
+  "hashtag": [
+   "audiologia",
+   "acustica",
+   "musica"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #169",
+   "metin": "¿Por qué la música baja pierde los *graves?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Por qué desaparecen los graves al bajar el volumen de la música?"
+   ]
+  },
+  {
+   "id": "egri",
+   "tur": "zincir",
+   "baslik": "*Igual* sonoridad",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "100 Hz",
+     "tr": "unos 64 dB SPL",
+     "cumle": 1
+    },
+    {
+     "ad": "1000 Hz",
+     "tr": "40 dB SPL",
+     "cumle": 2
+    },
+    {
+     "ad": "Niveles altos",
+     "tr": "curvas más planas",
+     "cumle": 3
+    }
+   ],
+   "alt": "Los graves vuelven _al subir el volumen_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "A niveles bajos, el oído es mucho menos sensible a los sonidos graves.",
+    {
+     "yazi": "Para 40 fones, a 100 Hz se necesitan unos 64 dB SPL."
+    },
+    {
+     "yazi": "A 1000 Hz bastan 40 dB SPL."
+    },
+    "Al subir el nivel, las curvas se aplanan y los graves ganan sonoridad más rápido.",
+    "Por eso la música a bajo volumen pierde los graves, que vuelven al subirlo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D080",
+ "kaynak_baslik": "Percepción de la sonoridad: fones y sonios"
+}

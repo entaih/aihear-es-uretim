@@ -1,0 +1,1322 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D106_Tympanometric_Values_ES",
+ "kapak": {
+  "ust": "LECCIÓN 106",
+  "baslik": "Valores<br>*timpanométricos*",
+  "alt": "Admitancia del pico, presión, ancho, volumen",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -400,
+    "max": 200,
+    "adim": 100,
+    "ad": "Presión (daPa)"
+   },
+   "y": {
+    "min": 0.8,
+    "max": 1.8,
+    "adim": 0.2,
+    "ond": 1,
+    "ad": "Admitancia (mmho)"
+   },
+   "seriler": [
+    {
+     "ad": "egri",
+     "noktalar": [
+      [
+       -400,
+       0.9
+      ],
+      [
+       -380,
+       0.903
+      ],
+      [
+       -360,
+       0.907
+      ],
+      [
+       -340,
+       0.91
+      ],
+      [
+       -320,
+       0.913
+      ],
+      [
+       -300,
+       0.917
+      ],
+      [
+       -280,
+       0.92
+      ],
+      [
+       -260,
+       0.923
+      ],
+      [
+       -240,
+       0.927
+      ],
+      [
+       -220,
+       0.93
+      ],
+      [
+       -200,
+       0.933
+      ],
+      [
+       -180,
+       0.937
+      ],
+      [
+       -160,
+       0.94
+      ],
+      [
+       -140,
+       0.945
+      ],
+      [
+       -120,
+       0.956
+      ],
+      [
+       -100,
+       0.996
+      ],
+      [
+       -80,
+       1.108
+      ],
+      [
+       -60,
+       1.325
+      ],
+      [
+       -40,
+       1.58
+      ],
+      [
+       -20,
+       1.7
+      ],
+      [
+       0,
+       1.586
+      ],
+      [
+       20,
+       1.339
+      ],
+      [
+       40,
+       1.128
+      ],
+      [
+       60,
+       1.023
+      ],
+      [
+       80,
+       0.99
+      ],
+      [
+       100,
+       0.985
+      ],
+      [
+       120,
+       0.987
+      ],
+      [
+       140,
+       0.99
+      ],
+      [
+       160,
+       0.993
+      ],
+      [
+       180,
+       0.997
+      ],
+      [
+       200,
+       1.0
+      ]
+     ],
+     "renk": "mavi",
+     "yumusak": true
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Valores timpanométricos: pico, presión, ancho, volumen | Lección 106 | AIHEAR Academia de Audiología",
+  "aciklama": "Los números de un timpanograma importan tanto como su tipo. En esta lección vemos con ejemplos cómo se miden la admitancia estática compensada en el pico (Ytm), la presión del pico timpanométrico (TPP), el ancho timpanométrico (TW) y el volumen del conducto auditivo (ECV), sus rangos normales aproximados en adultos y las condiciones de la prueba que influyen en los resultados.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Margolis and Heller (1987), Screening tympanometry: criteria for medical referral, Audiology; ASHA (1997), Guidelines for Audiologic Screening; Katz, Handbook of Clinical Audiology; Hunter and Shahnaz, Acoustic Immittance Measures: Basic and Advanced Practice; BSA, Recommended Procedure: Tympanometry.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "timpanometria",
+   "inmitancia"
+  ],
+  "etiketler": [
+   "valores timpanométricos",
+   "admitancia estática compensada",
+   "Ytm",
+   "presión del pico timpanométrico",
+   "TPP",
+   "ancho timpanométrico",
+   "TW",
+   "volumen del conducto auditivo",
+   "ECV",
+   "valores normales timpanometría",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 106",
+   "baslik": "Valores *timpanométricos*: pico, presión, ancho, volumen",
+   "alt": "Admitancia del pico, presión, ancho y volumen",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos los cuatro valores numéricos que se leen en un timpanograma y sus rangos normales aproximados en adultos.",
+    "Veremos cómo influyen las condiciones de la prueba en estos valores y cómo interpretar algunos resultados de ejemplo."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Cuatro valores",
+   "baslik": "Una curva, *cuatro valores*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Presión (daPa)"
+    },
+    "y": {
+     "min": 0.8,
+     "max": 1.8,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Admitancia (mmho)"
+    },
+    "seriler": [
+     {
+      "ad": "egri",
+      "noktalar": [
+       [
+        -400,
+        0.9
+       ],
+       [
+        -380,
+        0.903
+       ],
+       [
+        -360,
+        0.907
+       ],
+       [
+        -340,
+        0.91
+       ],
+       [
+        -320,
+        0.913
+       ],
+       [
+        -300,
+        0.917
+       ],
+       [
+        -280,
+        0.92
+       ],
+       [
+        -260,
+        0.923
+       ],
+       [
+        -240,
+        0.927
+       ],
+       [
+        -220,
+        0.93
+       ],
+       [
+        -200,
+        0.933
+       ],
+       [
+        -180,
+        0.937
+       ],
+       [
+        -160,
+        0.94
+       ],
+       [
+        -140,
+        0.945
+       ],
+       [
+        -120,
+        0.956
+       ],
+       [
+        -100,
+        0.996
+       ],
+       [
+        -80,
+        1.108
+       ],
+       [
+        -60,
+        1.325
+       ],
+       [
+        -40,
+        1.58
+       ],
+       [
+        -20,
+        1.7
+       ],
+       [
+        0,
+        1.586
+       ],
+       [
+        20,
+        1.339
+       ],
+       [
+        40,
+        1.128
+       ],
+       [
+        60,
+        1.023
+       ],
+       [
+        80,
+        0.99
+       ],
+       [
+        100,
+        0.985
+       ],
+       [
+        120,
+        0.987
+       ],
+       [
+        140,
+        0.99
+       ],
+       [
+        160,
+        0.993
+       ],
+       [
+        180,
+        0.997
+       ],
+       [
+        200,
+        1.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 5,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "ecv",
+      "x": 200,
+      "y": 1.0,
+      "dus": "x",
+      "dolu": true,
+      "renk": "lacivert",
+      "etiket": "ECV",
+      "dy": -26,
+      "cumle": 1
+     },
+     {
+      "ad": "tpp",
+      "x": -20,
+      "y": 1.7,
+      "dus": "x",
+      "dolu": true,
+      "renk": "kirmizi",
+      "etiket": "TPP",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "ytm",
+      "y": [
+       1.0,
+       1.7
+      ],
+      "xk": -20,
+      "etiket": "Ytm",
+      "cumle": 2
+     },
+     {
+      "ad": "tw",
+      "x": [
+       -62,
+       18
+      ],
+      "y": 1.35,
+      "etiket": "TW",
+      "etiket_alt": true,
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "ECV: el valor a más 200 daPa",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Ytm: la altura del pico",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "TPP y TW: posición y ancho del pico",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "En la pantalla vemos un timpanograma tipo A de ejemplo, sin restar el aporte del conducto auditivo.",
+    "El valor a más doscientos decapascales corresponde al aire del conducto; a partir de él se calcula el volumen del conducto auditivo externo (ECV).",
+    "La altura del pico sobre esta línea de base es la admitancia estática compensada en el pico, propia del oído medio.",
+    "La presión a la que aparece el pico es la presión del pico timpanométrico.",
+    "El ancho, en presión, a la mitad de la altura del pico es el ancho timpanométrico.",
+    "Estos cuatro valores suman números al tipo de Jerger y facilitan interpretar las curvas limítrofes."
+   ]
+  },
+  {
+   "id": "ytm",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Cuatro valores",
+   "baslik": "Admitancia estática del *pico*",
+   "maddeler": [
+    {
+     "metin": "_Ytm_: pico menos la base a +200",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Adultos: unos _0,3 a 1,7 mmho_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Baja: _rigidez_ o líquido",
+     "cumle": 4,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Alta: _membrana flácida_ o disrupción osicular",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "Ytm",
+    "metin": "*Con qué facilidad* el oído medio transmite el sonido",
+    "cumle": 1
+   },
+   "cumleler": [
+    {
+     "yazi": "La admitancia estática compensada en el pico (Ytm) se obtiene restando al valor del pico la línea de base del conducto auditivo."
+    },
+    {
+     "yazi": "Así, la Ytm es la admitancia del sistema del oído medio por sí solo, una vez eliminado el aporte del conducto auditivo."
+    },
+    "La mayoría de los equipos hacen esta resta por sí mismos y muestran la curva compensada.",
+    {
+     "yazi": "En adultos, la Ytm se considera de unos cero coma tres a uno coma siete milimhos; en los niños el rango normal es más bajo."
+    },
+    {
+     "yazi": "Una Ytm baja puede sugerir que el sistema del oído medio está más rígido, o que hay líquido que reduce su movimiento."
+    },
+    {
+     "yazi": "Una Ytm alta puede sugerir una membrana timpánica flácida o delgada, o una disrupción de la cadena osicular."
+    },
+    {
+     "yazi": "El rango normal es amplio y se superpone con los valores de oídos patológicos, por eso la Ytm no se interpreta de forma aislada."
+    }
+   ]
+  },
+  {
+   "id": "tpp",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Cuatro valores",
+   "baslik": "Presión del *pico* timpanométrico",
+   "maddeler": [
+    {
+     "metin": "_TPP_: presión en el pico",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Una _estimación_ de la presión del oído medio",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Adultos: unos _menos 100 a más 50_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Claramente negativa: revisar la _trompa de Eustaquio_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EFECTOS",
+    "cumle": 5,
+    "ogeler": [
+     {
+      "ikon": "grafik",
+      "baslik": "Dirección del barrido",
+      "metin": "El pico se desplaza hacia allí",
+      "cumle": 5
+     },
+     {
+      "ikon": "kronometre",
+      "baslik": "Velocidad de la bomba",
+      "metin": "Cambia el valor",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "La presión del pico timpanométrico (TPP) es la presión del conducto auditivo a la que la curva alcanza su pico.",
+    "La admitancia es máxima cuando la presión del conducto iguala a la del oído medio, por eso la TPP es una estimación de la presión del oído medio.",
+    "En adultos, la TPP suele estar entre menos cien y más cincuenta decapascales; algunas fuentes aceptan como normal hasta menos ciento cincuenta.",
+    "Una TPP claramente negativa sugiere que la trompa de Eustaquio no ventila lo suficiente el oído medio.",
+    "Una presión claramente positiva es menos frecuente; puede verse con el llanto, al sonarse la nariz o en la fase inicial de una otitis media aguda.",
+    "La TPP depende de las condiciones de la prueba: el pico se desplaza levemente en la dirección del barrido de presión.",
+    "La velocidad de la bomba también puede cambiar la presión y la altura del pico, por eso la clínica usa siempre el mismo protocolo."
+   ]
+  },
+  {
+   "id": "tw",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ancho y volumen",
+   "baslik": "Ancho *timpanométrico*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Presión (daPa)"
+    },
+    "y": {
+     "min": 0,
+     "max": 0.8,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Admitancia (mmho)"
+    },
+    "seriler": [
+     {
+      "ad": "dar",
+      "noktalar": [
+       [
+        -400,
+        0.0
+       ],
+       [
+        -380,
+        0.0
+       ],
+       [
+        -360,
+        0.0
+       ],
+       [
+        -340,
+        0.0
+       ],
+       [
+        -320,
+        0.0
+       ],
+       [
+        -300,
+        0.0
+       ],
+       [
+        -280,
+        0.0
+       ],
+       [
+        -260,
+        0.0
+       ],
+       [
+        -240,
+        0.0
+       ],
+       [
+        -220,
+        0.0
+       ],
+       [
+        -200,
+        0.0
+       ],
+       [
+        -180,
+        0.0
+       ],
+       [
+        -160,
+        0.0
+       ],
+       [
+        -140,
+        0.001
+       ],
+       [
+        -120,
+        0.009
+       ],
+       [
+        -100,
+        0.044
+       ],
+       [
+        -80,
+        0.147
+       ],
+       [
+        -60,
+        0.35
+       ],
+       [
+        -40,
+        0.589
+       ],
+       [
+        -20,
+        0.7
+       ],
+       [
+        0,
+        0.589
+       ],
+       [
+        20,
+        0.35
+       ],
+       [
+        40,
+        0.147
+       ],
+       [
+        60,
+        0.044
+       ],
+       [
+        80,
+        0.009
+       ],
+       [
+        100,
+        0.001
+       ],
+       [
+        120,
+        0.0
+       ],
+       [
+        140,
+        0.0
+       ],
+       [
+        160,
+        0.0
+       ],
+       [
+        180,
+        0.0
+       ],
+       [
+        200,
+        0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "estrecho, agudo",
+      "etiket_konum": [
+       10,
+       0.68
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "genis",
+      "noktalar": [
+       [
+        -400,
+        0.001
+       ],
+       [
+        -380,
+        0.002
+       ],
+       [
+        -360,
+        0.004
+       ],
+       [
+        -340,
+        0.007
+       ],
+       [
+        -320,
+        0.012
+       ],
+       [
+        -300,
+        0.02
+       ],
+       [
+        -280,
+        0.031
+       ],
+       [
+        -260,
+        0.047
+       ],
+       [
+        -240,
+        0.067
+       ],
+       [
+        -220,
+        0.093
+       ],
+       [
+        -200,
+        0.125
+       ],
+       [
+        -180,
+        0.16
+       ],
+       [
+        -160,
+        0.198
+       ],
+       [
+        -140,
+        0.235
+       ],
+       [
+        -120,
+        0.269
+       ],
+       [
+        -100,
+        0.296
+       ],
+       [
+        -80,
+        0.314
+       ],
+       [
+        -60,
+        0.32
+       ],
+       [
+        -40,
+        0.314
+       ],
+       [
+        -20,
+        0.296
+       ],
+       [
+        0,
+        0.269
+       ],
+       [
+        20,
+        0.235
+       ],
+       [
+        40,
+        0.198
+       ],
+       [
+        60,
+        0.16
+       ],
+       [
+        80,
+        0.125
+       ],
+       [
+        100,
+        0.093
+       ],
+       [
+        120,
+        0.067
+       ],
+       [
+        140,
+        0.047
+       ],
+       [
+        160,
+        0.031
+       ],
+       [
+        180,
+        0.02
+       ],
+       [
+        200,
+        0.012
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "ancho, redondeado",
+      "etiket_konum": [
+       -330,
+       0.12
+      ],
+      "cumle": 4
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "tw_dar",
+      "x": [
+       -60,
+       20
+      ],
+      "y": 0.35,
+      "etiket": "unos 80 daPa",
+      "cumle": 2
+     },
+     {
+      "ad": "tw_genis",
+      "x": [
+       -180,
+       60
+      ],
+      "y": 0.16,
+      "etiket": "unos 240 daPa",
+      "etiket_alt": true,
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Rango de presión a media altura",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Adultos: unos 50 a 110 daPa",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "TW ancho: posible efusión",
+     "cumle": 6,
+     "ikon": "akinti"
+    }
+   ],
+   "cumleler": [
+    "El ancho timpanométrico (TW) es el rango de presión medido a la mitad de la altura del pico de la curva.",
+    "La curva azul muestra un pico estrecho y agudo.",
+    "A media altura, la distancia entre sus dos lados es de unos ochenta decapascales.",
+    "En adultos, el TW suele ser de unos cincuenta a ciento diez decapascales; en los niños es algo más ancho.",
+    "La curva roja es baja y redondeada; su pico no es nítido.",
+    "El ancho de esta curva es de unos doscientos cuarenta decapascales.",
+    "Un TW ancho hace más probable una efusión, sobre todo en niños; las guías de tamizaje señalan anchos mayores de unos doscientos cincuenta decapascales.",
+    "El TW es valioso porque puede mostrar en números una curva redondeada aunque la altura del pico esté dentro de lo normal."
+   ]
+  },
+  {
+   "id": "ecv",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ancho y volumen",
+   "baslik": "Volumen del *conducto auditivo*",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   },
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Aire entre la sonda y el tímpano",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Tensa a más 200 daPa",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Se suma si hay perforación",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Adultos: unos 0,6 a 1,5 ml",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Muy grande: perforación o tubo permeable",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Muy pequeño: oliva obstruida o cerumen",
+     "cumle": 5,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "El volumen del conducto auditivo (ECV) es el volumen de aire entre la oliva de la sonda y la membrana timpánica.",
+    "A más doscientos decapascales la membrana timpánica está tensa, así que el valor medido a esa presión corresponde sobre todo al conducto auditivo.",
+    "En adultos, el ECV es de unos cero coma seis a uno coma cinco mililitros; en los niños es menor porque el conducto auditivo es más pequeño.",
+    "El ECV es más útil para interpretar las curvas tipo B, que no tienen pico.",
+    "Si el volumen es mucho mayor de lo esperado para la edad, el tono de sonda llega también al oído medio; se piensa en perforación o tubo permeable.",
+    "Si el volumen es muy pequeño, la oliva puede estar contra la pared del conducto auditivo u obstruida.",
+    "La profundidad de inserción de la oliva también influye en el valor, por eso las diferencias pequeñas se interpretan con cuidado."
+   ]
+  },
+  {
+   "id": "normlar",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Normas",
+   "baslik": "Normas *aproximadas* en adultos",
+   "sutunlar": [
+    "Valor",
+    "Rango aproximado",
+    "Unidad"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Ytm",
+      "0,3 a 1,7",
+      "mmho"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "TPP",
+      "Menos 100, más 50",
+      "daPa"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "TW",
+      "50 a 110",
+      "daPa"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "ECV",
+      "0,6 a 1,5",
+      "ml"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Pongamos en una tabla los rangos normales aproximados de la timpanometría de doscientos veintiséis hertz en adultos.",
+    "La admitancia estática del pico es de unos cero coma tres a uno coma siete milimhos.",
+    "La presión del pico es de unos menos cien a más cincuenta decapascales.",
+    "El ancho timpanométrico es de unos cincuenta a ciento diez decapascales.",
+    "El volumen del conducto auditivo es de unos cero coma seis a uno coma cinco mililitros.",
+    "Estos rangos son aproximados; hay pequeñas diferencias entre los estudios publicados y entre los equipos.",
+    "En los niños se usan normas propias según la edad; los bebés menores de seis meses requieren la prueba de mil hertz y sus propias normas."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Normas",
+   "baslik": "Condiciones que *cambian* los valores",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Línea de base",
+     "metin": "Más 200 o menos 400",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Velocidad de la bomba",
+     "metin": "Un barrido rápido cambia el pico",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Dirección del barrido",
+     "metin": "El pico se desplaza hacia allí",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Repetición",
+     "metin": "Los valores pueden variar entre mediciones",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Para calcular la Ytm, se suele usar como línea de base el valor a más doscientos decapascales."
+    },
+    {
+     "yazi": "Si la línea de base se toma a menos cuatrocientos, la Ytm resulta algo mayor, porque el extremo negativo de la curva suele ser más bajo."
+    },
+    "Al aumentar la velocidad de la bomba, la altura y la presión del pico pueden cambiar; las normas se obtuvieron con una velocidad determinada.",
+    "La dirección del barrido también influye en la presión del pico; con un barrido de positivo a negativo, el pico parece algo más negativo.",
+    "En mediciones repetidas, la tensión y la relajación de la membrana timpánica pueden cambiar levemente los valores.",
+    "Por eso, elige normas de una fuente que coincida con el protocolo del equipo que usas."
+   ]
+  },
+  {
+   "id": "ornekler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación",
+   "baslik": "*Resultados* de ejemplo",
+   "sutunlar": [
+    "Ejemplo",
+    "Ytm (mmho)",
+    "TW (daPa)",
+    "ECV (ml)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1",
+      "0,8",
+      "75",
+      "1,1"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "2",
+      "0,25",
+      "230",
+      "1,0"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "3",
+      "2,4",
+      "60",
+      "1,2"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "4",
+      "Sin pico",
+      "-",
+      "3,2"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Veamos cuatro ejemplos en adultos; en el ejemplo 1, todos los valores son normales y la presión del pico es de menos diez decapascales."
+    },
+    {
+     "yazi": "En el ejemplo 2, la Ytm es baja, el TW es ancho y la presión del pico es de menos ciento veinte; la curva es baja y redondeada."
+    },
+    "Este cuadro puede ser compatible con líquido en el oído medio; se valora junto con la otoscopia.",
+    {
+     "yazi": "En el ejemplo 3, la Ytm es de dos coma cuatro milimhos, claramente por encima de lo normal."
+    },
+    "Si el audiograma es normal, se piensa en una membrana flácida; con una brecha aéreo-ósea clara, se considera una disrupción de la cadena osicular.",
+    {
+     "yazi": "En el ejemplo 4 no hay pico y el volumen es de tres coma dos mililitros; se piensa en una perforación o en un tubo de ventilación permeable."
+    },
+    "En cada ejemplo, los números dicen mucho más que el tipo por sí solo."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación",
+   "baslik": "El *orden* para leer los valores",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "ECV",
+     "metin": "¿Sonda bien y tímpano íntegro?",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "¿Hay pico?",
+     "metin": "Si no, tipo B",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "TPP",
+     "metin": "¿Presión normal?",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ytm y TW",
+     "metin": "Altura y forma",
+     "cumle": 3
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Integrar",
+     "metin": "Otoscopia y audiograma",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Al leer un resultado, mira primero el volumen; un ECV muy grande o muy pequeño debe explicarse antes de interpretar el resto de la curva.",
+    "Luego comprueba si hay un pico claro; si no lo hay, la curva es tipo B y se interpreta según el volumen.",
+    "Si hay pico, valora la presión del pico; una presión claramente negativa hace pensar en la función de la trompa de Eustaquio.",
+    {
+     "yazi": "Después observa la altura del pico con la Ytm y la forma con el TW."
+    },
+    "Estos dos valores facilitan la decisión en las curvas cuyo tipo es limítrofe.",
+    "En el último paso, interpreta todos los valores junto con la otoscopia y el audiograma."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Si la Ytm está dentro de lo normal pero el TW es ancho, repite la prueba y compárala con la otoscopia; un pico redondeado puede ser un signo temprano de líquido.",
+   "cumleler": [
+    {
+     "yazi": "Mirar solo la Ytm puede hacer que se pasen por alto algunas efusiones."
+    },
+    {
+     "yazi": "Si la Ytm está cerca del límite inferior normal pero el ancho está claramente aumentado, la curva se ha redondeado."
+    },
+    "En ese caso, repite la prueba y compara el resultado con los hallazgos de la otoscopia.",
+    "Sobre todo en los niños, estos hallazgos limítrofes se siguen con un nuevo control después de un tiempo."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación",
+   "baslik": "¿*Qué* debe incluir el informe?",
+   "maddeler": [
+    {
+     "metin": "Tono de sonda, _cada oído_ por separado",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Valores de _Ytm, TPP, TW y ECV_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Tipo de Jerger y _normas usadas_",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "_Otoscopia_ y notas de la prueba",
+     "cumle": 3,
+     "ikon": "otoskop"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "A",
+       "cumle": 0
+      }
+     ]
+    },
+    "cumle": 0
+   },
+   "cumleler": [
+    "El informe indica primero el tono de sonda, y los resultados se escriben por separado para cada oído.",
+    {
+     "yazi": "Los cuatro valores, Ytm, TPP, TW y ECV, se registran con sus unidades."
+    },
+    "Junto a estos valores se añade el tipo de Jerger y se indica la tabla de normas usada para comparar.",
+    "También se agregan los hallazgos de la otoscopia y notas como llanto o movimiento durante la prueba.",
+    "Un informe así permite seguir con precisión los cambios en la siguiente consulta."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Ytm: unos _0,3 a 1,7 mmho_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "TPP: unos _menos 100 a más 50_",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "TW: _ancho_ a media altura",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "ECV: unos _0,6 a 1,5 ml_",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "La admitancia estática del pico es la admitancia del oído medio por sí solo; en adultos es de unos cero coma tres a uno coma siete milimhos.",
+    "La presión del pico timpanométrico estima la presión del oído medio; en adultos es de unos menos cien a más cincuenta decapascales.",
+    "El ancho timpanométrico es el rango de presión a la mitad de la altura del pico; un TW ancho aumenta la probabilidad de efusión.",
+    "El volumen del conducto auditivo se mide a más doscientos decapascales; en adultos es de unos cero coma seis a uno coma cinco mililitros."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Niño: Ytm 0,9, TW 260 daPa, ECV 0,8 ml. ¿Qué valor destaca?",
+   "secenekler": [
+    "Ytm",
+    "TW",
+    "ECV",
+    "Ninguno"
+   ],
+   "dogru": 1,
+   "aciklama": "La Ytm y el ECV están en el rango esperado, pero el _TW supera unos 250 daPa_ y la curva es redondeada.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en un niño, la Ytm es cero coma nueve, el TW doscientos sesenta y el ECV cero coma ocho. ¿Qué valor destaca?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: el ancho timpanométrico.",
+    "La altura del pico y el volumen están en el rango esperado, pero el ancho supera los doscientos cincuenta decapascales; la curva es redondeada."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Timpanometría de *alta frecuencia* (1000 Hz) en bebés",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos por qué usamos la timpanometría de mil hertz en bebés menores de seis meses.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

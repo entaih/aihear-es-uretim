@@ -1,0 +1,102 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R502_Quality_Warnings_in_Automated_Audiograms_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #502",
+  "baslik": "Alertas *antes que umbrales*",
+  "alt": "Calidad en la audiometría automatizada",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Qué revisas antes de aprobar un audiograma automatizado? #shorts",
+  "aciklama": "En la audiometría automatizada, un algoritmo ejecuta los pasos de búsqueda del umbral y, al final de la prueba, genera alertas de calidad junto con los umbrales. Antes de aprobar, no mires solo los umbrales, sino también estas alertas: si hay muchas pulsaciones sin sonido, es decir, falsas alarmas, si el ruido de fondo superó el límite o si hay una alerta de enmascaramiento, el resultado no se considera confiable. Ante la duda, las frecuencias en cuestión se vuelven a evaluar manualmente; los resultados automatizados no se usan para decisiones diagnósticas sin la revisión de un audiólogo.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "automatizacion",
+   "audiometria"
+  ],
+  "etiketler": [
+   "audiometría automatizada",
+   "indicadores de calidad",
+   "falsa alarma",
+   "ruido de fondo",
+   "enmascaramiento",
+   "aprobación del audiograma",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Qué revisas antes de aprobar un audiograma automatizado?",
+  "bilgiler": [
+   "Mira las alertas de calidad, no solo los umbrales.",
+   "Falsas alarmas, ruido y alertas de enmascaramiento restan confiabilidad.",
+   "Ante la duda, vuelve a evaluar manualmente esas frecuencias."
+  ],
+  "hashtag": [
+   "audiologia",
+   "automatizacion",
+   "audiometria"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #502",
+   "metin": "¿Qué *revisar?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Qué revisas antes de aprobar un audiograma automatizado?"
+   ]
+  },
+  {
+   "id": "kalite",
+   "tur": "zincir",
+   "baslik": "Indicadores *de calidad*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Falsas alarmas",
+     "tr": "pulsaciones sin sonido",
+     "cumle": 1
+    },
+    {
+     "ad": "Ruido",
+     "tr": "¿superó el límite?",
+     "cumle": 2
+    },
+    {
+     "ad": "Enmascaramiento",
+     "tr": "¿alguna alerta?",
+     "cumle": 2,
+     "gecikme": 0.6
+    }
+   ],
+   "cumleler": [
+    "Antes de aprobar un audiograma automatizado, revisa las alertas de calidad, no solo los umbrales.",
+    "Se cuentan las pulsaciones sin sonido, llamadas falsas alarmas.",
+    "Con muchas falsas alarmas, exceso de ruido o alertas de enmascaramiento, desconfía del resultado.",
+    "Ante la duda, vuelve a evaluar esas frecuencias manualmente; así evitas un informe erróneo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D295",
+ "kaynak_baslik": "Automatización y aprendizaje automático en audiología"
+}

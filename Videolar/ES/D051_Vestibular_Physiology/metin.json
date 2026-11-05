@@ -1,0 +1,897 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D051_Vestibular_Physiology_ES",
+ "kapak": {
+  "ust": "LECCIÓN 51",
+  "baslik": "Fisiología<br>*vestibular*",
+  "alt": "Canales, otolitos, empuje y tracción",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Fisiología vestibular: cómo sentimos el movimiento | Lección 51 | AIHEAR Academia de Audiología",
+  "aciklama": "Los canales semicirculares detectan la rotación de la cabeza, y los órganos otolíticos, el movimiento lineal y la gravedad. En esta lección vemos las células ciliadas vestibulares, cómo se desvía la cúpula, el papel de las otoconias, los planos de los canales, el principio de empuje y tracción (push-pull) y qué estructura evalúa cada prueba vestibular.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Jacobson and Shepard, Balance Function Assessment and Management; Goldberg et al., The Vestibular System: A Sixth Sense; Herdman and Clendaniel, Vestibular Rehabilitation; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "vestibular",
+   "equilibrio"
+  ],
+  "etiketler": [
+   "fisiología vestibular",
+   "canales semicirculares",
+   "órganos otolíticos",
+   "cúpula",
+   "otoconias",
+   "aceleración angular",
+   "aceleración lineal",
+   "principio push-pull",
+   "VEMP",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 51",
+   "baslik": "*Fisiología* vestibular",
+   "alt": "¿Cómo se detecta el movimiento de la cabeza?",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo la parte del oído interno dedicada al equilibrio detecta el movimiento de la cabeza y la gravedad.",
+    "Estudiaremos los canales semicirculares, los órganos otolíticos y el principio de empuje y tracción con el que trabajan juntos los dos oídos."
+   ]
+  },
+  {
+   "id": "bes_organ",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Cinco sensores",
+   "baslik": "*Cinco* sensores en cada oído",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "canales semicirculares",
+     "cumle": 0
+    },
+    {
+     "parca": "ampulla",
+     "metin": "ampolla",
+     "cumle": 2
+    },
+    {
+     "parca": "utrikul",
+     "metin": "utrículo",
+     "cumle": 3
+    },
+    {
+     "parca": "sakkul",
+     "metin": "sáculo",
+     "cumle": 3
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "nervio vestibular",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 1
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 2
+    },
+    {
+     "parca": "utrikul",
+     "cumle": 3
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Canales: rotación",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Otolitos: movimiento lineal, gravedad",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ampulla",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "utrikul",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Cada oído interno tiene cinco sensores para el equilibrio: tres canales semicirculares y dos órganos otolíticos.",
+    "Los canales semicirculares detectan la rotación de la cabeza, es decir, la aceleración angular.",
+    "El extremo ensanchado de cada canal se llama ampolla; allí se encuentran las células ciliadas sensoriales.",
+    "El utrículo y el sáculo son los órganos otolíticos; detectan la aceleración lineal y la gravedad.",
+    "La información de estos órganos llega al tronco cerebral a través del nervio vestibular.",
+    "Así, el cerebro sabe tanto que la cabeza está girando como hacia dónde se inclina o se desplaza."
+   ]
+  },
+  {
+   "id": "tuy_hucresi",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Cinco sensores",
+   "baslik": "Las *células ciliadas* vestibulares",
+   "maddeler": [
+    {
+     "metin": "Estereocilios y un solo _cinocilio_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Inclinación hacia el cinocilio: _excitación_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Inclinación contraria: _inhibición_",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Descarga _constante_ incluso en reposo",
+     "cumle": 3,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler_tuy_hucresi",
+    "cumle": 0,
+    "ayar": {
+     "mod": "ates",
+     "cumleler": [
+      2,
+      0,
+      1
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "kinosilyum",
+      "cumle": 0
+     },
+     {
+      "parca": "kinosilyuma_dogru",
+      "cumle": 1
+     },
+     {
+      "parca": "ters_yon",
+      "cumle": 2
+     },
+     {
+      "parca": "dinlenim",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Sobre las células ciliadas vestibulares hay estereocilios de altura creciente, con un solo cinocilio en el lado más alto."
+    },
+    "Cuando los estereocilios se inclinan hacia el cinocilio, la célula se despolariza y aumenta la tasa de descarga de la fibra nerviosa.",
+    "Cuando se inclinan hacia el otro lado, la célula se hiperpolariza y la tasa de descarga disminuye.",
+    "Las fibras del nervio vestibular descargan continuamente incluso con la cabeza quieta; esto se llama descarga tónica.",
+    "En monos, esta tasa de reposo resultó de unas setenta a noventa descargas por segundo en promedio, según el estudio.",
+    "Gracias a esta actividad de reposo, una sola fibra puede codificar el movimiento en dos direcciones, subiendo o bajando su tasa."
+   ]
+  },
+  {
+   "id": "kupula",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Canales semicirculares",
+   "baslik": "La ampolla y la *cúpula*",
+   "cizim": "ampulla_kesit",
+   "etiketler": [
+    {
+     "parca": "krista",
+     "metin": "Cresta ampular",
+     "cumle": 0
+    },
+    {
+     "parca": "kupula",
+     "metin": "Cúpula",
+     "cumle": 1
+    },
+    {
+     "parca": "akim",
+     "metin": "La endolinfa se rezaga",
+     "cumle": 2
+    },
+    {
+     "parca": "tuy_hucreleri",
+     "metin": "Células ciliadas",
+     "cumle": 3,
+     "yer": "alt"
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "krista",
+     "cumle": 0
+    },
+    {
+     "parca": "kupula",
+     "cumle": 1
+    },
+    {
+     "parca": "akim",
+     "cumle": 2
+    },
+    {
+     "parca": "stereosiller",
+     "cumle": 3
+    },
+    {
+     "parca": "kupula",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "La endolinfa se rezaga",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Cúpula desviada, células inclinadas",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "La cúpula es insensible a la gravedad",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "krista",
+     "cumle": 3,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Dentro de cada ampolla hay una cresta que lleva las células ciliadas, llamada cresta ampular (crista ampullaris)."
+    },
+    {
+     "yazi": "Los haces de las células ciliadas están inmersos en la cúpula gelatinosa, que cierra la ampolla como una compuerta."
+    },
+    "Cuando la cabeza gira, la pared del canal gira de inmediato, pero la endolinfa de su interior se rezaga por inercia.",
+    "Este flujo relativo empuja la cúpula hacia un lado e inclina los haces de las células ciliadas.",
+    "La cúpula tiene casi la misma densidad que la endolinfa, por eso los canales normalmente no se ven afectados por la gravedad.",
+    "Si las otoconias se adhieren a la cúpula, el canal se vuelve sensible a la gravedad; esta es una de las causas del vértigo posicional."
+   ],
+   "ayar": {
+    "sapma": 0.8,
+    "sapma_cumle": 3,
+    "akim": true
+   }
+  },
+  {
+   "id": "ivme_hiz",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Canales semicirculares",
+   "baslik": "¿Aceleración o *velocidad*?",
+   "maddeler": [
+    {
+     "metin": "Estímulo: _aceleración angular_",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "En la vida diaria, refleja la _velocidad_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Rotación constante: la cúpula _regresa_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "El _almacenamiento de velocidad_ prolonga la respuesta",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "yarim_daire_kanallari",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Lo que desvía la cúpula es el inicio o el fin de la rotación, es decir, la aceleración angular.",
+    "Pero por la mecánica del canal, en los movimientos cotidianos de la cabeza la señal nerviosa es proporcional a la velocidad angular de la cabeza.",
+    "Así, los canales codifican muy bien los movimientos rápidos y breves que hacemos al caminar o al girar la cabeza.",
+    "Cuando giramos a velocidad constante durante mucho tiempo, la cúpula vuelve a su posición en pocos segundos y la señal se desvanece.",
+    "El tronco cerebral prolonga esta señal un tiempo más; esto se llama almacenamiento de velocidad.",
+    "Por eso, cuando la rotación se detiene de golpe, aparecen una breve sensación de giro y un nistagmo en la dirección opuesta."
+   ]
+  },
+  {
+   "id": "duzlemler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Canales semicirculares",
+   "baslik": "Los *planos* de los canales",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "lateral_kanal",
+     "metin": "canal lateral",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_kanal",
+     "metin": "canal anterior",
+     "cumle": 3
+    },
+    {
+     "parca": "posterior_kanal",
+     "metin": "canal posterior",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 0
+    },
+    {
+     "parca": "lateral_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_kanal",
+     "cumle": 3
+    },
+    {
+     "parca": "posterior_kanal",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Par lateral: girar la cabeza a los lados",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "LARP: anterior izquierdo, posterior derecho",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "RALP: anterior derecho, posterior izquierdo",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Los tres canales están en planos aproximadamente perpendiculares, de modo que puede detectarse la rotación en cualquier dirección.",
+    "Los dos canales laterales están en el mismo plano y detectan el giro de la cabeza de un lado a otro.",
+    "El canal lateral no es del todo horizontal: su parte anterior sube unos treinta grados; por eso, en la prueba calórica en supino, se eleva la cabeza treinta grados.",
+    "Los canales verticales se emparejan en diagonal: el anterior izquierdo y el posterior derecho comparten un plano, llamado LARP.",
+    "El anterior derecho y el posterior izquierdo forman el plano RALP.",
+    "Los dos canales de un mismo plano informan del mismo movimiento con señales opuestas."
+   ]
+  },
+  {
+   "id": "itme_cekme",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Canales semicirculares",
+   "baslik": "El principio de *empuje y tracción*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Canal lateral derecho",
+     "metin": "Endolinfa hacia la ampolla",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Nervio derecho",
+     "metin": "La descarga aumenta",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Canal lateral izquierdo",
+     "metin": "Flujo opuesto a la ampolla, descarga baja",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Cerebro",
+     "metin": "Lee la diferencia entre lados",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Cuando giramos la cabeza a la derecha, ambos canales laterales se estimulan a la vez pero en sentidos opuestos; es el principio de empuje y tracción.",
+    "En el canal lateral derecho, la endolinfa fluye, en términos relativos, hacia la ampolla.",
+    "En este canal, el flujo hacia la ampolla es excitador, así que aumenta la descarga del nervio derecho.",
+    "En el canal lateral izquierdo, el flujo se aleja de la ampolla, y la descarga del nervio izquierdo disminuye.",
+    "Al leer la diferencia entre ambos lados, el cerebro calcula la dirección y la velocidad de la rotación.",
+    "Esta organización refuerza la señal y permite al sistema notar cuando hay un problema en un lado."
+   ]
+  },
+  {
+   "id": "polarite",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Canales semicirculares",
+   "baslik": "Dirección del flujo y *excitación*",
+   "maddeler": [
+    {
+     "metin": "Canal lateral: flujo hacia la ampolla _excita_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Canales verticales: flujo contrario _excita_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Excitación _más fuerte_ que inhibición",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Impulsos rápidos: _domina_ el lado excitado",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 0
+     },
+     {
+      "parca": "superior_kanal",
+      "cumle": 1
+     },
+     {
+      "parca": "posterior_kanal",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "En el canal lateral, el cinocilio está del lado del utrículo, por eso el flujo hacia la ampolla es excitador.",
+    "En los canales anterior y posterior, el cinocilio está del lado del canal, y el flujo que se aleja de la ampolla es excitador.",
+    "La descarga de una fibra puede subir mucho pero no puede bajar de cero, por eso la respuesta excitadora es más fuerte que la inhibidora.",
+    {
+     "yazi": "Esta asimetría forma parte de las reglas conocidas como leyes de Ewald; las veremos en detalle en la próxima lección."
+    },
+    "En los movimientos rápidos de la cabeza, cada canal da la señal dominante en su dirección excitadora; en esto se basa la prueba de impulso cefálico con video."
+   ]
+  },
+  {
+   "id": "makula",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Órganos otolíticos",
+   "baslik": "La mácula y las *otoconias*",
+   "cizim": "makula_kesit",
+   "etiketler": [
+    {
+     "parca": "tuy_hucreleri",
+     "metin": "Células ciliadas",
+     "cumle": 0
+    },
+    {
+     "parca": "otolit_zari",
+     "metin": "Membrana otolítica",
+     "cumle": 1
+    },
+    {
+     "parca": "otokonya",
+     "metin": "Otoconias",
+     "cumle": 2
+    },
+    {
+     "parca": "striola",
+     "metin": "Estríola",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "makula",
+     "cumle": 0
+    },
+    {
+     "parca": "jelatinimsi_tabaka",
+     "cumle": 1
+    },
+    {
+     "parca": "otokonya",
+     "cumle": 2
+    },
+    {
+     "parca": "kayma",
+     "cumle": 3
+    },
+    {
+     "parca": "striola",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Otoconias: carbonato de calcio",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Posición y aceleración lineal",
+     "cumle": 4,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Estríola: se invierte la orientación celular",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En el utrículo y el sáculo, las células ciliadas se ubican en un área llamada mácula."
+    },
+    "Los haces de las células ciliadas están inmersos en una membrana gelatinosa, y sobre ella están las otoconias, o piedras del oído.",
+    "Las otoconias son diminutos cristales de carbonato de calcio y son más pesadas que el líquido que las rodea.",
+    "Cuando la cabeza se inclina o acelera en línea recta, esta capa pesada se desliza o se rezaga e inclina las células ciliadas.",
+    "Así, los órganos otolíticos detectan tanto la posición de la cabeza respecto de la gravedad como el movimiento lineal.",
+    "A cada lado de una línea de la mácula llamada estríola, las células miran en sentidos opuestos, y así una mácula codifica todas las direcciones de su plano."
+   ],
+   "ayar": {
+    "egim": 0.8,
+    "egim_cumle": 3
+   }
+  },
+  {
+   "id": "utrikul_sakkul",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Órganos otolíticos",
+   "baslik": "Utrículo y *sáculo*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "utrículo",
+     "cumle": 0
+    },
+    {
+     "parca": "sakkul",
+     "metin": "sáculo",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 0
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 2
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "utrikul",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Utrículo: horizontal; adelante, atrás, lados",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Sáculo: vertical; arriba y abajo",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "cVEMP: sáculo; oVEMP: utrículo",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    "Cuando estamos de pie, la mácula del utrículo está en un plano aproximadamente horizontal.",
+    "Por eso el utrículo detecta el movimiento lineal hacia adelante, hacia atrás y hacia los lados, así como la inclinación de la cabeza.",
+    "La mácula del sáculo está en un plano aproximadamente vertical.",
+    "El sáculo detecta sobre todo el movimiento hacia arriba y hacia abajo, por ejemplo cuando un ascensor empieza a subir.",
+    "En la clínica, los órganos otolíticos se evalúan con las pruebas de potenciales evocados miogénicos vestibulares, o VEMP.",
+    {
+     "yazi": "El sáculo se estudia sobre todo con el VEMP cervical, o cVEMP, y el utrículo sobre todo con el VEMP ocular, u oVEMP."
+    }
+   ]
+  },
+  {
+   "id": "belirsizlik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Órganos otolíticos",
+   "baslik": "¿Inclinación o *aceleración*?",
+   "maddeler": [
+    {
+     "metin": "Para el otolito, inclinación y aceleración _se parecen_",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "El cerebro _suma_ canales y visión",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Sin claves visuales pueden surgir _ilusiones_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "utrikul",
+      "cumle": 0
+     },
+     {
+      "parca": "yarim_daire_kanallari",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Para un órgano otolítico, inclinar la cabeza hacia atrás y acelerar hacia adelante son estímulos muy parecidos.",
+    "En ambos casos, la capa otolítica se desliza en el mismo sentido respecto de la mácula.",
+    "El cerebro resuelve esta ambigüedad con la información de rotación de los canales semicirculares y con la información visual.",
+    "Durante una inclinación también se estimulan los canales, mientras que en una aceleración en línea recta los canales no envían señal de rotación.",
+    "Sin claves visuales, por ejemplo en un avión que acelera en la oscuridad, puede surgir la ilusión de que la nariz del avión se eleva."
+   ]
+  },
+  {
+   "id": "testler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Relación clínica",
+   "baslik": "¿Qué prueba mide *qué*?",
+   "ogeler": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Prueba calórica",
+     "metin": "Canal lateral, cada oído por separado",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Silla rotatoria",
+     "metin": "Canales laterales; frecuencia baja y media",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "vHIT",
+     "metin": "Seis canales; frecuencia alta",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "cVEMP",
+     "metin": "Sáculo, nervio inferior",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "oVEMP",
+     "metin": "Utrículo, nervio superior",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Cada prueba vestibular examina una parte distinta de estos sensores y una velocidad de movimiento distinta.",
+    "La prueba calórica evalúa solo el canal lateral, con un estímulo muy lento, y cada oído por separado.",
+    "La silla rotatoria evalúa ambos canales laterales juntos, con rotaciones de frecuencia baja y media.",
+    "La prueba de impulso cefálico con video, o vHIT, evalúa los seis canales con movimientos rápidos de la cabeza, de alta frecuencia.",
+    {
+     "yazi": "El cVEMP refleja el sáculo y el nervio vestibular inferior, y el oVEMP, el utrículo y el nervio vestibular superior."
+    },
+    "Así, las pruebas no se reemplazan entre sí; juntas forman una batería de pruebas."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Relación clínica",
+   "baslik": "Si un lado queda en *silencio*",
+   "maddeler": [
+    {
+     "metin": "Los dos lados _desequilibrados_ en reposo",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "El cerebro: la cabeza está _girando_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Vértigo, nistagmo, náuseas",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "_Compensación_ con el tiempo",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "vestibuler_sinir",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "El principio de empuje y tracción explica por qué una pérdida vestibular unilateral causa síntomas intensos.",
+    "Si la descarga tónica de un lado cae de golpe, el cerebro interpreta la diferencia como si la cabeza girara hacia el lado sano.",
+    "Como resultado, pueden aparecer vértigo, nistagmo y náuseas incluso con la persona quieta.",
+    "Con el tiempo, el sistema nervioso central reduce este desequilibrio y los síntomas ceden; este proceso se llama compensación.",
+    "En la pérdida bilateral, en cambio, más que el vértigo destacan la visión borrosa al mover la cabeza y la inestabilidad en la oscuridad."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Relación clínica",
+   "baslik": "Precaución clínica",
+   "metin": "Al interpretar resultados vestibulares, considera qué órgano y qué velocidad mide cada prueba. Una paresia calórica con vHIT normal es posible; por sí sola no es una contradicción.",
+   "cumleler": [
+    "Un consejo clínico: al interpretar los resultados vestibulares, consideren qué órgano y qué velocidad de movimiento mide cada prueba.",
+    "Por ejemplo, la prueba calórica puede mostrar una paresia canalicular con un vHIT normal, lo que concuerda con que ambas pruebas miden frecuencias distintas.",
+    "Del mismo modo, las respuestas VEMP pueden estar afectadas con pruebas de canales normales.",
+    "Informar los resultados a partir de toda la batería, y no de una sola prueba, reduce las interpretaciones erróneas."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Canales: _rotación_; otolitos: inclinación y traslación",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "La _cúpula_ se desvía con la endolinfa",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Las _otoconias_ dan sensibilidad a la gravedad",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "_Empuje y tracción_: los lados se oponen",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Los canales semicirculares detectan la rotación, y los órganos otolíticos, el movimiento lineal y la gravedad.",
+    "En los canales, cuando la cabeza gira, la endolinfa se rezaga, la cúpula se desvía y se estimulan las células ciliadas.",
+    "En los órganos otolíticos, el peso de las otoconias hace que la mácula sea sensible a la gravedad y a la aceleración lineal.",
+    "Los canales pareados de ambos lados funcionan según el principio de empuje y tracción; el cerebro lee la diferencia entre los lados."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Qué canal se excita cuando giramos la cabeza a la derecha?",
+   "secenekler": [
+    "Canal lateral derecho",
+    "Canal lateral izquierdo",
+    "Canal posterior derecho",
+    "Canal anterior izquierdo"
+   ],
+   "dogru": 0,
+   "aciklama": "Al girar a la derecha, el flujo en el canal lateral derecho va _hacia la ampolla_ y es excitador.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué canal semicircular se excita cuando giramos la cabeza a la derecha?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la A: el canal lateral derecho."
+    },
+    "Al mismo tiempo se inhibe el canal lateral izquierdo; el cerebro detecta la rotación leyendo la diferencia entre ambos lados."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "El reflejo vestíbulo-ocular: una visión *estable*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo estas señales mueven los ojos a través del reflejo vestíbulo-ocular.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

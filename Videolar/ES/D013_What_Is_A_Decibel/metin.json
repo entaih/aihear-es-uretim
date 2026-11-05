@@ -1,0 +1,696 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D013_What_Is_A_Decibel_ES",
+ "kapak": {
+  "ust": "LECCIÓN 13",
+  "baslik": "¿Qué es un<br>*decibel?*",
+  "alt": "La escala logarítmica explicada",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "¿Qué es un decibel? La escala logarítmica explicada | Lección 13 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos por qué expresamos en decibeles el enorme rango de presiones del oído. Con ejemplos resueltos, aprendemos la lógica de las proporciones y los logaritmos, la fórmula de 10 log para la intensidad y la de 20 log para la presión, la referencia de 20 micropascales y la diferencia entre dB SPL, dB HL y dB SL.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Speaks, Introduction to Sound: Acoustics for the Hearing and Speech Sciences; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Gelfand, Essentials of Audiology; NIOSH, Criteria for a Recommended Standard: Occupational Noise Exposure (1998).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "decibel",
+   "acustica"
+  ],
+  "etiketler": [
+   "decibel",
+   "qué es un decibel",
+   "dB SPL",
+   "nivel de presión sonora",
+   "presión de referencia",
+   "logaritmo",
+   "dB HL",
+   "dB SL",
+   "física del sonido",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 13",
+   "baslik": "¿Qué es un *decibel?*",
+   "alt": "La escala logarítmica explicada",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En audiología, casi todos los números vienen con la misma unidad: el decibel.",
+    "En esta lección veremos por qué el decibel es logarítmico, cómo se calcula y qué significa cero decibeles."
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué decibeles?",
+   "baslik": "El *enorme rango* del oído",
+   "maddeler": [
+    {
+     "metin": "Sonido más débil: cerca de _20 µPa_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Sonido muy fuerte: cerca de _20 Pa_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Proporción de presión: cerca de _1 millón_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Proporción de intensidad: cerca de _1 billón_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "El oído humano puede detectar un rango de presiones increíblemente amplio.",
+    "El sonido más débil que podemos oír cerca de mil hertz corresponde a un cambio de presión de unos veinte micropascales.",
+    "Los sonidos muy fuertes y molestos están en unos veinte pascales o más.",
+    "Así, entre el sonido más débil y uno muy fuerte, la presión varía en un factor de alrededor de un millón.",
+    "En términos de intensidad, es decir, de energía, esta diferencia llega a un factor de alrededor de un billón.",
+    "Si dibujáramos este rango en una regla con el sonido más débil como un milímetro, el más fuerte mediría un kilómetro.",
+    "Trabajar con números tan grandes no es práctico en la clínica; el decibel resuelve este problema."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "desibel_olcegi",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "fisilti",
+      "cumle": 1
+     },
+     {
+      "parca": "agri_esigi",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "dalga",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué decibeles?",
+   "baslik": "Presión y *amplitud*",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "genlik",
+     "metin": "Amplitud: cambio de presión",
+     "cumle": 0
+    },
+    {
+     "parca": "dalga",
+     "metin": "Onda sonora",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Presión: pascal (Pa)",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Intensidad: W/m²",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Intensidad proporcional a la presión al cuadrado",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Recordemos: la amplitud de una onda sonora es el tamaño del cambio de presión en el aire.",
+    "Estos diminutos cambios de presión son los que mueven la membrana timpánica, o tímpano.",
+    "La presión sonora se mide en pascales.",
+    "La intensidad sonora es la potencia que atraviesa una unidad de área y se expresa en vatios por metro cuadrado.",
+    "Hay una relación importante: la intensidad es proporcional al cuadrado de la presión sonora.",
+    "Si la presión se duplica, la intensidad se cuadruplica; enseguida esto explicará por qué las fórmulas son distintas."
+   ]
+  },
+  {
+   "id": "logaritma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "La lógica de los logaritmos",
+   "baslik": "Logaritmos: *¿cuántos ceros?*",
+   "maddeler": [
+    {
+     "metin": "log 10 = _1_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "log 100 = _2_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "log 1 000 000 = _6_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La multiplicación se vuelve _suma_",
+     "cumle": 4,
+     "ikon": "ampul"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PROPORCIÓN",
+    "metin": "Un decibel es siempre una proporción respecto de una *referencia*",
+    "cumle": 5
+   },
+   "cumleler": [
+    "El decibel se basa en dos ideas: el logaritmo y la proporción.",
+    "El logaritmo en base diez indica cuántos dieces debemos multiplicar entre sí para llegar a un número: dos para cien, tres para mil.",
+    "En otras palabras, el logaritmo reduce un número grande a la cantidad de ceros que contiene.",
+    "Así, una proporción de un millón se convierte en un número de solo seis unidades.",
+    "Los logaritmos también convierten la multiplicación en suma, lo que facilita los cálculos con decibeles.",
+    "La segunda idea es la proporción: un decibel no es una cantidad absoluta, sino la razón entre un valor medido y un valor de referencia."
+   ]
+  },
+  {
+   "id": "bel",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "La lógica de los logaritmos",
+   "baslik": "Del bel al *decibel*",
+   "maddeler": [
+    {
+     "metin": "Bel: el _logaritmo_ de una proporción de intensidad",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Decibel: _la décima parte_ de un bel",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Abreviatura: _dB_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "El logaritmo de una proporción de intensidad se llama bel; la unidad lleva el nombre de Alexander Graham Bell.",
+    "Sin embargo, el bel es una unidad demasiado grande para el uso diario.",
+    "Por eso usamos el decibel, que es la décima parte de un bel.",
+    {
+     "yazi": "El decibel se abrevia dB: una d minúscula y una B mayúscula.",
+     "ses": "El decibel se abrevia de be: una de minúscula y una be mayúscula."
+    },
+    "Un bel corresponde a una proporción de diez en intensidad.",
+    "Un bel equivale a diez decibeles; de aquí viene el factor diez de la fórmula de intensidad."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "UNIDADES",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kitap",
+      "baslik": "Bel",
+      "metin": "Por Alexander Graham Bell",
+      "cumle": 0
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "1 bel",
+      "metin": "10 decibeles, 10 veces la intensidad",
+      "cumle": 4
+     }
+    ]
+   }
+  },
+  {
+   "id": "siddet",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Las fórmulas",
+   "baslik": "Para la intensidad: *10 log*",
+   "maddeler": [
+    {
+     "metin": "Fórmula: _10 log (I / I0)_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Referencia I0: _10⁻¹² W/m²_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Doble de intensidad: _cerca de +3 dB_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Diez veces la intensidad: _+10 dB_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "El nivel de intensidad es diez veces el logaritmo de la razón entre la intensidad medida y la intensidad de referencia.",
+    "Esto se llama nivel de intensidad, o IL por su sigla en inglés.",
+    "La intensidad de referencia es diez elevado a menos doce vatios por metro cuadrado, que corresponde más o menos al umbral auditivo.",
+    "Cuando la intensidad se duplica, el nivel sube unos tres decibeles.",
+    "Cuando la intensidad aumenta diez veces, el nivel sube exactamente diez decibeles.",
+    "Por ejemplo, cien veces la intensidad significa veinte decibeles, y mil veces significa treinta decibeles."
+   ]
+  },
+  {
+   "id": "basinc",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Las fórmulas",
+   "baslik": "Para la presión: *20 log*",
+   "maddeler": [
+    {
+     "metin": "Fórmula: _20 log (P / P0)_",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Referencia P0: _20 µPa_",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Doble de presión: _cerca de +6 dB_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Diez veces la presión: _+20 dB_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SPL",
+    "metin": "Nivel de *presión sonora*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Los micrófonos miden presión, no intensidad; por eso en la clínica se usa sobre todo el nivel de presión sonora.",
+    "El nivel de presión sonora, o SPL, se calcula a partir de la razón entre la presión medida y veinte micropascales.",
+    "Aquí el factor es veinte, porque la intensidad es proporcional a la presión al cuadrado, y el logaritmo de un cuadrado es el doble del logaritmo.",
+    "Así, cuando la presión se duplica, el nivel sube unos seis decibeles.",
+    "Cuando la presión aumenta diez veces, el nivel sube veinte decibeles.",
+    "Aunque las fórmulas de intensidad y de presión se ven distintas, dan el mismo valor en decibeles para un mismo sonido."
+   ]
+  },
+  {
+   "id": "ornekler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Las fórmulas",
+   "baslik": "Ejemplos *resueltos*",
+   "sutunlar": [
+    "Presión",
+    "Proporción con la referencia",
+    "dB SPL"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "20 µPa",
+      "1",
+      "0"
+     ],
+     "cumle": 0,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "200 µPa",
+      "10",
+      "20"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "0,02 Pa",
+      "1000",
+      "60"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2 Pa",
+      "100 000",
+      "100"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "20 Pa",
+      "1 000 000",
+      "120"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Si la presión es igual a la referencia, la razón es uno y su logaritmo es cero; así, veinte micropascales son cero dB SPL.",
+    "Si la presión aumenta diez veces, a doscientos micropascales, el logaritmo es uno y el nivel es de veinte dB SPL.",
+    "Cero coma cero dos pascales es mil veces la referencia; el logaritmo es tres y el resultado, sesenta dB SPL.",
+    "Dos pascales es cien mil veces la referencia; el logaritmo es cinco y el resultado, cien dB SPL.",
+    "Veinte pascales es un millón de veces la referencia y equivale a ciento veinte dB SPL.",
+    "Como ven, un rango de un millón cabe en una escala cómoda de cero a ciento veinte."
+   ]
+  },
+  {
+   "id": "ters",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Las fórmulas",
+   "baslik": "Al revés: *de decibeles a presión*",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Pregunta",
+     "metin": "¿Cuántos pascales?",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Dividir por 20",
+     "metin": "40 / 20 = 2",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Potencia de 10",
+     "metin": "10 elevado a 2 = 100",
+     "cumle": 2
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Multiplicar por la referencia",
+     "metin": "100 x 20 µPa",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "A veces necesitamos ir al revés: averiguar cuántos pascales representa un valor en decibeles.",
+    "Por ejemplo, para cuarenta dB SPL, primero dividimos cuarenta por veinte y obtenemos dos.",
+    "Luego elevamos diez a la potencia dos, que da cien; así, la presión es cien veces la referencia.",
+    "Al multiplicar cien por veinte micropascales obtenemos dos mil micropascales, o cero coma cero cero dos pascales.",
+    "Para el nivel de intensidad hacemos lo mismo, pero dividimos por diez en lugar de veinte.",
+    "Este cálculo inverso es útil para interpretar valores de calibración y salidas de los equipos."
+   ]
+  },
+  {
+   "id": "sifir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Referencias y escalas",
+   "baslik": "Cero decibeles *no es silencio*",
+   "maddeler": [
+    {
+     "metin": "0 dB SPL: presión _igual a la referencia_",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Valor negativo: _por debajo de la referencia_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Todo valor en dB tiene _una referencia_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Cero dB SPL no significa que no haya sonido; solo indica que la presión es igual al valor de referencia.",
+    "La referencia se eligió para coincidir con el umbral aproximado de oídos jóvenes y sanos cerca de mil hertz.",
+    "Las presiones por debajo de la referencia dan valores negativos en decibeles; por ejemplo, menos cinco dB SPL es una medición con sentido.",
+    "De hecho, los oídos jóvenes y sanos pueden responder en algunas frecuencias incluso a sonidos por debajo de la referencia.",
+    "Por eso, un valor en decibeles por sí solo no significa nada; siempre debe indicarse la referencia con la que se midió.",
+    "Por esta razón, la audiología usa distintas escalas, como dB SPL, dB HL y dB SL."
+   ]
+  },
+  {
+   "id": "uc_olcek",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Referencias y escalas",
+   "baslik": "Tres *escalas de decibeles*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "dB SPL",
+     "metin": "Referencia 20 µPa; física, calibración",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "dB HL",
+     "metin": "Umbral auditivo normal; audiograma",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "dB SL",
+     "metin": "El umbral propio de la persona",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El dB SPL es una escala física, y su referencia son veinte micropascales.",
+    "El dB HL es el nivel de audición; su referencia es el umbral promedio de adultos jóvenes con audición normal en cada frecuencia.",
+    "Como el oído no es igual de sensible en todas las frecuencias, cero dB HL corresponde a un valor distinto de dB SPL en cada frecuencia.",
+    "Esta diferencia es mayor en las frecuencias graves, y es lo que mantiene plana la línea de cero del audiograma.",
+    "El dB SL es el nivel de sensación; nos dice cuánto por encima del umbral propio de la persona estamos.",
+    "Por ejemplo, si el umbral de una persona es de treinta dB HL y presentamos un sonido de setenta dB HL, eso es cuarenta dB SL."
+   ]
+  },
+  {
+   "id": "odyolojide",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Referencias y escalas",
+   "baslik": "En audiología, los *decibeles* están en todas partes",
+   "maddeler": [
+    {
+     "metin": "Umbrales del audiograma: _dB HL_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Calibración y OEA: _dB SPL_",
+     "cumle": 1,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Pruebas supraumbrales: _dB SL_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Medición de ruido: _dBA_",
+     "cumle": 3,
+     "ikon": "fabrika"
+    }
+   ],
+   "cumleler": [
+    "En audiología, los decibeles están en todas partes; los umbrales del audiograma se escriben en dB HL.",
+    "La calibración del audiómetro y las mediciones de otoemisiones acústicas, u OEA, se expresan en dB SPL.",
+    "En algunas pruebas supraumbrales, el nivel del estímulo se fija respecto del umbral de la persona, en dB SL.",
+    {
+     "yazi": "Las mediciones de ruido usan la ponderación A, que imita la sensibilidad del oído según la frecuencia, y se escriben en dBA."
+    },
+    "Es un buen hábito revisar en qué escala está escrito cada valor en decibeles de un informe."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 5",
+   "bolum": "Sonidos cotidianos",
+   "baslik": "Sonidos cotidianos en *decibeles*",
+   "cizim": "desibel_olcegi",
+   "etiketler": [
+    {
+     "parca": "fisilti",
+     "metin": "Susurro: cerca de 30 dB SPL",
+     "cumle": 1
+    },
+    {
+     "parca": "konusma",
+     "metin": "Habla: cerca de 60 dB SPL",
+     "cumle": 2
+    },
+    {
+     "parca": "trafik",
+     "metin": "Tráfico intenso: cerca de 85 dB SPL",
+     "cumle": 3
+    },
+    {
+     "parca": "konser",
+     "metin": "Concierto: 100 a 110 dB SPL",
+     "cumle": 3
+    },
+    {
+     "parca": "agri_esigi",
+     "metin": "Dolor: cerca de 130 dB SPL",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ubiquemos ahora sonidos cotidianos en esta escala; los valores son aproximados y dependen de la distancia de medición.",
+    "Un susurro ronda los treinta dB SPL.",
+    "El habla normal a un metro de distancia ronda los sesenta dB SPL.",
+    "El tráfico intenso ronda los ochenta y cinco, y un concierto de rock puede llegar a entre cien y ciento diez dB SPL.",
+    "Los sonidos de unos ciento treinta dB SPL o más pueden causar sensación de dolor en el oído.",
+    "Una diferencia de ochenta decibeles, como entre un susurro y un concierto, es una diferencia de diez mil veces en presión."
+   ]
+  },
+  {
+   "id": "algi",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Sonidos cotidianos",
+   "baslik": "Decibeles y *sonoridad percibida*",
+   "maddeler": [
+    {
+     "metin": "Unos _10 dB_: el doble de fuerte",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Cerca de _1 dB_: apenas perceptible",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_3 dB_: el doble de energía",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Nuestra percepción de la sonoridad también funciona en una escala comprimida, por eso el decibel es una escala cercana a la percepción.",
+    "Como regla general, un aumento de unos diez decibeles hace que un sonido parezca más o menos el doble de fuerte.",
+    "Sin embargo, diez decibeles significan un aumento de diez veces en la intensidad.",
+    "Los cambios de alrededor de un decibel son difíciles de notar en la mayoría de las condiciones.",
+    "Un aumento de tres decibeles puede parecer pequeño, pero significa que la energía sonora se duplicó.",
+    "Volviendo a la regla de la sonoridad: para que un sonido parezca la mitad de fuerte, hace falta una caída de unos diez decibeles."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "desibel_olcegi",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Los decibeles no se suman: dos fuentes iguales de 60 dB dan unos 63 dB. Según muchos criterios, 3 dB más de ruido reducen a la mitad el tiempo seguro.",
+   "cumleler": [
+    "Un dato muy útil en la clínica y en la orientación: los decibeles no se suman directamente.",
+    "Dos fuentes sonoras iguales de sesenta decibeles juntas dan unos sesenta y tres decibeles, no ciento veinte.",
+    "Por eso, según muchos criterios de salud ocupacional, tres decibeles más de ruido reducen a la mitad el tiempo de exposición seguro.",
+    "Usar esta regla simple es muy eficaz cuando se explica a alguien el riesgo del ruido."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Decibel: *proporción* respecto de una referencia",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Intensidad 10 log, presión *20 log*",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "0 dB SPL = *20 µPa*",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "dB SPL, dB HL y *dB SL* difieren",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "El decibel es la expresión logarítmica de la razón entre un valor medido y un valor de referencia.",
+    "Usamos diez log para la intensidad y veinte log para la presión; las dos fórmulas dan el mismo resultado.",
+    "Cero dB SPL no es silencio; es la presión de referencia de veinte micropascales.",
+    "El dB SPL, el dB HL y el dB SL se basan en referencias distintas, y siempre debe indicarse cuál se usó."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Si la presión aumenta diez veces, ¿cuántos dB sube el SPL?",
+   "secenekler": [
+    "3 dB",
+    "6 dB",
+    "10 dB",
+    "20 dB"
+   ],
+   "dogru": 3,
+   "aciklama": "Para la presión usamos _20 log_: 20 x log 10 = 20 dB.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si la presión sonora aumenta diez veces, ¿cuántos decibeles sube el nivel de presión sonora?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la D, veinte decibeles. Para la presión usamos veinte log, y el logaritmo de diez es uno."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cálculos con decibeles: suma de sonidos y *distancia*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección practicaremos cómo sumar decibeles y cómo la distancia cambia el nivel sonoro.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

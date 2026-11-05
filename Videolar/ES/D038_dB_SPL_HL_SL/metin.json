@@ -1,0 +1,684 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D038_dB_SPL_HL_SL_ES",
+ "kapak": {
+  "ust": "LECCIÓN 38",
+  "baslik": "SPL, HL<br>y *SL*",
+  "alt": "¿Qué decibel y cuándo?",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "dB SPL, dB HL y dB SL: cuándo usar cada uno | Lección 38 | AIHEAR Academia de Audiología",
+  "aciklama": "Un decibel siempre se mide respecto de una referencia. En esta lección vemos con ejemplos la diferencia entre el nivel de presión sonora (dB SPL), el nivel de audición (dB HL) y el nivel de sensación (dB SL), los valores RETSPL y lo que realmente significa la línea de 0 dB HL del audiograma.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology; ISO 389-1, Acoustics: Reference zero for the calibration of audiometric equipment; ANSI S3.6, Specification for Audiometers.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "decibel",
+   "audicion"
+  ],
+  "etiketler": [
+   "dB SPL",
+   "dB HL",
+   "dB SL",
+   "decibel",
+   "RETSPL",
+   "nivel de presión sonora",
+   "nivel de audición",
+   "nivel de sensación",
+   "audiograma",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 38",
+   "baslik": "dB SPL, dB HL y dB SL: cuándo usar *cada uno*",
+   "alt": "Qué decibel usar, cuándo y por qué",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprenderemos a distinguir las tres escalas de decibeles que más se confunden en audiología: SPL, HL y SL.",
+    "También veremos qué significa realmente la línea de cero decibeles del audiograma."
+   ]
+  },
+  {
+   "id": "oran",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El decibel es una razón",
+   "baslik": "El decibel es *siempre* una razón",
+   "maddeler": [
+    {
+     "metin": "Una escala logarítmica de _razones_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Siempre respecto de una _referencia_",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Convierte un rango enorme en _números manejables_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Referencia: la etiqueta SPL, HL o SL",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "REGLA",
+    "metin": "Un decibel sin su etiqueta es información *incompleta*",
+    "cumle": 4
+   },
+   "cumleler": [
+    "El decibel es una escala que expresa en forma logarítmica la razón entre dos valores.",
+    "Por eso un valor en decibeles no significa nada por sí solo; siempre hay que decir respecto de qué se mide.",
+    "El rango de presiones que el oído puede detectar es tan amplio que una escala logarítmica lo convierte en números manejables.",
+    "La etiqueta SPL, HL o SL junto al decibel nos dice cuál es esa referencia.",
+    "Desde el punto de vista clínico, un valor en decibeles sin su referencia es información incompleta.",
+    "Ahora veamos estas tres referencias una por una."
+   ]
+  },
+  {
+   "id": "spl",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "dB SPL",
+   "baslik": "dB SPL: nivel de *presión sonora*",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "genlik",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "genlik",
+     "metin": "amplitud: cambio de presión",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Referencia: 20 µPa = 0 dB SPL",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "10 veces la presión: +20 dB",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "El doble de presión: unos +6 dB",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "dB SPL significa nivel de presión sonora, y es una escala puramente física.",
+    "La amplitud de una onda sonora muestra qué tan grandes son los cambios de presión en el aire.",
+    "En la escala dB SPL, la referencia es una presión de veinte micropascales, que se toma como cero dB SPL.",
+    "Veinte micropascales se acerca a la menor presión que un oído joven y sano detecta en sus frecuencias más sensibles.",
+    "Cuando la presión se multiplica por diez, el nivel sube veinte decibeles; cuando se duplica, sube unos seis decibeles.",
+    "Los sonómetros y los equipos de calibración miden en dB SPL."
+   ]
+  },
+  {
+   "id": "olcek",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "dB SPL",
+   "baslik": "Sonidos cotidianos en *dB SPL*",
+   "cizim": "desibel_olcegi",
+   "etiketler": [
+    {
+     "parca": "fisilti",
+     "metin": "susurro: unos 30",
+     "cumle": 0
+    },
+    {
+     "parca": "konusma",
+     "metin": "conversación: unos 60",
+     "cumle": 1
+    },
+    {
+     "parca": "trafik",
+     "metin": "tráfico intenso: unos 80",
+     "cumle": 2
+    },
+    {
+     "parca": "konser",
+     "metin": "concierto: 100 o más",
+     "cumle": 3
+    },
+    {
+     "parca": "agri_esigi",
+     "metin": "umbral de dolor: 120 a 140",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Veamos algunos sonidos cotidianos: un susurro suave ronda los treinta dB SPL.",
+    "Una conversación normal a un metro de distancia está en unos sesenta dB SPL.",
+    "El ruido de tráfico intenso puede llegar a ochenta dB SPL o más.",
+    "En un concierto o en una discoteca, el nivel puede superar los cien dB SPL.",
+    "En la literatura, el umbral de dolor suele situarse entre ciento veinte y ciento cuarenta dB SPL.",
+    "Estos valores son aproximados y cambian con la distancia de medición."
+   ]
+  },
+  {
+   "id": "duyarlilik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "dB SPL",
+   "baslik": "El oído no oye todas las frecuencias *por igual*",
+   "maddeler": [
+    {
+     "metin": "Más sensible: unos _1000 a 4000 Hz_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Graves y muy agudos necesitan _más_ SPL",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Umbral normal en SPL: _no es plano_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Nuestros oídos no son igual de sensibles a todas las frecuencias.",
+    "Un adulto joven con audición normal es más sensible entre unos mil y cuatro mil hertz.",
+    "Con los sonidos graves y los muy agudos se necesita más presión sonora para llegar al umbral.",
+    "Por eso, si graficamos los umbrales normales en dB SPL, no obtenemos una línea plana sino una curva con forma de letra U.",
+    "Según cómo se mida, esta curva se llama curva de presión mínima audible o de campo mínimo audible.",
+    "Para no lidiar con esta curva en cada frecuencia en la clínica, usamos otra escala: el dB HL."
+   ]
+  },
+  {
+   "id": "hl",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "dB HL y RETSPL",
+   "baslik": "dB HL: una escala respecto de lo *normal*",
+   "maddeler": [
+    {
+     "metin": "Referencia: _umbral promedio_ de oyentes normales",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Una presión sonora _distinta_ en cada frecuencia",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Este valor se llama _RETSPL_",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "El audiómetro suma la diferencia _solo_",
+     "cumle": 5,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "0 dB HL",
+    "metin": "El umbral *promedio* de jóvenes con audición normal en esa frecuencia",
+    "cumle": 1
+   },
+   "cumleler": [
+    "dB HL significa nivel de audición, y su referencia es el oído humano.",
+    "Cero dB HL es el umbral promedio de adultos jóvenes otológicamente normales en esa frecuencia.",
+    "Este umbral promedio corresponde a una presión sonora distinta en cada frecuencia.",
+    "El valor de cada frecuencia se llama nivel de presión sonora umbral equivalente de referencia (RETSPL).",
+    {
+     "yazi": "Los valores RETSPL figuran en normas internacionales como la ISO 389, en tablas separadas para cada tipo de auricular."
+    },
+    "Cuando eligen un nivel en HL en el audiómetro, el equipo suma esta diferencia por sí mismo y produce la presión sonora correcta."
+   ]
+  },
+  {
+   "id": "retspl",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "dB HL y RETSPL",
+   "baslik": "*RETSPL* de ejemplo (TDH-39)",
+   "sutunlar": [
+    "Frecuencia",
+    "0 dB HL equivale a"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "250 Hz",
+      "25,5 dB SPL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "11,5 dB SPL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "7 dB SPL"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "9 dB SPL"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "9,5 dB SPL"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "8000 Hz",
+      "13 dB SPL"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La tabla muestra los valores RETSPL de un auricular supraaural de uso muy extendido.",
+    "En doscientos cincuenta hertz, cero dB HL corresponde a unos veinticinco coma cinco dB SPL.",
+    "En mil hertz, el mismo cero dB HL es de solo unos siete dB SPL.",
+    "Así, en la frecuencia grave se necesitan unos dieciocho decibeles más de presión sonora para llegar al umbral.",
+    "Los valores dependen del auricular y del montaje de medición; los auriculares de inserción, por ejemplo, tienen otros valores."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "dB HL y RETSPL",
+   "baslik": "De HL a SPL: el *cálculo*",
+   "maddeler": [
+    {
+     "metin": "_dB SPL = dB HL + RETSPL_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "250 Hz, 40 dB HL: _65,5 dB SPL_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "1000 Hz, 40 dB HL: _47 dB SPL_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        40,
+        null,
+        null,
+        null,
+        null,
+        null
+       ],
+       "cizgi": false,
+       "cumle": 1
+      },
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        null,
+        null,
+        40,
+        null,
+        null,
+        null
+       ],
+       "cizgi": false,
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Conviene recordar una fórmula sencilla: los decibeles SPL son iguales a los decibeles HL más el valor RETSPL.",
+    "Por ejemplo, un tono de cuarenta dB HL en doscientos cincuenta hertz produce unos sesenta y cinco coma cinco dB SPL con este auricular.",
+    "En mil hertz, los mismos cuarenta dB HL son unos cuarenta y siete dB SPL.",
+    "En el audiograma, los dos umbrales aparecen a la misma altura, pero la presión física que sale del auricular es distinta.",
+    "El valor medido durante la calibración está en SPL, mientras que el valor de la pantalla del audiómetro está en HL."
+   ]
+  },
+  {
+   "id": "sifir",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "dB HL y RETSPL",
+   "baslik": "Lo que *significa* la línea cero",
+   "lejant": [
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_0 dB HL_: umbral normal promedio",
+     "cumle": 0
+    },
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: ejemplo",
+     "cumle": 2
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: ejemplo",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       5,
+       0,
+       5,
+       0,
+       5,
+       10
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       0,
+       5,
+       0,
+       5,
+       10,
+       5
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Como se corrigen las diferencias de RETSPL, el umbral normal promedio cae en la misma línea plana en todas las frecuencias: cero dB HL.",
+    "Así, la audición normal, que en SPL es una curva, se convierte en HL en una referencia plana.",
+    "En este ejemplo, los umbrales de ambos oídos están entre cero y diez dB HL, muy cerca del nivel normal promedio.",
+    "Como el cero es un promedio, algunas personas tienen umbrales de menos cinco o menos diez dB HL.",
+    "Un valor negativo no significa que no haya sonido; muestra que la persona es algo más sensible que el promedio.",
+    "Cada desviación en el audiograma muestra directamente cuánto se aleja la audición de la audición normal promedio."
+   ]
+  },
+  {
+   "id": "sl",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "dB SL",
+   "baslik": "dB SL: respecto del umbral *de la persona*",
+   "maddeler": [
+    {
+     "metin": "Referencia: _el propio umbral_ de la persona",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Distinto_ en cada oído y frecuencia",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "¿Cuántos dB _por encima_ del umbral?",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Bajo el umbral: SL _negativo_",
+     "cumle": 5,
+     "ikon": "sessizlik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EJEMPLO",
+    "metin": "Umbral 30 dB HL, estímulo 70 dB HL: *40 dB SL*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "dB SL significa nivel de sensación, y su referencia es el propio umbral de la persona.",
+    "Así, un mismo estímulo puede corresponder a niveles de sensación muy distintos en personas y oídos diferentes.",
+    "El dB SL nos dice cuántos decibeles está un sonido por encima del umbral de esa persona.",
+    "Por ejemplo, si presentamos un sonido de setenta dB HL a un oído con umbral de treinta dB HL, eso equivale a cuarenta dB SL.",
+    "En un oído con umbral de diez dB HL, los mismos setenta dB HL corresponden a sesenta dB SL.",
+    "Un estímulo por debajo del umbral tiene un SL negativo y la persona no lo oye."
+   ]
+  },
+  {
+   "id": "sl_kullanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "dB SL",
+   "baslik": "¿*Dónde* se usa el SL?",
+   "maddeler": [
+    {
+     "metin": "Pruebas supraumbrales",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Palabras: _30 a 40 dB_ sobre el umbral",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Indicar_ el umbral de referencia en informes",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "El SL se usa sobre todo en las pruebas supraumbrales.",
+    "Por ejemplo, las pruebas de reconocimiento de palabras suelen aplicarse de treinta a cuarenta decibeles sobre el umbral de recepción de la palabra.",
+    "Este enfoque hace que la prueba sea igual de audible para cada paciente, respecto de su propio umbral.",
+    "En personas con audición normal, el reflejo acústico también suele aparecer entre setenta y cien decibeles por encima del umbral.",
+    "Al informar un valor en SL, indicar a partir de qué umbral se calculó asegura que el resultado se lea correctamente."
+   ]
+  },
+  {
+   "id": "karsilastirma",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Las escalas juntas",
+   "baslik": "Las escalas *lado a lado*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "dB SPL",
+     "metin": "Referencia: 20 µPa; calibración, medición de ruido",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "dB HL",
+     "metin": "Umbral normal promedio; audiograma",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "dB SL",
+     "metin": "Umbral propio; pruebas supraumbrales",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "dB nHL",
+     "metin": "Umbral de un grupo normal; estímulos breves",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Resumamos: el dB SPL se refiere a la presión física y se usa en la calibración y en la medición de ruido.",
+    "El dB HL se refiere a la audición normal promedio y es el lenguaje del audiograma.",
+    "El dB SL se refiere al propio umbral de la persona y se usa en las pruebas supraumbrales.",
+    {
+     "yazi": "También existe el dB nHL: para estímulos breves como los clics, se fija respecto del umbral de un grupo con audición normal."
+    },
+    "Veremos esta escala a menudo en las lecciones sobre potenciales evocados auditivos de tronco cerebral (PEATC, en inglés ABR)."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Las escalas juntas",
+   "baslik": "*Errores* frecuentes",
+   "maddeler": [
+    {
+     "metin": "_Confundir_ SPL y HL",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Salida del equipo en SPL, umbrales en HL",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "_No indicar_ el umbral de referencia del SL",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Uno de los errores más comunes con estas escalas es leer valores en SPL y en HL como si fueran el mismo número.",
+    "Por ejemplo, la salida del audífono se expresa en SPL y los umbrales del paciente en HL; entre ambos hace falta una conversión.",
+    "Esta conversión también es la base de los audiogramas en SPL que veremos en las lecciones de adaptación de audífonos.",
+    "Otro error frecuente es no indicar a partir de qué umbral se calculó un valor en SL."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 5",
+   "bolum": "Las escalas juntas",
+   "baslik": "Consejo clínico",
+   "metin": "No comparen directamente decibeles de escalas distintas: 85 dB de ruido laboral no son lo mismo que 85 dB HL en el audiograma.",
+   "cumleler": [
+    "Un consejo de la práctica: no comparen directamente valores en decibeles de escalas distintas.",
+    "Por ejemplo, un ruido laboral medido en ochenta y cinco decibeles es un valor físico obtenido con un sonómetro.",
+    "Ochenta y cinco dB HL en el audiograma se refieren a una referencia completamente distinta.",
+    "También en sus informes, escriban siempre la etiqueta SPL, HL o SL junto al valor en decibeles."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "_dB SPL_: presión física, 20 µPa",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "_dB HL_: umbral normal promedio",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_RETSPL_: el puente entre HL y SPL",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "_dB SL_: el propio umbral de la persona",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "El dB SPL es una escala física con una referencia de veinte micropascales.",
+    "El dB HL toma como cero el umbral promedio de oyentes normales y se usa en el audiograma.",
+    "Los valores RETSPL muestran a cuántos dB SPL equivale cero dB HL en cada frecuencia.",
+    "El dB SL nos dice cuánto está un sonido por encima del propio umbral de la persona."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Umbral 20 dB HL, estímulo 60 dB HL. ¿Cuál es el nivel de sensación?",
+   "secenekler": [
+    "20 dB SL",
+    "40 dB SL",
+    "60 dB SL",
+    "80 dB SL"
+   ],
+   "dogru": 1,
+   "aciklama": "El SL es cuánto está el estímulo por encima del _propio umbral_ de la persona: 60 menos 20.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si presentas un tono de sesenta dB HL a un oído con umbral de veinte dB HL, ¿cuál es el nivel de sensación?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: cuarenta dB SL.",
+    "El nivel de sensación es cuánto está el estímulo por encima del propio umbral de la persona; restamos veinte a sesenta."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tonos puros y sonidos complejos: bases de *Fourier*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos qué distingue a los tonos puros de los sonidos complejos y conoceremos las bases del análisis de Fourier.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

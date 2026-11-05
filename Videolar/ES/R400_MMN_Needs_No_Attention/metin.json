@@ -1,0 +1,233 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R400_MMN_Needs_No_Attention_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #400",
+  "baslik": "Discriminación *sin atención*",
+  "alt": "Negatividad de disparidad, MMN",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -100,
+    "max": 600,
+    "ad": "Tiempo (ms)",
+    "isaretler": [
+     0,
+     100,
+     200,
+     300,
+     400,
+     500,
+     600
+    ]
+   },
+   "y": {
+    "min": -6,
+    "max": 12,
+    "adim": 3,
+    "ad": "Amplitud (µV)"
+   },
+   "seriler": [
+    {
+     "ad": "sik",
+     "noktalar": [
+      [
+       -100,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       50,
+       0.5
+      ],
+      [
+       100,
+       -3.5
+      ],
+      [
+       180,
+       2.5
+      ],
+      [
+       250,
+       0.5
+      ],
+      [
+       350,
+       0.5
+      ],
+      [
+       450,
+       0
+      ],
+      [
+       600,
+       0
+      ]
+     ],
+     "renk": "lacivert",
+     "yumusak": true,
+     "cumle": 1
+    },
+    {
+     "ad": "seyrek",
+     "noktalar": [
+      [
+       -100,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       50,
+       0.5
+      ],
+      [
+       100,
+       -4
+      ],
+      [
+       180,
+       2.5
+      ],
+      [
+       230,
+       -1
+      ],
+      [
+       320,
+       9
+      ],
+      [
+       400,
+       5
+      ],
+      [
+       480,
+       1
+      ],
+      [
+       600,
+       0
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true,
+     "kalin": true,
+     "cumle": 2
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "p300",
+     "x": 320,
+     "y": 9,
+     "etiket": "P300",
+     "dus": "x",
+     "cumle": 3
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Puede el cerebro captar la diferencia entre dos sonidos sin tu atención? #shorts",
+  "aciklama": "La negatividad de disparidad (MMN) es la negatividad que aparece a unos 100 a 250 milisegundos en la onda de diferencia, que se obtiene al restar la respuesta al sonido estándar de la respuesta a un sonido desviante, raro y diferente, intercalado entre sonidos frecuentes. Su característica más importante es que no requiere atención: puede registrarse mientras la persona ve una película sin sonido, e incluso se ha registrado en recién nacidos.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "electrofisiologia",
+   "cerebro"
+  ],
+  "etiketler": [
+   "negatividad de disparidad",
+   "MMN",
+   "paradigma oddball",
+   "onda de diferencia",
+   "potenciales cognitivos",
+   "discriminación auditiva",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Puede el cerebro captar la diferencia entre dos sonidos sin tu atención?",
+  "bilgiler": [
+   "Un sonido raro y diferente se intercala entre sonidos frecuentes.",
+   "La diferencia desviante menos estándar muestra una onda negativa.",
+   "No requiere atención; se ha registrado incluso en recién nacidos."
+  ],
+  "hashtag": [
+   "audiologia",
+   "electrofisiologia",
+   "cerebro"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #400",
+   "metin": "¿Hace falta *atención?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Puede el cerebro captar la diferencia entre dos sonidos sin tu atención?"
+   ]
+  },
+  {
+   "id": "mmn",
+   "tur": "zincir",
+   "baslik": "Negatividad *de disparidad*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Secuencia",
+     "tr": "frecuente y rara",
+     "cumle": 1
+    },
+    {
+     "ad": "Onda de diferencia",
+     "tr": "desviante menos estándar",
+     "cumle": 2
+    },
+    {
+     "ad": "Atención",
+     "tr": "no necesaria",
+     "cumle": 3
+    }
+   ],
+   "alt": "Incluso en _recién nacidos_",
+   "alt_cumle": 4,
+   "cumleler": [
+    {
+     "yazi": "La negatividad de disparidad, o MMN, muestra una discriminación automática."
+    },
+    "Un sonido raro y diferente se intercala entre un sonido frecuente.",
+    "Al restar la respuesta estándar de la desviante se obtiene la onda de diferencia.",
+    "Puede registrarse incluso mientras la persona ve una película sin sonido.",
+    "Incluso se ha registrado en recién nacidos."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D202",
+ "kaynak_baslik": "P300 y MMN: potenciales auditivos cognitivos"
+}

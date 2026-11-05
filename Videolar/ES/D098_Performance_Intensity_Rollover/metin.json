@@ -1,0 +1,954 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D098_Performance_Intensity_Rollover_ES",
+ "kapak": {
+  "ust": "LECCIÓN 98",
+  "baslik": "Curva de rendimiento<br>y *rollover*",
+  "alt": "PBmax y el índice de rollover",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 30,
+    "max": 100,
+    "adim": 10,
+    "ad": "Nivel (dB HL)"
+   },
+   "y": {
+    "min": 0,
+    "max": 100,
+    "adim": 25,
+    "ad": "Puntuación (%)"
+   },
+   "seriler": [
+    {
+     "ad": "retro",
+     "noktalar": [
+      [
+       40,
+       2
+      ],
+      [
+       50,
+       22
+      ],
+      [
+       60,
+       55
+      ],
+      [
+       70,
+       80
+      ],
+      [
+       80,
+       60
+      ],
+      [
+       90,
+       36
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Función rendimiento-intensidad y rollover | Lección 98 | AIHEAR Academia de Audiología",
+  "aciklama": "Cuando medimos el porcentaje de reconocimiento de palabras a varios niveles en lugar de uno solo, obtenemos la función rendimiento-intensidad. En esta lección vemos cómo se traza la curva PI-PB, las formas de curva normal, conductiva, coclear y retrococlear, cómo calcular el PBmax y el índice de rollover, y qué lugar tienen hoy estos hallazgos en la clínica.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Jerger J y Jerger S (1971), Diagnostic significance of PB word functions, Archives of Otolaryngology; Dubno et al. (1995), Confidence limits for maximum word-recognition scores, Journal of Speech and Hearing Research; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "logoaudiometria",
+   "rollover"
+  ],
+  "etiketler": [
+   "función rendimiento-intensidad",
+   "curva PI-PB",
+   "PBmax",
+   "rollover",
+   "índice de rollover",
+   "porcentaje de reconocimiento de palabras",
+   "patología retrococlear",
+   "logoaudiometría",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 98",
+   "baslik": "Función *rendimiento-intensidad* y rollover",
+   "alt": "La curva PI-PB, el PBmax y el índice de rollover",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprenderemos a trazar la función rendimiento-intensidad midiendo el reconocimiento de palabras a varios niveles.",
+    "Con ejemplos, veremos la puntuación máxima, el concepto de rollover y cómo calcular el índice de rollover."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La función PI",
+   "baslik": "La *función* rendimiento-intensidad",
+   "maddeler": [
+    {
+     "metin": "Cambio de puntuación con el _nivel de presentación_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Con palabras PB: la curva _PI-PB_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Un solo nivel puede perder _la mejor puntuación_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Puntuación máxima: _PBmax_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PI-PB",
+    "metin": "El porcentaje de reconocimiento de palabras graficado *según el nivel*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "La función rendimiento-intensidad es la curva que muestra cómo cambia la puntuación de habla con el nivel de presentación.",
+    {
+     "yazi": "Cuando se traza con listas de palabras fonéticamente balanceadas, o PB, se llama curva PI-PB."
+    },
+    "En lecciones anteriores, solíamos medir el porcentaje de reconocimiento de palabras a un solo nivel.",
+    "Pero una puntuación tomada a un solo nivel puede no ser la mejor que la persona puede alcanzar, sobre todo en las pérdidas descendentes.",
+    {
+     "yazi": "La puntuación más alta de la curva se llama PBmax; es el mejor reconocimiento de palabras que la persona alcanza con esa lista."
+    },
+    "La forma de la curva muestra si la puntuación se mantiene a niveles altos."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La función PI",
+   "baslik": "¿*Cómo* se traza la curva?",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Obtener el URP",
+     "metin": "Punto de partida",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Primer nivel",
+     "metin": "Un nivel cómodamente audible",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Subir el nivel",
+     "metin": "Pasos de 10 a 20 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Nivel máximo",
+     "metin": "Por debajo del UCL",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Enmascarar",
+     "metin": "Ruido de habla al oído opuesto",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Primero se obtiene el umbral de recepción de la palabra (URP) de cada oído; la curva se traza a niveles por encima de este umbral.",
+    "La primera lista de palabras se presenta a un nivel cómodamente audible, por ejemplo treinta a cuarenta decibeles sobre el URP.",
+    "Luego el nivel se sube en pasos de diez a veinte decibeles, con una lista nueva en cada nivel.",
+    "En cada nivel se anota el porcentaje de palabras correctas y se unen los puntos.",
+    "El nivel más alto queda por debajo del umbral de molestia (UCL); algunos estudios sugieren unos cinco decibeles por debajo del UCL.",
+    "A niveles altos, casi siempre hace falta enmascarar el oído opuesto con ruido de habla.",
+    "En la práctica, muchas clínicas toman un atajo: evalúan primero a un nivel alto y agregan niveles solo si la puntuación es baja."
+   ]
+  },
+  {
+   "id": "normal_iletim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Formas de la curva",
+   "baslik": "Curvas normal y *conductiva*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Nivel de presentación (dB HL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Reconocimiento de palabras (%)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0,
+        2
+       ],
+       [
+        10,
+        20
+       ],
+       [
+        15,
+        45
+       ],
+       [
+        20,
+        70
+       ],
+       [
+        25,
+        88
+       ],
+       [
+        30,
+        96
+       ],
+       [
+        40,
+        100
+       ],
+       [
+        100,
+        100
+       ]
+      ],
+      "renk": "yesil",
+      "yumusak": true,
+      "etiket": "normal",
+      "etiket_konum": [
+       40,
+       100
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "iletim",
+      "noktalar": [
+       [
+        40,
+        2
+       ],
+       [
+        50,
+        20
+       ],
+       [
+        55,
+        45
+       ],
+       [
+        60,
+        70
+       ],
+       [
+        65,
+        88
+       ],
+       [
+        70,
+        96
+       ],
+       [
+        80,
+        100
+       ],
+       [
+        100,
+        100
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "conductiva",
+      "etiket_konum": [
+       80,
+       100
+      ],
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kayma",
+      "x": [
+       15,
+       55
+      ],
+      "y": 45,
+      "etiket": "desplazamiento de unos 40 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal: sube rápido, llega al 100 %",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Conductiva: misma forma, desplazada a la derecha",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Con nivel suficiente, la puntuación sigue alta",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "En una persona con audición normal, la curva sube rápidamente desde justo por encima del URP.",
+    "La puntuación suele acercarse al cien por ciento unos treinta a cuarenta decibeles por encima del URP.",
+    "A niveles más altos, la puntuación se mantiene en ese máximo y la curva forma una meseta plana.",
+    "En la pérdida conductiva, la forma de la curva no cambia; solo se desplaza a la derecha, hacia niveles más altos, según el tamaño de la pérdida.",
+    "En este ejemplo, una pérdida conductiva de cuarenta decibeles desplaza la curva unos cuarenta decibeles a la derecha.",
+    "Cuando el sonido se hace lo bastante fuerte, la puntuación vuelve a acercarse al cien por ciento, porque la cóclea está intacta."
+   ]
+  },
+  {
+   "id": "koklear_retro",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Formas de la curva",
+   "baslik": "Curvas coclear y *retrococlear*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 30,
+     "max": 100,
+     "adim": 10,
+     "ad": "Nivel de presentación (dB HL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Reconocimiento de palabras (%)"
+    },
+    "seriler": [
+     {
+      "ad": "koklear",
+      "noktalar": [
+       [
+        40,
+        2
+       ],
+       [
+        50,
+        20
+       ],
+       [
+        60,
+        50
+       ],
+       [
+        70,
+        74
+       ],
+       [
+        80,
+        80
+       ],
+       [
+        90,
+        78
+       ],
+       [
+        100,
+        76
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "coclear",
+      "etiket_konum": [
+       100,
+       76
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "retrokoklear",
+      "noktalar": [
+       [
+        40,
+        2
+       ],
+       [
+        50,
+        22
+       ],
+       [
+        60,
+        55
+       ],
+       [
+        70,
+        80
+       ],
+       [
+        80,
+        60
+       ],
+       [
+        90,
+        36
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "retrococlear",
+      "etiket_konum": [
+       90,
+       36
+      ],
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "dusus",
+      "x": 90,
+      "y": 36,
+      "dus": "x",
+      "etiket": "rollover",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Coclear: máximo menor, la meseta se mantiene",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Retrococlear: caída clara a niveles altos",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Esta caída se llama _rollover_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "En la pérdida coclear, la curva se desplaza a la derecha y a menudo no llega al cien por ciento.",
+    "La puntuación máxima tiende a bajar a medida que aumenta el grado de pérdida; después del máximo, la puntuación suele mantenerse más o menos.",
+    "En las pérdidas cocleares también puede verse una ligera caída de unos pocos puntos a niveles altos.",
+    "En un problema retrococlear, más allá de la cóclea, la puntuación puede caer claramente después del máximo al subir el nivel.",
+    "Esta caída de la puntuación a niveles altos se llama rollover.",
+    "En este ejemplo, la puntuación llega a su máximo de ochenta por ciento en setenta decibeles y cae al treinta y seis por ciento en noventa decibeles.",
+    "Una caída así sugiere que el nervio auditivo no puede transmitir la información de forma constante a niveles altos."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Formas de la curva",
+   "baslik": "Cuatro curvas, *cuatro pistas*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Normal",
+     "metin": "Sube rápido, 100 %",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Conductiva",
+     "metin": "Desplazada a la derecha, máximo alto",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Coclear",
+     "metin": "El máximo puede bajar, meseta estable",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Retrococlear",
+     "metin": "Rollover claro",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La curva normal sube rápidamente y llega a una meseta cercana al cien por ciento.",
+    "En la pérdida conductiva, la curva se desplaza a la derecha, pero el máximo sigue siendo alto.",
+    "En la pérdida coclear, la curva se desplaza a la derecha, el máximo puede bajar según el grado de pérdida y se mantiene en gran parte a niveles altos.",
+    "En la patología retrococlear puede aparecer un rollover claro a niveles altos.",
+    "Estas formas son pistas; no dan un diagnóstico por sí solas y se evalúan junto con otras pruebas."
+   ]
+  },
+  {
+   "id": "indeks",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "El índice de rollover",
+   "baslik": "El *índice* de rollover",
+   "maddeler": [
+    {
+     "metin": "_PBmax_: la puntuación más alta de la curva",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_PBmin_: la menor sobre el nivel del PBmax",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Índice: diferencia dividida por el _PBmax_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Una proporción separa mejor los _grupos_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FÓRMULA",
+    "metin": "Índice de rollover = (PBmax menos PBmin) / *PBmax*",
+    "cumle": 2
+   },
+   "cumleler": [
+    {
+     "yazi": "Para calcular el índice de rollover, primero buscamos la puntuación más alta de la curva, el PBmax."
+    },
+    {
+     "yazi": "Luego buscamos la puntuación más baja en los niveles por encima del nivel donde se alcanzó el PBmax; ese es el PBmin."
+    },
+    {
+     "yazi": "El índice de rollover se obtiene dividiendo la diferencia entre ambas puntuaciones por el PBmax."
+    },
+    "El índice es un valor entre cero y uno; cero significa que no hay caída, y los valores mayores indican una caída clara.",
+    {
+     "yazi": "En 1971, Jerger y Jerger mostraron que expresar la diferencia como proporción separa mejor los grupos cocleares y retrococleares."
+    },
+    "Por ejemplo, una caída de veinte puntos es pequeña si parte del cien por ciento, pero muy grande si parte del cuarenta por ciento."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "El índice de rollover",
+   "baslik": "Un *ejemplo* resuelto",
+   "sutunlar": [
+    "Nivel (dB HL)",
+    "Puntuación (%)",
+    "Nota"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "50",
+      "22",
+      "-"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "60",
+      "55",
+      "-"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "70",
+      "80",
+      "PBmax"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "80",
+      "60",
+      "-"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "90",
+      "36",
+      "PBmin"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Índice",
+      "0,55",
+      "Sobre el criterio"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Veamos un ejemplo: aquí la puntuación es del veintidós por ciento en cincuenta decibeles y del cincuenta y cinco por ciento en sesenta.",
+    {
+     "yazi": "En setenta decibeles la puntuación sube al ochenta por ciento; es el máximo de la curva, el PBmax."
+    },
+    {
+     "yazi": "En ochenta decibeles la puntuación baja al sesenta por ciento, y en noventa, al treinta y seis por ciento; el PBmin es treinta y seis."
+    },
+    "El cálculo: ochenta menos treinta y seis es cuarenta y cuatro; cuarenta y cuatro dividido por ochenta es cero coma cincuenta y cinco.",
+    "El índice de rollover es cero coma cincuenta y cinco.",
+    "Este valor supera el criterio de cero coma cuarenta y cinco propuesto para las listas que usaron Jerger y Jerger.",
+    "Por eso, este ejemplo se informa como un hallazgo que puede requerir una evaluación adicional por patología retrococlear."
+   ]
+  },
+  {
+   "id": "karsi",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 3",
+   "bolum": "El índice de rollover",
+   "baslik": "Dos ejemplos *lado a lado*",
+   "sol": {
+    "ust": "Ejemplo 1",
+    "maddeler": [
+     {
+      "metin": "PBmax _80_, PBmin _36_",
+      "cumle": 0
+     },
+     {
+      "metin": "Índice: _0,55_",
+      "cumle": 0
+     },
+     {
+      "metin": "_Sobre_ el criterio: evaluación adicional",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Ejemplo 2",
+    "maddeler": [
+     {
+      "metin": "PBmax _80_, PBmin _72_",
+      "cumle": 2
+     },
+     {
+      "metin": "Índice: _0,10_",
+      "cumle": 3
+     },
+     {
+      "metin": "Caída leve _compatible_ con pérdida coclear",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En el primer ejemplo, el PBmax es ochenta, el PBmin treinta y seis y el índice, cero coma cincuenta y cinco."
+    },
+    "Como este valor supera el criterio, el hallazgo requiere atención.",
+    "En el segundo ejemplo, el máximo vuelve a ser del ochenta por ciento, pero la puntuación al nivel más alto es del setenta y dos por ciento.",
+    "Esta vez la diferencia es de ocho puntos; el índice es cero coma diez.",
+    "Una caída tan pequeña también puede verse en las pérdidas cocleares y no se considera significativa por sí sola.",
+    "Aunque la puntuación máxima es la misma en ambos ejemplos, el comportamiento a niveles altos es completamente distinto."
+   ]
+  },
+  {
+   "id": "olcut",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "El índice de rollover",
+   "baslik": "Usar el criterio *correctamente*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Criterio de 0,45",
+     "metin": "Jerger y Jerger, 1971",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Depende de la lista",
+     "metin": "Otras listas, otros criterios",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Listas cortas",
+     "metin": "Más variabilidad de la puntuación",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sensibilidad limitada",
+     "metin": "Un índice normal no descarta",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El criterio de cero coma cuarenta y cinco se propuso para las listas de palabras usadas en el estudio de Jerger y Jerger.",
+    "Para otras listas se han propuesto criterios distintos, a veces más bajos, así que el criterio debe corresponder a la lista de la clínica.",
+    "Con listas cortas de veinticinco palabras, la variabilidad aleatoria de la puntuación es grande, y esto afecta al índice.",
+    "Además, el rollover no aparece en toda patología retrococlear; un índice normal no descarta esta posibilidad.",
+    "Por eso, el índice de rollover no se interpreta solo, sino como parte de la batería de pruebas."
+   ]
+  },
+  {
+   "id": "orantisiz",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso clínico",
+   "baslik": "Una puntuación desproporcionadamente *baja*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: pérdida leve a moderada",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: audición normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_PBmax derecho_: 40 %",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       40,
+       40,
+       45,
+       50,
+       55
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "El segundo aporte clave de la curva rendimiento-intensidad es mostrar si la puntuación máxima es la esperada para el grado de pérdida.",
+    "En este ejemplo, el oído derecho tiene una pérdida leve a moderada, pero la puntuación máxima medida a varios niveles es solo del cuarenta por ciento.",
+    "Con una pérdida coclear de este grado, se suele esperar una puntuación máxima mucho mejor.",
+    {
+     "yazi": "En 1995, Dubno y colaboradores publicaron límites de confianza para el PBmax mínimo esperado según el promedio de tonos puros."
+    },
+    "Si la puntuación queda por debajo de estos límites, se considera desproporcionadamente baja.",
+    "Una puntuación desproporcionadamente baja, sobre todo en un solo oído, es un hallazgo que debe comunicarse al médico."
+   ]
+  },
+  {
+   "id": "bugun",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso clínico",
+   "baslik": "¿*Qué lugar* tiene hoy?",
+   "maddeler": [
+    {
+     "metin": "Las pruebas topodiagnósticas dan _pistas_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "La decisión de imágenes es _del médico_",
+     "cumle": 1,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Se interpreta _junto_ con PEATC y reflejos",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "PBmax: útil en la _orientación sobre audífonos_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "BATERÍA",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Curva PI-PB",
+      "metin": "Rollover, puntuación desproporcionada",
+      "cumle": 2
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Reflejo acústico",
+      "metin": "Umbral y deterioro",
+      "cumle": 2
+     },
+     {
+      "ikon": "beyin",
+      "baslik": "PEATC",
+      "metin": "Latencias de las ondas",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Hallazgos como el rollover y una puntuación desproporcionadamente baja forman parte de las pruebas topodiagnósticas clásicas y dan pistas.",
+    "Hoy, las imágenes son decisivas para demostrar una patología retrococlear; esta decisión corresponde al médico.",
+    "Los hallazgos de habla se interpretan junto con pruebas como los reflejos acústicos y los potenciales evocados auditivos de tronco cerebral (PEATC).",
+    {
+     "yazi": "El PBmax también es valioso más allá del topodiagnóstico; ayuda a hablar con realismo del beneficio esperado de los audífonos."
+    },
+    "En resumen, la curva muestra de un vistazo tanto el mejor rendimiento del oído como su comportamiento a niveles altos."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Siempre se enmascara el oído opuesto a niveles altos. Un mejor oído sin enmascarar puede subir la puntuación a nivel alto y ocultar un rollover real.",
+   "cumleler": [
+    "El error más frecuente con la curva rendimiento-intensidad es omitir el enmascaramiento a niveles altos.",
+    "Al subir el nivel de presentación, el habla puede pasar al oído opuesto, y el mejor oído puede reconocer las palabras.",
+    "Entonces la puntuación a nivel alto del oído evaluado parece mejor de lo que es, y un rollover real puede quedar oculto.",
+    "Por eso, en cada nivel alto, den suficiente ruido de habla al oído opuesto y anoten el nivel de ruido."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "PI-PB: puntuación graficada _según el nivel_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La conductiva se desplaza; la coclear, _máximo menor_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Índice: _(PBmax menos PBmin) / PBmax_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "El _enmascaramiento_ es esencial a niveles altos",
+     "cumle": 3,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "La función rendimiento-intensidad muestra cómo cambia el porcentaje de reconocimiento de palabras con el nivel de presentación.",
+    "En la pérdida conductiva la curva se desplaza a la derecha; en la coclear el máximo puede bajar; en la retrococlear puede haber un rollover claro.",
+    {
+     "yazi": "El índice de rollover es el PBmax menos el PBmin, dividido por el PBmax, y se interpreta con un criterio adecuado a la lista."
+    },
+    "Enmascarar el oído opuesto a niveles altos es esencial para obtener una curva exacta."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "PBmax 90 %, PBmin 45 %. ¿Cuál es el índice de rollover?",
+   "secenekler": [
+    "0,45",
+    "0,50",
+    "0,55",
+    "0,90"
+   ],
+   "dogru": 1,
+   "aciklama": "90 menos 45 es 45; 45 dividido por 90 es _0,50_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: el PBmax es del noventa por ciento y el PBmin del cuarenta y cinco por ciento. ¿Cuál es el índice de rollover?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: cero coma cincuenta.",
+    "Noventa menos cuarenta y cinco es cuarenta y cinco; cuarenta y cinco dividido por noventa es cero coma cincuenta."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Pruebas de *habla en ruido*: QuickSIN, HINT y Matrix",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "En la próxima lección veremos pruebas de habla en ruido como el QuickSIN, el HINT y las pruebas de matriz."
+    },
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

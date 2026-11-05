@@ -1,0 +1,124 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R203_A_Fake_Notch_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #203",
+  "baslik": "Una muesca *falsa*",
+  "alt": "Los errores de calibración crean hallazgos falsos",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      15,
+      15,
+      25,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Un audiómetro defectuoso puede dibujar una pérdida auditiva falsa? #shorts",
+  "aciklama": "En este ejemplo, la salida del auricular en 4000 Hz es 10 dB más baja de lo debido, así que el umbral de una persona con audición normal se mide 10 dB peor. El resultado es una muesca falsa que sugiere una pérdida inducida por ruido, y el mismo error se repite en cada paciente evaluado con ese equipo.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audiometria",
+   "calibracion"
+  ],
+  "etiketler": [
+   "calibración del audiómetro",
+   "calibración",
+   "ISO 389",
+   "IEC 60645",
+   "oído artificial",
+   "acoplador",
+   "audiometría tonal",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Un audiómetro defectuoso puede dibujar una pérdida auditiva falsa?",
+  "bilgiler": [
+   "Aquí, la salida en 4000 Hz es 10 dB más baja de lo debido.",
+   "Un oído normal muestra una muesca falsa que sugiere pérdida por ruido.",
+   "Los controles diarios y la calibración periódica lo detectan a tiempo."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audiometria",
+   "calibracion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #203",
+   "metin": "¿Un audiómetro puede dibujar una *pérdida falsa?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Un audiómetro defectuoso puede dibujar una pérdida auditiva falsa?"
+   ]
+  },
+  {
+   "id": "centik",
+   "tur": "zincir",
+   "baslik": "Una muesca *falsa*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "4000 Hz",
+     "tr": "10 dB más baja",
+     "cumle": 0
+    },
+    {
+     "ad": "Umbral",
+     "tr": "10 dB peor",
+     "cumle": 1
+    },
+    {
+     "ad": "Muesca",
+     "tr": "hallazgo falso",
+     "cumle": 2
+    }
+   ],
+   "alt": "Falla _del equipo, no del oído_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Aquí, la salida del auricular en cuatro mil hertz es diez decibeles más baja.",
+    "Por eso, el umbral de un oído normal en esa frecuencia se mide diez decibeles peor.",
+    "El resultado es una muesca falsa que sugiere una pérdida inducida por ruido.",
+    "El mismo error se repite en cada paciente evaluado con ese equipo.",
+    "Los controles diarios y la calibración periódica detectan a tiempo este tipo de error."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D113",
+ "kaynak_baslik": "Calibración del audiómetro: por qué y cómo"
+}

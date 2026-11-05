@@ -1,0 +1,1391 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D112_Wideband_Immittance_Absorbance_ES",
+ "kapak": {
+  "ust": "LECCIÓN 112",
+  "baslik": "Absorbancia<br>*de banda ancha*",
+  "alt": "Inmitancia acústica de banda ancha",
+  "cizim": "kulak_kesit",
+  "ayar": {
+   "prob": "timpanometri"
+  }
+ },
+ "youtube": {
+  "baslik": "Inmitancia acústica de banda ancha y absorbancia | Lección 112 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo medimos el oído medio en un amplio rango de frecuencias en lugar de con un solo tono? En esta lección vemos la inmitancia acústica de banda ancha, la reflectancia de energía y la absorbancia, la curva normal de absorbancia, la timpanometría de banda ancha, los patrones de la efusión, la otosclerosis y la disrupción de la cadena osicular, y su uso en lactantes.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Feeney et al. (2013), Consensus statement: Eriksholm workshop on wideband absorbance measures of the middle ear, Ear and Hearing; Keefe, Ling and Bulen (1992), Method to measure acoustic impedance and reflection coefficient, Journal of the Acoustical Society of America; Feeney, Grant and Marryott (2003), Wideband energy reflectance measurements in adults with middle-ear disorders, Journal of Speech, Language, and Hearing Research; Shahnaz et al. (2009), Energy reflectance and tympanometry in normal and otosclerotic ears, Ear and Hearing; Hunter and Shahnaz, Acoustic Immittance Measures: Basic and Advanced Practice.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "inmitancia",
+   "absorbancia"
+  ],
+  "etiketler": [
+   "inmitancia acústica de banda ancha",
+   "WAI",
+   "absorbancia",
+   "reflectancia de energía",
+   "timpanometría de banda ancha",
+   "WBT",
+   "oído medio",
+   "otitis media con efusión",
+   "oído medio del lactante",
+   "impedanciometría",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 112",
+   "baslik": "Inmitancia de banda ancha y *absorbancia*",
+   "alt": "Medir el oído medio en un amplio rango de frecuencias",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conocemos la inmitancia acústica de banda ancha, que mide el oído medio en un amplio rango de frecuencias a la vez.",
+    "Veremos el concepto de absorbancia, la curva normal, la timpanometría de banda ancha y los patrones típicos en las patologías del oído medio."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Hacia la banda ancha",
+   "baslik": "De un tono a la *banda ancha*",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Rutina",
+     "metin": "Un solo tono: 226 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Multifrecuencia",
+     "metin": "Hasta unos 2000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Banda ancha",
+     "metin": "De 226 a 8000 Hz",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Estímulo",
+     "metin": "Clic o chirp",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La timpanometría de rutina examina el oído medio en una sola frecuencia, y la multifrecuencia hasta unos dos kilohertz.",
+    "Sin embargo, el oído medio transmite el sonido en un rango de frecuencias mucho más amplio, que es importante para el habla.",
+    "La inmitancia acústica de banda ancha, o WAI, mide el oído medio desde doscientos veintiséis hasta ocho mil hertz.",
+    "En lugar de tonos individuales, la medición usa un estímulo breve de banda ancha, clic o chirp, y dura unos pocos segundos.",
+    "Las bases clínicas del método fueron establecidas por Keefe y colaboradores en la década de mil novecientos noventa.",
+    "WAI es un término general; abarca muchas medidas, como la reflectancia de energía, la absorbancia, la impedancia y la admitancia."
+   ]
+  },
+  {
+   "id": "yansima",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Hacia la banda ancha",
+   "baslik": "Sonido reflejado y *absorbido*",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   },
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.9
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ses_dalgasi",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "timpanik_membran",
+     "metin": "Una parte entra, otra vuelve",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "Micrófono: sonido incidente y reflejado",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Reflectancia: fracción de potencia _devuelta_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Absorbancia: fracción de potencia _absorbida_",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Absorbancia = _1 menos reflectancia_",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "La sonda envía un sonido de banda ancha al conducto auditivo, y este sonido llega a la membrana timpánica.",
+    "Una parte del sonido atraviesa el tímpano hacia el oído medio y la cóclea, y otra parte se refleja de vuelta al conducto auditivo.",
+    "El micrófono de la sonda registra juntos el sonido incidente y el reflejado.",
+    "En cada frecuencia, la razón entre la potencia reflejada y la potencia incidente se llama reflectancia de energía.",
+    "La proporción de potencia que no se refleja, es decir, que pasa al oído medio, se llama absorbancia.",
+    "Ambas suman uno; la absorbancia es uno menos la reflectancia de energía.",
+    "Si la absorbancia es uno, todo el sonido es absorbido; si es cero, todo se refleja."
+   ]
+  },
+  {
+   "id": "normal_egri",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Hacia la banda ancha",
+   "baslik": "La curva normal de *absorbancia*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 226,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ond": 1,
+     "ad": "Absorbancia"
+    },
+    "seriler": [
+     {
+      "ad": "norm_alt",
+      "noktalar": [
+       [
+        250,
+        0.02
+       ],
+       [
+        500,
+        0.18
+       ],
+       [
+        750,
+        0.33
+       ],
+       [
+        1000,
+        0.43
+       ],
+       [
+        1500,
+        0.53
+       ],
+       [
+        2000,
+        0.6
+       ],
+       [
+        3000,
+        0.63
+       ],
+       [
+        4000,
+        0.56
+       ],
+       [
+        6000,
+        0.28
+       ],
+       [
+        8000,
+        0.13
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 5
+     },
+     {
+      "ad": "norm_ust",
+      "noktalar": [
+       [
+        250,
+        0.26
+       ],
+       [
+        500,
+        0.44
+       ],
+       [
+        750,
+        0.59
+       ],
+       [
+        1000,
+        0.69
+       ],
+       [
+        1500,
+        0.79
+       ],
+       [
+        2000,
+        0.86
+       ],
+       [
+        3000,
+        0.89
+       ],
+       [
+        4000,
+        0.82
+       ],
+       [
+        6000,
+        0.54
+       ],
+       [
+        8000,
+        0.39
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 5
+     },
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        250,
+        0.12
+       ],
+       [
+        500,
+        0.3
+       ],
+       [
+        750,
+        0.45
+       ],
+       [
+        1000,
+        0.55
+       ],
+       [
+        1500,
+        0.65
+       ],
+       [
+        2000,
+        0.72
+       ],
+       [
+        3000,
+        0.75
+       ],
+       [
+        4000,
+        0.68
+       ],
+       [
+        6000,
+        0.4
+       ],
+       [
+        8000,
+        0.25
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 1,
+      "etiket": "adulto normal",
+      "etiket_konum": [
+       3000,
+       0.75
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -16,
+      "etiket_hiza": "middle"
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "en_yuksek",
+      "x": [
+       1000,
+       4000
+      ],
+      "renk": "sari",
+      "etiket": "entra la mayor parte de la energía",
+      "cumle": 2,
+      "opak": 0.15
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "normal",
+     "cumle": 1
+    },
+    {
+     "parca": "en_yuksek",
+     "cumle": 3
+    },
+    {
+     "parca": "norm_alt",
+     "cumle": 5
+    },
+    {
+     "parca": "norm_ust",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El resultado se muestra como una curva con la frecuencia en el eje horizontal y la absorbancia, de cero a uno, en el eje vertical.",
+    "En un oído adulto normal, la absorbancia es baja en las frecuencias bajas; la mayor parte del sonido se refleja.",
+    "La absorbancia sube a partir de un kilohertz, aproximadamente, y alcanza sus valores más altos entre uno y cuatro kilohertz.",
+    "En esta región, la mayor parte de la energía entrante pasa al oído medio; no es casual que coincida con las frecuencias más sensibles del oído.",
+    "En las frecuencias más altas, la absorbancia vuelve a bajar.",
+    "Las líneas grises discontinuas muestran el rango normal; las curvas son representativas, y las normas varían según el equipo, la edad y la población.",
+    "La lógica básica de la interpretación es ver dónde cae la curva del paciente respecto de este rango normal."
+   ]
+  },
+  {
+   "id": "avantaj",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Hacia la banda ancha",
+   "baslik": "*Ventajas* de la banda ancha",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Rango amplio",
+     "metin": "Frecuencias del habla",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Sin presurizar",
+     "metin": "A presión ambiental",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Posición de la sonda",
+     "metin": "Menos sensible",
+     "cumle": 3
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Rápida, pasiva",
+     "metin": "Apta para lactantes",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Información extra",
+     "metin": "Timpanograma, resonancia",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La medición de banda ancha tiene varias ventajas importantes.",
+    "Aporta información en un rango amplio que cubre la mayoría de las frecuencias del habla.",
+    "Puede hacerse a presión ambiental, sin presurizar el conducto auditivo; esto ayuda cuando no conviene aplicar presión.",
+    "La absorbancia se ve menos afectada que la presión sonora por las ondas estacionarias del conducto, así que es menos sensible a la posición de la sonda.",
+    "La medición es rápida y no requiere respuesta del paciente; también es apta para lactantes y niños pequeños.",
+    "De la misma medición puede obtenerse información adicional, como la timpanometría de banda ancha y la frecuencia de resonancia."
+   ]
+  },
+  {
+   "id": "wbt",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Timpanometría de banda ancha",
+   "baslik": "Presión ambiental y *presión del pico*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 226,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ond": 1,
+     "ad": "Absorbancia"
+    },
+    "seriler": [
+     {
+      "ad": "ortam",
+      "noktalar": [
+       [
+        250,
+        0.06
+       ],
+       [
+        500,
+        0.12
+       ],
+       [
+        750,
+        0.2
+       ],
+       [
+        1000,
+        0.28
+       ],
+       [
+        1500,
+        0.42
+       ],
+       [
+        2000,
+        0.6
+       ],
+       [
+        3000,
+        0.72
+       ],
+       [
+        4000,
+        0.66
+       ],
+       [
+        6000,
+        0.4
+       ],
+       [
+        8000,
+        0.25
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "kalin": 4,
+      "yumusak": true,
+      "cumle": 3,
+      "etiket": "a presión ambiental",
+      "etiket_konum": [
+       1000,
+       0.28
+      ],
+      "etiket_dx": 12,
+      "etiket_dy": 24
+     },
+     {
+      "ad": "tepe",
+      "noktalar": [
+       [
+        250,
+        0.11
+       ],
+       [
+        500,
+        0.27
+       ],
+       [
+        750,
+        0.42
+       ],
+       [
+        1000,
+        0.53
+       ],
+       [
+        1500,
+        0.63
+       ],
+       [
+        2000,
+        0.7
+       ],
+       [
+        3000,
+        0.74
+       ],
+       [
+        4000,
+        0.67
+       ],
+       [
+        6000,
+        0.4
+       ],
+       [
+        8000,
+        0.25
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 3,
+      "etiket": "a presión del pico",
+      "etiket_konum": [
+       750,
+       0.42
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -14,
+      "etiket_hiza": "end"
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ortam",
+     "cumle": 2
+    },
+    {
+     "parca": "tepe",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La medición de banda ancha también puede combinarse con un barrido de presión; esto se llama timpanometría de banda ancha, o WBT.",
+    {
+     "yazi": "En cada paso de presión, se mide la absorbancia en todas las frecuencias; el resultado es una superficie tridimensional de frecuencia, presión y absorbancia."
+    },
+    "De esta superficie se toman dos cortes prácticos: la absorbancia a presión ambiental y la absorbancia a la presión del pico timpanométrico.",
+    "Este ejemplo tiene presión negativa en el oído medio; la curva a presión del pico es claramente más alta que la curva a presión ambiental.",
+    "Algunos equipos también trazan una curva parecida a un timpanograma clásico, con la absorbancia promedio en un rango de frecuencias fijo.",
+    "La frecuencia de resonancia del oído medio también puede estimarse a partir de la misma medición."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Timpanometría de banda ancha",
+   "baslik": "*Pasos* de la medición",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia",
+     "metin": "Cerumen, perforación, tubo",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Colocar la sonda",
+     "metin": "Control de fugas",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Presión ambiental",
+     "metin": "Curva de absorbancia",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Barrido de presión",
+     "metin": "WBT si hace falta",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Comparar",
+     "metin": "Normas según la edad",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La medición de banda ancha también sigue un orden fijo.",
+    "Primero se revisan el conducto auditivo y el tímpano con otoscopia; se anota si hay cerumen, una perforación o un tubo.",
+    "Se elige una oliva del tamaño adecuado para el conducto, y la pantalla de control del equipo confirma que no hay fugas.",
+    "Luego se registra la curva de absorbancia a presión ambiental; esto toma unos segundos.",
+    "Si hace falta, se realiza un barrido de presión para obtener la curva a presión del pico y el timpanograma de banda ancha.",
+    "Por último, la curva se compara con las normas del mismo equipo y de la misma edad."
+   ]
+  },
+  {
+   "id": "efuzyon",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Absorbancia en patologías",
+   "baslik": "*Líquido* en el oído medio",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 226,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ond": 1,
+     "ad": "Absorbancia"
+    },
+    "seriler": [
+     {
+      "ad": "norm_alt",
+      "noktalar": [
+       [
+        250,
+        0.02
+       ],
+       [
+        500,
+        0.18
+       ],
+       [
+        750,
+        0.33
+       ],
+       [
+        1000,
+        0.43
+       ],
+       [
+        1500,
+        0.53
+       ],
+       [
+        2000,
+        0.6
+       ],
+       [
+        3000,
+        0.63
+       ],
+       [
+        4000,
+        0.56
+       ],
+       [
+        6000,
+        0.28
+       ],
+       [
+        8000,
+        0.13
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 0
+     },
+     {
+      "ad": "norm_ust",
+      "noktalar": [
+       [
+        250,
+        0.26
+       ],
+       [
+        500,
+        0.44
+       ],
+       [
+        750,
+        0.59
+       ],
+       [
+        1000,
+        0.69
+       ],
+       [
+        1500,
+        0.79
+       ],
+       [
+        2000,
+        0.86
+       ],
+       [
+        3000,
+        0.89
+       ],
+       [
+        4000,
+        0.82
+       ],
+       [
+        6000,
+        0.54
+       ],
+       [
+        8000,
+        0.39
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 0
+     },
+     {
+      "ad": "efuzyon",
+      "noktalar": [
+       [
+        250,
+        0.04
+       ],
+       [
+        500,
+        0.06
+       ],
+       [
+        750,
+        0.08
+       ],
+       [
+        1000,
+        0.1
+       ],
+       [
+        1500,
+        0.12
+       ],
+       [
+        2000,
+        0.14
+       ],
+       [
+        3000,
+        0.15
+       ],
+       [
+        4000,
+        0.12
+       ],
+       [
+        6000,
+        0.08
+       ],
+       [
+        8000,
+        0.06
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 1,
+      "etiket": "efusión",
+      "etiket_konum": [
+       3000,
+       0.15
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -14,
+      "etiket_hiza": "middle"
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "efuzyon",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Cuando hay líquido en el oído medio, el movimiento del tímpano se restringe y la mayor parte del sonido se refleja.",
+    "Por eso, en un oído con efusión, la absorbancia es claramente baja en casi todas las frecuencias.",
+    "Cuanto más líquido hay, más baja es la absorbancia; con líquido parcial, la caída puede ser más limitada.",
+    "Los estudios sugieren que la absorbancia de banda ancha puede detectar la efusión igual o mejor que la timpanometría de doscientos veintiséis hertz.",
+    "Esto es especialmente valioso en lactantes y niños pequeños.",
+    "Las curvas del gráfico son representativas."
+   ]
+  },
+  {
+   "id": "skleroz_kopukluk",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Absorbancia en patologías",
+   "baslik": "Patrones de rigidez y *disrupción*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 226,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ond": 1,
+     "ad": "Absorbancia"
+    },
+    "seriler": [
+     {
+      "ad": "norm_alt",
+      "noktalar": [
+       [
+        250,
+        0.02
+       ],
+       [
+        500,
+        0.18
+       ],
+       [
+        750,
+        0.33
+       ],
+       [
+        1000,
+        0.43
+       ],
+       [
+        1500,
+        0.53
+       ],
+       [
+        2000,
+        0.6
+       ],
+       [
+        3000,
+        0.63
+       ],
+       [
+        4000,
+        0.56
+       ],
+       [
+        6000,
+        0.28
+       ],
+       [
+        8000,
+        0.13
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 0
+     },
+     {
+      "ad": "norm_ust",
+      "noktalar": [
+       [
+        250,
+        0.26
+       ],
+       [
+        500,
+        0.44
+       ],
+       [
+        750,
+        0.59
+       ],
+       [
+        1000,
+        0.69
+       ],
+       [
+        1500,
+        0.79
+       ],
+       [
+        2000,
+        0.86
+       ],
+       [
+        3000,
+        0.89
+       ],
+       [
+        4000,
+        0.82
+       ],
+       [
+        6000,
+        0.54
+       ],
+       [
+        8000,
+        0.39
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 0
+     },
+     {
+      "ad": "otoskleroz",
+      "noktalar": [
+       [
+        250,
+        0.04
+       ],
+       [
+        500,
+        0.1
+       ],
+       [
+        750,
+        0.2
+       ],
+       [
+        1000,
+        0.3
+       ],
+       [
+        1500,
+        0.48
+       ],
+       [
+        2000,
+        0.62
+       ],
+       [
+        3000,
+        0.72
+       ],
+       [
+        4000,
+        0.66
+       ],
+       [
+        6000,
+        0.38
+       ],
+       [
+        8000,
+        0.24
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 1,
+      "etiket": "otosclerosis",
+      "etiket_konum": [
+       750,
+       0.2
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": 24
+     },
+     {
+      "ad": "kopukluk",
+      "noktalar": [
+       [
+        250,
+        0.35
+       ],
+       [
+        500,
+        0.75
+       ],
+       [
+        600,
+        0.88
+       ],
+       [
+        700,
+        0.8
+       ],
+       [
+        800,
+        0.55
+       ],
+       [
+        1000,
+        0.5
+       ],
+       [
+        1500,
+        0.6
+       ],
+       [
+        2000,
+        0.66
+       ],
+       [
+        3000,
+        0.7
+       ],
+       [
+        4000,
+        0.64
+       ],
+       [
+        6000,
+        0.38
+       ],
+       [
+        8000,
+        0.22
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 3,
+      "etiket": "disrupción osicular",
+      "etiket_konum": [
+       600,
+       0.88
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -12,
+      "etiket_hiza": "end"
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "pes_bolge",
+      "x": [
+       226,
+       1000
+      ],
+      "renk": "sari",
+      "etiket": "bajo 1 kHz",
+      "cumle": 1,
+      "opak": 0.12
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "otoskleroz",
+     "cumle": 1
+    },
+    {
+     "parca": "kopukluk",
+     "cumle": 3
+    },
+    {
+     "parca": "pes_bolge",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la otosclerosis, la fijación de la platina del estribo vuelve más rígido el sistema.",
+    "En este caso, la absorbancia baja, sobre todo en las frecuencias bajas y medias, por debajo de un kilohertz, aproximadamente.",
+    "En la disrupción de la cadena osicular el cuadro se invierte: el sistema se vuelve más laxo y la absorbancia sube en las frecuencias bajas.",
+    "Con la disrupción, a menudo se ve un pico de absorbancia claro y estrecho por debajo de un kilohertz, aproximadamente.",
+    "Estos patrones pueden ayudar a separar ambas condiciones cuando sus timpanogramas de doscientos veintiséis hertz se parecen.",
+    "La absorbancia también sube en las frecuencias bajas con una perforación, pero en ese caso el volumen del conducto auditivo es mayor de lo esperado.",
+    "Los patrones se superponen; la absorbancia siempre se interpreta junto con la otoscopia, el audiograma y los hallazgos del reflejo."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Absorbancia en patologías",
+   "baslik": "Otras condiciones que *cambian* la curva",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Presión negativa",
+     "metin": "Se corrige a presión del pico",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Fuga",
+     "metin": "Absorbancia falsamente alta en graves",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Colocación de la sonda",
+     "metin": "Verificar primero",
+     "cumle": 3
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Cerumen, detritos",
+     "metin": "Primero la otoscopia",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Algunas condiciones más cambian la curva de absorbancia.",
+    "Con presión negativa en el oído medio, la absorbancia a presión ambiental baja en frecuencias bajas y medias; medida a presión del pico, se recupera.",
+    "Una sonda mal colocada y una fuga de aire dan una absorbancia falsamente alta en las frecuencias bajas, que puede imitar una disrupción.",
+    "Por eso es importante verificar la colocación de la sonda y las fugas antes de la medición.",
+    "El cerumen o los detritos que obstruyen el conducto auditivo también arruinan la medición, así que la otoscopia va primero."
+   ]
+  },
+  {
+   "id": "bebek",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Lactantes y clínica",
+   "baslik": "*Banda ancha* en lactantes",
+   "maddeler": [
+    {
+     "metin": "El conducto del recién nacido es _distensible_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Vérnix o _líquido amniótico_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Ayuda a _separar_ problemas conductivos transitorios",
+     "cumle": 3,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Normas _según la edad_",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "BEBÉ QUE NO PASÓ",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "Problema transitorio",
+      "metin": "Absorbancia baja",
+      "cumle": 3
+     },
+     {
+      "ikon": "noron",
+      "baslik": "Neurosensorial",
+      "metin": "Absorbancia quizá normal",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "La medición de banda ancha es un método especialmente prometedor en lactantes.",
+    "Como el conducto auditivo del recién nacido es blando y distensible, la timpanometría de doscientos veintiséis hertz puede ser engañosa.",
+    "En los primeros días después del nacimiento, puede haber vérnix en el conducto auditivo y restos de líquido amniótico en el oído medio.",
+    "En un bebé que no pasó el tamizaje, se ha demostrado que la absorbancia de banda ancha ayuda a identificar estos problemas conductivos transitorios.",
+    "Las normas del lactante difieren de las del adulto y cambian rápido en los primeros meses, por lo que se usan normas según la edad.",
+    "El uso clínico en este campo está creciendo, pero los criterios estándar aún no están del todo establecidos."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Lactantes y clínica",
+   "baslik": "*Limitaciones* del método",
+   "ogeler": [
+    {
+     "ikon": "tablo",
+     "baslik": "Normas distintas",
+     "metin": "Equipo, edad, población",
+     "cumle": 1
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Acceso",
+     "metin": "No está en todas las clínicas",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Sellado",
+     "metin": "Buena colocación, imprescindible",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Prueba complementaria",
+     "metin": "No reemplaza la timpanometría",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La medición de banda ancha también tiene limitaciones.",
+    "Las normas varían según el equipo, la edad y la población; los resultados de equipos distintos no pueden compararse directamente.",
+    "Los equipos todavía no están disponibles en todas las clínicas, y la interpretación requiere experiencia.",
+    "La medición depende de una buena colocación de la sonda y de un sellado sin fugas.",
+    "Por eso, por ahora la inmitancia de banda ancha no reemplaza la timpanometría de rutina; es una prueba complementaria."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si ven una absorbancia inesperadamente alta en frecuencias bajas, piensen primero en una fuga: recoloquen la sonda y vuelvan a medir; luego revisen el volumen y el tímpano.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo de la clínica: cuando vean una absorbancia inesperadamente alta en las frecuencias bajas, piensen primero en una fuga.",
+    "Recoloquen la sonda y repitan la medición; si la curva cambia, lo más probable es que el primer resultado se debiera a una fuga.",
+    "Descarten una perforación o un tubo revisando el volumen del conducto auditivo y la otoscopia.",
+    "Solo entonces pasen a considerar una condición como la disrupción de la cadena osicular."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Absorbancia = _1 menos reflectancia de energía_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Normalmente máxima: _de 1 a 4 kHz_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "En graves: efusión _baja_, disrupción _sube_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Atención_ a fugas y normas",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La inmitancia de banda ancha mide el oído medio desde unos doscientos veintiséis hasta ocho mil hertz; la absorbancia es uno menos la reflectancia.",
+    "En un adulto normal, la absorbancia es baja en las frecuencias bajas y alcanza sus valores más altos entre uno y cuatro kilohertz.",
+    "La efusión baja la absorbancia en general; la otosclerosis la baja en las frecuencias bajas, mientras que la disrupción osicular la sube allí.",
+    "El resultado se interpreta con normas según la edad y el equipo, tras descartar fugas, y junto con otras pruebas."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Si la absorbancia es 0,8, ¿cuál es la reflectancia de energía?",
+   "secenekler": [
+    "0,2",
+    "0,8",
+    "1,8",
+    "0,08"
+   ],
+   "dogru": 0,
+   "aciklama": "La absorbancia y la reflectancia _suman uno_: 1 menos 0,8 = 0,2.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si la absorbancia en una frecuencia es cero coma ocho, ¿cuál es la reflectancia de energía?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: cero coma dos.",
+    "Si el ochenta por ciento de la potencia pasa al oído medio, el veinte por ciento restante se refleja de vuelta al conducto auditivo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Calibración del audiómetro: por qué y *cómo*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección volvemos a los equipos de prueba y veremos por qué y cómo se calibran los audiómetros.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

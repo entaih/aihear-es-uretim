@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R190_Uncomfortable_Not_Painful_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #190",
+  "baslik": "Molesto, *no doloroso*",
+  "alt": "Las instrucciones en la prueba de UCL",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿El umbral de molestia es lo mismo que un nivel doloroso? #shorts",
+  "aciklama": "En la medición del umbral de molestia (UCL), las instrucciones son lo que más influye en el resultado: el nivel de molestia no es un nivel doloroso, sino uno que el paciente no querría escuchar durante mucho tiempo. La prueba Contour tiene siete categorías, y el primer nivel que llega a la categoría siete se toma como UCL.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audicion",
+   "audiometria"
+  ],
+  "etiketler": [
+   "UCL",
+   "MCL",
+   "prueba Contour",
+   "umbral de molestia",
+   "sonoridad",
+   "rango dinámico",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿El umbral de molestia es lo mismo que un nivel doloroso?",
+  "bilgiler": [
+   "El nivel de molestia no es un nivel doloroso.",
+   "La pregunta correcta: ¿qué nivel no escucharías durante mucho tiempo?",
+   "En la prueba Contour, el primer nivel que llega a la categoría siete es el UCL."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audicion",
+   "audiometria"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #190",
+   "metin": "¿Sonido molesto es *sonido doloroso?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿El umbral de molestia es lo mismo que un nivel doloroso?"
+   ]
+  },
+  {
+   "id": "talimat",
+   "tur": "zincir",
+   "baslik": "Las instrucciones *definen* el UCL",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Confort",
+     "tr": "categoría 4: MCL",
+     "cumle": 1
+    },
+    {
+     "ad": "Fuerte",
+     "tr": "categoría 7: UCL",
+     "cumle": 2
+    },
+    {
+     "ad": "Consigna",
+     "tr": "no es dolor",
+     "cumle": 3
+    }
+   ],
+   "alt": "Pregunta correcta: un nivel que _no escucharía mucho tiempo_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "El umbral de molestia, o UCL, es el nivel en que el sonido se vuelve incómodamente fuerte.",
+    "La prueba Contour tiene siete categorías; la cuarta es la cómoda.",
+    "El primer nivel que llega a la categoría siete se toma como UCL.",
+    "Molesto no es doloroso; explícalo con claridad al paciente.",
+    "Preguntar por dolor da valores demasiado altos; por algo un poco fuerte, demasiado bajos."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D101",
+ "kaynak_baslik": "Nivel de máximo confort y umbral de molestia"
+}

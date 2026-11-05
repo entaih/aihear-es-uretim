@@ -1,0 +1,1347 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D093_Masking_Practice_ES",
+ "kapak": {
+  "ust": "LECCIÓN 93",
+  "baslik": "Práctica de<br>*enmascaramiento*",
+  "alt": "Tres audiogramas de ejemplo, resueltos paso a paso",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      55,
+      55,
+      55,
+      60,
+      65,
+      70
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava_maskeli",
+     "degerler": [
+      65,
+      70,
+      75,
+      80,
+      85,
+      90
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Práctica de enmascaramiento con audiogramas reales | Lección 93 | AIHEAR Academia de Audiología",
+  "aciklama": "Aplicamos paso a paso las reglas del enmascaramiento clínico a tres audiogramas de ejemplo: una hipoacusia neurosensorial severa unilateral, una pérdida conductiva unilateral y una pérdida mixta. En cada caso resolvemos juntos la decisión de enmascarar la vía aérea y la vía ósea, el nivel inicial de enmascaramiento, el método de la meseta y el límite de sobreenmascaramiento.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin y Clark, Introduction to Audiology; BSA, Recommended Procedure: Pure-tone Air-conduction and Bone-conduction Threshold Audiometry with and without Masking.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "enmascaramiento",
+   "audiograma"
+  ],
+  "etiketler": [
+   "enmascaramiento clínico",
+   "ejemplos de enmascaramiento",
+   "método de la meseta",
+   "pérdida auditiva unilateral",
+   "umbral enmascarado",
+   "hipoacusia mixta",
+   "enmascaramiento de la vía ósea",
+   "sobreenmascaramiento",
+   "audiometría",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 93",
+   "baslik": "Práctica de *enmascaramiento* con audiogramas reales",
+   "alt": "Tres audiogramas de ejemplo, resueltos paso a paso",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aplicaremos las reglas de enmascaramiento de principio a fin en tres audiogramas de ejemplo.",
+    "Juntos resolveremos casos de pérdida neurosensorial unilateral, pérdida conductiva unilateral y pérdida mixta."
+   ]
+  },
+  {
+   "id": "kurallar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Repaso",
+   "baslik": "Nuestras *cinco reglas*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Vía aérea",
+     "metin": "Aérea del TE menos ósea del NTE",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Vía ósea",
+     "metin": "Brecha del TE mayor de 10 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Nivel inicial",
+     "metin": "Umbral aéreo del NTE más 10 dB",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Meseta",
+     "metin": "Umbral estable en 15 dB de ruido",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Límite superior",
+     "metin": "Ósea del TE más AI menos 5 dB",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Antes de los casos, reunamos en una sola pantalla las reglas de las lecciones anteriores.",
+    "En vía aérea, enmascaramos si la aérea del oído evaluado menos la ósea del oído opuesto alcanza la atenuación interaural (AI).",
+    "En vía ósea la AI es casi cero; hay que enmascarar si el oído evaluado tiene una brecha aéreo-ósea mayor de diez decibeles.",
+    "El ruido inicial está diez decibeles por encima del umbral aéreo del oído opuesto; en vía ósea, se suma el efecto de oclusión si hace falta.",
+    "Si el umbral no cambia tras tres aumentos de ruido de cinco decibeles cada uno, se ha encontrado la meseta.",
+    "El ruido máximo es cinco decibeles menos que la ósea del oído evaluado más la AI; por encima, hay sobreenmascaramiento."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "Repaso",
+   "baslik": "El *mismo orden* en cada caso",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Umbrales sin enmascarar",
+     "metin": "Ambos oídos, aérea y ósea",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Regla de vía aérea",
+     "metin": "En cada frecuencia",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Regla de vía ósea",
+     "metin": "Enmascarar si hay brecha",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Meseta",
+     "metin": "Hallar el umbral real",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registro",
+     "metin": "Símbolo enmascarado y nivel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En cada caso, primero miramos los umbrales sin enmascarar por vía aérea y ósea de ambos oídos.",
+    "Luego aplicamos la regla de vía aérea en cada frecuencia y marcamos las frecuencias que necesitan enmascaramiento.",
+    "Después miramos la brecha aéreo-ósea de cada oído y decidimos si la vía ósea necesita enmascaramiento.",
+    "Para cada medición que necesita enmascaramiento, hallamos el umbral real con el método de la meseta.",
+    "En el último paso, marcamos los umbrales enmascarados en el audiograma con los símbolos correctos y anotamos el nivel de ruido."
+   ]
+  },
+  {
+   "id": "vaka1",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Caso 1: pérdida unilateral",
+   "baslik": "Caso 1: el cuadro *sin enmascarar*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Derecho_: vía ósea normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea sin enmascarar",
+     "cumle": 2
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía ósea sin enmascarar",
+     "cumle": 5
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       55,
+       55,
+       55,
+       60,
+       65,
+       70
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 5
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Nuestro primer caso es un adulto que consulta por mala audición en el oído izquierdo; los valores son de ejemplo y se usan auriculares supraaurales.",
+    "Los umbrales por vía aérea y por vía ósea del oído derecho están en el rango normal.",
+    "Los umbrales por vía aérea sin enmascarar del oído izquierdo están entre cincuenta y cinco y setenta decibeles.",
+    "Observen que la curva izquierda corre paralela a la derecha, unos cuarenta y cinco a cincuenta decibeles por debajo.",
+    "Este patrón recuerda la curva sombra que vimos en lecciones anteriores.",
+    "Los umbrales por vía ósea sin enmascarar del oído izquierdo también resultaron casi iguales a los del oído derecho.",
+    "Tal como está, el audiograma puede parecer una pérdida conductiva en el oído izquierdo; ahora apliquemos las reglas."
+   ]
+  },
+  {
+   "id": "vaka1_karar",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Caso 1: pérdida unilateral",
+   "baslik": "La *decisión* en vía aérea",
+   "sutunlar": [
+    "Frecuencia (Hz)",
+    "Aérea izquierda",
+    "Ósea derecha",
+    "Diferencia (dB)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "250",
+      "55",
+      "5",
+      "50"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "500",
+      "55",
+      "10",
+      "45"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000",
+      "55",
+      "10",
+      "45"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "2000",
+      "60",
+      "10",
+      "50"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "4000",
+      "65",
+      "15",
+      "50"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "8000",
+      "70",
+      "20 (aérea)",
+      "50"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El oído izquierdo es el oído evaluado (TE), y el derecho es el oído no evaluado (NTE).",
+    "En doscientos cincuenta hertz, la aérea izquierda es cincuenta y cinco y la ósea derecha, cinco decibeles; la diferencia es cincuenta.",
+    "En quinientos y mil hertz la diferencia es de cuarenta y cinco decibeles, mayor que la AI de cuarenta que usamos con auriculares supraaurales.",
+    "En dos mil y cuatro mil hertz, la diferencia también es de cincuenta decibeles.",
+    "En ocho mil hertz no se mide la vía ósea, así que usamos el umbral aéreo derecho; la diferencia vuelve a ser cincuenta.",
+    "Resultado: todos los umbrales por vía aérea del oído izquierdo deben medirse de nuevo enmascarando el oído derecho.",
+    "La vía ósea también necesitará enmascaramiento, ya que el oído izquierdo muestra una gran brecha aéreo-ósea."
+   ]
+  },
+  {
+   "id": "vaka1_plato",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Caso 1: pérdida unilateral",
+   "baslik": "La *meseta* en 1000 Hz",
+   "sutunlar": [
+    "Ruido derecho (dB EM)",
+    "Umbral izquierdo (dB HL)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Ninguno (sin enmascarar)",
+      "55"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "20",
+      "65"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "25",
+      "70"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "30",
+      "75"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "35",
+      "75"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "40",
+      "75"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "45",
+      "75"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En mil hertz, el ruido inicial es el umbral aéreo derecho de diez más diez, o sea veinte dB EM, veinte decibeles de enmascaramiento efectivo."
+    },
+    {
+     "yazi": "Con veinte dB EM de ruido, el umbral izquierdo pasa de cincuenta y cinco a sesenta y cinco; la respuesta anterior venía del oído derecho."
+    },
+    "Al subir el ruido a veinticinco y treinta, el umbral también sube a setenta y setenta y cinco.",
+    {
+     "yazi": "Con treinta y cinco y cuarenta dB EM, el umbral se mantiene en setenta y cinco."
+    },
+    {
+     "yazi": "Con cuarenta y cinco dB EM sigue en setenta y cinco; el ruido subió quince decibeles y el umbral no cambió, así que se encontró la meseta."
+    },
+    "Cuarenta y cinco es el ruido máximo, ósea sin enmascarar de diez más AI de cuarenta menos cinco; el umbral izquierdo real es setenta y cinco decibeles HL."
+   ]
+  },
+  {
+   "id": "vaka1_sonuc",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Caso 1: pérdida unilateral",
+   "baslik": "Caso 1: el cuadro *real*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea enmascarada",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Izquierdo_: ósea enmascarada, sin respuesta",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       65,
+       70,
+       75,
+       80,
+       85,
+       90
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       null,
+       60,
+       70,
+       70,
+       65
+      ],
+      "yanitsiz": true,
+      "cumle": 3
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Al repetir el mismo proceso en cada frecuencia, el cuadro cambia por completo.",
+    "Los umbrales aéreos enmascarados del oído izquierdo están entre sesenta y cinco y noventa decibeles; los cuadrados azules muestran estos valores reales.",
+    "Para enmascarar la vía ósea, presentamos ruido al oído derecho y buscamos de nuevo la vía ósea izquierda.",
+    "Incluso con los niveles máximos de salida del vibrador no hubo respuesta del oído izquierdo; las flechas hacia abajo lo indican.",
+    "La brecha aéreo-ósea de la prueba sin enmascarar era falsa; el cuadro es compatible con una hipoacusia neurosensorial severa en el oído izquierdo.",
+    "Sin enmascaramiento, este oído podría haberse informado como una pérdida conductiva.",
+    "Este cuadro correcto importa todavía más, porque una pérdida severa unilateral puede requerir una evaluación adicional."
+   ]
+  },
+  {
+   "id": "vaka2",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Caso 2: conductiva",
+   "baslik": "Caso 2: el cuadro *sin enmascarar*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Derecho_: vía ósea sin enmascarar",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea normal",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       40,
+       35,
+       35,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 5
+    }
+   },
+   "cumleler": [
+    "En el segundo caso, los umbrales por vía aérea del oído derecho están entre treinta y cinco y cuarenta decibeles.",
+    "Los umbrales por vía ósea sin enmascarar del oído derecho están en el rango normal.",
+    "Los umbrales por vía aérea y ósea del oído izquierdo son normales; la vía ósea izquierda es de diez decibeles en mil hertz.",
+    "Primero, la regla de vía aérea: en mil hertz, la aérea derecha es cuarenta y la ósea izquierda, diez; la diferencia es de treinta decibeles.",
+    "Treinta es menos de cuarenta, así que los umbrales aéreos derechos se aceptan sin enmascarar; en las demás frecuencias también es menor de cuarenta.",
+    "Sin embargo, el oído derecho muestra una brecha aéreo-ósea de treinta decibeles.",
+    "Como en vía ósea la AI es casi cero, esta respuesta pudo venir tanto de la cóclea derecha como de la izquierda."
+   ]
+  },
+  {
+   "id": "vaka2_kemik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Caso 2: conductiva",
+   "baslik": "*Enmascaramiento* en vía ósea",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 0,
+    "test_kulak": "sag"
+   },
+   "vurgula": [
+    {
+     "parca": "kafatasi",
+     "cumle": 0
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "test_kulagi",
+     "metin": "TE: derecho, vibrador en la mastoides",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "AI: cerca de 0 dB",
+     "cumle": 0
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "metin": "NTE: ruido al oído izquierdo",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "El vibrador estimula ambas cócleas",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Efecto de oclusión en el oído cubierto",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Sin corrección por oclusión en 2000 Hz",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Colocamos el vibrador en la mastoides derecha, pero como el cráneo vibra en conjunto, el estímulo llega a ambas cócleas.",
+    "Por eso, para demostrar que el umbral óseo derecho pertenece realmente a la cóclea derecha, debemos mantener ocupada la cóclea izquierda.",
+    "El ruido se presenta al oído izquierdo con un auricular; el oído derecho queda descubierto.",
+    "El nivel inicial se obtiene sumando un factor de seguridad de diez decibeles al umbral aéreo izquierdo.",
+    "Como el auricular cubre el oído izquierdo, aparece un efecto de oclusión en las frecuencias graves, y allí se suma una corrección.",
+    "Trabajaremos el ejemplo en dos mil hertz; en esta frecuencia el efecto de oclusión es despreciable, así que no hace falta corrección."
+   ]
+  },
+  {
+   "id": "vaka2_plato",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Caso 2: conductiva",
+   "baslik": "*Vía ósea* en 2000 Hz",
+   "cizim": "plato_grafigi",
+   "ayar": {
+    "esik": 10,
+    "plato": [
+     10,
+     45
+    ],
+    "bolge_cumleleri": [
+     0,
+     3,
+     4
+    ],
+    "esik_cumle": 3,
+    "cumle": 1
+   },
+   "notlar": [
+    {
+     "metin": "Nivel inicial: 20 dB EM",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Umbral estable: meseta desde el inicio",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Límite superior: 45 dB EM",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "En dos mil hertz, el umbral por vía ósea sin enmascarar del oído derecho es de diez decibeles.",
+    {
+     "yazi": "La aérea izquierda es diez, así que el ruido inicial es veinte dB EM; con este ruido, la ósea derecha sigue en diez."
+    },
+    "Subimos el ruido a veinticinco, treinta y treinta y cinco; en cada paso el umbral se mantiene en diez decibeles.",
+    "La meseta estaba desde el inicio, así que la respuesta ósea pertenecía realmente a la cóclea derecha.",
+    {
+     "yazi": "El límite, ósea derecha de diez más AI de cuarenta menos cinco, es cuarenta y cinco dB EM; por encima, el ruido llega a la cóclea derecha y el umbral sube."
+    },
+    "Si el ruido se hubiera presentado con un auricular de inserción, la AI sería mayor, y este límite superior también sería más alto."
+   ]
+  },
+  {
+   "id": "vaka2_sonuc",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Caso 2: conductiva",
+   "baslik": "Caso 2: una brecha *confirmada*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Derecho_: vía ósea enmascarada",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: audición normal",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       40,
+       35,
+       35,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       5,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Repetimos el mismo proceso en cada frecuencia donde se mide la vía ósea.",
+    "Los umbrales óseos enmascarados del oído derecho coincidieron con los valores sin enmascarar; los marcamos con un corchete de apertura.",
+    "Ahora la brecha aéreo-ósea está confirmada con enmascaramiento.",
+    "El cuadro es compatible con una hipoacusia conductiva leve en el oído derecho.",
+    "En este caso, la vía aérea no necesitó enmascaramiento, pero la vía ósea sí, en todas las frecuencias."
+   ]
+  },
+  {
+   "id": "kayma",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 3",
+   "bolum": "Caso 2: conductiva",
+   "baslik": "¿Y si la ósea enmascarada *cambia*?",
+   "sol": {
+    "ust": "El umbral se mantiene",
+    "maddeler": [
+     {
+      "metin": "La respuesta es _del oído evaluado_",
+      "cumle": 0
+     },
+     {
+      "metin": "La brecha aéreo-ósea es _real_",
+      "cumle": 1
+     },
+     {
+      "metin": "Conductiva o mixta",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "El umbral sube",
+    "maddeler": [
+     {
+      "metin": "Respuesta previa de _la cóclea opuesta_",
+      "cumle": 2
+     },
+     {
+      "metin": "La brecha se reduce o desaparece",
+      "cumle": 3
+     },
+     {
+      "metin": "Neurosensorial o mixta",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Si el umbral óseo enmascarado no cambia a lo largo de la meseta, la respuesta viene de la cóclea del oído evaluado.",
+    "En ese caso, la brecha aéreo-ósea es real, y la pérdida se clasifica como conductiva o mixta.",
+    "Si el umbral sube con el ruido y llega a una meseta en un nivel peor, la respuesta sin enmascarar la dio la cóclea opuesta.",
+    "En ese caso, la brecha se reduce o desaparece por completo.",
+    "El resultado puede ser una pérdida neurosensorial o una mixta con menor brecha; la decisión siempre se toma con los umbrales enmascarados."
+   ]
+  },
+  {
+   "id": "vaka3",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Caso 3: pérdida mixta",
+   "baslik": "Caso 3: el cuadro *sin enmascarar*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea sin enmascarar",
+     "cumle": 1
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía ósea sin enmascarar",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       50,
+       55,
+       55,
+       55,
+       60,
+       65
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "En el tercer caso, los umbrales por vía aérea y ósea del oído derecho vuelven a ser normales.",
+    "Los umbrales por vía aérea sin enmascarar del oído izquierdo están entre cincuenta y sesenta y cinco decibeles.",
+    "Los umbrales por vía ósea sin enmascarar del oído izquierdo son iguales a los de la ósea derecha, es decir, normales.",
+    "A primera vista, el cuadro parece una pérdida conductiva moderada en el oído izquierdo.",
+    "Pero la vía ósea sin enmascarar refleja la mejor de las dos cócleas; estas respuestas pueden pertenecer a la cóclea derecha.",
+    "Además, la curva aérea izquierda corre unos cuarenta a cuarenta y cinco decibeles por debajo de la derecha; es otra señal de alerta.",
+    "En este caso, tendremos que enmascarar tanto la vía aérea como la vía ósea."
+   ]
+  },
+  {
+   "id": "vaka3_adim",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Caso 3: pérdida mixta",
+   "baslik": "Caso 3: pasos de la *solución*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Regla de vía aérea",
+     "metin": "Diferencia de 45 en 1000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Meseta aérea",
+     "metin": "Umbral de 55 a 65",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Regla de vía ósea",
+     "metin": "Brecha grande: enmascarar",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Meseta ósea",
+     "metin": "Umbral de 10 a 40",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Límite superior",
+     "metin": "75 dB EM",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Regla de vía aérea: en mil hertz, la aérea izquierda es cincuenta y cinco y la ósea derecha, diez; la diferencia es cuarenta y cinco, así que enmascaramos.",
+    {
+     "yazi": "Aplicamos el método de la meseta con ruido en el oído derecho desde veinte dB EM; el umbral izquierdo se estabiliza en sesenta y cinco."
+    },
+    "En las demás frecuencias la diferencia también supera cuarenta, así que se enmascaran todos los umbrales por vía aérea.",
+    "Regla de vía ósea: hay una gran brecha entre la aérea enmascarada y la ósea sin enmascarar, así que también hay que enmascarar la vía ósea.",
+    {
+     "yazi": "En dos mil hertz, la aérea derecha es quince y el ruido inicial, veinticinco dB EM; la ósea izquierda sube paso a paso hasta cuarenta."
+    },
+    {
+     "yazi": "Al subir el ruido de cuarenta a cincuenta y cinco dB EM, la ósea izquierda se mantiene en cuarenta decibeles; se encontró la meseta."
+    },
+    {
+     "yazi": "El límite superior es la ósea izquierda de cuarenta más AI de cuarenta menos cinco, o sea setenta y cinco dB EM; cincuenta y cinco queda bien por debajo."
+    }
+   ]
+  },
+  {
+   "id": "vaka3_sonuc",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Caso 3: pérdida mixta",
+   "baslik": "Caso 3: una pérdida *mixta*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea enmascarada",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía ósea enmascarada",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       60,
+       65,
+       65,
+       70,
+       75,
+       80
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       25,
+       30,
+       35,
+       40,
+       45
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      35,
+      65
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Al completar el enmascaramiento, aparece el cuadro real del oído izquierdo.",
+    "Los umbrales aéreos enmascarados están entre sesenta y ochenta decibeles.",
+    "Los umbrales óseos enmascarados están entre veinticinco y cuarenta y cinco decibeles, así que la vía ósea tampoco es normal.",
+    "Hay una brecha de unos treinta decibeles entre la vía aérea y la ósea.",
+    "Una vía ósea por debajo del límite normal junto con una brecha es un cuadro compatible con una pérdida mixta.",
+    "El audiograma sin enmascarar, en cambio, mostraba erróneamente este oído como una pérdida conductiva pura."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "tablo",
+   "bolum_no": "PARTE 5",
+   "bolum": "Control y registro",
+   "baslik": "*Calcular* el límite superior",
+   "sutunlar": [
+    "Caso",
+    "Ósea TE (dB HL)",
+    "AI (dB)",
+    "Límite: ósea + AI - 5"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1, vía aérea",
+      "Peor que 70",
+      "40",
+      "Más de 105"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2, vía ósea",
+      "10",
+      "40",
+      "45"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "3, vía ósea",
+      "40",
+      "40",
+      "75"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Pongamos lado a lado los límites superiores de los tres casos; cada uno es la ósea del oído evaluado más la AI menos cinco.",
+    "En el primer caso, cuarenta y cinco era un límite prudente según la ósea sin enmascarar; sin respuesta ósea izquierda, el límite real supera ciento cinco.",
+    {
+     "yazi": "En el segundo caso, la ósea derecha es normal, así que el límite baja a cuarenta y cinco dB EM y la meseta se estrecha."
+    },
+    {
+     "yazi": "En el tercer caso, el límite es setenta y cinco dB EM; de nuevo, la meseta se encontró con facilidad."
+    },
+    "La regla es sencilla: cuanto mejor es la vía ósea del oído evaluado, antes empieza el sobreenmascaramiento."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "En frecuencias graves, una respuesta ósea a nivel alto puede ser una vibración percibida. Hay que preguntar al paciente si oyó el sonido o sintió la vibración, y anotarlo.",
+   "cumleler": [
+    "Al medir la vía ósea a niveles altos, presten atención a una trampa importante.",
+    "Sobre todo en doscientos cincuenta y quinientos hertz, el vibrador a niveles altos produce una vibración que se siente en el cráneo.",
+    "Si el paciente responde a esta vibración, puede aparecer una falsa brecha aéreo-ósea en un oído con pérdida neurosensorial.",
+    "En esos casos, pregunten al paciente si oyó el sonido o sintió la vibración, y anoten el resultado en el audiograma."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Control y registro",
+   "baslik": "Errores *frecuentes*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Diferencia aérea",
+     "metin": "Usar la aérea del NTE, no la ósea",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Ósea sin enmascarar",
+     "metin": "Suponer a qué oído pertenece",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Detenerse antes",
+     "metin": "Registrar sin ver la meseta",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Olvidar el límite",
+     "metin": "Subir el ruido sin control",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El primer error es usar la vía aérea del oído opuesto en lugar de su vía ósea en la regla de vía aérea.",
+    "El segundo error es leer el umbral óseo sin enmascarar como si perteneciera al oído donde está el vibrador.",
+    "El tercer error es detenerse tras la primera medición enmascarada; hay que subir el ruido tres veces para ver la meseta.",
+    "El cuarto error es subir el ruido sin calcular el límite superior, lo que hace que el umbral real parezca peor de lo que es."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Control y registro",
+   "baslik": "Registro del *enmascaramiento*",
+   "maddeler": [
+    {
+     "metin": "Umbral enmascarado: _símbolo enmascarado_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Anotar el _nivel de ruido_ de la meseta",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Indicar el _tipo de auricular_ usado",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Sin meseta: anotar _no definitivo_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sol",
+       "tip": "hava_maskeli",
+       "degerler": [
+        60,
+        65,
+        65,
+        70,
+        75,
+        80
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        25,
+        30,
+        35,
+        40,
+        45
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Todo umbral obtenido con enmascaramiento se marca en el audiograma con un símbolo enmascarado, aunque el umbral no haya cambiado.",
+    "El nivel de ruido con el que se encontró la meseta se anota en el formulario o debajo del audiograma para cada frecuencia.",
+    "También se indica si se usaron auriculares supraaurales o de inserción, porque la AI y el efecto de oclusión dependen de ello.",
+    "Si no se encontró meseta, el umbral no es definitivo, y esto se indica con claridad en el informe.",
+    "Un buen registro permite que un colega que lea el audiograma más tarde juzgue si el enmascaramiento fue adecuado."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Curva sombra: _enmascarar_ y luego interpretar",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Pérdida conductiva: se enmascara la _vía ósea_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Pérdida mixta: se enmascaran _ambas vías_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Buena vía ósea: meseta _estrecha_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "En una pérdida severa unilateral, los umbrales sin enmascarar forman una curva sombra; la interpretación se basa en los umbrales enmascarados.",
+    "En una pérdida conductiva unilateral, a menudo la vía aérea no necesita enmascaramiento, pero la vía ósea siempre debe enmascararse.",
+    "En una pérdida mixta se enmascaran la vía aérea y la ósea, y el resultado puede cambiar el cuadro por completo.",
+    "Si el oído evaluado tiene buena vía ósea, el límite de sobreenmascaramiento es más bajo y la meseta, más estrecha."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Aérea derecha 45, ósea sin enmascarar 10, izquierdo normal. ¿Qué hacer?",
+   "secenekler": [
+    "No hace falta enmascarar",
+    "Ósea derecha enmascarando el izquierdo",
+    "Enmascarar la aérea izquierda",
+    "Detener la prueba"
+   ],
+   "dogru": 1,
+   "aciklama": "El oído derecho tiene una brecha aéreo-ósea de 35 dB; en vía ósea la AI es casi cero, así que _se enmascara el oído izquierdo_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: la aérea derecha es cuarenta y cinco, la ósea sin enmascarar diez decibeles y el oído izquierdo es normal. ¿Qué hacemos?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: se mide de nuevo la vía ósea derecha enmascarando el oído izquierdo.",
+    "El oído derecho tiene una brecha de treinta y cinco decibeles, y la ósea sin enmascarar no nos dice a qué cóclea pertenece."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "¿Para qué la *logoaudiometría*? Objetivos y pruebas",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos a la logoaudiometría: veremos por qué se hace y qué pruebas incluye.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

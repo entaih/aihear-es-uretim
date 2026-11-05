@@ -1,0 +1,678 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D153_Bedside_Vestibular_Exam_ES",
+ "kapak": {
+  "ust": "LECCIÓN 153",
+  "baslik": "Examen *vestibular*<br>a pie de cama",
+  "alt": "Romberg, Fukuda, head-shake",
+  "cizim": "denge_durus"
+ },
+ "youtube": {
+  "baslik": "Examen vestibular: Romberg, Fukuda y head-shake | Lección 153 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos los pasos básicos del examen vestibular a pie de cama: la observación del nistagmo espontáneo y evocado por la mirada, las pruebas de Romberg y de Romberg en tándem, la prueba de pisoteo de Fukuda y la prueba de agitación cefálica. Vemos cómo se realiza e interpreta cada prueba, sus límites y los hallazgos que sugieren una causa central.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Jacobson and Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology; Fukuda, The stepping test, Acta Oto-Laryngologica (1959); Honaker et al., Fukuda stepping test: sensitivity and specificity, Journal of the American Academy of Audiology (2009).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "vestibular",
+   "nistagmo"
+  ],
+  "etiketler": [
+   "examen vestibular",
+   "prueba de Romberg",
+   "prueba de Fukuda",
+   "nistagmo posagitación cefálica",
+   "nistagmo espontáneo",
+   "nistagmo evocado por la mirada",
+   "lentes de Frenzel",
+   "signos centrales",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 153",
+   "baslik": "Examen *vestibular* a pie de cama",
+   "alt": "Nistagmo, Romberg, Fukuda y head-shake",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos el examen vestibular a pie de cama, que no requiere equipos especiales.",
+    "Veremos cómo realizar e interpretar la observación del nistagmo, las pruebas de Romberg y de Fukuda, y la prueba de agitación cefálica."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Preparación y los ojos",
+   "baslik": "¿Por qué *a pie de cama?*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Rápido",
+     "metin": "Lleva pocos minutos",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Sin equipos",
+     "metin": "Se hace en cualquier lugar",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Completa la historia",
+     "metin": "Orienta la elección de pruebas",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sensibilidad limitada",
+     "metin": "Normal no descarta",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Después de la historia clínica, el examen a pie de cama es la primera evaluación física.",
+    "Este examen es rápido, y la mayoría de sus pasos pueden hacerse en cualquier lugar sin equipos especiales.",
+    "Los hallazgos completan la historia y orientan qué pruebas de laboratorio se eligen.",
+    "En la fase aguda, también aporta información valiosa cuando no se pueden hacer pruebas de laboratorio.",
+    "Sin embargo, su sensibilidad es limitada; un examen a pie de cama normal no descarta un problema vestibular."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Preparación y los ojos",
+   "baslik": "Preparar el *examen*",
+   "maddeler": [
+    {
+     "metin": "Cuello, espalda, antecedentes de _caídas_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Quedarse cerca_ en las pruebas de pie",
+     "cumle": 1,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Lentes de _Frenzel_ o de video",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Primero los ojos, luego el _equilibrio de pie_",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Las pruebas que dan náuseas, _al final_",
+     "cumle": 4,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "En toda prueba de pie, quédense junto al paciente, listos para evitar una caída.",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Antes del examen, pregunten por problemas de cuello y espalda, cirugías recientes y antecedentes de caídas.",
+    "Durante las pruebas de pie, quédense justo al lado del paciente y estén listos para evitar una caída.",
+    "Si es posible, tengan a mano lentes de Frenzel o lentes de video.",
+    "El examen suele empezar con los ojos, con el paciente sentado, y sigue con las pruebas de equilibrio de pie.",
+    "Las pruebas que pueden empeorar las náuseas pueden dejarse para el final del examen."
+   ]
+  },
+  {
+   "id": "spontan",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Preparación y los ojos",
+   "baslik": "*Nistagmo* espontáneo",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sag",
+    "yavas_cumle": 4,
+    "hizli_cumle": 4
+   },
+   "etiketler": [
+    {
+     "parca": "yavas_faz",
+     "metin": "Fase lenta: hacia la lesión",
+     "cumle": 4
+    },
+    {
+     "parca": "hizli_faz",
+     "metin": "Fase rápida: hacia el lado sano",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "iz",
+     "cumle": 0
+    },
+    {
+     "parca": "yon",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Primero _con fijación_, luego sin ella",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Periférico: la fijación lo _reduce_",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Registrar dirección, intensidad, _efecto de la fijación_",
+     "cumle": 5,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "El primer paso es buscar un nistagmo espontáneo mientras el paciente mira al frente.",
+    "Primero se observan los ojos con fijación, es decir, mientras el paciente mira un objetivo.",
+    "Luego se elimina la fijación con lentes de Frenzel o de video; así el nistagmo periférico se hace más evidente.",
+    "Sin lentes, tapar un ojo y mirar el fondo del otro con un oftalmoscopio también reduce la fijación.",
+    "Este trazado de ejemplo muestra un nistagmo que bate a la derecha; en la hipofunción periférica unilateral aguda, el nistagmo suele batir hacia el oído sano.",
+    "Se registran la dirección y la intensidad del nistagmo, y cómo cambia con la fijación."
+   ]
+  },
+  {
+   "id": "bakis",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Preparación y los ojos",
+   "baslik": "*Nistagmo* evocado por la mirada",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Cuatro direcciones",
+     "metin": "Derecha, izquierda, arriba, abajo",
+     "cumle": 0
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Unos 30 grados",
+     "metin": "En el extremo puede ser normal",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Ley de Alexander",
+     "metin": "Aumenta hacia la fase rápida",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Cambia de dirección",
+     "metin": "Un signo central",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Vertical puro",
+     "metin": "Un signo central",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la prueba de la mirada, el paciente mira a la derecha, a la izquierda, arriba y abajo sin mover la cabeza.",
+    "La mirada se mantiene a unos treinta grados; unas pocas sacudidas de nistagmo en la mirada extrema pueden ser normales.",
+    "El nistagmo periférico aumenta al mirar en la dirección de la fase rápida; lo llamamos ley de Alexander.",
+    "En cambio, un nistagmo que cambia de dirección según la dirección de la mirada es importante para las causas centrales.",
+    "El nistagmo vertical puro o torsional puro también es un signo central y se comunica al médico.",
+    "El hallazgo en cada dirección se anota por separado; este registro es valioso para compararlo con exámenes posteriores."
+   ]
+  },
+  {
+   "id": "romberg",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas de bipedestación",
+   "baslik": "La prueba de *Romberg*",
+   "cizim": "denge_durus",
+   "etiketler": [
+    {
+     "parca": "destek_yuzeyi",
+     "metin": "Pies juntos",
+     "cumle": 1
+    },
+    {
+     "parca": "salinim",
+     "metin": "Ojos cerrados: ¿balanceo?",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "destek_yuzeyi",
+     "cumle": 1
+    },
+    {
+     "parca": "salinim",
+     "cumle": 2
+    },
+    {
+     "parca": "agirlik_merkezi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ojos abiertos, luego _cerrados_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Clásico: pérdida del _sentido de posición_",
+     "cumle": 4,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Un resultado normal _no descarta_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Vimos brevemente la prueba de Romberg en la lección sobre los sistemas del equilibrio; ahora veamos cómo se realiza.",
+    "El paciente se para con los pies juntos y los brazos cruzados sobre el pecho o a los costados.",
+    "Se observa el balanceo primero con los ojos abiertos y luego con los ojos cerrados, en general durante treinta segundos.",
+    "Un balanceo marcado o una tendencia a caer al cerrar los ojos se registra como Romberg positivo.",
+    "Clásicamente sugiere pérdida del sentido de posición; en la hipofunción vestibular unilateral aguda, el paciente puede inclinarse hacia el lado afectado.",
+    "En la hipofunción vestibular crónica compensada, la prueba suele ser normal, por lo que un resultado normal no descarta una hipofunción."
+   ]
+  },
+  {
+   "id": "zor_durus",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas de bipedestación",
+   "baslik": "Hacer la prueba *más difícil*",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "Romberg en tándem",
+     "metin": "Talón contra punta",
+     "cumle": 0
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Efecto de la edad",
+     "metin": "Interpretar con cuidado en mayores",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Superficie de espuma",
+     "metin": "Destaca la información vestibular",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Apoyo unipodal",
+     "metin": "Para el riesgo de caídas",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Para hacer la prueba más difícil, el paciente se para en línea, con el talón de un pie tocando la punta del otro; es el Romberg en tándem.",
+    "La postura en tándem se vuelve más difícil con la edad, por lo que el resultado se interpreta con cuidado en los adultos mayores.",
+    "Pararse sobre espuma con los ojos cerrados evalúa con más claridad la información vestibular; lo vimos en la prueba sensorial de equilibrio de cuatro condiciones.",
+    "Pararse en un solo pie es otra prueba sencilla que se usa para evaluar el riesgo de caídas.",
+    "En todas estas pruebas se registran la duración, la dirección del balanceo y cualquier tendencia a caer."
+   ]
+  },
+  {
+   "id": "fukuda",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas de bipedestación",
+   "baslik": "La prueba de pisoteo de *Fukuda*",
+   "cumleler": [
+    "La prueba de pisoteo de Fukuda también se conoce como prueba de Unterberger.",
+    "El paciente extiende los brazos hacia adelante, cierra los ojos y da cincuenta pasos en el lugar, levantando las rodillas.",
+    "Durante la prueba se reducen al mínimo los estímulos sonoros y luminosos que podrían ayudar al paciente a orientarse.",
+    "Al final de la prueba, observamos cuánto ha girado el cuerpo y cuánto se ha desplazado desde el punto de partida.",
+    "En general, un giro de más de cuarenta y cinco grados en cincuenta pasos se considera anormal.",
+    "El giro suele ser hacia el lado afectado."
+   ],
+   "cizim": "fukuda",
+   "ayar": {
+    "aci": 60,
+    "yon": "sag",
+    "adim_cumle": 1,
+    "donme_cumle": 3,
+    "esik_cumle": 4,
+    "taraf_cumle": 5
+   },
+   "notlar": [
+    {
+     "metin": "Posición: _brazos al frente, ojos cerrados_",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Sin referencias: _menos sonido y luz_",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Interpretación: _giro mayor de 45 grados_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ]
+  },
+  {
+   "id": "fukuda_yorum",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas de bipedestación",
+   "baslik": "*Interpretar* la prueba de Fukuda",
+   "maddeler": [
+    {
+     "metin": "Sensibilidad y especificidad _limitadas_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Los resultados _pueden cambiar_ al repetirla",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "No sirve _sola_ para lateralizar",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Puede _ayudar_ en el seguimiento",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PRECAUCIÓN",
+    "metin": "Interpreten la prueba de Fukuda *con otros hallazgos*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "La prueba de Fukuda debe interpretarse con cuidado.",
+    "Los estudios mostraron que la prueba tiene sensibilidad y especificidad limitadas para detectar la hipofunción vestibular unilateral.",
+    "Al repetir la prueba en la misma persona, el ángulo y la dirección del giro pueden cambiar.",
+    "Por eso la prueba de Fukuda no se usa sola para decidir el lado; se interpreta junto con otros hallazgos.",
+    "Aun así, algunos clínicos la consideran útil para seguir el proceso de compensación."
+   ]
+  },
+  {
+   "id": "bas_sallama",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "La prueba de agitación cefálica",
+   "baslik": "La prueba de *agitación cefálica*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Lentes",
+     "metin": "Sin fijación",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Cabeza hacia adelante",
+     "metin": "Unos 30 grados",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Agitación",
+     "metin": "De 10 a 20 segundos",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Parada brusca",
+     "metin": "Se observan los ojos enseguida",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La prueba de agitación cefálica busca revelar un desequilibrio oculto entre los dos lados.",
+    "El paciente usa lentes de Frenzel o de video, y la cabeza se inclina hacia adelante unos treinta grados.",
+    "El examinador mueve la cabeza de un lado a otro durante unos diez a veinte segundos, a unas dos veces por segundo.",
+    "La agitación se detiene de golpe y los ojos se observan de inmediato.",
+    "En una persona sana no hay un nistagmo claro, o solo unas pocas sacudidas.",
+    "En pacientes con problemas cervicales, esta prueba no se hace o se hace con mucho cuidado."
+   ]
+  },
+  {
+   "id": "bas_sallama_yorum",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "La prueba de agitación cefálica",
+   "baslik": "El nistagmo *después* de la agitación",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sag",
+    "yavas_cumle": 1,
+    "hizli_cumle": 1
+   },
+   "vurgula": [
+    {
+     "parca": "iz",
+     "cumle": 0
+    },
+    {
+     "parca": "hizli_faz",
+     "cumle": 1
+    },
+    {
+     "parca": "yon",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Suele batir _hacia el oído sano_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Por qué: asimetría del _almacenamiento de velocidad_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Nistagmo vertical: signo _central_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "En la hipofunción vestibular unilateral, puede aparecer un nistagmo horizontal después de la agitación.",
+    "Este nistagmo suele batir hacia el oído sano; en el trazado de ejemplo, un nistagmo que bate a la derecha es compatible con una lesión izquierda.",
+    "Durante la agitación, los dos lados envían señales desiguales, y el mecanismo de almacenamiento de velocidad del tronco cerebral acumula esa diferencia.",
+    "A veces, poco después, puede verse una segunda fase más débil en la dirección opuesta.",
+    "En cambio, un nistagmo vertical tras una agitación horizontal es un signo central y debe comunicarse al médico."
+   ]
+  },
+  {
+   "id": "periferik_merkezi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación y registro",
+   "baslik": "Signos que sugieren una causa *central*",
+   "cumleler": [
+    "Veamos juntos los hallazgos a pie de cama en términos de patrones periféricos y centrales.",
+    "El nistagmo espontáneo periférico es horizontal y torsional; el nistagmo vertical puro o torsional puro es un patrón central.",
+    "La fijación reduce el nistagmo periférico; el central puede no reducirse.",
+    "El nistagmo periférico no cambia de dirección con la mirada; el nistagmo evocado por la mirada que cambia de dirección es importante para las causas centrales.",
+    "Tras la agitación cefálica, el nistagmo horizontal es un signo periférico y el vertical, un signo central.",
+    "En la hipofunción periférica aguda, el paciente puede caminar con ayuda; los problemas graves de postura y marcha sugieren causas centrales."
+   ],
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Vertical puro",
+     "metin": "O torsional puro",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "La fijación no influye",
+     "metin": "El nistagmo no se reduce",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Cambia de dirección",
+     "metin": "Cambia con la mirada",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Vertical tras agitación",
+     "metin": "Tras agitación horizontal",
+     "cumle": 4
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Postura muy alterada",
+     "metin": "No camina ni con ayuda",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "diger_testler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación y registro",
+   "baslik": "*Otras* partes del examen",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Prueba de impulso cefálico",
+     "metin": "La próxima lección",
+     "cumle": 1
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Agudeza visual dinámica",
+     "metin": "Leer con la cabeza en movimiento",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Movimientos oculares",
+     "metin": "Seguimiento y sacadas",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Pruebas posicionales",
+     "metin": "Una lección aparte",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El examen a pie de cama tiene también otras partes importantes.",
+    "La prueba de impulso cefálico evalúa el reflejo vestíbulo-ocular (RVO, en inglés VOR) de cada lado por separado; la veremos en la próxima lección.",
+    "En la prueba de agudeza visual dinámica, se compara la línea leída mientras se mueve la cabeza con la leída con la cabeza quieta.",
+    "También se observan movimientos oculares como el seguimiento y las sacadas en busca de hallazgos centrales.",
+    "Veremos las pruebas posicionales en detalle en una lección posterior."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Hagan el examen en el mismo orden con cada paciente y registren los hallazgos en un formulario estándar. Si es posible, graben los hallazgos oculares con lentes de video.",
+   "cumleler": [
+    "Un consejo clínico: hagan el examen a pie de cama en el mismo orden con cada paciente.",
+    "Un orden estándar asegura que no se omita ningún paso y que los resultados puedan compararse en el tiempo.",
+    "Registren los hallazgos en un formulario estándar; anoten también las pruebas que no pudieron hacerse, y el motivo.",
+    "Si es posible, graben los hallazgos oculares con lentes de video; la grabación es muy valiosa para el médico y para evaluaciones posteriores."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Nistagmo: observar _con y sin fijación_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Romberg normal: _no descarta_ hipofunción",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Fukuda: _45 grados en 50 pasos_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Vertical tras agitación cefálica: _central_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "El nistagmo espontáneo y el evocado por la mirada se evalúan con fijación y sin ella.",
+    "La prueba de Romberg puede mostrar pérdida del sentido de posición e hipofunción vestibular aguda, pero un resultado normal no la descarta.",
+    "En la prueba de Fukuda, un giro de más de cuarenta y cinco grados en cincuenta pasos es anormal; la prueba no se interpreta sola.",
+    "El nistagmo horizontal tras la agitación cefálica sugiere una hipofunción unilateral, y el vertical sugiere una causa central."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué resultado de Fukuda suele ser anormal?",
+   "secenekler": [
+    "Giro de 10 grados",
+    "Giro de 30 grados",
+    "Giro mayor de 45 grados"
+   ],
+   "dogru": 2,
+   "aciklama": "En general, un giro de _más de 45 grados_ en cincuenta pasos se considera anormal.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en una prueba de Fukuda de cincuenta pasos, ¿qué resultado suele considerarse anormal?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: un giro de más de cuarenta y cinco grados.",
+    "Aun así, la prueba tiene una sensibilidad limitada; el resultado se interpreta junto con otros hallazgos."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Prueba de impulso cefálico y el examen *HINTS*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la prueba de impulso cefálico y el examen HINTS, que la combina con el nistagmo y la prueba de desviación oblicua.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

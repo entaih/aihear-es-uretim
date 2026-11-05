@@ -1,0 +1,105 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R439_ABR_in_Cortical_Deafness_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #439",
+  "baslik": "No es el oído: *es la corteza*",
+  "alt": "Sordera cortical",
+  "cizim": "beyin_yan",
+  "vurgula": [
+   "heschl_girusu"
+  ],
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Alguien que nunca responde a los sonidos puede tener PEATC normales? #shorts",
+  "aciklama": "La sordera cortical suele deberse a un daño de la corteza auditiva de ambos lados, o de las vías que llegan a ella; la persona parece apenas responder a los sonidos, pero los potenciales evocados auditivos de tronco cerebral (PEATC) suelen ser normales. Esta disociación muestra que el problema no está en el oído, sino por encima del tronco cerebral; estos cuadros son poco frecuentes.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "cerebro",
+   "peatc"
+  ],
+  "etiketler": [
+   "sordera cortical",
+   "trastorno auditivo central",
+   "corteza auditiva",
+   "potenciales evocados auditivos de tronco cerebral",
+   "accidente cerebrovascular",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Alguien que nunca responde a los sonidos puede tener una respuesta de tronco cerebral normal?",
+  "bilgiler": [
+   "La sordera cortical puede deberse a un daño bilateral de la corteza auditiva.",
+   "La persona parece no responder a los sonidos.",
+   "Los PEATC suelen ser normales; el problema está por encima del tronco cerebral."
+  ],
+  "hashtag": [
+   "audiologia",
+   "cerebro",
+   "peatc"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #439",
+   "metin": "¿Puede ser *normal?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Alguien que nunca responde a los sonidos puede tener una respuesta de tronco cerebral normal?"
+   ]
+  },
+  {
+   "id": "kortikal",
+   "tur": "zincir",
+   "baslik": "Sordera *cortical*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Corteza",
+     "tr": "daño bilateral",
+     "cumle": 0
+    },
+    {
+     "ad": "Conducta",
+     "tr": "parece no responder",
+     "cumle": 1
+    },
+    {
+     "ad": "PEATC",
+     "tr": "a menudo normales",
+     "cumle": 2
+    }
+   ],
+   "alt": "El problema está _sobre el tronco_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "La sordera cortical puede deberse a un daño de ambas cortezas auditivas.",
+    "La persona parece apenas responder a los sonidos.",
+    "Sin embargo, los potenciales evocados auditivos de tronco cerebral, o PEATC, suelen ser normales.",
+    "Es decir, el problema no está en el oído, sino por encima del tronco cerebral."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D257",
+ "kaynak_baslik": "Trastornos auditivos centrales en adultos"
+}

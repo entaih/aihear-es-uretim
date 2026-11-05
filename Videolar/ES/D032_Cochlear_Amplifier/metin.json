@@ -1,0 +1,848 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D032_Cochlear_Amplifier_ES",
+ "kapak": {
+  "ust": "LECCIÓN 32",
+  "baslik": "El amplificador<br>*coclear*",
+  "alt": "Células ciliadas externas y prestina",
+  "cizim": "corti",
+  "vurgula": [
+   "dis_tuy_hucreleri"
+  ]
+ },
+ "youtube": {
+  "baslik": "Amplificador coclear: células ciliadas externas | Lección 32 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Por qué una cóclea viva es mucho más sensible y selectiva que una cóclea muerta? En esta lección vemos la electromotilidad de las células ciliadas externas, la proteína motora prestina, la ganancia de unos 40 a 50 dB del amplificador coclear, la compresión y su papel en la selectividad frecuencial. También presentamos cómo se ve la pérdida de células ciliadas externas en el audiograma y su relación con las otoemisiones acústicas.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Pickles, An Introduction to the Physiology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Moore, An Introduction to the Psychology of Hearing; Hall, Handbook of Otoacoustic Emissions; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "coclea",
+   "fisiologiaauditiva"
+  ],
+  "etiketler": [
+   "amplificador coclear",
+   "células ciliadas externas",
+   "prestina",
+   "electromotilidad",
+   "selectividad frecuencial",
+   "compresión coclear",
+   "reclutamiento",
+   "otoemisiones acústicas",
+   "OEAPD",
+   "fisiología de la audición",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 32",
+   "baslik": "El amplificador coclear y la *prestina*",
+   "alt": "¿Cómo amplifican el sonido las células ciliadas externas?",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo las células ciliadas externas amplifican la vibración de la membrana basilar: el amplificador coclear.",
+    "Conoceremos la proteína motora prestina, el papel del amplificador en la sensibilidad y la selectividad frecuencial, y sus signos clínicos."
+   ]
+  },
+  {
+   "id": "aktif",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La cóclea activa",
+   "baslik": "La cóclea no es *pasiva*",
+   "maddeler": [
+    {
+     "metin": "Cóclea muerta: un pico _amplio_",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Cóclea viva: un pico _agudo_ y alto",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "La diferencia: un proceso _activo_",
+     "cumle": 3,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "El motor: las _células ciliadas externas_",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_acik",
+    "ayar": {
+     "frekans": 2000
+    },
+    "vurgula": [
+     {
+      "parca": "yuruyen_dalga",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "yuruyen_dalga",
+      "metin": "onda viajera",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Ya vimos que la membrana basilar vibra con una onda viajera cuyo pico se ubica en distintos lugares según la frecuencia.",
+    "En las primeras observaciones, hechas en cócleas muertas, este pico era bastante amplio y plano.",
+    "En una cóclea viva y sana, en cambio, el pico es mucho más alto y agudo.",
+    "Para explicar esta diferencia, los científicos propusieron un proceso activo dentro de la cóclea que amplifica la vibración.",
+    "Este proceso se llama amplificador coclear.",
+    "El motor del amplificador coclear son las células ciliadas externas."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "La cóclea activa",
+   "baslik": "La *historia* de un descubrimiento",
+   "ogeler": [
+    {
+     "ikon": "ampul",
+     "baslik": "1948: Gold",
+     "metin": "La idea de un proceso activo",
+     "cumle": 0
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "1978: Kemp",
+     "metin": "Registro de otoemisiones acústicas",
+     "cumle": 1
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "1983: Davis",
+     "metin": "El nombre amplificador coclear",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "1985: Brownell",
+     "metin": "Se demuestra la electromotilidad",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "2000: Prestina",
+     "metin": "Se descubre la proteína motora",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "2002: ratones sin prestina",
+     "metin": "Pierden entre 40 y 60 dB de sensibilidad",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Thomas Gold propuso por primera vez un proceso activo en la cóclea en 1948; la idea tardó mucho en ser aceptada."
+    },
+    {
+     "yazi": "En 1978, David Kemp registró sonidos muy débiles que salían del oído: las otoemisiones acústicas."
+    },
+    {
+     "yazi": "En 1983, Hallowell Davis propuso el nombre de amplificador coclear para este mecanismo."
+    },
+    {
+     "yazi": "En 1985, Brownell y sus colegas mostraron que las células ciliadas externas cambian de longitud ante la estimulación eléctrica."
+    },
+    {
+     "yazi": "En el año 2000 se descubrió la proteína motora responsable de este movimiento, a la que se llamó prestina."
+    },
+    {
+     "yazi": "En 2002 se demostró que los ratones sin prestina pierden entre cuarenta y sesenta decibeles de sensibilidad coclear."
+    }
+   ]
+  },
+  {
+   "id": "elektromotilite",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Electromotilidad y prestina",
+   "baslik": "Una célula que cambia de *longitud*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "células ciliadas externas",
+     "cumle": 0
+    },
+    {
+     "parca": "deiters_hucreleri",
+     "metin": "células de Deiters",
+     "cumle": 0
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "membrana basilar",
+     "cumle": 3
+    },
+    {
+     "parca": "tektoryal_membran",
+     "metin": "membrana tectoria",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Despolarización: se _acorta_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hiperpolarización: se _alarga_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Un _impulso_ en cada ciclo",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Las células ciliadas externas son células largas y cilíndricas, y su base se apoya en las células de Deiters.",
+    "Cuando la célula se despolariza se acorta, y cuando se hiperpolariza se alarga; esta propiedad se llama electromotilidad.",
+    "El movimiento es muy rápido; en células aisladas se ha medido que continúa hasta decenas de miles de hertz.",
+    "Su base se une a la membrana basilar mediante las células de Deiters, y sus estereocilios más altos se anclan en la membrana tectoria.",
+    "Así, en cada ciclo de la onda sonora, la célula ciliada externa da a la membrana basilar un pequeño impulso en el momento justo.",
+    "Es como empujar a un niño en un columpio en el momento preciso: pequeños empujones producen un gran balanceo."
+   ]
+  },
+  {
+   "id": "prestin",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Electromotilidad y prestina",
+   "baslik": "La proteína motora: la *prestina*",
+   "maddeler": [
+    {
+     "metin": "Densa en la _pared lateral_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Cambia de _forma_ con el voltaje",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sin ATP, _muy rápida_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Gen: _SLC26A5_",
+     "cumle": 4,
+     "ikon": "gen_dna"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "dis_tuy_hucresi",
+    "cumle": 0,
+    "ayar": {
+     "mod": "uclu",
+     "cumleler": [
+      1,
+      0,
+      1
+     ]
+    },
+    "etiketler": [
+     {
+      "parca": "prestin",
+      "metin": "Prestina: pared lateral",
+      "cumle": 0,
+      "yer": "alt"
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "prestin",
+      "cumle": 0
+     },
+     {
+      "parca": "depolarizasyon",
+      "cumle": 1
+     },
+     {
+      "parca": "hiperpolarizasyon",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "La prestina es una proteína muy densamente agrupada en la membrana de la pared lateral de la célula ciliada externa.",
+    "Cuando cambia el voltaje de membrana, la prestina cambia de forma; el efecto conjunto de millones de moléculas modifica la longitud de la célula.",
+    "Este movimiento difiere de la contracción muscular: no usa ATP y se activa directamente por los cambios del voltaje de membrana.",
+    "Se ha demostrado que la prestina necesita iones de cloruro dentro de la célula para funcionar.",
+    {
+     "yazi": "El gen de la prestina se conoce como SLC26A5."
+    },
+    "Se cree que el movimiento activo del haz de estereocilios también contribuye, pero en los mamíferos el motor principal es la prestina."
+   ]
+  },
+  {
+   "id": "dongu",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Electromotilidad y prestina",
+   "baslik": "Un *circuito* que se retroalimenta",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Vibra la membrana",
+     "metin": "La membrana basilar vibra con el sonido",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Se inclinan los estereocilios",
+     "metin": "Se abren canales, cambia el voltaje",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Prestina",
+     "metin": "Cambia la longitud de la célula",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Crece la vibración",
+     "metin": "El circuito comienza de nuevo",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Podemos pensar en el amplificador como un circuito: primero, la membrana basilar vibra con la onda sonora.",
+    "Los estereocilios de la célula ciliada externa se inclinan, los canales se abren y el voltaje de membrana cambia al ritmo del sonido.",
+    "Gracias a la prestina, este cambio de voltaje modifica la longitud de la célula.",
+    "El cambio de longitud vuelve a la membrana basilar y aumenta la vibración; el circuito comienza de nuevo.",
+    "La energía de este circuito proviene del potencial endococlear que vimos en la lección anterior.",
+    "Por eso la ganancia del amplificador también disminuye cuando la estría vascular se debilita."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Sensibilidad y selectividad",
+   "baslik": "*Más* ganancia para sonidos suaves",
+   "maddeler": [
+    {
+     "metin": "Ganancia: unos _40 a 50 dB_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Máxima para sonidos _suaves_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Aporte _pequeño_ en sonidos intensos",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Resultado: _compresión_ natural",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "giris_cikis",
+    "cumle": 0,
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "saglikli",
+       "cumle": 0
+      },
+      {
+       "tip": "hasarli",
+       "cumle": 1
+      }
+     ],
+     "kazanc_cumle": 1,
+     "kompresyon_cumle": 3
+    },
+    "vurgula": [
+     {
+      "parca": "kazanc",
+      "cumle": 1
+     },
+     {
+      "parca": "saglikli",
+      "cumle": 2
+     },
+     {
+      "parca": "kompresyon",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "En la región del pico, el amplificador coclear aumenta el movimiento de la membrana basilar en unos cuarenta a cincuenta decibeles.",
+    "Esta ganancia funciona mejor con sonidos suaves; gracias al amplificador, los sonidos cercanos al umbral se vuelven audibles.",
+    "A medida que sube la intensidad la ganancia disminuye; con sonidos muy intensos el aporte del amplificador es bastante pequeño.",
+    "Así, la membrana basilar comprime un amplio rango de niveles de entrada en un rango de movimiento más estrecho; esto se llama compresión.",
+    "Gracias a esta compresión natural, podemos oír un rango de niveles muy amplio, desde un susurro hasta el ruido de un concierto."
+   ]
+  },
+  {
+   "id": "secicilik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Sensibilidad y selectividad",
+   "baslik": "Una *sintonía frecuencial* aguda",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "El pico se _agudiza_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Frecuencias cercanas se _distinguen_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "pico agudo",
+     "cumle": 0
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "vibra una región estrecha",
+     "cumle": 1
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1,
+     "olcek": 1.8
+    }
+   ],
+   "cumleler": [
+    "El amplificador coclear no solo amplifica; también agudiza el pico de la onda viajera.",
+    "Como resultado, cada frecuencia pone en movimiento una región más estrecha de la membrana basilar.",
+    "Esta agudeza nos permite distinguir frecuencias cercanas entre sí; esto se llama selectividad frecuencial."
+   ]
+  },
+  {
+   "id": "secicilik_ayar",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Sensibilidad y selectividad",
+   "baslik": "La *curva de sintonía* de una fibra",
+   "cizim": "ayar_egrisi",
+   "ayar": {
+    "cf": 2000,
+    "egriler": [
+     {
+      "tip": "saglikli",
+      "cumle": 0
+     },
+     {
+      "tip": "hasarli",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "uc",
+     "cumle": 0
+    },
+    {
+     "parca": "hasarli",
+     "cumle": 1
+    },
+    {
+     "parca": "kuyruk",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sana: punta _estrecha y profunda_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Dañada: _sube y se ensancha_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Lo que queda: mecánica _pasiva_",
+     "cumle": 2,
+     "ikon": "kulak"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "karakteristik_frekans",
+     "metin": "frecuencia característica",
+     "cumle": 0
+    },
+    {
+     "parca": "hasarli",
+     "metin": "pérdida de células ciliadas externas",
+     "cumle": 1,
+     "yer": "ust"
+    }
+   ],
+   "cumleler": [
+    "Las curvas de sintonía de las fibras del nervio auditivo lo muestran bien: en una cóclea sana, la curva tiene una punta estrecha y profunda.",
+    "Cuando las células ciliadas externas se dañan, esta punta aguda se pierde; la curva sube y además se ensancha.",
+    "La parte ancha y poco sensible que queda refleja la mecánica pasiva de la cóclea."
+   ]
+  },
+  {
+   "id": "saglam_hasarli",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Sensibilidad y selectividad",
+   "baslik": "Amplificador sano y *dañado*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Amplificador sano",
+     "metin": "Umbral normal, sintonía aguda, rango amplio",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Pérdida de umbral",
+     "metin": "Unos 40 a 60 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Sintonía borrosa",
+     "metin": "Se mezclan frecuencias cercanas",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Rango estrecho",
+     "metin": "Los sonidos intensos crecen rápido",
+     "cumle": 4
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Dificultad en ruido",
+     "metin": "Crecimiento anormal de la sonoridad",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Un amplificador sano da umbrales normales y una sintonía frecuencial aguda.",
+    "Gracias a su amplio rango dinámico, se manejan con comodidad tanto los sonidos suaves como los intensos.",
+    "Cuando se pierden las células ciliadas externas, los umbrales suelen subir unos cuarenta a sesenta decibeles.",
+    "La sintonía frecuencial se vuelve borrosa; las frecuencias cercanas y los detalles finos del habla se mezclan.",
+    "También se pierde la compresión: los sonidos suaves no se oyen, pero los intensos alcanzan rápidamente una sonoridad normal.",
+    "Esto se llama reclutamiento, un crecimiento anormalmente rápido de la sonoridad, y aumenta la dificultad para entender en ruido."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Signos clínicos",
+   "baslik": "Ejemplo: *pérdida* de células ciliadas externas",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Vía aérea_: descendente hacia agudos",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Vía ósea_: igual que la aérea",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       25,
+       40,
+       55,
+       60
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       15,
+       20,
+       25,
+       40,
+       55
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "En este audiograma de ejemplo, el oído derecho muestra una pérdida que desciende hacia las frecuencias agudas.",
+    "Los umbrales por vía ósea están al mismo nivel que los de vía aérea, así que la pérdida es neurosensorial.",
+    "En cuatro mil hertz la pérdida es de unos cincuenta y cinco decibeles; este nivel puede ser compatible con pérdida de células ciliadas externas.",
+    "Como regla general, una pérdida bastante mayor de sesenta decibeles puede sugerir que también están afectadas las células ciliadas internas.",
+    "Pero el audiograma por sí solo no puede mostrar con certeza qué células están afectadas."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Signos clínicos",
+   "baslik": "El *eco* del amplificador: las OEA",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "dos tonos de estímulo: f1 y f2",
+     "cumle": 2
+    },
+    {
+     "parca": "yanit",
+     "metin": "producto de distorsión: 2f1-f2",
+     "cumle": 3
+    },
+    {
+     "parca": "gurultu",
+     "metin": "piso de ruido",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La huella clínica más importante del amplificador coclear son las otoemisiones acústicas (OEA).",
+    "El movimiento de las células ciliadas externas genera sonidos muy débiles que un micrófono sensible puede registrar en el conducto auditivo.",
+    "Como el amplificador no es lineal, dos tonos presentados a la vez crean en el oído nuevas frecuencias, llamadas productos de distorsión.",
+    {
+     "yazi": "El más destacado está en 2f1-f2, y es la base de la prueba de otoemisiones acústicas producto de distorsión (OEAPD).",
+     "ses": "El más destacado está en dos efe uno menos efe dos, y es la base de la prueba de otoemisiones acústicas producto de distorsión (OEAPD)."
+    },
+    "Una emisión claramente por encima del piso de ruido sugiere que las células ciliadas externas de esa región funcionan.",
+    "Las emisiones suelen perderse en pérdidas mayores de treinta a cuarenta decibeles, y además el oído medio debe estar sano."
+   ]
+  },
+  {
+   "id": "ayar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Signos clínicos",
+   "baslik": "La *fragilidad* del amplificador",
+   "maddeler": [
+    {
+     "metin": "El tronco cerebral puede _reducir_ la ganancia",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Vulnerable_ al ruido, fármacos y edad",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Audífonos: solución parcial con _compresión_",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "El audífono _no restaura_ la agudeza",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "RIC"
+    },
+    "vurgula": [
+     {
+      "parca": "islemci",
+      "cumle": 2
+     }
+    ],
+    "cumle": 2
+   },
+   "cumleler": [
+    "La ganancia no es fija; las fibras olivococleares mediales, que van del tronco cerebral a las células ciliadas externas, pueden reducirla.",
+    "Las células ciliadas externas son más vulnerables que las internas al ruido, a ciertos fármacos y al envejecimiento.",
+    "La compresión de los audífonos intenta compensar, en parte, la compresión natural perdida.",
+    "Al dar más ganancia a los sonidos suaves y menos a los intensos, el audífono ajusta los sonidos al rango dinámico más estrecho.",
+    "Pero un audífono no restaura la agudeza frecuencial perdida, por lo que la dificultad para entender en ruido puede persistir con el audífono."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Signos clínicos",
+   "baslik": "Consejo clínico",
+   "metin": "El daño de las células ciliadas externas puede no verse de inmediato en el audiograma. Sumar las OEA al audiograma al vigilar ruido u ototoxicidad ayuda a detectar cambios tempranos.",
+   "cumle": 2,
+   "cumleler": [
+    "Un consejo de la práctica: el daño de las células ciliadas externas no siempre se ve de inmediato en el audiograma.",
+    "En personas expuestas al ruido, algunos estudios informaron menor amplitud de las OEA antes de cualquier desplazamiento del umbral.",
+    "Por eso, sumar las OEA al audiograma al vigilar la exposición al ruido o la ototoxicidad puede ayudar a detectar cambios tempranos.",
+    "Interpreten siempre los resultados con el mismo protocolo y compárenlos con la medición anterior de la persona."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Motor: _células ciliadas externas_ y prestina",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Ganancia de unos _40 a 50 dB_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Selectividad _frecuencial_ aguda",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Huella clínica: _otoemisiones acústicas_",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "Gracias a la prestina, las células ciliadas externas cambian de longitud; esta propiedad se llama electromotilidad.",
+    "Con sonidos suaves, el amplificador coclear aumenta el movimiento de la membrana basilar en unos cuarenta a cincuenta decibeles.",
+    "El amplificador agudiza el pico de la onda viajera y proporciona la selectividad frecuencial.",
+    "La función de las células ciliadas externas puede evaluarse con otoemisiones acústicas."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Con qué sonidos es mayor la ganancia del amplificador coclear?",
+   "secenekler": [
+    "Sonidos suaves",
+    "Sonidos moderadamente intensos",
+    "Sonidos muy intensos",
+    "Igual para todos los sonidos"
+   ],
+   "dogru": 0,
+   "aciklama": "La ganancia es mayor con _sonidos suaves_ y disminuye al subir la intensidad; esto es la compresión.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿con qué sonidos es más eficaz la ganancia del amplificador coclear?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: sonidos suaves.",
+    "La ganancia es mayor con sonidos cercanos al umbral y disminuye al subir la intensidad, lo que crea una compresión natural."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cómo funciona la audición por *vía ósea*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo llega el sonido a la cóclea a través de la vibración del cráneo: la audición por vía ósea.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

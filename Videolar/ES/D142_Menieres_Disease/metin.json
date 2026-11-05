@@ -1,0 +1,808 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D142_Menieres_Disease_ES",
+ "kapak": {
+  "ust": "LECCIÓN 142",
+  "baslik": "Enfermedad de<br>*Ménière*",
+  "alt": "Hidrops, crisis y pérdida fluctuante",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      40,
+      25,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Enfermedad de Ménière e hidrops endolinfático | Lección 142 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos la enfermedad de Ménière y el hidrops endolinfático que la sustenta. Con ejemplos, vemos las crisis de vértigo de 20 minutos a 12 horas, la hipoacusia neurosensorial fluctuante en frecuencias graves, el tinnitus y la plenitud ótica, y los criterios diagnósticos de la Sociedad Bárány.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Lopez-Escamez et al., Diagnostic Criteria for Menière's Disease, Journal of Vestibular Research (2015); Jacobson and Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "meniere",
+   "vertigo"
+  ],
+  "etiketler": [
+   "enfermedad de Ménière",
+   "hidrops endolinfático",
+   "vértigo",
+   "hipoacusia fluctuante",
+   "plenitud ótica",
+   "tinnitus",
+   "pérdida auditiva en frecuencias graves",
+   "criterios de Bárány",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 142",
+   "baslik": "Enfermedad de *Ménière* e hidrops endolinfático",
+   "alt": "Crisis, pérdida fluctuante y criterios diagnósticos",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos la enfermedad de Ménière y el hidrops endolinfático que la sustenta.",
+    "Veremos las crisis de vértigo, la pérdida auditiva fluctuante y los criterios diagnósticos de la Sociedad Bárány."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La enfermedad y el hidrops",
+   "baslik": "Enfermedad de *Ménière*",
+   "maddeler": [
+    {
+     "metin": "Crisis recurrentes de _vértigo_",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Pérdida fluctuante en _frecuencias graves_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Tinnitus_ y plenitud ótica",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "HALLAZGO CLAVE",
+    "metin": "*Hidrops endolinfático* en el oído interno",
+    "cumle": 5
+   },
+   "cumleler": [
+    "La enfermedad de Ménière es un trastorno crónico del oído interno que se presenta en crisis.",
+    "Su síntoma principal son las crisis de vértigo, una sensación de giro, que comienzan de forma espontánea y duran de minutos a horas.",
+    "Las crisis se acompañan de una hipoacusia neurosensorial fluctuante en el mismo oído, que afecta las frecuencias graves.",
+    "El tinnitus y la sensación de oído tapado completan el cuadro; estos síntomas pueden aumentar antes o durante una crisis.",
+    "La enfermedad lleva el nombre de Prosper Ménière, el médico francés que relacionó estos síntomas con el oído interno.",
+    "El hidrops endolinfático se considera el hallazgo de base fundamental."
+   ]
+  },
+  {
+   "id": "hidrops",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La enfermedad y el hidrops",
+   "baslik": "*Hidrops* endolinfático",
+   "cizim": "koklea_kesit",
+   "vurgula": [
+    {
+     "parca": "scala_media",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "scala_media",
+     "metin": "Rampa media: endolinfa",
+     "cumle": 0
+    },
+    {
+     "parca": "reissner_membrani",
+     "metin": "Membrana de Reissner: desplazada",
+     "cumle": 2
+    },
+    {
+     "parca": "scala_vestibuli",
+     "metin": "Rampa vestibular",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Hidrops: más volumen de endolinfa",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Primero el ápice: frecuencias graves",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "El hidrops puede ser asintomático",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "scala_media",
+     "cumle": 1,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La rampa media, en el centro del conducto coclear, está llena de endolinfa, un líquido rico en potasio.",
+    "El hidrops endolinfático es un aumento del volumen de endolinfa en este compartimento, que entonces se dilata.",
+    "La rampa media dilatada empuja la membrana de Reissner hacia la rampa vestibular.",
+    "El hidrops suele afectar primero la región cercana al ápice coclear, la de las frecuencias graves, lo que explica la pérdida en graves.",
+    "Sin embargo, puede haber hidrops sin síntomas, por lo que hidrops y enfermedad de Ménière no son lo mismo.",
+    "No se sabe del todo por qué se desarrolla el hidrops; se han propuesto factores genéticos, autoinmunes y anatómicos."
+   ]
+  },
+  {
+   "id": "labirent",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La enfermedad y el hidrops",
+   "baslik": "El hidrops y el órgano del *equilibrio*",
+   "cizim": "vestibuler",
+   "vurgula": [
+    {
+     "parca": "sakkul",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "sakkul",
+     "metin": "Sáculo: a menudo afectado",
+     "cumle": 1
+    },
+    {
+     "parca": "utrikul",
+     "metin": "Utrículo",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Canales semicirculares",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "La endolinfa no se encuentra solo en la cóclea, sino también en el laberinto vestibular.",
+    "Después de la cóclea, el hidrops afecta con más frecuencia al sáculo.",
+    "El utrículo y los canales semicirculares se afectan con menos frecuencia y más tarde.",
+    "No se sabe del todo cómo surge el giro durante una crisis; se han propuesto cambios de presión e iónicos en el laberinto membranoso.",
+    "Por eso la intensidad de las crisis no siempre es paralela al grado de hidrops."
+   ]
+  },
+  {
+   "id": "seyir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La enfermedad y el hidrops",
+   "baslik": "¿A quién afecta y cómo *evoluciona?*",
+   "maddeler": [
+    {
+     "metin": "Suele comenzar en la _edad media_",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Al principio, casi siempre _un oído_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Después puede afectarse el _otro oído_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Frecuencia de crisis _impredecible_",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "La audición puede empeorar _permanentemente_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "La enfermedad comienza con más frecuencia entre los cuarenta y los sesenta años, pero puede aparecer a cualquier edad.",
+    "Al principio, por lo general solo se afecta un oído.",
+    "Con los años, en algunos pacientes también se afecta el otro oído y la enfermedad se vuelve bilateral.",
+    "Las crisis pueden llegar agrupadas o faltar durante meses o años; la evolución varía mucho de una persona a otra.",
+    "La audición que se recupera entre crisis en la etapa inicial puede empeorar de forma permanente en los años siguientes.",
+    "En la etapa tardía, la pérdida suele volverse de moderada a severa, con una curva más plana."
+   ]
+  },
+  {
+   "id": "atak",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Crisis y síntomas",
+   "baslik": "¿Cómo transcurre una *crisis?*",
+   "adimlar": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Antes",
+     "metin": "Plenitud, más tinnitus",
+     "cumle": 0
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Giro",
+     "metin": "De 20 minutos a 12 horas",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Náuseas, vómitos",
+     "metin": "No puede mantenerse de pie",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Nistagmo",
+     "metin": "Horizontal y torsional",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Después",
+     "metin": "Cansancio e inestabilidad",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Antes de una crisis, muchos pacientes sienten plenitud en el oído, un tinnitus más fuerte o una audición disminuida.",
+    "La sensación de giro que sigue dura entre veinte minutos y doce horas, según los criterios de Bárány.",
+    "Durante la crisis son frecuentes las náuseas, los vómitos y la imposibilidad de mantenerse de pie.",
+    "En la exploración se observa a menudo un nistagmo con componentes horizontal y torsional; su dirección puede cambiar durante la crisis.",
+    "Después de la crisis, el cansancio y la sensación de inestabilidad pueden persistir durante horas o días.",
+    "Un giro de pocos segundos, o un mareo que continúa sin pausa durante días, no es una crisis típica de Ménière."
+   ]
+  },
+  {
+   "id": "kulak",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Crisis y síntomas",
+   "baslik": "*Síntomas* óticos",
+   "maddeler": [
+    {
+     "metin": "_Tinnitus_: a menudo un rugido grave",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Plenitud_: oído tapado, con presión",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "_Fluctuación_ de la audición día a día",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Síntomas que aumentan _en el mismo oído_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "El tinnitus de la enfermedad de Ménière se describe a menudo como un zumbido grave o un sonido de rugido.",
+    "La plenitud ótica es la sensación de que el oído está tapado o con presión, y puede hacerse notoria antes de una crisis.",
+    "Los pacientes notan que algunos días oyen mejor y otros días peor.",
+    "Que estos síntomas óticos aumenten en el mismo oído y al mismo tiempo que el vértigo es un dato valioso para la evaluación.",
+    "Un diario que registre el momento de los síntomas ayuda tanto al médico como al audiólogo."
+   ]
+  },
+  {
+   "id": "gec_donem",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Crisis y síntomas",
+   "baslik": "Rasgos de la etapa *tardía*",
+   "maddeler": [
+    {
+     "metin": "Crisis de caída de _Tumarkin_",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Tono distorsionado: _diploacusia_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Reclutamiento_ y molestia ante sonidos",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Discriminación del habla _reducida_",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "En la enfermedad avanzada, algunas personas tienen crisis de caída súbita: caen al suelo sin perder el conocimiento.",
+    "Se denominan crisis otolíticas de Tumarkin y se explican por una estimulación súbita de los órganos otolíticos.",
+    "En el oído afectado, los sonidos pueden oírse con otro tono o distorsionados; esto se llama diploacusia.",
+    "Por el reclutamiento, un crecimiento anormalmente rápido de la sonoridad, los sonidos fuertes pueden resultar molestos.",
+    "A medida que avanza la enfermedad, también pueden bajar los porcentajes de discriminación del habla."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "Una pérdida típica en *frecuencias graves*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Vía ósea_: oído derecho",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: vía aérea",
+     "cumle": 2
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Vía ósea_: oído izquierdo",
+     "cumle": 3
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       40,
+       25,
+       25,
+       30
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       45,
+       45,
+       40,
+       25,
+       20
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 3
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, el oído derecho muestra una pérdida marcada en las frecuencias graves que mejora hacia los agudos.",
+    "Los umbrales por vía ósea se superponen con los de vía aérea, por lo que la pérdida es neurosensorial.",
+    "El oído izquierdo está dentro de límites normales; este cuadro unilateral puede ser compatible con una enfermedad de Ménière inicial.",
+    "Bárány exige que la vía ósea, en dos frecuencias contiguas por debajo de dos mil hertz, sea al menos treinta decibeles peor que en el otro oído.",
+    "Aquí la diferencia por vía ósea es de treinta y cinco decibeles en doscientos cincuenta y quinientos hertz, así que se cumple este criterio.",
+    "Algunos pacientes muestran una curva en la que se afectan tanto los graves como los agudos, con un pico alrededor de dos mil hertz."
+   ]
+  },
+  {
+   "id": "dalgalanma",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "*Umbrales* fluctuantes",
+   "sutunlar": [
+    "Momento",
+    "250 Hz",
+    "500 Hz",
+    "1000 Hz"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Periodo sintomático",
+      "50 dB HL",
+      "50 dB HL",
+      "40 dB HL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Dos semanas después",
+      "25 dB HL",
+      "25 dB HL",
+      "20 dB HL"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Seis meses después",
+      "40 dB HL",
+      "45 dB HL",
+      "35 dB HL"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Uno de los rasgos más característicos de la enfermedad de Ménière es que la audición fluctúa con el tiempo.",
+    "En esta tabla de ejemplo, los umbrales graves de un oído durante un periodo sintomático están entre cuarenta y cincuenta decibeles.",
+    "En el control de dos semanas después, los umbrales han mejorado claramente.",
+    "En la medición de seis meses después, los umbrales han vuelto a empeorar.",
+    "Un solo audiograma no puede mostrar esta fluctuación; por eso los audiogramas seriados son tan valiosos.",
+    "Hacer las mediciones seriadas con el mismo equipo y el mismo método permite una comparación confiable."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Ante la plenitud ótica, no te quedes en la timpanometría: mide la vía ósea en graves y planifica una nueva prueba en un periodo sintomático.",
+   "cumleler": [
+    "Un consejo clínico: la queja de plenitud ótica suele atribuirse a un problema del oído medio.",
+    "Si el timpanograma es normal, no se detengan ahí; midan siempre los umbrales por vía aérea y ósea en las frecuencias graves.",
+    "Una pérdida neurosensorial en graves con un timpanograma normal es un hallazgo importante que requiere derivación al médico.",
+    "Indiquen también al paciente que puede acudir a la clínica cuando aumenten los síntomas; un audiograma tomado entonces es muy informativo."
+   ]
+  },
+  {
+   "id": "testler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "*Pruebas* complementarias",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "ECochG",
+     "metin": "Relación PS/PA aumentada",
+     "cumle": 0
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Calórica",
+     "metin": "Debilidad del lado afectado",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "vHIT",
+     "metin": "A menudo normal",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "VEMP",
+     "metin": "Hallazgos variables",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "RM",
+     "metin": "Descartar causa retrococlear, ver hidrops",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La electrococleografía (ECochG) puede mostrar una relación aumentada entre el potencial de suma y el potencial de acción en el oído afectado."
+    },
+    "En la prueba calórica es frecuente una respuesta débil del lado afectado.",
+    "En cambio, la prueba de impulso cefálico con video suele seguir normal; veremos esta disociación en lecciones posteriores.",
+    "Las respuestas de los VEMP también pueden afectarse, pero los hallazgos varían.",
+    "La resonancia magnética se usa para descartar causas retrococleares; con técnicas especiales, también puede mostrar el hidrops.",
+    "Ninguna de estas pruebas establece el diagnóstico por sí sola; el diagnóstico se basa en criterios clínicos."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 4",
+   "bolum": "Criterios diagnósticos",
+   "baslik": "Criterios de Bárány: *definida* y probable",
+   "sol": {
+    "ust": "Ménière definida",
+    "maddeler": [
+     {
+      "metin": "Al menos dos crisis de vértigo",
+      "cumle": 1
+     },
+     {
+      "metin": "Cada una de 20 min a 12 horas",
+      "cumle": 1
+     },
+     {
+      "metin": "Pérdida audiométrica en graves y medias",
+      "cumle": 2
+     },
+     {
+      "metin": "Síntomas óticos fluctuantes",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Ménière probable",
+    "maddeler": [
+     {
+      "metin": "Al menos dos episodios de vértigo o mareo",
+      "cumle": 4
+     },
+     {
+      "metin": "Cada uno de 20 min a 24 horas",
+      "cumle": 4
+     },
+     {
+      "metin": "Síntomas óticos fluctuantes",
+      "cumle": 4
+     },
+     {
+      "metin": "No requiere prueba audiométrica",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En 2015, la Sociedad Bárány y otras sociedades internacionales afines publicaron criterios diagnósticos conjuntos."
+    },
+    "La enfermedad de Ménière definida requiere al menos dos crisis espontáneas de vértigo, de veinte minutos a doce horas cada una.",
+    "Además, el oído afectado debe tener una hipoacusia neurosensorial en frecuencias graves a medias documentada por audiometría.",
+    "También se requieren síntomas óticos fluctuantes en el mismo oído, como cambios en la audición, tinnitus o plenitud.",
+    "En la enfermedad de Ménière probable, las crisis duran de veinte minutos a veinticuatro horas y no se requiere prueba audiométrica.",
+    "En ambos casos, el cuadro no debe explicarse mejor por otro diagnóstico vestibular."
+   ]
+  },
+  {
+   "id": "ayirici",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Criterios diagnósticos",
+   "baslik": "¿Qué entra en el diagnóstico *diferencial?*",
+   "ogeler": [
+    {
+     "ikon": "agri",
+     "baslik": "Migraña vestibular",
+     "metin": "La que más se parece",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Schwannoma vestibular",
+     "metin": "Causa retrococlear",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Oído interno autoinmune",
+     "metin": "Bilateral, rápidamente progresiva",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sordera súbita, laberintitis",
+     "metin": "Por lo general, un solo episodio",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El cuadro que más se parece a la enfermedad de Ménière es la migraña vestibular, y ambas pueden darse en la misma persona.",
+    "La migraña vestibular también puede causar crisis y síntomas óticos, pero no se espera una pérdida auditiva clara y permanente.",
+    "La pérdida auditiva y el tinnitus unilaterales también deben hacer pensar en causas retrococleares, como el schwannoma vestibular.",
+    "La enfermedad autoinmune del oído interno se considera sobre todo en pérdidas bilaterales y rápidamente progresivas.",
+    "La sordera súbita y la laberintitis suelen ser episodios únicos, que no se repiten.",
+    "Hacer esta distinción es tarea del médico; los hallazgos audiológicos aportan una contribución importante al proceso."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "El papel del audiólogo",
+   "baslik": "El papel del *audiólogo*",
+   "maddeler": [
+    {
+     "metin": "Un _audiograma_ durante los síntomas",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Documentar la _fluctuación_ con pruebas seriadas",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Batería_ de pruebas vestibulares",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "_Rehabilitación_ auditiva y del tinnitus",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "_Colaboración_ con el médico",
+     "cumle": 5,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "La primera tarea del audiólogo es documentar con precisión la audición, sobre todo en los periodos sintomáticos.",
+    "Los audiogramas seriados muestran la fluctuación y ayudan a evaluar los criterios diagnósticos.",
+    "Las pruebas vestibulares revelan el lado afectado y el estado de la función vestibular.",
+    "Para la pérdida auditiva permanente y el tinnitus pueden planificarse opciones de rehabilitación, como audífonos y orientación.",
+    "El tratamiento lo planifica el médico y abarca un amplio abanico, desde cambios en el estilo de vida hasta medicamentos y procedimientos intervencionistas.",
+    "Por eso el audiólogo trabaja en contacto constante con el otorrinolaringólogo."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Hidrops: dilatación de la _rampa media_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Crisis: _de 20 minutos a 12 horas_",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Pérdida neurosensorial fluctuante en _graves_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Bárány: crisis, audiograma, _síntomas óticos_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "La enfermedad de Ménière se basa en el hidrops endolinfático, una dilatación de la rampa media.",
+    "Las crisis de vértigo duran de veinte minutos a doce horas.",
+    "La pérdida auditiva comienza en las frecuencias graves y fluctúa; por eso importan los audiogramas seriados.",
+    "Los criterios de Bárány buscan en conjunto crisis, pérdida audiométrica y síntomas óticos fluctuantes."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "En la enfermedad de Ménière definida, ¿cuánto dura una crisis de vértigo?",
+   "secenekler": [
+    "Unos pocos segundos",
+    "De 20 minutos a 12 horas",
+    "Días sin pausa"
+   ],
+   "dogru": 1,
+   "aciklama": "Criterios de Bárány: al menos dos crisis de _20 minutos a 12 horas_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: según los criterios de Bárány, ¿cuánto dura una crisis de vértigo en la enfermedad de Ménière definida?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: de veinte minutos a doce horas.",
+    "Un giro posicional que dura segundos, o un mareo que continúa durante días sin pausa, sugiere otros cuadros."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Schwannoma* vestibular y tumores pontocerebelosos",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección estudiaremos el schwannoma vestibular y los tumores del ángulo pontocerebeloso, junto con sus hallazgos audiológicos.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

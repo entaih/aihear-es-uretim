@@ -1,0 +1,1118 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D073_How_Speech_Is_Produced_ES",
+ "kapak": {
+  "ust": "LECCIÓN 73",
+  "baslik": "Cómo se<br>*produce* el habla",
+  "alt": "Respiración, voz y articulación",
+  "cizim": "kaynak_suzgec"
+ },
+ "youtube": {
+  "baslik": "Producción del habla: respiración, voz y articulación | Lección 73 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué sistemas trabajan juntos para producir el habla? En esta lección vemos la respiración para el habla, cómo la laringe y los pliegues vocales producen la voz, cómo se controlan el tono y la intensidad, la resonancia del tracto vocal, el papel del velo del paladar, los articuladores y la coarticulación y, por último, el lugar de la retroalimentación auditiva en el habla.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Raphael, Borden and Harris, Speech Science Primer: Physiology, Acoustics, and Perception of Speech; Titze, Principles of Voice Production; Fant, Acoustic Theory of Speech Production; Ladefoged, A Course in Phonetics.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "habla",
+   "cienciasdelhabla"
+  ],
+  "etiketler": [
+   "producción del habla",
+   "laringe",
+   "pliegues vocales",
+   "fonación",
+   "articulación",
+   "resonancia",
+   "tracto vocal",
+   "formantes",
+   "coarticulación",
+   "efecto Lombard",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 73",
+   "baslik": "Cómo se *produce* el habla",
+   "alt": "Respiración, voz y articulación",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección pasamos del oído al habla y veremos cómo se produce el habla.",
+    "Veremos por orden la respiración, la producción de la voz en la laringe, la resonancia y la articulación, y cerraremos con el papel de la audición."
+   ]
+  },
+  {
+   "id": "sistemler",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "Respiración y voz",
+   "baslik": "Los *cuatro* subsistemas del habla",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Respiración",
+     "metin": "Flujo de aire, energía",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Fonación",
+     "metin": "Vibran los pliegues vocales",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Resonancia",
+     "metin": "El tracto vocal filtra",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Articulación",
+     "metin": "Los sonidos toman forma",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El habla es el producto de cuatro subsistemas que trabajan juntos.",
+    "El sistema respiratorio aporta el flujo de aire, que es la fuente de energía del habla.",
+    "La laringe convierte este flujo de aire en un sonido vibratorio; esto se llama fonación.",
+    "La vibración la producen los pliegues vocales dentro de la laringe, llamados plicae vocales en latín.",
+    "Las cavidades del tracto vocal filtran y moldean este sonido; esto se llama resonancia.",
+    "La lengua, los labios, la mandíbula y el paladar blando convierten el sonido en sonidos del habla; esto se llama articulación.",
+    "Todos estos movimientos los coordina el cerebro con precisión de milisegundos y la audición los vigila constantemente."
+   ]
+  },
+  {
+   "id": "solunum",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Respiración y voz",
+   "baslik": "La *respiración* para el habla",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Tiempo (s)"
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": "Volumen pulmonar"
+    },
+    "seriler": [
+     {
+      "ad": "sessiz",
+      "noktalar": [
+       [
+        0.0,
+        0.35
+       ],
+       [
+        0.2,
+        0.36
+       ],
+       [
+        0.4,
+        0.387
+       ],
+       [
+        0.6,
+        0.427
+       ],
+       [
+        0.8,
+        0.475
+       ],
+       [
+        1.0,
+        0.523
+       ],
+       [
+        1.2,
+        0.563
+       ],
+       [
+        1.4,
+        0.59
+       ],
+       [
+        1.6,
+        0.6
+       ],
+       [
+        1.75,
+        0.598
+       ],
+       [
+        1.9,
+        0.59
+       ],
+       [
+        2.05,
+        0.579
+       ],
+       [
+        2.2,
+        0.563
+       ],
+       [
+        2.35,
+        0.544
+       ],
+       [
+        2.5,
+        0.523
+       ],
+       [
+        2.65,
+        0.499
+       ],
+       [
+        2.8,
+        0.475
+       ],
+       [
+        2.95,
+        0.451
+       ],
+       [
+        3.1,
+        0.427
+       ],
+       [
+        3.25,
+        0.406
+       ],
+       [
+        3.4,
+        0.387
+       ],
+       [
+        3.55,
+        0.371
+       ],
+       [
+        3.7,
+        0.36
+       ],
+       [
+        3.85,
+        0.352
+       ],
+       [
+        4.0,
+        0.35
+       ],
+       [
+        4.0,
+        0.35
+       ],
+       [
+        4.2,
+        0.36
+       ],
+       [
+        4.4,
+        0.387
+       ],
+       [
+        4.6,
+        0.427
+       ],
+       [
+        4.8,
+        0.475
+       ],
+       [
+        5.0,
+        0.523
+       ],
+       [
+        5.2,
+        0.563
+       ],
+       [
+        5.4,
+        0.59
+       ],
+       [
+        5.6,
+        0.6
+       ],
+       [
+        5.75,
+        0.598
+       ],
+       [
+        5.9,
+        0.59
+       ],
+       [
+        6.05,
+        0.579
+       ],
+       [
+        6.2,
+        0.563
+       ],
+       [
+        6.35,
+        0.544
+       ],
+       [
+        6.5,
+        0.523
+       ],
+       [
+        6.65,
+        0.499
+       ],
+       [
+        6.8,
+        0.475
+       ],
+       [
+        6.95,
+        0.451
+       ],
+       [
+        7.1,
+        0.427
+       ],
+       [
+        7.25,
+        0.406
+       ],
+       [
+        7.4,
+        0.387
+       ],
+       [
+        7.55,
+        0.371
+       ],
+       [
+        7.7,
+        0.36
+       ],
+       [
+        7.85,
+        0.352
+       ],
+       [
+        8.0,
+        0.35
+       ],
+       [
+        8.0,
+        0.35
+       ],
+       [
+        8.2,
+        0.36
+       ],
+       [
+        8.4,
+        0.387
+       ],
+       [
+        8.6,
+        0.427
+       ],
+       [
+        8.8,
+        0.475
+       ],
+       [
+        9.0,
+        0.523
+       ],
+       [
+        9.2,
+        0.563
+       ],
+       [
+        9.4,
+        0.59
+       ],
+       [
+        9.6,
+        0.6
+       ],
+       [
+        9.75,
+        0.598
+       ],
+       [
+        9.9,
+        0.59
+       ],
+       [
+        10,
+        0.583
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 4,
+      "cumle": 2,
+      "etiket": "respiración en reposo",
+      "etiket_konum": [
+       8.6,
+       0.6
+      ],
+      "etiket_dx": 6,
+      "etiket_dy": -12
+     },
+     {
+      "ad": "konusma",
+      "noktalar": [
+       [
+        0.0,
+        0.2
+       ],
+       [
+        0.06,
+        0.229
+       ],
+       [
+        0.12,
+        0.31
+       ],
+       [
+        0.19,
+        0.431
+       ],
+       [
+        0.25,
+        0.575
+       ],
+       [
+        0.31,
+        0.719
+       ],
+       [
+        0.38,
+        0.84
+       ],
+       [
+        0.44,
+        0.921
+       ],
+       [
+        0.5,
+        0.95
+       ],
+       [
+        0.78,
+        0.943
+       ],
+       [
+        1.06,
+        0.921
+       ],
+       [
+        1.34,
+        0.887
+       ],
+       [
+        1.62,
+        0.84
+       ],
+       [
+        1.91,
+        0.783
+       ],
+       [
+        2.19,
+        0.719
+       ],
+       [
+        2.47,
+        0.648
+       ],
+       [
+        2.75,
+        0.575
+       ],
+       [
+        3.03,
+        0.502
+       ],
+       [
+        3.31,
+        0.431
+       ],
+       [
+        3.59,
+        0.367
+       ],
+       [
+        3.88,
+        0.31
+       ],
+       [
+        4.16,
+        0.263
+       ],
+       [
+        4.44,
+        0.229
+       ],
+       [
+        4.72,
+        0.207
+       ],
+       [
+        5.0,
+        0.2
+       ],
+       [
+        5.0,
+        0.2
+       ],
+       [
+        5.06,
+        0.229
+       ],
+       [
+        5.12,
+        0.31
+       ],
+       [
+        5.19,
+        0.431
+       ],
+       [
+        5.25,
+        0.575
+       ],
+       [
+        5.31,
+        0.719
+       ],
+       [
+        5.38,
+        0.84
+       ],
+       [
+        5.44,
+        0.921
+       ],
+       [
+        5.5,
+        0.95
+       ],
+       [
+        5.78,
+        0.943
+       ],
+       [
+        6.06,
+        0.921
+       ],
+       [
+        6.34,
+        0.887
+       ],
+       [
+        6.62,
+        0.84
+       ],
+       [
+        6.91,
+        0.783
+       ],
+       [
+        7.19,
+        0.719
+       ],
+       [
+        7.47,
+        0.648
+       ],
+       [
+        7.75,
+        0.575
+       ],
+       [
+        8.03,
+        0.502
+       ],
+       [
+        8.31,
+        0.431
+       ],
+       [
+        8.59,
+        0.367
+       ],
+       [
+        8.88,
+        0.31
+       ],
+       [
+        9.16,
+        0.263
+       ],
+       [
+        9.44,
+        0.229
+       ],
+       [
+        9.72,
+        0.207
+       ],
+       [
+        10.0,
+        0.2
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "cumle": 3,
+      "etiket": "al hablar",
+      "etiket_konum": [
+       0.5,
+       0.95
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": -12
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "verme",
+      "x": [
+       0.5,
+       5
+      ],
+      "y": 1.08,
+      "etiket": "espiración larga: habla",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "konusma",
+     "cumle": 3
+    },
+    {
+     "parca": "verme",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La energía del habla es el flujo de aire que sale de los pulmones; producimos los sonidos sobre todo al espirar.",
+    "Al inspirar, el diafragma se contrae y desciende; la cavidad torácica se expande y entra el aire.",
+    "En la respiración en reposo, la inspiración y la espiración duran tiempos similares; la inspiración ocupa cerca del cuarenta por ciento del ciclo.",
+    "Al hablar, inspiramos rápido y hablamos durante una espiración larga; la inspiración baja a cerca del diez por ciento del ciclo.",
+    "Para hablar, debe formarse una presión estable debajo de los pliegues vocales; se llama presión subglótica.",
+    "En el habla habitual, esta presión es de unos cinco a diez centímetros de agua; aumenta cuando hablamos fuerte.",
+    "Aumentar esta presión hace que la voz suene más fuerte, por eso el apoyo respiratorio es la principal fuente de intensidad vocal."
+   ]
+  },
+  {
+   "id": "fonasyon",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Respiración y voz",
+   "baslik": "¿*Cómo* vibran los pliegues vocales?",
+   "cumleler": [
+    "La laringe es una estructura formada por cartílagos en el extremo superior de la tráquea.",
+    "En su interior hay dos pliegues vocales, uno a cada lado; el espacio entre ellos se llama glotis.",
+    "Al inspirar, la glotis se abre; al empezar a hablar, los pliegues vocales se juntan y la glotis se cierra.",
+    "La presión de aire aumenta bajo los pliegues cerrados; la presión los separa y escapa una breve bocanada de aire.",
+    "Los pliegues vuelven a cerrarse por su propia elasticidad y por la succión que crea el aire en movimiento rápido, el efecto Bernoulli.",
+    "Este ciclo se repite cientos de veces por segundo; esta explicación se llama teoría mioelástica aerodinámica.",
+    "La velocidad del ciclo es la frecuencia fundamental; cada cierre genera un pulso de presión, por eso la fuente tiene una fundamental y armónicos."
+   ],
+   "cizim": "larinks_ustten",
+   "ayar": {
+    "kapanma_cumle": 2,
+    "titresim_cumle": 3,
+    "bernoulli_cumle": 4,
+    "f0_cumle": 6
+   },
+   "notlar": [
+    {
+     "metin": "Pliegues juntos: _glotis cerrada_",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Pliegues abiertos: _escapa una bocanada de aire_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Se cierran de nuevo: _elasticidad y succión_",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ses_telleri",
+     "metin": "pliegues vocales",
+     "cumle": 1
+    },
+    {
+     "parca": "glottis",
+     "metin": "glotis",
+     "cumle": 1
+    }
+   ]
+  },
+  {
+   "id": "perde",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Respiración y voz",
+   "baslik": "Control del tono y la *intensidad*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Más tensión",
+     "metin": "Sube la frecuencia fundamental",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Mayor masa",
+     "metin": "Más grave en hombres",
+     "cumle": 2
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Más presión",
+     "metin": "Voz más fuerte",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Susurro",
+     "metin": "Sin vibración, turbulencia",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Cambiamos el tono y la intensidad de la voz ajustando los pliegues vocales.",
+    "Los pliegues vocales estirados y alargados vibran más rápido y la frecuencia fundamental sube; aquí el músculo cricotiroideo es clave.",
+    "La masa de los pliegues también influye; en los hombres son más largos y gruesos, por eso la frecuencia fundamental es más baja.",
+    "En la pubertad, al crecer la laringe, la frecuencia fundamental desciende claramente, sobre todo en los hombres.",
+    "La intensidad aumenta sobre todo con la presión subglótica y con la firmeza con que se cierran los pliegues vocales.",
+    "En el susurro, los pliegues vocales no vibran; el aire pasa de forma turbulenta por una glotis estrechada y crea un sonido aperiódico."
+   ]
+  },
+  {
+   "id": "rezonans",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Resonancia",
+   "baslik": "El tracto vocal es un *filtro*",
+   "cizim": "kaynak_suzgec",
+   "ayar": {
+    "f0": 125,
+    "formantlar": [
+     500,
+     1500,
+     2500
+    ],
+    "kaynak_cumle": 0,
+    "suzgec_cumle": 1,
+    "cikis_cumle": 4
+   },
+   "vurgula": [
+    {
+     "parca": "kaynak",
+     "cumle": 0
+    },
+    {
+     "parca": "suzgec",
+     "cumle": 2
+    },
+    {
+     "parca": "formantlar",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "formantlar",
+     "metin": "500, 1500, 2500 Hz",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tracto vocal: unos _17 cm_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Un _tubo_ cerrado en un extremo",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tracto más corto: formantes _más altos_",
+     "cumle": 5,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "El sonido producido en los pliegues vocales es, por sí solo, como un zumbido; el tracto vocal es lo que lo convierte en habla.",
+    "El tracto vocal es el conjunto de cavidades que van de la laringe a los labios, más la cavidad nasal.",
+    "En un hombre adulto, el tracto vocal mide unos diecisiete centímetros y funciona como un tubo cerrado en un extremo.",
+    "Un tubo así resuena cerca de quinientos, mil quinientos y dos mil quinientos hertz, cerca de los formantes de una vocal neutra.",
+    "El tracto vocal refuerza los armónicos de la fuente cercanos a sus resonancias y debilita los demás.",
+    "En las mujeres y los niños el tracto vocal es más corto, por eso los formantes son más altos."
+   ]
+  },
+  {
+   "id": "velum",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Resonancia",
+   "baslik": "El paladar blando: el *velo*",
+   "cizim": "ostaki_kaslari",
+   "vurgula": [
+    {
+     "parca": "yumusak_damak",
+     "cumle": 0
+    },
+    {
+     "parca": "levator_veli_palatini",
+     "cumle": 3
+    },
+    {
+     "parca": "tensor_veli_palatini",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yumusak_damak",
+     "metin": "Velo (paladar blando)",
+     "cumle": 0
+    },
+    {
+     "parca": "levator_veli_palatini",
+     "metin": "Elevador del velo del paladar",
+     "cumle": 3
+    },
+    {
+     "parca": "tensor_veli_palatini",
+     "metin": "Tensor del velo del paladar",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Elevado: sonidos _por la boca_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Descendido: _m, n_ por la nariz",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Fisura palatina: _habla y oído_",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "El velo del paladar, o paladar blando, es una cortina muscular que abre y cierra el paso entre la boca y la cavidad nasal.",
+    "En la mayoría de los sonidos del habla, el velo se eleva y cierra la cavidad nasal; esto se llama cierre velofaríngeo.",
+    {
+     "yazi": "En los sonidos nasales, como la m y la n, el velo desciende, el sonido sale también por la nariz y la cavidad nasal se suma a la resonancia.",
+     "ses": "En los sonidos nasales, como la eme y la ene, el velo desciende, el sonido sale también por la nariz y la cavidad nasal se suma a la resonancia."
+    },
+    "El velo lo eleva sobre todo el elevador del velo del paladar; su vecino, el tensor del velo del paladar, ayuda a abrir la trompa de Eustaquio.",
+    "En la fisura palatina este cierre puede ser incompleto; el habla puede sonar nasal, y en estos niños también son frecuentes los problemas de oído medio.",
+    "Por eso, en los niños con fisura palatina, el habla y la audición se controlan juntas."
+   ]
+  },
+  {
+   "id": "artikulatorler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Articulación",
+   "baslik": "Los *articuladores*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Labios",
+     "metin": "Cierran, redondean",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Lengua",
+     "metin": "Ápice, dorso, raíz",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Mandíbula",
+     "metin": "Apertura de la boca",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Estructuras pasivas",
+     "metin": "Dientes, paladar duro",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La articulación es el conjunto de movimientos que forman los sonidos del habla cambiando rápidamente la forma del tracto vocal.",
+    "Las estructuras móviles se llaman articuladores activos: los labios, la lengua, la mandíbula y el paladar blando.",
+    "La lengua es el articulador más flexible; su ápice, su dorso y su raíz adoptan posiciones distintas para cada sonido.",
+    "Las estructuras fijas a las que se acercan los articuladores activos son los articuladores pasivos: los dientes, el reborde alveolar y el paladar duro.",
+    "En las vocales, el tracto vocal permanece abierto; la posición de la lengua y los labios solo cambia los formantes.",
+    "En las consonantes se forma un estrechamiento o un cierre completo en algún punto del tracto vocal.",
+    "Dónde y cómo se forma este estrechamiento, el punto y el modo de articulación, lo veremos en la próxima lección con los sonidos del español."
+   ]
+  },
+  {
+   "id": "essesletim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Articulación",
+   "baslik": "Sonidos rápidos y *superpuestos*",
+   "cizim": "spektrogram",
+   "ayar": {
+    "cumle": 0
+   },
+   "vurgula": [
+    {
+     "parca": "formantlar",
+     "cumle": 3
+    },
+    {
+     "parca": "s_sesi",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "formantlar",
+     "metin": "Transiciones formánticas",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Unos _10 a 15_ sonidos por segundo",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Los sonidos _se superponen_: coarticulación",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Las transiciones _identifican la consonante_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "El habla es una habilidad motora muy rápida; en el habla habitual producimos unos diez a quince sonidos por segundo.",
+    "A esta velocidad, los articuladores se preparan para el sonido siguiente antes de terminar el actual; los sonidos se producen mezclados.",
+    "Esta superposición se llama coarticulación.",
+    "En un espectrograma, las transiciones formánticas entre una consonante y una vocal son la huella acústica de esta superposición.",
+    "Para el oyente, estas transiciones son pistas valiosas; a menudo reconocemos una consonante por la transición formántica de la vocal vecina.",
+    "Así, los sonidos del habla no están separados como las letras, sino que forman una corriente continua y superpuesta."
+   ]
+  },
+  {
+   "id": "geri_bildirim",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Audición y habla",
+   "baslik": "La *retroalimentación* auditiva",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Hablamos",
+     "metin": "Se produce el sonido",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Oímos",
+     "metin": "Nuestra propia voz",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Comparamos",
+     "metin": "Con el objetivo",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Corregimos",
+     "metin": "Intensidad, tono, sonidos",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Al hablar también oímos nuestra propia voz; esta retroalimentación auditiva tiene un papel importante en el control del habla.",
+    "En un lugar ruidoso elevamos la voz sin darnos cuenta; esto se llama efecto Lombard.",
+    "Cuando oímos nuestra propia voz con un retraso de unos doscientos milisegundos, la fluidez del habla se altera claramente.",
+    "La audición es necesaria para aprender a hablar; el niño imita los sonidos que oye y compara su propia producción con los modelos que escucha.",
+    "En los niños que nacen con pérdida auditiva severa sin suficiente acceso auditivo, pueden afectarse el tono, la calidad de la voz y las consonantes.",
+    "En los adultos que pierden la audición tras desarrollar el lenguaje, el control de la intensidad y del tono también puede deteriorarse a largo plazo.",
+    "El diagnóstico temprano, los audífonos y los implantes cocleares reconstruyen este circuito y favorecen el desarrollo del habla."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Audición y habla",
+   "baslik": "El *habla* para el audiólogo",
+   "maddeler": [
+    {
+     "metin": "Escuchar el habla: _la primera pista_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Voz propia: _molde y oclusión_",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Problemas de voz: trabajar con _el fonoaudiólogo_",
+     "cumle": 3,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Cambio en el habla: _signo de acceso_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_cihazi",
+    "cumle": 2,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Conocer la producción del habla también es una herramienta cotidiana para el audiólogo.",
+    "Escuchar el habla del paciente, por ejemplo un habla muy fuerte o errores en consonantes, da las primeras pistas sobre su audición.",
+    "Cómo oyen su propia voz los usuarios de audífonos es un criterio importante al ajustar el molde y la oclusión.",
+    "Cuando se notan problemas de habla o de voz, es necesario trabajar junto con un fonoaudiólogo.",
+    "En el seguimiento tras un audífono o un implante, los cambios en el habla muestran cuánto acceso auditivo se ha logrado."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Cuidado en la clínica",
+   "metin": "En un niño que nunca produce u omite la s y la ch, cuestiona el acceso a las frecuencias altas; verifica la adaptación con medición en oído real.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo de la práctica: los sonidos que faltan en el habla de un niño con pérdida auditiva pueden indicar lo que no logra oír.",
+    {
+     "yazi": "Por ejemplo, en un niño que nunca produce u omite la s y la ch, cuestiona el acceso a las frecuencias altas.",
+     "ses": "Por ejemplo, en un niño que nunca produce u omite la ese y la che, cuestiona el acceso a las frecuencias altas."
+    },
+    "Verificar la adaptación del audífono con medición en oído real es el primer paso para que estos sonidos sean audibles.",
+    "Un error de habla no debe atribuirse solo a la audición; comparte la evaluación con el fonoaudiólogo."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "El habla viaja en una _espiración larga_",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Pliegues vocales: fuente de la _fundamental_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tracto vocal: forma los _formantes_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La audición _vigila_ el habla",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Al hablar, inspiramos rápido y hablamos durante una espiración larga; la presión subglótica aporta la energía de la voz.",
+    "Los pliegues vocales convierten el flujo de aire en vibración; la velocidad de vibración fija la frecuencia fundamental, es decir, el tono.",
+    "El tracto vocal actúa como un filtro que refuerza algunos armónicos y forma los formantes; los articuladores cambian su forma sin cesar.",
+    "La retroalimentación auditiva es necesaria para aprender y controlar el habla."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Qué determina la frecuencia fundamental?",
+   "secenekler": [
+    "La velocidad de vibración de los pliegues",
+    "La longitud del tracto vocal",
+    "La posición de la lengua",
+    "La cavidad nasal"
+   ],
+   "dogru": 0,
+   "aciklama": "La frecuencia fundamental es una propiedad de la _fuente_, y los formantes, del _filtro_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué determina la frecuencia fundamental de la voz?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: la velocidad con que vibran los pliegues vocales.",
+    "La longitud del tracto vocal, la posición de la lengua y la cavidad nasal cambian los formantes, es decir, las propiedades del filtro."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Los *sonidos del español*: vocales y consonantes",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección conoceremos las vocales y las consonantes del español, con su punto y su modo de articulación.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

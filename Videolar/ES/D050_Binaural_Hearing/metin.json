@@ -1,0 +1,802 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D050_Binaural_Hearing_ES",
+ "kapak": {
+  "ust": "LECCIÓN 50",
+  "baslik": "Audición<br>*binaural*",
+  "alt": "¿Por qué dos oídos son mejor que uno?",
+  "cizim": "isitme_yolu",
+  "vurgula": [
+   "superior_oliver"
+  ]
+ },
+ "youtube": {
+  "baslik": "Audición binaural: por qué dos oídos son mejor que uno | Lección 50 | AIHEAR Academia de Audiología",
+  "aciklama": "Oír con dos oídos facilita localizar los sonidos y entender el habla en ruido. En esta lección vemos la diferencia interaural de tiempo (ITD), la diferencia interaural de nivel (ILD), el efecto sombra de la cabeza, la suma binaural y el efecto squelch binaural, y las consecuencias cotidianas de una pérdida auditiva unilateral.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Moore, An Introduction to the Psychology of Hearing; Blauert, Spatial Hearing; Katz, Handbook of Clinical Audiology; Silman, Gelfand and Silverman (1984), Late-onset auditory deprivation: effects of monaural versus binaural hearing aids, Journal of the Acoustical Society of America.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audicion",
+   "binaural"
+  ],
+  "etiketler": [
+   "audición binaural",
+   "diferencia interaural de tiempo",
+   "diferencia interaural de nivel",
+   "efecto sombra de la cabeza",
+   "suma binaural",
+   "squelch binaural",
+   "localización sonora",
+   "diferencia de nivel de enmascaramiento",
+   "sordera unilateral",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 50",
+   "baslik": "Audición *binaural*",
+   "alt": "¿Por qué dos oídos son mejor que uno?",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos las ventajas que le da a nuestro cerebro oír con dos oídos, es decir, la audición binaural.",
+    "Veremos los mecanismos que nos ayudan a localizar los sonidos, aprovechar la sombra de la cabeza y entender en ruido."
+   ]
+  },
+  {
+   "id": "avantajlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "La ventaja de dos oídos",
+   "baslik": "¿*Qué* nos dan dos oídos?",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Localización",
+     "metin": "Saber de dónde viene un sonido",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Comprensión en ruido",
+     "metin": "Mejor que con un oído",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Sombra de la cabeza",
+     "metin": "Usar el oído alejado del ruido",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Suma binaural",
+     "metin": "El sonido se percibe más fuerte",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Oír con dos oídos se llama audición binaural; oír con un solo oído es audición monoaural."
+    },
+    "Dos oídos le permiten al cerebro saber de dónde viene un sonido.",
+    "Nos ayudan a entender el habla en lugares ruidosos mejor que con un solo oído.",
+    "Nos permiten usar el oído del lado alejado del ruido; es decir, aprovechar el efecto sombra de la cabeza.",
+    "El mismo sonido oído con dos oídos se percibe algo más fuerte; esto se llama suma binaural.",
+    "La mayoría de estas ventajas dependen de que el tronco cerebral compare la información de los dos oídos."
+   ]
+  },
+  {
+   "id": "beyin_sapi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La ventaja de dos oídos",
+   "baslik": "¿*Dónde* se encuentran los dos oídos?",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "superior_oliver",
+     "metin": "complejo olivar superior",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "núcleo coclear",
+     "cumle": 1
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "colículo inferior",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "corteza auditiva",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "superior_oliver",
+     "cumle": 0
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Oliva superior medial: diferencia de tiempo",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Oliva superior lateral: diferencia de nivel",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "superior_oliver",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Recordemos de lecciones anteriores que la información de los dos oídos se encuentra por primera vez en el complejo olivar superior del tronco cerebral.",
+    "Las fibras que salen del núcleo coclear llegan al complejo olivar superior tanto del mismo lado como del lado opuesto.",
+    "La oliva superior medial de este complejo compara la diferencia en los tiempos de llegada del sonido a los dos oídos.",
+    "La oliva superior lateral evalúa la diferencia de nivel entre los dos oídos.",
+    "Esta información se procesa en el colículo inferior y en estaciones superiores para determinar la dirección del sonido.",
+    "Gracias a las fibras que se cruzan, ambas cortezas auditivas reciben información de los dos oídos."
+   ]
+  },
+  {
+   "id": "itd",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Localización",
+   "baslik": "Diferencia interaural de *tiempo*",
+   "maddeler": [
+    {
+     "metin": "El sonido llega al oído lejano _algo después_",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Como máximo unos _0,7 ms_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Se _detectan_ diferencias mínimas",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Más útil: frecuencias _graves_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 0,
+    "ayar": {
+     "mod": "itd",
+     "yol_cumle": 0,
+     "etiket": "Hasta unos 0,7 ms"
+    },
+    "vurgula": [
+     {
+      "parca": "yakin_yol",
+      "cumle": 0
+     },
+     {
+      "parca": "uzak_yol",
+      "cumle": 1
+     },
+     {
+      "parca": "zaman_farki",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Cuando un sonido viene de un lado, llega un poco antes al oído cercano y un poco después al oído lejano.",
+    "Este retraso se llama diferencia interaural de tiempo, o ITD.",
+    {
+     "yazi": "Cuando un sonido llega directamente desde un costado, esta diferencia es como máximo de unos 0,6 a 0,7 milisegundos en la cabeza de un adulto.",
+     "ses": "Cuando un sonido llega directamente desde un costado, esta diferencia es como máximo de unos cero coma seis a cero coma siete milisegundos en la cabeza de un adulto."
+    },
+    "En las mejores condiciones, el sistema auditivo puede detectar diferencias de tiempo de apenas diez a veinte millonésimas de segundo.",
+    "La diferencia de tiempo es más útil en las frecuencias graves, por debajo de unos mil quinientos hertz.",
+    "En frecuencias más altas, la longitud de onda se acorta y deja de estar claro qué picos de la onda coinciden en los dos oídos."
+   ]
+  },
+  {
+   "id": "ild",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Localización",
+   "baslik": "Diferencia interaural de *nivel*",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "ild",
+    "frekanslar": [
+     4000,
+     500
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "bas_golgesi",
+     "metin": "Sombra de la cabeza",
+     "cumle": 1
+    },
+    {
+     "parca": "pes_dalga",
+     "metin": "Rodea la cabeza",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "bas_golgesi",
+     "cumle": 1
+    },
+    {
+     "parca": "tiz_dalga",
+     "cumle": 2
+    },
+    {
+     "parca": "pes_dalga",
+     "cumle": 4
+    },
+    {
+     "parca": "uzak_kulak",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Cabeza: unos 15 a 18 cm",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "500 Hz: unos 70 cm",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "En agudos, más de 20 dB",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "La segunda clave para la localización es la diferencia interaural de nivel, o ILD.",
+    "La cabeza es un obstáculo para el sonido que viene del lado opuesto y crea una sombra sonora en el oído lejano.",
+    "Esta sombra es clara para los sonidos agudos, cuya longitud de onda es menor que el ancho de la cabeza.",
+    "Un sonido de cuatro mil hertz tiene una longitud de onda de unos nueve centímetros, mientras que la cabeza de un adulto es claramente más ancha.",
+    "Un sonido de quinientos hertz, con una longitud de onda de unos setenta centímetros, rodea la cabeza con facilidad.",
+    "Por eso la diferencia de nivel puede superar los veinte decibeles en las frecuencias agudas, pero se queda en unos pocos decibeles en las graves."
+   ]
+  },
+  {
+   "id": "ikili_kuram",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Localización",
+   "baslik": "La teoría *dúplex*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Diferencia de tiempo (ITD)",
+     "metin": "Bajo 1500 Hz; oliva superior medial",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Diferencia de nivel (ILD)",
+     "metin": "Agudos; oliva superior lateral",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Diferencia temporal de envolvente",
+     "metin": "Clave extra en sonidos agudos complejos",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "El pabellón auricular",
+     "metin": "Arriba, abajo, adelante, atrás",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Según la teoría dúplex de Lord Rayleigh, las dos claves se reparten el trabajo según la frecuencia."
+    },
+    "En las frecuencias graves, la dirección se determina sobre todo por la diferencia de tiempo, que se procesa en la oliva superior medial.",
+    "En las frecuencias agudas, pasa a primer plano la diferencia de nivel, que se evalúa en la oliva superior lateral.",
+    "Por esta división, cuesta más localizar los tonos puros de entre unos mil quinientos y tres mil hertz.",
+    "En los sonidos agudos pero complejos, las diferencias de tiempo en la envolvente del sonido aportan una clave adicional.",
+    "Los cambios de frecuencia que produce el pabellón auricular nos ayudan a distinguir arriba de abajo y adelante de atrás."
+   ]
+  },
+  {
+   "id": "koni",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Localización",
+   "baslik": "¿Adelante o *atrás*?",
+   "maddeler": [
+    {
+     "metin": "Direcciones con iguales claves: _cono de confusión_",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "El pabellón separa _adelante y atrás_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Mover la cabeza _resuelve_ la ambigüedad",
+     "cumle": 4,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Cerca de _1 grado_ de resolución al frente",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "etiketler": [
+     {
+      "parca": "kulak_kepcesi",
+      "metin": "pabellón auricular",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kulak_kepcesi",
+      "cumle": 3
+     }
+    ],
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "kulak_kepcesi",
+     "cumle": 3,
+     "olcek": 1.8
+    }
+   },
+   "cumleler": [
+    "Las diferencias de tiempo y de nivel por sí solas no permiten distinguir todas las direcciones.",
+    "Por ejemplo, los sonidos que vienen justo de adelante y justo de atrás pueden llegar a los dos oídos con las mismas diferencias.",
+    "La región de direcciones que producen las mismas diferencias se llama cono de confusión.",
+    "El pabellón auricular filtra los sonidos agudos de forma distinta según su dirección y ayuda a distinguir adelante de atrás.",
+    "Girar un poco la cabeza también cambia las diferencias entre los dos oídos y resuelve rápidamente la ambigüedad.",
+    "Para los sonidos situados al frente, un oyente sano puede detectar un cambio de dirección de apenas un grado."
+   ]
+  },
+  {
+   "id": "oncelik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Localización",
+   "baslik": "La *dirección* en una sala reverberante",
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "Reflexiones",
+     "metin": "El sonido también rebota en las paredes",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Primer sonido",
+     "metin": "Define la dirección",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Efecto de precedencia",
+     "metin": "Las reflexiones breves se funden",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Retraso largo",
+     "metin": "Se oye como eco separado",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En una sala cerrada, el sonido nos llega tanto de forma directa como reflejado en las paredes.",
+    "Aun así, oímos el sonido en la dirección de su fuente, porque el cerebro da prioridad al primer sonido que llega.",
+    "Las reflexiones que llegan con un retraso breve no se oyen como sonidos separados, sino que se funden con el primero; es el efecto de precedencia.",
+    "Cuando el retraso supera unas pocas decenas de milisegundos, la reflexión empieza a oírse como un eco separado.",
+    "El efecto de precedencia nos ayuda a localizar a quien habla y a distinguir los sonidos en lugares reverberantes."
+   ]
+  },
+  {
+   "id": "bas_golgesi",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Oír en ruido",
+   "baslik": "El efecto *sombra de la cabeza*",
+   "maddeler": [
+    {
+     "metin": "La cabeza reduce el ruido _en un oído_",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Mejor_ relación señal-ruido en ese oído",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Mayor efecto en frecuencias _agudas_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "El cerebro atiende al _mejor oído_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 0,
+    "ayar": {
+     "mod": "golge"
+    },
+    "vurgula": [
+     {
+      "parca": "gurultu",
+      "cumle": 0
+     },
+     {
+      "parca": "bas_golgesi",
+      "cumle": 0
+     },
+     {
+      "parca": "iyi_kulak",
+      "cumle": 1
+     },
+     {
+      "parca": "kotu_kulak",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Cuando el habla viene de un lado y el ruido del otro, la cabeza reduce el ruido en el oído que queda en su sombra.",
+    "En ese oído, la proporción entre habla y ruido, la relación señal-ruido, es mejor.",
+    "El efecto sombra de la cabeza es mayor en las frecuencias agudas y es importante para la inteligibilidad del habla.",
+    "En las pruebas de comprensión del habla, se describe que este efecto da un beneficio de unos pocos decibeles, a menudo de hasta unos seis decibeles.",
+    "Este beneficio es en gran parte físico; el cerebro solo necesita atender al oído mejor ubicado.",
+    "Una persona con pérdida unilateral pierde esta ventaja cuando el ruido viene del lado del oído sano."
+   ]
+  },
+  {
+   "id": "toplama_squelch",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Oír en ruido",
+   "baslik": "Suma y *squelch*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Suma binaural",
+     "metin": "Unos 3 dB de ganancia en el umbral",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Más fuerte",
+     "metin": "El sonido se percibe más fuerte",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Ayuda al habla",
+     "metin": "Pequeña pero valiosa",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Squelch binaural",
+     "metin": "Usa las diferencias entre los oídos",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "El ruido se suprime",
+     "metin": "El habla se separa",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Beneficio central",
+     "metin": "Unos pocos dB en ruido",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Cuando el sonido se presenta a ambos oídos a la vez, el umbral mejora unos tres decibeles respecto de un solo oído; esto es la suma binaural."
+    },
+    "A niveles por encima del umbral, el sonido se percibe claramente más fuerte con dos oídos.",
+    "Este efecto hace una contribución pequeña pero valiosa a la comprensión del habla.",
+    {
+     "yazi": "El efecto squelch binaural, en cambio, aprovecha las diferencias de tiempo y de nivel del habla y del ruido al llegar a los dos oídos."
+    },
+    "Con estas diferencias, el tronco cerebral suprime en parte el ruido y separa el habla.",
+    "Este beneficio central suele ser menor que el de la sombra de la cabeza, pero es importante en los entornos reales."
+   ]
+  },
+  {
+   "id": "mld",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Oír en ruido",
+   "baslik": "La diferencia de nivel de *enmascaramiento* binaural",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Misma presentación",
+     "metin": "Tono y ruido iguales en ambos oídos",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Fase invertida",
+     "metin": "Tono invertido en un oído",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "El umbral mejora",
+     "metin": "10 a 15 dB en 500 Hz",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Uso clínico",
+     "metin": "Evalúa el tronco cerebral",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La fuerza del procesamiento binaural puede medirse con la diferencia de nivel de enmascaramiento, o MLD."
+    },
+    "Primero, el tono y el ruido se presentan iguales a ambos oídos, y se busca el umbral del tono.",
+    "Luego se invierte la fase del tono en un solo oído; esta vez el tono se oye a través del ruido con mucha más facilidad.",
+    "En las frecuencias graves, por ejemplo en quinientos hertz, esta mejora suele ser de unos diez a quince decibeles en oyentes normales.",
+    "Como la prueba refleja el procesamiento binaural del tronco cerebral, también se usa en las evaluaciones del procesamiento auditivo."
+   ]
+  },
+  {
+   "id": "tek_tarafli",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Efectos clínicos",
+   "baslik": "Ejemplo: pérdida *unilateral*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: pérdida moderada",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       40,
+       45,
+       50,
+       55,
+       60,
+       60
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, el oído derecho está dentro de los límites normales; los umbrales se midieron con auriculares de inserción.",
+    "En el oído izquierdo hay una pérdida auditiva moderada que aumenta con la frecuencia.",
+    "Una persona así a menudo entiende bien a quien tiene enfrente en una sala silenciosa.",
+    "Pero puede tener problemas para localizar los sonidos, y la dificultad aumenta mucho cuando el habla viene de la izquierda y el ruido de la derecha.",
+    "Esto se debe a que la diferencia entre los oídos distorsiona las claves de tiempo y de nivel y dificulta aprovechar la sombra de la cabeza.",
+    "Por eso las pérdidas unilaterales pueden causar más dificultad cotidiana de lo que sugiere su audiograma."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Efectos clínicos",
+   "baslik": "*Dos oídos* en la clínica",
+   "maddeler": [
+    {
+     "metin": "Pérdida bilateral: ventaja de _dos_ dispositivos",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Un dispositivo: riesgo de _privación_ del otro",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Pérdida unilateral severa: opciones _distintas_",
+     "cumle": 4,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Decisión según la persona y los _hallazgos_",
+     "cumle": 5,
+     "ikon": "odyolog"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "BTE"
+    },
+    "cumle": 0
+   },
+   "cumleler": [
+    "En la pérdida auditiva bilateral, adaptar dispositivos en ambos oídos ayuda a conservar las ventajas binaurales.",
+    "Los estudios han mostrado que la adaptación bilateral puede ayudar a la comprensión en ruido y a la localización.",
+    "Con pérdida bilateral y un solo dispositivo, el porcentaje de reconocimiento de palabras del oído sin amplificar puede bajar con el tiempo en algunas personas.",
+    "Esto se llama privación auditiva de inicio tardío.",
+    {
+     "yazi": "Para la pérdida unilateral severa existen los sistemas CROS, que envían la señal al otro lado, los dispositivos de anclaje óseo y los implantes cocleares."
+    },
+    "Cada opción tiene sus propias ventajas; la decisión depende de la audición de la persona, sus expectativas y la evaluación del equipo."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Efectos clínicos",
+   "baslik": "Consejo clínico",
+   "metin": "Con una pérdida unilateral, aconseja ubicar a quien habla del lado del oído sano y la fuente de ruido del lado del oído peor. Esta simple ubicación facilita la comprensión.",
+   "cumleler": [
+    "Un consejo clínico: enseñen a la persona con pérdida unilateral a aprovechar la sombra de la cabeza a su favor.",
+    "En una reunión o en la mesa, ubicar a quien habla del lado del oído sano facilita la comprensión.",
+    "También ayuda dejar la fuente de ruido, como una mesa concurrida o una puerta, del lado del oído peor.",
+    "Este consejo sencillo es una parte importante de la orientación, junto con la evaluación."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "_ITD_: dirección en frecuencias graves",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "_ILD_ y sombra de la cabeza: agudos",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Suma unos _3 dB_, squelch unos pocos dB",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Pérdida unilateral: dificultad con dirección y _ruido_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "La diferencia interaural de tiempo es la principal clave de localización, sobre todo en las frecuencias graves.",
+    "La diferencia interaural de nivel y la sombra de la cabeza destacan en las frecuencias agudas.",
+    "La suma binaural aporta unos tres decibeles en el umbral, y el efecto squelch binaural da una ventaja adicional en ruido.",
+    "Una pérdida unilateral puede dificultar notablemente la localización y la comprensión en ruido."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Cuál es la principal clave de localización en las frecuencias agudas?",
+   "secenekler": [
+    "Diferencia interaural de tiempo",
+    "Diferencia interaural de nivel",
+    "Suma binaural",
+    "Vía ósea"
+   ],
+   "dogru": 1,
+   "aciklama": "Las longitudes de onda agudas son menores que la cabeza; la _sombra de la cabeza_ crea una diferencia de nivel en el oído lejano.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál es la principal clave de localización en las frecuencias agudas?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: la diferencia interaural de nivel."
+    },
+    "Las longitudes de onda de los sonidos agudos son menores que la cabeza, así que la sombra de la cabeza crea una clara diferencia de nivel en el oído lejano."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Fisiología vestibular: cómo *sentimos* el movimiento",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección volvemos a la parte del oído interno dedicada al equilibrio y veremos cómo se detecta el movimiento de la cabeza.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,751 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D029_Impedance_Matching_ES",
+ "kapak": {
+  "ust": "LECCIÓN 29",
+  "baslik": "¿Para qué<br>el *oído medio?*",
+  "alt": "Adaptación de impedancias y ganancia del oído medio",
+  "cizim": "orta_kulak"
+ },
+ "youtube": {
+  "baslik": "¿Para qué el oído medio? Adaptación de impedancias | Lección 29 | AIHEAR Academia de Audiología",
+  "aciklama": "Cuando el sonido pasa del aire a los líquidos del oído interno, la mayor parte de su energía se refleja. En esta lección vemos cómo el oído medio compensa esta pérdida: la relación de áreas, la palanca osicular, la ganancia total y su importancia clínica, con un audiograma de ejemplo.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Gelfand, Essentials of Audiology; Pickles, An Introduction to the Physiology of Hearing; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "oidomedio",
+   "audicion"
+  ],
+  "etiketler": [
+   "adaptación de impedancias",
+   "oído medio",
+   "relación de áreas",
+   "palanca osicular",
+   "membrana timpánica",
+   "platina del estribo",
+   "ventana oval",
+   "hipoacusia conductiva",
+   "fisiología de la audición",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 29",
+   "baslik": "¿Para qué el oído medio? Adaptación de *impedancias*",
+   "alt": "Adaptación de impedancias, relación de áreas y palanca osicular",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos por qué es necesario el oído medio, a través de la idea de adaptación de impedancias.",
+    "Paso a paso, calcularemos la relación de áreas, la palanca osicular y la ganancia total de estos mecanismos."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El problema del aire al líquido",
+   "baslik": "Cuando el sonido pasa del *aire* al líquido",
+   "maddeler": [
+    {
+     "metin": "El sonido viaja por el aire",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "El oído interno está _lleno de líquido_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "El líquido se resiste mucho más",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "La mayor parte de la energía _se refleja_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 0
+     },
+     {
+      "parca": "koklea",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "Aire",
+      "cumle": 0
+     },
+     {
+      "parca": "koklea",
+      "metin": "Líquido (cóclea)",
+      "cumle": 1,
+      "yer": "alt"
+     }
+    ]
+   },
+   "cumleler": [
+    "El sonido del mundo exterior llega a nuestros oídos a través de las moléculas del aire.",
+    "La cóclea, en cambio, está llena de líquidos llamados perilinfa y endolinfa.",
+    "Por eso, antes de convertirse en señal nerviosa, el sonido tiene que pasar del aire al líquido.",
+    "El líquido es mucho más denso que el aire y se resiste con mucha más fuerza a entrar en vibración.",
+    "Por eso, la mayor parte de la energía sonora que intenta pasar directamente del aire al líquido se refleja en el límite.",
+    "Esta es una de las razones por las que, bajo el agua, apenas oímos a alguien que habla en el borde de la piscina."
+   ]
+  },
+  {
+   "id": "empedans",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El problema del aire al líquido",
+   "baslik": "¿Qué es la *impedancia?*",
+   "maddeler": [
+    {
+     "metin": "_Oposición total_ al flujo de energía",
+     "cumle": 0,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Componentes: masa, rigidez, fricción",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Aire baja, líquido _alta_ impedancia",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Adaptación de impedancias",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ADAPTACIÓN DE IMPEDANCIAS",
+    "metin": "Transferir energía con *eficiencia* entre dos medios",
+    "cumle": 4
+   },
+   "cumleler": [
+    "La impedancia es la oposición total que un sistema ofrece a la energía que intentamos transferirle.",
+    "Cuanto más denso y rígido es un medio, más fuerza se necesita para hacerlo vibrar.",
+    "La impedancia acústica tiene tres componentes: masa, rigidez y fricción.",
+    "La impedancia del aire es baja, mientras que la de los líquidos del oído interno es muy alta.",
+    "Reducir este desajuste para que la energía pase con eficiencia entre dos medios se llama adaptación de impedancias.",
+    "Esta es precisamente la función principal del oído medio."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El problema del aire al líquido",
+   "baslik": "¿Qué *tan grande* es la pérdida?",
+   "maddeler": [
+    {
+     "metin": "Líquido: _miles de veces_ la impedancia del aire",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Se refleja cerca del _99,9 %_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Energía transmitida: solo _una milésima_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PÉRDIDA",
+    "metin": "Sin oído medio, unos *30 dB*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "La impedancia acústica de los líquidos es miles de veces mayor que la del aire.",
+    "Con un desajuste tan grande, cerca del noventa y nueve coma nueve por ciento de la energía sonora se refleja en el límite.",
+    "Solo alrededor de una milésima parte de la energía pasa al líquido.",
+    "Una relación de energía de uno en mil corresponde a una pérdida de unos treinta decibeles.",
+    "Así, sin oído medio, los sonidos llegarían al oído interno unos treinta decibeles más débiles.",
+    "El oído medio funciona como un transformador que compensa la mayor parte de esta pérdida."
+   ]
+  },
+  {
+   "id": "yapi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Estructura del oído medio",
+   "baslik": "Estructura del *oído medio*",
+   "cizim": "orta_kulak",
+   "etiketler": [
+    {
+     "parca": "timpanik_membran",
+     "metin": "membrana timpánica (tímpano)",
+     "cumle": 0
+    },
+    {
+     "parca": "malleus",
+     "metin": "martillo",
+     "cumle": 1
+    },
+    {
+     "parca": "incus",
+     "metin": "yunque",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "metin": "estribo",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "ventana oval",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "oval_pencere",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tres huesecillos",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Membrana grande, ventana pequeña",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "oval_pencere",
+     "cumle": 4,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El oído medio es un espacio lleno de aire entre la membrana timpánica, o tímpano, y el oído interno.",
+    "El martillo está unido a la membrana timpánica, y el yunque sigue al martillo.",
+    "El último eslabón de la cadena es el estribo, el hueso más pequeño del cuerpo.",
+    "En conjunto, estos tres huesos se llaman huesecillos.",
+    "La platina del estribo se aloja en la ventana oval, que se abre al oído interno.",
+    "Así, la vibración que recoge una membrana grande se entrega a una ventana mucho más pequeña.",
+    "Esta disposición es la base del mecanismo más potente de la adaptación de impedancias."
+   ]
+  },
+  {
+   "id": "alan",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "La relación de áreas",
+   "baslik": "Primer mecanismo: la *relación de áreas*",
+   "cizim": "orta_kulak",
+   "vurgula": [
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Área efectiva de la membrana: unos 55 mm²",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Platina del estribo: unos 3,2 mm²",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Relación de áreas: unos 17:1",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "timpanik_membran",
+     "metin": "Membrana timpánica",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "metin": "Platina del estribo",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El primer mecanismo, y el más importante, es la relación de áreas, también llamada efecto hidráulico.",
+    "El área efectiva de vibración de la membrana timpánica es de unos cincuenta y cinco milímetros cuadrados.",
+    "El área total de la membrana es mayor, pero no toda vibra con la misma eficiencia.",
+    "El área de la platina del estribo es de unos tres coma dos milímetros cuadrados.",
+    "La relación entre ambas áreas es de unos diecisiete a uno.",
+    "Cuando la fuerza recogida en una superficie grande se concentra en una pequeña, aumenta la presión por unidad de área.",
+    "Piensen en una chinche: al presionar su cabeza ancha, la punta afilada entra con facilidad.",
+    "La relación de áreas por sí sola aporta una ganancia de unos veinticinco decibeles."
+   ]
+  },
+  {
+   "id": "kaldirac",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Palanca y ganancia total",
+   "baslik": "Segundo mecanismo: la *palanca*",
+   "cizim": "kemikcikler",
+   "vurgula": [
+    {
+     "parca": "malleus_sap",
+     "cumle": 1
+    },
+    {
+     "parca": "incus_uzun_kol",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "malleus_sap",
+     "metin": "mango del martillo: brazo largo",
+     "cumle": 1
+    },
+    {
+     "parca": "incus_uzun_kol",
+     "metin": "rama larga del yunque: brazo corto",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Relación de palanca: unos 1,3:1",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ganancia extra: unos 2 dB",
+     "cumle": 5,
+     "ikon": "hoparlor"
+    }
+   ],
+   "cumleler": [
+    "El segundo mecanismo es la palanca osicular.",
+    "El mango del martillo es un poco más largo que la rama larga del yunque.",
+    "Cuando los huesecillos giran juntos como una palanca, esta diferencia de longitud aumenta la fuerza que llega al estribo.",
+    "Con la palanca, el movimiento del estribo se hace un poco menor, pero su fuerza de empuje aumenta.",
+    "La relación de palanca es de unos uno coma tres a uno.",
+    "Esta relación supone una ganancia extra de unos dos decibeles.",
+    "La ganancia puede parecer pequeña, pero se multiplica con la relación de áreas y se suma al efecto total."
+   ]
+  },
+  {
+   "id": "toplam",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Palanca y ganancia total",
+   "baslik": "*Ganancia* total",
+   "sutunlar": [
+    "Mecanismo",
+    "Relación",
+    "Ganancia"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Relación de áreas",
+      "Unos 17:1",
+      "Unos 25 dB"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Palanca osicular",
+      "Unos 1,3:1",
+      "Unos 2 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Total",
+      "Unos 22:1",
+      "Unos 27 dB"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Pérdida aire-líquido",
+      "-",
+      "Unos 30 dB"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ahora juntemos los dos mecanismos: la relación de áreas aporta unos veinticinco decibeles.",
+    "La palanca osicular suma unos dos decibeles.",
+    "Diecisiete por uno coma tres da unos veintidós, lo que equivale a una ganancia de unos veintisiete decibeles.",
+    "Las fuentes suelen dar una ganancia total de veinticinco a treinta decibeles, según el método de cálculo y de medición.",
+    "Este valor es bastante cercano a los treinta decibeles aproximados que se pierden en el límite entre aire y líquido.",
+    "Así, el oído medio compensa la mayor parte de la pérdida, aunque no toda."
+   ]
+  },
+  {
+   "id": "katkilar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Palanca y ganancia total",
+   "baslik": "Otros *aportes*",
+   "maddeler": [
+    {
+     "metin": "Membrana curva: una pequeña ganancia extra",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Diferencia de fase_ entre las ventanas",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Equilibrio de presión_ por la trompa",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 0
+     },
+     {
+      "parca": "oval_pencere",
+      "cumle": 1
+     },
+     {
+      "parca": "yuvarlak_pencere",
+      "cumle": 2
+     },
+     {
+      "parca": "ostaki_borusu",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "oval_pencere",
+      "metin": "Ventana oval",
+      "cumle": 1
+     },
+     {
+      "parca": "yuvarlak_pencere",
+      "metin": "Ventana redonda",
+      "cumle": 2
+     },
+     {
+      "parca": "ostaki_borusu",
+      "metin": "Trompa de Eustaquio",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Algunas fuentes señalan que la forma curva de la membrana timpánica también crea un pequeño efecto de palanca adicional.",
+    "Además, el oído medio dirige el sonido principalmente hacia la ventana oval.",
+    "Como la ventana redonda está protegida detrás de la membrana timpánica, las dos ventanas no reciben la misma presión al mismo tiempo.",
+    "Esta diferencia de fase es necesaria para que los líquidos cocleares se muevan con eficacia.",
+    "Por último, la trompa de Eustaquio iguala la presión del oído medio con la del aire exterior, para que la membrana vibre libremente."
+   ]
+  },
+  {
+   "id": "frekans",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Palanca y ganancia total",
+   "baslik": "Transmisión según la *frecuencia*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frecuencias graves",
+     "metin": "Domina la _rigidez_: resistencia al estiramiento",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frecuencias agudas",
+     "metin": "Domina la _masa_: el peso del sistema",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Resonancia",
+     "metin": "Unos _800 a 1200 Hz_",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El oído medio no transmite todas las frecuencias con la misma eficiencia.",
+    "En las frecuencias graves, la transmisión depende de la rigidez del sistema, su resistencia al estiramiento.",
+    "En las frecuencias agudas, cobra más importancia la masa, el peso del sistema.",
+    "En adultos sanos, la frecuencia de resonancia del oído medio suele estar entre ochocientos y mil doscientos hertz.",
+    "Por eso, los problemas que aumentan la rigidez tienden a afectar los graves, y los que añaden masa, los agudos.",
+    "Usaremos esta relación en detalle más adelante, en las lecciones de inmitancia."
+   ]
+  },
+  {
+   "id": "bozulma",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 5",
+   "bolum": "Importancia clínica",
+   "baslik": "Cuando el mecanismo *falla*",
+   "sol": {
+    "ust": "Tímpano perforado",
+    "maddeler": [
+     {
+      "metin": "El área efectiva _se reduce_",
+      "cumle": 0
+     },
+     {
+      "metin": "Menos protección de la ventana redonda",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Problema osicular",
+    "maddeler": [
+     {
+      "metin": "Otosclerosis: el estribo _se fija_",
+      "cumle": 2
+     },
+     {
+      "metin": "Disrupción: la palanca _deja de actuar_",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Cuando hay una perforación, es decir, un orificio en la membrana timpánica, se reduce el área efectiva que recoge el sonido.",
+    "El orificio también puede reducir la protección de la ventana redonda; la pérdida depende del tamaño y la ubicación del orificio.",
+    "En la otosclerosis, la platina del estribo queda fijada a la ventana oval por hueso nuevo y se reduce la transmisión de la vibración.",
+    "Cuando la cadena osicular se interrumpe, el sistema de palanca queda totalmente fuera de acción.",
+    "El objetivo de la cirugía del oído medio suele ser reconstruir este sistema transformador.",
+    "El resultado común de estos cuadros es una hipoacusia conductiva, que en el audiograma se ve como una brecha aéreo-ósea."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 5",
+   "bolum": "Importancia clínica",
+   "baslik": "Ejemplo: disrupción *osicular*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Vía aérea_: oído derecho",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Vía ósea enmascarada_: oído derecho",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Vía aérea_: oído izquierdo",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       55,
+       60,
+       60,
+       60,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       5,
+       10,
+       5,
+       10,
+       10
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 3
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      5,
+      60
+     ],
+     "etiket": "55 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "En este audiograma de ejemplo, los umbrales de vía aérea del oído derecho están alrededor de sesenta decibeles HL.",
+    "Los umbrales de vía ósea medidos con enmascaramiento están en el rango normal, así que la cóclea derecha parece funcionar bien.",
+    "La diferencia de unos cincuenta y cinco decibeles entre ambos es una brecha aéreo-ósea grande.",
+    "En este ejemplo, el oído izquierdo está dentro de los límites normales.",
+    "Cuando la cadena osicular se interrumpe detrás de una membrana timpánica íntegra, la pérdida conductiva puede llegar a unos sesenta decibeles.",
+    "Esto se debe a que una membrana íntegra, sin el efecto de palanca, también impide en gran parte que el sonido llegue directamente a las ventanas.",
+    "Este ejemplo está cerca del límite superior de la pérdida conductiva; la evaluación completa se hace junto con el otorrinolaringólogo."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 5",
+   "bolum": "Importancia clínica",
+   "baslik": "Consejo clínico",
+   "metin": "Si la brecha aéreo-ósea supera claramente los 60 dB, revisar primero el enmascaramiento de la vía ósea, la colocación del vibrador y la calibración.",
+   "cumleler": [
+    "Un consejo de la práctica: la hipoacusia conductiva tiene un límite superior fisiológico.",
+    "Si la brecha aéreo-ósea supera claramente los sesenta decibeles, el resultado es mayor de lo esperable.",
+    "En ese caso, revisen primero el enmascaramiento de la vía ósea, la colocación del vibrador y la calibración del equipo.",
+    "Esto se debe a que el subenmascaramiento puede medir la vía ósea del oído contrario y hacer que la brecha parezca mayor de lo que es."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Del aire al líquido, la energía _se refleja_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Relación de áreas unos _17:1_, unos 25 dB",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Palanca osicular unos _1,3:1_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Ganancia total unos _25 a 30 dB_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    }
+   ],
+   "cumleler": [
+    "Cuando el sonido pasa del aire a los líquidos del oído interno, la mayor parte de su energía se refleja: una pérdida de unos treinta decibeles.",
+    "El paso de una membrana grande a una ventana pequeña, la relación de áreas, aporta la mayor ganancia.",
+    "La palanca osicular añade a esta ganancia un aporte pequeño pero significativo.",
+    "Con una ganancia de unos veinticinco a treinta decibeles, el oído medio compensa en gran parte el desajuste de impedancias."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Qué aporta más a la ganancia del oído medio?",
+   "secenekler": [
+    "Palanca osicular",
+    "Relación de áreas",
+    "Trompa de Eustaquio",
+    "Curvatura del tímpano"
+   ],
+   "dogru": 1,
+   "aciklama": "La relación de áreas de unos _17:1_ entre tímpano y platina aporta por sí sola unos 25 dB.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué mecanismo hace el mayor aporte a la ganancia del oído medio?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: la relación de áreas.",
+    "La relación de unos diecisiete a uno entre el tímpano y la platina del estribo aporta por sí sola una ganancia de unos veinticinco decibeles."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "La membrana basilar y la *onda* viajera",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo el movimiento del estribo se convierte en una onda viajera dentro de la cóclea.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R365_Flute_and_Violin_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #365",
+  "baslik": "¿Flauta o *violín?*",
+  "alt": "Mismo tono, distinto timbre",
+  "cizim": "dalga_bicimi",
+  "ayar": {
+   "seriler": [
+    "ton",
+    "karmasik"
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "La misma nota en flauta y en violín: ¿cómo las distinguimos? #shorts",
+  "aciklama": "Una nota de flauta y una de violín tocadas con el mismo tono tienen la misma frecuencia fundamental; la diferencia viene de las amplitudes relativas de los armónicos. La cualidad perceptiva que depende de esta distribución de armónicos se llama timbre. En la flauta, los armónicos superiores son débiles y el sonido se acerca a un tono puro; el violín tiene muchos armónicos intensos.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "acustica",
+   "musica"
+  ],
+  "etiketler": [
+   "timbre",
+   "armónicos",
+   "frecuencia fundamental",
+   "análisis de Fourier",
+   "sonido complejo",
+   "tono puro",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "La misma nota en flauta y en violín: ¿cómo las distinguimos?",
+  "bilgiler": [
+   "Las dos notas tienen la misma frecuencia fundamental.",
+   "La amplitud relativa de los armónicos marca la diferencia: el timbre.",
+   "La flauta tiene armónicos superiores débiles; el violín, muchos intensos."
+  ],
+  "hashtag": [
+   "audiologia",
+   "acustica",
+   "musica"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #365",
+   "metin": "Misma nota, *¿distinto sonido?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "La misma nota en flauta y en violín: ¿cómo las distinguimos?"
+   ]
+  },
+  {
+   "id": "tini",
+   "tur": "zincir",
+   "baslik": "¿De dónde viene *el timbre?*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "F0",
+     "tr": "la misma",
+     "cumle": 0
+    },
+    {
+     "ad": "Armónicos",
+     "tr": "amplitud relativa",
+     "cumle": 1
+    },
+    {
+     "ad": "Timbre",
+     "tr": "la diferencia percibida",
+     "cumle": 2
+    }
+   ],
+   "alt": "Flauta casi pura, _violín rico_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Ambas notas comparten la misma frecuencia fundamental, y por lo tanto el mismo tono.",
+    "La diferencia viene de las amplitudes relativas de los armónicos.",
+    "La cualidad perceptiva que da este patrón de armónicos se llama timbre.",
+    "La flauta tiene armónicos superiores débiles; el violín tiene muchos intensos."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D039",
+ "kaynak_baslik": "Tonos puros y sonidos complejos: bases de Fourier"
+}

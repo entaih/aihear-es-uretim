@@ -1,0 +1,769 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D006_How_Common_Is_Hearing_Loss_ES",
+ "kapak": {
+  "ust": "LECCIÓN 6",
+  "baslik": "¿Qué tan<br>*común?*",
+  "alt": "La pérdida auditiva en el mundo y en Turquía",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0.5,
+    "max": 2.5,
+    "ad": "Período",
+    "isaretler": [
+     1,
+     2
+    ],
+    "yazilar": {
+     "1": "Today",
+     "2": "2050",
+     "1": "Hoy",
+     "2": "2050"
+    }
+   },
+   "y": {
+    "min": 0,
+    "max": 3,
+    "adim": 1,
+    "ad": "Miles de millones"
+   },
+   "seriler": [
+    {
+     "ad": "a",
+     "tur": "cubuk",
+     "genislik": 0.5,
+     "noktalar": [
+      [
+       1,
+       1.5
+      ]
+     ],
+     "renk": "mavi",
+     "etiket": "1500 millones",
+     "etiket_konum": [
+      1,
+      1.5
+     ]
+    },
+    {
+     "ad": "b",
+     "tur": "cubuk",
+     "genislik": 0.5,
+     "noktalar": [
+      [
+       2,
+       2.5
+      ]
+     ],
+     "renk": "kirmizi",
+     "etiket": "2500 millones",
+     "etiket_konum": [
+      2,
+      2.5
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "¿Qué tan común es la pérdida auditiva? Datos mundiales | Lección 06 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué tan común es la pérdida auditiva? Explicamos la prevalencia y la incidencia, las cifras clave del Informe Mundial sobre la Audición de la OMS (2021), la definición de pérdida auditiva discapacitante, su aumento con la edad y las causas prevenibles. También vemos qué tener en cuenta al leer los datos de Turquía.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: WHO, World Report on Hearing (2021); WHO, Deafness and hearing loss (fact sheet); Chadha S, Kamenov K, Cieza A, The world report on hearing, 2021, Bulletin of the World Health Organization (2021); Hacettepe University Institute of Population Studies, Turkey Demographic and Health Survey 2018.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "hipoacusia",
+   "saludpublica"
+  ],
+  "etiketler": [
+   "prevalencia de la pérdida auditiva",
+   "prevalencia",
+   "incidencia",
+   "Informe Mundial sobre la Audición",
+   "pérdida auditiva discapacitante",
+   "OMS",
+   "hipoacusia prevenible",
+   "estadísticas de hipoacusia",
+   "epidemiología",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 6",
+   "baslik": "¿Qué tan *común* es la pérdida auditiva?",
+   "alt": "La pérdida auditiva en cifras, en el mundo y en Turquía",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En la lección anterior vimos los grados de pérdida auditiva; en esta vemos, en cifras, qué tan común es la pérdida auditiva.",
+    "Aprenderemos la prevalencia y la incidencia, los hallazgos clave del Informe Mundial sobre la Audición y las causas prevenibles."
+   ]
+  },
+  {
+   "id": "kavram",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos básicos",
+   "baslik": "Prevalencia e *incidencia*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Prevalencia",
+     "cumle": 1,
+     "metin": "Proporción en un momento dado"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Incidencia",
+     "cumle": 2,
+     "metin": "Casos nuevos en un período"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Acumulación",
+     "cumle": 4,
+     "metin": "La pérdida permanente se acumula con la edad"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Al nacer",
+     "cumle": 5,
+     "metin": "¿Cuántos por cada 1000 nacimientos?"
+    }
+   ],
+   "cumleler": [
+    "La epidemiología usa dos medidas básicas para describir con qué frecuencia aparece un problema de salud.",
+    "La prevalencia es la proporción de personas de una población que tienen la condición en un momento dado.",
+    "La incidencia, en cambio, es la proporción de casos nuevos que aparecen en un período determinado.",
+    "La prevalencia es como una fotografía y la incidencia como una película: una muestra el estado actual y la otra, quién se suma.",
+    "Como la pérdida auditiva suele ser permanente y se acumula con los años, su prevalencia aumenta claramente en la vejez.",
+    "En la hipoacusia congénita, la cifra suele darse por cada mil nacimientos; es la prevalencia al nacer."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos básicos",
+   "baslik": "Un pueblo de *mil personas*",
+   "adimlar": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "1000 personas",
+     "cumle": 0,
+     "metin": "Hoy 50 tienen pérdida auditiva"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Prevalencia",
+     "cumle": 1,
+     "metin": "5 por ciento"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Un año",
+     "cumle": 2,
+     "metin": "5 casos nuevos"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Incidencia",
+     "cumle": 3,
+     "metin": "Unos 5 por cada 1000"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Revisar la definición",
+     "cumle": 5,
+     "metin": "Edad, grado, método"
+    }
+   ],
+   "cumleler": [
+    "Pensémoslo con un pequeño ejemplo: en un pueblo de mil personas, cincuenta tienen hoy pérdida auditiva.",
+    "En este caso, la prevalencia es de cincuenta por cada mil, es decir, del cinco por ciento.",
+    "Durante el año siguiente, aparece una pérdida auditiva nueva en cinco de las personas que no la tenían.",
+    "Esto significa una incidencia anual de unos cinco por cada mil.",
+    "Como la pérdida suele ser permanente, al final del año la prevalencia sube a unos cincuenta y cinco por cada mil.",
+    "Por eso, al leer cifras, revisen qué medida se usa, en qué grupo de edad y con qué definición de pérdida auditiva."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Informe Mundial sobre la Audición",
+   "baslik": "Informe Mundial sobre la *Audición* 2021",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 2.5,
+     "ad": "Período",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Today",
+      "2": "2050",
+      "1": "Hoy",
+      "2": "2050"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 3,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Miles de millones"
+    },
+    "seriler": [
+     {
+      "ad": "bugun_her",
+      "tur": "cubuk",
+      "genislik": 0.3,
+      "noktalar": [
+       [
+        0.8,
+        1.5
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "1500 millones",
+      "etiket_konum": [
+       0.8,
+       1.5
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "bugun_eng",
+      "tur": "cubuk",
+      "genislik": 0.3,
+      "noktalar": [
+       [
+        1.2,
+        0.43
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "430 millones",
+      "etiket_konum": [
+       1.2,
+       0.43
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "gelecek_her",
+      "tur": "cubuk",
+      "genislik": 0.3,
+      "noktalar": [
+       [
+        1.8,
+        2.5
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "2500 millones",
+      "etiket_konum": [
+       1.8,
+       2.5
+      ],
+      "cumle": 4
+     },
+     {
+      "ad": "gelecek_eng",
+      "tur": "cubuk",
+      "genislik": 0.3,
+      "noktalar": [
+       [
+        2.2,
+        0.7
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "700 millones",
+      "etiket_konum": [
+       2.2,
+       0.7
+      ],
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Azul: pérdida auditiva de _cualquier grado_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Rojo: necesita _rehabilitación_",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Causa: población _que crece y envejece_",
+     "cumle": 6,
+     "ikon": "yasli"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En 2021, la Organización Mundial de la Salud (OMS) publicó su primer Informe Mundial sobre la Audición."
+    },
+    "Según el informe, más de mil quinientos millones de personas viven con algún grado de pérdida auditiva, cerca de una de cada cinco.",
+    "En unos cuatrocientos treinta millones de ellas, la pérdida es discapacitante y requiere rehabilitación.",
+    "Esta cifra corresponde a más del cinco por ciento de la población mundial.",
+    {
+     "yazi": "El informe estima que para 2050 esta cifra podría llegar a unos dos mil quinientos millones, una de cada cuatro personas."
+    },
+    "Ese mismo año, se espera que al menos setecientos millones de personas necesiten rehabilitación auditiva.",
+    "La principal razón de este aumento es que la población mundial crece y envejece al mismo tiempo."
+   ]
+  },
+  {
+   "id": "engelleyici",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Informe Mundial sobre la Audición",
+   "baslik": "¿Qué es la pérdida auditiva *discapacitante*?",
+   "maddeler": [
+    {
+     "metin": "Mejor oído: más de _35 dB HL_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Grado moderado y _grados mayores_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "La pérdida unilateral _no se cuenta aquí_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Amplio: 1500 millones; estricto: _430 millones_",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        30,
+        35,
+        35,
+        40,
+        50,
+        55
+       ],
+       "cumle": 5
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        45,
+        50,
+        55,
+        60,
+        70,
+        75
+       ],
+       "cumle": 5
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 20,
+      "etiket": "Normal"
+     }
+    }
+   },
+   "cumleler": [
+    "En el informe, la pérdida auditiva discapacitante es una pérdida mayor de treinta y cinco decibeles en el oído que oye mejor.",
+    "Recordamos esta definición de los grados de la OMS de la lección anterior: el grado moderado y los más graves entran en este grupo.",
+    "Usar el mejor oído refleja mejor la dificultad que tiene la persona en la comunicación diaria.",
+    "Así, una persona con una pérdida severa en un oído pero audición normal en el otro no se cuenta en esta cifra.",
+    "Por eso, la gran cifra de mil quinientos millones incluye pérdidas leves y unilaterales; cuatrocientos treinta millones es un grupo más estrecho.",
+    "En el ejemplo en pantalla, el mejor oído, el derecho, tiene un promedio de cuatro frecuencias de cuarenta decibeles: pérdida discapacitante."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "¿A quiénes afecta?",
+   "baslik": "A toda edad, *más con la edad*",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Al nacer",
+     "cumle": 1,
+     "metin": "1 a 3 por cada 1000"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Niños",
+     "cumle": 2,
+     "metin": "34 millones con pérdida discapacitante"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Mayores de 60",
+     "cumle": 3,
+     "metin": "Más de uno de cada cuatro"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Sociedades que envejecen",
+     "cumle": 4,
+     "metin": "La carga sigue creciendo"
+    }
+   ],
+   "cumleler": [
+    "La pérdida auditiva puede aparecer en cualquier etapa de la vida, pero su prevalencia aumenta rápidamente con la edad.",
+    "La hipoacusia congénita permanente se presenta en uno a tres de cada mil recién nacidos, aproximadamente.",
+    "Según la OMS, unos treinta y cuatro millones de las personas con pérdida auditiva discapacitante son niños.",
+    "Más de una de cada cuatro personas mayores de sesenta años tiene pérdida auditiva discapacitante.",
+    "Así, la mayor parte de la necesidad de rehabilitación está en la vejez, y en las sociedades que envejecen esta carga sigue creciendo.",
+    "Aun así, cada edad tiene su prioridad: el lenguaje en los niños, el trabajo en los adultos, la comunicación y la autonomía en la vejez."
+   ]
+  },
+  {
+   "id": "erisim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "¿A quiénes afecta?",
+   "baslik": "Una *gran brecha* en el acceso a la atención",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 2.5,
+     "ad": " ",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "In low and middle income",
+      "2": "Not using a device",
+      "1": "Países de ingresos bajos y medios",
+      "2": "Sin usar dispositivo"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Proporción aproximada (%)"
+    },
+    "seriler": [
+     {
+      "ad": "gelir",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        1,
+        80
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "cerca del 80 por ciento",
+      "etiket_konum": [
+       1,
+       80
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "cihaz_acigi",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        2,
+        83
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "cerca del 83 por ciento",
+      "etiket_konum": [
+       2,
+       83
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Audiólogos: _menos de 1 por millón_",
+     "cumle": 2,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Costo: _cerca de un billón de dólares_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Cerca del ochenta por ciento de las personas con pérdida auditiva discapacitante vive en países de ingresos bajos y medios.",
+    "En estos países, el número de profesionales que brindan atención auditiva es muy limitado.",
+    "Según el informe, la mayoría de los países de ingresos bajos tiene menos de un audiólogo por cada millón de habitantes.",
+    "La brecha de acceso también es grande: cerca del ochenta y tres por ciento de quienes podrían beneficiarse de audífonos no los usan.",
+    "El costo mundial anual de la pérdida auditiva no atendida se estima en cerca de un billón de dólares.",
+    "Este costo incluye el gasto en salud, el apoyo educativo, la pérdida de productividad y la menor calidad de vida."
+   ]
+  },
+  {
+   "id": "onlenebilir",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Prevención y Turquía",
+   "baslik": "Causas *prevenibles*",
+   "ogeler": [
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Prevenibles con vacunas",
+     "cumle": 2,
+     "metin": "Sarampión, paperas, rubéola"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "En torno al parto",
+     "cumle": 3,
+     "metin": "Falta de oxígeno, ictericia grave"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Oído medio",
+     "cumle": 4,
+     "metin": "Infecciones crónicas"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Fármacos ototóxicos",
+     "cumle": 5,
+     "metin": "Uso cuidadoso y monitoreo"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Sonido intenso",
+     "cumle": 6,
+     "metin": "Trabajo y ocio"
+    }
+   ],
+   "cumleler": [
+    "Uno de los mensajes más importantes del informe es que gran parte de la pérdida auditiva es prevenible.",
+    "Según la OMS, cerca del sesenta por ciento de la pérdida auditiva en los niños se debe a causas prevenibles.",
+    "Infecciones como el sarampión, las paperas y la rubéola pueden prevenirse con vacunas; la meningitis también es una causa importante.",
+    "Los problemas en torno al parto, como la falta de oxígeno y la ictericia neonatal grave, también pueden causar pérdida auditiva.",
+    "Las infecciones crónicas del oído medio afectan a unos doscientos millones de personas en el mundo, y la mayoría son prevenibles o tratables.",
+    "El efecto dañino, u ototóxico, de algunos fármacos sobre el oído también puede reducirse con un uso cuidadoso y monitoreo.",
+    "El ruido también es prevenible; más de mil millones de jóvenes están en riesgo por los reproductores de música y los lugares de ocio."
+   ]
+  },
+  {
+   "id": "yasam_boyu",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Prevención y Turquía",
+   "baslik": "Prevención a *lo largo de la vida*",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "En torno al parto",
+     "cumle": 1,
+     "metin": "Parto seguro, cuidado neonatal"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Infancia",
+     "cumle": 2,
+     "metin": "Vacunas, tratamiento, tamizaje"
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Adultez",
+     "cumle": 3,
+     "metin": "Ruido y fármacos"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Vejez",
+     "cumle": 4,
+     "metin": "Controles periódicos"
+    }
+   ],
+   "cumleler": [
+    "La OMS aborda estas causas con un enfoque de curso de vida; cada etapa de la vida tiene sus propios riesgos.",
+    "Antes del nacimiento importa proteger a la madre de las infecciones; en torno al parto, un parto seguro y un buen cuidado neonatal.",
+    "En la infancia, lo primero son la vacunación, el tratamiento temprano de los problemas del oído medio y el tamizaje auditivo.",
+    "En la adultez siguen la protección contra el ruido y el monitoreo de los fármacos que pueden dañar el oído.",
+    "En la vejez son importantes los controles auditivos periódicos y el manejo oportuno de la pérdida auditiva."
+   ]
+  },
+  {
+   "id": "turkiye",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Prevención y Turquía",
+   "baslik": "Datos de *Turquía*",
+   "maddeler": [
+    {
+     "metin": "Encuesta o medición: _resultados distintos_",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Leer cada cifra _con su definición_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Tamizaje neonatal y _escolar_",
+     "cumle": 3,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Consanguinidad: _riesgo recesivo_",
+     "cumle": 5,
+     "ikon": "gen_dna"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TURQUÍA",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Recién nacidos",
+      "cumle": 3,
+      "metin": "Programa nacional de tamizaje"
+     },
+     {
+      "ikon": "okul",
+      "baslik": "Edad escolar",
+      "cumle": 4,
+      "metin": "Tamizaje auditivo"
+     },
+     {
+      "ikon": "gen_dna",
+      "baslik": "Consanguinidad",
+      "cumle": 5,
+      "metin": "Cerca del 24 por ciento"
+     }
+    ]
+   },
+   "cumleler": [
+    "En Turquía, las cifras sobre qué tan común es la pérdida auditiva varían según el método utilizado.",
+    "Las encuestas basadas en el autorreporte y los estudios con medición audiométrica no dan el mismo resultado.",
+    "La definición del grado, el grupo de edad y la región también cambian la tasa; por eso, usen siempre una cifra con su fuente y su definición.",
+    "En Turquía, el Ministerio de Salud lleva adelante un programa nacional de tamizaje auditivo neonatal.",
+    "En la edad escolar, el Ministerio de Salud y el Ministerio de Educación Nacional también realizan juntos un tamizaje auditivo.",
+    {
+     "yazi": "Según la Encuesta Demográfica y de Salud de Turquía 2018, cerca del veinticuatro por ciento de los matrimonios en Turquía son consanguíneos."
+    },
+    "Es un factor de riesgo importante para la hipoacusia genética recesiva; lo veremos más adelante en las lecciones de genética."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Usar las cifras no para asustar, sino para mostrar a la persona que no está sola. Indicar juntos la fuente, el año y la definición de pérdida auditiva.",
+   "cumleler": [
+    "Un consejo útil para la orientación: usen las cifras de prevalencia no para asustar, sino para mostrar a la persona que no está sola.",
+    "Por ejemplo, saber que una de cada cuatro personas mayores de sesenta tiene pérdida discapacitante puede reducir el miedo al estigma.",
+    "Cuando citen una cifra, indiquen también su fuente, su año y la definición de pérdida auditiva en la que se basa.",
+    "Así, el paciente o el colega podrá interpretar correctamente esa misma cifra."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Prevalencia ahora, incidencia _casos nuevos_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "1500 millones; discapacitante en _430 millones_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Mayores de 60: _más de uno de cada cuatro_",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "En niños, cerca del _60 por ciento_ prevenible",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "La prevalencia muestra la proporción en un momento dado, y la incidencia, los casos nuevos que aparecen en un período.",
+    {
+     "yazi": "Según el informe de la OMS de 2021, más de mil quinientos millones de personas tienen pérdida auditiva, discapacitante en unos cuatrocientos treinta millones."
+    },
+    "La prevalencia aumenta con la edad; por encima de los sesenta, más de una de cada cuatro personas tiene pérdida auditiva discapacitante.",
+    "Cerca del sesenta por ciento de la pérdida auditiva en los niños se debe a causas prevenibles."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cómo define la OMS la pérdida auditiva discapacitante?",
+   "secenekler": [
+    "Más de 20 dB, peor oído",
+    "Más de 35 dB, mejor oído",
+    "Más de 15 dB, ambos oídos",
+    "Solo la pérdida total"
+   ],
+   "dogru": 1,
+   "aciklama": "El criterio es el _oído que oye mejor_: una pérdida mayor de 35 dB HL se considera discapacitante.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cómo define la OMS la pérdida auditiva discapacitante?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: una pérdida mayor de treinta y cinco decibeles en el oído que oye mejor.",
+    "Usar el mejor oído como criterio refleja la dificultad que tiene la persona en la comunicación diaria."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Dentro de una *clínica* de audiología: cabina y equipos",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección recorreremos una clínica de audiología y conoceremos la cabina de pruebas y los equipos básicos.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

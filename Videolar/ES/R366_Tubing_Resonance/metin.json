@@ -1,0 +1,106 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R366_Tubing_Resonance_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #366",
+  "baslik": "Resonancia *del tubo*",
+  "alt": "Un amortiguador en los audífonos retroauriculares",
+  "cizim": "isitme_cihazi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Puede el tubo del audífono cambiar el sonido? #shorts",
+  "aciklama": "El tubo y el canal del molde de un audífono retroauricular también forman un tubo resonante. Estas resonancias pueden crear picos marcados en la respuesta en frecuencia del dispositivo, a menudo cerca de 1000, 3000 y 5000 Hz. Un amortiguador acústico colocado en el tubo suaviza estos picos; si ves picos agudos en la medición en oído real, revisa primero el tubo, el canal del molde y el amortiguador.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audifonos",
+   "acustica"
+  ],
+  "etiketler": [
+   "resonancia",
+   "tubo del audífono",
+   "amortiguador acústico",
+   "respuesta en frecuencia",
+   "audífono retroauricular",
+   "medición en oído real",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Puede el tubo del audífono cambiar el sonido?",
+  "bilgiler": [
+   "El tubo y el canal del molde forman un tubo resonante.",
+   "Puede haber picos cerca de 1, 3 y 5 kHz.",
+   "Un amortiguador acústico suaviza los picos."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "acustica"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #366",
+   "metin": "¿El tubo *cambia el sonido?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Puede el tubo del audífono cambiar el sonido?"
+   ]
+  },
+  {
+   "id": "hortum",
+   "tur": "zincir",
+   "baslik": "Resonancia *del tubo*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "1 kHz",
+     "tr": "pico",
+     "cumle": 1
+    },
+    {
+     "ad": "3 kHz",
+     "tr": "pico",
+     "cumle": 1,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "5 kHz",
+     "tr": "pico",
+     "cumle": 1,
+     "gecikme": 1.2
+    }
+   ],
+   "alt": "Un amortiguador _suaviza los picos_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "El tubo y el canal del molde de un audífono retroauricular también resuenan.",
+    "Suelen aparecer picos cerca de mil, tres mil y cinco mil hertz.",
+    "Un amortiguador acústico colocado en el tubo suaviza estos picos.",
+    "Así el sonido se percibe más natural.",
+    "¿Picos agudos en la medición en oído real? Revisa primero el tubo y el molde."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D041",
+ "kaynak_baslik": "Resonancia, filtros y bandas de octava"
+}

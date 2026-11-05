@@ -1,0 +1,766 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D081_Pitch_Perception_ES",
+ "kapak": {
+  "ust": "LECCIÓN 81",
+  "baslik": "Percepción<br>del *tono*",
+  "alt": "Lugar, tiempo y la fundamental ausente",
+  "cizim": "atim_dizisi",
+  "ayar": {
+   "frekans_hz": 250
+  }
+ },
+ "youtube": {
+  "baslik": "Percepción del tono y discriminación de frecuencias | Lección 81 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo percibe el oído el tono de un sonido? En esta lección vemos el concepto de tono y la escala mel, las teorías de lugar y temporal, el umbral diferencial de frecuencia, la fundamental ausente, el tono de los sonidos complejos y por qué la percepción del tono importa en la pérdida auditiva, en los implantes cocleares y en la clínica.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Moore, An Introduction to the Psychology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Plack, The Sense of Hearing; Stevens, Volkmann y Newman (1937), A scale for the measurement of the psychological magnitude pitch, Journal of the Acoustical Society of America; Wier, Jesteadt y Green (1977), Frequency discrimination as a function of frequency and sensation level, Journal of the Acoustical Society of America; Schouten (1940), The residue and the mechanism of hearing, Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "psicoacustica",
+   "percepciondeltono"
+  ],
+  "etiketler": [
+   "percepción del tono",
+   "tono",
+   "teoría de lugar",
+   "teoría temporal",
+   "fundamental ausente",
+   "tono residual",
+   "discriminación de frecuencias",
+   "umbral diferencial de frecuencia",
+   "escala mel",
+   "psicoacústica",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 81",
+   "baslik": "Percepción del tono y discriminación de *frecuencias*",
+   "alt": "Lugar, tiempo y la fundamental ausente",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección pasamos de la sonoridad al tono y veremos cómo percibe el oído la frecuencia.",
+    "Veremos, en orden, las teorías de lugar y temporal, el umbral diferencial de frecuencia y la fundamental ausente."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es el tono?",
+   "baslik": "El tono: un atributo *perceptivo*",
+   "ogeler": [
+    {
+     "ikon": "muzik",
+     "baslik": "Tono",
+     "metin": "Ordenar de grave a agudo",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frecuencia",
+     "metin": "Principal correlato físico",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Escala mel",
+     "metin": "1000 Hz = 1000 mels",
+     "cumle": 4
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Octava",
+     "metin": "El doble de frecuencia",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "El tono es el atributo perceptivo que nos permite ordenar los sonidos de graves a agudos.",
+    "El correlato físico del tono es en gran medida la frecuencia, pero, a diferencia de la frecuencia, el tono no puede medirse directamente con un instrumento.",
+    "En los tonos puros, el tono sube con la frecuencia; en los sonidos periódicos complejos, suele corresponder a la frecuencia fundamental.",
+    "El nivel del sonido también influye levemente en el tono, pero este efecto es pequeño y varía de una persona a otra.",
+    {
+     "yazi": "Stevens y colaboradores propusieron la escala mel en 1937; a un tono de un kilohertz a cuarenta decibeles de nivel de sensación se le asignan mil mels."
+    },
+    "En la escala mel, el tono no crece de forma lineal con la frecuencia; en las frecuencias agudas, el mismo paso de frecuencia da un paso de tono menor.",
+    "En la música, el tono se percibe en proporciones; duplicar la frecuencia da la misma nota una octava más arriba."
+   ]
+  },
+  {
+   "id": "muzik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es el tono?",
+   "baslik": "El tono en la música y en el *habla*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Altura tonal",
+     "metin": "Sube de forma continua",
+     "cumle": 1
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Croma",
+     "metin": "Se repite en cada octava",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Entonación",
+     "metin": "Sube al final de una pregunta",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Lenguas tonales",
+     "metin": "El tono cambia el significado",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El tono tiene dos dimensiones: la altura tonal y el croma.",
+    "La altura tonal sube de forma continua de grave a agudo, mientras que el croma se repite en cada octava; por eso un do y el do siguiente suenan parecidos.",
+    "Muy pocas personas pueden nombrar una nota sin una referencia; esta capacidad se llama oído absoluto.",
+    "En el habla, el tono transmite la entonación; un ejemplo es la subida de la frecuencia fundamental al final de una pregunta.",
+    "En las lenguas tonales, como el chino mandarín, un cambio de tono cambia el significado de una palabra.",
+    "La frecuencia fundamental también es una clave importante para reconocer el sexo, la edad y la emoción de quien habla."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Lugar y tiempo",
+   "baslik": "Teoría de *lugar*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 3
+    },
+    {
+     "parca": "tepe",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "Base: agudos",
+     "cumle": 3
+    },
+    {
+     "parca": "tepe",
+     "metin": "Ápice: graves",
+     "cumle": 3
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "Punto de máxima vibración",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tono = _punto de máxima vibración_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Explicación _sólida_ para los agudos",
+     "cumle": 5,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Pico _ancho_ para los graves",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "¿Cómo convierte el oído la frecuencia en tono? Dos teorías clásicas responden esta pregunta: la teoría de lugar y la teoría temporal.",
+    "Según la teoría de lugar, el tono depende del punto de máxima vibración de la membrana basilar.",
+    "Esta idea, cuyas raíces se remontan a Helmholtz, obtuvo un fuerte respaldo cuando Békésy demostró la onda viajera.",
+    "Los sonidos agudos estimulan con más fuerza la base de la cóclea, y los graves el ápice; esta organización se llama tonotopía.",
+    "Las fibras nerviosas que más descargan le indican al cerebro dónde está la vibración y, por lo tanto, cuál es la frecuencia.",
+    "La teoría de lugar explica el tono especialmente bien en las frecuencias agudas.",
+    "Pero en los sonidos graves el pico de la onda viajera es ancho, y las diferencias finas de tono son difíciles de explicar solo por el lugar."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Lugar y tiempo",
+   "baslik": "Teoría *temporal*",
+   "cizim": "atim_dizisi",
+   "ayar": {
+    "frekans_hz": 250,
+    "periyot": 6,
+    "ates": [
+     1,
+     0,
+     1,
+     1,
+     0,
+     1
+    ],
+    "cumle": 1
+   },
+   "vurgula": [
+    {
+     "parca": "evre",
+     "cumle": 1
+    },
+    {
+     "parca": "aralik",
+     "cumle": 2
+    },
+    {
+     "parca": "atimlar",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "aralik",
+     "metin": "Los intervalos son múltiplos del período",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Descargas en _la misma fase_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Andanada: las fibras descargan _juntas_",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Ausente por encima de _4 a 5 kHz_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Según la teoría temporal, el tono se codifica por la temporización de los impulsos nerviosos.",
+    "Las fibras del nervio auditivo descargan en una fase determinada de la onda; esto se llama sincronía de fase.",
+    "Los intervalos entre descargas son múltiplos del período, y el cerebro puede extraer la frecuencia de este patrón.",
+    "Una sola fibra no puede descargar en cada ciclo, pero según el principio de andanada de Wever, grupos de fibras marcan juntos cada ciclo.",
+    "La sincronía de fase se desvanece por encima de unos cuatro a cinco kilohertz, así que el código temporal no funciona en las frecuencias agudas.",
+    "Vimos este mecanismo en la lección sobre la codificación del nervio auditivo; aquí vemos sus consecuencias para la percepción.",
+    "La visión actual es que ambos códigos actúan juntos: tiempo y lugar en las frecuencias graves y medias, sobre todo lugar en las agudas."
+   ]
+  },
+  {
+   "id": "kanit",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Lugar y tiempo",
+   "baslik": "*Pistas* desde la percepción",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Umbral diferencial",
+     "metin": "Aumenta por encima de 4 a 5 kHz",
+     "cumle": 1
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Melodía",
+     "metin": "Difícil por encima de unos 5 kHz",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Más fino que el filtro",
+     "metin": "Una diferencia de pocos Hz",
+     "cumle": 3
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Fundamental ausente",
+     "metin": "El lugar solo no basta",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Los experimentos de percepción aportan pistas importantes sobre el papel de los dos códigos.",
+    "El umbral diferencial de frecuencia aumenta claramente por encima de unos cuatro a cinco kilohertz, donde también se desvanece la sincronía de fase.",
+    "Del mismo modo, las melodías tocadas con tonos por encima de unos cinco kilohertz son difíciles de reconocer; el sentido del tono musical se debilita.",
+    "En un kilohertz, el filtro auditivo tiene unos ciento treinta hertz de ancho, pero el umbral diferencial es de apenas unos pocos hertz.",
+    "Estos hallazgos sugieren que la información temporal es importante para la percepción fina del tono.",
+    "La fundamental ausente muestra que el tono no puede explicarse solo por el lugar de máxima vibración; la veremos en breve."
+   ]
+  },
+  {
+   "id": "dlf",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Discriminación de frecuencias",
+   "baslik": "El *umbral diferencial* de frecuencia",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ond": 1,
+     "ad": "Umbral diferencial (% de la frecuencia)"
+    },
+    "seriler": [
+     {
+      "ad": "dlf",
+      "noktalar": [
+       [
+        125,
+        0.8
+       ],
+       [
+        250,
+        0.45
+       ],
+       [
+        500,
+        0.3
+       ],
+       [
+        1000,
+        0.22
+       ],
+       [
+        2000,
+        0.2
+       ],
+       [
+        4000,
+        0.3
+       ],
+       [
+        6000,
+        0.6
+       ],
+       [
+        8000,
+        1.0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "isaretli": true,
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "bin",
+      "x": 1000,
+      "y": 0.22,
+      "etiket": "1 kHz: pocos Hz",
+      "dy": -24,
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "tiz",
+      "x": [
+       4000,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "sincronía de fase débil",
+      "cumle": 4,
+      "opak": 0.2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "bin",
+     "cumle": 2
+    },
+    {
+     "parca": "tiz",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El umbral diferencial de frecuencia es la menor diferencia de frecuencia detectable entre dos tonos.",
+    "En la medición, el oyente escucha dos tonos seguidos y se le pregunta cuál es más agudo.",
+    "En adultos jóvenes con audición normal, el umbral en un kilohertz es de apenas unos pocos hertz, es decir, unas dos a tres milésimas.",
+    "En el gráfico se ve que, en relación con la frecuencia, el umbral es menor en las frecuencias medias; los valores son representativos.",
+    "Por encima de cuatro a cinco kilohertz, esta proporción aumenta claramente.",
+    "El umbral también aumenta en niveles bajos y con tonos muy cortos; para un tono claro, un sonido debe durar al menos unas decenas de milisegundos.",
+    "La práctica mejora esta habilidad; los músicos entrenados suelen tener umbrales diferenciales menores."
+   ]
+  },
+  {
+   "id": "eksik_temel",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "El tono de los sonidos complejos",
+   "baslik": "La fundamental *ausente*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 1400,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      0,
+      200,
+      400,
+      600,
+      800,
+      1000,
+      1200
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": "Amplitud"
+    },
+    "seriler": [
+     {
+      "ad": "harmonikler",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        600,
+        1
+       ],
+       [
+        800,
+        0.9
+       ],
+       [
+        1000,
+        0.8
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "eksik",
+      "x": 200,
+      "y": 1,
+      "cizgi": "dikey",
+      "renk": "kirmizi",
+      "nokta": false,
+      "etiket": "tono percibido: 200 Hz",
+      "dx": 20,
+      "dy": -6,
+      "hiza": "start",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "aralik",
+      "x": [
+       600,
+       800
+      ],
+      "y": 1.1,
+      "etiket": "separación de 200 Hz",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "eksik",
+     "cumle": 3
+    },
+    {
+     "parca": "aralik",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Imaginen un sonido con una frecuencia fundamental de doscientos hertz al que le quitamos por completo la fundamental.",
+    "Solo quedan los armónicos de seiscientos, ochocientos y mil hertz.",
+    "El oyente igual percibe un tono de doscientos hertz; es decir, el tono de una fundamental que no está presente.",
+    "Esto se llama fundamental ausente, y el tono percibido se llama tono residual.",
+    {
+     "yazi": "Se observó en los experimentos de Seebeck en el siglo diecinueve y Schouten lo estudió de forma sistemática en 1940."
+    },
+    "Los armónicos están separados por doscientos hertz y la onda se repite cada cinco milisegundos; el cerebro percibe esta regularidad como tono.",
+    "Una línea telefónica corta el sonido por debajo de unos trescientos hertz, pero una voz masculina conserva su tono, porque lo transmiten los armónicos."
+   ]
+  },
+  {
+   "id": "mekanizma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "El tono de los sonidos complejos",
+   "baslik": "¿*De dónde* viene el tono residual?",
+   "maddeler": [
+    {
+     "metin": "El tono _persiste_ con ruido grave",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Armónicos procesados _en conjunto_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Los armónicos _bajos_ resueltos son los más fuertes",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Lugar y tiempo se _combinan_",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "dalga_bicimi",
+    "cumle": 2,
+    "ayar": {
+     "seriler": [
+      "karmasik"
+     ],
+     "frekans_hz": 200
+    }
+   },
+   "cumleler": [
+    "¿Este tono proviene de un producto de distorsión generado en el oído? Los experimentos muestran que no es la explicación principal.",
+    "Incluso cuando se agrega ruido grave en la región de la fundamental, el tono residual se sigue percibiendo.",
+    "Así, el tono no surge de la región coclear sintonizada a la fundamental, sino del procesamiento conjunto de los armónicos.",
+    "Los armónicos de orden bajo, que la cóclea puede resolver por separado, dan la pista más fuerte para el tono.",
+    "Los armónicos de orden alto caen en el mismo filtro auditivo e interactúan; dan un tono más débil.",
+    "Los modelos actuales explican el tono como un proceso central de reconocimiento de patrones que combina la información de lugar y de tiempo."
+   ]
+  },
+  {
+   "id": "konusmaci",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "El tono de los sonidos complejos",
+   "baslik": "Separar *hablantes* por el tono",
+   "maddeler": [
+    {
+     "metin": "F0 distinta: _más fácil_ seguir al hablante",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Los umbrales diferenciales pueden _aumentar_ con la edad",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "La precisión temporal _disminuye_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Entender entre varias personas _cuesta más_",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DOS HABLANTES",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Hablante A",
+      "metin": "Frecuencia fundamental baja",
+      "cumle": 1
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Hablante B",
+      "metin": "Frecuencia fundamental alta",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "El tono también es una clave importante para separar a dos hablantes.",
+    "Si dos personas que hablan a la vez tienen frecuencias fundamentales distintas, el oyente sigue con más facilidad al hablante objetivo.",
+    "Se ha descrito que los adultos mayores tienen umbrales diferenciales de frecuencia mayores, incluso con audiogramas similares.",
+    "Se cree que esto se relaciona con una menor precisión temporal de las fibras nerviosas.",
+    "Esto explica en parte por qué entender se vuelve más difícil en ambientes con varios hablantes."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "El tono en la clínica",
+   "baslik": "El tono y la *pérdida auditiva*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Pérdida coclear",
+     "metin": "Aumentan los umbrales diferenciales",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Diploacusia",
+     "metin": "Tono distinto en cada oído",
+     "cumle": 2
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Implante coclear",
+     "metin": "Música y tono limitados",
+     "cumle": 3
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Reducción de frecuencias",
+     "metin": "Cambia el tono percibido",
+     "cumle": 4
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Igualación del tinnitus",
+     "metin": "Confusión de octava",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La percepción del tono también importa en la clínica.",
+    "En la pérdida coclear, los filtros auditivos se ensanchan y la información temporal puede alterarse; los umbrales diferenciales de frecuencia aumentan.",
+    "Algunos pacientes refieren oír el mismo tono con una altura distinta en cada oído; esto se llama diploacusia.",
+    "Con un implante coclear, la frecuencia llega sobre todo por el lugar del electrodo; por eso la percepción de la música y del tono de voz puede ser limitada.",
+    "En los audífonos con reducción de frecuencias, los sonidos agudos se trasladan a una región más grave, así que también cambia el tono percibido.",
+    "En la igualación de tono del tinnitus, los pacientes suelen equivocarse una octava hacia arriba o hacia abajo, así que se recomienda verificar la octava.",
+    "Así, las quejas sobre el tono pueden reflejar una capacidad auditiva que el audiograma no muestra."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Registren en la anamnesis una queja nueva de tono distorsionado en un oído y evalúenla con el audiograma; no retrasen la evaluación médica.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo clínico: tomen en serio la queja de un paciente de que los sonidos tienen un tono distinto o distorsionado.",
+    "Un tono distorsionado de aparición reciente en un oído puede referirse en cuadros como la sordera súbita o la enfermedad de Ménière.",
+    "Registren esta queja en detalle en la anamnesis y evalúenla junto con cualquier cambio en el audiograma.",
+    "Una queja nueva de un solo lado puede ser una señal de alerta para no retrasar la evaluación médica."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Tono: el lado _perceptivo_ de la frecuencia",
+     "cumle": 0,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Códigos de lugar y de _tiempo_ juntos",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Umbral en 1 kHz: _pocos Hz_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Fundamental ausente: _separación entre armónicos_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "El tono es el atributo perceptivo que ordena los sonidos de graves a agudos, y depende en gran medida de la frecuencia.",
+    "El código de lugar contribuye al tono en todas las frecuencias, y el código temporal por debajo de unos cuatro a cinco kilohertz.",
+    "En un kilohertz, el umbral diferencial de frecuencia es de apenas unos pocos hertz; en las frecuencias agudas aumenta claramente.",
+    "El tono de los sonidos complejos se percibe a partir de la regularidad de los armónicos, incluso sin la fundamental."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Armónicos de 900, 1200 y 1500 Hz: ¿qué tono?",
+   "secenekler": [
+    "300 Hz",
+    "900 Hz",
+    "1200 Hz",
+    "1500 Hz"
+   ],
+   "dogru": 0,
+   "aciklama": "Los armónicos están separados por _300 Hz_; ese es el tono de la fundamental ausente.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: un sonido solo tiene armónicos de novecientos, mil doscientos y mil quinientos hertz. ¿Qué tono se percibe?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: trescientos hertz.",
+    "La separación entre los armónicos es de trescientos hertz; el oyente percibe el tono de esta fundamental ausente."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "El enmascaramiento y la *banda crítica*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo un sonido tapa a otro, es decir, el enmascaramiento, y la banda crítica.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

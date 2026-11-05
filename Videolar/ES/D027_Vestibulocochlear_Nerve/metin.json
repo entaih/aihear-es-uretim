@@ -1,0 +1,924 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D027_Vestibulocochlear_Nerve_ES",
+ "kapak": {
+  "ust": "LECCIÓN 27",
+  "baslik": "VIII<br>*par craneal*",
+  "alt": "El nervio vestibulococlear",
+  "cizim": "isitme_yolu"
+ },
+ "youtube": {
+  "baslik": "VIII par craneal: el nervio vestibulococlear | Lección 27 | AIHEAR Academia de Audiología",
+  "aciklama": "El octavo par craneal lleva la información auditiva y del equilibrio desde el oído interno hasta el tronco cerebral. En esta lección vemos sus ramas coclear y vestibulares, el ganglio espiral y el de Scarpa, las neuronas tipo I y tipo II, las fibras eferentes y su posición en el conducto auditivo interno junto al nervio facial. También lo relacionamos con los PEATC y vemos ejemplos clínicos.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Gray's Anatomy; Møller, Hearing: Anatomy, Physiology, and Disorders of the Auditory System; Hall, New Handbook of Auditory Evoked Responses; Jacobson and Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "anatomia",
+   "audicion"
+  ],
+  "etiketler": [
+   "octavo par craneal",
+   "nervio vestibulococlear",
+   "nervio coclear",
+   "nervio vestibular",
+   "ganglio espiral",
+   "ganglio de Scarpa",
+   "conducto auditivo interno",
+   "nervio facial",
+   "PEATC",
+   "schwannoma vestibular",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 27",
+   "baslik": "VIII *par craneal*",
+   "alt": "El nervio vestibulococlear: audición y equilibrio",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección estudiaremos el octavo par craneal, que lleva la información auditiva y vestibular del oído interno al tronco cerebral.",
+    "Veremos sus ramas, sus ganglios, su posición en el conducto auditivo interno y su relación con el nervio facial."
+   ]
+  },
+  {
+   "id": "genel",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Estructura general",
+   "baslik": "El nervio de la audición y del *equilibrio*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 0
+    },
+    {
+     "parca": "koklea",
+     "cumle": 2
+    },
+    {
+     "parca": "vestibul",
+     "cumle": 2
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "Nervio vestibulococlear",
+     "cumle": 0
+    },
+    {
+     "parca": "koklea",
+     "metin": "Cóclea",
+     "cumle": 2
+    },
+    {
+     "parca": "vestibul",
+     "metin": "Vestíbulo",
+     "cumle": 2
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "metin": "Conducto auditivo interno",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Entrada: _ángulo pontocerebeloso_",
+     "cumle": 4,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Longitud: unos _2,5 cm_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El nombre anatómico del octavo par craneal es nervio vestibulococlear (nervus vestibulocochlearis), el nervio del equilibrio y la audición."
+    },
+    "Como indica su nombre, tiene dos partes con dos funciones distintas.",
+    "La parte coclear lleva la información auditiva de la cóclea, y la parte vestibular, la información de movimiento de los órganos del equilibrio.",
+    "El nervio atraviesa el conducto auditivo interno, entra en la cavidad craneal y llega al tronco cerebral.",
+    "Entra en el tronco cerebral donde la protuberancia se une con el bulbo raquídeo, en una región llamada ángulo pontocerebeloso.",
+    "En el adulto, el nervio recorre unos dos centímetros y medio desde el fondo del conducto auditivo interno hasta el tronco cerebral."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "ic_kulak",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ]
+  },
+  {
+   "id": "dallar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Estructura general",
+   "baslik": "Parte coclear y parte *vestibular*",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Nervio coclear: viene _de la cóclea_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Ganglio espiral; unas _30 000_ fibras",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Nervio vestibular: _superior e inferior_",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Cuerpos celulares: _ganglio de Scarpa_",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_Menos_ fibras vestibulares",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "isitme_siniri",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    "vurgula": [
+     {
+      "parca": "koklear_sinir",
+      "cumle": 0
+     },
+     {
+      "parca": "vestibuler_sinir",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "koklear_sinir",
+      "metin": "Nervio coclear",
+      "cumle": 0
+     },
+     {
+      "parca": "vestibuler_sinir",
+      "metin": "Nervio vestibular",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "El nervio coclear lleva las fibras que vienen de las células ciliadas de la cóclea.",
+    "Los cuerpos celulares de estas fibras están en el ganglio espiral (ganglion spirale), dentro del modiolo, el eje de la cóclea.",
+    "El nervio coclear humano tiene unas treinta mil fibras nerviosas.",
+    "El nervio vestibular se divide en dos ramas, superior e inferior.",
+    {
+     "yazi": "Los cuerpos celulares de las fibras vestibulares están en el ganglio vestibular (ganglion vestibulare), o de Scarpa, en el conducto auditivo interno."
+    },
+    "El nervio vestibular tiene menos fibras que el nervio coclear."
+   ]
+  },
+  {
+   "id": "noronlar",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Fibras cocleares",
+   "baslik": "*Neuronas* tipo I y tipo II",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Fibras del ganglio espiral",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "Célula ciliada interna: tipo I",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Células ciliadas externas: tipo II",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tipo I: cerca del _90 a 95 %_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tipo II: cerca del _5 a 10 %_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Información sobre todo de _células internas_",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "El ganglio espiral tiene dos tipos de neuronas, que se conectan con células ciliadas distintas.",
+    {
+     "yazi": "Entre el noventa y el noventa y cinco por ciento de las neuronas son tipo I, y se conectan con las células ciliadas internas."
+    },
+    "Estas neuronas son grandes y mielinizadas; cada una va a una sola célula ciliada interna, y cada célula interna recibe muchas fibras.",
+    {
+     "yazi": "El cinco a diez por ciento restante son neuronas tipo II, que se conectan con las células ciliadas externas."
+    },
+    {
+     "yazi": "Las neuronas tipo II son pequeñas y amielínicas; cada una se ramifica para llegar a muchas células ciliadas externas."
+    },
+    "Esta distribución muestra que la información auditiva que llega al cerebro proviene sobre todo de las células ciliadas internas."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "sinaptopati",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Fibras cocleares",
+   "baslik": "Un enlace delicado: la *sinapsis*",
+   "maddeler": [
+    {
+     "metin": "Célula interna y fibra: _sinapsis_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "El ruido puede afectarla _primero_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "El audiograma puede seguir _normal_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Investigación en humanos _en curso_",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "corti",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "ic_tuy_hucresi",
+      "cumle": 0
+     },
+     {
+      "parca": "sinir_lifleri",
+      "cumle": 1
+     }
+    ],
+    "yakinlastir": {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 0,
+     "olcek": 1.8
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Los puntos de conexión entre las fibras tipo I y las células ciliadas internas, las sinapsis, se han estudiado intensamente en los últimos años."
+    },
+    "Estudios en animales han mostrado que el ruido puede dañar de forma permanente parte de estas sinapsis, aunque las células ciliadas sobrevivan.",
+    {
+     "yazi": "Esto se llama sinaptopatía coclear; como los umbrales no se alteran, el audiograma puede parecer normal."
+    },
+    "En humanos, todavía se estudia cuán frecuente es y cómo se relaciona con la dificultad para entender el habla en ruido.",
+    "Esto nos recuerda que un audiograma normal no siempre significa que la vía neural esté totalmente intacta."
+   ]
+  },
+  {
+   "id": "efferent",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Fibras cocleares",
+   "baslik": "Del cerebro a la cóclea: fibras *eferentes*",
+   "maddeler": [
+    {
+     "metin": "Origen: _complejo olivar superior_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Fibras mediales: _células ciliadas externas_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Fibras laterales: bajo las células internas",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Viajan _con_ el nervio vestibular",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "superior_oliver",
+      "metin": "Complejo olivar superior",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 1
+     },
+     {
+      "parca": "koklea",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "El octavo par no solo lleva información al cerebro; también contiene fibras eferentes que van del cerebro a la cóclea.",
+    "Estas fibras nacen en el complejo olivar superior; las de la parte medial van a las células ciliadas externas.",
+    {
+     "yazi": "Las de la parte lateral se conectan con las terminaciones de las fibras tipo I bajo las células ciliadas internas."
+    },
+    "Al salir del tronco cerebral, las fibras eferentes viajan un tramo con el nervio vestibular y luego pasan a la cóclea.",
+    "Al regular la actividad de las células ciliadas externas, sobre todo en ruido, este sistema ayuda a percibir la señal con más claridad."
+   ]
+  },
+  {
+   "id": "ic_kulak_yolu",
+   "bolum_no": "PARTE 3",
+   "bolum": "El conducto auditivo interno",
+   "baslik": "*Cuatro cuadrantes* en el conducto auditivo interno",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Anterosuperior",
+     "metin": "Nervio facial (VII)",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Anteroinferior",
+     "metin": "Nervio coclear",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Posterosuperior",
+     "metin": "Nervio vestibular superior",
+     "cumle": 4
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Posteroinferior",
+     "metin": "Nervio vestibular inferior",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El nervio recorre el conducto auditivo interno (meatus acusticus internus) del hueso temporal."
+    },
+    "En el fondo del conducto auditivo interno, los nervios se disponen según un patrón fijo.",
+    "Una cresta ósea horizontal divide el conducto en una parte superior y otra inferior, y una pequeña cresta vertical divide la superior en anterior y posterior.",
+    "El nervio facial está en el cuadrante anterosuperior, y el nervio coclear, en el anteroinferior.",
+    "El nervio vestibular superior está en el cuadrante posterosuperior, y el nervio vestibular inferior, en el posteroinferior.",
+    "Para recordarlo: el séptimo par está arriba, el nervio coclear abajo, y los nervios vestibulares atrás."
+   ]
+  },
+  {
+   "id": "komsuluk",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "El conducto auditivo interno",
+   "baslik": "Junto al *nervio facial*",
+   "cizim": "ic_kulak_yolu_dibi",
+   "vurgula": [
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "labirent_arteri",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "Nervio facial (VII)",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Nervio coclear",
+     "cumle": 0
+    },
+    {
+     "parca": "ust_vestibuler_sinir",
+     "metin": "Nervio vestibular superior",
+     "cumle": 0
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "Nervio vestibular inferior",
+     "cumle": 0
+    },
+    {
+     "parca": "labirent_arteri",
+     "metin": "Arteria laberíntica",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Nervio facial (nervus facialis)",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "La arteria laberíntica _sigue la misma ruta_",
+     "cumle": 3,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "_Preservarlo_ es clave en cirugía",
+     "cumle": 4,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En el conducto auditivo interno, el octavo par discurre junto al séptimo par craneal, el nervio facial (nervus facialis)."
+    },
+    "Por eso, una masa en el conducto auditivo interno puede afectar tanto la audición como los músculos de la cara.",
+    "Las fibras motoras del nervio facial mueven los músculos de la cara; este nervio también inerva el músculo estapedio.",
+    "La arteria laberíntica, que irriga el oído interno, suele llegar a él por la misma ruta.",
+    "Por eso, preservar el nervio facial es especialmente importante en la cirugía del conducto auditivo interno."
+   ]
+  },
+  {
+   "id": "hedefler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "El conducto auditivo interno",
+   "baslik": "*Destinos* en el tronco cerebral",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "Nervio coclear",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "Núcleo coclear",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Mapa de frecuencias _preservado_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Fibras vestibulares: _núcleos vestibulares_",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Algunas van al _cerebelo_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Al entrar en el tronco cerebral, las fibras del nervio coclear llegan al núcleo coclear.",
+    "Allí cada fibra se ramifica hacia distintas partes del núcleo, y la información sonora empieza a procesarse por vías paralelas.",
+    "El mapa de frecuencias de la cóclea, su tonotopía, se conserva también en el nervio y en el núcleo coclear.",
+    "Las fibras vestibulares, por su parte, van a los núcleos vestibulares del tronco cerebral.",
+    "Algunas fibras vestibulares van directamente al cerebelo; estas conexiones ayudan a regular el equilibrio y los movimientos oculares.",
+    "Veremos la continuación de la vía auditiva, del tronco cerebral a la corteza, en lecciones posteriores."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Vínculos clínicos",
+   "baslik": "El nervio y los *PEATC*",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0,
+    "i_v_uzama": 1.0
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Onda I: extremo coclear del nervio",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Onda V",
+     "cumle": 2
+    },
+    {
+     "parca": "latans_I_V",
+     "metin": "Intervalo I-V",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "latans_I_V",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Línea discontinua: registro _normal_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Intervalo I-V normal: unos _4 ms_",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "Los potenciales evocados auditivos de tronco cerebral (PEATC, en inglés ABR) son una de las principales formas clínicas de evaluar la función del octavo par.",
+    {
+     "yazi": "La onda I proviene del extremo del nervio cercano a la cóclea, y la onda II, de la parte cercana al tronco cerebral."
+    },
+    {
+     "yazi": "Las ondas siguientes provienen de estaciones del tronco cerebral; la onda V es la más prominente de ellas."
+    },
+    {
+     "yazi": "En este dibujo, la línea discontinua muestra un registro normal; cuando la conducción se enlentece, el tiempo entre las ondas I y V se alarga."
+    },
+    "En un adulto normal, este intervalo suele ser de unos cuatro milisegundos.",
+    "Este ejemplo solo muestra cómo se ve un intervalo prolongado; la evaluación siempre se hace junto con todos los hallazgos."
+   ]
+  },
+  {
+   "id": "asimetri",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Vínculos clínicos",
+   "baslik": "Ejemplo: pérdida neurosensorial *asimétrica*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: pérdida en agudos",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Vía ósea enmascarada izquierda_",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Reconocimiento de palabras izquierdo: _menor de lo esperado_",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       15,
+       20,
+       25
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       30,
+       45,
+       55,
+       60
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       15,
+       20,
+       25,
+       40,
+       50
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Los problemas que afectan al octavo par suelen manifestarse como una pérdida auditiva en un oído.",
+    "En este ejemplo, el oído derecho es normal, mientras que el izquierdo muestra una pérdida neurosensorial que aumenta hacia los agudos.",
+    "Esta asimetría entre los oídos es un hallazgo que puede requerir un estudio más profundo de la vía neural.",
+    "En estos oídos, el porcentaje de reconocimiento de palabras puede ser peor de lo esperado según los umbrales tonales.",
+    {
+     "yazi": "El schwannoma vestibular, un tumor benigno que suele originarse en las ramas vestibulares del octavo par, puede causar este cuadro."
+    },
+    "La evaluación definitiva se hace con resonancia magnética; las pruebas audiológicas son los primeros pasos de este proceso."
+   ]
+  },
+  {
+   "id": "hangi_dal",
+   "bolum_no": "PARTE 4",
+   "bolum": "Vínculos clínicos",
+   "baslik": "¿Qué *rama* está afectada?",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Superior: canal lateral, anterior, _utrículo_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Superior: calórica, vHIT lateral, _oVEMP_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Inferior: canal posterior, _sáculo_",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Inferior: vHIT posterior, _cVEMP_; calórica normal",
+     "cumle": 4,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Neuritis vestibular: sobre todo _rama superior_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "vestibuler_sinir",
+      "cumle": 0
+     },
+     {
+      "parca": "lateral_kanal",
+      "cumle": 1
+     },
+     {
+      "parca": "superior_kanal",
+      "cumle": 1
+     },
+     {
+      "parca": "utrikul",
+      "cumle": 1
+     },
+     {
+      "parca": "posterior_kanal",
+      "cumle": 3
+     },
+     {
+      "parca": "sakkul",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "utrikul",
+      "metin": "Utrículo",
+      "cumle": 1
+     },
+     {
+      "parca": "sakkul",
+      "metin": "Sáculo",
+      "cumle": 3
+     },
+     {
+      "parca": "posterior_kanal",
+      "metin": "Canal posterior",
+      "cumle": 3,
+      "yer": "sol"
+     }
+    ]
+   },
+   "cumleler": [
+    "Como las dos ramas vestibulares van a órganos distintos, en la clínica podemos saber qué rama está afectada.",
+    "La rama superior lleva las fibras de los canales lateral y anterior y del utrículo.",
+    "Si está afectada, esperamos debilidad en la prueba calórica y en la prueba de impulso cefálico con video (vHIT) lateral, y un VEMP ocular alterado.",
+    "La rama inferior lleva las fibras del canal posterior y de la mayor parte del sáculo.",
+    "Si esta rama está afectada, el vHIT del canal posterior y el VEMP cervical se alteran, mientras que la prueba calórica puede seguir normal.",
+    "La neuritis vestibular afecta con más frecuencia la rama superior, por lo que en estos pacientes el VEMP cervical suele conservarse."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Vínculos clínicos",
+   "baslik": "Consejo clínico",
+   "metin": "En la pérdida neurosensorial asimétrica, no quedarse en los tonos puros: medir reconocimiento de palabras y reflejos acústicos en cada oído, y dejar clara la asimetría en el informe.",
+   "cumleler": [
+    "Un consejo de la práctica: en las pérdidas neurosensoriales con una clara diferencia entre oídos, no se queden en los umbrales tonales.",
+    "Midan también el porcentaje de reconocimiento de palabras y los reflejos acústicos de cada oído.",
+    "Un reconocimiento de palabras peor de lo esperado según los umbrales, o reflejos ausentes sin explicación, orientan hacia la vía neural.",
+    "Indicar con claridad la asimetría y estos hallazgos en el informe ayuda al médico a decidir si se necesitan más estudios."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Dos partes: _coclear_ y vestibular",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Ganglio espiral: _tipo I_ y tipo II",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Conducto auditivo interno: junto al _nervio facial_",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "PEATC: el intervalo I-V refleja la _vía neural_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "El octavo par craneal está formado por el nervio coclear y los nervios vestibulares superior e inferior.",
+    {
+     "yazi": "La mayoría de las fibras cocleares son neuronas tipo I que llevan información de las células ciliadas internas; las tipo II van a las externas."
+    },
+    "En el conducto auditivo interno, el nervio facial está adelante y arriba, el coclear adelante y abajo, y los vestibulares atrás.",
+    {
+     "yazi": "En los PEATC, el tiempo entre las ondas I y V refleja la conducción en el nervio y el tronco cerebral."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Dónde está el nervio coclear en el conducto auditivo interno?",
+   "secenekler": [
+    "Anterosuperior",
+    "Anteroinferior",
+    "Posterosuperior",
+    "Posteroinferior"
+   ],
+   "dogru": 1,
+   "aciklama": "El nervio facial es _anterosuperior_ y el coclear, anteroinferior; los nervios vestibulares son posteriores.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en el fondo del conducto auditivo interno, ¿en qué cuadrante está el nervio coclear?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: el cuadrante anteroinferior."
+    },
+    "Para recordarlo: el séptimo par está arriba, el nervio coclear abajo, y los nervios vestibulares atrás."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Acústica del oído externo: resonancia y *dirección*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos a la fisiología y veremos cómo el oído externo refuerza el sonido y aporta claves de dirección.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

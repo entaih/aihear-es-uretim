@@ -1,0 +1,568 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D053_How_Balance_Works_ES",
+ "kapak": {
+  "ust": "LECCIÓN 53",
+  "baslik": "Cómo funciona<br>el *equilibrio*",
+  "alt": "Visión, sistema vestibular, somatosensación",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Equilibrio: visión, vestíbulo y somatosensación | Lección 53 | AIHEAR Academia de Audiología",
+  "aciklama": "El equilibrio surge de que el cerebro combina la información de la visión, el sistema vestibular y el sistema somatosensorial. En esta lección vemos la ponderación sensorial, el reflejo vestíbulo-espinal (RVE), las estrategias posturales, las pruebas de equilibrio de cabecera y computarizadas, y el concepto de compensación central.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Shumway-Cook and Woollacott, Motor Control: Translating Research into Clinical Practice; Herdman and Clendaniel, Vestibular Rehabilitation; Jacobson and Shepard, Balance Function Assessment and Management; Peterka (2002), Sensorimotor integration in human postural control, Journal of Neurophysiology; Shumway-Cook and Horak (1986), Assessing the influence of sensory interaction on balance, Physical Therapy.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "equilibrio",
+   "vestibular"
+  ],
+  "etiketler": [
+   "equilibrio",
+   "control postural",
+   "integración sensorial",
+   "reflejo vestíbulo-espinal",
+   "propiocepción",
+   "prueba de Romberg",
+   "mCTSIB",
+   "posturografía",
+   "compensación vestibular",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 53",
+   "baslik": "Cómo funciona el *equilibrio*",
+   "alt": "Sistemas visual, vestibular y somatosensorial",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos los tres sistemas sensoriales que nos mantienen en equilibrio y cómo el cerebro combina su información.",
+    "También conoceremos el reflejo vestíbulo-espinal, las estrategias posturales, las pruebas de equilibrio y la compensación central."
+   ]
+  },
+  {
+   "id": "denge_nedir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Tres sentidos",
+   "baslik": "¿Qué es el *equilibrio*?",
+   "maddeler": [
+    {
+     "metin": "Centro de masa sobre la _base de apoyo_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Oscilación _constante_ incluso de pie",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Entrada, integración, _salida_",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "denge_durus",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "agirlik_merkezi",
+      "metin": "Centro de masa",
+      "cumle": 1
+     },
+     {
+      "parca": "destek_yuzeyi",
+      "metin": "Base de apoyo",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "agirlik_merkezi",
+      "cumle": 1
+     },
+     {
+      "parca": "destek_yuzeyi",
+      "cumle": 1
+     },
+     {
+      "parca": "salinim",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "El equilibrio es la capacidad del cuerpo de mantener su posición sin caer, tanto en reposo como en movimiento.",
+    "En términos físicos, significa mantener el centro de masa del cuerpo sobre la base de apoyo que forman los pies.",
+    "Incluso de pie, el cuerpo oscila levemente todo el tiempo, y el sistema nervioso lo corrige momento a momento.",
+    "Este control puede pensarse en tres etapas: entrada sensorial, integración central y salida motora hacia los músculos.",
+    "En esta lección veremos primero las entradas, y luego cómo el cerebro las combina y las envía a los músculos."
+   ]
+  },
+  {
+   "id": "uc_duyu",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Tres sentidos",
+   "baslik": "Tres entradas *sensoriales*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Visión",
+     "metin": "Posición en el entorno; una escena móvil engaña",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Vestibular",
+     "metin": "Movimiento cefálico, gravedad; no percibe el tronco",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Somatosensorial",
+     "metin": "Suelo, posición articular; menor en superficies blandas",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los tres sistemas sensoriales que nos mantienen en equilibrio son la visión, el sistema vestibular y el sistema somatosensorial.",
+    "La visión informa nuestra posición respecto del entorno, pero puede engañar, como cuando arranca el tren de al lado y sentimos que nos movemos.",
+    "El sistema vestibular informa la rotación y el movimiento lineal de la cabeza, y la dirección de la gravedad.",
+    "Pero la información vestibular sola no indica dónde está la cabeza respecto del tronco; eso lo completan los sentidos del cuello y del tronco.",
+    "El sistema somatosensorial informa la presión bajo las plantas de los pies y la posición de las articulaciones.",
+    "El sentido de posición que aportan articulaciones y músculos se llama propiocepción; sobre una superficie blanda, esta información disminuye."
+   ]
+  },
+  {
+   "id": "agirlik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Tres sentidos",
+   "baslik": "*Ponderación* sensorial",
+   "maddeler": [
+    {
+     "metin": "Suelo firme, con luz: lidera la _somatosensación_",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Suelo blando: aumentan _visión y vestíbulo_",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Espuma, ojos cerrados: _vestíbulo_",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "En conflicto, el vestíbulo es el _árbitro_",
+     "cumle": 5,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "yarim_daire_kanallari",
+      "cumle": 4
+     },
+     {
+      "parca": "utrikul",
+      "cumle": 4
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "El cerebro no da el mismo peso a los tres sentidos en toda situación; ajusta sus pesos según el contexto.",
+    "Un adulto sano de pie sobre suelo firme y con luz depende sobre todo de la información somatosensorial para mantener el equilibrio.",
+    "En esa misma condición, el aporte del sistema vestibular y de la visión es menor; las proporciones varían según la persona y la condición.",
+    "Cuando la superficie se vuelve blanda o se mueve, el aporte somatosensorial cae, y la visión y el sistema vestibular pasan al primer plano.",
+    "Con los ojos cerrados sobre una superficie blanda, el equilibrio queda en gran parte a cargo del sistema vestibular.",
+    "Cuando los sentidos entran en conflicto, el sistema vestibular, con su información basada en la gravedad, actúa como una especie de árbitro."
+   ]
+  },
+  {
+   "id": "butunlesme",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Integración y salida",
+   "baslik": "¿Dónde se *combina* la información?",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Tres sentidos",
+     "metin": "Visión, vestíbulo, somatosensación",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Núcleos",
+     "metin": "Primera integración en el tronco cerebral",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Cerebelo",
+     "metin": "Compara, corrige errores",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Corteza",
+     "metin": "Percepción consciente, plan motor",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La combinación de la información de los tres sentidos se llama integración sensorial.",
+    "Esta integración comienza en los núcleos vestibulares del tronco cerebral.",
+    "El cerebelo compara la información, corrige errores y afina los movimientos.",
+    "La corteza construye una percepción consciente de la posición del cuerpo en el espacio y planifica los movimientos voluntarios.",
+    "Cuando los sentidos no coinciden, por ejemplo al leer en un barco, pueden aparecer náuseas y malestar; esto se llama cinetosis.",
+    "La teoría del conflicto sensorial es la explicación más aceptada de la cinetosis."
+   ]
+  },
+  {
+   "id": "vsr",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Integración y salida",
+   "baslik": "El reflejo *vestíbulo-espinal*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "RVO",
+     "metin": "Estabiliza la mirada",
+     "cumle": 0
+    },
+    {
+     "ikon": "denge",
+     "baslik": "RVE",
+     "metin": "Mantiene el cuerpo erguido",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Lado inclinado",
+     "metin": "Aumenta el tono muscular",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Reflejo vestíbulo-cólico",
+     "metin": "Estabiliza la cabeza",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La primera salida va a los ojos: el reflejo vestíbulo-ocular (RVO), que vimos en la lección anterior, mantiene estable la mirada.",
+    "La segunda salida va a la médula espinal; se llama reflejo vestíbulo-espinal (RVE).",
+    "Por ejemplo, cuando el cuerpo se inclina a la derecha, aumenta el tono de los músculos de la pierna y del tronco derechos, lo que evita la caída.",
+    "Este reflejo excita los músculos antigravitatorios a través del haz vestíbulo-espinal lateral, que desciende desde el núcleo de Deiters.",
+    "La tercera salida va a los músculos del cuello; el reflejo vestíbulo-cólico estabiliza la cabeza frente a los movimientos del tronco.",
+    "Los reflejos de ojos, cabeza y cuerpo, trabajando juntos, nos permiten mantener el equilibrio y ver con claridad al caminar."
+   ]
+  },
+  {
+   "id": "stratejiler",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Integración y salida",
+   "baslik": "*Estrategias* posturales",
+   "adimlar": [
+    {
+     "ikon": "denge",
+     "baslik": "Tobillo",
+     "metin": "Oscilación pequeña y lenta; en bloque",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Cadera",
+     "metin": "Empuje grande y rápido; flexión de cadera",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Paso",
+     "metin": "Pasado el límite, nueva base",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Cuando el equilibrio se altera, el cuerpo usa distintas estrategias según la magnitud de la amenaza.",
+    "En oscilaciones pequeñas y lentas, el cuerpo se mueve en bloque como un péndulo que pivota en el tobillo; es la estrategia de tobillo.",
+    "Con empujes mayores y más rápidos, o sobre una superficie estrecha, el cuerpo se equilibra flexionando la cadera; es la estrategia de cadera.",
+    "Si el centro de masa sale de la base de apoyo, la persona da un paso para crear una nueva base de apoyo.",
+    "Las personas con pérdida vestibular pueden tener más dificultad en las situaciones que requieren la estrategia de cadera.",
+    "En los adultos mayores, el enlentecimiento de estas estrategias es uno de los factores que aumentan el riesgo de caídas."
+   ]
+  },
+  {
+   "id": "mctsib",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Evaluación del equilibrio",
+   "baslik": "Prueba sensorial: *cuatro condiciones*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Condición 1",
+     "metin": "Firme, ojos abiertos: los tres sentidos",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Condición 2",
+     "metin": "Firme, ojos cerrados: somatosensación, vestíbulo",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Condición 3",
+     "metin": "Espuma, ojos abiertos: visión, vestíbulo",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Condición 4",
+     "metin": "Espuma, ojos cerrados: vestíbulo",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Para evaluar los aportes sensoriales se usa la prueba clínica modificada de interacción sensorial en el equilibrio (mCTSIB)."
+    },
+    "En la primera condición, la persona está de pie sobre una superficie firme con los ojos abiertos; dispone de los tres sentidos.",
+    "En la segunda condición se cierran los ojos; el equilibrio queda a cargo de la somatosensación y del sistema vestibular.",
+    "En la tercera condición, la persona está de pie sobre un cojín de espuma con los ojos abiertos; la información somatosensorial disminuye.",
+    "En la cuarta condición, también se cierran los ojos sobre la espuma, y el equilibrio queda en gran parte a cargo del sistema vestibular.",
+    "Cada condición suele mantenerse treinta segundos; una dificultad clara en la cuarta puede sugerir un menor aporte vestibular."
+   ]
+  },
+  {
+   "id": "yontemler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Evaluación del equilibrio",
+   "baslik": "Pruebas de cabecera y *computarizadas*",
+   "ogeler": [
+    {
+     "ikon": "odyolog",
+     "baslik": "De cabecera",
+     "metin": "Romberg, mCTSIB; rápidas, económicas",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Por observación",
+     "metin": "Difícil captar diferencias pequeñas",
+     "cumle": 3
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Posturografía",
+     "metin": "Plataforma y entorno visual móviles",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Medición numérica",
+     "metin": "Seguimiento objetivo; menos centros",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En la prueba de Romberg, la persona está de pie con los pies juntos; se observa la oscilación primero con los ojos abiertos y luego cerrados.",
+    "Una oscilación marcada o la tendencia a caer con los ojos cerrados se registra como Romberg positivo; clásicamente sugiere pérdida propioceptiva.",
+    "Las pruebas de cabecera son rápidas y económicas, y pueden hacerse en cualquier consultorio.",
+    "Pero sus resultados dependen en gran parte de la observación, y es difícil captar diferencias pequeñas.",
+    "En la posturografía dinámica computarizada, la plataforma y el entorno visual pueden moverse en respuesta a la oscilación de la persona.",
+    "Así, los aportes sensoriales se miden por separado y en forma numérica, y el seguimiento es más objetivo.",
+    "Las pruebas de cabecera pueden hacerse casi en cualquier consultorio, mientras que la posturografía computarizada es costosa y está en menos centros."
+   ]
+  },
+  {
+   "id": "kompanzasyon",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Compensación",
+   "baslik": "*Compensación* central",
+   "maddeler": [
+    {
+     "metin": "El cerebro _reduce_ la diferencia entre lados",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Síntomas estáticos: _días a semanas_",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Síntomas dinámicos: _más lentos_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "El movimiento _favorece_ el proceso",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "vestibuler_sinir",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Tras una pérdida vestibular unilateral, el cerebro reduce poco a poco el desequilibrio entre ambos lados; esto se llama compensación central.",
+    "Los síntomas estáticos, que aparecen en reposo, como el nistagmo y el vértigo, suelen aliviarse en días o semanas.",
+    "Esto se debe a que la actividad en reposo de los núcleos vestibulares se reequilibra con ayuda del cerebelo.",
+    "La recuperación de los síntomas dinámicos, que aparecen al mover la cabeza, tarda más y no siempre es completa.",
+    "La compensación se ve favorecida por el movimiento de la cabeza y del cuerpo y por la estimulación visual; el reposo prolongado puede enlentecerla.",
+    "También se ha descrito que el uso prolongado de supresores vestibulares retrasa la compensación; las decisiones sobre fármacos corresponden al médico."
+   ]
+  },
+  {
+   "id": "mekanizmalar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Compensación",
+   "baslik": "Vías de *compensación*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Adaptación",
+     "metin": "Aumenta la ganancia del RVO",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Sustitución",
+     "metin": "Sacadas, visión, somatosensación",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Habituación",
+     "metin": "Los síntomas ceden al repetir",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Recuperación funcional",
+     "metin": "El laberinto se recupera en parte",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La compensación se produce de varias maneras distintas.",
+    "En la adaptación, aumenta la ganancia de la función vestibular restante; por ejemplo, la ganancia del RVO sube en parte.",
+    "En la sustitución, la información que falta se reemplaza de otro modo, por ejemplo con sacadas correctoras o con visión y somatosensación.",
+    "En la habituación, la respuesta de malestar ante un estímulo repetido disminuye con el tiempo.",
+    "En algunas personas, la función del propio laberinto puede recuperarse en parte o por completo.",
+    "Los programas de rehabilitación vestibular consisten en ejercicios dirigidos a estos mecanismos; los veremos en próximas lecciones."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Compensación",
+   "baslik": "Precaución clínica",
+   "metin": "En las pruebas de equilibrio, colocarse junto al paciente, listo para evitar una caída. Con ojos cerrados y sobre espuma, la seguridad es lo primero; usar arnés si hace falta.",
+   "cumleler": [
+    "Un consejo clínico: en las pruebas de equilibrio, la seguridad siempre es lo primero.",
+    "Sobre todo en las condiciones con ojos cerrados y sobre espuma, colóquense justo al lado del paciente, listos para evitar una caída.",
+    "Con personas mayores o con inestabilidad marcada, usen un arnés de seguridad y no dejen esquinas duras cerca.",
+    "Si la persona no logra completar una condición, registren el tiempo y la forma en que perdió el equilibrio; esa información también es valiosa."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "_Tres sentidos_: visión, vestíbulo, somatosensación",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "El cerebro _pondera_ los sentidos según la condición",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "El _RVE_ mantiene la postura; el RVO, la mirada",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "_Compensación_: reequilibrio tras la pérdida",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "El equilibrio depende de la información de la visión, del sistema vestibular y del sistema somatosensorial.",
+    "El cerebro pondera estos sentidos de forma distinta según la condición; sobre espuma y con ojos cerrados, el sistema vestibular pasa al primer plano.",
+    "El reflejo vestíbulo-espinal nos mantiene erguidos, mientras que el RVO mantiene estable la mirada.",
+    "Tras una pérdida unilateral, el cerebro reconstruye el equilibrio mediante la compensación; el movimiento favorece este proceso."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "De pie sobre espuma y con los ojos cerrados, ¿de qué sistema depende más el equilibrio?",
+   "secenekler": [
+    "Visión",
+    "Sistema vestibular",
+    "Sensibilidad plantar",
+    "Audición"
+   ],
+   "dogru": 1,
+   "aciklama": "Con los ojos cerrados se pierde la visión y sobre espuma disminuye la somatosensación; el equilibrio queda a cargo del _sistema vestibular_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: de pie sobre espuma y con los ojos cerrados, ¿de qué sistema depende más el equilibrio?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: el sistema vestibular."
+    },
+    "Con los ojos cerrados, la visión queda fuera de juego, y sobre la espuma, la somatosensación también queda en gran parte fuera."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "¿Qué es el nistagmo? Fase *lenta* y fase rápida",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección conoceremos el hallazgo más importante de la evaluación vestibular: el nistagmo.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

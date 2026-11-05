@@ -1,0 +1,1256 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D079_Absolute_Difference_Thresholds_ES",
+ "kapak": {
+  "ust": "LECCIÓN 79",
+  "baslik": "Umbrales absolutos y<br>*diferenciales*",
+  "alt": "Una introducción a la psicoacústica",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "Psicoacústica: umbrales absolutos y diferenciales | Lección 79 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cuándo oímos un sonido y cuándo notamos la diferencia entre dos sonidos? En esta lección vemos las bases de la psicoacústica: la función psicométrica y cómo se define el umbral, los métodos psicofísicos, las curvas de campo mínimo audible y de presión mínima audible, la diferencia apenas perceptible, la ley de Weber y lo que estos conceptos significan en la clínica.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Moore, An Introduction to the Psychology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Fechner (1860), Elemente der Psychophysik; Jesteadt, Wier y Green (1977), Intensity discrimination as a function of frequency and sensation level, Journal of the Acoustical Society of America; ISO 389-7, Reference threshold of hearing under free-field and diffuse-field listening conditions.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "psicoacustica",
+   "audicion"
+  ],
+  "etiketler": [
+   "psicoacústica",
+   "umbral absoluto",
+   "umbral diferencial",
+   "diferencia apenas perceptible",
+   "JND",
+   "fracción de Weber",
+   "ley de Weber",
+   "campo mínimo audible",
+   "MAF",
+   "función psicométrica",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 79",
+   "baslik": "Umbrales absolutos y *diferenciales*",
+   "alt": "Una introducción a la psicoacústica",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección entramos en la psicoacústica y conoceremos dos conceptos básicos: el umbral absoluto y el umbral diferencial.",
+    "Veremos cómo se define el umbral, cómo se mide, cómo cambia con la frecuencia y qué dice la ley de Weber."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la psicoacústica?",
+   "baslik": "De la física a la *percepción*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Estímulo físico",
+     "metin": "Frecuencia, intensidad, duración",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Percepción",
+     "metin": "Tono, sonoridad",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Psicofísica",
+     "metin": "El vínculo entre ambos",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Audiometría",
+     "metin": "Una medición psicofísica",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La psicoacústica es la ciencia que estudia la relación entre las propiedades físicas del sonido y la percepción que generan.",
+    "La frecuencia, la intensidad y la duración son magnitudes físicas; se miden con un instrumento.",
+    "El tono, la sonoridad y la duración percibida son la experiencia del oyente; solo pueden medirse preguntándole al oyente.",
+    {
+     "yazi": "Los métodos que miden el vínculo entre estímulo y sensación se llaman psicofísica; Gustav Fechner sentó sus bases en 1860."
+    },
+    "Muchas pruebas de audiología, por ejemplo la audiometría tonal, son en realidad mediciones psicofísicas.",
+    "En esta lección abordamos dos preguntas básicas: ¿cuándo oímos un sonido y cuándo notamos una diferencia entre dos sonidos?"
+   ]
+  },
+  {
+   "id": "mutlak",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la psicoacústica?",
+   "baslik": "El umbral es una *probabilidad*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 20,
+     "adim": 5,
+     "ad": "Nivel del estímulo (dB, relativo)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Proporción de detecciones (%)"
+    },
+    "seriler": [
+     {
+      "ad": "psikometrik",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.25,
+        0.1
+       ],
+       [
+        0.5,
+        0.1
+       ],
+       [
+        0.75,
+        0.1
+       ],
+       [
+        1.0,
+        0.1
+       ],
+       [
+        1.25,
+        0.1
+       ],
+       [
+        1.5,
+        0.1
+       ],
+       [
+        1.75,
+        0.2
+       ],
+       [
+        2.0,
+        0.2
+       ],
+       [
+        2.25,
+        0.3
+       ],
+       [
+        2.5,
+        0.3
+       ],
+       [
+        2.75,
+        0.4
+       ],
+       [
+        3.0,
+        0.5
+       ],
+       [
+        3.25,
+        0.6
+       ],
+       [
+        3.5,
+        0.7
+       ],
+       [
+        3.75,
+        0.8
+       ],
+       [
+        4.0,
+        1.0
+       ],
+       [
+        4.25,
+        1.2
+       ],
+       [
+        4.5,
+        1.4
+       ],
+       [
+        4.75,
+        1.7
+       ],
+       [
+        5.0,
+        2.1
+       ],
+       [
+        5.25,
+        2.5
+       ],
+       [
+        5.5,
+        3.0
+       ],
+       [
+        5.75,
+        3.7
+       ],
+       [
+        6.0,
+        4.4
+       ],
+       [
+        6.25,
+        5.3
+       ],
+       [
+        6.5,
+        6.3
+       ],
+       [
+        6.75,
+        7.6
+       ],
+       [
+        7.0,
+        9.0
+       ],
+       [
+        7.25,
+        10.8
+       ],
+       [
+        7.5,
+        12.8
+       ],
+       [
+        7.75,
+        15.0
+       ],
+       [
+        8.0,
+        17.7
+       ],
+       [
+        8.25,
+        20.6
+       ],
+       [
+        8.5,
+        24.0
+       ],
+       [
+        8.75,
+        27.7
+       ],
+       [
+        9.0,
+        31.7
+       ],
+       [
+        9.25,
+        36.0
+       ],
+       [
+        9.5,
+        40.5
+       ],
+       [
+        9.75,
+        45.2
+       ],
+       [
+        10.0,
+        50.0
+       ],
+       [
+        10.25,
+        54.8
+       ],
+       [
+        10.5,
+        59.5
+       ],
+       [
+        10.75,
+        64.0
+       ],
+       [
+        11.0,
+        68.3
+       ],
+       [
+        11.25,
+        72.3
+       ],
+       [
+        11.5,
+        76.0
+       ],
+       [
+        11.75,
+        79.4
+       ],
+       [
+        12.0,
+        82.3
+       ],
+       [
+        12.25,
+        85.0
+       ],
+       [
+        12.5,
+        87.2
+       ],
+       [
+        12.75,
+        89.2
+       ],
+       [
+        13.0,
+        91.0
+       ],
+       [
+        13.25,
+        92.4
+       ],
+       [
+        13.5,
+        93.7
+       ],
+       [
+        13.75,
+        94.7
+       ],
+       [
+        14.0,
+        95.6
+       ],
+       [
+        14.25,
+        96.3
+       ],
+       [
+        14.5,
+        97.0
+       ],
+       [
+        14.75,
+        97.5
+       ],
+       [
+        15.0,
+        97.9
+       ],
+       [
+        15.25,
+        98.3
+       ],
+       [
+        15.5,
+        98.6
+       ],
+       [
+        15.75,
+        98.8
+       ],
+       [
+        16.0,
+        99.0
+       ],
+       [
+        16.25,
+        99.2
+       ],
+       [
+        16.5,
+        99.3
+       ],
+       [
+        16.75,
+        99.4
+       ],
+       [
+        17.0,
+        99.5
+       ],
+       [
+        17.25,
+        99.6
+       ],
+       [
+        17.5,
+        99.7
+       ],
+       [
+        17.75,
+        99.7
+       ],
+       [
+        18.0,
+        99.8
+       ],
+       [
+        18.25,
+        99.8
+       ],
+       [
+        18.5,
+        99.9
+       ],
+       [
+        18.75,
+        99.9
+       ],
+       [
+        19.0,
+        99.9
+       ],
+       [
+        19.25,
+        99.9
+       ],
+       [
+        19.5,
+        99.9
+       ],
+       [
+        19.75,
+        99.9
+       ],
+       [
+        20.0,
+        100.0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "esik",
+      "x": 10,
+      "y": 50,
+      "dus": "xy",
+      "dolu": true,
+      "etiket": "umbral: 50 %",
+      "dx": 80,
+      "dy": 6,
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "belirsiz",
+      "x": [
+       7,
+       13
+      ],
+      "renk": "sari",
+      "etiket": "a veces se oye",
+      "cumle": 1,
+      "opak": 0.15
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "belirsiz",
+     "cumle": 1
+    },
+    {
+     "parca": "esik",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El umbral absoluto es el nivel más bajo al que puede detectarse un sonido en un ambiente silencioso.",
+    "El umbral no es un límite nítido; cerca del umbral, un sonido a veces se oye y a veces no.",
+    "La curva que muestra la proporción de detecciones correctas en función del nivel se llama función psicométrica.",
+    "La curva está cerca de cero en los niveles muy bajos y cerca del cien por ciento en los altos; entre ambos, sube en forma de S.",
+    "El umbral suele definirse como el punto del cincuenta por ciento de esta curva.",
+    "En la audiometría clínica, el umbral también se toma como el nivel más bajo al que el sonido se oye en al menos la mitad de las presentaciones.",
+    "La atención del oyente, las instrucciones y la tendencia de respuesta también influyen en el umbral, así que el método importa."
+   ]
+  },
+  {
+   "id": "yontemler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la psicoacústica?",
+   "baslik": "¿*Cómo* se mide el umbral?",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Método de los límites",
+     "metin": "Subir y bajar por pasos",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Método de ajuste",
+     "metin": "El oyente ajusta",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Estímulos constantes",
+     "metin": "Orden aleatorio, muchos ensayos",
+     "cumle": 4
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Adaptativo",
+     "metin": "El nivel sigue las respuestas",
+     "cumle": 5
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Elección forzada",
+     "metin": "¿Qué intervalo?",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Para medir el umbral se usan tres métodos psicofísicos clásicos.",
+    "En el método de los límites, el sonido se sube o se baja paso a paso y se registra el nivel en que cambia la respuesta.",
+    "El método de Hughson-Westlake que se usa en la clínica es una forma modificada del método de los límites.",
+    "En el método de ajuste, el oyente regula el sonido hasta un nivel apenas audible; la audiometría de Békésy se basa en esta idea.",
+    "En el método de los estímulos constantes, unos pocos niveles se presentan muchas veces en orden aleatorio; es el más preciso, pero el más lento.",
+    "Hoy la investigación usa sobre todo métodos adaptativos, en los que el nivel sube o baja automáticamente después de cada respuesta.",
+    "En la técnica de elección forzada, el oyente elige el intervalo que contenía el sonido, lo que reduce el efecto del sesgo de respuesta."
+   ]
+  },
+  {
+   "id": "maf_map",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "La curva de umbral",
+   "baslik": "¿Auriculares o *campo libre*?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 50,
+     "adim": 10,
+     "ad": "Umbral (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "maf",
+      "noktalar": [
+       [
+        125,
+        22
+       ],
+       [
+        250,
+        11
+       ],
+       [
+        500,
+        4
+       ],
+       [
+        1000,
+        2
+       ],
+       [
+        2000,
+        -1
+       ],
+       [
+        3000,
+        -6
+       ],
+       [
+        4000,
+        -5
+       ],
+       [
+        6000,
+        4
+       ],
+       [
+        8000,
+        13
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "isaretli": true,
+      "cumle": 1,
+      "etiket": "MAF: campo libre",
+      "etiket_konum": [
+       250,
+       11
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": 26
+     },
+     {
+      "ad": "map",
+      "noktalar": [
+       [
+        125,
+        45
+       ],
+       [
+        250,
+        25.5
+       ],
+       [
+        500,
+        11.5
+       ],
+       [
+        1000,
+        7
+       ],
+       [
+        2000,
+        9
+       ],
+       [
+        3000,
+        10
+       ],
+       [
+        4000,
+        9.5
+       ],
+       [
+        6000,
+        15.5
+       ],
+       [
+        8000,
+        13
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "isaretli": true,
+      "cumle": 3,
+      "etiket": "MAP: auriculares",
+      "etiket_konum": [
+       250,
+       25.5
+      ],
+      "etiket_dx": 12,
+      "etiket_dy": -12
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "duyarli",
+      "x": [
+       2000,
+       5000
+      ],
+      "renk": "sari",
+      "etiket": "región más sensible",
+      "cumle": 4,
+      "opak": 0.18
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "maf",
+     "cumle": 1
+    },
+    {
+     "parca": "map",
+     "cumle": 3
+    },
+    {
+     "parca": "duyarli",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El umbral absoluto cambia con la frecuencia y se mide de dos maneras distintas; los valores del gráfico son aproximados.",
+    "El campo mínimo audible (MAF) es el umbral medido con ambos oídos escuchando un sonido que llega de frente.",
+    "El nivel sonoro se mide sin el oyente, en el punto que corresponde al centro de la cabeza.",
+    "La presión mínima audible (MAP) se mide en un oído con auriculares y se expresa como la presión en un acoplador o en el conducto auditivo.",
+    "Las dos curvas tienen una forma parecida, pero la curva MAF suele quedar más abajo, y la diferencia varía con la frecuencia.",
+    "Parte de la diferencia se debe a escuchar con dos oídos, y parte a que la cabeza y el oído externo amplifican el sonido en campo libre.",
+    "La línea de cero decibeles HL del audiómetro se basa en umbrales promedio de este tipo, específicos de cada auricular."
+   ]
+  },
+  {
+   "id": "egri_ders",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "La curva de umbral",
+   "baslik": "*Lecciones* de la curva de umbral",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Máxima sensibilidad",
+     "metin": "Entre unos 2 y 5 kHz",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frecuencias graves",
+     "metin": "El umbral sube rápido",
+     "cumle": 2
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Rango de audición",
+     "metin": "De 20 Hz a 20 kHz",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Límite superior",
+     "metin": "Un rango de unos 120 dB",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La curva de umbral nos deja varias lecciones importantes.",
+    "El oído es más sensible entre unos dos y cinco kilohertz; la resonancia del conducto auditivo externo contribuye a ello.",
+    "En las frecuencias graves el umbral sube rápido; por debajo de cien hertz se necesita un nivel mucho mayor para que un sonido se oiga.",
+    "El límite inferior de la audición es de unos veinte hertz, y el superior, de unos veinte kilohertz en los jóvenes; baja con la edad.",
+    "Por encima del umbral, la percepción abarca un rango de unos ciento veinte decibeles hasta el umbral del dolor.",
+    "Esta curva de umbral es la más baja de las curvas de igual sonoridad que veremos en la próxima lección."
+   ]
+  },
+  {
+   "id": "jnd",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "El umbral diferencial",
+   "baslik": "La diferencia *apenas perceptible*",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Sonido estándar",
+     "metin": "Estímulo de referencia",
+     "cumle": 3
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Comparación",
+     "metin": "Un sonido algo distinto",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Decisión",
+     "metin": "¿Distinto o no?",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Umbral diferencial",
+     "metin": "Diferencia con la precisión fijada",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La segunda pregunta básica es esta: ¿cuándo notamos una diferencia entre dos sonidos?",
+    "La menor diferencia detectable entre dos estímulos se llama diferencia apenas perceptible (JND).",
+    "También se llama umbral diferencial y se mide por separado para cada dimensión: intensidad, frecuencia y duración.",
+    "En la medición, el oyente escucha un sonido estándar y un sonido de comparación que difiere ligeramente de él.",
+    "La diferencia que el oyente detecta con una precisión fijada, por ejemplo el setenta y cinco por ciento en una tarea de dos opciones, se toma como umbral.",
+    "Cuanto menor es el umbral diferencial, mejor es la capacidad de discriminación."
+   ]
+  },
+  {
+   "id": "tipik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "El umbral diferencial",
+   "baslik": "*Umbrales diferenciales* típicos",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Intensidad",
+     "metin": "De unos 0,5 a 1 dB",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frecuencia",
+     "metin": "Pocos Hz a 1 kHz",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Duración",
+     "metin": "Aumenta con la duración",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Práctica",
+     "metin": "Reduce los umbrales",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En adultos jóvenes con audición normal se conocen algunos umbrales diferenciales típicos.",
+    "Para la intensidad, el umbral diferencial en niveles moderados es de aproximadamente medio decibel a un decibel.",
+    "Para la frecuencia es muy pequeño en las frecuencias medias: solo unos pocos hertz en un kilohertz, es decir, unas dos a tres milésimas.",
+    "Para la duración, el umbral diferencial depende de la duración del sonido; cuanto más largo es el sonido, mayor es el umbral.",
+    "Estos valores también varían con la experiencia del oyente; con práctica, los umbrales diferenciales pueden reducirse claramente.",
+    "En las próximas lecciones veremos en detalle la discriminación de frecuencias, junto con la percepción del tono."
+   ]
+  },
+  {
+   "id": "weber",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "El umbral diferencial",
+   "baslik": "La ley de *Weber*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Estímulo estándar (relativo)"
+    },
+    "y": {
+     "min": 0,
+     "max": 3,
+     "adim": 1,
+     "ad": "Umbral diferencial (relativo)"
+    },
+    "seriler": [
+     {
+      "ad": "dogru",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        10,
+        2.5
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "cumle": 1,
+      "etiket": "razón constante: 0,25",
+      "etiket_konum": [
+       8,
+       2
+      ],
+      "etiket_dx": -20,
+      "etiket_dy": -20,
+      "etiket_hiza": "end"
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kucuk",
+      "x": 2,
+      "y": 0.5,
+      "dus": "xy",
+      "dolu": true,
+      "cumle": 3
+     },
+     {
+      "ad": "buyuk",
+      "x": 8,
+      "y": 2,
+      "dus": "xy",
+      "dolu": true,
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "dogru",
+     "cumle": 2
+    },
+    {
+     "parca": "buyuk",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En 1834, Ernst Heinrich Weber mostró que el umbral diferencial es proporcional al tamaño del estímulo estándar."
+    },
+    "Este principio se llama ley de Weber: la razón entre el umbral diferencial y el estímulo estándar es constante.",
+    "Esta razón constante se llama fracción de Weber.",
+    "Por ejemplo, si se nota que se agregan cincuenta gramos a una pesa de un kilogramo, para una de dos kilogramos se necesitan unos cien gramos.",
+    "Si la fracción de Weber para la intensidad sonora es de unos cero coma veinticinco, se nota un aumento del veinticinco por ciento en la intensidad.",
+    "Este aumento equivale a aproximadamente un decibel, porque diez veces el logaritmo de uno coma veinticinco es aproximadamente uno.",
+    "Por eso solemos expresar el umbral diferencial de intensidad directamente en decibeles."
+   ]
+  },
+  {
+   "id": "yakin_iska",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "El umbral diferencial",
+   "baslik": "La *desviación casi nula* de la ley de Weber",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 90,
+     "adim": 10,
+     "ad": "Nivel de sensación (dB SL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 2,
+     "isaretler": [
+      0,
+      0.5,
+      1,
+      1.5,
+      2
+     ],
+     "ond": 1,
+     "ad": "Umbral diferencial de intensidad (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "gurultu",
+      "noktalar": [
+       [
+        20,
+        0.75
+       ],
+       [
+        30,
+        0.65
+       ],
+       [
+        40,
+        0.6
+       ],
+       [
+        50,
+        0.6
+       ],
+       [
+        60,
+        0.6
+       ],
+       [
+        70,
+        0.6
+       ],
+       [
+        80,
+        0.6
+       ],
+       [
+        90,
+        0.6
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "kalin": 4,
+      "cumle": 1,
+      "etiket": "ruido de banda ancha",
+      "etiket_konum": [
+       90,
+       0.6
+      ],
+      "etiket_dx": -6,
+      "etiket_dy": 26,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "ton",
+      "noktalar": [
+       [
+        10,
+        1.6
+       ],
+       [
+        20,
+        1.25
+       ],
+       [
+        30,
+        1.05
+       ],
+       [
+        40,
+        0.9
+       ],
+       [
+        50,
+        0.8
+       ],
+       [
+        60,
+        0.7
+       ],
+       [
+        70,
+        0.6
+       ],
+       [
+        80,
+        0.5
+       ],
+       [
+        90,
+        0.45
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 2,
+      "etiket": "tono puro",
+      "etiket_konum": [
+       10,
+       1.6
+      ],
+      "etiket_dx": 12,
+      "etiket_dy": -8
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "gurultu",
+     "cumle": 1
+    },
+    {
+     "parca": "ton",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La ley de Weber no siempre se cumple exactamente para el sonido.",
+    "Para el ruido de banda ancha, el umbral diferencial de intensidad es casi constante en niveles moderados y altos, así que la ley de Weber funciona bien.",
+    "Para los tonos puros, se reduce algo a medida que sube el nivel: es mayor cerca del umbral y menor en niveles altos.",
+    "Esta pequeña desviación se conoce como desviación casi nula de la ley de Weber, en inglés near miss.",
+    "Las curvas del gráfico son representativas; los valores varían según el método y el oyente.",
+    "En la práctica, un oído normal puede detectar una diferencia de intensidad de aproximadamente un decibel en niveles moderados."
+   ]
+  },
+  {
+   "id": "sisi",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "En la clínica",
+   "baslik": "El umbral diferencial en la clínica: *SISI*",
+   "maddeler": [
+    {
+     "metin": "Incrementos de _1 dB_ en un tono continuo",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_20 dB_ por encima del umbral",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Puntajes _altos_ en la pérdida coclear",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Hoy no se usa _de forma aislada_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "giris_cikis",
+    "cumle": 4,
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "saglikli",
+       "cumle": 4
+      },
+      {
+       "tip": "hasarli",
+       "cumle": 4
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "El concepto de umbral diferencial también aparece en la clínica.",
+    "El índice de sensibilidad a incrementos cortos (SISI) se basa en detectar breves incrementos de un decibel añadidos a un tono continuo.",
+    "La prueba suele hacerse veinte decibeles por encima del umbral; en un oído normal, estos pequeños incrementos en general no se notan.",
+    "En los oídos con pérdida coclear, los incrementos se notan más a menudo al mismo nivel de sensación, y pueden obtenerse puntajes altos.",
+    "Este hallazgo se relaciona con el crecimiento rápido de la sonoridad por encima del umbral, conocido como reclutamiento.",
+    "Hoy el SISI no se usa de forma aislada para el diagnóstico topográfico, pero es una de las primeras aplicaciones clínicas de los principios psicofísicos."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "En la clínica",
+   "baslik": "Leer el audiograma desde la *psicofísica*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Diferencia test-retest",
+     "metin": "Suele ser de unos 5 dB",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Pasos de 5 dB",
+     "metin": "Rapidez y precisión",
+     "cumle": 2
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Pasos de 2 dB",
+     "metin": "Cuando se necesita más precisión",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Tendencia de respuesta",
+     "metin": "Cauteloso o apresurado",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Condiciones básicas",
+     "metin": "Instrucciones, silencio, presentación",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Conocer la psicofísica también nos ayuda a interpretar correctamente el audiograma.",
+    "Como el umbral no es una línea nítida, es habitual una diferencia de unos cinco decibeles entre mediciones repetidas en la misma persona.",
+    "La audiometría usa pasos de cinco decibeles; es un equilibrio entre rapidez y precisión.",
+    "En las pruebas que requieren una medición más fina, como la prueba de zonas muertas, se prefieren pasos de dos decibeles.",
+    "La tendencia de respuesta del paciente puede desplazar el umbral; un paciente cauteloso puede responder tarde, y uno apresurado, antes de tiempo.",
+    "Por eso, unas instrucciones claras, una sala silenciosa y un patrón de presentación adecuado son la base de un umbral confiable."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si un paciente responde sin que haya tono, agreguen ensayos en silencio y no presenten los tonos con un ritmo regular. Repitan los umbrales dudosos.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo clínico: recuerden que el umbral es un punto de una curva de probabilidad.",
+    "Si el paciente responde incluso cuando no hay sonido, controlen la tendencia de respuesta intercalando ensayos en silencio.",
+    "No presenten los tonos con un ritmo regular; así el paciente no puede adivinar guiándose por el ritmo.",
+    "En los umbrales dudosos, repetir la medición es más confiable que basarse en una sola respuesta."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Umbral: punto del _50 %_ de la curva",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "MAF en campo libre, MAP con _auriculares_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "JND: la _menor_ diferencia detectable",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Weber: el umbral crece _proporcionalmente_",
+     "cumle": 3,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "El umbral absoluto no es un límite nítido; suele ser el punto del cincuenta por ciento de la función psicométrica.",
+    "El MAF se mide en campo libre con ambos oídos y el MAP con auriculares; el oído es más sensible entre dos y cinco kilohertz.",
+    "La diferencia apenas perceptible es la menor diferencia detectable entre dos estímulos y se mide para cada dimensión.",
+    "Según la ley de Weber, el umbral diferencial es proporcional al estímulo estándar; para la intensidad, es de aproximadamente un decibel."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Si la fracción de Weber es 0,25, ¿cuál es el umbral en dB?",
+   "secenekler": [
+    "0,25 dB",
+    "Aproximadamente 1 dB",
+    "2,5 dB",
+    "25 dB"
+   ],
+   "dogru": 1,
+   "aciklama": "10 x log(1,25) es _aproximadamente 1 dB_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si la fracción de Weber para la intensidad es cero coma veinticinco, ¿cuál es el umbral diferencial en decibeles?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: aproximadamente un decibel.",
+    "Un aumento del veinticinco por ciento en la intensidad equivale a diez veces el logaritmo de uno coma veinticinco, es decir, aproximadamente un decibel."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Percepción de la sonoridad: *fones* y sonios",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos por encima del umbral y conoceremos la percepción de la sonoridad y las unidades fon y sonio.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

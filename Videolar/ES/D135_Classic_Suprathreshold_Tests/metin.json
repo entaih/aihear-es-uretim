@@ -1,0 +1,777 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D135_Classic_Suprathreshold_Tests_ES",
+ "kapak": {
+  "ust": "LECCIÓN 135",
+  "baslik": "Pruebas<br>*supraumbrales* clásicas",
+  "alt": "ABLB, SISI, tone decay",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0.6,
+    "max": 2.4,
+    "adim": 1,
+    "yazilar": {
+     "1": "Better ear",
+     "2": "Poorer ear",
+     "1": "Oído mejor",
+     "2": "Oído peor"
+    },
+    "ad": ""
+   },
+   "y": {
+    "min": -10,
+    "max": 100,
+    "adim": 20,
+    "ad": "dB HL",
+    "ters": true
+   },
+   "seriler": [
+    {
+     "ad": "denge_0",
+     "noktalar": [
+      [
+       1,
+       0
+      ],
+      [
+       2,
+       50
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 2
+    },
+    {
+     "ad": "denge_20",
+     "noktalar": [
+      [
+       1,
+       20
+      ],
+      [
+       2,
+       60
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 3
+    },
+    {
+     "ad": "denge_40",
+     "noktalar": [
+      [
+       1,
+       40
+      ],
+      [
+       2,
+       70
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 4
+    },
+    {
+     "ad": "denge_60",
+     "noktalar": [
+      [
+       1,
+       60
+      ],
+      [
+       2,
+       75
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 4
+    },
+    {
+     "ad": "denge_80",
+     "noktalar": [
+      [
+       1,
+       80
+      ],
+      [
+       2,
+       80
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 4
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "esikler",
+     "x": 1.5,
+     "y": 25,
+     "etiket": "umbrales: 0 y 50",
+     "cumle": 2
+    },
+    {
+     "ad": "esitlenme",
+     "x": 1.5,
+     "y": 88,
+     "etiket": "iguales a 80 dB",
+     "cumle": 4
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Pruebas supraumbrales: ABLB, SISI y tone decay | Lección 135 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo se realizaban las pruebas clásicas de sitio de lesión y cómo se interpretan? En esta lección vemos cómo se demuestra el reclutamiento con el ABLB y el diagrama en escalera, los incrementos de un decibel de la prueba SISI, la prueba de deterioro tonal de Carhart y sus variantes, y el lugar que ocupan hoy estas pruebas.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Jerger, Shedd y Harford, On the detection of extremely small changes in sound intensity (Archives of Otolaryngology, 1959); Carhart, Clinical determination of abnormal auditory adaptation (1957).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "reclutamiento",
+   "audiologiadiagnostica"
+  ],
+  "etiketler": [
+   "ABLB",
+   "balance alternado binaural de sonoridad",
+   "SISI",
+   "índice de sensibilidad a incrementos cortos",
+   "prueba de deterioro tonal",
+   "reclutamiento",
+   "diagrama en escalera",
+   "Carhart",
+   "pruebas supraumbrales",
+   "topodiagnóstico auditivo",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 135",
+   "baslik": "Pruebas *supraumbrales* clásicas",
+   "alt": "ABLB, SISI y tone decay",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos las pruebas supraumbrales clásicas, desarrolladas para identificar el sitio de lesión.",
+    "Veremos cómo el balance de sonoridad muestra el reclutamiento, el índice de sensibilidad a incrementos cortos, la prueba de deterioro tonal y su lugar actual."
+   ]
+  },
+  {
+   "id": "mantik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "La lógica",
+   "baslik": "¿*Qué* buscamos por encima del umbral?",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Reclutamiento",
+     "metin": "La sonoridad crece rápido",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Incrementos pequeños",
+     "metin": "Se perciben incrementos de 1 dB",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Adaptación",
+     "metin": "Un tono continuo se desvanece",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El audiograma muestra el umbral; la forma en que se perciben los sonidos por encima del umbral puede diferir entre problemas cocleares y retrococleares.",
+    "En la pérdida coclear, el daño de las células ciliadas externas hace que la sonoridad crezca anormalmente rápido sobre el umbral; esto es el reclutamiento.",
+    "Como vimos en la lección sobre reclutamiento, esto permite que la sonoridad alcance a la normal en los niveles altos.",
+    "Un oído con reclutamiento también percibe con más facilidad aumentos muy pequeños de intensidad.",
+    "En los problemas retrococleares, el nervio auditivo puede no sostener su respuesta a un estímulo continuo; el tono se desvanece con el tiempo.",
+    {
+     "yazi": "Las pruebas supraumbrales clásicas miden estos tres rasgos; fueron la base del topodiagnóstico desde la década de 1950 hasta la de 1970."
+    }
+   ]
+  },
+  {
+   "id": "ablb_yontem",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "ABLB",
+   "baslik": "¿*Cómo* se hace el ABLB?",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Paciente adecuado",
+     "metin": "Pérdida en un oído",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Tono alternado",
+     "metin": "A cada oído por turnos",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Fijo y ajustable",
+     "metin": "Uno fijo, otro ajustado",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Pasos",
+     "metin": "En pasos de 20 dB",
+     "cumle": 6
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Gráfico",
+     "metin": "Líneas de igual sonoridad",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La prueba de balance alternado binaural de sonoridad (ABLB) se basa en el método de Fowler, de la década de 1930."
+    },
+    "La prueba requiere que un oído sea normal o casi normal en la frecuencia evaluada.",
+    "El otro oído tiene una pérdida auditiva, con una diferencia clara entre los umbrales de ambos oídos.",
+    "Se presenta a los dos oídos un tono de la misma frecuencia, alternando a intervalos cortos.",
+    "El nivel en un oído se mantiene fijo; el del otro oído se modifica hasta que la persona oye los dos tonos igual de fuertes.",
+    "A la persona se le hace una sola pregunta: ¿qué lado suena más fuerte, o suenan iguales?",
+    "Este balance se repite en pasos de veinte decibeles, comenzando unos veinte decibeles por encima del umbral del oído mejor.",
+    "En cada paso, los niveles que dan igual sonoridad en ambos oídos se unen en un gráfico.",
+    "Como este gráfico parece una escalera, se lo conoce como diagrama en escalera."
+   ]
+  },
+  {
+   "id": "merdiven",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "ABLB",
+   "baslik": "Ejemplo: reclutamiento *completo*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.6,
+     "max": 2.4,
+     "adim": 1,
+     "yazilar": {
+      "1": "Better ear",
+      "2": "Poorer ear",
+      "1": "Oído mejor",
+      "2": "Oído peor"
+     },
+     "ad": ""
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 20,
+     "ad": "dB HL",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "denge_0",
+      "noktalar": [
+       [
+        1,
+        0
+       ],
+       [
+        2,
+        50
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 2
+     },
+     {
+      "ad": "denge_20",
+      "noktalar": [
+       [
+        1,
+        20
+       ],
+       [
+        2,
+        60
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 3
+     },
+     {
+      "ad": "denge_40",
+      "noktalar": [
+       [
+        1,
+        40
+       ],
+       [
+        2,
+        70
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 4
+     },
+     {
+      "ad": "denge_60",
+      "noktalar": [
+       [
+        1,
+        60
+       ],
+       [
+        2,
+        75
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 4
+     },
+     {
+      "ad": "denge_80",
+      "noktalar": [
+       [
+        1,
+        80
+       ],
+       [
+        2,
+        80
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "esikler",
+      "x": 1.5,
+      "y": 25,
+      "etiket": "umbrales: 0 y 50",
+      "cumle": 2
+     },
+     {
+      "ad": "esitlenme",
+      "x": 1.5,
+      "y": 88,
+      "etiket": "iguales a 80 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Diferencia de umbrales: 50 dB",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "La diferencia se reduce paso a paso",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Iguales a 80 dB: reclutamiento completo",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Leamos ahora un resultado de ABLB totalmente hipotético.",
+    "La columna izquierda muestra los niveles del oído mejor y la derecha, los del oído peor; los decibeles HL aumentan hacia abajo.",
+    "Los umbrales son de cero decibeles HL en el oído mejor y de cincuenta en el peor; la línea superior une ambos umbrales.",
+    "Veinte decibeles en el oído mejor suenan igual que sesenta en el peor; la diferencia baja de cincuenta a cuarenta decibeles.",
+    "A medida que avanzan los pasos, la diferencia se reduce, y a ochenta decibeles ambos oídos oyen el tono igual de fuerte al mismo nivel.",
+    "Las líneas que convergen más abajo muestran que la sonoridad del oído peor alcanzó a la normal, es decir, un reclutamiento completo.",
+    "Este patrón se considera clásicamente compatible con una lesión coclear."
+   ]
+  },
+  {
+   "id": "ablb_sonuc",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "ABLB",
+   "baslik": "*Cuatro* resultados del ABLB",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Reclutamiento completo",
+     "metin": "Iguales en niveles altos",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Parcial",
+     "metin": "La diferencia se reduce, sin cerrarse",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Sin reclutamiento",
+     "metin": "La diferencia se mantiene",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Decruitment",
+     "metin": "La diferencia aumenta",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En el reclutamiento completo, la sonoridad se iguala en ambos oídos en los niveles altos.",
+    "En el reclutamiento parcial, la diferencia se reduce, pero no se cierra del todo.",
+    "Sin reclutamiento, las líneas se mantienen paralelas; la diferencia de umbrales se conserva en todos los niveles.",
+    "Este cuadro es el esperado en la hipoacusia conductiva, porque el problema está solo en hacer llegar el sonido a la cóclea.",
+    "En el decruitment, la diferencia aumenta al subir el nivel; la sonoridad crece más lento de lo normal en el oído peor.",
+    "En la pérdida neurosensorial, la ausencia de reclutamiento o el decruitment sugieren clásicamente un proceso retrococlear.",
+    "La principal limitación del ABLB es que un oído debe ser normal; no puede usarse en pérdidas bilaterales."
+   ]
+  },
+  {
+   "id": "sisi_yontem",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "SISI",
+   "baslik": "¿*Cómo* se hace el SISI?",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tono portador",
+     "metin": "20 dB SL",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Incrementos breves",
+     "metin": "Cada 5 segundos",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Práctica",
+     "metin": "Primero incrementos de 5 dB",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "20 incrementos",
+     "metin": "De 1 dB, contados",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Puntaje",
+     "metin": "Aciertos x 5",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El índice de sensibilidad a incrementos cortos (SISI) fue descrito en 1959 por Jerger y sus colaboradores."
+    },
+    "En la frecuencia evaluada, por lo general uno y cuatro kilohertz, se presenta un tono continuo veinte decibeles por encima del umbral.",
+    "Aproximadamente cada cinco segundos se añaden a este tono incrementos breves de intensidad de unos doscientos milisegundos.",
+    "La persona aprende primero la tarea con incrementos claros de cinco decibeles; luego los incrementos se reducen a un decibel.",
+    "Se presentan veinte incrementos de un decibel, y la persona indica cada uno que oye con un botón o de forma verbal.",
+    "El número de incrementos oídos se multiplica por cinco y se expresa en porcentaje; por ejemplo, dieciséis incrementos dan un ochenta por ciento.",
+    "Los incrementos de control de cinco decibeles intercalados verifican la atención de la persona y su comprensión de la tarea.",
+    "Como el SISI se realiza en un solo oído, a diferencia del ABLB, también puede usarse en pérdidas bilaterales."
+   ]
+  },
+  {
+   "id": "sisi_yorum",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "SISI",
+   "baslik": "Interpretación del *puntaje* SISI",
+   "sutunlar": [
+    "Puntaje",
+    "Interpretación clásica"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "70 a 100 %",
+      "Alto: coclear"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "0 a 20 %",
+      "Bajo"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Intermedio",
+      "No concluyente"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "SISI a nivel alto",
+      "Puntaje bajo: ¿retrococlear?"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Una persona con audición normal no oye la mayoría de los incrementos de un decibel a veinte decibeles de nivel de sensación.",
+    "Un oído con pérdida coclear oye la mayoría; un puntaje del setenta por ciento o más se asocia clásicamente con una lesión coclear.",
+    "Los puntajes bajos pueden verse en oídos normales, en la hipoacusia conductiva y en las lesiones retrococleares.",
+    "Por eso, un puntaje bajo por sí solo no demuestra un problema retrococlear; no lo distingue de los oídos normales o con pérdida conductiva.",
+    "Los valores intermedios se consideran no concluyentes; los puntos de corte varían unos pocos puntos según la fuente.",
+    "En una variante, la prueba se hace a un nivel alto, unos setenta y cinco decibeles HL, donde los oídos normales y cocleares oyen los incrementos con facilidad.",
+    "Un puntaje bajo a un nivel alto se ha interpretado como una pista que orienta hacia un sitio retrococlear."
+   ]
+  },
+  {
+   "id": "carhart",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Tone decay",
+   "baslik": "La prueba de deterioro tonal de *Carhart*",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tono en el umbral",
+     "metin": "Presentado de forma continua",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Mientras lo oiga",
+     "metin": "La mano sigue levantada",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "¿Se desvaneció?",
+     "metin": "Subir 5 dB, reiniciar el tiempo",
+     "cumle": 4
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "60 segundos",
+     "metin": "Termina al oírlo completo",
+     "cumle": 5
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Cantidad de deterioro",
+     "metin": "Nivel final menos umbral",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "La prueba de deterioro tonal mide si un tono continuo deja de oírse con el tiempo.",
+    {
+     "yazi": "La forma clásica de la prueba fue descrita por Carhart en 1957."
+    },
+    "En la frecuencia evaluada, se presenta un tono continuo en el umbral o apenas por encima.",
+    "Se le pide a la persona que levante la mano o mantenga presionado un botón mientras oiga el tono, y que lo suelte cuando el tono se desvanezca.",
+    "Si el tono se desvanece antes de los sesenta segundos, el nivel se sube cinco decibeles sin interrumpir el tono, y se reinicia el tiempo.",
+    "Esto continúa hasta que la persona oye el tono durante sesenta segundos completos a un mismo nivel.",
+    "La diferencia entre el nivel final y el umbral inicial se registra como la cantidad de deterioro tonal.",
+    "Puede verse un deterioro de unos pocos decibeles en oídos normales y cocleares.",
+    "Según la fuente, un deterioro mayor de veinticinco a treinta decibeles es una pista que orienta hacia un sitio retrococlear."
+   ]
+  },
+  {
+   "id": "turevler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Tone decay",
+   "baslik": "*Variantes* del tone decay",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Olsen-Noffsinger",
+     "metin": "Comienza a 20 dB SL",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Rosenberg",
+     "metin": "Un minuto en total",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "STAT",
+     "metin": "Nivel muy alto, 60 s",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la modificación de Olsen y Noffsinger, la prueba no comienza en el umbral, sino veinte decibeles por encima.",
+    "Esto acorta la prueba y reduce la incertidumbre en el umbral; los oídos normales suelen oír el tono un minuto completo a este nivel.",
+    "En la prueba modificada de Rosenberg, el tiempo total se limita a un minuto; el aumento total hecho en ese tiempo es la cantidad de deterioro.",
+    "Las pruebas cortas ahorran tiempo, pero pueden pasar por alto una adaptación leve.",
+    "La prueba de adaptación supraumbral (STAT), de Jerger y Jerger, se realiza a un nivel alto, unos ciento diez decibeles SPL.",
+    "En la STAT, el resultado es positivo si el tono no se oye durante sesenta segundos; el nivel muy alto puede requerir enmascarar el otro oído."
+   ]
+  },
+  {
+   "id": "bugun",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Su lugar actual",
+   "baslik": "¿Dónde están estas pruebas *hoy*?",
+   "maddeler": [
+    {
+     "metin": "Los PEATC y la RM tomaron la delantera",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Sensibilidad limitada",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tone decay: un control extra rápido",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Imprescindibles para leer la literatura",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "noron",
+      "baslik": "PEATC",
+      "metin": "Muestran la conducción nerviosa",
+      "cumle": 1
+     },
+     {
+      "ikon": "hastane",
+      "baslik": "RM",
+      "metin": "Imágenes, decisión del médico",
+      "cumle": 1
+     }
+    ],
+    "ust": "HOY"
+   },
+   "cumleler": [
+    "Estas pruebas fueron las principales herramientas para localizar una lesión antes de que se difundieran las imágenes y la electrofisiología.",
+    "Hoy, ante la sospecha retrococlear, los potenciales evocados auditivos de tronco cerebral (PEATC) y la resonancia magnética (RM) son mucho más decisivos.",
+    "Las pruebas supraumbrales clásicas han mostrado una sensibilidad limitada para detectar tumores pequeños, por lo que no se puede confiar solo en ellas.",
+    "Aun así, algunas clínicas usan la prueba de deterioro tonal como un control extra rápido y económico que solo requiere un audiómetro.",
+    "Las pruebas del reflejo acústico y del deterioro del reflejo siguen en la batería como medidas que llevan la lógica de estas pruebas de forma objetiva.",
+    "Hoy el SISI rara vez se usa en la clínica; aparece sobre todo en estudios de discriminación de intensidad.",
+    "Conocer la lógica de estas pruebas también es necesario para leer bien los informes antiguos y la literatura clásica."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Da instrucciones claras para la prueba de deterioro tonal: mantén presionado el botón mientras oigas el tono y suéltalo en cuanto se desvanezca.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la clínica: el resultado de la prueba de deterioro tonal depende en gran medida de que las instrucciones se entiendan bien.",
+    "Expliquen a la persona que importa la presencia del tono, no su intensidad: mantener mientras se oye, soltar en cuanto se desvanece.",
+    "Las personas con tinnitus pueden confundir el tono con su zumbido; en ese caso, presenten antes la frecuencia y el carácter del tono.",
+    "Si la diferencia entre el oído evaluado y el oído mejor es grande, consideren si el otro oído necesita enmascaramiento en niveles altos."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "ABLB: _reclutamiento_ en pérdida unilateral",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "SISI: incrementos de 1 dB, puntaje alto coclear",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tone decay: 60 segundos, _adaptación_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Hoy deciden los PEATC y la RM",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "El ABLB equilibra la sonoridad entre ambos oídos en la pérdida unilateral; igualarse en niveles altos es un reclutamiento completo.",
+    "El SISI cuenta incrementos de un decibel añadidos a un tono veinte decibeles sobre el umbral; un puntaje alto es clásicamente coclear.",
+    "La prueba de deterioro tonal mide el aumento necesario para oír un tono durante sesenta segundos; un deterioro marcado orienta hacia un sitio retrococlear.",
+    "Estas pruebas tienen una sensibilidad limitada; hoy los PEATC y las imágenes son decisivos en la evaluación retrococlear."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "En el ABLB, ¿qué indica una sonoridad igual a 80 dB?",
+   "secenekler": [
+    "Hipoacusia conductiva",
+    "Reclutamiento completo",
+    "Decruitment",
+    "Deterioro tonal"
+   ],
+   "dogru": 1,
+   "aciklama": "La sonoridad del oído peor _alcanzó a la normal_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: dos oídos con umbrales de cero y cincuenta decibeles oyen un tono igual de fuerte a ochenta decibeles. ¿Qué indica esto?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: reclutamiento completo.",
+    "La diferencia de cincuenta decibeles entre los umbrales se cerró a un nivel alto; esto es clásicamente compatible con una lesión coclear."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cómo reconocer la *seudohipoacusia*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección aprenderemos a reconocer la pérdida auditiva no orgánica, conocida como seudohipoacusia.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

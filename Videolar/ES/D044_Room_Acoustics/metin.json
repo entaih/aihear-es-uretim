@@ -1,0 +1,721 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D044_Room_Acoustics_ES",
+ "kapak": {
+  "ust": "LECCIÓN 44",
+  "baslik": "Reverberación y<br>*SNR*",
+  "alt": "Acústica de salas y comprensión del habla",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "Acústica de salas: reverberación y señal-ruido | Lección 44 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo afecta la acústica de una sala a la comprensión del habla? En esta lección vemos el sonido directo y las reflexiones, el tiempo de reverberación (RT60), la relación señal-ruido (SNR), la distancia crítica y los objetivos de acústica para aulas (35 dBA, 0,6 segundos, SNR de al menos +15 dB). También comparamos los enfoques que mejoran la sala y la señal.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: ANSI/ASA S12.60, Acoustical Performance Criteria, Design Requirements, and Guidelines for Schools; ASHA, Guidelines for Addressing Acoustics in Educational Settings (2005); World Health Organization, Guidelines for Community Noise (1999); Crandell CC and Smaldino JJ, Classroom acoustics for children with normal hearing and with hearing impairment (Language, Speech, and Hearing Services in Schools, 2000); ISO 3382, Measurement of room acoustic parameters.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "acustica",
+   "acusticadeaulas"
+  ],
+  "etiketler": [
+   "acústica de salas",
+   "tiempo de reverberación",
+   "RT60",
+   "relación señal-ruido",
+   "SNR",
+   "distancia crítica",
+   "acústica de aulas",
+   "ANSI S12.60",
+   "micrófono remoto",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 44",
+   "baslik": "*Acústica de salas*: reverberación y SNR",
+   "alt": "Tiempo de reverberación, relación señal-ruido, distancia crítica",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo las salas afectan la comprensión del habla, a través de la reverberación y la relación señal-ruido.",
+    "También veremos la distancia crítica y los objetivos acústicos recomendados para las aulas."
+   ]
+  },
+  {
+   "id": "yansimalar",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El sonido en una sala",
+   "baslik": "Sonido directo y *reflexiones*",
+   "cumleler": [
+    "En una sala cerrada, la voz de quien habla llega primero al oyente de forma directa, por el camino más corto.",
+    "El sonido también choca con las paredes, el techo y el piso, y los sonidos reflejados llegan al oyente un poco después.",
+    "Las reflexiones tempranas, que llegan en los primeros cincuenta milisegundos aproximadamente, se funden con el sonido directo y pueden reforzar el habla.",
+    "La nube de reflexiones más tardías, que se extinguen gradualmente, se llama reverberación.",
+    "La reverberación superpone unos sonidos del habla sobre otros y reduce la inteligibilidad."
+   ],
+   "cizim": "oda_plani",
+   "ayar": {
+    "mod": "yansima",
+    "dogrudan_cumle": 0,
+    "yansima_cumle": 1,
+    "ekogram_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "dogrudan_ses",
+     "metin": "Sonido directo",
+     "cumle": 0
+    },
+    {
+     "parca": "yansimalar",
+     "metin": "Reflexiones",
+     "cumle": 1
+    },
+    {
+     "parca": "erken_yansimalar",
+     "metin": "Primeros 50 ms",
+     "cumle": 2
+    },
+    {
+     "parca": "yankilanma",
+     "metin": "Reverberación",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dogrudan_ses",
+     "cumle": 0
+    },
+    {
+     "parca": "yansimalar",
+     "cumle": 1
+    },
+    {
+     "parca": "erken_yansimalar",
+     "cumle": 2
+    },
+    {
+     "parca": "yankilanma",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "El sonido _directo_ llega primero",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Las reflexiones tempranas _refuerzan_ el habla",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "La reverberación reduce la _inteligibilidad_",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ]
+  },
+  {
+   "id": "rt60",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El sonido en una sala",
+   "baslik": "Tiempo de reverberación: *RT60*",
+   "maddeler": [
+    {
+     "metin": "Tiempo para caer _60 dB_ tras el corte",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "El volumen _alarga_, la absorción acorta",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Superficies duras alargan, _blandas_ acortan",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Se mide con _ruido interrumpido_ o impulso",
+     "cumle": 4,
+     "ikon": "mikrofon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "sonum_egrisi",
+    "cumle": 0,
+    "ayar": {
+     "rt60": 0.8,
+     "rt60_cumle": 0,
+     "kesilme_cumle": 0
+    },
+    "vurgula": [
+     {
+      "parca": "rt60",
+      "cumle": 0
+     },
+     {
+      "parca": "altmis_db_ok",
+      "cumle": 1
+     },
+     {
+      "parca": "sonum",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "kesilme",
+      "metin": "la fuente se detiene",
+      "cumle": 0,
+      "yer": "alt"
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "El tiempo de reverberación, o RT60, es el tiempo que tarda el nivel sonoro en bajar sesenta decibeles después de que la fuente se detiene."
+    },
+    "Una caída de sesenta decibeles significa que la intensidad del sonido se reduce a una millonésima parte.",
+    {
+     "yazi": "Según la fórmula de Sabine, el tiempo de reverberación aumenta con el volumen de la sala y disminuye con la absorción sonora total de las superficies."
+    },
+    "Las superficies duras, como el concreto, el vidrio y los azulejos, lo alargan; los techos acústicos, las alfombras y las cortinas absorben el sonido y lo acortan.",
+    "Puede medirse con el método del ruido interrumpido o registrando la extinción de un impulso; ambos están definidos en normas."
+   ]
+  },
+  {
+   "id": "ornekler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "El sonido en una sala",
+   "baslik": "*Ejemplos* de tiempo de reverberación",
+   "ogeler": [
+    {
+     "ikon": "okul",
+     "baslik": "Aula acondicionada",
+     "metin": "0,4 a 0,6 segundos",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Aula sin acondicionar",
+     "metin": "A menudo más de 1 segundo",
+     "cumle": 2
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Sala de conciertos",
+     "metin": "Unos 2 segundos",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Gran templo",
+     "metin": "Varios segundos",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los tiempos de reverberación varían mucho de un ambiente a otro.",
+    "En un aula con acondicionamiento acústico, el tiempo se mantiene en torno a medio segundo.",
+    "En aulas sin acondicionar y con superficies duras, a menudo puede superar un segundo.",
+    "Las salas de conciertos buscan unos dos segundos para que la música suene plena.",
+    "En los grandes templos puede llegar a varios segundos, lo que dificulta entender el habla.",
+    "Así, una sala buena para la música puede ser mala para entender el habla."
+   ]
+  },
+  {
+   "id": "bulasma",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El sonido en una sala",
+   "baslik": "La reverberación *enmascara* las consonantes",
+   "cizim": "konusma_muzu",
+   "vurgula": [
+    {
+     "parca": "unluler",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "La _cola_ de una vocal intensa",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "La consonante débil queda _enmascarada_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Ruido más reverberación: _peor_",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "unluler",
+     "metin": "vocales: intensas",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "metin": "consonantes: débiles",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Para ver el efecto de la reverberación, piensen en una palabra: una vocal intensa permanece un tiempo en la sala después de terminar.",
+    "Esta cola cae sobre la consonante débil que sigue y la enmascara.",
+    "Como vimos en la banana del habla, las vocales son intensas y las consonantes débiles, así que las consonantes son las que más se pierden.",
+    "Como resultado, los límites de las sílabas y los finales de las palabras se vuelven borrosos.",
+    "Cuando el ruido y la reverberación se presentan juntos, pueden causar una pérdida mucho mayor que cada uno por separado."
+   ]
+  },
+  {
+   "id": "snr",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Relación señal-ruido",
+   "baslik": "Relación señal-ruido: *SNR*",
+   "maddeler": [
+    {
+     "metin": "Nivel del habla _menos_ nivel del ruido",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "65 y 55 dB: _+10 dB_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Negativa_ si el ruido es mayor",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "A menudo _insuficiente_ en las aulas",
+     "cumle": 4,
+     "ikon": "okul"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 1
+     },
+     {
+      "parca": "trafik",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "konusma",
+      "metin": "habla",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "La relación señal-ruido, o SNR, es la diferencia entre el nivel del sonido de interés y el nivel del ruido de fondo."
+    },
+    "Por ejemplo, si la voz del docente llega al oído con sesenta y cinco decibeles y el ruido con cincuenta y cinco, la SNR es de más diez decibeles.",
+    "Si el ruido es más intenso que el habla, la SNR es negativa.",
+    "Como los decibeles son logarítmicos, la diferencia entre dos niveles expresa en realidad la razón entre dos intensidades; de ahí su nombre.",
+    "Las mediciones muestran que la SNR en las aulas a menudo queda por debajo del nivel recomendado para el aprendizaje."
+   ]
+  },
+  {
+   "id": "kim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Relación señal-ruido",
+   "baslik": "¿Quién necesita una *mejor SNR*?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Adultos con audición normal",
+     "metin": "Completan huecos con el contexto",
+     "cumle": 0
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Niños",
+     "metin": "No completan los sonidos faltantes",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Personas con pérdida auditiva",
+     "metin": "Necesitan una SNR más alta",
+     "cumle": 3
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Adultos mayores y otros",
+     "metin": "Aprendices de idiomas, dificultades de atención",
+     "cumle": 4
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Objetivo en el aula",
+     "metin": "Al menos +15 dB para niños",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Un adulto con audición normal suele entender el habla con comodidad con una SNR positiva.",
+    "Esto se debe a que el conocimiento del idioma y el contexto le permiten completar con facilidad los sonidos que faltan.",
+    "Los niños todavía están aprendiendo el idioma, así que no pueden completar los sonidos que faltan; necesitan una mejor SNR para el mismo rendimiento.",
+    "Las personas con pérdida auditiva también suelen necesitar una SNR claramente más alta para el mismo rendimiento.",
+    "Los adultos mayores, quienes aprenden un nuevo idioma y los niños con dificultades de atención o de lenguaje también se ven más afectados por el ruido.",
+    "Por eso, para los niños en el aula se recomienda una SNR de al menos más quince decibeles en el oído."
+   ]
+  },
+  {
+   "id": "kritik_mesafe",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Distancia crítica",
+   "baslik": "*Distancia crítica*",
+   "maddeler": [
+    {
+     "metin": "Doble distancia: unos _6 dB_ menos",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sonido reverberante similar _en todas partes_",
+     "cumle": 1,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Distancia crítica: ambos son _iguales_",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Más allá, _domina_ la reverberación",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Solo _uno o dos_ metros en aulas",
+     "cumle": 5,
+     "ikon": "okul"
+    }
+   ],
+   "cumleler": [
+    "En espacio abierto, duplicar la distancia a la fuente reduce el sonido directo en unos seis decibeles; es la ley del cuadrado inverso.",
+    "En una sala cerrada, en cambio, el sonido reverberante tiene aproximadamente el mismo nivel en toda la sala.",
+    "Cerca de la fuente domina el sonido directo; al alejarse, el sonido directo se debilita mientras el reverberante se mantiene igual.",
+    "La distancia a la que los niveles del sonido directo y del reverberante son iguales se llama distancia crítica.",
+    "Más allá de la distancia crítica, el oyente escucha sobre todo sonido reverberante, y la claridad del habla disminuye notablemente.",
+    "La distancia crítica aumenta cuanto más grande es la sala y menor la reverberación; en un aula típica es de apenas unos pocos metros."
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "oda_plani",
+    "cumle": 0,
+    "ayar": {
+     "mod": "kritik_mesafe",
+     "kritik_mesafe_m": 1.5,
+     "halka_cumle": 3
+    },
+    "vurgula": [
+     {
+      "parca": "dogrudan_alan",
+      "cumle": 2
+     },
+     {
+      "parca": "kritik_mesafe",
+      "cumle": 3
+     },
+     {
+      "parca": "yankilanan_alan",
+      "cumle": 4
+     },
+     {
+      "parca": "on_siralar",
+      "cumle": 5
+     }
+    ]
+   }
+  },
+  {
+   "id": "hedefler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Aula y clínica",
+   "baslik": "*Objetivos* de acústica en el aula",
+   "sutunlar": [
+    "Fuente",
+    "Ruido de fondo",
+    "Tiempo de reverberación"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "ANSI S12.60",
+      "35 dBA",
+      "0,6 segundos"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "ANSI, aula grande",
+      "35 dBA",
+      "0,7 segundos"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "OMS",
+      "35 dBA",
+      "Unos 0,6 segundos"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "ASHA",
+      "35 dBA, SNR +15",
+      "0,6 segundos"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Se han definido objetivos acústicos para que el habla se entienda bien en las aulas.",
+    {
+     "yazi": "La norma estadounidense ANSI S12.60 limita el ruido a 35 dBA y el tiempo de reverberación a 0,6 segundos para un aula vacía de tamaño mediano.",
+     "ses": "La norma estadounidense ANSI ese doce punto sesenta limita el ruido a treinta y cinco decibeles A y el tiempo de reverberación a cero coma seis segundos para un aula vacía de tamaño mediano."
+    },
+    {
+     "yazi": "Para las aulas más grandes, el límite de reverberación es de 0,7 segundos."
+    },
+    {
+     "yazi": "La Organización Mundial de la Salud también recomienda que el ruido en el aula no supere los 35 dBA y un tiempo de reverberación de unos 0,6 segundos."
+    },
+    "La Asociación Estadounidense del Habla, Lenguaje y Audición, o ASHA, añade una SNR de al menos más quince decibeles en el oído del niño.",
+    "Otros países tienen pautas similares; en Turquía también existe un reglamento sobre la protección de los edificios contra el ruido.",
+    "Sin embargo, se informa que una gran parte de las aulas reales no alcanza estos objetivos."
+   ]
+  },
+  {
+   "id": "cozumler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Aula y clínica",
+   "baslik": "Mejorar la sala o la *señal*",
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "Superficies blandas",
+     "metin": "Techo acústico, alfombra, cortinas",
+     "cumle": 1
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Control del ruido",
+     "metin": "Ventanas, ventilación, pasillo",
+     "cumle": 2
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Ayuda a todos",
+     "metin": "Todos los estudiantes se benefician",
+     "cumle": 3
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Micrófono remoto",
+     "metin": "Voz directa al dispositivo",
+     "cumle": 5
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Sistema de campo libre",
+     "metin": "Reparte el sonido uniformemente",
+     "cumle": 6
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Sentarse cerca",
+     "metin": "Dentro de la distancia crítica",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "Hay dos enfoques complementarios para mejorar un aula; el primero es acondicionar la propia sala.",
+    "Los techos acústicos, las alfombras y las cortinas acortan el tiempo de reverberación.",
+    "Controlar el ruido de las ventanas, la ventilación y los pasillos reduce el ruido de fondo.",
+    "Acondicionar la sala beneficia a todos los estudiantes de la clase.",
+    "El segundo enfoque es mejorar la señal.",
+    "Los sistemas de micrófono remoto, que envían la voz del docente desde un micrófono que lleva puesto directamente al dispositivo del estudiante, mejoran claramente la SNR.",
+    "También pueden usarse sistemas de campo libre, que distribuyen la voz de forma pareja mediante altavoces colocados en la sala.",
+    "Sentarse donde el estudiante pueda ver la cara del docente, dentro de la distancia crítica, es también una medida simple pero eficaz.",
+    "Estos enfoques deben considerarse en conjunto, no como sustitutos uno del otro."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Aula y clínica",
+   "baslik": "La *acústica de salas* en la clínica",
+   "maddeler": [
+    {
+     "metin": "Cabina: poco _ruido_ y reverberación",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Micrófonos direccionales pueden _mejorar_ la SNR",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Los equipos _no eliminan_ toda la reverberación",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Estrategias de _comunicación_ en la orientación",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "RIC"
+    },
+    "vurgula": [
+     {
+      "parca": "mikrofon",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Las salas de evaluación que se usan para la audiometría también se diseñan especialmente para tener poco ruido de fondo y un tiempo de reverberación corto.",
+    "Los micrófonos direccionales de los audífonos pueden mejorar algo la SNR al dar prioridad al habla que llega de frente.",
+    "Pero como el sonido reverberante llega desde todas las direcciones, los dispositivos no pueden eliminar por completo el efecto de la reverberación.",
+    "En la orientación se explican estrategias simples, como sentarse lejos de la fuente de ruido y donde se vea la cara de quien habla."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Aula y clínica",
+   "baslik": "Consejo clínico",
+   "metin": "Ante dificultades en ruido, preguntar por el entorno: sala, superficies, distancia, fuente de ruido. Reducir a la mitad la distancia al hablante sube el sonido directo unos 6 dB.",
+   "cumle": 2,
+   "cumleler": [
+    "Un consejo de la clínica: cuando un paciente refiere dificultad para entender en el ruido, pregunten en detalle por los entornos en los que le cuesta.",
+    "El tamaño de la sala, la dureza de las superficies, la distancia al hablante y de dónde viene el ruido aportan pistas útiles.",
+    "Reducir a la mitad la distancia al hablante sube el sonido directo en unos seis decibeles y mejora la SNR dentro de la distancia crítica.",
+    "Estos cambios simples pueden marcar una clara diferencia en la vida diaria, con independencia de los ajustes del dispositivo."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "RT60: tiempo para caer _60 dB_",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "SNR: habla menos _ruido_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Distancia crítica: directo y reverberante _iguales_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Aula: _35 dBA_, 0,6 s, SNR +15 dB",
+     "cumle": 3,
+     "ikon": "okul"
+    }
+   ],
+   "cumleler": [
+    "El tiempo de reverberación es el tiempo que tarda el nivel en bajar sesenta decibeles después de que el sonido se detiene.",
+    "La relación señal-ruido es la diferencia entre los niveles del habla y del ruido; los niños y las personas con pérdida auditiva necesitan una mejor relación.",
+    "Más allá de la distancia crítica, el sonido reverberante se vuelve dominante y la claridad del habla disminuye.",
+    {
+     "yazi": "Para las aulas, los objetivos son 35 dBA de ruido de fondo, un tiempo de reverberación de 0,6 segundos y una SNR de al menos más quince decibeles."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Cuál es el objetivo de tiempo de reverberación para un aula vacía de tamaño mediano?",
+   "secenekler": [
+    "0,3 segundos",
+    "0,6 segundos",
+    "1,2 segundos",
+    "2 segundos"
+   ],
+   "dogru": 1,
+   "aciklama": "ANSI S12.60 y la ASHA recomiendan _0,6 segundos_ y 35 dBA de ruido de fondo para las aulas.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál es el objetivo de tiempo de reverberación para un aula vacía de tamaño mediano?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: 0,6 segundos."
+    },
+    "Una reverberación más larga hace que las colas de las vocales enmascaren las consonantes y vuelve borrosa el habla."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "La *vía auditiva central*, estación por estación",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección seguiremos la vía auditiva central desde la cóclea hasta la corteza, estación por estación.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

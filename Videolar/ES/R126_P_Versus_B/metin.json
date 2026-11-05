@@ -1,0 +1,114 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R126_P_Versus_B_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #126",
+  "baslik": "La p y la b: *cuestión de tiempo*",
+  "alt": "Inicio de la sonoridad: unas decenas de milisegundos",
+  "cizim": "ses_dalgasi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Cómo distingue tu oído la p de la b? #shorts",
+  "aciklama": "En las consonantes oclusivas, el tiempo entre la explosión y el inicio de la vibración de los pliegues vocales se llama tiempo de inicio de la sonoridad (VOT). En la b del turco, por ejemplo, la sonoridad suele comenzar con la explosión o incluso antes, mientras que en la p comienza tras un retraso claro.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "habla",
+   "espectrograma"
+  ],
+  "etiketler": [
+   "tiempo de inicio de la sonoridad",
+   "VOT",
+   "consonantes oclusivas",
+   "espectrograma",
+   "acústica del habla",
+   "fonética",
+   "consonantes",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Cómo distingue tu oído la p de la b?",
+  "bilgiler": [
+   "En las oclusivas, el aire se bloquea por completo un instante y luego se libera.",
+   "El tiempo entre la explosión y la sonoridad se llama tiempo de inicio de la sonoridad.",
+   "En la b del turco, la sonoridad empieza con la explosión o antes; en la p, tras un retraso."
+  ],
+  "hashtag": [
+   "audiologia",
+   "habla",
+   "espectrograma"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #126",
+   "metin": "¿Cómo *distingue* tu oído la p de la b?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    {
+     "yazi": "¿Cómo distingue tu oído el sonido p del sonido b?",
+     "ses": "¿Cómo distingue tu oído el sonido pe del sonido be?"
+    }
+   ]
+  },
+  {
+   "id": "vot",
+   "tur": "zincir",
+   "baslik": "Tiempo de *inicio de la sonoridad*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Cierre",
+     "tr": "silencio breve",
+     "cumle": 0
+    },
+    {
+     "ad": "Explosión",
+     "tr": "barra vertical",
+     "cumle": 1
+    },
+    {
+     "ad": "Sonoridad",
+     "tr": "vibran los pliegues",
+     "cumle": 2
+    }
+   ],
+   "alt": "La diferencia es de apenas _unas decenas de milisegundos_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "En las consonantes oclusivas, el flujo de aire se bloquea por completo un instante.",
+    "Al liberarse, aparece en el espectrograma una breve barra vertical de explosión.",
+    "El tiempo entre la explosión y la sonoridad se llama tiempo de inicio de la sonoridad.",
+    {
+     "yazi": "En la b del turco, la sonoridad suele comenzar con la explosión o incluso antes.",
+     "ses": "En la be del turco, la sonoridad suele comenzar con la explosión o incluso antes."
+    },
+    {
+     "yazi": "En la p, comienza tras un retraso claro y un ruido de aspiración.",
+     "ses": "En la pe, comienza tras un retraso claro y un ruido de aspiración."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D042",
+ "kaynak_baslik": "Cómo leer un espectrograma: acústica del habla"
+}

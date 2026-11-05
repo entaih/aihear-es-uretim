@@ -1,0 +1,785 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D008_Test_Battery_ES",
+ "kapak": {
+  "ust": "LECCIÓN 8",
+  "baslik": "La batería de<br>*pruebas audiológicas*",
+  "alt": "Qué aporta cada prueba",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      40,
+      40,
+      35,
+      30,
+      35,
+      40
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      5,
+      10,
+      10,
+      10,
+      15
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Batería de pruebas audiológicas: qué aporta cada una | Lección 08 | AIHEAR Academia de Audiología",
+  "aciklama": "En audiología, ninguna prueba por sí sola da la respuesta. En esta lección vemos las pruebas conductuales y objetivas, qué parte de la vía auditiva muestra cada prueba y el principio de verificación cruzada de Jerger y Hayes. También repasamos distintos enfoques sobre el orden de las pruebas y, con ejemplos, cómo se integran los hallazgos.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Jerger J, Hayes D (1976), The cross-check principle in pediatric audiometry, Archives of Otolaryngology; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Hall, New Handbook of Auditory Evoked Responses.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audiometria",
+   "audicion"
+  ],
+  "etiketler": [
+   "batería de pruebas audiológicas",
+   "principio de verificación cruzada",
+   "prueba conductual",
+   "pruebas objetivas",
+   "Jerger y Hayes",
+   "audiometría tonal",
+   "timpanometría",
+   "otoemisiones acústicas",
+   "PEATC",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 8",
+   "baslik": "La batería de *pruebas audiológicas*",
+   "alt": "Qué muestra cada prueba y cómo se integran los hallazgos",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos la batería de pruebas audiológicas, el conjunto de pruebas que se usan juntas.",
+    "Aprenderemos qué muestra cada prueba, cómo se verifican unas a otras y cómo se integran los hallazgos."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué una batería?",
+   "baslik": "Una prueba *no basta*",
+   "maddeler": [
+    {
+     "metin": "La _batería de pruebas_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Cada prueba mira _una parte distinta_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Las pruebas se _complementan_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Objetivo: _tipo_, grado y localización",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 2,
+    "etiketler": [
+     {
+      "parca": "orta_kulak",
+      "metin": "Timpanometría",
+      "cumle": 2
+     },
+     {
+      "parca": "koklea",
+      "metin": "OEA",
+      "cumle": 2
+     },
+     {
+      "parca": "isitme_siniri",
+      "metin": "PEATC",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "orta_kulak",
+      "cumle": 2
+     },
+     {
+      "parca": "koklea",
+      "cumle": 2
+     },
+     {
+      "parca": "isitme_siniri",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En audiología, ninguna prueba por sí sola da la respuesta; el conjunto de pruebas que se usan juntas se llama batería de pruebas."
+    },
+    "El sistema auditivo es una cadena que va del oído externo al tronco cerebral y la corteza, y cada prueba mira una parte distinta.",
+    "Por ejemplo, la timpanometría mira el oído medio; las otoemisiones acústicas, la cóclea; y los potenciales de tronco cerebral, la vía nerviosa.",
+    "Así, las pruebas no se reemplazan entre sí; se complementan.",
+    "El objetivo de la batería es definir con la mayor precisión posible el tipo y el grado de la pérdida y la localización del problema."
+   ]
+  },
+  {
+   "id": "iki_grup",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué una batería?",
+   "baslik": "Pruebas conductuales y *objetivas*",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Pruebas conductuales",
+     "metin": "El paciente responde: botón, repetición",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Ejemplos",
+     "metin": "Tonal, logoaudiometría, audiometría por juego",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Pruebas objetivas",
+     "metin": "Sin respuesta; el equipo registra",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ejemplos",
+     "metin": "Inmitancia, OEA, PEATC",
+     "cumle": 5
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Lectura experta",
+     "metin": "Un clínico experimentado interpreta los registros",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "Las pruebas de la batería se dividen en dos grandes grupos: las pruebas conductuales y las pruebas objetivas.",
+    {
+     "yazi": "En las pruebas conductuales, el paciente indica con una acción que oyó el sonido: presiona un botón, repite o gira la cabeza."
+    },
+    "La audiometría tonal, la logoaudiometría y, en niños, la audiometría por refuerzo visual y por juego pertenecen a este grupo.",
+    "Estas pruebas muestran lo que la persona realmente oye, pero requieren atención, colaboración y comprensión de las instrucciones.",
+    {
+     "yazi": "En las pruebas objetivas, el paciente no necesita responder; el equipo registra la medición."
+    },
+    "La inmitanciometría, las otoemisiones acústicas y los potenciales evocados auditivos de tronco cerebral pertenecen a este grupo.",
+    "Las pruebas objetivas muestran si partes del sistema auditivo funcionan, pero por sí solas no miden la audición.",
+    "La palabra objetiva no significa que el resultado se interprete solo; un clínico experimentado sigue evaluando los registros."
+   ]
+  },
+  {
+   "id": "neyi_gosterir",
+   "bolum_no": "PARTE 2",
+   "bolum": "Qué muestra cada prueba",
+   "baslik": "Qué muestra *cada prueba*",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Audiometría tonal",
+     "metin": "Toda la vía: umbral, tipo, grado",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Logoaudiometría",
+     "metin": "URP y reconocimiento de palabras",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometría",
+     "metin": "Presión y movilidad del oído medio",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Reflejo acústico",
+     "metin": "Arco del oído medio al tronco",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "OEA",
+     "metin": "Células ciliadas externas, función coclear",
+     "cumle": 5
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "PEATC",
+     "metin": "Respuesta del nervio y del tronco",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Ahora veamos qué muestra cada una de las pruebas básicas de la batería.",
+    "La audiometría tonal evalúa toda la vía auditiva en conjunto; muestra los umbrales y el tipo y el grado de la pérdida.",
+    "La logoaudiometría mide el umbral de recepción de la palabra (URP) y la capacidad de reconocimiento de palabras.",
+    "La timpanometría muestra la presión del oído medio y la movilidad de la membrana timpánica.",
+    "El reflejo acústico evalúa todo el arco reflejo, desde el oído medio hasta el tronco cerebral.",
+    "Las otoemisiones acústicas (OEA) reflejan la función de las células ciliadas externas de la cóclea.",
+    "Los potenciales evocados auditivos de tronco cerebral (PEATC) muestran la respuesta nerviosa sincrónica del nervio auditivo y del tronco cerebral."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "El principio de verificación cruzada",
+   "baslik": "El *principio* de verificación cruzada",
+   "maddeler": [
+    {
+     "metin": "El _principio de verificación cruzada_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Jerger y Hayes, _1976_",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Confirmar con una prueba _independiente_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Esencial en _niños_",
+     "cumle": 3,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Discordancia: _repetir_ o agregar pruebas",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        25,
+        35,
+        40,
+        45,
+        50,
+        55
+       ],
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "En el centro de la batería de pruebas está el principio de verificación cruzada."
+    },
+    {
+     "yazi": "Este principio lo describieron James Jerger y Deborah Hayes en 1976 para la audiología pediátrica."
+    },
+    "Según el principio, el resultado de una prueba no se acepta como definitivo hasta que otra prueba independiente lo confirma.",
+    "El principio es especialmente importante en niños pequeños, porque sus respuestas conductuales pueden variar.",
+    "Hoy, el principio forma parte de la buena práctica clínica en todos los grupos de edad, también en adultos.",
+    "Si las pruebas no concuerdan, primero revisen las condiciones de la prueba; luego repitan la prueba o agreguen otra."
+   ]
+  },
+  {
+   "id": "srt_pta",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "El principio de verificación cruzada",
+   "baslik": "Ejemplo: concordancia del URP y la *audiometría tonal*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Promedio de tonos puros_: 40 dB HL",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_URP_: 40 dB HL, concordante",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       25,
+       35,
+       40,
+       45,
+       50,
+       55
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Una de las verificaciones cruzadas más comunes compara los umbrales tonales con el umbral de la palabra.",
+    "Aquí, el promedio de tonos puros, el umbral medio en quinientos, mil y dos mil hertz, es de cuarenta decibeles HL.",
+    "El umbral de recepción de la palabra suele coincidir con el promedio de tonos puros con una diferencia de unos diez decibeles o menos.",
+    "Aquí, el umbral de recepción de la palabra también fue de cuarenta decibeles HL; las dos pruebas se confirman entre sí.",
+    "Si el umbral de la palabra fuera mucho mejor que el promedio tonal, se cuestionaría la confiabilidad de los umbrales tonales.",
+    "Una discordancia así puede sugerir que no se entendieron las instrucciones o que las respuestas no reflejan la audición real."
+   ]
+  },
+  {
+   "id": "objektif_kontrol",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "El principio de verificación cruzada",
+   "baslik": "Verificación cruzada con pruebas *objetivas*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "Emisión presente",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "OEA presentes: no se espera pérdida coclear _severa_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Reflejo cerca del umbral: _contradice_ lo informado",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "PEATC: comparar con la _estimación del umbral_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Las pruebas objetivas también son formas potentes de verificar los resultados conductuales.",
+    "Cuando la pérdida coclear supera unos treinta a cuarenta decibeles HL, las otoemisiones acústicas suelen estar ausentes.",
+    "Por eso, en un oído con emisiones claramente registradas, una pérdida coclear severa informada no es coherente.",
+    "Del mismo modo, los reflejos acústicos obtenidos muy cerca o por debajo del umbral informado contradicen ese informe.",
+    "La estimación del umbral con los potenciales de tronco cerebral permite comparar cuando los umbrales conductuales no son confiables.",
+    "Cada prueba tiene sus propios límites, así que la decisión no se basa en una sola prueba, sino en el conjunto de hallazgos."
+   ]
+  },
+  {
+   "id": "sira",
+   "bolum_no": "PARTE 4",
+   "bolum": "Orden e integración",
+   "baslik": "El *orden* de las pruebas",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Inmitancia primero",
+     "metin": "Rápida, sin respuesta del paciente",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Plan de enmascaramiento",
+     "metin": "Estado del oído medio conocido pronto",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Tonal primero",
+     "metin": "Prueba conductual con el paciente descansado",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Umbrales primero",
+     "metin": "Reflejos y OEA más fáciles de interpretar",
+     "cumle": 4
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Siempre primero",
+     "metin": "Anamnesis y otoscopia",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "El orden de las pruebas varía de una clínica a otra, y hay más de un enfoque válido.",
+    "Algunas clínicas empiezan con la inmitanciometría tras la anamnesis y la otoscopia; es rápida y no requiere respuesta del paciente.",
+    "Así, el estado del oído medio se conoce desde el inicio, y es más fácil planificar el enmascaramiento en la audiometría tonal.",
+    "Otras clínicas empiezan con la audiometría tonal, para hacer la prueba conductual que exige atención con el paciente aún descansado.",
+    "En este enfoque los umbrales ya se conocen, así que los resultados de reflejos y emisiones son más fáciles de interpretar.",
+    "En Turquía, el orden depende sobre todo de la distribución de la clínica y del flujo de pacientes.",
+    "Sea cual sea el orden elegido, la anamnesis y la otoscopia siempre van primero en cada paciente."
+   ]
+  },
+  {
+   "id": "birlestir",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Orden e integración",
+   "baslik": "*Integrar* los hallazgos",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Conducción aérea_: pérdida leve",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Ósea enmascarada_: normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "B",
+     "renk": "yesil",
+     "metin": "Timpanograma: _tipo B_",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Reflejo y OEA: _ausentes_",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       35,
+       30,
+       35,
+       40
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "Ahora reunamos los hallazgos de distintas pruebas en una sola imagen; en este ejemplo miramos el oído derecho.",
+    "Los umbrales aéreos muestran una pérdida leve, y la conducción ósea enmascarada es normal; en quinientos hertz la brecha es de treinta decibeles.",
+    {
+     "yazi": "En el mismo oído, el timpanograma es tipo B y el volumen del conducto auditivo es normal."
+    },
+    "En este oído, el reflejo acústico está ausente y no se pueden registrar otoemisiones acústicas.",
+    "Las cuatro pruebas apuntan en la misma dirección: el problema está en el oído medio y la pérdida es conductiva.",
+    "Aquí, la ausencia de emisión no refleja la cóclea, sino que el sonido no atraviesa bien el oído medio en ninguno de los dos sentidos.",
+    "El cuadro de este ejemplo es compatible con líquido en el oído medio; la evaluación final siempre corresponde al médico."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Orden e integración",
+   "baslik": "*Patrones* típicos de hallazgos",
+   "sutunlar": [
+    "Hallazgo",
+    "Conductiva",
+    "Coclear",
+    "Neural"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Brecha aéreo-ósea",
+      "Presente",
+      "Ausente",
+      "Ausente"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Timpanograma",
+      "A menudo alterado",
+      "Normal",
+      "Normal"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "OEA",
+      "Ausentes",
+      "Ausentes",
+      "Pueden estar presentes"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Reflejo acústico",
+      "Ausente",
+      "Normal; elevado si severa",
+      "Ausente o elevado"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "PEATC",
+      "Todas las ondas retrasadas",
+      "Latencias casi normales",
+      "Ondas retrasadas o ausentes"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Reconocimiento de palabras",
+      "Bueno",
+      "Acorde a la pérdida",
+      "Peor de lo esperado"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Esta tabla resume cómo se ven típicamente los hallazgos en las tres localizaciones principales de la pérdida.",
+    "En la pérdida conductiva hay brecha aéreo-ósea y el timpanograma suele estar alterado; reflejos y emisiones suelen estar ausentes.",
+    "En la pérdida coclear, el timpanograma es normal y las emisiones desaparecen; los reflejos pueden estar presentes o elevados, según el grado.",
+    "En los problemas neurales, las emisiones pueden conservarse, pero los reflejos y los potenciales de tronco cerebral se alteran.",
+    "En estos problemas, el porcentaje de reconocimiento de palabras puede ser claramente peor de lo esperado según los umbrales tonales.",
+    "Estos son patrones típicos; en pacientes reales los hallazgos pueden mezclarse y siempre se interpretan en conjunto."
+   ]
+  },
+  {
+   "id": "ansd",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Orden e integración",
+   "baslik": "El valor de la batería: *un ejemplo*",
+   "maddeler": [
+    {
+     "metin": "OEA: _presentes_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "PEATC: sin _ondas_ claras",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Solo OEA: _falsa tranquilidad_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Solo PEATC: _interpretación errónea_",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Juntos: problema de _conducción nerviosa_",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "oae",
+    "ayar": {
+     "tur": "TEOAE"
+    },
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "yanit",
+      "metin": "Emisión registrada",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "yanit",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Uno de los mejores ejemplos del valor de la batería es el trastorno del espectro de la neuropatía auditiva (TENA).",
+    "En esta condición se registran otoemisiones acústicas, lo que significa que las células ciliadas externas funcionan.",
+    "Sin embargo, los potenciales evocados auditivos de tronco cerebral no muestran ondas claras, ni siquiera a intensidades altas.",
+    "Si solo se mirara la prueba de emisiones, se podría pensar que la audición es normal.",
+    "Si solo se miraran los potenciales de tronco cerebral, el cuadro podría leerse simplemente como una pérdida coclear severa.",
+    "Cuando ambas pruebas se evalúan juntas, queda claro que el problema está en la conducción nerviosa."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Orden e integración",
+   "baslik": "Consejo clínico",
+   "metin": "Si los resultados se contradicen, revisar primero las condiciones de la prueba: colocación de la sonda y de los auriculares, instrucciones y enmascaramiento. Luego repetir la prueba.",
+   "cumleler": [
+    "Un consejo de la práctica: si las pruebas se contradicen, no salten a una conclusión llamativa.",
+    "Primero revisen las condiciones: ¿la sonda está bien colocada, el auricular está en el oído correcto, se entendieron las instrucciones?",
+    "El enmascaramiento necesario que no se aplicó también es una causa frecuente de inconsistencias.",
+    "Una vez corregidas las condiciones y repetida la prueba, muchas contradicciones simplemente desaparecen."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Batería: pruebas _conductuales_ y objetivas",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Cada prueba muestra _una parte distinta_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Verificación cruzada: confirmar con prueba _independiente_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Los hallazgos se leen _en conjunto_",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "La batería de pruebas está formada por pruebas conductuales, que dependen de la respuesta del paciente, y por pruebas objetivas.",
+    "Cada prueba evalúa una parte distinta de la vía auditiva; las pruebas no se reemplazan entre sí.",
+    "Según el principio de verificación cruzada, un resultado no se acepta como definitivo hasta que otra prueba independiente lo confirma.",
+    "El orden de las pruebas puede variar entre clínicas; lo importante es interpretar los hallazgos en conjunto."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Promedio tonal de 50 y URP de 15 dB HL. ¿Qué sospechas?",
+   "secenekler": [
+    "Las dos pruebas concuerdan",
+    "Umbrales tonales dudosos",
+    "Hipoacusia conductiva",
+    "Hipoacusia coclear"
+   ],
+   "dogru": 1,
+   "aciklama": "El URP suele coincidir con el promedio tonal _con 10 dB de diferencia o menos_; una diferencia grande es una alerta en la verificación cruzada.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: el promedio tonal es de cincuenta y el umbral de recepción de la palabra, de quince decibeles HL. ¿Qué sospechas?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: se cuestiona la confiabilidad de los umbrales tonales."
+    },
+    "Los dos umbrales suelen coincidir con una diferencia de diez decibeles o menos; una diferencia tan grande obliga a revisar la evaluación."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Siglas* del informe audiológico: PTP, URP, UCL y más",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección descifraremos las siglas que vemos a menudo en los informes audiológicos, como PTP, URP y UCL, y el porcentaje de discriminación.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

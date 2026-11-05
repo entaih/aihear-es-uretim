@@ -1,0 +1,727 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D047_Efferent_Auditory_System_ES",
+ "kapak": {
+  "ust": "LECCIÓN 47",
+  "baslik": "Sistema auditivo<br>*eferente*",
+  "alt": "El haz olivococlear y la supresión de las OEA",
+  "cizim": "corti",
+  "vurgula": [
+   "dis_tuy_hucreleri"
+  ]
+ },
+ "youtube": {
+  "baslik": "El sistema auditivo eferente: el haz olivococlear | Lección 47 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo regula el cerebro el funcionamiento del oído? En esta lección conocemos el sistema auditivo eferente, las fibras olivococleares mediales y laterales, el efecto inhibidor de las fibras MOC sobre las células ciliadas externas y el amplificador coclear, el reflejo MOC y cómo se mide este efecto con la supresión contralateral de las otoemisiones acústicas (OEA).\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Guinan (2006), Olivocochlear efferents: anatomy, physiology, function, and the measurement of efferent effects in humans, Ear and Hearing; Rasmussen (1946), The olivary peduncle and other fiber projections of the superior olivary complex, Journal of Comparative Neurology; Collet et al. (1990), Effect of contralateral auditory stimuli on active cochlear micro-mechanical properties in human subjects, Hearing Research; Pickles, An Introduction to the Physiology of Hearing; Hall, Handbook of Otoacoustic Emissions.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "eferente",
+   "otoemisiones"
+  ],
+  "etiketler": [
+   "sistema eferente",
+   "haz olivococlear",
+   "olivococlear medial",
+   "reflejo MOC",
+   "células ciliadas externas",
+   "supresión contralateral",
+   "OEAT",
+   "otoemisiones acústicas",
+   "amplificador coclear",
+   "fisiología de la audición",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 47",
+   "baslik": "El sistema auditivo *eferente*",
+   "alt": "El haz olivococlear",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos el sistema auditivo eferente, que va del cerebro al oído, y en especial el haz olivococlear.",
+    "Veremos las fibras olivococleares mediales y laterales, su efecto sobre las células ciliadas externas y cómo lo miden las otoemisiones acústicas."
+   ]
+  },
+  {
+   "id": "yon",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La vía eferente",
+   "baslik": "Del cerebro *al oído*",
+   "cizim": "isitme_yolu",
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 0
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 2
+    },
+    {
+     "parca": "superior_oliver",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "isitme_korteksi",
+     "metin": "Corteza auditiva",
+     "cumle": 2
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "Colículo inferior",
+     "cumle": 2
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "Complejo olivar superior",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Aferente: _del oído al cerebro_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Eferente: _del cerebro al oído_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Último eslabón: _haz olivococlear_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Hasta ahora seguimos la vía auditiva sobre todo hacia arriba, de la cóclea a la corteza; esta es la dirección aferente.",
+    "La información también fluye en sentido contrario; las fibras que descienden de la corteza al tronco cerebral, y de ahí a la cóclea, son fibras eferentes.",
+    "La vía eferente tiene varias etapas; la corteza auditiva y el colículo inferior envían fibras descendentes a núcleos del tronco cerebral.",
+    "El último eslabón de esta cadena es el haz olivococlear, que va del complejo olivar superior a la cóclea.",
+    {
+     "yazi": "El haz olivococlear fue descrito en detalle por primera vez por Rasmussen en 1946."
+    },
+    "Así, el cerebro puede ajustar en parte cómo procesa el oído el sonido que recibe."
+   ],
+   "ayar": {
+    "efferent": true,
+    "kortikal_cumle": 2,
+    "ocb_cumle": 3
+   }
+  },
+  {
+   "id": "iki_sistem",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La vía eferente",
+   "baslik": "Fibras mediales y *laterales*",
+   "cizim": "corti",
+   "yakinlastir": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 6,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 7
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "MOC: a las células ciliadas externas",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "LOC: a las terminaciones aferentes",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Las fibras olivococleares se dividen en dos grupos según su origen en el complejo olivar superior.",
+    "Las fibras olivococleares mediales, o fibras MOC, se originan en núcleos situados alrededor de la oliva superior medial.",
+    "Estas fibras son gruesas y mielinizadas; la mayoría se cruza al otro lado antes de llegar a la cóclea.",
+    "Las fibras MOC hacen sinapsis directamente en la base de las células ciliadas externas.",
+    "Las fibras olivococleares laterales, o fibras LOC, se originan en la oliva superior lateral y a su alrededor.",
+    "Estas fibras son delgadas y amielínicas; la mayoría llega a la cóclea del mismo lado.",
+    "Las fibras LOC no se conectan con las células ciliadas internas, sino con las terminaciones de las fibras aferentes tipo I que están debajo de ellas.",
+    "Ambos grupos son mucho menos numerosos que las fibras aferentes, pero su efecto sobre el procesamiento coclear es claro."
+   ]
+  },
+  {
+   "id": "moc_etki",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La vía eferente",
+   "baslik": "MOC: el *control de volumen* del amplificador",
+   "cizim": "dis_tuy_hucresi",
+   "ayar": {
+    "mod": "uclu",
+    "cumleler": [
+     3,
+     1,
+     1
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "prestin",
+     "cumle": 1
+    },
+    {
+     "parca": "hiperpolarizasyon",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "prestin",
+     "metin": "Prestina",
+     "cumle": 1
+    },
+    {
+     "parca": "hiperpolarizasyon",
+     "metin": "Hiperpolarización",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Terminal MOC: se libera _acetilcolina_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "La célula se _hiperpolariza_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La ganancia coclear _disminuye_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Para entender el efecto de las fibras MOC, recordemos el papel de las células ciliadas externas en el amplificador coclear.",
+    "Gracias a la proteína motora prestina, las células ciliadas externas se alargan y acortan con los cambios eléctricos y refuerzan la vibración de la membrana basilar.",
+    "Cuando se activan las fibras MOC, se libera acetilcolina desde sus terminaciones.",
+    "La acetilcolina provoca la entrada de calcio en la célula ciliada externa y luego la salida de potasio; la célula se hiperpolariza.",
+    "Como resultado, disminuye la electromotilidad de la célula ciliada externa; es decir, baja la ganancia del amplificador coclear.",
+    "La vibración de la membrana basilar disminuye, sobre todo para los sonidos de nivel bajo y moderado.",
+    "En resumen, el sistema MOC funciona como un control de volumen del amplificador coclear."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "El reflejo MOC",
+   "baslik": "El arco *reflejo* MOC",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Sonido",
+     "metin": "La cóclea lo detecta",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Núcleo coclear",
+     "metin": "Por fibras tipo I",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Neuronas MOC",
+     "metin": "Complejo olivar de ambos lados",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Células ciliadas externas",
+     "metin": "La ganancia disminuye",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Las fibras MOC forman parte de un arco reflejo; este reflejo funciona de forma automática en respuesta al sonido.",
+    "El sonido se detecta en la cóclea y las fibras aferentes tipo I lo llevan al núcleo coclear.",
+    "Las fibras del núcleo coclear activan las neuronas MOC del complejo olivar superior de ambos lados.",
+    "Las neuronas MOC, a su vez, envían una retroalimentación a las células ciliadas externas a través de sus propias fibras.",
+    "Así, tanto si el sonido se presenta al mismo oído como al oído opuesto, aparece un efecto MOC en la cóclea.",
+    "El efecto rápido del reflejo aparece en unas pocas decenas de milisegundos; en estudios con animales también se ha visto un efecto lento, de decenas de segundos."
+   ]
+  },
+  {
+   "id": "islev",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "El reflejo MOC",
+   "baslik": "¿*Para qué* sirve el sistema eferente?",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Escucha en ruido",
+     "metin": "Desenmascaramiento",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Protección",
+     "metin": "Demostrada en estudios con animales",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Atención",
+     "metin": "Ayuda a la escucha selectiva",
+     "cumle": 5
+    },
+    {
+     "ikon": "noron",
+     "baslik": "LOC",
+     "metin": "Ajusta la descarga aferente",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Hay tres ideas principales sobre la función del sistema eferente, y las tres siguen en estudio.",
+    "La evidencia más sólida se refiere a la escucha en ruido; un ruido de fondo constante estimula las fibras nerviosas y llena su rango de respuesta.",
+    "El efecto MOC reduce la respuesta al ruido, y las fibras pueden volver a responder a sonidos cambiantes como el habla; esto se llama desenmascaramiento.",
+    "La segunda idea se basa en experimentos con animales; una fuerte actividad MOC puede reducir algo el daño coclear por ruido intenso.",
+    "Sin embargo, se debate qué tan importante es esta protección en condiciones naturales.",
+    "Según la tercera idea, el sistema eferente ayuda a dirigir la atención hacia un oído o hacia un sonido en particular.",
+    "La función de las fibras LOC se conoce menos; se cree que ajustan la descarga aferente y equilibran la sensibilidad de los dos oídos."
+   ]
+  },
+  {
+   "id": "baskilama",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Su medición en la clínica",
+   "baslik": "*Supresión* contralateral",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "vurgula": [
+    {
+     "parca": "uyaran",
+     "cumle": 2
+    },
+    {
+     "parca": "yanit",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "La amplitud de la emisión disminuye",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Oído evaluado: registro de _OEAT_",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Oído opuesto: _ruido de banda ancha_",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Normalmente unos _1 a 2 dB_ menos",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "En los seres humanos no podemos medir directamente las fibras MOC, pero sí ver sus efectos a través de las otoemisiones acústicas, u OEA.",
+    "Como las OEA se originan en la actividad de las células ciliadas externas, el efecto MOC cambia la amplitud de la emisión.",
+    "En el método más común, primero se registran en un oído las otoemisiones acústicas transitorias, u OEAT.",
+    "Luego se repite la medición mientras se presenta ruido de banda ancha al oído opuesto.",
+    "El ruido en el oído opuesto activa el reflejo MOC, y la amplitud de la emisión en el oído evaluado disminuye.",
+    "Esta reducción se llama supresión contralateral; en adultos normales suele ser de uno a dos decibeles aproximadamente.",
+    "Como el efecto es pequeño, la medición requiere cuidado, repeticiones y un buen piso de ruido."
+   ]
+  },
+  {
+   "id": "grafik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Su medición en la clínica",
+   "baslik": "Una emisión que *se reduce* con el ruido",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 800,
+     "max": 5000,
+     "log": true,
+     "hz": true,
+     "ad": "Banda de frecuencia (Hz)",
+     "isaretler": [
+      1000,
+      1500,
+      2000,
+      3000,
+      4000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 16,
+     "isaretler": [
+      0,
+      4,
+      8,
+      12,
+      16
+     ],
+     "ad": "Amplitud de OEAT (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "sessiz",
+      "noktalar": [
+       [
+        1000,
+        12
+       ],
+       [
+        1500,
+        13
+       ],
+       [
+        2000,
+        11.5
+       ],
+       [
+        3000,
+        9.5
+       ],
+       [
+        4000,
+        7.5
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "cumle": 1,
+      "etiket": "sin ruido",
+      "etiket_konum": [
+       1000,
+       12
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -18
+     },
+     {
+      "ad": "gurultulu",
+      "noktalar": [
+       [
+        1000,
+        10.4
+       ],
+       [
+        1500,
+        11.6
+       ],
+       [
+        2000,
+        10.2
+       ],
+       [
+        3000,
+        8.4
+       ],
+       [
+        4000,
+        6.8
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "isaretli": true,
+      "cumle": 1,
+      "etiket": "ruido en el oído opuesto",
+      "etiket_konum": [
+       3000,
+       8.4
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": 28
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "xk": 1500,
+      "y": [
+       13,
+       11.6
+      ],
+      "etiket": "efecto MOC",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "fark",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "El gráfico muestra las amplitudes de las OEAT de un oído de ejemplo por banda de frecuencia; los valores son ilustrativos.",
+    "La línea azul marino es la amplitud sin ruido, y la línea azul discontinua es la amplitud medida con ruido en el oído opuesto.",
+    "La diferencia de alrededor de uno a uno coma cinco decibeles entre las dos líneas refleja el efecto MOC.",
+    "La magnitud de la supresión varía entre personas, por eso se usan las normas propias del laboratorio en lugar de un único valor de corte.",
+    "Para captar este efecto pequeño se prefieren el modo lineal del estímulo clic y un nivel de estímulo moderado."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Su medición en la clínica",
+   "baslik": "*Condiciones* de la prueba",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Primero inmitancia",
+     "metin": "Oído medio y reflejo",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Registro de OEAT",
+     "metin": "Modo lineal",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido contralateral",
+     "metin": "Bajo el umbral del reflejo",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Comparar",
+     "metin": "Repeticiones alternadas",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Algunas condiciones son importantes para una medición confiable.",
+    "Primero se miden la timpanometría y los umbrales del reflejo acústico; el oído medio debe ser normal y las OEA deben poder registrarse.",
+    "Las OEAT se registran en el modo lineal del estímulo clic, a un nivel moderado o bajo.",
+    "El ruido en el oído opuesto se mantiene por debajo del umbral del reflejo acústico; la mayoría de los estudios usa unos sesenta decibeles SPL.",
+    "Esto se debe a que el reflejo estapedial también puede cambiar la emisión; si se activa, la reducción puede confundirse con un efecto MOC.",
+    "Los registros con y sin ruido se toman varias veces en forma alternada, y se calcula la diferencia media de amplitud."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Importancia clínica",
+   "baslik": "¿*Cuándo* se reduce la supresión?",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "TENA",
+     "metin": "OEA presentes, sin supresión",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Nervio, tronco cerebral",
+     "metin": "Lesión en la vía refleja",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Neurectomía vestibular",
+     "metin": "Se seccionan las fibras",
+     "cumle": 3
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Investigación",
+     "metin": "Procesamiento, tinnitus: resultados inconsistentes",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Hoy la supresión contralateral se usa sobre todo en investigación, pero puede ser útil en algunas situaciones clínicas.",
+    "En el trastorno del espectro de la neuropatía auditiva (TENA), la supresión suele estar ausente aunque las OEA estén presentes.",
+    "La supresión también puede estar reducida o ausente con lesiones que afectan el nervio auditivo o la vía refleja del tronco cerebral.",
+    "En su camino a la cóclea, las fibras olivococleares viajan con el nervio vestibular; el efecto puede perderse tras una neurectomía vestibular.",
+    "Se ha descrito una supresión reducida en el trastorno del procesamiento auditivo, el tinnitus y la dificultad para oír en ruido, pero los hallazgos son inconsistentes.",
+    "Por eso, un resultado de supresión por sí solo no establece un diagnóstico; se interpreta junto con otras pruebas."
+   ]
+  },
+  {
+   "id": "ayrim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Importancia clínica",
+   "baslik": "El reflejo MOC y el reflejo *estapedial*",
+   "maddeler": [
+    {
+     "metin": "Ambos son reflejos del _tronco cerebral_",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Estapedial: _oído medio_, sonido intenso",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "MOC: _cóclea_, también a niveles bajos",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Se miden con _inmitancia_ u _OEA_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "akustik_refleks_arki",
+    "cumle": 1,
+    "ayar": {
+     "uyarilan": "sag"
+    },
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 4
+     },
+     {
+      "parca": "stapedius",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "El reflejo MOC no debe confundirse con el reflejo de los músculos del oído medio; ambos son reflejos del tronco cerebral desencadenados por el sonido.",
+    "El reflejo estapedial aumenta la rigidez de la cadena osicular y aparece con sonidos intensos, normalmente de unos setenta a cien decibeles HL.",
+    "El reflejo MOC actúa directamente en la cóclea, sobre las células ciliadas externas, y también se activa a niveles mucho más bajos.",
+    "El reflejo estapedial se mide con la inmitancia, y el efecto MOC, con las OEA.",
+    "Las vías de ambos reflejos pasan cerca del complejo olivar superior en el tronco cerebral, así que una misma lesión puede afectar a ambas."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Cuidado en la clínica",
+   "metin": "Mantener la sala en silencio durante las OEA. El ruido o el habla del paciente pueden activar el sistema eferente y reducir la emisión; en el seguimiento, mantener condiciones constantes.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo de la práctica: una sala silenciosa durante la prueba de OEA importa no solo por el piso de ruido, sino también por el efecto eferente.",
+    "El ruido de la sala y el habla del paciente pueden activar el sistema MOC y bajar un poco la amplitud de la emisión.",
+    "Sobre todo al comparar dos mediciones, por ejemplo en el seguimiento de la ototoxicidad, mantengan las mismas condiciones cada vez.",
+    "Antes de interpretar pequeños cambios de amplitud, asegúrense de que la colocación de la sonda y los ajustes de la prueba sean los mismos."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "MOC: a _células ciliadas externas_, mayormente cruzadas",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "LOC: a las terminaciones _aferentes_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Efecto MOC: la _ganancia coclear disminuye_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Se mide con _supresión contralateral de OEA_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Las fibras olivococleares mediales son gruesas y mielinizadas, mayormente cruzadas, y terminan en las células ciliadas externas.",
+    "Las fibras olivococleares laterales son delgadas y amielínicas; se conectan con las terminaciones aferentes situadas debajo de las células ciliadas internas.",
+    "La actividad MOC hiperpolariza las células ciliadas externas y reduce la ganancia del amplificador coclear.",
+    "Este efecto se mide como la caída de la amplitud de las OEA al presentar ruido al oído opuesto: la supresión contralateral."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Qué fibras refleja la supresión contralateral?",
+   "secenekler": [
+    "Fibras olivococleares mediales",
+    "Fibras olivococleares laterales",
+    "Nervio del músculo estapedio",
+    "Fibras aferentes tipo II"
+   ],
+   "dogru": 0,
+   "aciklama": "Las fibras MOC inhiben las _células ciliadas externas_, por eso disminuye la amplitud de las OEA.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: al presentar ruido al oído opuesto, la caída de la amplitud de las OEA, ¿qué fibras refleja?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: las fibras olivococleares mediales.",
+    "Las fibras MOC reducen la ganancia de las células ciliadas externas; como las OEA provienen de ellas, su amplitud disminuye."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vías *vestibulares* centrales: núcleos, cerebelo y ojos",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos de la audición al equilibrio y veremos las vías vestibulares centrales, los núcleos y el cerebelo.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

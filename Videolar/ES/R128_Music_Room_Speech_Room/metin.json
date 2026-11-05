@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R128_Music_Room_Speech_Room_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #128",
+  "baslik": "La *reverberación* oculta consonantes",
+  "alt": "Una sala ideal para música puede ser mala para el habla",
+  "cizim": "ses_dalgasi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Una sala ideal para la música puede ser mala para el habla? #shorts",
+  "aciklama": "El tiempo de reverberación es lo que tarda el nivel en caer 60 dB después de que el sonido se detiene. En un aula acondicionada se busca alrededor de medio segundo y en una sala de conciertos unos dos segundos; con una reverberación larga, las colas de las vocales enmascaran las consonantes débiles.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "acustica",
+   "aula"
+  ],
+  "etiketler": [
+   "tiempo de reverberación",
+   "RT60",
+   "acústica de salas",
+   "acústica del aula",
+   "sala de conciertos",
+   "comprensión del habla",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Una sala ideal para la música puede ser mala para el habla?",
+  "bilgiler": [
+   "En un aula acondicionada, el tiempo de reverberación es de alrededor de medio segundo.",
+   "Las salas de conciertos buscan unos dos segundos.",
+   "Con reverberación larga, las colas fuertes de las vocales enmascaran consonantes débiles."
+  ],
+  "hashtag": [
+   "audiologia",
+   "acustica",
+   "aula"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #128",
+   "metin": "¿Ideal para la música y *malo para el habla?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Una sala ideal para la música puede ser mala para el habla?"
+   ]
+  },
+  {
+   "id": "rt60",
+   "tur": "zincir",
+   "baslik": "Tiempo de *reverberación*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "0,5 s",
+     "tr": "aula acondicionada",
+     "cumle": 1
+    },
+    {
+     "ad": "2 s",
+     "tr": "sala de conciertos",
+     "cumle": 2
+    },
+    {
+     "ad": "Varios segundos",
+     "tr": "templos grandes",
+     "cumle": 3
+    }
+   ],
+   "alt": "Ideal para la música, _malo para el habla_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Tiempo de reverberación: lo que tarda el sonido en caer sesenta decibeles tras detenerse.",
+    "En un aula acondicionada es de alrededor de medio segundo.",
+    "Las salas de conciertos buscan unos dos segundos, para que la música suene plena.",
+    "En los templos grandes puede llegar a varios segundos.",
+    "Con una reverberación larga, las colas fuertes de las vocales enmascaran las consonantes débiles."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D044",
+ "kaynak_baslik": "Acústica de salas: reverberación y señal-ruido"
+}

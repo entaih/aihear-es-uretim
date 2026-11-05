@@ -1,0 +1,127 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R022_Ling_Six_Sounds_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #22",
+  "baslik": "Los *seis sonidos* de Ling",
+  "alt": "m, u, a, i, sh, s",
+  "cizim": "konusma_muzu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Cómo pueden seis sonidos evaluar todo el rango del habla? #shorts",
+  "aciklama": "La prueba de los seis sonidos de Ling recorre el rango del habla de graves a agudos con los sonidos m, u, a, i, sh y s. Si un niño no detecta el sonido s, su acceso al habla en las frecuencias altas puede estar limitado.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audicion",
+   "habla"
+  ],
+  "etiketler": [
+   "prueba de los seis sonidos de Ling",
+   "sonidos de Ling",
+   "banana del habla",
+   "audiología pediátrica",
+   "control del audífono",
+   "audiología",
+   "audición",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Cómo pueden seis sonidos evaluar todo el rango del habla?",
+  "bilgiler": [
+   "La prueba de los seis sonidos de Ling recorre el habla de graves a agudos.",
+   "Los sonidos: m, u, a, i, sh y s.",
+   "Si un niño no detecta la s, su acceso a los agudos puede estar limitado."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audicion",
+   "habla"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #22",
+   "metin": "¿Cómo pueden seis sonidos *evaluar el rango del habla?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Cómo pueden seis sonidos evaluar todo el rango del habla?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Los *seis sonidos* de Ling",
+   "sayi": "6",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "La prueba de los seis sonidos de Ling recorre el habla de graves a agudos.",
+    {
+     "yazi": "Los sonidos son m, u, a, i, sh y s.",
+     "ses": "Los sonidos son eme, u, a, i, sha y ese."
+    }
+   ]
+  },
+  {
+   "id": "bolge",
+   "tur": "zincir",
+   "baslik": "De graves a *agudos*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "M, u",
+     "cumle": 0,
+     "tr": "graves"
+    },
+    {
+     "ad": "A",
+     "cumle": 0,
+     "gecikme": 1.0,
+     "tr": "medios"
+    },
+    {
+     "ad": "Sh, s",
+     "cumle": 1,
+     "tr": "agudos"
+    }
+   ],
+   "alt": "El _sonido s_ explora la región aguda",
+   "alt_cumle": 2,
+   "cumleler": [
+    {
+     "yazi": "La m y la u representan la región grave; la a, la media.",
+     "ses": "La eme y la u representan la región grave; la a, la media."
+    },
+    {
+     "yazi": "La sh y la s representan la región aguda.",
+     "ses": "La sha y la ese representan la región aguda."
+    },
+    {
+     "yazi": "Si un niño no detecta la s, su acceso a las frecuencias altas puede estar limitado.",
+     "ses": "Si un niño no detecta la ese, su acceso a las frecuencias altas puede estar limitado."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D043",
+ "kaynak_baslik": "La banana del habla: los sonidos en el audiograma"
+}

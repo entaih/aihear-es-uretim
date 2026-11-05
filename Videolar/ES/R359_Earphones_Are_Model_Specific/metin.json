@@ -1,0 +1,106 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R359_Earphones_Are_Model_Specific_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #359",
+  "baslik": "Cada auricular, *su modelo*",
+  "alt": "Valores de calibración y transductor",
+  "cizim": "odyometre",
+  "vurgula": [
+   "kulaklik"
+  ],
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Se puede cambiar el auricular de un audiómetro por otro modelo? #shorts",
+  "aciklama": "Cada transductor se conecta al audiómetro por su propia salida, y el equipo usa valores de calibración distintos para cada uno. Estos valores son específicos del modelo de transductor; si se reemplaza un auricular por otro modelo, los niveles entregados serán incorrectos y hay que volver a calibrar el audiómetro. Incluso una pequeña falla en un transductor puede hacer que todo el audiograma sea engañoso.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "calibracion",
+   "audiometro"
+  ],
+  "etiketler": [
+   "calibración del audiómetro",
+   "transductor",
+   "auriculares",
+   "vibrador óseo",
+   "audiómetro",
+   "control de escucha diario",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Se puede cambiar el auricular de un audiómetro por otro modelo?",
+  "bilgiler": [
+   "Cada transductor tiene sus propios valores de calibración.",
+   "Los valores son del modelo; otro modelo da niveles incorrectos.",
+   "Si cambia el auricular, recalibra el audiómetro."
+  ],
+  "hashtag": [
+   "audiologia",
+   "calibracion",
+   "audiometro"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #359",
+   "metin": "¿Otro *auricular?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Se puede cambiar el auricular de un audiómetro por otro modelo?"
+   ]
+  },
+  {
+   "id": "kalibrasyon",
+   "tur": "zincir",
+   "baslik": "La calibración es *del modelo*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Auricular",
+     "tr": "salida propia",
+     "cumle": 0
+    },
+    {
+     "ad": "Calibración",
+     "tr": "específica del modelo",
+     "cumle": 1
+    },
+    {
+     "ad": "Modelo nuevo",
+     "tr": "recalibrar",
+     "cumle": 2
+    }
+   ],
+   "alt": "Pequeña falla, _audiograma erróneo_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Cada transductor tiene su propia salida y sus propios valores de calibración.",
+    "Estos valores son específicos del modelo de auricular.",
+    "Si conectas otro modelo, los niveles serán incorrectos; recalibra el audiómetro.",
+    "Incluso una pequeña falla del transductor puede hacer que todo el audiograma sea engañoso."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D015",
+ "kaynak_baslik": "Transductores: cómo funcionan micrófonos y altavoces"
+}

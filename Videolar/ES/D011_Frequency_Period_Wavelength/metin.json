@@ -1,0 +1,2054 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D011_Frequency_Period_Wavelength_ES",
+ "kapak": {
+  "ust": "LECCIÓN 11",
+  "baslik": "Frecuencia y<br>*longitud de onda*",
+  "alt": "Hertz, período y longitud de onda",
+  "cizim": "ses_dalgasi",
+  "ayar": {
+   "frekans_hz": 1000,
+   "karsilastir": 250
+  }
+ },
+ "youtube": {
+  "baslik": "Frecuencia, período y longitud de onda | Lección 11 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos la frecuencia, la unidad hertz y el rango de audición humana, la relación T = 1/f entre período y frecuencia, y cómo se calcula la longitud de onda como velocidad dividida entre frecuencia, con ejemplos. También vemos por qué la longitud de onda importa en la sombra de la cabeza, la resonancia del conducto auditivo y las pruebas en campo libre.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Speaks, Introduction to Sound: Acoustics for the Hearing and Speech Sciences; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "fisicadelsonido",
+   "frecuencia"
+  ],
+  "etiketler": [
+   "frecuencia",
+   "hertz",
+   "período",
+   "longitud de onda",
+   "rango de audición",
+   "tono",
+   "octava",
+   "velocidad del sonido",
+   "física del sonido",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 11",
+   "baslik": "Frecuencia, período y *longitud de onda*",
+   "alt": "Hertz, T = 1/f y longitud de onda = velocidad / frecuencia",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprenderemos tres conceptos básicos que describen una onda sonora: la frecuencia, el período y la longitud de onda.",
+    "Veremos el rango de audición humana, las fórmulas simples que relacionan estos conceptos y lo que significan en audiología."
+   ]
+  },
+  {
+   "id": "frekans",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La frecuencia",
+   "baslik": "Frecuencia: ¿*cuántos* ciclos por segundo?",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "periyot",
+     "metin": "Un ciclo",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga",
+     "metin": "Tono de 1000 Hz",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "1 Hz = _1 ciclo por segundo_",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "1 kHz = _1000 Hz_",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La _fuente_ fija la frecuencia",
+     "cumle": 6,
+     "ikon": "diyapazon"
+    }
+   ],
+   "cumleler": [
+    "En la lección anterior vimos que el sonido es una vibración; la frecuencia es cuántas veces se repite esa vibración por segundo.",
+    "Una oscilación completa, formada por una compresión y una rarefacción, se llama ciclo.",
+    "La unidad de frecuencia es el hertz, que se escribe Hz; un hertz significa un ciclo por segundo.",
+    "La unidad lleva el nombre de Hertz, el físico alemán que estudió las ondas electromagnéticas.",
+    "Mil hertz significa mil ciclos por segundo, y también puede escribirse como un kilohertz, o kHz.",
+    "La onda en pantalla es un tono de mil hertz; completa cada ciclo en una milésima de segundo.",
+    "La frecuencia la fija la vibración de la fuente; no cambia aunque el sonido pase a otro medio."
+   ]
+  },
+  {
+   "id": "perde",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La frecuencia",
+   "baslik": "El tono: *graves y agudos*",
+   "maddeler": [
+    {
+     "metin": "Frecuencia baja: sonido _grave_",
+     "cumle": 1,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Frecuencia alta: sonido _agudo_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "El tono es una _percepción_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Doble de frecuencia: _una octava_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ses_dalgasi",
+    "cumle": 1,
+    "ayar": {
+     "frekans_hz": 1000,
+     "karsilastir": 250
+    },
+    "etiketler": [
+     {
+      "parca": "dalga",
+      "metin": "Agudo: 1000 Hz",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "La frecuencia está muy relacionada con que oigamos un sonido como grave o agudo.",
+    "Los sonidos de baja frecuencia se oyen graves y los de alta frecuencia, agudos; piensen en un tambor y en el canto de un pájaro.",
+    "Esta cualidad percibida se llama tono; la frecuencia es una medida física, mientras que el tono es una percepción.",
+    "El tono sube con la frecuencia, pero la relación entre ambos no es lineal.",
+    "Cuando la frecuencia se duplica, el tono sube una octava; es la distancia entre dos notas vecinas del mismo nombre en un piano.",
+    {
+     "yazi": "Las frecuencias del audiograma también están separadas por una octava: 250, 500, 1000, 2000, 4000 y 8000 hertz."
+    }
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La frecuencia",
+   "baslik": "El *rango de audición* humana",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 10,
+     "max": 100000,
+     "log": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      20,
+      250,
+      1000,
+      8000,
+      20000
+     ],
+     "yazilar": {
+      "20": "20",
+      "250": "250",
+      "1000": "1k",
+      "8000": "8k",
+      "20000": "20k",
+      "20": "20",
+      "250": "250",
+      "1000": "1k",
+      "8000": "8k",
+      "20000": "20k"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 4,
+     "isaretler": [],
+     "ad": " "
+    },
+    "bolgeler": [
+     {
+      "ad": "infrases",
+      "x": [
+       10,
+       20
+      ],
+      "renk": "gri",
+      "etiket": "infrasonido",
+      "cumle": 1
+     },
+     {
+      "ad": "ultrases",
+      "x": [
+       20000,
+       100000
+      ],
+      "renk": "gri",
+      "etiket": "ultrasonido",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "isitilebilir",
+      "x": [
+       20,
+       20000
+      ],
+      "y": 3,
+      "etiket": "oído joven: 20 Hz a 20 kHz",
+      "renk": "mavi",
+      "cumle": 0
+     },
+     {
+      "ad": "konusma",
+      "x": [
+       250,
+       8000
+      ],
+      "y": 2,
+      "etiket": "habla",
+      "renk": "yesil",
+      "cumle": 4
+     },
+     {
+      "ad": "odyogram",
+      "x": [
+       250,
+       8000
+      ],
+      "y": 1,
+      "etiket": "audiograma: 250 a 8000 Hz",
+      "renk": "sari",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Un oído humano joven y sano puede oír sonidos de unos veinte a veinte mil hertz.",
+    "Los sonidos por debajo de veinte hertz se llaman infrasonidos; los elefantes, por ejemplo, pueden comunicarse con sonidos en este rango.",
+    "Los sonidos por encima de veinte mil hertz se llaman ultrasonidos; los perros y los murciélagos pueden oír parte de este rango.",
+    "El límite superior baja claramente con la edad; los veinte mil hertz valen sobre todo para niños y jóvenes.",
+    "La mayor parte de la energía de los sonidos del habla está entre unos doscientos cincuenta y ocho mil hertz.",
+    "La audiometría tonal también suele evaluar de doscientos cincuenta a ocho mil hertz, y agrega ciento veinticinco hertz si hace falta.",
+    "La audiometría de alta frecuencia extendida, que evalúa por encima de ocho mil hertz, se usa en casos como el monitoreo de la ototoxicidad."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 1",
+   "bolum": "La frecuencia",
+   "baslik": "El *eje de frecuencia* del audiograma",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "De izquierda a derecha: _de grave a agudo_",
+     "cumle": 0
+    },
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Cada paso: _una octava_",
+     "cumle": 1
+    },
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Pérdida: alrededor de _4000 Hz_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       20,
+       45,
+       40
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "El eje horizontal del audiograma es la frecuencia, que va de graves a agudos, de izquierda a derecha.",
+    "Cada marca es el doble de la anterior; así, los pasos son octavas y el eje se dibuja en escala logarítmica.",
+    "En este ejemplo, los umbrales son normales hasta dos mil hertz, pero caen en cuatro mil hertz; la pérdida está en los agudos.",
+    "Cuando hace falta, también se evalúan frecuencias interoctava, como tres mil y seis mil hertz.",
+    "Conocer la frecuencia nos ayuda a entender qué sonidos se oyen y cuáles se pierden."
+   ]
+  },
+  {
+   "id": "periyot",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "El período",
+   "baslik": "Período: *T = 1 / f*",
+   "sutunlar": [
+    "Frecuencia",
+    "Período"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "100 Hz",
+      "10 ms"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "250 Hz",
+      "4 ms"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "2 ms"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "1 ms"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "0,25 ms"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "8000 Hz",
+      "0,125 ms"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El período es el tiempo que tarda en completarse un ciclo, y se representa con la letra T.",
+    "El período y la frecuencia son inversos entre sí: el período es igual a uno dividido entre la frecuencia.",
+    "El período de un tono de mil hertz es una milésima de segundo, es decir, un milisegundo.",
+    "Cuando la frecuencia baja, el período se alarga: cuatro milisegundos en doscientos cincuenta hertz y diez en cien hertz.",
+    "Cuando la frecuencia sube, el período se acorta: en cuatro mil hertz, el período es solo un cuarto de milisegundo.",
+    "También podemos calcular al revés: un sonido con un período de dos milisegundos tiene una frecuencia de uno entre dos milisegundos, es decir, quinientos hertz.",
+    "Estos tiempos en milisegundos serán importantes en próximas lecciones, para entender cómo el nervio auditivo codifica el tiempo del sonido."
+   ]
+  },
+  {
+   "id": "iki_ton",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El período",
+   "baslik": "*Comparar* dos tonos",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 8,
+     "adim": 1,
+     "ad": "Tiempo (ms)"
+    },
+    "y": {
+     "min": -1.4,
+     "max": 1.4,
+     "isaretler": [
+      -1,
+      0,
+      1
+     ],
+     "ad": "Presión (relativa)"
+    },
+    "seriler": [
+     {
+      "ad": "ton_250",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.05,
+        0.0785
+       ],
+       [
+        0.1,
+        0.1564
+       ],
+       [
+        0.15,
+        0.2334
+       ],
+       [
+        0.2,
+        0.309
+       ],
+       [
+        0.25,
+        0.3827
+       ],
+       [
+        0.3,
+        0.454
+       ],
+       [
+        0.35,
+        0.5225
+       ],
+       [
+        0.4,
+        0.5878
+       ],
+       [
+        0.45,
+        0.6494
+       ],
+       [
+        0.5,
+        0.7071
+       ],
+       [
+        0.55,
+        0.7604
+       ],
+       [
+        0.6,
+        0.809
+       ],
+       [
+        0.65,
+        0.8526
+       ],
+       [
+        0.7,
+        0.891
+       ],
+       [
+        0.75,
+        0.9239
+       ],
+       [
+        0.8,
+        0.9511
+       ],
+       [
+        0.85,
+        0.9724
+       ],
+       [
+        0.9,
+        0.9877
+       ],
+       [
+        0.95,
+        0.9969
+       ],
+       [
+        1.0,
+        1.0
+       ],
+       [
+        1.05,
+        0.9969
+       ],
+       [
+        1.1,
+        0.9877
+       ],
+       [
+        1.15,
+        0.9724
+       ],
+       [
+        1.2,
+        0.9511
+       ],
+       [
+        1.25,
+        0.9239
+       ],
+       [
+        1.3,
+        0.891
+       ],
+       [
+        1.35,
+        0.8526
+       ],
+       [
+        1.4,
+        0.809
+       ],
+       [
+        1.45,
+        0.7604
+       ],
+       [
+        1.5,
+        0.7071
+       ],
+       [
+        1.55,
+        0.6494
+       ],
+       [
+        1.6,
+        0.5878
+       ],
+       [
+        1.65,
+        0.5225
+       ],
+       [
+        1.7,
+        0.454
+       ],
+       [
+        1.75,
+        0.3827
+       ],
+       [
+        1.8,
+        0.309
+       ],
+       [
+        1.85,
+        0.2334
+       ],
+       [
+        1.9,
+        0.1564
+       ],
+       [
+        1.95,
+        0.0785
+       ],
+       [
+        2.0,
+        0.0
+       ],
+       [
+        2.05,
+        -0.0785
+       ],
+       [
+        2.1,
+        -0.1564
+       ],
+       [
+        2.15,
+        -0.2334
+       ],
+       [
+        2.2,
+        -0.309
+       ],
+       [
+        2.25,
+        -0.3827
+       ],
+       [
+        2.3,
+        -0.454
+       ],
+       [
+        2.35,
+        -0.5225
+       ],
+       [
+        2.4,
+        -0.5878
+       ],
+       [
+        2.45,
+        -0.6494
+       ],
+       [
+        2.5,
+        -0.7071
+       ],
+       [
+        2.55,
+        -0.7604
+       ],
+       [
+        2.6,
+        -0.809
+       ],
+       [
+        2.65,
+        -0.8526
+       ],
+       [
+        2.7,
+        -0.891
+       ],
+       [
+        2.75,
+        -0.9239
+       ],
+       [
+        2.8,
+        -0.9511
+       ],
+       [
+        2.85,
+        -0.9724
+       ],
+       [
+        2.9,
+        -0.9877
+       ],
+       [
+        2.95,
+        -0.9969
+       ],
+       [
+        3.0,
+        -1.0
+       ],
+       [
+        3.05,
+        -0.9969
+       ],
+       [
+        3.1,
+        -0.9877
+       ],
+       [
+        3.15,
+        -0.9724
+       ],
+       [
+        3.2,
+        -0.9511
+       ],
+       [
+        3.25,
+        -0.9239
+       ],
+       [
+        3.3,
+        -0.891
+       ],
+       [
+        3.35,
+        -0.8526
+       ],
+       [
+        3.4,
+        -0.809
+       ],
+       [
+        3.45,
+        -0.7604
+       ],
+       [
+        3.5,
+        -0.7071
+       ],
+       [
+        3.55,
+        -0.6494
+       ],
+       [
+        3.6,
+        -0.5878
+       ],
+       [
+        3.65,
+        -0.5225
+       ],
+       [
+        3.7,
+        -0.454
+       ],
+       [
+        3.75,
+        -0.3827
+       ],
+       [
+        3.8,
+        -0.309
+       ],
+       [
+        3.85,
+        -0.2334
+       ],
+       [
+        3.9,
+        -0.1564
+       ],
+       [
+        3.95,
+        -0.0785
+       ],
+       [
+        4.0,
+        -0.0
+       ],
+       [
+        4.05,
+        0.0785
+       ],
+       [
+        4.1,
+        0.1564
+       ],
+       [
+        4.15,
+        0.2334
+       ],
+       [
+        4.2,
+        0.309
+       ],
+       [
+        4.25,
+        0.3827
+       ],
+       [
+        4.3,
+        0.454
+       ],
+       [
+        4.35,
+        0.5225
+       ],
+       [
+        4.4,
+        0.5878
+       ],
+       [
+        4.45,
+        0.6494
+       ],
+       [
+        4.5,
+        0.7071
+       ],
+       [
+        4.55,
+        0.7604
+       ],
+       [
+        4.6,
+        0.809
+       ],
+       [
+        4.65,
+        0.8526
+       ],
+       [
+        4.7,
+        0.891
+       ],
+       [
+        4.75,
+        0.9239
+       ],
+       [
+        4.8,
+        0.9511
+       ],
+       [
+        4.85,
+        0.9724
+       ],
+       [
+        4.9,
+        0.9877
+       ],
+       [
+        4.95,
+        0.9969
+       ],
+       [
+        5.0,
+        1.0
+       ],
+       [
+        5.05,
+        0.9969
+       ],
+       [
+        5.1,
+        0.9877
+       ],
+       [
+        5.15,
+        0.9724
+       ],
+       [
+        5.2,
+        0.9511
+       ],
+       [
+        5.25,
+        0.9239
+       ],
+       [
+        5.3,
+        0.891
+       ],
+       [
+        5.35,
+        0.8526
+       ],
+       [
+        5.4,
+        0.809
+       ],
+       [
+        5.45,
+        0.7604
+       ],
+       [
+        5.5,
+        0.7071
+       ],
+       [
+        5.55,
+        0.6494
+       ],
+       [
+        5.6,
+        0.5878
+       ],
+       [
+        5.65,
+        0.5225
+       ],
+       [
+        5.7,
+        0.454
+       ],
+       [
+        5.75,
+        0.3827
+       ],
+       [
+        5.8,
+        0.309
+       ],
+       [
+        5.85,
+        0.2334
+       ],
+       [
+        5.9,
+        0.1564
+       ],
+       [
+        5.95,
+        0.0785
+       ],
+       [
+        6.0,
+        0.0
+       ],
+       [
+        6.05,
+        -0.0785
+       ],
+       [
+        6.1,
+        -0.1564
+       ],
+       [
+        6.15,
+        -0.2334
+       ],
+       [
+        6.2,
+        -0.309
+       ],
+       [
+        6.25,
+        -0.3827
+       ],
+       [
+        6.3,
+        -0.454
+       ],
+       [
+        6.35,
+        -0.5225
+       ],
+       [
+        6.4,
+        -0.5878
+       ],
+       [
+        6.45,
+        -0.6494
+       ],
+       [
+        6.5,
+        -0.7071
+       ],
+       [
+        6.55,
+        -0.7604
+       ],
+       [
+        6.6,
+        -0.809
+       ],
+       [
+        6.65,
+        -0.8526
+       ],
+       [
+        6.7,
+        -0.891
+       ],
+       [
+        6.75,
+        -0.9239
+       ],
+       [
+        6.8,
+        -0.9511
+       ],
+       [
+        6.85,
+        -0.9724
+       ],
+       [
+        6.9,
+        -0.9877
+       ],
+       [
+        6.95,
+        -0.9969
+       ],
+       [
+        7.0,
+        -1.0
+       ],
+       [
+        7.05,
+        -0.9969
+       ],
+       [
+        7.1,
+        -0.9877
+       ],
+       [
+        7.15,
+        -0.9724
+       ],
+       [
+        7.2,
+        -0.9511
+       ],
+       [
+        7.25,
+        -0.9239
+       ],
+       [
+        7.3,
+        -0.891
+       ],
+       [
+        7.35,
+        -0.8526
+       ],
+       [
+        7.4,
+        -0.809
+       ],
+       [
+        7.45,
+        -0.7604
+       ],
+       [
+        7.5,
+        -0.7071
+       ],
+       [
+        7.55,
+        -0.6494
+       ],
+       [
+        7.6,
+        -0.5878
+       ],
+       [
+        7.65,
+        -0.5225
+       ],
+       [
+        7.7,
+        -0.454
+       ],
+       [
+        7.75,
+        -0.3827
+       ],
+       [
+        7.8,
+        -0.309
+       ],
+       [
+        7.85,
+        -0.2334
+       ],
+       [
+        7.9,
+        -0.1564
+       ],
+       [
+        7.95,
+        -0.0785
+       ],
+       [
+        8.0,
+        -0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "cumle": 1
+     },
+     {
+      "ad": "ton_500",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.05,
+        0.1564
+       ],
+       [
+        0.1,
+        0.309
+       ],
+       [
+        0.15,
+        0.454
+       ],
+       [
+        0.2,
+        0.5878
+       ],
+       [
+        0.25,
+        0.7071
+       ],
+       [
+        0.3,
+        0.809
+       ],
+       [
+        0.35,
+        0.891
+       ],
+       [
+        0.4,
+        0.9511
+       ],
+       [
+        0.45,
+        0.9877
+       ],
+       [
+        0.5,
+        1.0
+       ],
+       [
+        0.55,
+        0.9877
+       ],
+       [
+        0.6,
+        0.9511
+       ],
+       [
+        0.65,
+        0.891
+       ],
+       [
+        0.7,
+        0.809
+       ],
+       [
+        0.75,
+        0.7071
+       ],
+       [
+        0.8,
+        0.5878
+       ],
+       [
+        0.85,
+        0.454
+       ],
+       [
+        0.9,
+        0.309
+       ],
+       [
+        0.95,
+        0.1564
+       ],
+       [
+        1.0,
+        0.0
+       ],
+       [
+        1.05,
+        -0.1564
+       ],
+       [
+        1.1,
+        -0.309
+       ],
+       [
+        1.15,
+        -0.454
+       ],
+       [
+        1.2,
+        -0.5878
+       ],
+       [
+        1.25,
+        -0.7071
+       ],
+       [
+        1.3,
+        -0.809
+       ],
+       [
+        1.35,
+        -0.891
+       ],
+       [
+        1.4,
+        -0.9511
+       ],
+       [
+        1.45,
+        -0.9877
+       ],
+       [
+        1.5,
+        -1.0
+       ],
+       [
+        1.55,
+        -0.9877
+       ],
+       [
+        1.6,
+        -0.9511
+       ],
+       [
+        1.65,
+        -0.891
+       ],
+       [
+        1.7,
+        -0.809
+       ],
+       [
+        1.75,
+        -0.7071
+       ],
+       [
+        1.8,
+        -0.5878
+       ],
+       [
+        1.85,
+        -0.454
+       ],
+       [
+        1.9,
+        -0.309
+       ],
+       [
+        1.95,
+        -0.1564
+       ],
+       [
+        2.0,
+        -0.0
+       ],
+       [
+        2.05,
+        0.1564
+       ],
+       [
+        2.1,
+        0.309
+       ],
+       [
+        2.15,
+        0.454
+       ],
+       [
+        2.2,
+        0.5878
+       ],
+       [
+        2.25,
+        0.7071
+       ],
+       [
+        2.3,
+        0.809
+       ],
+       [
+        2.35,
+        0.891
+       ],
+       [
+        2.4,
+        0.9511
+       ],
+       [
+        2.45,
+        0.9877
+       ],
+       [
+        2.5,
+        1.0
+       ],
+       [
+        2.55,
+        0.9877
+       ],
+       [
+        2.6,
+        0.9511
+       ],
+       [
+        2.65,
+        0.891
+       ],
+       [
+        2.7,
+        0.809
+       ],
+       [
+        2.75,
+        0.7071
+       ],
+       [
+        2.8,
+        0.5878
+       ],
+       [
+        2.85,
+        0.454
+       ],
+       [
+        2.9,
+        0.309
+       ],
+       [
+        2.95,
+        0.1564
+       ],
+       [
+        3.0,
+        0.0
+       ],
+       [
+        3.05,
+        -0.1564
+       ],
+       [
+        3.1,
+        -0.309
+       ],
+       [
+        3.15,
+        -0.454
+       ],
+       [
+        3.2,
+        -0.5878
+       ],
+       [
+        3.25,
+        -0.7071
+       ],
+       [
+        3.3,
+        -0.809
+       ],
+       [
+        3.35,
+        -0.891
+       ],
+       [
+        3.4,
+        -0.9511
+       ],
+       [
+        3.45,
+        -0.9877
+       ],
+       [
+        3.5,
+        -1.0
+       ],
+       [
+        3.55,
+        -0.9877
+       ],
+       [
+        3.6,
+        -0.9511
+       ],
+       [
+        3.65,
+        -0.891
+       ],
+       [
+        3.7,
+        -0.809
+       ],
+       [
+        3.75,
+        -0.7071
+       ],
+       [
+        3.8,
+        -0.5878
+       ],
+       [
+        3.85,
+        -0.454
+       ],
+       [
+        3.9,
+        -0.309
+       ],
+       [
+        3.95,
+        -0.1564
+       ],
+       [
+        4.0,
+        -0.0
+       ],
+       [
+        4.05,
+        0.1564
+       ],
+       [
+        4.1,
+        0.309
+       ],
+       [
+        4.15,
+        0.454
+       ],
+       [
+        4.2,
+        0.5878
+       ],
+       [
+        4.25,
+        0.7071
+       ],
+       [
+        4.3,
+        0.809
+       ],
+       [
+        4.35,
+        0.891
+       ],
+       [
+        4.4,
+        0.9511
+       ],
+       [
+        4.45,
+        0.9877
+       ],
+       [
+        4.5,
+        1.0
+       ],
+       [
+        4.55,
+        0.9877
+       ],
+       [
+        4.6,
+        0.9511
+       ],
+       [
+        4.65,
+        0.891
+       ],
+       [
+        4.7,
+        0.809
+       ],
+       [
+        4.75,
+        0.7071
+       ],
+       [
+        4.8,
+        0.5878
+       ],
+       [
+        4.85,
+        0.454
+       ],
+       [
+        4.9,
+        0.309
+       ],
+       [
+        4.95,
+        0.1564
+       ],
+       [
+        5.0,
+        0.0
+       ],
+       [
+        5.05,
+        -0.1564
+       ],
+       [
+        5.1,
+        -0.309
+       ],
+       [
+        5.15,
+        -0.454
+       ],
+       [
+        5.2,
+        -0.5878
+       ],
+       [
+        5.25,
+        -0.7071
+       ],
+       [
+        5.3,
+        -0.809
+       ],
+       [
+        5.35,
+        -0.891
+       ],
+       [
+        5.4,
+        -0.9511
+       ],
+       [
+        5.45,
+        -0.9877
+       ],
+       [
+        5.5,
+        -1.0
+       ],
+       [
+        5.55,
+        -0.9877
+       ],
+       [
+        5.6,
+        -0.9511
+       ],
+       [
+        5.65,
+        -0.891
+       ],
+       [
+        5.7,
+        -0.809
+       ],
+       [
+        5.75,
+        -0.7071
+       ],
+       [
+        5.8,
+        -0.5878
+       ],
+       [
+        5.85,
+        -0.454
+       ],
+       [
+        5.9,
+        -0.309
+       ],
+       [
+        5.95,
+        -0.1564
+       ],
+       [
+        6.0,
+        -0.0
+       ],
+       [
+        6.05,
+        0.1564
+       ],
+       [
+        6.1,
+        0.309
+       ],
+       [
+        6.15,
+        0.454
+       ],
+       [
+        6.2,
+        0.5878
+       ],
+       [
+        6.25,
+        0.7071
+       ],
+       [
+        6.3,
+        0.809
+       ],
+       [
+        6.35,
+        0.891
+       ],
+       [
+        6.4,
+        0.9511
+       ],
+       [
+        6.45,
+        0.9877
+       ],
+       [
+        6.5,
+        1.0
+       ],
+       [
+        6.55,
+        0.9877
+       ],
+       [
+        6.6,
+        0.9511
+       ],
+       [
+        6.65,
+        0.891
+       ],
+       [
+        6.7,
+        0.809
+       ],
+       [
+        6.75,
+        0.7071
+       ],
+       [
+        6.8,
+        0.5878
+       ],
+       [
+        6.85,
+        0.454
+       ],
+       [
+        6.9,
+        0.309
+       ],
+       [
+        6.95,
+        0.1564
+       ],
+       [
+        7.0,
+        0.0
+       ],
+       [
+        7.05,
+        -0.1564
+       ],
+       [
+        7.1,
+        -0.309
+       ],
+       [
+        7.15,
+        -0.454
+       ],
+       [
+        7.2,
+        -0.5878
+       ],
+       [
+        7.25,
+        -0.7071
+       ],
+       [
+        7.3,
+        -0.809
+       ],
+       [
+        7.35,
+        -0.891
+       ],
+       [
+        7.4,
+        -0.9511
+       ],
+       [
+        7.45,
+        -0.9877
+       ],
+       [
+        7.5,
+        -1.0
+       ],
+       [
+        7.55,
+        -0.9877
+       ],
+       [
+        7.6,
+        -0.9511
+       ],
+       [
+        7.65,
+        -0.891
+       ],
+       [
+        7.7,
+        -0.809
+       ],
+       [
+        7.75,
+        -0.7071
+       ],
+       [
+        7.8,
+        -0.5878
+       ],
+       [
+        7.85,
+        -0.454
+       ],
+       [
+        7.9,
+        -0.309
+       ],
+       [
+        7.95,
+        -0.1564
+       ],
+       [
+        8.0,
+        -0.0
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "periyot_250",
+      "x": [
+       0,
+       4
+      ],
+      "y": 1.25,
+      "etiket": "250 Hz: 4 ms",
+      "renk": "mavi",
+      "cumle": 1
+     },
+     {
+      "ad": "periyot_500",
+      "x": [
+       0,
+       2
+      ],
+      "y": -1.25,
+      "etiket": "500 Hz: 2 ms",
+      "renk": "lacivert",
+      "etiket_alt": true,
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "En pantalla ven dos tonos durante el mismo intervalo de tiempo.",
+    "La onda azul es de doscientos cincuenta hertz; completa dos ciclos en ocho milisegundos, y cada ciclo dura cuatro milisegundos.",
+    "La onda azul marino es de quinientos hertz; completa cuatro ciclos en el mismo tiempo, y cada ciclo dura dos milisegundos.",
+    "Cuando la frecuencia se duplica, el período se reduce a la mitad; esta relación se cumple en todas las frecuencias.",
+    "Los dos tonos tienen la misma amplitud; la única diferencia entre ellos es la rapidez con que oscilan."
+   ]
+  },
+  {
+   "id": "dalga_boyu",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "La longitud de onda",
+   "baslik": "Longitud de onda: *velocidad / frecuencia*",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_boyu",
+     "metin": "Longitud de onda",
+     "cumle": 0
+    },
+    {
+     "parca": "periyot",
+     "metin": "Período",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_boyu",
+     "cumle": 0
+    },
+    {
+     "parca": "periyot",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Longitud de onda = _velocidad / frecuencia_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "1000 Hz en el aire: _unos 34 cm_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "La longitud de onda es la distancia entre una compresión y la siguiente.",
+    "La longitud de onda se obtiene dividiendo la velocidad del sonido entre la frecuencia.",
+    "En el aire, un tono de mil hertz tiene una longitud de onda de trescientos cuarenta y tres entre mil, es decir, unos treinta y cuatro centímetros.",
+    "Los sonidos agudos tienen longitudes de onda cortas, y los graves, longitudes de onda largas.",
+    "La longitud de onda es la distancia que recorre el sonido en un período; por eso es igual a la velocidad por el período.",
+    "En el dibujo, el mismo tramo muestra el período en el eje del tiempo, abajo, y la longitud de onda en la fila de moléculas, arriba."
+   ]
+  },
+  {
+   "id": "dalga_tablo",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "La longitud de onda",
+   "baslik": "*Longitudes de onda* en el aire",
+   "sutunlar": [
+    "Frecuencia",
+    "Longitud de onda"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "20 Hz",
+      "unos 17 m"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "250 Hz",
+      "1,4 m"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "69 cm"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "34 cm"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "8,6 cm"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "8000 Hz",
+      "4,3 cm"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "20 000 Hz",
+      "1,7 cm"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La tabla muestra las longitudes de onda de algunas frecuencias en el aire a veinte grados.",
+    "Un sonido de veinte hertz, en el límite inferior de la audición, tiene una longitud de onda de unos diecisiete metros, la altura de un edificio.",
+    "En doscientos cincuenta hertz, la longitud de onda es de cerca de uno coma cuatro metros, y en quinientos hertz, de unos setenta centímetros.",
+    "En mil hertz es de unos treinta y cuatro centímetros, y en cuatro mil hertz, de unos nueve centímetros.",
+    "En ocho mil hertz, la longitud de onda baja a unos cuatro centímetros.",
+    "Un sonido de veinte mil hertz, en el límite superior, tiene una longitud de onda de cerca de uno coma siete centímetros, el ancho de un dedo.",
+    "Así, las longitudes de onda de los sonidos audibles van de unos pocos centímetros a decenas de metros."
+   ]
+  },
+  {
+   "id": "onem",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "La longitud de onda",
+   "baslik": "¿Por qué *importa* la longitud de onda?",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Difracción",
+     "cumle": 1,
+     "metin": "Los graves rodean los obstáculos"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Sombra de la cabeza",
+     "cumle": 2,
+     "metin": "Los agudos se bloquean"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Conducto auditivo",
+     "cumle": 3,
+     "metin": "Resonancia de cuarto de onda"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Onda estacionaria",
+     "cumle": 5,
+     "metin": "Reflexiones en una sala"
+    }
+   ],
+   "cumleler": [
+    "La longitud de onda determina cómo interactúa el sonido con los obstáculos y con nuestro cuerpo.",
+    "Los sonidos graves, con longitudes de onda mucho mayores que un obstáculo, lo rodean con facilidad; esto se llama difracción.",
+    "Los agudos, con longitudes de onda menores que el ancho de la cabeza, son bloqueados por ella y crean una sombra sonora del otro lado.",
+    "El conducto auditivo es como un tubo cerrado en un extremo, y resuena con los sonidos cuyo cuarto de longitud de onda iguala su largo.",
+    "Por eso, en los oídos reales, el conducto auditivo refuerza de forma natural los sonidos de unos dos mil quinientos a tres mil hertz.",
+    "Los sonidos que se reflejan entre las paredes también pueden crear ondas estacionarias en ciertas frecuencias."
+   ]
+  },
+  {
+   "id": "ortam",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Medio y frecuencia",
+   "baslik": "¿Qué cambia *con el medio?*",
+   "maddeler": [
+    {
+     "metin": "La frecuencia _no cambia_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Cambian la velocidad y la _longitud de onda_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "1000 Hz en el agua: unos _1,5 m_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "En el oído, la frecuencia _se conserva_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TONO DE 1000 Hz",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "En el aire",
+      "cumle": 2,
+      "metin": "Longitud de onda 34 cm"
+     },
+     {
+      "ikon": "akinti",
+      "baslik": "En el agua",
+      "cumle": 2,
+      "metin": "Longitud de onda 1,5 m"
+     }
+    ]
+   },
+   "cumleler": [
+    "Cuando el sonido pasa de un medio a otro, su frecuencia no cambia, porque la fija la fuente.",
+    "Lo que cambia es la velocidad del sonido y, con ella, la longitud de onda.",
+    "En el agua el sonido es unas cuatro veces más rápido, así que la longitud de onda de un tono de mil hertz se alarga a cerca de metro y medio.",
+    "Cuando cambia la temperatura del aire, la velocidad y la longitud de onda también cambian un poco, mientras la frecuencia se mantiene.",
+    "En el oído, la vibración pasa del aire a los huesecillos y al líquido, pero su frecuencia se conserva; la cóclea responde a esa frecuencia."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Con altavoz, usar un tono modulado en frecuencia o ruido de banda estrecha, no un tono puro: este forma ondas estacionarias y un leve movimiento de cabeza cambia el nivel.",
+   "cumleler": [
+    "Un consejo para las pruebas en campo libre: presenten por el altavoz un tono modulado en frecuencia o ruido de banda estrecha, no un tono puro.",
+    "Un tono puro puede reflejarse en las paredes de la sala y formar ondas estacionarias.",
+    "Entonces, aunque la cabeza del paciente se mueva solo unos centímetros, el nivel que llega al oído puede cambiar claramente.",
+    "Un tono cuya frecuencia oscila levemente reduce este efecto y da umbrales más confiables."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Frecuencia: ciclos por segundo, _hertz_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Rango de audición: _20 Hz a 20 kHz_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Período: _1 / frecuencia_",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Longitud de onda: _velocidad / frecuencia_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "La frecuencia es el número de ciclos por segundo y se mide en hertz; se relaciona con la percepción del tono.",
+    "Un oído humano joven oye de unos veinte a veinte mil hertz; la audiometría evalúa de doscientos cincuenta a ocho mil hertz.",
+    "El período es la duración de un ciclo y el inverso de la frecuencia: un milisegundo en mil hertz.",
+    "La longitud de onda es la velocidad del sonido dividida entre la frecuencia: unos treinta y cuatro centímetros en mil hertz en el aire."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "En el aire, ¿cuál es la longitud de onda de un tono de 1000 Hz?",
+   "secenekler": [
+    "3,4 cm",
+    "34 cm",
+    "3,4 m",
+    "34 m"
+   ],
+   "dogru": 1,
+   "aciklama": "Longitud de onda = velocidad / frecuencia: _343 / 1000 = 0,34 m_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en el aire a veinte grados, ¿cuál es la longitud de onda aproximada de un tono de mil hertz?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: unos treinta y cuatro centímetros.",
+    "La longitud de onda es la velocidad dividida entre la frecuencia: trescientos cuarenta y tres metros por segundo entre mil hertz."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Amplitud, presión sonora e *intensidad*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección hablaremos de la fuerza del sonido: la amplitud, la presión sonora, la intensidad y la ley del cuadrado inverso.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

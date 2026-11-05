@@ -1,0 +1,106 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R434_Child_Who_Cannot_Use_Direction_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #434",
+  "baslik": "Aprovechar la *dirección*",
+  "alt": "Procesamiento espacial",
+  "cizim": "bas_ustten",
+  "ayar": {
+   "mod": "golge"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Todo niño entiende mejor cuando la conversación de fondo viene de un lado? #shorts",
+  "aciklama": "En la prueba Listening in Spatialized Noise-Sentences (LiSN-S), el niño repite oraciones objetivo que llegan de frente mientras dos personas cuentan historias sin parar; la mejora del umbral cuando las historias llegan de los lados da la ventaja espacial. Un niño con ventaja del hablante normal pero con ventaja espacial baja quizá no aprovecha lo suficiente la diferencia de dirección; este patrón se considera típico del trastorno del procesamiento espacial, y el audiograma suele ser normal.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "procesamientoauditivo",
+   "pediatria"
+  ],
+  "etiketler": [
+   "trastorno del procesamiento espacial",
+   "LiSN-S",
+   "ventaja espacial",
+   "enmascaramiento informacional",
+   "procesamiento auditivo",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Todo niño entiende mejor cuando la conversación de fondo viene de un lado?",
+  "bilgiler": [
+   "Cuando las historias vienen de los lados, el umbral suele mejorar claramente.",
+   "En algunos niños, esta ventaja espacial es muy pequeña.",
+   "Este patrón es típico del trastorno del procesamiento espacial."
+  ],
+  "hashtag": [
+   "audiologia",
+   "procesamientoauditivo",
+   "pediatria"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #434",
+   "metin": "¿Todo *niño?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Todo niño entiende mejor cuando la conversación de fondo viene de un lado?"
+   ]
+  },
+  {
+   "id": "lisn",
+   "tur": "zincir",
+   "baslik": "Ventaja *espacial*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "De frente",
+     "tr": "condición más difícil",
+     "cumle": 1
+    },
+    {
+     "ad": "De los lados",
+     "tr": "el umbral mejora",
+     "cumle": 2
+    },
+    {
+     "ad": "Algunos niños",
+     "tr": "poca ganancia",
+     "cumle": 3
+    }
+   ],
+   "alt": "Audiograma _normal_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "El niño repite oraciones que llegan de frente; otras dos voces cuentan historias.",
+    "Misma voz, historias de frente: la tarea es más difícil.",
+    "Cuando las historias llegan de los lados, el umbral suele mejorar claramente.",
+    "En algunos niños esta ganancia es muy pequeña; sus audiogramas son normales.",
+    "Este patrón se considera típico del trastorno del procesamiento espacial."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D254",
+ "kaynak_baslik": "Procesamiento binaural y espacial: LiSN-S y MLD"
+}

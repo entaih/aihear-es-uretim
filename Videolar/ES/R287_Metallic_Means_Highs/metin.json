@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R287_Metallic_Means_Highs_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #287",
+  "baslik": "Metálico significa *agudos*",
+  "alt": "Ajuste fino según las quejas",
+  "cizim": "rem_duzenegi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Si el usuario dice que el sonido es metálico, ¿dónde buscas? #shorts",
+  "aciklama": "Las quejas del usuario pueden relacionarse, de forma aproximada, con regiones de frecuencia: el sonido apagado, el eco y las quejas sobre la propia voz suelen involucrar los graves, mientras que los sonidos metálicos y estridentes suelen apuntar por encima de 2000 Hz. Pero la misma palabra puede significar cosas distintas para cada persona; el mapa es un punto de partida, y las decisiones se toman con la medición y con la persona.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audifonos",
+   "ajustefino"
+  ],
+  "etiketler": [
+   "ajuste fino",
+   "solución de problemas",
+   "quejas del paciente",
+   "ganancia en agudos",
+   "oclusión",
+   "medición en oído real",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Si el usuario dice que el sonido es metálico, ¿dónde buscas?",
+  "bilgiler": [
+   "Las quejas de sonido apagado o con eco suelen involucrar los graves.",
+   "Los sonidos metálicos y estridentes suelen apuntar por encima de 2000 Hz.",
+   "El mapa es un punto de partida; la medición decide."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "ajustefino"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #287",
+   "metin": "Suena *metálico*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Si el usuario dice que el sonido es metálico, ¿dónde buscas?"
+   ]
+  },
+  {
+   "id": "sikayet",
+   "tur": "zincir",
+   "baslik": "De la queja a la *frecuencia*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Apagado, con eco",
+     "tr": "región grave",
+     "cumle": 0
+    },
+    {
+     "ad": "Nasal",
+     "tr": "región media",
+     "cumle": 1
+    },
+    {
+     "ad": "Metálico, estridente",
+     "tr": "región aguda",
+     "cumle": 2
+    }
+   ],
+   "alt": "El mapa es _un punto de partida_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Las quejas de sonido apagado, con eco o sobre la propia voz suelen apuntar a los graves.",
+    "Las quejas de sonido nasal suelen relacionarse con las frecuencias medias.",
+    "Los sonidos metálicos, estridentes o ásperos suelen apuntar por encima de 2000 hertz.",
+    "Pero el sonido apagado también puede deberse a poca ganancia en agudos.",
+    "Este mapa es un punto de partida; decide con la medición y con la persona."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D193",
+ "kaynak_baslik": "Primera adaptación y ajuste fino según las quejas"
+}

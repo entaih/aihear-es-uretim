@@ -1,0 +1,702 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D054_Nystagmus_ES",
+ "kapak": {
+  "ust": "LECCIÓN 54",
+  "baslik": "¿Qué es el<br>*nistagmo?*",
+  "alt": "Fase lenta, fase rápida, ley de Alexander",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "¿Qué es el nistagmo? Fase lenta y fase rápida | Lección 54 | AIHEAR Academia de Audiología",
+  "aciklama": "El nistagmo es un movimiento involuntario y rítmico de los ojos; en el nistagmo vestibular, la fase lenta muestra la deriva vestibular y la fase rápida, el salto correctivo. En esta lección vemos cómo se nombra la dirección, la ley de Alexander, la velocidad de la fase lenta (VFL), los patrones periféricos y centrales, los tipos de nistagmo y los métodos de registro.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Leigh and Zee, The Neurology of Eye Movements; Jacobson and Shepard, Balance Function Assessment and Management; McCaslin, Electronystagmography/Videonystagmography; Herdman and Clendaniel, Vestibular Rehabilitation.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "vestibular",
+   "nistagmo"
+  ],
+  "etiketler": [
+   "nistagmo",
+   "fase lenta",
+   "fase rápida",
+   "velocidad de la fase lenta",
+   "ley de Alexander",
+   "nistagmo espontáneo",
+   "videonistagmografía",
+   "lentes de Frenzel",
+   "supresión por fijación",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 54",
+   "baslik": "¿Qué es el *nistagmo?*",
+   "alt": "Fase lenta, fase rápida y ley de Alexander",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos el nistagmo, el hallazgo más importante de la evaluación vestibular.",
+    {
+     "yazi": "Veremos paso a paso las fases lenta y rápida, cómo se nombra la dirección, la ley de Alexander y la velocidad de la fase lenta."
+    }
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La estructura del nistagmo",
+   "baslik": "¿Qué es el *nistagmo*?",
+   "maddeler": [
+    {
+     "metin": "Movimiento ocular involuntario y _rítmico_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Fase lenta: el ojo _deriva_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Fase rápida: el _salto de regreso_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Pendular: ambas fases _iguales_",
+     "cumle": 5,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "nistagmus_izi",
+    "cumle": 0,
+    "ayar": {
+     "yon": "sag",
+     "yavas_cumle": 2,
+     "hizli_cumle": 3
+    },
+    "vurgula": [
+     {
+      "parca": "iz",
+      "cumle": 1
+     },
+     {
+      "parca": "yavas_faz",
+      "cumle": 2
+     },
+     {
+      "parca": "hizli_faz",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "El nistagmo es un movimiento involuntario y rítmico de vaivén de los ojos.",
+    "En el nistagmo de origen vestibular, cada batida tiene dos partes.",
+    "Primero, el ojo se desplaza lentamente hacia un lado; esto se llama fase lenta.",
+    "Luego, el ojo regresa con un salto rápido; esto se llama fase rápida.",
+    "Este nistagmo de dos fases también se llama nistagmo en resorte.",
+    {
+     "yazi": "Si ambas fases tienen la misma velocidad y el ojo oscila como un péndulo, se llama nistagmo pendular; este tipo no suele ser vestibular."
+    }
+   ]
+  },
+  {
+   "id": "fazlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "La estructura del nistagmo",
+   "baslik": "¿De *dónde* viene cada fase?",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Fase lenta",
+     "metin": "Por desequilibrio vestibular",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Vía del RVO",
+     "metin": "Lleva los ojos al lado opuesto",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Medición",
+     "metin": "Se hace en esta fase",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Fase rápida",
+     "metin": "Centros sacádicos del tronco",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Corrección",
+     "metin": "Devuelve el ojo al centro",
+     "cumle": 4
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Denominación",
+     "metin": "Dirección según la fase rápida",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La fase lenta se debe a un desequilibrio entre los dos laberintos o a un estímulo vestibular.",
+    "El cerebro interpreta este desequilibrio como un giro de la cabeza, y la vía del reflejo vestíbulo-ocular (RVO) lleva los ojos al lado opuesto.",
+    "Por eso la fase lenta es el componente vestibular del nistagmo, y las mediciones se hacen sobre esta fase.",
+    "La fase rápida es un salto correctivo generado por los centros sacádicos del tronco cerebral.",
+    "Su función es devolver al centro el ojo que se desplaza, para que no quede atascado en el extremo.",
+    "Como la fase rápida es más fácil de ver, la dirección del nistagmo se nombra según la fase rápida."
+   ]
+  },
+  {
+   "id": "yon",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "La estructura del nistagmo",
+   "baslik": "¿*Cómo* se nombra la dirección?",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Bate a la derecha",
+     "metin": "Fase rápida hacia la derecha",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Bate hacia arriba",
+     "metin": "Fase rápida hacia arriba",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Bate hacia abajo",
+     "metin": "Fase rápida hacia abajo",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Torsional",
+     "metin": "Alrededor del eje del ojo",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Cambiante de dirección",
+     "metin": "Cambia con la mirada o la posición",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La dirección del nistagmo siempre se indica por la dirección de la fase rápida.",
+    "Por ejemplo, si la fase lenta va a la izquierda y la rápida a la derecha, se llama nistagmo que bate a la derecha.",
+    "En el plano vertical, si la fase rápida va hacia arriba o hacia abajo, se habla de nistagmo que bate hacia arriba o hacia abajo.",
+    "Si el ojo rota sobre su propio eje, hablamos de nistagmo torsional; su dirección se indica según hacia dónde gira el polo superior del ojo.",
+    "Muchos patrones de nistagmo son mixtos; por ejemplo, en la pérdida periférica se ven juntos componentes horizontales y torsionales.",
+    "El nistagmo cuya dirección cambia con la mirada o con la posición de la cabeza se llama nistagmo cambiante de dirección."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La estructura del nistagmo",
+   "baslik": "Ejemplo: pérdida unilateral *aguda*",
+   "adimlar": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Laberinto izquierdo",
+     "metin": "Su función cae bruscamente",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Lectura del cerebro",
+     "metin": "Cree que la cabeza gira a la derecha",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Fase lenta",
+     "metin": "Ojos a la izquierda, al lado afectado",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Fase rápida",
+     "metin": "Nistagmo que bate a la derecha",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Veamos ahora un ejemplo: la función del laberinto izquierdo cae bruscamente.",
+    "Como el lado derecho queda más activo, el cerebro lo percibe como si la cabeza girara a la derecha.",
+    "El RVO lleva lentamente los ojos hacia la izquierda, hacia el lado afectado.",
+    "La fase rápida devuelve el ojo a la derecha; el resultado es un nistagmo que bate a la derecha, hacia el oído sano.",
+    "En la pérdida periférica unilateral aguda y destructiva, el nistagmo suele batir hacia el lado sano.",
+    "En los estados irritativos, como al inicio de una crisis de Ménière, puede verse brevemente un nistagmo que bate hacia el lado afectado."
+   ]
+  },
+  {
+   "id": "alexander",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ley de Alexander y velocidad",
+   "baslik": "La ley de *Alexander*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Primer grado",
+     "metin": "El más leve; mirando hacia la fase rápida",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Segundo grado",
+     "metin": "Moderado; también en la mirada central",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Tercer grado",
+     "metin": "El más intenso; en toda dirección",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Según la ley de Alexander, el nistagmo vestibular periférico aumenta al mirar en la dirección de la fase rápida."
+    },
+    "Al mirar hacia el otro lado, en la dirección de la fase lenta, disminuye o desaparece.",
+    "Si el nistagmo solo se ve al mirar hacia la fase rápida, se llama nistagmo de primer grado.",
+    "Si también se ve en la mirada central, es de segundo grado; si persiste incluso al mirar hacia la fase lenta, es de tercer grado.",
+    "Un nistagmo de tercer grado en la fase aguda puede bajar con el tiempo a primer grado gracias a la compensación.",
+    "Este cambio con la mirada es uno de los rasgos típicos del nistagmo periférico."
+   ]
+  },
+  {
+   "id": "spv",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ley de Alexander y velocidad",
+   "baslik": "Velocidad de la *fase lenta*",
+   "maddeler": [
+    {
+     "metin": "Medida: la _pendiente_ de la fase lenta",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Unidad: _grados por segundo_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "_Se usa_ en pruebas calóricas y posicionales",
+     "cumle": 3,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "El límite normal depende del _laboratorio_",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "VFL",
+    "metin": "Velocidad del ojo en la fase lenta, en *grados por segundo*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "La intensidad del nistagmo se mide con la velocidad de la fase lenta (VFL).",
+    "Calculamos cuántos grados por segundo se desplaza el ojo durante la fase lenta; la unidad es grados por segundo.",
+    "En el registro con video, el software mide automáticamente la pendiente de la fase lenta de cada batida.",
+    "El cálculo de la paresia canalicular en la prueba calórica y la magnitud de la respuesta en las pruebas posicionales se basan en este valor.",
+    "Sin fijación, un nistagmo espontáneo menor de unos pocos grados por segundo puede considerarse no significativo en muchos laboratorios.",
+    "Como el punto de corte varía entre laboratorios, la interpretación usa normas locales."
+   ]
+  },
+  {
+   "id": "periferik_santral",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ley de Alexander y velocidad",
+   "baslik": "¿Periférico o *central*?",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Dirección",
+     "metin": "Vertical o torsional puro: central",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Fijación",
+     "metin": "El periférico cae, el central quizá no",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Dirección de la mirada",
+     "metin": "Si cambia de dirección, pensar en central",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Ley de Alexander",
+     "metin": "El periférico la cumple, el central quizá no",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Las características del nistagmo nos ayudan a distinguir los patrones periféricos de los centrales.",
+    "El nistagmo periférico es sobre todo horizontal y torsional; un nistagmo vertical puro o torsional puro sugiere causas centrales.",
+    "El nistagmo periférico disminuye claramente con la fijación visual; el nistagmo central puede no hacerlo.",
+    "La dirección del nistagmo periférico no cambia con la mirada; un nistagmo que cambia de dirección con la mirada es relevante como signo central.",
+    {
+     "yazi": "El nistagmo periférico cumple la ley de Alexander; el nistagmo central puede no seguir este patrón."
+    },
+    "Estos patrones son solo orientativos; los hallazgos que sugieren un patrón central se comunican al médico sin demora."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tipos y registro",
+   "baslik": "Tipos de *nistagmo*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Espontáneo",
+     "metin": "Sin estímulo, sentado erguido",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Evocado por la mirada",
+     "metin": "Mirada lateral, arriba o abajo",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Posicional",
+     "metin": "Al cambiar la posición cefálica",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Calórico",
+     "metin": "Con estímulo térmico en el oído",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Optocinético",
+     "metin": "Al seguir una escena en movimiento",
+     "cumle": 4
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "De posición extrema",
+     "metin": "En la mirada lateral extrema",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El nistagmo se nombra según la condición en que aparece.",
+    "El nistagmo espontáneo se ve mientras la persona está sentada erguida, sin ningún estímulo.",
+    "El nistagmo evocado por la mirada aparece solo al mirar hacia un lado, hacia arriba o hacia abajo.",
+    "El nistagmo posicional aparece al cambiar la posición de la cabeza, y el calórico al aplicar un estímulo tibio o frío en el oído.",
+    "El nistagmo optocinético, por ejemplo al mirar por la ventanilla de un tren, es una respuesta normal y fisiológica.",
+    "Unas pocas batidas simétricas de nistagmo de posición extrema en la mirada lateral extrema también suelen considerarse normales."
+   ]
+  },
+  {
+   "id": "infantil",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tipos y registro",
+   "baslik": "Nistagmo *congénito*",
+   "maddeler": [
+    {
+     "metin": "_Comienza_ en la infancia",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "A menudo sin _oscilopsia_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Menor en una mirada: el _punto nulo_",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_No_ es vestibular",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PUNTO NULO",
+    "metin": "La dirección de la mirada donde el nistagmo es *mínimo*",
+    "cumle": 2
+   },
+   "cumleler": [
+    "En algunas personas, el nistagmo comienza en la infancia; se llama nistagmo congénito o infantil.",
+    "Estas personas a menudo no describen que la imagen oscile, es decir, no refieren oscilopsia.",
+    {
+     "yazi": "Puede haber una dirección de la mirada donde el nistagmo es mínimo, llamada punto nulo; la persona puede girar la cabeza para usarla."
+    },
+    "El nistagmo puede disminuir cuando los ojos convergen al mirar algo cercano.",
+    "Este nistagmo no es vestibular; reconocerlo y anotarlo en el registro evita interpretaciones erróneas."
+   ]
+  },
+  {
+   "id": "fiksasyon",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tipos y registro",
+   "baslik": "¿Por qué *importa* la fijación?",
+   "maddeler": [
+    {
+     "metin": "La fijación _suprime_ el nistagmo periférico",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Un nistagmo leve puede _ocultarse_ con luz",
+     "cumle": 2,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Los lentes de video _eliminan_ la fijación",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Se _anota_ la reducción con fijación",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FIJACIÓN",
+    "metin": "Fijar la mirada puede *ocultar* el nistagmo periférico",
+    "cumle": 2
+   },
+   "cumleler": [
+    "El nistagmo vestibular periférico se suprime cuando el ojo se fija en un punto, es decir, con la fijación visual.",
+    "Esta supresión depende en gran parte del cerebelo.",
+    "Por eso, un nistagmo periférico leve puede no verse a simple vista en una sala iluminada.",
+    "Los lentes de Frenzel, o los lentes de video que registran a oscuras, eliminan la fijación y revelan este nistagmo.",
+    "También se anota cuánto disminuye el nistagmo con la fijación; que no disminuya en absoluto es importante como signo central."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tipos y registro",
+   "baslik": "¿Cómo se *observa* el nistagmo?",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Lentes de Frenzel",
+     "metin": "Económicos, rápidos, de cabecera; sin registro",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "VNG",
+     "metin": "Registro, VFL automática; ojos abiertos",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "ENG",
+     "metin": "Registra con ojos cerrados; sin torsión",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El nistagmo puede observarse con distintos métodos, y cada uno tiene sus ventajas.",
+    "Los lentes de Frenzel, con aumento e iluminación, reducen la fijación y agrandan el ojo; son un método rápido de cabecera.",
+    "Sin embargo, los lentes de Frenzel no permiten registrar ni medir en forma numérica.",
+    "La videonistagmografía (VNG) registra el ojo a oscuras con cámaras infrarrojas y mide automáticamente la velocidad de la fase lenta.",
+    "La electronistagmografía (ENG) mide con electrodos; registra incluso con los ojos cerrados, pero no muestra el movimiento torsional.",
+    "Hoy la VNG es habitual en los laboratorios vestibulares, y ha reemplazado en gran medida a la ENG."
+   ]
+  },
+  {
+   "id": "iz",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tipos y registro",
+   "baslik": "El trazado del *nistagmo*",
+   "maddeler": [
+    {
+     "metin": "Derecha y arriba: el trazado _sube_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Un patrón en _diente de sierra_",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Tramo inclinado: _fase lenta_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Tramo empinado: _fase rápida_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "nistagmus_izi",
+    "cumle": 0,
+    "ayar": {
+     "yon": "sag",
+     "baslik": "Trazado horizontal de VNG",
+     "yavas_cumle": 3,
+     "hizli_cumle": 3
+    },
+    "etiketler": [
+     {
+      "parca": "yavas_faz",
+      "metin": "Inclinado: fase lenta",
+      "cumle": 3
+     },
+     {
+      "parca": "hizli_faz",
+      "metin": "Empinado: fase rápida",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "iz",
+      "cumle": 2
+     },
+     {
+      "parca": "yon",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "En la pantalla de la VNG, los movimientos oculares horizontales y verticales se dibujan como trazados separados en función del tiempo.",
+    "Por convención, los movimientos hacia la derecha y hacia arriba se dibujan hacia arriba, y los movimientos a la izquierda y abajo, hacia abajo.",
+    "En estos trazados, el nistagmo forma un patrón parecido a los dientes de una sierra.",
+    "El tramo inclinado y más largo muestra la fase lenta, y el tramo empinado y corto, la fase rápida.",
+    "En el trazado horizontal, si los tramos empinados apuntan hacia arriba, se trata de un nistagmo que bate a la derecha."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tipos y registro",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de las pruebas posicionales y calóricas, registrar siempre el nistagmo espontáneo con y sin fijación. Esta línea de base permite interpretar bien las respuestas posteriores.",
+   "cumleler": [
+    "Un consejo clínico: comiencen siempre la batería de pruebas vestibulares registrando el nistagmo espontáneo.",
+    "Registren primero con fijación y luego sin fijación, y anoten la velocidad de la fase lenta.",
+    "Si hay nistagmo espontáneo, las respuestas posicionales y calóricas se interpretan respecto de esta línea de base.",
+    "Si se omite este paso, un nistagmo ya existente puede confundirse con una respuesta posicional o calórica."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Fase lenta _vestibular_, fase rápida correctiva",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "La dirección la da la _fase rápida_",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "_Alexander_: aumenta mirando hacia la fase rápida",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Intensidad: _velocidad de la fase lenta_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "En el nistagmo vestibular, la fase lenta muestra la deriva vestibular, y la fase rápida, el salto correctivo del tronco cerebral.",
+    "La dirección del nistagmo se nombra según la fase rápida; en la pérdida unilateral aguda suele batir hacia el lado sano.",
+    {
+     "yazi": "Según la ley de Alexander, el nistagmo periférico aumenta al mirar hacia la fase rápida."
+    },
+    "La intensidad del nistagmo se mide con la velocidad de la fase lenta, en grados por segundo."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Hay una pérdida aguda en el laberinto izquierdo. ¿Hacia dónde suele batir el nistagmo?",
+   "secenekler": [
+    "Hacia la izquierda",
+    "Hacia la derecha",
+    "Hacia arriba",
+    "Hacia abajo"
+   ],
+   "dogru": 1,
+   "aciklama": "La fase lenta va hacia el lado afectado; la _fase rápida_ bate hacia el lado sano.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: hay una pérdida aguda en el laberinto izquierdo. ¿Hacia dónde suele batir el nistagmo?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: hacia la derecha, hacia el oído sano."
+    },
+    "La fase lenta va hacia el lado afectado; la fase rápida correctiva bate hacia el lado sano y da nombre a la dirección."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Otoscopia* básica: cómo examinar el oído",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos a la práctica clínica y veremos cómo se hace la otoscopia.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R218_The_Stenger_Test_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #218",
+  "baslik": "La prueba de *Stenger*",
+  "alt": "Un tono, en ambos oídos a la vez",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Si el mismo tono llega a ambos oídos, ¿dónde se oye? #shorts",
+  "aciklama": "La prueba de Stenger se basa en un principio perceptivo simple: cuando el mismo tono se presenta en ambos oídos a la vez, la persona lo oye solo en el oído donde parece más fuerte. Si alguien que refiere una pérdida unilateral deja de responder, el resultado se llama Stenger positivo e indica un componente no orgánico. El resultado siempre se interpreta junto con otras pruebas.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audiometria",
+   "audicion"
+  ],
+  "etiketler": [
+   "prueba de Stenger",
+   "seudohipoacusia",
+   "pérdida auditiva no orgánica",
+   "pérdida auditiva funcional",
+   "pérdida auditiva unilateral",
+   "audiometría tonal",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Si el mismo tono llega a ambos oídos, ¿dónde se oye?",
+  "bilgiler": [
+   "Con el mismo tono en ambos oídos, se oye solo en el que suena más fuerte.",
+   "Oído mejor: 10 dB sobre el umbral; oído peor: 10 dB bajo el umbral declarado.",
+   "Si deja de responder, un Stenger positivo indica un componente no orgánico."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audiometria",
+   "audicion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #218",
+   "metin": "¿Qué oído *oye* el tono?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Si el mismo tono llega a ambos oídos, ¿dónde se oye?"
+   ]
+  },
+  {
+   "id": "stenger",
+   "tur": "zincir",
+   "baslik": "La prueba de *Stenger*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Oído mejor",
+     "tr": "10 dB arriba",
+     "cumle": 1
+    },
+    {
+     "ad": "Oído peor",
+     "tr": "10 dB abajo",
+     "cumle": 2
+    },
+    {
+     "ad": "Respuesta",
+     "tr": "cesa: positivo",
+     "cumle": 3
+    }
+   ],
+   "alt": "El oído peor _oye más de lo declarado_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Mismo tono en ambos oídos: se oye solo donde suena más fuerte.",
+    "El oído mejor recibe un tono unos diez decibeles por encima del umbral.",
+    "El oído peor lo recibe diez decibeles por debajo del umbral declarado.",
+    "Si las respuestas cesan, un Stenger positivo indica un componente no orgánico.",
+    "El resultado siempre se interpreta con otras pruebas, sin culpar a nadie."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D136",
+ "kaynak_baslik": "Cómo reconocer la seudohipoacusia"
+}

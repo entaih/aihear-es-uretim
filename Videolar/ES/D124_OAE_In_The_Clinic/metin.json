@@ -1,0 +1,835 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D124_OAE_In_The_Clinic_ES",
+ "kapak": {
+  "ust": "LECCIÓN 124",
+  "baslik": "Las *OEA*<br>en la clínica",
+  "alt": "Tamizaje, ototoxicidad y errores comunes",
+  "cizim": "oae",
+  "ayar": {
+   "tur": "TEOAE"
+  }
+ },
+ "youtube": {
+  "baslik": "Las OEA en la clínica: usos y errores comunes | Lección 124 | AIHEAR Academia de Audiología",
+  "aciklama": "Las otoemisiones acústicas cumplen un papel importante en el tamizaje neonatal, el monitoreo de ototoxicidad y el reconocimiento de la neuropatía auditiva. En esta lección vemos con ejemplos la ruta del tamizaje, la necesidad de PEATC automatizados en los bebés de cuidados intensivos y los efectos de la efusión del oído medio, el vérnix, la colocación de la sonda y el ruido sobre el resultado.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: JCIH (2019), Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; ASHA (1994), Guidelines for the audiologic management of individuals receiving cochleotoxic drug therapy; Ministerio de Salud de Turquía, Newborn Hearing Screening Program Circular (2014/27); Hall JW, Handbook of Otoacoustic Emissions; Dhar S, Hall JW, Otoacoustic Emissions: Principles, Procedures, and Protocols; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "otoemisiones",
+   "tamizajeneonatal"
+  ],
+  "etiketler": [
+   "otoemisiones acústicas",
+   "OEA",
+   "tamizaje auditivo neonatal",
+   "ototoxicidad",
+   "neuropatía auditiva",
+   "vérnix",
+   "efusión del oído medio",
+   "colocación de la sonda",
+   "JCIH",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 124",
+   "baslik": "Las *OEA* en la clínica: usos y errores comunes",
+   "alt": "Tamizaje, ototoxicidad y factores que alteran el resultado",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos los principales usos clínicos de las otoemisiones acústicas, u OEA.",
+    "Hablaremos del tamizaje neonatal, del monitoreo de ototoxicidad, de las OEA en la neuropatía auditiva y de los factores que alteran los resultados."
+   ]
+  },
+  {
+   "id": "roller",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Usos clínicos",
+   "baslik": "El papel *clínico* de las OEA",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Tamizaje neonatal",
+     "metin": "Rápidas y objetivas",
+     "cumle": 1
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Ototoxicidad",
+     "metin": "Muestran cambios tempranos",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Neuropatía auditiva",
+     "metin": "Junto con los PEATC",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Verificación cruzada",
+     "metin": "Apoyan las pruebas conductuales",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Pérdida funcional",
+     "metin": "Contradicen la pérdida referida",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En las últimas tres lecciones vimos qué son las OEA y cómo se miden; ahora veamos para qué sirven en la clínica.",
+    "El uso más frecuente es el tamizaje auditivo neonatal.",
+    "También se usan para seguir los cambios de las células ciliadas externas en pacientes que reciben fármacos ototóxicos.",
+    "Junto con los potenciales evocados auditivos de tronco cerebral, o PEATC, ayudan a reconocer la neuropatía auditiva.",
+    "Son una herramienta de verificación cruzada en niños cuyos resultados conductuales no son confiables.",
+    "Unas OEA normales pese a una pérdida severa referida refuerzan la sospecha de una pérdida auditiva funcional."
+   ]
+  },
+  {
+   "id": "tarama",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tamizaje neonatal",
+   "baslik": "La *ruta* del tamizaje",
+   "adimlar": [
+    {
+     "ikon": "bebek",
+     "baslik": "Primer tamizaje",
+     "metin": "Antes del alta",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Segundo tamizaje",
+     "metin": "Repetir en quienes no pasan",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Prueba diagnóstica",
+     "metin": "Evaluación audiológica",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "La meta 1-3-6",
+     "metin": "Tamizar, diagnosticar, intervenir",
+     "cumle": 4
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Programa nacional",
+     "metin": "Ministerio de Salud de Turquía",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "En los recién nacidos sanos, el tamizaje de muchos programas comienza con OEA antes del alta.",
+    "La prueba de OEA es rápida y no invasiva, y puede completarse en pocos minutos mientras el bebé duerme.",
+    "Un bebé que no pasa el primer tamizaje se vuelve a tamizar el mismo día o poco después.",
+    "Un bebé que tampoco pasa el segundo tamizaje se deriva a una evaluación audiológica diagnóstica.",
+    "El Comité Conjunto de Audición Infantil, o JCIH, recomienda completar el tamizaje antes del primer mes de vida y el diagnóstico antes de los tres meses.",
+    "La intervención debería comenzar antes de los seis meses; esto se conoce como la meta uno, tres, seis.",
+    "En Turquía, el Ministerio de Salud también lleva adelante un programa nacional de tamizaje auditivo neonatal."
+   ]
+  },
+  {
+   "id": "yogun_bakim",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tamizaje neonatal",
+   "baslik": "Bebés sanos y *cuidados intensivos*",
+   "sol": {
+    "ust": "Bebé sano",
+    "maddeler": [
+     {
+      "metin": "OEA o PEATC-A",
+      "cumle": 0
+     },
+     {
+      "metin": "Tamizaje en dos etapas",
+      "cumle": 1
+     },
+     {
+      "metin": "Prueba diagnóstica si no pasa",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "UCIN (más de 5 días)",
+    "maddeler": [
+     {
+      "metin": "Se recomiendan PEATC automatizados",
+      "cumle": 2
+     },
+     {
+      "metin": "Motivo: riesgo de neuropatía auditiva",
+      "cumle": 3
+     },
+     {
+      "metin": "Las OEA solas no bastan",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "En las salas de recién nacidos sanos, el tamizaje puede hacerse con OEA o con potenciales de tronco cerebral automatizados, o PEATC-A.",
+    "Los bebés que no pasan se vuelven a tamizar en una segunda etapa y, si hace falta, se derivan a pruebas diagnósticas.",
+    "Para los bebés que permanecen más de cinco días en la unidad de cuidados intensivos neonatales, el JCIH recomienda tamizar con PEATC automatizados.",
+    "El motivo es que la neuropatía auditiva es más frecuente en estos bebés.",
+    "Como las OEA pueden ser normales en la neuropatía auditiva, un tamizaje solo con OEA podría dar como pasa a estos bebés.",
+    "Veremos este tema en detalle en la lección sobre el trastorno del espectro de la neuropatía auditiva."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tamizaje neonatal",
+   "baslik": "Explicar el resultado a la *familia*",
+   "maddeler": [
+    {
+     "metin": "No pasa: _no es un diagnóstico_",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Causas frecuentes: factores _transitorios_",
+     "cumle": 1,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "La cita de control _es importante_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Pasa: igual se necesita _seguimiento_",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PARA LA FAMILIA",
+    "metin": "Un resultado no pasa significa que se necesitan *más pruebas*",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Al explicar un resultado no pasa a la familia, se aclara que no es un diagnóstico.",
+    "Se explica que un resultado no pasa a menudo se relaciona con causas transitorias, como líquido, vérnix o ruido.",
+    "Pero se subraya la importancia de la cita de control, porque algunos de los bebés que no pasan sí tienen una pérdida auditiva real.",
+    "Un resultado pasa no descarta problemas auditivos que puedan aparecer más adelante; se aconseja a la familia vigilar el desarrollo del habla."
+   ]
+  },
+  {
+   "id": "ototoks",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Ototoxicidad y neuropatía",
+   "baslik": "Monitoreo de *ototoxicidad*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 750,
+     "max": 9000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000
+     ],
+     "ad": "Frecuencia f2 (Hz)"
+    },
+    "y": {
+     "min": -20,
+     "max": 20,
+     "adim": 10,
+     "ad": "Nivel DP (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "baslangic",
+      "noktalar": [
+       [
+        1000,
+        8
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        3000,
+        9
+       ],
+       [
+        4000,
+        8
+       ],
+       [
+        6000,
+        6
+       ],
+       [
+        8000,
+        4
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "yumusak": true,
+      "etiket": "basal",
+      "cumle": 3
+     },
+     {
+      "ad": "tedavi",
+      "noktalar": [
+       [
+        1000,
+        8
+       ],
+       [
+        2000,
+        9
+       ],
+       [
+        3000,
+        6
+       ],
+       [
+        4000,
+        1
+       ],
+       [
+        6000,
+        -6
+       ],
+       [
+        8000,
+        -10
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "durante el tratamiento",
+      "cumle": 4
+     },
+     {
+      "ad": "gurultu_tabani",
+      "noktalar": [
+       [
+        1000,
+        -2
+       ],
+       [
+        2000,
+        -8
+       ],
+       [
+        3000,
+        -10
+       ],
+       [
+        4000,
+        -11
+       ],
+       [
+        6000,
+        -10
+       ],
+       [
+        8000,
+        -8
+       ]
+      ],
+      "renk": "gri",
+      "dolgu": true,
+      "kesik": true,
+      "etiket": "piso de ruido",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Primero, una medición basal",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Descenso temprano en frecuencias altas",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Criterios conductuales: ASHA",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Algunos fármacos de quimioterapia, como el cisplatino, y los antibióticos aminoglucósidos pueden dañar el oído.",
+    "Este efecto se llama ototoxicidad y suele afectar primero a las frecuencias altas.",
+    "Para el monitoreo, se hace una medición basal antes de iniciar el tratamiento.",
+    {
+     "yazi": "En el ejemplo de la pantalla, la línea azul muestra el DP-grama basal de las otoemisiones acústicas producto de distorsión, u OEAPD."
+    },
+    "En la línea roja vemos que el producto en las frecuencias altas disminuyó claramente durante el tratamiento.",
+    "Este descenso de las OEAPD puede aparecer antes de que el paciente refiera molestias, y a veces antes de cualquier cambio en el audiograma.",
+    "Los criterios de cambio en el audiograma los establece la Asociación Estadounidense del Habla, Lenguaje y Audición, o ASHA; los veremos en la lección de ototoxicidad."
+   ]
+  },
+  {
+   "id": "noropati",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Ototoxicidad y neuropatía",
+   "baslik": "Las OEA y la *neuropatía auditiva*",
+   "cizim": "corti",
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Células ciliadas externas: OEA",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "Célula ciliada interna",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Fibras nerviosas",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "OEA presentes: células ciliadas externas",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "PEATC ausentes o alterados",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Las OEA pueden desaparecer con el tiempo",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "En la neuropatía auditiva, las células ciliadas externas suelen estar intactas, así que pueden registrarse OEA.",
+    "El problema está en la transmisión a nivel de la célula ciliada interna, la sinapsis o el nervio auditivo.",
+    "En este caso, los PEATC están ausentes o claramente alterados.",
+    "El hallazgo de OEA presentes con PEATC ausentes es la pista más importante de esta condición.",
+    "En algunos pacientes, las OEA pueden desaparecer con el tiempo; por eso su ausencia no descarta el diagnóstico, y también se evalúa el microfónico coclear.",
+    "Aquí, las OEA no son una prueba por sí solas; cobran sentido junto con los PEATC."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Factores que alteran el resultado",
+   "baslik": "Factores que *afectan* el resultado",
+   "ogeler": [
+    {
+     "ikon": "akinti",
+     "baslik": "Efusión del oído medio",
+     "metin": "Hace desaparecer la respuesta",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Vérnix, cerumen",
+     "metin": "Obstruyen el conducto auditivo",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Colocación de la sonda",
+     "metin": "Fuga, punta obstruida",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido ambiental",
+     "metin": "Eleva el piso de ruido",
+     "cumle": 4
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Estado del bebé",
+     "metin": "Succión, llanto, movimiento",
+     "cumle": 5
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Momento de la prueba",
+     "metin": "Las primeras horas son más difíciles",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Como la OEA es una señal muy pequeña, muchos factores pueden alterar el resultado; conocerlos reduce los resultados no pasa innecesarios.",
+    "La efusión del oído medio, es decir, el líquido en el oído medio, impide que la emisión regrese al conducto y puede hacer desaparecer las OEA.",
+    "El vérnix caseoso y los restos del parto en el conducto auditivo del recién nacido pueden obstruir la sonda y el conducto.",
+    "Si la sonda está mal colocada, el nivel del estímulo cambia, entra ruido y el registro se arruina.",
+    "El ruido ambiental eleva el piso de ruido y enmascara las emisiones débiles.",
+    "La succión, el llanto o el movimiento del bebé también agregan ruido al registro.",
+    "En las primeras horas después del nacimiento, la tasa de no pasa es mayor por los restos en el conducto auditivo y en el oído medio."
+   ]
+  },
+  {
+   "id": "iletim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Factores que alteran el resultado",
+   "baslik": "El conducto auditivo y el *oído medio*",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 1.9
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 2,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Vérnix, cerumen",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Líquido (efusión)",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "metin": "La cóclea puede estar intacta",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Una obstrucción actúa en ambos sentidos",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sin OEA: quizá un bloqueo conductivo",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Interpretar con otoscopia y timpanometría",
+     "cumle": 4,
+     "ikon": "otoskop"
+    }
+   ],
+   "cumleler": [
+    "Veamos en el dibujo dónde está el problema.",
+    "El vérnix o el cerumen en el conducto reducen cuánto estímulo llega a la cóclea y cuánta emisión vuelve al micrófono.",
+    "El líquido en el oído medio debilita la transmisión en ambos sentidos; como la emisión es tan pequeña, esta pérdida puede impedir medirla.",
+    "En ambos casos la cóclea puede ser normal; esta vez, la ausencia de OEA refleja un bloqueo en la vía de conducción.",
+    "Por eso, en la evaluación diagnóstica, las OEA se interpretan junto con la otoscopia y la timpanometría.",
+    "Recuerden que en los lactantes menores de seis meses la timpanometría se hace con un tono de sonda de mil hertz."
+   ]
+  },
+  {
+   "id": "once",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Factores que alteran el resultado",
+   "baslik": "*Antes* de dar un no pasa",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia",
+     "metin": "¿Conducto despejado?",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Revisar la sonda",
+     "metin": "Punta limpia, buen sellado",
+     "cumle": 1
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Ambiente tranquilo",
+     "metin": "El ruido y el bebé",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Repetir la prueba",
+     "metin": "En un momento adecuado",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Derivación",
+     "metin": "Si el no pasa persiste",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Antes de dar un resultado no pasa, revisen el conducto auditivo con otoscopia.",
+    "Retiren la sonda, limpien o cambien la punta y vuelvan a colocarla de modo que selle bien.",
+    "Silencien la sala y esperen a que el bebé se duerma o se calme.",
+    "Si hace falta, repitan la medición unas horas después o al día siguiente.",
+    "El objetivo de estos pasos no es cambiar el resultado, sino medir en condiciones confiables.",
+    "Un bebé que sigue sin pasar en una prueba repetida en condiciones adecuadas se deriva a más pruebas según el protocolo."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Informa el resultado de OEA junto con el de la timpanometría. Si hay un problema del oído medio, la ausencia de OEA no significa una pérdida coclear.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: nunca informen un resultado de OEA separado de la timpanometría.",
+    "En un oído con un problema del oído medio, la ausencia de OEA no significa una pérdida auditiva coclear.",
+    "En el informe, escriban juntos el resultado de OEA, el hallazgo de la timpanometría y las condiciones de la prueba.",
+    "Repetir la medición una vez resuelto el problema del oído medio a menudo aclara el panorama."
+   ]
+  },
+  {
+   "id": "islevsel",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 5",
+   "bolum": "Verificación cruzada",
+   "baslik": "Ejemplo: hallazgos *contradictorios*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: pérdida severa referida",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: pérdida severa referida",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "OEAT y OEAPD: _normales_",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Umbrales del reflejo: _normales_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       70,
+       75,
+       80,
+       80,
+       85,
+       90
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       70,
+       75,
+       75,
+       80,
+       85,
+       90
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Un ejemplo: un adulto da umbrales que muestran una pérdida auditiva severa en ambos oídos.",
+    "En la misma persona, las otoemisiones acústicas transitorias, u OEAT, y las OEAPD se registran con niveles normales en ambos oídos.",
+    "Los umbrales del reflejo acústico también están dentro de los límites normales.",
+    "Con una pérdida auditiva coclear severa no se esperan OEA normales; los hallazgos se contradicen entre sí.",
+    "Esta contradicción refuerza la sospecha de una pérdida auditiva funcional; con reflejos normales, una neuropatía auditiva es poco probable.",
+    "El ejemplo es didáctico; en casos así, la evaluación se hace con cuidado y con la batería de pruebas."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Verificación cruzada",
+   "baslik": "Los *límites* de las OEA",
+   "ogeler": [
+    {
+     "ikon": "yanlis",
+     "baslik": "No es prueba de umbral",
+     "metin": "No indica el grado",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Vía neural",
+     "metin": "No descarta la neuropatía",
+     "cumle": 2
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Causa de la ausencia",
+     "metin": "Oído medio o cóclea",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Batería",
+     "metin": "Con otras pruebas",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En todos estos usos, también hay que tener presentes los límites de las OEA.",
+    "Las OEA no son una prueba de umbral; no indican el grado de la pérdida auditiva.",
+    "Unas OEA normales no descartan una pérdida auditiva leve ni una neuropatía auditiva.",
+    "La ausencia de OEA por sí sola no distingue un problema del oído medio de una pérdida auditiva coclear.",
+    "Por eso, las OEA son una parte sólida, pero no autosuficiente, de la batería de pruebas."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Tamizaje: OEA _rápidas_ y objetivas",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Una alerta _temprana_ en ototoxicidad",
+     "cumle": 1,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "OEA presentes, PEATC ausentes: _neuropatía_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Efusión, vérnix, _sonda_, ruido",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Las OEA son una prueba rápida y objetiva en el tamizaje neonatal; para los bebés de cuidados intensivos se recomiendan PEATC automatizados.",
+    "En el monitoreo de ototoxicidad, las OEAPD pueden mostrar a tiempo los cambios en las frecuencias altas.",
+    "Unos PEATC ausentes con OEA presentes son la pista más importante de la neuropatía auditiva.",
+    "La efusión del oído medio, el vérnix, la colocación de la sonda y el ruido pueden hacer desaparecer las OEA con una cóclea normal."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Cómo tamizar a un bebé que estuvo 10 días en la UCIN?",
+   "secenekler": [
+    "Solo con OEAT",
+    "Con PEATC automatizados",
+    "Solo con timpanometría",
+    "No necesita tamizaje"
+   ],
+   "dogru": 1,
+   "aciklama": "En los bebés de cuidados intensivos, se tamiza con PEATC automatizados por el riesgo de _neuropatía auditiva_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cómo debe tamizarse a un bebé que estuvo diez días en la unidad de cuidados intensivos neonatales?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: con PEATC automatizados.",
+    "Estos bebés tienen un mayor riesgo de neuropatía auditiva; como las OEA pueden ser normales, tamizar solo con OEA no basta."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Introducción a los *potenciales evocados* auditivos",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos de las OEA a las respuestas del tronco cerebral y de la corteza, con una introducción a los potenciales evocados auditivos.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

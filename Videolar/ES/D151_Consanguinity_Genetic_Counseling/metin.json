@@ -1,0 +1,719 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D151_Consanguinity_Genetic_Counseling_ES",
+ "kapak": {
+  "ust": "LECCIÓN 151",
+  "baslik": "Consanguinidad y<br>*asesoramiento*",
+  "alt": "Riesgo recesivo y el papel del audiólogo",
+  "cizim": "koklea_kesit",
+  "ayar": {
+   "potasyum": true
+  }
+ },
+ "youtube": {
+  "baslik": "Consanguinidad y asesoramiento genético en audiología | Lección 151 | AIHEAR Academia de Audiología",
+  "aciklama": "Vemos cómo la consanguinidad aumenta el riesgo de pérdida auditiva autosómica recesiva, los datos actuales de Turquía y cómo explicar el riesgo en su verdadera magnitud. Repasamos los principios del asesoramiento genético, la derivación a pruebas genéticas, qué significan los resultados y el papel del audiólogo al informar a las familias.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Koç, Türkiye'de Akraba Evliliklerinin Yaygınlığının Değişimi ve Dirençli Grupların Belirlenmesi, Turkish Journal of Public Health (2022); Bennett et al., Genetic counseling and screening of consanguineous couples and their offspring, Journal of Genetic Counseling (2002); Li et al., Clinical evaluation and etiologic diagnosis of hearing loss: A clinical practice resource of the ACMG, Genetics in Medicine (2022); GeneReviews, Genetic Hearing Loss Overview.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "asesoramientogenetico",
+   "consanguinidad"
+  ],
+  "etiketler": [
+   "consanguinidad",
+   "asesoramiento genético",
+   "portador",
+   "herencia autosómica recesiva",
+   "resultados de pruebas genéticas",
+   "variante de significado incierto",
+   "genética de la hipoacusia",
+   "riesgo de recurrencia",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 151",
+   "baslik": "Consanguinidad y *asesoramiento*",
+   "alt": "El papel del audiólogo en el asesoramiento genético",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo la consanguinidad influye en el riesgo de pérdida auditiva y el papel del audiólogo en el asesoramiento genético.",
+    "Hablaremos de cómo explicar el riesgo, de la derivación a pruebas genéticas y de qué significan los resultados."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Consanguinidad",
+   "baslik": "¿Qué es la *consanguinidad?*",
+   "maddeler": [
+    {
+     "metin": "Dos personas con un _ancestro común_",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Primos hermanos: comparten _un octavo_ de genes",
+     "cumle": 1,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "El mismo cambio raro _en dos copias_",
+     "cumle": 2,
+     "ikon": "dna"
+    },
+    {
+     "metin": "_Frecuente_ en muchas sociedades",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Actitud _sin juicios_ y respetuosa",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PRIMOS HERMANOS",
+    "metin": "Comparten en promedio *un octavo* de sus genes",
+    "cumle": 1
+   },
+   "cumleler": [
+    "La consanguinidad es la unión entre dos personas que comparten un ancestro común; el ejemplo más frecuente es el matrimonio entre primos hermanos.",
+    "Los primos hermanos comparten, en promedio, un octavo de sus genes, heredados de sus ancestros comunes.",
+    "Esto aumenta la probabilidad de que sus hijos porten el mismo cambio raro en ambas copias.",
+    "El matrimonio consanguíneo es frecuente en muchas sociedades del mundo y tiene razones culturales, sociales y económicas.",
+    "En este tema, la actitud del audiólogo debe ser informativa y respetuosa, no crítica."
+   ]
+  },
+  {
+   "id": "turkiye",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Consanguinidad",
+   "baslik": "La *consanguinidad* en Turquía",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 2.5,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "About 50 years ago",
+      "2": "2018 survey",
+      "1": "Hace unos 50 años",
+      "2": "Encuesta de 2018"
+     },
+     "ad": "Período"
+    },
+    "y": {
+     "min": 0,
+     "max": 50,
+     "adim": 10,
+     "ad": "Matrimonio consanguíneo (%)"
+    },
+    "seriler": [
+     {
+      "ad": "eski",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        27
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "cerca del 27 %",
+      "cumle": 1
+     },
+     {
+      "ad": "yeni",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        24
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "cerca del 24 %",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "genel",
+      "x": 2.5,
+      "y": 24,
+      "cizgi": "yatay",
+      "nokta": false,
+      "renk": "sari",
+      "etiket": "total: cerca del 24 %",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En Turquía, según la Encuesta Nacional de Demografía y Salud de 2018, cerca del veinticuatro por ciento de los matrimonios son consanguíneos."
+    },
+    "En los últimos cincuenta años, esta tasa bajó solo un poco, de cerca del veintisiete por ciento al veinticuatro por ciento.",
+    "Este descenso lento muestra que el matrimonio consanguíneo es una tradición persistente.",
+    "La tasa varía claramente según la región, el nivel educativo y la generación.",
+    "Así, la consanguinidad disminuye, pero sigue siendo un dato frecuente en la historia de las familias que vemos en la clínica."
+   ]
+  },
+  {
+   "id": "mekanizma",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "Consanguinidad",
+   "baslik": "¿*Cómo* aumenta el riesgo?",
+   "adimlar": [
+    {
+     "ikon": "ev",
+     "baslik": "Ancestro común",
+     "metin": "Un solo portador",
+     "cumle": 0
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Dos ramas",
+     "metin": "El cambio baja por ambos lados",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Unión entre primos",
+     "metin": "Ambos pueden ser portadores",
+     "cumle": 2
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Hijo",
+     "metin": "25 % en cada embarazo",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Imaginemos un único cambio recesivo en un ancestro común.",
+    "A lo largo de las generaciones, este cambio puede transmitirse por dos ramas distintas de la familia.",
+    "Cuando se casan primos de estas dos ramas, aumenta la probabilidad de que ambos porten el mismo cambio.",
+    "Si ambos son portadores, la probabilidad de que un hijo esté afectado es del veinticinco por ciento en cada embarazo.",
+    "En parejas no emparentadas, es mucho menos probable que el mismo cambio raro esté presente en ambos lados.",
+    "Por eso la consanguinidad aumenta sobre todo la frecuencia de las enfermedades recesivas raras."
+   ]
+  },
+  {
+   "id": "risk",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Consanguinidad",
+   "baslik": "La *magnitud* del riesgo",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Población general",
+     "metin": "Del 2 al 3 %",
+     "cumle": 1
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Primos hermanos",
+     "metin": "Unos 2 a 3 puntos más",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "La mayoría de los hijos",
+     "metin": "Nace sana",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Enfermedad conocida",
+     "metin": "Riesgo mucho mayor",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Explicar bien la magnitud del riesgo evita tanto la preocupación innecesaria como la falsa tranquilidad.",
+    "En la población general, el riesgo de un problema congénito grave en cualquier bebé es de alrededor del dos al tres por ciento.",
+    "En las parejas de primos hermanos se ha descrito un riesgo adicional de unos dos a tres puntos porcentuales.",
+    "Es decir, la mayoría de los hijos de parejas de primos hermanos nace sana.",
+    "Pero si en la familia ya se conoce una enfermedad recesiva, el riesgo de esa enfermedad puede ser mucho mayor."
+   ]
+  },
+  {
+   "id": "isitme",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pérdida auditiva y genética",
+   "baslik": "La relación con la *pérdida auditiva*",
+   "maddeler": [
+    {
+     "metin": "Casi todas las no sindrómicas son _recesivas_",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "También se juntan _genes raros_",
+     "cumle": 1,
+     "ikon": "dna"
+    },
+    {
+     "metin": "Ayuda a descubrir _genes nuevos_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "También aumentan los _síndromes_ recesivos",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "No toda pérdida es _genética_",
+     "cumle": 4,
+     "ikon": "virus"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        80,
+        90,
+        95,
+        100,
+        105,
+        105
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        80,
+        85,
+        95,
+        100,
+        100,
+        105
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Como la mayoría de las pérdidas genéticas no sindrómicas son recesivas, la pérdida auditiva está en el centro de este tema.",
+    "Con la consanguinidad, también los cambios en genes raros pueden juntarse en dos copias, lo que amplía el abanico de causas genéticas.",
+    "En estas familias, que ambas copias vengan del mismo ancestro también ayudó a los investigadores a descubrir nuevos genes de la audición.",
+    "Los síndromes recesivos, como los de Usher y Pendred, también pueden ser más frecuentes en las familias consanguíneas.",
+    "Pero no toda pérdida en una familia consanguínea es genética; también se consideran causas ambientales, como las infecciones."
+   ]
+  },
+  {
+   "id": "danismanlik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pérdida auditiva y genética",
+   "baslik": "¿Qué es el *asesoramiento genético?*",
+   "maddeler": [
+    {
+     "metin": "Ayuda a comprender y _adaptarse_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Información, _riesgo_, opciones de prueba",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_No directivo_: la familia decide",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Confidencialidad y _consentimiento informado_",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Calcular el riesgo _no compete al audiólogo_",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EQUIPO",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "hekim",
+      "baslik": "Genética médica",
+      "metin": "Diagnóstico e interpretación",
+      "cumle": 4
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Asesor genético",
+      "metin": "Asesoramiento",
+      "cumle": 4
+     },
+     {
+      "ikon": "odyolog",
+      "baslik": "Audiólogo",
+      "metin": "Hallazgos auditivos",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "El asesoramiento genético es un proceso que ayuda a las personas y las familias a comprender una condición genética y a adaptarse a ella.",
+    "Dar información, calcular el riesgo, explicar las opciones de prueba y apoyar la toma de decisiones forman parte de este proceso.",
+    "El asesoramiento es no directivo; las decisiones son de la familia, y el asesor no impone ninguna opción.",
+    "La confidencialidad, el consentimiento informado y la voluntariedad son principios fundamentales.",
+    "El asesoramiento genético lo brindan médicos genetistas y asesores genéticos.",
+    "El audiólogo forma parte de este equipo, pero calcular el riesgo e interpretar los resultados quedan fuera de su ámbito."
+   ]
+  },
+  {
+   "id": "yonlendirme",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Derivación y resultados",
+   "baslik": "¿Cuándo *derivar?*",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Causa desconocida",
+     "metin": "Pérdida neurosensorial permanente",
+     "cumle": 1
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Antecedentes familiares",
+     "metin": "Pérdida auditiva o consanguinidad",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Otros hallazgos",
+     "metin": "Ojos, riñones, tiroides, corazón",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Pérdida progresiva",
+     "metin": "Se repite en la familia",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "¿En qué situaciones conviene considerar la derivación a una evaluación genética?",
+    "Las guías actuales recomiendan la evaluación genética en los niños con pérdida neurosensorial permanente de causa desconocida.",
+    "Los antecedentes familiares de pérdida auditiva, o que los padres estén emparentados, refuerzan la indicación de derivar.",
+    "Los hallazgos más allá de la audición, en los ojos, los riñones, la tiroides, el corazón o la piel, sugieren una causa sindrómica.",
+    "Las pérdidas progresivas del adulto que se repiten en la familia también pueden evaluarse genéticamente."
+   ]
+  },
+  {
+   "id": "sonuclar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Derivación y resultados",
+   "baslik": "Qué *significan* los resultados",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Positivo",
+     "metin": "Se halló un cambio explicativo",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Negativo",
+     "metin": "No descarta la causa",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Incierto",
+     "metin": "No se usa para decidir",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Portador",
+     "metin": "Una copia, en general no afectado",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Saber qué significan los resultados de las pruebas ayuda a evitar afirmaciones engañosas al hablar con la familia.",
+    "Un resultado positivo significa que se encontró un cambio que explica la pérdida; se denomina variante patogénica o probablemente patogénica.",
+    "Un resultado negativo no significa que la pérdida no sea genética, solo que no se halló un cambio explicativo en los genes estudiados.",
+    "Una variante de significado incierto no puede clasificarse como dañina ni como inocua; no se usa para tomar decisiones clínicas.",
+    "Un resultado de portador significa que la persona tiene un cambio en una copia y, en las enfermedades recesivas, en general no está afectada.",
+    "Los resultados deben explicarse con estas distinciones, en lenguaje sencillo y junto con un asesor genético."
+   ]
+  },
+  {
+   "id": "ilkeler",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Hablar con las familias",
+   "baslik": "Principios para *informar*",
+   "maddeler": [
+    {
+     "metin": "Lenguaje claro y _sin juicios_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Sin _culpas_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Explicar _por qué_ se pregunta",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Riesgo: _porcentajes y frecuencias_ juntos",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Información escrita y una _cita de seguimiento_",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EJEMPLO",
+    "metin": "25 % = una probabilidad de *uno en cuatro*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Al informar a una familia, el primer principio es usar un lenguaje claro y sin juicios.",
+    "Eviten las frases que culpan; nadie es responsable de los genes que porta.",
+    "Al preguntar si los padres están emparentados, expliquen por qué importa; la pregunta no debe sonar a reproche.",
+    "Den los riesgos como frecuencias además de porcentajes; por ejemplo, veinticinco por ciento significa una probabilidad de uno en cuatro.",
+    "Acepten que no toda la información puede asimilarse de una vez; ofrezcan información escrita y una cita de seguimiento.",
+    "Respeten las preferencias de comunicación y de educación de la familia, incluida la lengua de señas."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Un riesgo del 25 % se aplica de nuevo en cada embarazo. Si el primer hijo está afectado, corrijan con tacto la creencia de que los tres siguientes no lo estarán.",
+   "cumleler": [
+    "Un consejo clínico: al explicar un riesgo del veinticinco por ciento, estén atentos a un error de concepto frecuente.",
+    "Algunas familias piensan que, si el primer hijo está afectado, los tres hijos siguientes no lo estarán.",
+    "En realidad, el riesgo es el mismo en cada embarazo; el resultado de un embarazo no cambia el del siguiente.",
+    "Aclarar este punto y responder las preguntas junto con el asesor genético ayuda a evitar decisiones equivocadas."
+   ]
+  },
+  {
+   "id": "akrabalar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Hablar con las familias",
+   "baslik": "Los familiares y el *futuro*",
+   "maddeler": [
+    {
+     "metin": "_Prueba de portador_ para los familiares",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "_Parejas jóvenes_ emparentadas que planean casarse",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Opciones reproductivas: _en el asesoramiento_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "La decisión es _solo de la familia_",
+     "cumle": 3,
+     "ikon": "ev"
+    },
+    {
+     "metin": "_Respeto_ por la diferencia",
+     "cumle": 4,
+     "ikon": "kalp"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "OPCIONES",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "gen_dna",
+      "baslik": "Prueba de portador",
+      "metin": "Para los familiares",
+      "cumle": 0
+     },
+     {
+      "ikon": "hekim",
+      "baslik": "Asesoramiento",
+      "metin": "Información y apoyo",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Cuando se encuentra un cambio en la familia, puede ofrecerse la prueba de portador a los familiares.",
+    "Esta información importa sobre todo a las parejas jóvenes que están emparentadas o que piensan casarse con un familiar.",
+    "Las opciones para futuros embarazos se analizan en detalle en el asesoramiento genético.",
+    "Usar o no estas opciones es una decisión exclusiva de la familia.",
+    "Algunas familias no ven la pérdida auditiva como una carencia sino como una diferencia; esta mirada también se respeta."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Hablar con las familias",
+   "baslik": "Los *pasos* del audiólogo",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Detectar",
+     "metin": "Anamnesis y hallazgos",
+     "cumle": 1
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Explicar",
+     "metin": "Propósito de la evaluación",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Derivar",
+     "metin": "A través del médico",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Compartir",
+     "metin": "Todos los hallazgos auditivos",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Seguir",
+     "metin": "Sea cual sea el resultado",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Resumamos paso a paso el papel del audiólogo en el proceso genético.",
+    "Primero, usa la anamnesis y los hallazgos para reconocer a las familias que pueden beneficiarse de una evaluación genética.",
+    "Explica brevemente a la familia el propósito de la evaluación genética y lo que puede implicar.",
+    "A través del médico, gestiona la derivación a la unidad de genética médica.",
+    "Comparte de forma completa y clara el audiograma, los potenciales evocados auditivos de tronco cerebral (PEATC) y los demás hallazgos auditivos.",
+    "Sea cual sea el resultado genético, continúa con el seguimiento auditivo y la rehabilitación."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "La consanguinidad eleva el riesgo _recesivo_",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Turquía: cerca del _24 %_, en descenso",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "El asesoramiento es _no directivo_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Resultado negativo: _no descarta la causa_",
+     "cumle": 3,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "La consanguinidad aumenta la probabilidad de que el mismo cambio recesivo raro se junte en dos copias en un hijo.",
+    {
+     "yazi": "Según la encuesta de 2018, la tasa en Turquía es de cerca del veinticuatro por ciento y baja claramente en las generaciones más jóvenes."
+    },
+    "El asesoramiento genético es no directivo; brinda información y deja la decisión en manos de la familia.",
+    "Un resultado negativo no descarta una causa genética; los resultados se explican junto con un asesor genético."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "El primer hijo de una pareja portadora está afectado. ¿Riesgo del segundo?",
+   "secenekler": [
+    "Cero",
+    "25 %",
+    "50 %",
+    "100 %"
+   ],
+   "dogru": 1,
+   "aciklama": "El riesgo vuelve a ser del 25 % _en cada embarazo_; los resultados anteriores no lo cambian.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si el primer hijo de una pareja portadora está afectado, ¿qué probabilidad hay de que el segundo también lo esté?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: veinticinco por ciento.",
+    "El riesgo es el mismo en cada embarazo; la condición del hijo anterior no cambia esta probabilidad."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "El paciente con mareo: primero la *historia clínica*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos a la evaluación vestibular y veremos cómo abordar al paciente con mareo a partir de la historia clínica.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

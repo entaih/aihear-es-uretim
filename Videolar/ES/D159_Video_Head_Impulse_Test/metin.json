@@ -1,0 +1,799 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D159_Video_Head_Impulse_Test_ES",
+ "kapak": {
+  "ust": "LECCIÓN 159",
+  "baslik": "*vHIT*:<br>ganancia y sacadas",
+  "alt": "Prueba de impulso cefálico con video, seis canales",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "vHIT: ganancia y sacadas en el impulso cefálico | Lección 159 | AIHEAR Academia de Audiología",
+  "aciklama": "Esta lección trata la prueba de impulso cefálico con video (vHIT): cómo se calcula la ganancia del RVO, por qué la ganancia del canal lateral normalmente supera alrededor de 0,8, las sacadas encubiertas y manifiestas, y cómo se exploran los seis canales en los planos lateral, LARP y RALP. También incluye los artefactos y ejemplos de patrones de respuesta.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Halmagyi and Curthoys, A Clinical Sign of Canal Paresis, Archives of Neurology (1988); MacDougall et al., The Video Head Impulse Test, Neurology (2009); Jacobson and Shepard, Balance Function Assessment and Management.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "vHIT",
+   "vestibular"
+  ],
+  "etiketler": [
+   "vHIT",
+   "prueba de impulso cefálico con video",
+   "prueba de impulso cefálico",
+   "ganancia del RVO",
+   "reflejo vestíbulo-ocular",
+   "sacadas encubiertas",
+   "sacadas manifiestas",
+   "LARP RALP",
+   "neuritis vestibular",
+   "evaluación vestibular",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 159",
+   "baslik": "Prueba de impulso cefálico con video (*vHIT*)",
+   "alt": "Ganancia y sacadas",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    {
+     "yazi": "En esta lección conoceremos la prueba de impulso cefálico con video, o vHIT."
+    },
+    "Veremos cómo se calcula la ganancia del reflejo vestíbulo-ocular, qué son las sacadas encubiertas y manifiestas, y cómo se exploran los seis canales."
+   ]
+  },
+  {
+   "id": "vor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Principio de la prueba de impulso cefálico",
+   "baslik": "¿Qué hace el *RVO*?",
+   "maddeler": [
+    {
+     "metin": "Mantiene la _imagen estable_ al mover la cabeza",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Ojos: movimiento _igual y opuesto_ a la cabeza",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Latencia: apenas _unos milisegundos_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "_Esencial_ en los movimientos rápidos de cabeza",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "El reflejo vestíbulo-ocular, o RVO, mantiene la imagen estable en la retina mientras la cabeza se mueve.",
+    "Cuando la cabeza gira a la derecha, los ojos giran a la izquierda a la misma velocidad, y el objetivo se mantiene en su lugar.",
+    "Este reflejo es muy rápido; comienza apenas unos milisegundos después de que la cabeza empieza a moverse.",
+    "Es este reflejo el que nos permite ver con nitidez al caminar o al girar la cabeza con rapidez.",
+    "Cuando el RVO está alterado, la persona puede notar que la imagen se desliza o se vuelve borrosa al mover la cabeza."
+   ]
+  },
+  {
+   "id": "hit",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Principio de la prueba de impulso cefálico",
+   "baslik": "La prueba de impulso *cefálico*",
+   "maddeler": [
+    {
+     "metin": "Movimiento pequeño, rápido e _impredecible_",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "RVO normal: los ojos _siguen en el objetivo_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "RVO débil: una _sacada correctora_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Algunas sacadas no se ven _a simple vista_",
+     "cumle": 5,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La prueba de impulso cefálico es una prueba de cabecera descrita por Halmagyi y Curthoys en 1988."
+    },
+    "Mientras el paciente mira un objetivo al frente, se gira su cabeza hacia un lado en un ángulo pequeño, muy rápido y de forma impredecible.",
+    "Si el RVO está intacto, los ojos se mantienen en el objetivo durante todo el movimiento.",
+    "Si el RVO es débil, los ojos se desplazan con la cabeza, y el paciente hace un movimiento ocular rápido para recuperar el objetivo.",
+    "Este movimiento ocular se llama sacada correctora; el lado débil es aquel hacia el que se giró la cabeza.",
+    "Algunas sacadas ocurren durante el movimiento de la cabeza y no se ven a simple vista; por eso se desarrolló el método con video."
+   ]
+  },
+  {
+   "id": "kanal",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Principio de la prueba de impulso cefálico",
+   "baslik": "¿Qué *canal* se estimula?",
+   "cizim": "vestibuler",
+   "vurgula": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 0
+    },
+    {
+     "parca": "lateral_kanal",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Canales semicirculares",
+     "cumle": 0
+    },
+    {
+     "parca": "lateral_kanal",
+     "metin": "Canal lateral: con un impulso a la derecha",
+     "cumle": 1
+    },
+    {
+     "parca": "ampulla",
+     "metin": "Ampolla",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "Nervio vestibular",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Estímulo de alta frecuencia",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "lateral_kanal",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Cada canal semicircular detecta la rotación de la cabeza en su propio plano.",
+    "Un impulso cefálico estimula el canal del lado hacia el que gira la cabeza; un impulso a la derecha evalúa el canal lateral derecho.",
+    "En los movimientos rápidos, el canal contrario aporta poco, así que la respuesta proviene sobre todo del canal estimulado.",
+    "Por eso la prueba permite evaluar cada canal por separado.",
+    "El estímulo es de alta frecuencia, como los movimientos cotidianos de la cabeza, a diferencia del de baja frecuencia de la prueba calórica."
+   ]
+  },
+  {
+   "id": "sistem",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ganancia del RVO",
+   "baslik": "El sistema *vHIT*",
+   "maddeler": [
+    {
+     "metin": "_Cámara de alta velocidad_ en gafas livianas",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Velocidad de la cabeza: un _sensor de movimiento_",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Se _comparan_ las velocidades ocular y cefálica",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Rápida y _bien tolerada_",
+     "cumle": 3,
+     "ikon": "hasta"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La prueba de impulso cefálico con video, o vHIT, usa una cámara de alta velocidad montada en unas gafas livianas."
+    },
+    "Mientras la cámara registra el movimiento de los ojos, un sensor de movimiento en las gafas mide la velocidad de la cabeza.",
+    "En cada impulso cefálico, el software compara la velocidad de los ojos con la de la cabeza.",
+    "La prueba suele ser rápida, y los pacientes la toleran mejor que la prueba calórica.",
+    "Así se registran también las sacadas que no se ven a simple vista."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ganancia del RVO",
+   "baslik": "*Ganancia* del RVO",
+   "maddeler": [
+    {
+     "metin": "Ganancia = velocidad ocular / _velocidad cefálica_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Valor ideal: alrededor de _1_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Canal lateral: normalmente _más de 0,8_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Canales verticales: corte en general _más bajo_",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "El cálculo varía _según el equipo_",
+     "cumle": 4,
+     "ikon": "yazilim"
+    }
+   ],
+   "cumleler": [
+    "La ganancia del RVO es la relación entre la velocidad de los ojos y la velocidad de la cabeza.",
+    "Si los ojos compensan por completo el movimiento de la cabeza, la ganancia es cercana a uno.",
+    {
+     "yazi": "En el canal lateral, normalmente se espera una ganancia mayor de alrededor de 0,8."
+    },
+    {
+     "yazi": "En los canales verticales, el punto de corte normal suele ser más bajo, por ejemplo, alrededor de 0,7."
+    },
+    "Algunos equipos calculan la ganancia con el área bajo la curva y otros con velocidades en momentos fijos; por eso se usan normas propias del equipo.",
+    "La ganancia sola no basta; siempre se interpreta junto con las sacadas."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ganancia del RVO",
+   "baslik": "Valores de *ganancia* de ejemplo",
+   "sutunlar": [
+    "Canal",
+    "Derecho",
+    "Izquierdo"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Lateral",
+      "0,95",
+      "0,52"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Anterior",
+      "0,88",
+      "0,55"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Posterior",
+      "0,85",
+      "0,82"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Veamos ahora una tabla de resultados puramente de ejemplo.",
+    {
+     "yazi": "En este ejemplo, la ganancia del canal lateral derecho es de 0,95, mientras que la del canal lateral izquierdo es de 0,52."
+    },
+    "La ganancia del canal lateral izquierdo es claramente baja, y además se ven sacadas correctoras en los impulsos hacia la izquierda.",
+    {
+     "yazi": "La ganancia del canal anterior izquierdo también es baja, de 0,55."
+    },
+    "El canal posterior izquierdo, en cambio, está dentro de los límites normales.",
+    "Este patrón es compatible con una afectación de los canales que inerva el nervio vestibular superior, con la división inferior preservada."
+   ]
+  },
+  {
+   "id": "sakkadlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Sacadas",
+   "baslik": "Sacadas *encubiertas* y manifiestas",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Sacada encubierta",
+     "metin": "Durante el movimiento, solo visible en video",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Sacada manifiesta",
+     "metin": "Tras detenerse la cabeza, visible a simple vista",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Las sacadas correctoras se dividen en dos grupos según el momento en que aparecen.",
+    "La sacada encubierta ocurre mientras la cabeza todavía se está moviendo.",
+    "Por eso no puede verse a simple vista junto a la camilla y solo se detecta en el registro de video.",
+    "La sacada manifiesta ocurre después de que la cabeza se detuvo, y el examinador puede verla.",
+    "Ambos tipos de sacada indican que el RVO de ese lado es insuficiente.",
+    "Una prueba de cabecera que solo busca sacadas manifiestas puede considerar normal a un paciente con sacadas encubiertas."
+   ]
+  },
+  {
+   "id": "kompanzasyon",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Sacadas",
+   "baslik": "Sacadas y *compensación*",
+   "maddeler": [
+    {
+     "metin": "Con el tiempo, las sacadas pueden _adelantarse_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Las sacadas se _agrupan_ y se vuelven constantes",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La ganancia _puede seguir baja_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Seguimiento_ con registros seriados",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Tras una pérdida vestibular unilateral, el cerebro intenta suplirla con el tiempo; esto se llama compensación.",
+    "En este proceso, las sacadas pueden desplazarse hacia el movimiento de la cabeza, es decir, adelantarse, y volverse encubiertas.",
+    "Las sacadas que aparecen en un momento similar en cada impulso, lo que se llama agrupamiento, se han asociado a una buena compensación.",
+    "Durante la compensación, las molestias del paciente pueden disminuir aunque la ganancia siga baja.",
+    {
+     "yazi": "Por eso, los registros seriados de vHIT son útiles para seguir la recuperación y la compensación."
+    }
+   ]
+  },
+  {
+   "id": "lateral",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seis canales",
+   "baslik": "Exploración de los *canales* laterales",
+   "maddeler": [
+    {
+     "metin": "Cabeza inclinada unos _30 grados_ hacia abajo",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Objetivo a alrededor de _1 metro_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Ángulo pequeño: unos _10 a 20 grados_",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Dirección y momento _impredecibles_",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Impulsos _suficientes_ en cada dirección",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Para los canales laterales, la cabeza se inclina unos treinta grados hacia abajo, de modo que estos canales quedan paralelos al suelo.",
+    "En general, el paciente mira un objetivo situado a alrededor de un metro.",
+    "La cabeza se empuja muy rápido hacia la derecha o la izquierda, en un ángulo pequeño de unos diez a veinte grados.",
+    "La dirección y el momento de los impulsos se varían para que el paciente no pueda predecirlos.",
+    "Se reúnen suficientes impulsos válidos en cada dirección, en general entre diez y veinte.",
+    "El software ayuda a descartar los impulsos con poca velocidad cefálica; los impulsos lentos debilitan la evaluación."
+   ]
+  },
+  {
+   "id": "dikey",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seis canales",
+   "baslik": "Planos de los canales *verticales*",
+   "sutunlar": [
+    "Plano",
+    "Posición de la cabeza",
+    "Dirección del impulso",
+    "Canal estimulado"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "LARP",
+      "45 grados derecha",
+      "Mentón abajo",
+      "Anterior izquierdo"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "LARP",
+      "45 grados derecha",
+      "Mentón arriba",
+      "Posterior derecho"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "RALP",
+      "45 grados izquierda",
+      "Mentón abajo",
+      "Anterior derecho"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "RALP",
+      "45 grados izquierda",
+      "Mentón arriba",
+      "Posterior izquierdo"
+     ],
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Los canales verticales forman parejas que comparten un mismo plano, cada uno en un lado distinto.",
+    "El plano LARP contiene el canal anterior izquierdo y el posterior derecho; para este plano, la cabeza se gira unos cuarenta y cinco grados a la derecha.",
+    "El plano RALP contiene el canal anterior derecho y el posterior izquierdo, y la cabeza se gira unos cuarenta y cinco grados a la izquierda.",
+    "En esta posición, un impulso con el mentón hacia abajo estimula el canal anterior, y uno con el mentón hacia arriba, el canal posterior.",
+    "Mientras tanto, el paciente sigue mirando el objetivo situado al frente.",
+    "La exploración de los canales verticales es técnicamente más difícil, por lo que requiere experiencia y cuidado."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seis canales",
+   "baslik": "Las dos *divisiones* del nervio",
+   "cizim": "vestibuler",
+   "vurgula": [
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 0
+    },
+    {
+     "parca": "lateral_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "utrikul",
+     "cumle": 1
+    },
+    {
+     "parca": "posterior_kanal",
+     "cumle": 2
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "Divisiones superior e inferior",
+     "cumle": 0
+    },
+    {
+     "parca": "lateral_kanal",
+     "metin": "Superior: canal lateral",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_kanal",
+     "metin": "Superior: canal anterior",
+     "cumle": 1
+    },
+    {
+     "parca": "utrikul",
+     "metin": "Superior: utrículo",
+     "cumle": 1
+    },
+    {
+     "parca": "posterior_kanal",
+     "metin": "Inferior: canal posterior",
+     "cumle": 2
+    },
+    {
+     "parca": "sakkul",
+     "metin": "Inferior: sáculo",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "El nervio vestibular tiene dos divisiones principales, la superior y la inferior.",
+    "La división superior inerva los canales lateral y anterior y el utrículo.",
+    "La división inferior inerva el canal posterior y la mayor parte del sáculo.",
+    "Por eso, explorar los seis canales por separado ayuda a identificar qué división del nervio está afectada.",
+    "Como la prueba calórica evalúa solo el canal lateral, no puede mostrar, por ejemplo, un problema que afecte solo al canal posterior."
+   ]
+  },
+  {
+   "id": "artefakt",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Técnica e interpretación",
+   "baslik": "*Artefactos*",
+   "maddeler": [
+    {
+     "metin": "Deslizamiento de las gafas: ganancia _falsa_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Parpadeo_ y párpado sobre la pupila",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Impulsos _predecibles_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "No fijar el objetivo, cuello _tenso_",
+     "cumle": 4,
+     "ikon": "agri"
+    }
+   ],
+   "cumleler": [
+    "El deslizamiento de las gafas sobre la cabeza es el artefacto más frecuente y puede dar una ganancia falsamente alta o baja.",
+    "El deslizamiento suele manifestarse como una ganancia muy superior a uno y trazados de velocidad ocular ondulados e irregulares.",
+    "El parpadeo, y el párpado superior que cubre la pupila sobre todo en los impulsos hacia abajo, pueden arruinar el registro.",
+    "Un ritmo predecible puede hacer que el paciente anticipe el movimiento de los ojos y produzca sacadas engañosas.",
+    "Un paciente que no mantiene la mirada en el objetivo, o un cuello tenso, también reducen la calidad del registro.",
+    "Interpretar los resultados sin eliminar los impulsos afectados por artefactos puede llevar a una conclusión errónea."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Ajusten bien las gafas, calibren y revisen los trazados uno por uno. Nunca decidan solo por el número de la ganancia.",
+   "cumleler": [
+    "Un consejo clínico: antes de comenzar, ajusten bien las gafas y calibren con cuidado.",
+    "Después del registro, no miren solo el número de la ganancia en la pantalla; revisen uno por uno los trazados de velocidad cefálica y ocular.",
+    "Si una ganancia normal se acompaña de sacadas repetidas y constantes, el hallazgo puede ser significativo.",
+    "A la inversa, si ven una ganancia muy superior a uno, piensen primero en un deslizamiento de las gafas."
+   ]
+  },
+  {
+   "id": "oruntuler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 5",
+   "bolum": "Técnica e interpretación",
+   "baslik": "*Patrones* de ejemplo",
+   "sutunlar": [
+    "Afección",
+    "Hallazgo típico en el vHIT"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Neuritis vestibular superior",
+      "Lateral y anterior bajos"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Neuritis vestibular inferior",
+      "Solo posterior bajo"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Hipofunción vestibular bilateral",
+      "Todos los canales bajos"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Enfermedad de Ménière",
+      "A menudo normal"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Síndrome vestibular agudo",
+      "Normal: alerta central"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "En la neuritis vestibular superior, la ganancia suele disminuir en los canales lateral y anterior del lado afectado.",
+    "En la afectación inferior, más rara, puede alterarse solo el canal posterior.",
+    "En la hipofunción vestibular bilateral se observan ganancia baja y sacadas en los canales de ambos lados.",
+    {
+     "yazi": "En la enfermedad de Ménière, la respuesta calórica puede estar reducida mientras que el vHIT a menudo sigue siendo normal."
+    },
+    "En un paciente con mareo agudo y continuo, un impulso cefálico normal puede sugerir una causa central y requiere una evaluación médica urgente.",
+    "Estos patrones son ejemplos; la interpretación se hace junto con la historia clínica y las demás pruebas."
+   ]
+  },
+  {
+   "id": "kalorik_vhit",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 5",
+   "bolum": "Técnica e interpretación",
+   "baslik": "Prueba calórica y *vHIT*",
+   "sol": {
+    "ust": "Calórica",
+    "maddeler": [
+     {
+      "metin": "Estímulo de baja frecuencia",
+      "cumle": 1
+     },
+     {
+      "metin": "Solo el canal lateral",
+      "cumle": 2
+     },
+     {
+      "metin": "Más larga, puede causar náuseas",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "vHIT",
+    "maddeler": [
+     {
+      "metin": "Estímulo de alta frecuencia",
+      "cumle": 1
+     },
+     {
+      "metin": "Los seis canales",
+      "cumle": 2
+     },
+     {
+      "metin": "Rápida y bien tolerada",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "La prueba calórica y el vHIT no se reemplazan entre sí; se complementan."
+    },
+    {
+     "yazi": "La prueba calórica evalúa la función del RVO en baja frecuencia, mientras que el vHIT la evalúa en alta frecuencia."
+    },
+    {
+     "yazi": "La prueba calórica explora solo el canal lateral, mientras que el vHIT puede explorar los seis canales."
+    },
+    "Por eso los resultados de ambas pruebas no siempre apuntan en la misma dirección.",
+    "Veremos en detalle el significado clínico de esta disociación en una próxima lección."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Ganancia = velocidad ocular / _velocidad cefálica_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Canal lateral: normalmente _más de 0,8_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Sacadas_ encubiertas y manifiestas",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Seis canales: _lateral_, LARP, RALP",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "cumleler": [
+    "La ganancia del RVO es la relación entre la velocidad de los ojos y la de la cabeza, y su valor ideal es cercano a uno.",
+    {
+     "yazi": "La ganancia del canal lateral normalmente supera alrededor de 0,8; en los canales verticales, el punto de corte suele ser más bajo."
+    },
+    "Las sacadas encubiertas ocurren durante el movimiento de la cabeza, y las manifiestas, después de que la cabeza se detuvo.",
+    "Los seis canales se exploran por separado en los planos lateral, LARP y RALP."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Sacada durante el movimiento, invisible a simple vista?",
+   "secenekler": [
+    "Sacada manifiesta",
+    "Sacada encubierta",
+    "Nistagmo optocinético"
+   ],
+   "dogru": 1,
+   "aciklama": "La sacada encubierta ocurre mientras la cabeza aún se mueve; solo se ve en el _registro de video_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cómo se llama la sacada correctora que ocurre durante el movimiento de la cabeza y no se ve a simple vista?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: la sacada encubierta.",
+    {
+     "yazi": "Las sacadas encubiertas solo pueden detectarse en el registro de video; este es uno de los aportes más importantes del vHIT."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Pruebas *VEMP*: cVEMP y oVEMP",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "En la próxima lección conoceremos las pruebas VEMP, que evalúan los órganos otolíticos: el cVEMP y el oVEMP."
+    },
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

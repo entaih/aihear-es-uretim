@@ -1,0 +1,966 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D143_Vestibular_Schwannoma_ES",
+ "kapak": {
+  "ust": "LECCIÓN 143",
+  "baslik": "*Schwannoma*<br>vestibular",
+  "alt": "Tumores del ángulo y hallazgos audiológicos",
+  "cizim": "ic_kulak_yolu_dibi",
+  "vurgula": [
+   "ust_vestibuler_sinir",
+   "alt_vestibuler_sinir"
+  ]
+ },
+ "youtube": {
+  "baslik": "Schwannoma vestibular y tumores pontocerebelosos | Lección 143 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos dónde se origina el schwannoma vestibular, cómo crece y qué síntomas lo revelan. Con ejemplos, vemos la hipoacusia neurosensorial asimétrica, el reconocimiento de palabras, el reflejo acústico, los hallazgos de los PEATC, la neurofibromatosis tipo 2 y el papel del audiólogo en el seguimiento.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses; Jacobson and Shepard, Balance Function Assessment and Management; Plotkin et al., Updated diagnostic criteria and nomenclature for neurofibromatosis type 2 and schwannomatosis, Genetics in Medicine (2022).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "schwannomavestibular",
+   "hipoacusia"
+  ],
+  "etiketler": [
+   "schwannoma vestibular",
+   "neurinoma del acústico",
+   "ángulo pontocerebeloso",
+   "tumores del ángulo pontocerebeloso",
+   "neurofibromatosis tipo 2",
+   "NF2",
+   "pérdida auditiva asimétrica",
+   "retrococlear",
+   "PEATC",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 143",
+   "baslik": "*Schwannoma* vestibular",
+   "alt": "Tumores del ángulo pontocerebeloso y hallazgos audiológicos",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    {
+     "yazi": "En esta lección conoceremos el schwannoma vestibular y los tumores del ángulo pontocerebeloso."
+    },
+    "Veremos los síntomas, los hallazgos audiológicos, la neurofibromatosis tipo 2 y el papel del audiólogo en el seguimiento."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El tumor y su ubicación",
+   "baslik": "¿Dónde se *origina* el tumor?",
+   "cizim": "ic_kulak_yolu_dibi",
+   "etiketler": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "metin": "Nervio vestibular superior",
+     "cumle": 2
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "Nervio vestibular inferior",
+     "cumle": 2
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Nervio coclear",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "Nervio facial (VII)",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El schwannoma vestibular es un tumor benigno que crece en el nervio de la audición y el equilibrio."
+    },
+    "El tumor se origina en las células de Schwann, que forman la vaina de mielina alrededor de las fibras nerviosas.",
+    "Suele comenzar en el nervio vestibular superior o inferior, dentro del conducto auditivo interno.",
+    "Es raro que se origine en el nervio coclear; aun así, el síntoma más frecuente es la pérdida auditiva.",
+    "Su nombre antiguo es neuroma acústico, pero el tumor no se origina ni en el nervio auditivo ni en las neuronas.",
+    "Representa alrededor del ocho por ciento de los tumores intracraneales y suele ser unilateral."
+   ]
+  },
+  {
+   "id": "kose",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El tumor y su ubicación",
+   "baslik": "Del conducto al *ángulo*",
+   "cizim": "beyin_sapi_vestibuler",
+   "yakinlastir": [
+    {
+     "parca": "tumor",
+     "cumle": 0,
+     "olcek": 1.6
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "Nervio VIII",
+     "cumle": 0
+    },
+    {
+     "parca": "tumor",
+     "metin": "Schwannoma vestibular",
+     "cumle": 0
+    },
+    {
+     "parca": "pons",
+     "metin": "Protuberancia",
+     "cumle": 1
+    },
+    {
+     "parca": "beyincik",
+     "metin": "Cerebelo",
+     "cumle": 1
+    },
+    {
+     "parca": "labirent",
+     "metin": "Laberinto",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 0
+    },
+    {
+     "parca": "pons",
+     "cumle": 1
+    },
+    {
+     "parca": "beyincik",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "labirent",
+     "cumle": 4
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "labirent_arteri",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ángulo: entre cerebelo y protuberancia",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Nervio facial_ en el mismo trayecto",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "La arteria laberíntica está cerca",
+     "cumle": 4,
+     "ikon": "kan_damari"
+    }
+   ],
+   "cumleler": [
+    "A medida que crece, el tumor se extiende fuera del conducto auditivo interno hacia el ángulo pontocerebeloso.",
+    "El ángulo pontocerebeloso es un espacio estrecho entre el cerebelo y la protuberancia, donde los nervios entran al tronco encefálico.",
+    "El nervio facial también recorre el conducto auditivo interno junto con el octavo par craneal.",
+    "Por eso el tumor puede afectar la audición y el equilibrio y, con menos frecuencia, el nervio facial.",
+    "La compresión de la arteria laberíntica, que irriga el oído interno, es una de las explicaciones propuestas para la sordera súbita."
+   ],
+   "ayar": {
+    "tumor": true,
+    "tumor_cumle": 0,
+    "fasiyal_cumle": 2,
+    "arter_cumle": 4
+   }
+  },
+  {
+   "id": "kose_tumorleri",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "El tumor y su ubicación",
+   "baslik": "Masas en el *ángulo*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Schwannoma vestibular",
+     "metin": "Alrededor del 80 al 90 %",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Meningioma",
+     "metin": "Se origina en las meninges",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Otras",
+     "metin": "Epidermoide, schwannoma facial",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Diferenciación",
+     "metin": "Por el médico, con imágenes",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Alrededor del ochenta al noventa por ciento de los tumores del ángulo pontocerebeloso son schwannomas vestibulares."
+    },
+    "En segundo lugar está el meningioma, que se origina en las meninges y suele ser benigno.",
+    {
+     "yazi": "Los quistes epidermoides y los schwannomas del nervio facial son menos frecuentes."
+    },
+    "Estas masas pueden dar hallazgos audiológicos similares; el médico las diferencia mediante estudios de imagen.",
+    {
+     "yazi": "En esta lección nos centramos en la masa más frecuente, el schwannoma vestibular."
+    }
+   ]
+  },
+  {
+   "id": "seyir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El tumor y su ubicación",
+   "baslik": "¿A quién afecta y cómo *crece?*",
+   "maddeler": [
+    {
+     "metin": "Suele diagnosticarse en la _edad media_",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Crecimiento _variable_ según la persona",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "En promedio, _1 a 2 mm_ por año",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "La RM lo detecta _antes_",
+     "cumle": 3,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Los unilaterales _no se heredan_",
+     "cumle": 4,
+     "ikon": "gen_dna"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "CRECIMIENTO",
+    "metin": "La mayoría crece *lentamente*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "El tumor suele diagnosticarse entre los cuarenta y los sesenta años, pero puede aparecer a cualquier edad.",
+    "El ritmo de crecimiento varía mucho; muchos tumores crecen lentamente y algunos no crecen en absoluto durante años.",
+    "En los tumores que crecen, se informa un ritmo promedio de aproximadamente uno a dos milímetros por año.",
+    "Con la difusión de la resonancia magnética (RM), los tumores se detectan más pequeños y con más frecuencia.",
+    "La mayoría de los tumores unilaterales no son hereditarios y surgen de forma espontánea.",
+    "Los tumores bilaterales, en cambio, se asocian a una enfermedad hereditaria; la veremos más adelante en esta lección."
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Síntomas",
+   "baslik": "¿Cómo se *manifiesta* el tumor?",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Pérdida auditiva",
+     "metin": "Unilateral, lentamente progresiva",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tinnitus",
+     "metin": "Zumbido en el mismo oído",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Inestabilidad",
+     "metin": "A menudo leve",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Pérdida súbita",
+     "metin": "Inicio súbito en algunos pacientes",
+     "cumle": 3
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Problemas al teléfono",
+     "metin": "No entiende con ese oído",
+     "cumle": 4
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Entumecimiento facial",
+     "metin": "En tumores grandes",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El síntoma más frecuente es una hipoacusia neurosensorial unilateral y lentamente progresiva, presente en la mayoría de los pacientes.",
+    "El tinnitus, o zumbido, en el mismo oído es el segundo síntoma más frecuente.",
+    "La inestabilidad suele ser leve; como el tumor crece despacio, el cerebro compensa en gran parte la pérdida.",
+    "En algunos pacientes la pérdida comienza de forma súbita; por eso este tumor también se investiga en la sordera súbita.",
+    "Los pacientes a menudo notan que no entienden el habla cuando se ponen el teléfono en ese oído.",
+    "Los tumores grandes pueden sumar entumecimiento facial, debilidad de los músculos de la cara y problemas de la marcha."
+   ]
+  },
+  {
+   "id": "evreler",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Síntomas",
+   "baslik": "¿Qué cambia a medida que *crece?*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "En el conducto",
+     "metin": "Audición, tinnitus",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Hacia el ángulo",
+     "metin": "Ocupa el espacio",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Compresión del tronco",
+     "metin": "Entumecimiento, inestabilidad",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Muy grande",
+     "metin": "Presión intracraneal elevada",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El tamaño del tumor determina tanto los síntomas como las opciones; pensémoslo paso a paso.",
+    "Al principio, el tumor está dentro del conducto auditivo interno; en esta etapa destacan la pérdida auditiva y el tinnitus.",
+    "A medida que crece, se extiende hacia el ángulo pontocerebeloso y ocupa el espacio que lo rodea.",
+    "Los tumores más grandes pueden comprimir el tronco encefálico y el nervio trigémino; esa es la causa del entumecimiento facial.",
+    "Los tumores muy grandes pueden bloquear el flujo del líquido cefalorraquídeo y elevar la presión intracraneal."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "Ejemplo: pérdida *asimétrica*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: vía aérea",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Vía ósea enmascarada_: oído izquierdo",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       25,
+       40,
+       55,
+       60
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       15,
+       15,
+       25,
+       40,
+       55
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, el oído derecho está dentro de límites normales.",
+    "El oído izquierdo, en cambio, muestra una pérdida que aumenta hacia las frecuencias agudas.",
+    "La vía ósea enmascarada se superpone con la vía aérea, por lo que la pérdida es neurosensorial.",
+    "Los dos oídos difieren en quince decibeles o más en varias frecuencias; esto es una asimetría.",
+    "Se usan distintos criterios de asimetría; lo que comparten es que una diferencia unilateral sin explicación se investiga.",
+    "El audiograma por sí solo no distingue una pérdida coclear de una retrococlear; para eso recurrimos a la batería de pruebas."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "Signos *retrococleares*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Reconocimiento de palabras",
+     "metin": "Bajo para los umbrales",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Rollover",
+     "metin": "Cae a intensidades altas",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Reflejo acústico",
+     "metin": "Ausente o con deterioro",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "PEATC",
+     "metin": "Onda V retrasada",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "OEA",
+     "metin": "Pueden estar conservadas",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Cuando se sospecha una patología retrococlear, varias pruebas se interpretan junto con los umbrales tonales.",
+    "El porcentaje de reconocimiento de palabras puede ser claramente más bajo de lo esperado según los umbrales tonales.",
+    "Una puntuación que cae al aumentar la intensidad de presentación, llamada rollover, es un signo retrococlear.",
+    "Los reflejos acústicos pueden estar ausentes a los niveles esperados, o puede aparecer deterioro del reflejo con un estímulo sostenido.",
+    "En los potenciales evocados auditivos de tronco cerebral (PEATC), la onda V puede retrasarse o las ondas pueden no formarse.",
+    "Las otoemisiones acústicas (OEA) pueden seguir presentes pese a la pérdida si el tumor no ha afectado la cóclea."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "Retraso en los *PEATC*",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0,
+    "i_v_uzama": 0.6
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "Onda V",
+     "cumle": 1
+    },
+    {
+     "parca": "latans_I_V",
+     "metin": "Intervalo I-V prolongado",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 1
+    },
+    {
+     "parca": "latans_I_V",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Diferencia interaural_ de la onda V",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tumor pequeño: PEATC a veces _normales_",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Patrón de oro: _RM con contraste_",
+     "cumle": 5,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    "Los PEATC son la prueba electrofisiológica más utilizada de esta batería.",
+    "En el dibujo, la línea discontinua muestra un registro normal, y la línea continua, un registro de ejemplo del lado del tumor.",
+    "El intervalo entre las ondas uno y cinco está prolongado; la señal viaja lentamente a lo largo del nervio.",
+    "En un tumor unilateral, una medida útil es la diferencia interaural de latencia de la onda V.",
+    "En la mayoría de los laboratorios, esta diferencia se considera significativa por encima de unos cero coma dos a cero coma cuatro milisegundos.",
+    "Sin embargo, los PEATC pueden ser normales en tumores pequeños; el patrón de oro para el diagnóstico es la RM con contraste."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "Pruebas *vestibulares*",
+   "ogeler": [
+    {
+     "ikon": "denge",
+     "baslik": "Prueba calórica",
+     "metin": "Debilidad del lado del tumor",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "VEMP",
+     "metin": "Según la rama afectada",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "vHIT",
+     "metin": "Puede afectarse menos",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Como el tumor suele originarse en el nervio vestibular, las pruebas vestibulares también suelen estar alteradas.",
+    "En la prueba calórica, una respuesta débil del lado del tumor es un hallazgo frecuente.",
+    "Los potenciales evocados miogénicos vestibulares (VEMP) pueden alterarse según la rama nerviosa que afecte el tumor.",
+    "La prueba de impulso cefálico con video (vHIT) mide la respuesta a otra velocidad, por lo que puede afectarse menos que las calóricas.",
+    "Estas pruebas sugieren qué rama está afectada, pero no establecen el diagnóstico por sí solas."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Ante tinnitus unilateral, asimetría sin explicación o una puntuación de palabras demasiado baja para los umbrales, destácalo en el informe y deriva al médico.",
+   "cumleler": [
+    "Un consejo clínico: el tinnitus unilateral o una pérdida asimétrica pueden parecer una queja común, pero no deben pasarse por alto.",
+    "Un reconocimiento de palabras demasiado bajo para los umbrales y la ausencia de reflejos refuerzan esta sospecha.",
+    "Registren estos hallazgos con claridad en el informe y deriven al paciente al otorrinolaringólogo.",
+    "Unos PEATC normales, sobre todo en tumores pequeños, no significan que no haga falta seguir investigando."
+   ]
+  },
+  {
+   "id": "nf2",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "NF2 y seguimiento",
+   "baslik": "Neurofibromatosis *tipo 2*",
+   "maddeler": [
+    {
+     "metin": "Herencia _autosómica dominante_",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Cromosoma 22, proteína _merlina_",
+     "cumle": 1,
+     "ikon": "dna"
+    },
+    {
+     "metin": "Schwannomas vestibulares _bilaterales_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Síntomas a _menor_ edad",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "La mitad tiene una variante _nueva_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "NF2",
+    "metin": "Tumores *bilaterales*: pensar en NF2",
+    "cumle": 2
+   },
+   "cumleler": [
+    {
+     "yazi": "La neurofibromatosis tipo 2 (NF2) es una enfermedad hereditaria de transmisión autosómica dominante."
+    },
+    {
+     "yazi": "Se debe a cambios en el gen NF2 del cromosoma veintidós, que codifica una proteína llamada merlina."
+    },
+    {
+     "yazi": "Su rasgo distintivo son los schwannomas vestibulares bilaterales; también pueden aparecer meningiomas y tumores espinales."
+    },
+    "Los síntomas suelen comenzar en la adolescencia y la adultez temprana, antes que con un tumor unilateral.",
+    "En cerca de la mitad de los pacientes no hay nadie más afectado en la familia; el cambio apareció por primera vez en esa persona.",
+    {
+     "yazi": "En la nomenclatura actual, este cuadro también se denomina schwannomatosis relacionada con NF2."
+    }
+   ]
+  },
+  {
+   "id": "nf2_izlem",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "NF2 y seguimiento",
+   "baslik": "Seguimiento *audiológico* en la NF2",
+   "maddeler": [
+    {
+     "metin": "Ambos oídos _en riesgo_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Audiogramas_ seriados, palabras, PEATC",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Las palabras pueden caer _antes_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Plan de comunicación _temprano_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Si es necesario, _implante auditivo de tronco_",
+     "cumle": 4,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SEGUIMIENTO",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "takvim",
+      "baslik": "Pruebas regulares",
+      "metin": "Comparación seriada",
+      "cumle": 1
+     },
+     {
+      "ikon": "hekim",
+      "baslik": "Equipo",
+      "metin": "Con el médico",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En la NF2, la audición está en riesgo en ambos oídos, por lo que el seguimiento audiológico regular es especialmente importante."
+    },
+    "Los audiogramas seriados, el reconocimiento de palabras y los PEATC muestran el efecto del tumor en la audición con el tiempo.",
+    "Una caída en el reconocimiento de palabras puede aparecer antes que cualquier cambio en los umbrales tonales.",
+    "El plan de comunicación se conversa temprano con la familia, cuando la audición aún es buena; los apoyos visuales forman parte de él.",
+    "Si no se puede preservar el nervio coclear, pueden surgir opciones como el implante auditivo de tronco cerebral; lo veremos más adelante."
+   ]
+  },
+  {
+   "id": "tani_sureci",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "NF2 y seguimiento",
+   "baslik": "De la sospecha a la *decisión*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Asimetría",
+     "metin": "Detectada en el audiograma",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Batería de pruebas",
+     "metin": "Palabras, reflejos, PEATC",
+     "cumle": 1
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Derivación",
+     "metin": "Al otorrinolaringólogo",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Imagen",
+     "metin": "RM con contraste",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Decisión en equipo",
+     "metin": "Seguimiento o tratamiento",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El proceso suele empezar con una asimetría sin explicación detectada en el audiograma.",
+    "El audiólogo completa los hallazgos con la batería de pruebas e informa los resultados con claridad.",
+    "El paciente se deriva al otorrinolaringólogo; la decisión de solicitar imágenes la toma el médico.",
+    "La resonancia magnética con contraste es el método principal y puede mostrar incluso tumores pequeños.",
+    "Tras el diagnóstico, el equipo decide los pasos siguientes según el tamaño del tumor y el estado del paciente."
+   ]
+  },
+  {
+   "id": "secenekler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Tratamiento y rehabilitación",
+   "baslik": "Las *opciones* del equipo",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "Observación",
+     "metin": "RM y audiogramas regulares",
+     "cumle": 1
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Microcirugía",
+     "metin": "Extirpación del tumor",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Radiocirugía",
+     "metin": "Busca detener el crecimiento",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Monitorización",
+     "metin": "Del nervio durante la cirugía",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El equipo decide el tratamiento según el tamaño del tumor, su velocidad de crecimiento, la audición, la edad y la preferencia del paciente.",
+    "En tumores pequeños y de crecimiento lento, la observación con imágenes y audiogramas regulares es un enfoque frecuente.",
+    "El tumor puede extirparse mediante microcirugía; algunos abordajes quirúrgicos también buscan preservar la audición.",
+    "La radiocirugía estereotáctica es un tratamiento de radiación focalizada que busca detener el crecimiento del tumor.",
+    "Cada método implica riesgos distintos para la audición, el nervio facial y el equilibrio; la elección la comparten médico y paciente.",
+    "Vigilar la audición y el nervio facial durante la cirugía, la llamada monitorización intraoperatoria, es un campo donde también trabajan audiólogos."
+   ]
+  },
+  {
+   "id": "rehabilitasyon",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Tratamiento y rehabilitación",
+   "baslik": "La audición *después* del tratamiento",
+   "maddeler": [
+    {
+     "metin": "La audición puede bajar o _perderse_",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "_CROS_: lleva el sonido al mejor oído",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Dispositivos de _anclaje óseo_",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "_Implante coclear_ si se conserva el nervio",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "_Rehabilitación vestibular_ para el equilibrio",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "BTE"
+    },
+    "cumle": 1
+   },
+   "cumleler": [
+    "Después del tratamiento, en muchos pacientes la audición de ese oído disminuye o se pierde por completo.",
+    "Para una pérdida unilateral severa pueden usarse sistemas CROS, que llevan el sonido del lado peor al oído mejor.",
+    "Los dispositivos de anclaje óseo, que transmiten el sonido por el hueso hasta la cóclea opuesta, son otra opción.",
+    "En pacientes seleccionados con el nervio coclear preservado, también puede considerarse un implante coclear.",
+    "En quienes tienen pérdida del equilibrio, la rehabilitación vestibular ayuda al cerebro a adaptarse más rápido a la nueva situación."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Tumor _benigno_ de células de Schwann",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Pérdida neurosensorial _asimétrica_ y tinnitus",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Palabras bajas, reflejos, _PEATC_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Tumores bilaterales: _NF2_",
+     "cumle": 3,
+     "ikon": "gen_dna"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El schwannoma vestibular es un tumor benigno que se origina en las células de Schwann del nervio vestibular."
+    },
+    "Sus síntomas más frecuentes son la pérdida neurosensorial unilateral y el tinnitus en el mismo oído.",
+    "Un reconocimiento de palabras bajo, la ausencia de reflejos y unos PEATC retrasados apoyan la sospecha retrococlear; el diagnóstico se hace con RM.",
+    {
+     "yazi": "Los schwannomas vestibulares bilaterales son el rasgo distintivo de la neurofibromatosis tipo 2."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cuál es el patrón de oro para diagnosticar el schwannoma vestibular?",
+   "secenekler": [
+    "Audiometría tonal",
+    "RM con contraste",
+    "Timpanometría",
+    "OEA"
+   ],
+   "dogru": 1,
+   "aciklama": "Los PEATC pueden pasar por alto tumores pequeños; la _RM con contraste_ es el patrón de oro.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál es el método de referencia, el patrón de oro, para diagnosticar el schwannoma vestibular?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: la resonancia magnética con contraste.",
+    "Las pruebas audiológicas despiertan la sospecha, pero los PEATC pueden ser normales en tumores pequeños."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Infecciones y *audición*: CMV, parotiditis y meningitis",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo afectan la audición infecciones como el citomegalovirus congénito, la parotiditis y la meningitis.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R037_Plateau_True_Threshold_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #37",
+  "baslik": "*Meseta*: el umbral verdadero",
+  "alt": "Sin enmascarar 50, enmascarado 70 dB HL",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      15
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      50,
+      55,
+      60,
+      60
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava_maskeli",
+     "degerler": [
+      65,
+      65,
+      70,
+      70,
+      75,
+      75
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Cuánto puede engañar un umbral sin enmascarar? #shorts",
+  "aciklama": "En este ejemplo, el umbral sin enmascarar del oído izquierdo es de 50 dB, mientras que el umbral verdadero obtenido con el método de la meseta es de 70 dB HL. El rango en el que el umbral se mantiene igual mientras aumenta el ruido se llama meseta; el umbral medido allí pertenece al oído evaluado.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "enmascaramiento",
+   "audiometria"
+  ],
+  "etiketler": [
+   "método de la meseta",
+   "enmascaramiento",
+   "método de Hood",
+   "sobreenmascaramiento",
+   "subenmascaramiento",
+   "audiología",
+   "audiometría",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Cuánto puede engañar un umbral sin enmascarar?",
+  "bilgiler": [
+   "En el ejemplo: umbral sin enmascarar 50 dB, umbral verdadero 70 dB HL.",
+   "Si el umbral se mantiene estable mientras sube el ruido, se encontró la meseta.",
+   "Demasiado ruido cruza al oído evaluado: sobreenmascaramiento."
+  ],
+  "hashtag": [
+   "audiologia",
+   "enmascaramiento",
+   "audiometria"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #37",
+   "metin": "¿Cuánto puede *engañar* un umbral sin enmascarar?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Cuánto puede engañar un umbral sin enmascarar?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "El umbral *verdadero* del oído izquierdo",
+   "sayi": "70",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "En este ejemplo, el umbral sin enmascarar del oído izquierdo es de cincuenta decibeles.",
+    "El umbral verdadero, obtenido con el método de la meseta, es de setenta dB HL."
+   ]
+  },
+  {
+   "id": "bolge",
+   "tur": "zincir",
+   "baslik": "*Tres zonas* al subir el ruido",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Insuficiente",
+     "cumle": 0,
+     "tr": "el umbral sube"
+    },
+    {
+     "ad": "Meseta",
+     "cumle": 1,
+     "tr": "umbral estable"
+    },
+    {
+     "ad": "Excesivo",
+     "cumle": 2,
+     "tr": "el umbral vuelve a subir"
+    }
+   ],
+   "cumleler": [
+    "Con muy poco ruido, el otro oído todavía oye el tono.",
+    "En la meseta, el umbral se mantiene aunque suba el ruido; es el verdadero.",
+    "Demasiado ruido cruza al oído evaluado y eleva el umbral."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D091",
+ "kaynak_baslik": "El método de la meseta paso a paso"
+}

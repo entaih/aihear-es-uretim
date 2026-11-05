@@ -1,0 +1,943 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D028_Outer_Ear_Acoustics_ES",
+ "kapak": {
+  "ust": "LECCIÓN 28",
+  "baslik": "Acústica<br>del *oído externo*",
+  "alt": "Resonancia y claves de dirección",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "dis_kulak"
+  ]
+ },
+ "youtube": {
+  "baslik": "Acústica del oído externo: resonancia y dirección | Lección 28 | AIHEAR Academia de Audiología",
+  "aciklama": "El oído externo no solo recoge el sonido: refuerza ciertas frecuencias y añade información de dirección. En esta lección vemos la resonancia de cuarto de onda del conducto auditivo, la ganancia natural del oído abierto, el aporte de la concha y de la cabeza, las diferencias de tiempo y de nivel en la localización y las claves espectrales del pabellón auricular. También vemos por qué todo esto importa en la adaptación de audífonos.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Shaw EAG (1974), Transformation of sound pressure level from the free field to the eardrum in the horizontal plane, Journal of the Acoustical Society of America; Blauert, Spatial Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Dillon, Hearing Aids; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "acustica",
+   "audicion"
+  ],
+  "etiketler": [
+   "acústica del oído externo",
+   "resonancia del conducto auditivo",
+   "REUG",
+   "HRTF",
+   "función de transferencia relacionada con la cabeza",
+   "localización sonora",
+   "concha",
+   "pérdida por inserción",
+   "teoría dúplex",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 28",
+   "baslik": "La función *acústica* del oído externo",
+   "alt": "Resonancia del conducto y claves de dirección",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo el oído externo modifica el sonido, es decir, su función acústica.",
+    "Conoceremos la resonancia del conducto auditivo, cómo el pabellón nos ayuda a localizar el sonido y por qué esto importa al adaptar audífonos."
+   ]
+  },
+  {
+   "id": "rezonans",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Resonancia",
+   "baslik": "¿Qué es la *resonancia?*",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 3000,
+    "karsilastir": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_boyu",
+     "metin": "Longitud de onda",
+     "cumle": 3
+    },
+    {
+     "parca": "genlik",
+     "metin": "Amplitud: reforzada",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "genlik",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Toda cavidad tiene una _frecuencia natural_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Soplar sobre una botella: _tono resonante_",
+     "cumle": 2,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Cavidad menor: resonancia _más alta_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Toda cavidad y todo tubo tienen una frecuencia natural a la que el aire de su interior vibra con más facilidad.",
+    "Los sonidos de esa frecuencia se refuerzan en la cavidad; esto se llama resonancia.",
+    "El tono que oímos al soplar sobre la boca de una botella vacía es la frecuencia de resonancia de la botella.",
+    "La frecuencia de resonancia depende del tamaño de la cavidad: cuanto más pequeña es, más alta es la frecuencia de resonancia.",
+    "El conducto auditivo y las cavidades del pabellón también son cavidades acústicas, cada una con su propia resonancia."
+   ]
+  },
+  {
+   "id": "ceyrek_dalga",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Resonancia",
+   "baslik": "El conducto auditivo: un tubo *cerrado en un extremo*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "kulak_kepcesi",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "timpanik_membran",
+     "metin": "Extremo cerrado: membrana timpánica",
+     "cumle": 0
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Unos 2,5 cm",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Resonancia de _cuarto de onda_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Calculada: unos _3400 Hz_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Medida: unos _2,5 a 3 kHz_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "El conducto auditivo se comporta como un tubo abierto en un extremo y cerrado en el otro por la membrana timpánica.",
+    "La resonancia más fuerte de un tubo así está en la frecuencia cuyo cuarto de longitud de onda es igual a la longitud del tubo.",
+    "Esto se llama resonancia de cuarto de onda.",
+    "En el adulto, el conducto mide unos dos centímetros y medio, por lo que esta frecuencia resulta de unos tres mil cuatrocientos hertz.",
+    {
+     "yazi": "Sin embargo, en oídos reales la resonancia del conducto suele medirse entre dos mil quinientos y tres mil hertz."
+    },
+    "La diferencia se debe a que el conducto no es un tubo recto y a que la concha, en su entrada, se suma a la cavidad."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "reug",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Resonancia",
+   "baslik": "Cómo *medir* la resonancia",
+   "cizim": "rem_duzenegi",
+   "etiketler": [
+    {
+     "parca": "kulak_kanali",
+     "metin": "Conducto auditivo abierto",
+     "cumle": 0
+    },
+    {
+     "parca": "prob_tupu",
+     "metin": "Tubo de sonda: cerca del tímpano",
+     "cumle": 1
+    },
+    {
+     "parca": "referans_mikrofonu",
+     "metin": "Micrófono de referencia: fuera del oído",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob_tupu",
+     "cumle": 1
+    },
+    {
+     "parca": "kulak_kanali",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ganancia del oído abierto: _REUG_",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Pico: unos _15 a 20 dB_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Región amplia: _2 a 4 kHz_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Podemos medir la resonancia del conducto auditivo en el propio oído de la persona.",
+    "En la medición en oído real, se coloca un tubo de sonda fino cerca del tímpano y se compara con un micrófono fuera del oído.",
+    "La diferencia entre ambas mediciones es la ganancia natural del oído abierto: la ganancia sin audífono en oído real (REUG).",
+    "En el adulto, esta ganancia suele tener su pico entre dos mil quinientos y tres mil hertz, con unos quince a veinte decibeles.",
+    "La ganancia no está en una sola frecuencia; es clara en una región amplia, de unos dos mil a cuatro mil hertz.",
+    "Estos valores varían entre personas, por lo que la medición se hace por separado en cada oído."
+   ]
+  },
+  {
+   "id": "katkilar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Resonancia",
+   "baslik": "¿*Qué* contribuye a la ganancia?",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Conducto auditivo",
+     "metin": "El mayor aporte: 2,5 a 3 kHz",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Concha",
+     "metin": "Cerca de 5 kHz, un segundo pico",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Cabeza",
+     "metin": "Efecto pantalla en medios y agudos",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Pabellón",
+     "metin": "Cambios en agudos según la dirección",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La ganancia del oído externo no proviene de una sola estructura; se suman los aportes de varias estructuras.",
+    "El mayor aporte proviene del conducto auditivo, entre dos mil quinientos y tres mil hertz.",
+    "La concha añade su propia resonancia y da una ganancia extra cerca de los cinco mil hertz.",
+    "La cabeza actúa como una pantalla frente al sonido y eleva la presión del lado cercano en las frecuencias medias y agudas.",
+    "Los pliegues del pabellón crean pequeños picos y muescas en los agudos, que cambian según la dirección del sonido.",
+    "En conjunto, estos aportes cambian claramente el espectro del sonido que llega a la membrana timpánica."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Resonancia",
+   "baslik": "Resonancia y *habla*",
+   "cizim": "konusma_muzu",
+   "etiketler": [
+    {
+     "parca": "unsuzler",
+     "metin": "Consonantes agudas",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "unsuzler",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "La información consonántica se _refuerza_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Región más sensible: unos _2 a 5 kHz_",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "La región que refuerza la resonancia del conducto es un rango de frecuencias muy importante para el habla.",
+    "La energía de muchas consonantes que determinan la inteligibilidad del habla está en esta región de agudos.",
+    "Así, el oído externo refuerza de forma natural los sonidos consonánticos débiles y nos ayuda a entender el habla.",
+    "La resonancia del oído externo es una de las razones por las que la audición humana es más sensible entre unos dos mil y cinco mil hertz."
+   ]
+  },
+  {
+   "id": "iki_kulak",
+   "bolum_no": "PARTE 2",
+   "bolum": "Claves de dirección",
+   "baslik": "*Claves* binaurales",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Localización",
+     "metin": "Diferencias entre ambos oídos",
+     "cumle": 0
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Diferencia de tiempo",
+     "metin": "Llega antes; por debajo de 1500 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Diferencia de nivel",
+     "metin": "Sombra de la cabeza; por encima de 1500 Hz",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Teoría dúplex",
+     "metin": "División del trabajo por frecuencia",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Para saber de dónde viene un sonido en el plano horizontal, el cerebro usa sobre todo las diferencias entre los dos oídos.",
+    {
+     "yazi": "Un sonido lateral llega primero al oído más cercano; este pequeño retraso se llama diferencia interaural de tiempo."
+    },
+    "La diferencia de tiempo es una clave potente sobre todo para los sonidos graves, por debajo de unos mil quinientos hertz.",
+    "Con los sonidos agudos, la cabeza actúa como obstáculo y crea una sombra sonora en el oído más alejado.",
+    {
+     "yazi": "Por eso, para los sonidos agudos, la diferencia interaural de nivel es la clave más importante."
+    },
+    "Este reparto de las dos claves según la frecuencia se llama teoría dúplex."
+   ]
+  },
+  {
+   "id": "kepce",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Claves de dirección",
+   "baslik": "El pabellón: ¿*adelante o atrás?*",
+   "cizim": "kepce_yansima",
+   "vurgula": [
+    {
+     "parca": "centik",
+     "cumle": 2
+    },
+    {
+     "parca": "arkadan",
+     "cumle": 3
+    },
+    {
+     "parca": "onden",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "centik",
+     "metin": "muescas según la dirección",
+     "cumle": 2,
+     "yer": "ust"
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Cambio _espectral_ según la dirección",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Discriminación _adelante-atrás_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Percepción de la _elevación_",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Las claves binaurales tienen un límite: los sonidos de adelante y de atrás llegan a ambos oídos al mismo tiempo y con el mismo nivel.",
+    "El pabellón auricular ayuda a resolver esta ambigüedad.",
+    "Los pliegues del pabellón reflejan el sonido; al combinarse el sonido reflejado y el directo, se forman muescas en los agudos según la dirección.",
+    "Como el pabellón mira hacia adelante, los agudos frontales llegan algo más fuertes que los de atrás, y eso ayuda a distinguir ambas direcciones.",
+    "Estas mismas claves espectrales también son importantes para saber si un sonido viene de arriba o de abajo.",
+    "Estas claves también sirven con un solo oído, pero dependen de que el cerebro haya aprendido las características del propio oído."
+   ],
+   "ayar": {
+    "yansima_cumle": 2,
+    "arka_cumle": 3,
+    "ust_cumle": 4,
+    "grafik": {
+     "x": {
+      "min": 2000,
+      "max": 16000,
+      "log": true,
+      "hz": true,
+      "ad": "Frecuencia (Hz)"
+     },
+     "y": {
+      "min": -20,
+      "max": 15,
+      "adim": 10,
+      "ad": "Entrada del conducto, relativo (dB)"
+     },
+     "seriler": [
+      {
+       "ad": "onden",
+       "noktalar": [
+        [
+         2000,
+         4
+        ],
+        [
+         3000,
+         8
+        ],
+        [
+         4000,
+         10
+        ],
+        [
+         5000,
+         9
+        ],
+        [
+         6000,
+         3
+        ],
+        [
+         7000,
+         -12
+        ],
+        [
+         8000,
+         -3
+        ],
+        [
+         10000,
+         2
+        ],
+        [
+         12000,
+         -4
+        ],
+        [
+         16000,
+         -8
+        ]
+       ],
+       "renk": "mavi",
+       "yumusak": true,
+       "cumle": 2,
+       "etiket": "adelante",
+       "etiket_konum": [
+        4000,
+        10
+       ],
+       "etiket_dy": -14
+      },
+      {
+       "ad": "arkadan",
+       "noktalar": [
+        [
+         2000,
+         3
+        ],
+        [
+         3000,
+         5
+        ],
+        [
+         4000,
+         6
+        ],
+        [
+         5000,
+         4
+        ],
+        [
+         6000,
+         0
+        ],
+        [
+         8000,
+         -5
+        ],
+        [
+         9500,
+         -16
+        ],
+        [
+         11000,
+         -7
+        ],
+        [
+         13000,
+         -11
+        ],
+        [
+         16000,
+         -14
+        ]
+       ],
+       "renk": "lacivert",
+       "kesik": true,
+       "yumusak": true,
+       "cumle": 3,
+       "etiket": "atrás",
+       "etiket_konum": [
+        16000,
+        -14
+       ],
+       "etiket_dx": -10,
+       "etiket_dy": 26,
+       "etiket_hiza": "end"
+      }
+     ],
+     "bolgeler": [
+      {
+       "ad": "centik",
+       "x": [
+        6200,
+        10500
+       ],
+       "renk": "sari",
+       "etiket": "muescas",
+       "cumle": 2
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "hrtf",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Claves de dirección",
+   "baslik": "La *función de transferencia* de la cabeza",
+   "maddeler": [
+    {
+     "metin": "_HRTF_: función de transferencia de la cabeza",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Un espectro _distinto_ para cada dirección",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "El cerebro _aprende_ esta información",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Única_ en cada persona",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sonido virtual y diseño de _dispositivos_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulak_kepcesi",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "El efecto conjunto de la cabeza, el torso, el pabellón y el conducto sobre el sonido se llama función de transferencia relacionada con la cabeza.",
+    "Conocida como HRTF, esta función describe cómo cambia el espectro que llega al conducto según la dirección de llegada.",
+    "Con la experiencia, el cerebro aprende qué cambio espectral corresponde a cada dirección.",
+    "Como la forma del pabellón varía de una persona a otra, la HRTF es única en cada persona.",
+    "El audio tridimensional para auriculares y algunas funciones de los audífonos aprovechan esta información."
+   ]
+  },
+  {
+   "id": "koruma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Protección y clínica",
+   "baslik": "Funciones *protectoras* del oído externo",
+   "maddeler": [
+    {
+     "metin": "Conducto largo y curvo: _protege el tímpano_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Temperatura y humedad_ estables",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Cerumen y pelos: _cuerpos extraños_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Piel _autolimpiante_",
+     "cumle": 3,
+     "ikon": "dokunma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 2
+     }
+    ],
+    "yakinlastir": {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.8
+    }
+   },
+   "cumleler": [
+    "El conducto largo y curvo protege la membrana timpánica de golpes directos y de cuerpos extraños.",
+    "La temperatura y la humedad se mantienen bastante estables dentro del conducto, lo que ayuda a conservar la flexibilidad del tímpano.",
+    "Los pelos y el cerumen de la porción cartilaginosa impiden que el polvo y los insectos pequeños avancen hacia adentro.",
+    "La migración de la piel del conducto de adentro hacia afuera permite que los residuos se eliminen solos."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "bolum_no": "PARTE 3",
+   "bolum": "Protección y clínica",
+   "baslik": "La *resonancia* con un audífono colocado",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Conducto cerrado, sin resonancia: _pérdida por inserción_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "El audífono debe _compensar_ esa ganancia",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Micrófono retroauricular: _sin efecto del pabellón_",
+     "cumle": 4,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "En la concha o el conducto: _se conserva_",
+     "cumle": 5,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Se _imita_ con micrófonos direccionales",
+     "cumle": 6,
+     "ikon": "hoparlor"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "BTE"
+    },
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 1
+     },
+     {
+      "parca": "mikrofon",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "kalip",
+      "metin": "Molde: cierra el conducto",
+      "cumle": 1
+     },
+     {
+      "parca": "mikrofon",
+      "metin": "Micrófono: sobre el pabellón",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "La acústica del oído externo interviene directamente en la adaptación de audífonos.",
+    "Al cerrar el conducto con un molde o un audífono, desaparece el extremo abierto del tubo y se pierde gran parte de la resonancia natural.",
+    {
+     "yazi": "Esto se llama pérdida por inserción; la ganancia natural del oído abierto ya no llega al oído."
+    },
+    "Por eso, además de la pérdida auditiva de la persona, el audífono también debe reponer esta ganancia natural perdida.",
+    "En los audífonos retroauriculares, el micrófono está sobre el pabellón, por lo que no puede aprovechar sus claves de dirección.",
+    "En los audífonos con el micrófono en la concha o en el conducto, los efectos naturales del pabellón se conservan en gran parte.",
+    "Algunos audífonos retroauriculares imitan el refuerzo del pabellón para los sonidos frontales mediante micrófonos direccionales."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Protección y clínica",
+   "baslik": "Resonancia y *ruido*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Muesca: cerca de _4000 Hz_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       20,
+       45,
+       25
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       25,
+       50,
+       30
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Un vínculo clínico muy discutido de la resonancia del conducto es la hipoacusia inducida por ruido."
+    },
+    "En este ejemplo, ambos oídos muestran una muesca clara cerca de los cuatro mil hertz, con recuperación parcial en ocho mil hertz.",
+    "En las pérdidas inducidas por ruido, la muesca suele aparecer entre tres mil y seis mil hertz.",
+    "Una explicación es que la resonancia del conducto refuerza el ruido de banda ancha entre unos dos mil y tres mil hertz.",
+    "El daño coclear es máximo media octava por encima de la frecuencia del estímulo, lo que lleva la muesca a unos cuatro mil hertz.",
+    "Se cree que la propia estructura de la cóclea también influye en la muesca; este ejemplo solo muestra el patrón típico."
+   ]
+  },
+  {
+   "id": "bebek",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Protección y clínica",
+   "baslik": "La *resonancia* en lactantes y niños",
+   "maddeler": [
+    {
+     "metin": "Conducto pequeño: resonancia _más alta_",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Se _acerca_ a valores adultos al crecer",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Volumen pequeño: _más presión sonora_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Corrección: medición de la _RECD_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "rem_duzenegi",
+    "cumle": 3,
+    "vurgula": [
+     {
+      "parca": "kulak_kanali",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "En el lactante, el conducto es más corto y más estrecho, por lo que su frecuencia de resonancia es más alta que en el adulto.",
+    "Como la pared del conducto del lactante es más blanda, sus propiedades acústicas también difieren de las del oído adulto.",
+    "A medida que el niño crece, la frecuencia de resonancia baja y se acerca a los valores adultos en los primeros años.",
+    "Como un conducto pequeño tiene poco volumen, el mismo audífono produce más presión sonora en el oído de un lactante que en el de un adulto.",
+    "Esta diferencia se mide como diferencia oído real-acoplador (RECD) y se incorpora a los ajustes del audífono."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 3",
+   "bolum": "Protección y clínica",
+   "baslik": "Consejo clínico",
+   "metin": "En la medición en oído real, la punta del tubo de sonda debe quedar a unos 5 mm del tímpano. Si queda poco profunda, los agudos pueden medirse más bajos.",
+   "cumleler": [
+    "Un consejo de la práctica: en la medición en oído real, la profundidad del tubo de sonda influye directamente en el resultado.",
+    "Coloquen el tubo de modo que su punta quede a unos cinco milímetros de la membrana timpánica.",
+    "Si el tubo queda poco profundo, las ondas estacionarias del conducto pueden hacer que los agudos se midan más bajos de lo que son.",
+    "Comprobar la ubicación con un otoscopio y marcar el tubo para mantener su profundidad hacen la medición más fiable."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Conducto: un resonador de _cuarto de onda_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Pico: unos _2,5 a 3 kHz_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Dirección: claves de tiempo, nivel y _pabellón_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Conducto cerrado: _pérdida por inserción_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "El conducto auditivo se comporta como un tubo cerrado en un extremo y presenta una resonancia de cuarto de onda.",
+    "En el adulto, la ganancia natural del oído abierto suele tener su pico entre dos mil quinientos y tres mil hertz.",
+    "La localización usa las diferencias interaurales de tiempo y de nivel junto con las claves espectrales del pabellón.",
+    "Al cerrar el conducto se pierde la resonancia natural; el audífono debe tener en cuenta esta pérdida por inserción."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Un tubo de 2,5 cm cerrado en un extremo: ¿cuál es su resonancia?",
+   "secenekler": [
+    "Unos 340 Hz",
+    "Unos 1000 Hz",
+    "Unos 3400 Hz",
+    "Unos 8000 Hz"
+   ],
+   "dogru": 2,
+   "aciklama": "Cuarto de onda: velocidad del sonido / (4 x longitud) = 343 / 0,1 = unos _3400 Hz_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál es la frecuencia de resonancia aproximada de un tubo de dos centímetros y medio cerrado en un extremo?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la C: unos tres mil cuatrocientos hertz."
+    },
+    "Este valor se obtiene dividiendo la velocidad del sonido entre cuatro veces la longitud del tubo; en oídos reales, el pico es algo más bajo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "¿Para qué el oído medio? Adaptación de *impedancias*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos al oído medio y veremos por qué el sonido del aire no pasa directo a los líquidos del oído interno: la adaptación de impedancias.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

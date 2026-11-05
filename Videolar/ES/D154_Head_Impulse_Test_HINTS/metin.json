@@ -1,0 +1,1047 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D154_Head_Impulse_Test_HINTS_ES",
+ "kapak": {
+  "ust": "LECCIÓN 154",
+  "baslik": "Impulso cefálico<br>y *HINTS*",
+  "alt": "¿Central o periférico?",
+  "cizim": "nistagmus_izi"
+ },
+ "youtube": {
+  "baslik": "Prueba de impulso cefálico y el examen HINTS | Lección 154 | AIHEAR Academia de Audiología",
+  "aciklama": "Esta lección explica la prueba de impulso cefálico a pie de cama, qué significa una sacada correctora y el examen HINTS, que ayuda a distinguir las causas centrales de las periféricas en el síndrome vestibular agudo. Repasamos sus componentes (impulso cefálico, nistagmo y prueba de desviación oblicua), el enfoque HINTS plus, la evidencia y las limitaciones.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Halmagyi and Curthoys, A Clinical Sign of Canal Paresis, Archives of Neurology (1988); Kattah et al., HINTS to Diagnose Stroke in the Acute Vestibular Syndrome, Stroke (2009); Newman-Toker et al., HINTS Outperforms ABCD2 to Screen for Stroke in Acute Continuous Vertigo and Dizziness, Academic Emergency Medicine (2013); Jacobson and Shepard, Balance Function Assessment and Management.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "HINTS",
+   "vestibular"
+  ],
+  "etiketler": [
+   "prueba de impulso cefálico",
+   "examen HINTS",
+   "sacada correctora",
+   "prueba de desviación oblicua",
+   "skew deviation",
+   "síndrome vestibular agudo",
+   "neuritis vestibular",
+   "accidente cerebrovascular",
+   "nistagmo",
+   "evaluación vestibular",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 154",
+   "baslik": "Impulso cefálico y *HINTS*",
+   "alt": "Central o periférico en el mareo agudo",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos la prueba de impulso cefálico a pie de cama y lo que nos dice una sacada correctora.",
+    "Luego veremos el examen HINTS, que ayuda a distinguir causas centrales y periféricas: impulso cefálico, nistagmo y prueba de desviación oblicua."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La prueba de impulso cefálico",
+   "baslik": "¿Los ojos *acompañan* a la cabeza?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 400,
+     "ad": "Tiempo (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 260,
+     "adim": 50,
+     "ad": "Velocidad (grados/s)"
+    },
+    "seriler": [
+     {
+      "ad": "bas",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        40,
+        60
+       ],
+       [
+        80,
+        180
+       ],
+       [
+        110,
+        220
+       ],
+       [
+        140,
+        170
+       ],
+       [
+        180,
+        60
+       ],
+       [
+        220,
+        5
+       ],
+       [
+        260,
+        0
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "cabeza",
+      "cumle": 1
+     },
+     {
+      "ad": "saglam",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        45,
+        55
+       ],
+       [
+        85,
+        172
+       ],
+       [
+        115,
+        210
+       ],
+       [
+        145,
+        160
+       ],
+       [
+        185,
+        55
+       ],
+       [
+        225,
+        4
+       ],
+       [
+        265,
+        0
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "ojo: indemne",
+      "cumle": 2
+     },
+     {
+      "ad": "zayif",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        45,
+        25
+       ],
+       [
+        85,
+        60
+       ],
+       [
+        115,
+        75
+       ],
+       [
+        145,
+        60
+       ],
+       [
+        185,
+        25
+       ],
+       [
+        215,
+        10
+       ],
+       [
+        235,
+        150
+       ],
+       [
+        255,
+        200
+       ],
+       [
+        275,
+        120
+       ],
+       [
+        300,
+        10
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "ojo: débil",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "sakkad_bolgesi",
+      "x": [
+       215,
+       300
+      ],
+      "renk": "sari",
+      "etiket": "sacada correctora",
+      "cumle": 4
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "sakkad_bolgesi",
+     "metin": "Sacada correctora",
+     "cumle": 4,
+     "yer": "ust"
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ganancia = velocidad ocular / _velocidad cefálica_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "RVO débil: hace falta una _sacada_",
+     "cumle": 4,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "La prueba de impulso cefálico es una prueba a pie de cama que examina por separado cada lado del reflejo vestíbulo-ocular (RVO, en inglés VOR).",
+    "En el gráfico, la línea azul marino muestra la velocidad de la cabeza durante un impulso cefálico rápido.",
+    "Con un RVO indemne, los ojos giran casi a la velocidad de la cabeza en dirección opuesta; la línea azul discontinua sigue la curva de la cabeza.",
+    "En el lado débil, la velocidad ocular queda muy por detrás de la cabeza, y la mirada se desliza fuera del objetivo.",
+    "El paciente hace un movimiento ocular rápido para recuperar el objetivo; se llama sacada correctora.",
+    "La prueba de impulso cefálico con video mide estas curvas; a pie de cama, solo observamos los ojos a simple vista."
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La prueba de impulso cefálico",
+   "baslik": "¿*Cómo* se hace la prueba?",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Preparación",
+     "metin": "Preguntar por el cuello",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Objetivo",
+     "metin": "Mira la nariz del examinador",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Impulso",
+     "metin": "Pequeño, rápido, impredecible",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Observación",
+     "metin": "¿Hay sacada?",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registro",
+     "metin": "Lado y hallazgo",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Antes de empezar, pregunten si el paciente tiene dolor cervical, cirugía de cuello previa o algún problema de los vasos del cuello.",
+    "El paciente mira la nariz del examinador, sentado frente a él, y mantiene la mirada en ese objetivo.",
+    "Se sostiene la cabeza con ambas manos y se gira muy rápido hacia un lado, en un ángulo pequeño de unos diez a veinte grados.",
+    "La dirección y el momento del impulso se varían para que el paciente no pueda predecirlos; un impulso previsto arruina el resultado.",
+    "En cuanto termina el impulso, el examinador observa si los ojos hacen una sacada de regreso al objetivo.",
+    "Se hacen varios impulsos en cada dirección, y el hallazgo se registra junto con la dirección del impulso en que apareció la sacada."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "La prueba de impulso cefálico",
+   "baslik": "¿Qué *vemos?*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Sin sacada",
+     "metin": "Los ojos siguen en el objetivo: el RVO funciona de ese lado.",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Sacada manifiesta",
+     "metin": "Refijación tras el impulso: ese lado está débil.",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Sacada encubierta",
+     "metin": "Durante el impulso; invisible a simple vista.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A pie de cama encontramos tres hallazgos posibles.",
+    "Si los ojos se mantienen en el objetivo durante todo el impulso cefálico, el RVO en esa dirección funciona adecuadamente.",
+    "Si los ojos saltan de vuelta al objetivo cuando la cabeza se detiene, se trata de una sacada manifiesta.",
+    "El lado débil es aquel hacia el que se giró la cabeza; por ejemplo, una sacada en los impulsos hacia la derecha indica un RVO derecho débil.",
+    "Sin embargo, algunas sacadas aparecen mientras la cabeza todavía se mueve; se llaman sacadas encubiertas.",
+    "Como las sacadas encubiertas no se ven a simple vista, la prueba a pie de cama puede pasar por alto hipofunciones parciales o compensadas."
+   ]
+  },
+  {
+   "id": "dikkat",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La prueba de impulso cefálico",
+   "baslik": "Claves para una técnica *correcta*",
+   "maddeler": [
+    {
+     "metin": "Problemas cervicales: decidir _con el médico_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Mirada en el objetivo, _sin parpadear_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Impulso lento: resultado _falsamente normal_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Baja _sensibilidad_ en hipofunciones leves",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Los hallazgos pueden confirmarse _con video_",
+     "cumle": 4,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Hagan el impulso rápido y pequeño; un impulso lento puede hacer que un lado débil parezca normal.",
+    "cumle": 2
+   },
+   "cumleler": [
+    "En pacientes con problemas cervicales serios, la prueba solo se hace tras una decisión conjunta con el médico, y con mucho cuidado.",
+    "Para interpretar bien la sacada, el paciente no debe parpadear y debe mantener la mirada en el objetivo.",
+    "Si el impulso no es lo bastante rápido, el sistema de seguimiento visual toma el control y un lado débil puede parecer normal.",
+    "La prueba a pie de cama es fiable en las hipofunciones marcadas, pero su sensibilidad es baja en las leves o compensadas.",
+    "Los hallazgos dudosos pueden confirmarse con la prueba de impulso cefálico con video (vHIT), que también muestra las sacadas encubiertas."
+   ]
+  },
+  {
+   "id": "avs",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Síndrome vestibular agudo",
+   "baslik": "El *síndrome* vestibular agudo",
+   "maddeler": [
+    {
+     "metin": "Mareo _súbito_ y continuo",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Dura días",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Náuseas, vómitos, intolerancia al _movimiento cefálico_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Nistagmo e inestabilidad de la _marcha_",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Causa más frecuente: _neuritis vestibular_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Periférico",
+      "metin": "La mayoría: neuritis",
+      "cumle": 4
+     },
+     {
+      "ikon": "beyin",
+      "baslik": "Central",
+      "metin": "Raro pero urgente: ACV",
+      "cumle": 5
+     }
+    ],
+    "ust": "DOS POSIBILIDADES"
+   },
+   "cumleler": [
+    "El síndrome vestibular agudo es un mareo intenso que empieza de forma súbita y continúa sin interrupción.",
+    "Los síntomas no se limitan a unas horas; en general duran días.",
+    "El paciente tiene náuseas, vómitos y molestias que empeoran con el movimiento de la cabeza.",
+    "En la exploración suelen encontrarse nistagmo espontáneo e inestabilidad al caminar.",
+    "La causa más frecuente de este cuadro es un problema periférico, como la neuritis vestibular.",
+    "Sin embargo, el mismo cuadro puede deberse a un accidente cerebrovascular que afecte el tronco cerebral o el cerebelo."
+   ]
+  },
+  {
+   "id": "inme",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Síndrome vestibular agudo",
+   "baslik": "Un *peligro* oculto: el ACV",
+   "maddeler": [
+    {
+     "metin": "_ACV_ cerebeloso y de tronco cerebral",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Puede _no haber_ signos neurológicos evidentes",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "La _RM_ precoz puede no detectarlo",
+     "cumle": 3,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "El examen a pie de cama _nos orienta_",
+     "cumle": 5,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_sapi_vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "beyincik",
+      "metin": "Cerebelo",
+      "cumle": 0
+     },
+     {
+      "parca": "medulla",
+      "metin": "Tronco cerebral",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "beyincik",
+      "cumle": 0
+     },
+     {
+      "parca": "pons",
+      "cumle": 3
+     },
+     {
+      "parca": "medulla",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Un accidente cerebrovascular de la circulación posterior, sobre todo en el cerebelo, puede imitar muy de cerca una neuritis vestibular."
+    },
+    "Algunos de estos pacientes no tienen signos neurológicos evidentes, como habla arrastrada, debilidad o visión doble.",
+    "Por eso no siempre es posible hacer la distinción solo con el examen neurológico general.",
+    {
+     "yazi": "La resonancia magnética (RM) con difusión tomada en las primeras horas y días puede no mostrar algunos infartos pequeños del tronco cerebral."
+    },
+    "La tomografía computarizada es aún más limitada para mostrar infartos pequeños en la fosa posterior.",
+    "Aquí es donde un examen a pie de cama basado en los movimientos oculares se vuelve una guía valiosa."
+   ]
+  },
+  {
+   "id": "hints",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Componentes del HINTS",
+   "baslik": "El *HINTS* tiene tres pasos",
+   "adimlar": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Impulso cefálico",
+     "metin": "¿El RVO está indemne?",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Nistagmo",
+     "metin": "¿Cambia de dirección?",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Desviación oblicua",
+     "metin": "¿Hay refijación vertical?",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El HINTS es un examen ocular de tres pasos formado por el impulso cefálico, el nistagmo y la prueba de desviación oblicua.",
+    "En el primer paso, la prueba de impulso cefálico comprueba si el RVO funciona de ese lado.",
+    "En el segundo paso, observamos si el nistagmo cambia con la dirección de la mirada.",
+    "En el tercer paso, se tapan los ojos para buscar una desalineación vertical, es decir, una desviación oblicua.",
+    "El examen lleva pocos minutos y no requiere equipos especiales, pero sí experiencia."
+   ]
+  },
+  {
+   "id": "bilesen1",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Componentes del HINTS",
+   "baslik": "Impulso cefálico: una lógica *invertida*",
+   "cizim": "beyin_sapi_vestibuler",
+   "etiketler": [
+    {
+     "parca": "labirent",
+     "metin": "Laberinto",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "Nervio vestibular",
+     "cumle": 1
+    },
+    {
+     "parca": "beyincik",
+     "metin": "Cerebelo",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "labirent",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "beyincik",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Impulso anormal: compatible con _periférico_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Impulso normal: sospecha _central_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Dentro del HINTS, la interpretación de la prueba de impulso cefálico puede parecer invertida a primera vista.",
+    "En la neuritis vestibular el problema está en el laberinto o en el nervio vestibular, así que los impulsos hacia ese lado provocan una sacada correctora.",
+    "Por eso, en el síndrome vestibular agudo, una prueba de impulso cefálico anormal es compatible con una causa periférica.",
+    "En cambio, en la mayoría de los infartos cerebelosos o de tronco, el laberinto y el nervio están indemnes y la vía del RVO se conserva.",
+    "Así, en un paciente con mareo continuo y nistagmo, una prueba de impulso cefálico normal sugiere una causa central.",
+    "En este contexto, una prueba normal no tranquiliza; al contrario, es un hallazgo que exige atención."
+   ]
+  },
+  {
+   "id": "bilesen2",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Componentes del HINTS",
+   "baslik": "Nistagmo: ¿cambia la *dirección?*",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sag",
+    "tur": "sicramali",
+    "yavas_cumle": 1,
+    "hizli_cumle": 1,
+    "baslik": "Nistagmo que bate a la derecha"
+   },
+   "etiketler": [
+    {
+     "parca": "hizli_faz",
+     "metin": "Fase rápida: hacia el lado sano",
+     "cumle": 1
+    },
+    {
+     "parca": "yavas_faz",
+     "metin": "Fase lenta",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Unidireccional: compatible con _periférico_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Cambia de dirección: signo _central_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Vertical o torsional puro: _central_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "En el segundo paso, se observa el nistagmo con el paciente mirando al frente, luego a la derecha y a la izquierda.",
+    "El nistagmo periférico es unidireccional; es horizontal y torsional y suele batir hacia el oído sano.",
+    "Aumenta al mirar hacia la fase rápida y disminuye al mirar hacia el otro lado; es la ley de Alexander.",
+    "En cambio, un nistagmo que bate a la derecha al mirar a la derecha y a la izquierda al mirar a la izquierda es un nistagmo evocado por la mirada que cambia de dirección.",
+    "El nistagmo evocado por la mirada que cambia de dirección, o el nistagmo vertical puro o torsional puro, sugiere una causa central.",
+    "Sin embargo, en algunas lesiones centrales el nistagmo también puede ser unidireccional, así que este signo solo no basta."
+   ]
+  },
+  {
+   "id": "bilesen3",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Componentes del HINTS",
+   "baslik": "La prueba de *desviación oblicua*",
+   "maddeler": [
+    {
+     "metin": "El paciente mira la _nariz_ del examinador",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Se tapa cada ojo _alternadamente_",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Buscar refijación _vertical_",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Desalineación vertical: _desviación oblicua_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Rara_ en la hipofunción periférica",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "goz_kapatma",
+    "cumle": 0,
+    "ayar": {
+     "sapma": true,
+     "kapat_cumle": 1,
+     "duzeltme_cumle": 3
+    }
+   },
+   "cumleler": [
+    "La prueba de desviación oblicua se hace con la prueba de oclusión alternante.",
+    "Mientras el paciente mira al frente, el examinador tapa un ojo con la mano y luego tapa rápidamente el otro.",
+    "El examinador observa si el ojo destapado hace una corrección hacia arriba o hacia abajo para recuperar el objetivo.",
+    "Una corrección vertical muestra que la alineación vertical de los dos ojos está alterada, es decir, una desviación oblicua.",
+    "La desviación oblicua aparece cuando se interrumpe la vía del tronco cerebral que lleva la información gravitatoria de los órganos otolíticos.",
+    "Como es rara en las hipofunciones periféricas, su presencia en el síndrome vestibular agudo sugiere una causa central."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Componentes del HINTS",
+   "baslik": "Patrones periférico y *central*",
+   "sutunlar": [
+    "Componente",
+    "Patrón periférico",
+    "Patrón central"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Impulso cefálico",
+      "Anormal, con sacada",
+      "Normal"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Nistagmo",
+      "Unidireccional",
+      "Cambia de dirección"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Desviación oblicua",
+      "Sin refijación vertical",
+      "Con refijación vertical"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Pérdida auditiva nueva",
+      "Ausente",
+      "Presente: precaución"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Ahora juntemos los tres componentes.",
+    "En el patrón periférico, la prueba de impulso cefálico es anormal; en el patrón central, es normal.",
+    "El nistagmo periférico es unidireccional; en el patrón central puede cambiar de dirección con la mirada.",
+    "En el patrón periférico no hay desviación oblicua; su presencia es un signo central.",
+    "Los tres componentes deben coincidir con el patrón periférico; basta un solo hallazgo central para sugerir una causa central.",
+    "La última fila de la tabla es la pérdida auditiva de inicio reciente; la explicaremos en breve."
+   ]
+  },
+  {
+   "id": "hints_arti",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "El HINTS en la clínica",
+   "baslik": "*HINTS plus*: la audición",
+   "maddeler": [
+    {
+     "metin": "Vértigo agudo con pérdida auditiva _nueva_",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Arteria laberíntica: nace de la _AICA_",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "El impulso puede parecer _falsamente periférico_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Agregar una evaluación _auditiva_ a pie de cama",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ic_kulak_yolu_dibi",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "labirent_arteri",
+      "metin": "Arteria laberíntica",
+      "cumle": 1
+     },
+     {
+      "parca": "koklear_sinir",
+      "metin": "Nervio coclear",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "labirent_arteri",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "La pérdida auditiva de inicio reciente junto con un mareo agudo es un cuarto componente que se agrega al HINTS.",
+    "La arteria laberíntica del oído interno suele nacer de la arteria cerebelosa anteroinferior (AICA).",
+    "Un infarto que afecte este vaso puede comprometer también el laberinto, así que la prueba de impulso cefálico puede ser anormal, como en una hipofunción periférica.",
+    "Por eso se agrega una evaluación auditiva sencilla a pie de cama, como el frote de dedos; este enfoque se llama HINTS plus.",
+    "Una pérdida auditiva nueva junto con el síndrome vestibular agudo también exige una evaluación urgente por la posibilidad de un ACV."
+   ]
+  },
+  {
+   "id": "kanit",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "El HINTS en la clínica",
+   "baslik": "¿Qué dice la *evidencia?*",
+   "maddeler": [
+    {
+     "metin": "Kattah y cols. 2009: _101_ pacientes",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Sensibilidad del HINTS: _100 %_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Especificidad: cerca del _96 %_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La RM inicial no detectó _8 infartos_",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "_Menor_ precisión en manos no expertas",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PRECAUCIÓN",
+    "metin": "El HINTS requiere *formación y experiencia*",
+    "cumle": 4
+   },
+   "cumleler": [
+    {
+     "yazi": "El estudio clave que mostró el valor del HINTS es el de Kattah y colaboradores, de 2009, con ciento un pacientes."
+    },
+    "En este estudio, el HINTS identificó los infartos con una sensibilidad del cien por ciento y una especificidad de cerca del noventa y seis por ciento.",
+    "En los mismos pacientes, la resonancia con difusión inicial no mostró ocho infartos que se confirmaron después.",
+    "Sin embargo, el estudio se hizo en pacientes con alto riesgo de ACV, y el examen lo realizó un neurooftalmólogo con experiencia.",
+    "Estudios posteriores mostraron que la precisión puede caer mucho cuando el examen lo hacen personas sin la formación adecuada."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "El HINTS en la clínica",
+   "baslik": "¿Cuándo *no* se usa el HINTS?",
+   "ogeler": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Cuadro continuo",
+     "metin": "Solo en mareo agudo y continuo",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Requiere nistagmo",
+     "metin": "Sin nistagmo, interpretar es más difícil",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Crisis y posición",
+     "metin": "No sirve para VPPB ni crisis",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "No es un diagnóstico",
+     "metin": "No reemplaza el examen médico",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El HINTS no es una prueba para aplicar a todo paciente con mareo.",
+    "Solo tiene sentido en pacientes cuyo mareo empezó de forma aguda, es continuo y sigue presente durante el examen.",
+    "Debe haber nistagmo espontáneo durante el examen; sin nistagmo, el resultado del impulso cefálico puede ser engañoso.",
+    "El HINTS no se usa en crisis breves al girarse en la cama ni en episodios que van y vienen; ahí priman las pruebas posicionales y la historia.",
+    "El examen de la marcha también importa; un paciente que no puede pararse ni con ayuda necesita una evaluación urgente, sea cual sea el resultado del HINTS.",
+    "El HINTS no es una herramienta diagnóstica, sino un examen a pie de cama que apoya la decisión de derivar con urgencia."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "El HINTS en la clínica",
+   "baslik": "El *papel* del audiólogo",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Observar",
+     "metin": "Nistagmo y sacadas",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Registrar",
+     "metin": "Con lentes de video",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Señal de alarma",
+     "metin": "Reconocer signos centrales",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Derivar",
+     "metin": "Al médico sin demora",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En este proceso, la tarea del audiólogo no es diagnosticar, sino observar con precisión y derivar en el momento adecuado.",
+    "En un paciente con mareo agudo, se observan con cuidado la dirección del nistagmo, su cambio con la mirada y el hallazgo del impulso cefálico.",
+    "Si es posible, los movimientos oculares se graban con lentes de video; la grabación facilita la evaluación del médico.",
+    "Si un solo hallazgo sugiere un patrón central, la batería de pruebas prevista se suspende.",
+    "El paciente se deriva sin demora a una evaluación médica urgente, con un resumen breve y claro de los hallazgos."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En el síndrome vestibular agudo, una prueba de impulso cefálico normal no tranquiliza. Si hay un solo signo central, deriven al paciente al médico sin demora.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: en un paciente con mareo agudo y continuo, no lean una prueba de impulso cefálico normal como una buena noticia.",
+    "En este contexto, un impulso cefálico normal es un hallazgo que hace pensar en una causa central.",
+    "Basta uno solo de estos hallazgos para derivar con urgencia: nistagmo que cambia de dirección, desviación oblicua o pérdida auditiva nueva.",
+    "Registren los hallazgos junto con la hora de inicio; el tiempo es información crítica para el equipo de urgencias."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Sacada correctora: _RVO débil_ de ese lado",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "HINTS: impulso cefálico, nistagmo, _desviación oblicua_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Impulso cefálico normal: sospecha _central_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Solo en mareo _agudo y continuo_",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "cumleler": [
+    "En la prueba de impulso cefálico, una sacada correctora muestra que el RVO está débil del lado del impulso.",
+    "El HINTS consta de impulso cefálico, nistagmo y prueba de desviación oblicua; el HINTS plus también pregunta por una pérdida auditiva nueva.",
+    "Un impulso cefálico normal, un nistagmo que cambia de dirección o una desviación oblicua sugieren una causa central.",
+    "El HINTS solo tiene sentido en pacientes con mareo agudo y continuo y con nistagmo, y requiere formación."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué hallazgo sugiere una causa central en el síndrome vestibular agudo?",
+   "secenekler": [
+    "Sacada correctora en impulsos a la derecha",
+    "Nistagmo horizontal unidireccional",
+    "Prueba de impulso cefálico normal"
+   ],
+   "dogru": 2,
+   "aciklama": "En el síndrome vestibular agudo, una prueba de _impulso cefálico normal_ indica que la vía del RVO se conserva y sugiere una causa central.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en un paciente con mareo agudo y continuo, ¿qué hallazgo sugiere una causa central?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: una prueba de impulso cefálico normal.",
+    "En una hipofunción periférica el impulso cefálico es anormal; en la mayoría de los infartos la vía del RVO sigue indemne, así que la prueba es normal."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Pruebas posicionales: *Dix-Hallpike* y giro en supino",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos las pruebas posicionales: la maniobra de Dix-Hallpike y la prueba de giro cefálico en decúbito supino.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

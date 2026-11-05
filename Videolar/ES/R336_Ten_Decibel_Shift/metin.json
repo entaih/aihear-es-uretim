@@ -1,0 +1,118 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R336_Ten_Decibel_Shift_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #336",
+  "baslik": "Tres frecuencias, *10 decibeles*",
+  "alt": "Cambio estándar del umbral (STS)",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      5,
+      5,
+      10,
+      20,
+      30,
+      35,
+      25,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Qué cambio es una alarma en la vigilancia auditiva laboral? #shorts",
+  "aciklama": "Según la definición de la OSHA de Estados Unidos, un cambio estándar del umbral (STS) es un empeoramiento promedio de 10 dB o más en 2000, 3000 y 4000 Hz respecto del audiograma basal. En el ejemplo, los cambios son de 10, 15 y 15 dB, con un promedio de unos 13 dB; el cambio se confirma repitiendo la prueba.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "ruido",
+   "saludocupacional"
+  ],
+  "etiketler": [
+   "cambio estándar del umbral",
+   "STS",
+   "audiograma basal",
+   "vigilancia audiométrica",
+   "OSHA",
+   "programa de conservación auditiva",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Qué cambio es una alarma en la vigilancia auditiva laboral?",
+  "bilgiler": [
+   "El STS solo considera 2, 3 y 4 kHz.",
+   "Un empeoramiento promedio de 10 dB o más cuenta como cambio.",
+   "El cambio se confirma repitiendo la prueba, no con una sola medición."
+  ],
+  "hashtag": [
+   "audiologia",
+   "ruido",
+   "saludocupacional"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #336",
+   "metin": "¿Cuándo es *una alarma?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Qué cambio es una alarma en la vigilancia auditiva laboral?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Promedio de *2, 3 y 4 kHz*",
+   "sayi": "10",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "La definición de cambio estándar del umbral de la OSHA de Estados Unidos usa solo tres frecuencias.",
+    "Son 2000, 3000 y 4000 hertz, donde el daño por ruido aparece primero.",
+    "Cuenta un empeoramiento promedio de 10 decibeles o más respecto del audiograma basal.",
+    "En el ejemplo, cambios de 10, 15 y 15 dan un promedio de unos 13.",
+    "El cambio se confirma repitiendo la prueba; una sola medición no basta."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D225",
+ "kaynak_baslik": "Audiometría laboral y desplazamiento del umbral"
+}

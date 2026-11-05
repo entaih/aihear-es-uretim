@@ -1,0 +1,817 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D016_Temporal_Bone_ES",
+ "kapak": {
+  "ust": "LECCIÓN 16",
+  "baslik": "Hueso<br>*temporal*",
+  "alt": "Donde se aloja el oído",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "temporal_kemik"
+  ]
+ },
+ "youtube": {
+  "baslik": "El hueso temporal: donde se aloja el oído | Lección 16 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos el hueso temporal, que aloja el oído: las porciones escamosa, mastoidea, petrosa y timpánica, las celdillas mastoideas, el conducto auditivo interno, los orificios principales y el trayecto del nervio facial por el hueso. También vemos las fracturas del hueso temporal, la mastoiditis y en qué se diferencia el hueso temporal en los niños.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Gray's Anatomy: The Anatomical Basis of Clinical Practice; Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology; Schuknecht, Pathology of the Ear.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "anatomia",
+   "huesotemporal"
+  ],
+  "etiketler": [
+   "hueso temporal",
+   "os temporale",
+   "porción petrosa",
+   "mastoides",
+   "apófisis mastoides",
+   "conducto auditivo interno",
+   "nervio facial",
+   "cápsula ótica",
+   "anatomía del oído",
+   "fractura del hueso temporal",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 16",
+   "baslik": "El hueso *temporal*",
+   "alt": "Donde se aloja el oído",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos el hueso que aloja el oído: el hueso temporal.",
+    "Veremos las cuatro porciones del hueso temporal, sus orificios principales y su importancia clínica para la audiología."
+   ]
+  },
+  {
+   "id": "genel",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Visión general",
+   "baslik": "La *casa ósea* del oído",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "temporal_kemik",
+     "metin": "Hueso temporal (os temporale)",
+     "cumle": 0
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Conducto auditivo",
+     "cumle": 1
+    },
+    {
+     "parca": "ic_kulak",
+     "metin": "Oído interno",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "Nervio facial",
+     "cumle": 3
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "Nervio auditivo",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "temporal_kemik",
+     "cumle": 0
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "ic_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "En el _lateral y la base_ del cráneo",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Oído medio e interno _en su interior_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Estructuras _muy próximas_ entre sí",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "El hueso temporal, os temporale en latín, es un hueso par situado a los lados y en la base del cráneo.",
+    "La parte interna del conducto auditivo, el oído medio y todo el oído interno se encuentran dentro de este hueso.",
+    "En el corte de la pantalla se ven el hueso temporal y el órgano de la audición escondido en su interior.",
+    "El nervio facial y el nervio auditivo también atraviesan este hueso.",
+    "El hueso temporal limita con los huesos parietal, occipital, esfenoides y cigomático, y se articula con la mandíbula.",
+    "Estar dentro de este hueso duro protege las estructuras del oído, pero también las deja muy cerca unas de otras.",
+    "Por eso, la anatomía del hueso temporal es un conocimiento básico tanto para el audiólogo como para el cirujano de oído."
+   ]
+  },
+  {
+   "id": "bolumler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Visión general",
+   "baslik": "Las *porciones* del hueso temporal",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Porción escamosa",
+     "cumle": 1,
+     "metin": "Lámina delgada y plana en la sien"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Porción mastoidea",
+     "cumle": 2,
+     "metin": "Detrás de la oreja, apófisis mastoides"
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Porción petrosa",
+     "cumle": 3,
+     "metin": "Pirámide dura, oído interno"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Porción timpánica",
+     "cumle": 4,
+     "metin": "Pared ósea del conducto auditivo"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Apófisis estiloides",
+     "cumle": 5,
+     "metin": "Proyección delgada y puntiaguda"
+    }
+   ],
+   "cumleler": [
+    "Clásicamente, el hueso temporal se estudia en cuatro porciones.",
+    "La porción escamosa, o pars squamosa, es la parte delgada y plana situada en la sien.",
+    "La porción mastoidea, o pars mastoidea, está detrás de la oreja y forma abajo la apófisis mastoides.",
+    "La porción petrosa, o pars petrosa, es la parte dura en forma de pirámide que se extiende hacia la base del cráneo y aloja el oído interno.",
+    "La porción timpánica, o pars tympanica, es una lámina ósea curva que forma la mayor parte de la pared ósea del conducto auditivo.",
+    "Además, hacia abajo se extiende una proyección delgada y puntiaguda: el processus styloideus, o apófisis estiloides.",
+    "Algunas de estas porciones son piezas separadas al nacer y se fusionan en el primer año de vida."
+   ]
+  },
+  {
+   "id": "squamosa",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Porciones externas",
+   "baslik": "Porción escamosa y *timpánica*",
+   "cizim": "temporal_kemik_yan",
+   "etiketler": [
+    {
+     "parca": "pars_squamosa",
+     "metin": "Porción escamosa",
+     "cumle": 0
+    },
+    {
+     "parca": "zigomatik_cikinti",
+     "metin": "Apófisis cigomática",
+     "cumle": 1
+    },
+    {
+     "parca": "mandibular_cukur",
+     "metin": "Fosa mandibular",
+     "cumle": 2
+    },
+    {
+     "parca": "pars_tympanica",
+     "metin": "Conducto óseo: porción timpánica",
+     "cumle": 4
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Membrana timpánica",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "pars_tympanica",
+     "cumle": 4
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Apófisis cigomática: _arco cigomático_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Articulación mandibular: _delante del conducto_",
+     "cumle": 3,
+     "ikon": "agri"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 4,
+     "olcek": 1.5
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 5,
+     "olcek": 1.9
+    }
+   ],
+   "cumleler": [
+    "La porción escamosa es una lámina ósea delgada y plana en la que se inserta el músculo temporal.",
+    "La apófisis cigomática se extiende hacia adelante y se une al hueso del pómulo para formar el arco cigomático.",
+    "La fosa mandibular, debajo de esta apófisis, recibe la cabeza de la mandíbula.",
+    "La articulación temporomandibular está justo delante del conducto auditivo, por eso su dolor a veces se siente como dolor de oído.",
+    "La porción timpánica forma las paredes anterior e inferior del conducto auditivo óseo, y parte de su pared posterior.",
+    "El borde de la membrana timpánica se aloja en un fino surco en el extremo interno del conducto óseo; lo veremos en detalle más adelante."
+   ],
+   "ayar": {
+    "kondil_cumle": 3
+   }
+  },
+  {
+   "id": "mastoid",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Porciones externas",
+   "baslik": "La mastoides y sus *celdillas*",
+   "cizim": "orta_kulak_ic_duvar",
+   "etiketler": [
+    {
+     "parca": "mastoid_hucreleri",
+     "metin": "Celdillas mastoideas",
+     "cumle": 2
+    },
+    {
+     "parca": "antrum",
+     "metin": "Antro mastoideo",
+     "cumle": 3
+    },
+    {
+     "parca": "aditus",
+     "metin": "Aditus ad antrum",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "mastoid_hucreleri",
+     "cumle": 2
+    },
+    {
+     "parca": "antrum",
+     "cumle": 3
+    },
+    {
+     "parca": "aditus",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Comunicada_ con el oído medio",
+     "cumle": 3,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Mastoiditis: _extensión de la infección_",
+     "cumle": 4,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "Aquí va el _vibrador óseo_",
+     "cumle": 6,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "mastoid_hucreleri",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "aditus",
+     "cumle": 4,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "La porción mastoidea termina en el relieve óseo que palpamos detrás de la oreja, la apófisis mastoides.",
+    "En esta apófisis se inserta el músculo esternocleidomastoideo, situado a un lado del cuello.",
+    "El interior de la mastoides está lleno de pequeños espacios con aire que parecen un panal: las celdillas mastoideas.",
+    "Estas celdillas se abren al oído medio a través de un espacio amplio, el antro mastoideo, y de un paso estrecho, el aditus ad antrum.",
+    "Por eso, una infección del oído medio puede extenderse a la mastoides; esto se llama mastoiditis.",
+    "El desarrollo de las celdillas mastoideas se llama neumatización; continúa después del nacimiento y varía mucho entre personas.",
+    "Esta apófisis mastoides es también donde colocamos el vibrador en la prueba de conducción ósea."
+   ]
+  },
+  {
+   "id": "petrosa",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Porción petrosa",
+   "baslik": "La porción petrosa: *casa del oído interno*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "Cóclea",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Canales semicirculares",
+     "cumle": 2
+    },
+    {
+     "parca": "ic_kulak",
+     "metin": "Oído interno dentro de la cápsula ótica",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "temporal_kemik",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 4
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Cápsula ótica: el hueso _más duro_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tegmen tympani: _techo del oído medio_",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 5,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "La porción petrosa es la parte más dura del hueso temporal; su nombre viene de la palabra latina para roca.",
+    "Tiene forma de pirámide; su base está hacia afuera y su vértice apunta hacia el centro de la base del cráneo.",
+    "El oído interno, es decir, la cóclea, el vestíbulo y los canales semicirculares, está en lo profundo de este hueso duro.",
+    "La capa ósea más dura que rodea el oído interno se llama cápsula ótica; está entre los huesos más densos del cuerpo.",
+    "Un relieve en la cara superior de la pirámide, la eminencia arcuata, marca la posición del canal semicircular superior que está debajo.",
+    "Aquí una lámina delgada, el tegmen tympani, forma el techo del oído medio y lo separa de la fosa craneal media.",
+    "Como el tegmen es muy delgado, en casos raros una enfermedad del oído medio puede extenderse al interior del cráneo."
+   ]
+  },
+  {
+   "id": "ic_kulak_yolu",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Porción petrosa",
+   "baslik": "El conducto auditivo *interno*",
+   "cizim": "ic_kulak_yolu_dibi",
+   "ayar": {
+    "sinir_cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "labirent_arteri",
+     "metin": "Arteria laberíntica",
+     "cumle": 1
+    },
+    {
+     "parca": "transvers_krista",
+     "metin": "Cresta transversa",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "Nervio facial",
+     "cumle": 3
+    },
+    {
+     "parca": "ust_vestibuler_sinir",
+     "metin": "Nervio vestibular superior",
+     "cumle": 3
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Nervio coclear",
+     "cumle": 4
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "Nervio vestibular inferior",
+     "cumle": 4
+    },
+    {
+     "parca": "dikey_krista",
+     "metin": "Barra de Bill",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "transvers_krista",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 4
+    },
+    {
+     "parca": "dikey_krista",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En la cara posterior de la pirámide hay un orificio: el meatus acusticus internus, o conducto auditivo interno.",
+    "Por este conducto pasan el nervio facial, el nervio de la audición y el equilibrio, y la arteria laberíntica, que irriga el oído interno.",
+    "El fondo del conducto está dividido en una parte superior y otra inferior por una cresta ósea horizontal.",
+    "En la parte superior, el nervio facial está adelante y el nervio vestibular superior, atrás.",
+    "En la parte inferior, el nervio coclear está adelante y el nervio vestibular inferior, atrás.",
+    "La cresta ósea vertical que divide la parte superior en anterior y posterior se llama barra de Bill, por el cirujano que la describió.",
+    "Por esta disposición, una masa en el conducto auditivo interno puede afectar a la vez la audición, el equilibrio y los músculos faciales."
+   ]
+  },
+  {
+   "id": "delikler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Porción petrosa",
+   "baslik": "Orificios y *vasos principales*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Agujero estilomastoideo",
+     "cumle": 1,
+     "metin": "Salida del nervio facial"
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Conducto carotídeo",
+     "cumle": 2,
+     "metin": "Arteria carótida interna"
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Bulbo yugular",
+     "cumle": 3,
+     "metin": "Bajo el piso del oído medio"
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Seno sigmoideo",
+     "cumle": 4,
+     "metin": "Cara interna de la mastoides"
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Tinnitus pulsátil",
+     "cumle": 5,
+     "metin": "Vasos sanguíneos cercanos"
+    }
+   ],
+   "cumleler": [
+    "El hueso temporal tiene muchos orificios y conductos por los que pasan estructuras importantes.",
+    "El agujero estilomastoideo es el orificio entre las apófisis estiloides y mastoides; por aquí el nervio facial sale del hueso temporal.",
+    "El conducto carotídeo lleva la arteria carótida interna, que irriga el cerebro, y está muy cerca de la pared anterior del oído medio.",
+    "Justo debajo del piso del oído medio se encuentra el bulbo yugular, el comienzo de la vena yugular.",
+    "Por la cara interna de la mastoides corre el seno sigmoideo, que drena la sangre del cerebro.",
+    "El tinnitus pulsátil, que se oye al ritmo de los latidos, puede relacionarse con estos vasos cercanos; lo veremos en próximas lecciones."
+   ]
+  },
+  {
+   "id": "fasiyal",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Importancia clínica",
+   "baslik": "El trayecto del *nervio facial*",
+   "cizim": "orta_kulak_ic_duvar",
+   "etiketler": [
+    {
+     "parca": "genikulat_ganglion",
+     "metin": "Ganglio geniculado",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_kanal",
+     "metin": "Conducto facial",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "Ventana oval",
+     "cumle": 2
+    },
+    {
+     "parca": "stapedius_dali",
+     "metin": "Ramo al estapedio",
+     "cumle": 4
+    },
+    {
+     "parca": "chorda_tympani",
+     "metin": "Cuerda del tímpano",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 0
+    },
+    {
+     "parca": "genikulat_ganglion",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_kanal",
+     "cumle": 2
+    },
+    {
+     "parca": "chorda_tympani",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Justo encima_ de la ventana oval",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Hay que _protegerlo_ en cirugía",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "El nervio facial sigue un trayecto largo y sinuoso dentro del hueso temporal.",
+    "Entra por el conducto auditivo interno y, tras un segmento corto, hace un giro brusco a nivel del ganglio geniculado.",
+    "Luego corre dentro del conducto facial, en la pared interna del oído medio, justo encima de la ventana oval.",
+    "Después gira hacia abajo, desciende por la mastoides y sale por el agujero estilomastoideo.",
+    "En su recorrido da un ramo al músculo estapedio y el ramo de la cuerda del tímpano, que lleva fibras del gusto.",
+    "Este largo trayecto por el hueso hace que proteger el nervio facial sea muy importante en las fracturas y en la cirugía de oído."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Importancia clínica",
+   "baslik": "El hueso temporal *en la clínica*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Fractura longitudinal",
+     "cumle": 2,
+     "metin": "Más común, conductiva"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Fractura transversal",
+     "cumle": 3,
+     "metin": "Oído interno, nervio facial"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Cápsula ótica",
+     "cumle": 4,
+     "metin": "Preservada o comprometida"
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Mastoiditis, colesteatoma",
+     "cumle": 5,
+     "metin": "Extensión dentro del hueso"
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Imágenes",
+     "cumle": 6,
+     "metin": "TC y resonancia magnética"
+    }
+   ],
+   "cumleler": [
+    "El hueso temporal aparece en audiología en muchas situaciones clínicas.",
+    "Tras un traumatismo de cráneo pueden producirse fracturas del hueso temporal.",
+    "Clásicamente, las fracturas longitudinales son más comunes y afectan sobre todo el oído medio, con una pérdida conductiva.",
+    "Las fracturas transversales afectan con más frecuencia el oído interno; puede haber pérdida neurosensorial, vértigo y parálisis facial.",
+    "Hoy las fracturas también se clasifican según preserven o comprometan la cápsula ótica; las segundas tienen un curso más grave.",
+    "Enfermedades como la mastoiditis aguda y el colesteatoma también se extienden dentro del hueso temporal.",
+    "El detalle óseo se estudia con tomografía computarizada, o TC, y los nervios y tejidos blandos, con resonancia magnética."
+   ]
+  },
+  {
+   "id": "cocuk",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Importancia clínica",
+   "baslik": "El hueso temporal *en los niños*",
+   "maddeler": [
+    {
+     "metin": "Apófisis mastoides: _primeros dos años_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Salida del nervio facial _más superficial_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "El conducto óseo se desarrolla _después_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Cóclea: _tamaño adulto_ al nacer",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "Conducto auditivo",
+      "cumle": 3
+     },
+     {
+      "parca": "koklea",
+      "metin": "Cóclea",
+      "cumle": 5
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "temporal_kemik",
+      "cumle": 1
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 3
+     },
+     {
+      "parca": "koklea",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "En los lactantes, el hueso temporal es claramente distinto del de los adultos.",
+    "Al nacer, la apófisis mastoides aún no se ha desarrollado; suele hacerse prominente en los dos primeros años de vida.",
+    "Por eso, en los lactantes, el punto donde el nervio facial sale del hueso es más superficial y está más expuesto a la presión externa.",
+    "La porción ósea del conducto auditivo tampoco existe al nacer; el conducto óseo se desarrolla a medida que crece el anillo timpánico.",
+    "Por eso el conducto del lactante es más blando, y en la otoscopia el pabellón se tracciona en otra dirección; lo veremos más adelante.",
+    "La cóclea, en cambio, tiene tamaño adulto al nacer; el tamaño del oído interno no cambia a medida que el niño crece."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Tras un traumatismo de cráneo con quejas auditivas, medir juntas la vía aérea y la ósea: puede afectarse el oído medio, el interno o ambos. Informar al médico.",
+   "cumleler": [
+    "Un consejo para la clínica: si una persona con traumatismo de cráneo refiere problemas de audición, no se queden en la conducción aérea.",
+    "En una fractura del hueso temporal puede afectarse el oído medio, el oído interno o ambos.",
+    "Medir juntas la conducción aérea y la ósea muestra el tipo de pérdida; pregunten también por mareos y debilidad facial.",
+    "Los hallazgos se comparten con el médico para la derivación; las decisiones de diagnóstico y tratamiento corresponden al médico."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Cuatro porciones: _escamosa, mastoidea, petrosa, timpánica_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Oído interno: dentro de la _porción petrosa_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Celdillas mastoideas abiertas _al oído medio_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Nervio facial: largo trayecto _por el hueso_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "El hueso temporal se estudia en cuatro porciones: escamosa, mastoidea, petrosa y timpánica.",
+    "El oído interno está dentro de la parte más dura, la porción petrosa, rodeado por la cápsula ótica.",
+    "Las celdillas mastoideas se abren al oído medio a través del antro; por esta vía la infección puede extenderse a la mastoides.",
+    "El nervio facial entra por el conducto auditivo interno, sigue un largo trayecto por el hueso y sale por el agujero estilomastoideo."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿En qué porción del hueso temporal está el oído interno?",
+   "secenekler": [
+    "Porción escamosa",
+    "Porción petrosa",
+    "Porción timpánica",
+    "Apófisis estiloides"
+   ],
+   "dogru": 1,
+   "aciklama": "El oído interno está protegido por la cápsula ótica dentro de la _porción petrosa_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿en qué porción del hueso temporal se encuentra el oído interno?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: la porción petrosa, o pars petrosa.",
+    "El oído interno está protegido dentro de un hueso muy duro llamado cápsula ótica."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Anatomía* del oído externo: pabellón y conducto",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección estudiaremos la parte visible del oído: el pabellón auricular y el conducto auditivo.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

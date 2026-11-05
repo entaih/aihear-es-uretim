@@ -1,0 +1,827 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D087_Interaural_Attenuation_ES",
+ "kapak": {
+  "ust": "LECCIÓN 87",
+  "baslik": "¿Por qué<br>*enmascarar?*",
+  "alt": "Audición cruzada y atenuación interaural",
+  "cizim": "maskeleme"
+ },
+ "youtube": {
+  "baslik": "¿Por qué enmascarar? La atenuación interaural | Lección 87 | AIHEAR Academia de Audiología",
+  "aciklama": "El sonido presentado al oído evaluado puede atravesar el cráneo hasta la cóclea opuesta y dar umbrales falsos. En esta lección usamos audiogramas de ejemplo para ver la audición cruzada, la curva sombra, los valores de atenuación interaural (AI) y las ventajas de los auriculares de inserción.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry; BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "enmascaramiento",
+   "audiometria"
+  ],
+  "etiketler": [
+   "enmascaramiento clínico",
+   "atenuación interaural",
+   "audición cruzada",
+   "curva sombra",
+   "auriculares de inserción",
+   "auriculares supraaurales",
+   "umbrales enmascarados",
+   "audiometría tonal",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 87",
+   "baslik": "¿Por qué *enmascarar*? La atenuación interaural",
+   "alt": "Audición cruzada, curva sombra y atenuación interaural",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos por qué se necesita el enmascaramiento clínico y qué significa la atenuación interaural.",
+    "También aprenderemos a reconocer la curva sombra y veremos por qué los auriculares de inserción tienen una ventaja."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Audición cruzada",
+   "baslik": "El sonido pasa al *otro oído*",
+   "maddeler": [
+    {
+     "metin": "El sonido de prueba _hace vibrar_ el cráneo",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "La otra cóclea puede _detectarlo_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Audición cruzada_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Resultado: un umbral _falso_",
+     "cumle": 5,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "ayar": {
+     "ia_db": 40
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "test_kulagi",
+      "cumle": 1
+     },
+     {
+      "parca": "kafatasi",
+      "cumle": 1
+     },
+     {
+      "parca": "karsi_kulak",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "test_kulagi",
+      "metin": "Oído evaluado",
+      "cumle": 1
+     },
+     {
+      "parca": "karsi_kulak",
+      "metin": "Oye la otra cóclea",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "En la audiometría tonal queremos encontrar el umbral de cada oído por separado.",
+    "Pero cuando se presenta un sonido lo bastante fuerte al oído evaluado, el auricular también hace vibrar el cráneo.",
+    "Esta vibración llega por vía ósea a la cóclea del lado opuesto, y esa cóclea puede detectar el sonido.",
+    "Esto se llama audición cruzada.",
+    "El paciente indica que oyó el sonido, pero en realidad lo oyó con el oído opuesto, no con el oído que se está evaluando.",
+    "Así, el umbral que registramos no es el umbral real del oído evaluado.",
+    "Si la audición de ambos oídos es parecida, este problema rara vez aparece; el verdadero riesgo surge cuando hay una gran diferencia entre los oídos."
+   ]
+  },
+  {
+   "id": "zayiflama",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Audición cruzada",
+   "baslik": "Atenuación *interaural*",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40
+   },
+   "vurgula": [
+    {
+     "parca": "test_kulagi",
+     "cumle": 0
+    },
+    {
+     "parca": "kafatasi",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "test_kulagi",
+     "metin": "oído evaluado",
+     "cumle": 0
+    },
+    {
+     "parca": "kafatasi",
+     "metin": "cráneo",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "metin": "oído opuesto",
+     "cumle": 2
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "AI: unos 40 dB",
+     "cumle": 3
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "metin": "ruido enmascarante",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "AI: intensidad perdida al cruzar",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "70 dB menos 40 dB: cruzan 30 dB",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Solución: ruido en el oído opuesto",
+     "cumle": 6,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "El esquema muestra el oído evaluado y el oído opuesto.",
+    "El sonido presentado al oído evaluado se debilita en cierta medida al atravesar el cráneo hacia el otro lado.",
+    "El sonido que llega a la cóclea opuesta tiene menos intensidad que el sonido original.",
+    "Esta magnitud de debilitamiento se llama atenuación interaural, o AI.",
+    "Por ejemplo, si la AI es de cuarenta decibeles, un sonido de setenta decibeles en el oído evaluado llega a la cóclea opuesta con unos treinta decibeles.",
+    "Si el umbral por vía ósea del oído opuesto es de treinta decibeles o mejor, este sonido puede oírse allí.",
+    "Para evitarlo, presentamos ruido al oído opuesto; este procedimiento se llama enmascaramiento clínico."
+   ]
+  },
+  {
+   "id": "sonuclar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Audición cruzada",
+   "baslik": "Umbral falso, *decisión equivocada*",
+   "maddeler": [
+    {
+     "metin": "La pérdida parece _más leve_ de lo real",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Una _brecha aéreo-ósea_ falsa",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Decisiones erróneas de _derivación_ y de audífono",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Una pérdida unilateral _pasa inadvertida_",
+     "cumle": 4,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "Si la audición cruzada pasa inadvertida, la pérdida del oído peor parece más leve de lo que realmente es.",
+    "Por ejemplo, un oído sin ninguna audición puede registrarse como si tuviera una pérdida moderada.",
+    "Las respuestas por vía ósea sin enmascarar pueden hacer que una pérdida neurosensorial parezca conductiva.",
+    "Estos errores pueden llevar a derivaciones equivocadas, decisiones inadecuadas sobre audífonos y estudios innecesarios.",
+    "Como las pérdidas unilaterales severas pueden requerir más estudios, un umbral exacto en ese oído es aún más importante.",
+    "En resumen, el enmascaramiento es el paso básico que garantiza que cada umbral del audiograma pertenece realmente al oído en el que se muestra."
+   ]
+  },
+  {
+   "id": "golge",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "La curva sombra",
+   "baslik": "La curva *sombra*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: audición normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea sin enmascarar",
+     "cumle": 2
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía ósea sin enmascarar",
+     "cumle": 5
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       55,
+       60,
+       60,
+       65,
+       65,
+       70
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 5
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Veamos ahora un ejemplo: en este caso, el oído derecho oye con normalidad.",
+    "El oído izquierdo no tiene ninguna audición; la cóclea izquierda no responde a ningún estímulo.",
+    "Cuando evaluamos el oído izquierdo sin enmascarar, igualmente obtenemos respuestas entre cincuenta y cinco y setenta decibeles.",
+    "Estas respuestas no pertenecen al oído izquierdo; el sonido atravesó el cráneo y lo oyó la cóclea derecha.",
+    "La curva que forman estos umbrales falsos se llama curva sombra; sigue a la curva del oído bueno, más o menos una AI más abajo.",
+    "Los umbrales por vía ósea sin enmascarar del oído izquierdo resultan casi iguales a los del oído derecho.",
+    "Este cuadro puede leerse por error como una pérdida conductiva en el oído izquierdo, aunque ese oído no tenga ninguna audición.",
+    "El enmascaramiento se hace justamente para evitar errores de interpretación graves como este."
+   ]
+  },
+  {
+   "id": "maskeli",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "La curva sombra",
+   "baslik": "El cuadro *real* tras enmascarar",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: audición normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Izquierdo_: enmascarado, sin respuesta",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "yanitsiz": true,
+      "degerler": [
+       100,
+       115,
+       120,
+       120,
+       120,
+       105
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "En el mismo paciente, presentemos un nivel adecuado de ruido enmascarante al oído derecho y evaluemos de nuevo el oído izquierdo.",
+    "Como la cóclea derecha ahora está ocupada con el ruido, ya no hay audición cruzada.",
+    "En el oído izquierdo no hay respuesta ni siquiera con la salida máxima del audiómetro; las flechas hacia abajo indican ausencia de respuesta.",
+    "Los umbrales por vía aérea enmascarados del oído izquierdo se marcan con un cuadrado azul.",
+    "Ahora el audiograma muestra correctamente que no hay respuesta en el oído izquierdo dentro de los límites del equipo."
+   ]
+  },
+  {
+   "id": "isaretler",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "La curva sombra",
+   "baslik": "*Símbolos* de enmascaramiento",
+   "lejant": [
+    {
+     "isaret": "△",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea enmascarada",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Derecho_: vía ósea enmascarada",
+     "cumle": 2
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea enmascarada",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía ósea enmascarada",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava_maskeli",
+      "degerler": [
+       60,
+       65,
+       70,
+       70,
+       75,
+       80
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       55,
+       60,
+       65,
+       65,
+       70
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       15,
+       20,
+       20
+      ],
+      "cumle": 3
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Cuando se usa enmascaramiento, en el audiograma se emplean otros símbolos.",
+    "El umbral por vía aérea enmascarado del oído derecho se muestra con un triángulo rojo, y el del oído izquierdo con un cuadrado azul.",
+    "Los umbrales por vía ósea enmascarados se marcan con un corchete de apertura para el oído derecho y uno de cierre para el izquierdo.",
+    "En este ejemplo, el oído izquierdo es normal y el derecho tiene una pérdida neurosensorial con umbrales confirmados con enmascaramiento.",
+    "Quien lea el audiograma sabrá de inmediato, por estos símbolos, que se usó enmascaramiento.",
+    "Por eso, si se enmascaró, hay que elegir el símbolo correcto y también registrar el nivel de enmascaramiento usado."
+   ]
+  },
+  {
+   "id": "degerler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Valores de AI",
+   "baslik": "*AI* según el transductor",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Auricular supraaural",
+     "metin": "AI conservadora _unos 40 dB_; la más usada",
+     "cumle": 1
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Auricular de inserción",
+     "metin": "AI conservadora _unos 55 dB_; mayor en graves",
+     "cumle": 3
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Vibrador óseo",
+     "metin": "AI _unos 0 dB_; estimula ambas cócleas",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El valor de la AI varía según la persona, la frecuencia y el transductor utilizado.",
+    "Para los auriculares supraaurales, que se apoyan sobre el pabellón, se considera una AI de al menos unos cuarenta decibeles.",
+    "En la mayoría de las personas el valor real es mayor, pero se usa el valor más bajo para ir sobre seguro.",
+    "Para los auriculares de inserción, colocados en el conducto auditivo, la AI es mayor; bien insertados, el valor conservador ronda los cincuenta y cinco decibeles.",
+    "Con auriculares de inserción la AI depende de la frecuencia: en los graves suele superar los setenta decibeles, y en los agudos es menor.",
+    "Para el vibrador óseo se considera una AI de unos cero decibeles; todo el cráneo vibra y se estimulan ambas cócleas.",
+    "Por eso no podemos saber con certeza a qué oído pertenece un umbral por vía ósea sin enmascarar."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Valores de AI",
+   "baslik": "Factores que *influyen* en la AI",
+   "maddeler": [
+    {
+     "metin": "La _estructura de la cabeza_ de cada persona",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "La _frecuencia_ de prueba",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "La _colocación_ del auricular",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "La _profundidad_ de la punta de espuma",
+     "cumle": 4,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "REGLA",
+    "metin": "La AI del paciente es desconocida; usar el valor *más conservador*",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Los valores de AI se midieron en personas con pérdida unilateral total, comparando los umbrales sin enmascarar con los del oído bueno.",
+    "Estas mediciones muestran grandes diferencias entre personas, incluso con el mismo auricular.",
+    "Con auriculares supraaurales, la AI puede variar entre unos cuarenta y ochenta decibeles, según la persona y la frecuencia.",
+    "La forma en que el auricular se asienta en la cabeza y la fuerza con que presiona también influyen en el resultado.",
+    "Con auriculares de inserción, el factor decisivo es la profundidad con que se introduce la punta de espuma en el conducto auditivo.",
+    "Como no podemos conocer la AI propia del paciente, en la clínica siempre usamos el valor más bajo y conservador."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Valores de AI",
+   "baslik": "¿*Cuándo* ocurre la audición cruzada?",
+   "maddeler": [
+    {
+     "metin": "Nivel que cruza: _nivel presentado menos AI_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Comparar con: _vía ósea_ del oído opuesto",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Si alcanza ese umbral: _riesgo_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "La regla detallada: _próxima lección_",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EJEMPLO",
+    "metin": "70 dB menos 40 dB de AI: cruzan *30 dB*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Estimamos de forma aproximada el nivel que llega a la cóclea opuesta restando la AI al nivel presentado al oído evaluado.",
+    "Como el sonido cruzado estimula la cóclea opuesta por vía ósea, lo comparamos con el umbral por vía ósea de ese oído.",
+    "Si el sonido cruzado es igual o mayor que ese umbral por vía ósea, la audición cruzada es posible y hay que enmascarar.",
+    "Por ejemplo, con una AI de cuarenta decibeles, un sonido de prueba de setenta decibeles llega a la cóclea opuesta con unos treinta decibeles.",
+    "En la próxima lección veremos, con audiogramas de ejemplo, cómo tomar esta decisión para la vía aérea."
+   ]
+  },
+  {
+   "id": "nerede",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Valores de AI",
+   "baslik": "¿*Dónde* hay que enmascarar?",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Vía aérea",
+     "metin": "Cuando la diferencia alcanza la AI",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Vía ósea",
+     "metin": "Cuando hay brecha aéreo-ósea",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Pruebas de habla",
+     "metin": "Cuando el nivel presentado es alto",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "En la vía aérea hay que enmascarar cuando el umbral del oído evaluado menos el umbral por vía ósea del oído opuesto alcanza la AI.",
+    "En la vía ósea, como la AI se considera cero, hay que enmascarar cuando se ve una brecha aéreo-ósea significativa en el oído evaluado.",
+    "En las pruebas de habla también se enmascara cuando el nivel presentado es lo bastante alto para cruzar al oído opuesto.",
+    "En las próximas lecciones veremos estas tres situaciones una por una, con audiogramas de ejemplo."
+   ]
+  },
+  {
+   "id": "insert",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 4",
+   "bolum": "Auriculares de inserción",
+   "baslik": "¿Supraaural o *de inserción?*",
+   "sol": {
+    "ust": "Supraaural",
+    "maddeler": [
+     {
+      "metin": "AI de al menos unos 40 dB",
+      "cumle": 0
+     },
+     {
+      "metin": "Se enmascara más a menudo",
+      "cumle": 1
+     },
+     {
+      "metin": "Riesgo de colapso del conducto",
+      "cumle": 2
+     },
+     {
+      "metin": "Mayor efecto de oclusión",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "De inserción",
+    "maddeler": [
+     {
+      "metin": "AI más alta",
+      "cumle": 4
+     },
+     {
+      "metin": "Menos necesidad de enmascarar",
+      "cumle": 4
+     },
+     {
+      "metin": "Dilema de enmascaramiento menos frecuente",
+      "cumle": 5
+     },
+     {
+      "metin": "Punta de espuma desechable",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "Con auriculares supraaurales, la AI baja hace que a menudo haya que enmascarar.",
+    "Sobre todo en las pérdidas unilaterales o asimétricas, puede hacer falta enmascarar en casi todas las frecuencias.",
+    "La presión de los auriculares supraaurales también puede colapsar el conducto auditivo en algunas personas y dar umbrales falsamente elevados.",
+    "Cubrir el oído opuesto con este auricular durante la prueba por vía ósea también genera un efecto de oclusión mayor.",
+    "Como la AI es mayor con los auriculares de inserción, las situaciones que requieren enmascarar se vuelven menos frecuentes.",
+    "El dilema de enmascaramiento que se ve en la pérdida conductiva bilateral también ocurre con menos frecuencia con auriculares de inserción.",
+    "Las puntas de espuma son desechables, lo que es una ventaja adicional para la higiene.",
+    "Sin embargo, los auriculares de inserción pueden no ser utilizables en situaciones como la otorrea o la atresia del conducto."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Auriculares de inserción",
+   "baslik": "El *ruido* enmascarante",
+   "maddeler": [
+    {
+     "metin": "El ruido va al _oído opuesto_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Tonos puros: _ruido de banda estrecha_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Habla: _ruido de habla_",
+     "cumle": 4,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Instrucción: responder solo al _tono_",
+     "cumle": 5,
+     "ikon": "hasta_butonu"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "ayar": {
+     "ia_db": 40
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 0
+     },
+     {
+      "parca": "karsi_kulak",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "metin": "Ruido enmascarante",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "En el enmascaramiento, el ruido siempre se presenta al oído no evaluado, es decir, al oído opuesto.",
+    "El ruido eleva temporalmente el umbral del oído opuesto, de modo que el sonido cruzado no puede oírse allí.",
+    "En la audiometría tonal se usa ruido de banda estrecha centrado en la frecuencia de prueba.",
+    "El ruido de banda estrecha logra el mismo efecto enmascarante con una sonoridad total menor.",
+    "En las pruebas de habla se prefiere el ruido de habla, que se parece al espectro del habla.",
+    "Al paciente se le indica con claridad que ignore el ruido y que responda solo cuando oiga el tono.",
+    "Cuánto ruido hace falta lo veremos en las lecciones sobre el enmascaramiento efectivo y el método de la meseta."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Si los umbrales sin enmascarar del oído peor van paralelos al oído mejor y entre 40 y 60 dB por debajo, sospechar una curva sombra. No informar sin enmascarar.",
+   "cumleler": [
+    "Este es un consejo práctico de la clínica.",
+    "En una pérdida unilateral, los umbrales sin enmascarar del oído peor pueden correr paralelos a la curva del oído mejor.",
+    "Si además la diferencia ronda los cuarenta a sesenta decibeles, es un signo de curva sombra.",
+    "No informen un audiograma así como resultado final sin enmascarar.",
+    "Si en el mismo oído también hay respuestas por vía ósea sin enmascarar, recuerden que puede aparecer una brecha aéreo-ósea falsa."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "_Audición cruzada_: el sonido pasa a la otra cóclea",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_AI_: la pérdida al cruzar",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Supraaural 40, de inserción _unos 55_ dB",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "AI por vía ósea: _unos 0 dB_",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "cumleler": [
+    "Un sonido de prueba intenso puede atravesar el cráneo hasta la cóclea opuesta; esto se llama audición cruzada.",
+    "La pérdida que sufre el sonido al cruzar se llama atenuación interaural, o AI.",
+    "El valor conservador de la AI es de unos cuarenta decibeles para los auriculares supraaurales y de unos cincuenta y cinco para los de inserción.",
+    "En la vía ósea la AI se considera de unos cero decibeles, así que la vía ósea sin enmascarar no nos dice a qué oído pertenece."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Cuántos dB es aproximadamente la AI del vibrador óseo?",
+   "secenekler": [
+    "0 dB",
+    "40 dB",
+    "60 dB",
+    "80 dB"
+   ],
+   "dogru": 0,
+   "aciklama": "El vibrador óseo hace vibrar todo el cráneo; ambas cócleas se estimulan _casi por igual_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuántos decibeles se considera aproximadamente la atenuación interaural del vibrador óseo?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: unos cero decibeles.",
+    "El vibrador óseo hace vibrar todo el cráneo, y ambas cócleas se estimulan casi al mismo nivel."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "¿Cuándo hay que *enmascarar* la vía aérea?",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección usaremos audiogramas de ejemplo para ver cuándo hay que enmascarar en la prueba por vía aérea.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

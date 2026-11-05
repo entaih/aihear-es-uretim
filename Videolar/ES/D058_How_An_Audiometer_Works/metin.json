@@ -1,0 +1,704 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D058_How_An_Audiometer_Works_ES",
+ "kapak": {
+  "ust": "LECCIÓN 58",
+  "baslik": "Cómo funciona<br>un *audiómetro*",
+  "alt": "Controles y transductores",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Cómo funciona un audiómetro: controles y transductores | Lección 58 | AIHEAR Academia de Audiología",
+  "aciklama": "El audiómetro es un equipo que produce sonidos de prueba calibrados y los entrega a través de auriculares, un vibrador óseo o un altavoz. En esta lección comparamos los controles de frecuencia, intensidad, presentación y salida, el cero dB HL y la calibración, los tonos continuos y pulsados, los auriculares supraaurales y de inserción, el vibrador óseo y el altavoz de campo libre.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; IEC 60645-1, Electroacoustics - Audiometric equipment - Part 1: Equipment for pure-tone and speech audiometry; ANSI S3.6, Specification for Audiometers; ISO 389 series, Acoustics - Reference zero for the calibration of audiometric equipment.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audiometria",
+   "audicion"
+  ],
+  "etiketler": [
+   "audiómetro",
+   "auricular supraaural",
+   "auricular de inserción",
+   "vibrador óseo",
+   "campo libre",
+   "calibración del audiómetro",
+   "audiometría tonal",
+   "atenuación interaural",
+   "tono pulsado",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 58",
+   "baslik": "Cómo funciona un *audiómetro*",
+   "alt": "Controles y transductores",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos el audiómetro, la herramienta básica de la audiometría tonal, y sus controles.",
+    "Compararemos los transductores que llevan el sonido al oído: los auriculares, el vibrador óseo y el altavoz."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El audiómetro",
+   "baslik": "¿Qué es un *audiómetro*?",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "cihaz",
+     "metin": "audiómetro",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "auriculares: vía aérea",
+     "cumle": 2
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "vibrador óseo",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "metin": "pulsador de respuesta",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "cihaz",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "cumle": 2
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Un audiómetro es un equipo electrónico que produce sonidos de prueba calibrados a frecuencias e intensidades determinadas."
+    },
+    "Los sonidos que produce llegan al oído o al cráneo a través de transductores.",
+    "Para la prueba de conducción aérea se usan auriculares, y para la de conducción ósea, un vibrador óseo.",
+    "Cuando el paciente oye el sonido, presiona el pulsador de respuesta y se enciende una luz en el equipo.",
+    "Las características y la exactitud de los audiómetros están definidas por normas internacionales.",
+    "Las normas clasifican los audiómetros en tipos, desde equipos clínicos completos hasta equipos de tamizaje que solo evalúan la vía aérea."
+   ]
+  },
+  {
+   "id": "kontroller",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "El audiómetro",
+   "baslik": "*Controles* básicos",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frecuencia",
+     "metin": "Frecuencia del tono (Hz)",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Intensidad (atenuador)",
+     "metin": "Nivel, dB HL",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Presentador de tono",
+     "metin": "Enciende y apaga el sonido",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Selector de salida",
+     "metin": "Derecho, izquierdo, óseo, altavoz",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Segundo canal",
+     "metin": "Ruido al otro oído",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Todo audiómetro tiene algunos controles básicos.",
+    "El control de frecuencia selecciona la frecuencia del tono; la vía aérea suele abarcar de ciento veinticinco a ocho mil hertz.",
+    "El control de intensidad, o atenuador, cambia el nivel en decibeles HL, en pasos de cinco decibeles en la mayoría de los equipos.",
+    "El presentador de tono entrega el sonido en el momento y durante el tiempo elegidos.",
+    "El selector de salida envía el sonido al auricular derecho o izquierdo, al vibrador óseo o al altavoz.",
+    "En los equipos de dos canales, el segundo canal se usa para enviar el ruido de enmascaramiento al oído no evaluado."
+   ]
+  },
+  {
+   "id": "sifir_db",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El audiómetro",
+   "baslik": "Cero dB HL y *calibración*",
+   "maddeler": [
+    {
+     "metin": "0 dB HL: umbral _promedio_ de normoyentes",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Cada frecuencia y transductor: referencia _propia_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Breve _control de escucha_ diario",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Calibración _instrumental_ periódica",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "vurgula": [
+     {
+      "parca": "fisilti",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "El cero decibeles HL de un audiómetro no es silencio; es el umbral promedio de personas jóvenes con audición normal.",
+    "Este punto cero corresponde a un nivel de presión sonora distinto para cada frecuencia y cada transductor; estos valores figuran en las normas.",
+    "Por eso, la audición normal aparece en el audiograma como una línea plana cercana a cero en todas las frecuencias.",
+    "Se recomienda un breve control de escucha diario del equipo.",
+    "Además, el audiómetro suele calibrarse con instrumental de medición al menos una vez al año.",
+    "Los umbrales obtenidos con un equipo mal calibrado son erróneos, por más correcto que sea el método."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El audiómetro",
+   "baslik": "Secciones de habla y *comunicación*",
+   "maddeler": [
+    {
+     "metin": "Entrada de habla: _micrófono_ y grabaciones",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Vúmetro: _nivel_ del habla",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Ruidos_ de enmascaramiento",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Intercomunicador con la _cabina_",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Los audiómetros clínicos también tienen una entrada de micrófono y una entrada para material grabado, para las pruebas de habla.",
+    {
+     "yazi": "El nivel del habla se controla y se ajusta con un medidor llamado vúmetro."
+    },
+    "Para el enmascaramiento hay opciones como el ruido de banda estrecha, el ruido de habla y el ruido de banda ancha.",
+    "También hay un intercomunicador para conversar en ambos sentidos entre la cabina y la sala de control.",
+    "Usaremos estas secciones en detalle en las lecciones de logoaudiometría y de enmascaramiento."
+   ]
+  },
+  {
+   "id": "sunum",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "El audiómetro",
+   "baslik": "Modos de *presentación* del tono",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tono continuo",
+     "metin": "Sin cortes mientras se presiona",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Tono pulsado",
+     "metin": "Se enciende y apaga brevemente",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Detección",
+     "metin": "El tono pulsado se nota más",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Con tinnitus",
+     "metin": "Ayuda a distinguirlo del zumbido",
+     "cumle": 4
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Campo libre",
+     "metin": "Tono modulado en frecuencia",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El tono de prueba puede darse en forma continua o pulsada; ambas se usan en la clínica.",
+    "Un tono continuo suena sin interrupción mientras se mantiene presionada la tecla de tono.",
+    "En un tono pulsado, el sonido se enciende y se apaga varias veces por segundo.",
+    "Para muchos pacientes, el tono pulsado hace que el sonido sea más fácil de notar.",
+    "Sobre todo en pacientes con tinnitus, el tono pulsado ayuda a distinguir el sonido de prueba del zumbido.",
+    "En las pruebas con altavoz se usan tonos modulados en frecuencia, cuya frecuencia oscila levemente.",
+    "El tono siempre se enciende y se apaga de forma suave para que no se oiga un clic; lo importante es usar siempre el mismo modo con un mismo paciente."
+   ]
+  },
+  {
+   "id": "supra",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Transductores",
+   "baslik": "Auriculares *supraaurales*",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "kulaklik",
+     "metin": "auricular supraaural",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "AI de unos 40 dB",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Riesgo de colapso del conducto",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Aislamiento del ruido limitado",
+     "cumle": 5,
+     "ikon": "gurultu"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "kulaklik",
+     "cumle": 0,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Un auricular supraaural es un auricular con almohadilla que se apoya sobre el pabellón auricular.",
+    {
+     "yazi": "Entre los modelos usados en la clínica durante muchos años están el TDH-39 y el DD45."
+    },
+    "Se coloca rápido y con facilidad; no entra nada en el conducto, por lo que es cómodo para personas con conductos sensibles.",
+    "Su atenuación interaural es baja, de unos cuarenta decibeles, por lo que el enmascaramiento se necesita con más frecuencia.",
+    "En algunas personas, la presión del auricular puede hacer que el conducto auditivo colapse; es el colapso del conducto auditivo.",
+    "La almohadilla reduce el ruido de la sala solo en forma limitada."
+   ]
+  },
+  {
+   "id": "insert",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Transductores",
+   "baslik": "Auriculares de *inserción*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "kopuk_uc",
+     "metin": "Punta de espuma en el conducto",
+     "cumle": 0
+    },
+    {
+     "parca": "ses_tupu",
+     "metin": "Tubo sonoro delgado",
+     "cumle": 0
+    },
+    {
+     "parca": "transduser",
+     "metin": "Transductor",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kopuk_uc",
+     "cumle": 0
+    },
+    {
+     "parca": "transduser",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "AI de unos 55 dB",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Evita el colapso del conducto",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Punta desechable",
+     "cumle": 4,
+     "ikon": "enfeksiyon"
+    }
+   ],
+   "cumleler": [
+    "Un auricular de inserción lleva el sonido al conducto auditivo a través de un tubo delgado y una punta de espuma.",
+    {
+     "yazi": "Entre los modelos habituales en la clínica están el ER-3A y el IP30."
+    },
+    "Su atenuación interaural es mayor; el valor conservador es de unos cincuenta y cinco decibeles, y es aún mayor en las frecuencias graves.",
+    "Como mantiene abierto el conducto auditivo, evita el colapso y aísla mejor el ruido de la sala.",
+    "Las puntas de espuma son desechables, lo que también es una ventaja para la higiene.",
+    "Sin embargo, puede no ser utilizable si hay secreción en el conducto o si el conducto no se ha desarrollado, es decir, en la atresia."
+   ],
+   "ayar": {
+    "insert": true
+   }
+  },
+  {
+   "id": "secim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Transductores",
+   "baslik": "¿Supraaural o de *inserción*?",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Supraaural",
+     "metin": "Se coloca rápido y fácil",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "AI baja",
+     "metin": "Unos 40 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Riesgo de colapso",
+     "metin": "El conducto puede colapsar",
+     "cumle": 2
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "De inserción",
+     "metin": "AI de unos 55 dB",
+     "cumle": 3
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Buen aislamiento",
+     "metin": "Evita el colapso",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Colocación correcta",
+     "metin": "Importan tamaño y profundidad",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ambos tipos de auricular tienen su lugar en la clínica; la elección depende del paciente y de la prueba.",
+    "El auricular supraaural se coloca rápido, y no hay que introducir nada en el conducto auditivo.",
+    "En cambio, su atenuación interaural es baja y conlleva un riesgo de colapso del conducto.",
+    "El auricular de inserción reduce la necesidad de enmascaramiento, evita el colapso y aísla mejor el ruido de la sala.",
+    "Pero hay que elegir el tamaño de punta correcto e introducirla a una profundidad adecuada.",
+    "Los auriculares supraaurales se han usado ampliamente durante mucho tiempo, y el uso de los de inserción sigue creciendo."
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Transductores",
+   "baslik": "Auriculares y *audición cruzada*",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40,
+    "test_kulak": "sag"
+   },
+   "etiketler": [
+    {
+     "parca": "test_kulagi",
+     "metin": "oído evaluado",
+     "cumle": 0
+    },
+    {
+     "parca": "karsi_kulak",
+     "metin": "oído no evaluado",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "AI: 40 dB",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "El tipo de auricular determina con qué facilidad el sonido de prueba pasa al otro oído.",
+    "Con un auricular supraaural, un sonido de setenta decibeles, atenuado en cuarenta, puede llegar a la otra cóclea con unos treinta decibeles.",
+    "Con un auricular de inserción, el mismo sonido se atenúa al menos cincuenta y cinco decibeles y llega al otro lado con unos quince.",
+    "Así, con auriculares de inserción hay que enmascarar menos frecuencias, sobre todo en las pérdidas asimétricas.",
+    "Veremos en detalle las reglas del enmascaramiento más adelante, en lecciones aparte."
+   ]
+  },
+  {
+   "id": "vibrator",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Transductores",
+   "baslik": "El *vibrador* óseo",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "vibrador óseo",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Mastoides o frente",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Por lo general, 250 a 4000 Hz",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "AI de unos 0 dB",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 0,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Un vibrador óseo convierte la señal eléctrica en una vibración mecánica que se transmite al cráneo."
+    },
+    {
+     "yazi": "Entre los modelos habituales en la clínica están el B-71 y el B-81."
+    },
+    "El vibrador se coloca sobre la mastoides o la frente con una diadema.",
+    "Su salida máxima es mucho menor que la de los auriculares, y el rango de prueba suele ir de doscientos cincuenta a cuatro mil hertz.",
+    "En la conducción ósea, la atenuación interaural es de casi cero, por lo que la vía ósea sin enmascarar refleja la mejor de las dos cócleas."
+   ]
+  },
+  {
+   "id": "hoparlor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Transductores",
+   "baslik": "El altavoz de *campo libre*",
+   "maddeler": [
+    {
+     "metin": "Sonido desde el _altavoz_ de la cabina",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Tono modulado o ruido de _banda estrecha_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "El resultado refleja el _mejor oído_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Niños y pruebas _con audífono_",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "CAMPO LIBRE",
+    "metin": "El resultado muestra el oído que *oye mejor*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "En las pruebas en campo libre, el sonido se da desde un altavoz en la cabina en lugar de auriculares.",
+    "El paciente se sienta a una distancia y un ángulo determinados respecto del altavoz, y la calibración se hace para esa posición de escucha.",
+    "Para evitar ondas estacionarias en la sala, se usan tonos modulados en frecuencia o ruido de banda estrecha en lugar de tonos puros.",
+    "Como el sonido llega a ambos oídos, el resultado refleja la audición del mejor oído.",
+    "El campo libre se usa con niños pequeños que no aceptan auriculares y para las mediciones con audífonos o implantes.",
+    "Si cambia la posición de la cabeza del paciente, también cambia el nivel sonoro que llega al oído, por eso la posición de asiento se mantiene fija."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 2",
+   "bolum": "Transductores",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de empezar el día, escuchar brevemente cada auricular y el vibrador. Un cable que cruje, lados invertidos o un sonido cortado arruinan los resultados sin aviso.",
+   "cumleler": [
+    "Un consejo clínico: cada mañana, antes del primer paciente, hagan un breve control de escucha del audiómetro.",
+    "Escuchen algunas frecuencias a nivel bajo por cada auricular y por el vibrador, y confirmen que derecha e izquierda salen por el lado correcto.",
+    "Muevan suavemente los cables para detectar crujidos o cortes.",
+    "Este control breve protege la confiabilidad de cada medición que se haga durante el día."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Controles: _frecuencia_, intensidad, presentación, salida",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "0 dB HL: umbral _promedio_ de normoyentes",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Inserción: AI _mayor_, sin colapso",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "AI del vibrador óseo: _unos 0 dB_",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "cumleler": [
+    "Los controles básicos de un audiómetro son la frecuencia, la intensidad, la presentación del tono y la selección de salida.",
+    "Cero decibeles HL es el umbral promedio de personas jóvenes con audición normal y se calibra por separado para cada transductor.",
+    "Los auriculares de inserción dan una atenuación interaural mayor que los supraaurales y evitan el colapso del conducto.",
+    "Con el vibrador óseo, la atenuación interaural es de casi cero, y un resultado en campo libre refleja el oído que oye mejor."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Qué transductor tiene la mayor atenuación interaural?",
+   "secenekler": [
+    "Auricular supraaural",
+    "Auricular de inserción",
+    "Vibrador óseo",
+    "Altavoz de campo libre"
+   ],
+   "dogru": 1,
+   "aciklama": "La AI conservadora es de unos _55 dB_ con inserción, 40 dB con supraaural y 0 dB con el vibrador.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué transductor tiene la mayor atenuación interaural?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: el auricular de inserción."
+    },
+    "El valor conservador es de unos cincuenta y cinco decibeles con auriculares de inserción, cuarenta con supraaurales y cero con el vibrador óseo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Preparación para la audiometría *tonal*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo prepararse para la prueba, cómo dar las instrucciones al paciente y cómo colocar bien los auriculares.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

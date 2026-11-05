@@ -1,0 +1,713 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D056_Case_History_ES",
+ "kapak": {
+  "ust": "LECCIÓN 56",
+  "baslik": "La anamnesis<br>*audiológica*",
+  "alt": "La pregunta correcta, la prueba correcta",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      25,
+      45,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      15,
+      15,
+      30,
+      50,
+      30
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Cómo hacer la anamnesis audiológica | Lección 56 | AIHEAR Academia de Audiología",
+  "aciklama": "La anamnesis audiológica es el primer paso: decide qué pruebas se hacen y orienta la interpretación de los resultados. En esta lección vemos las preguntas sobre pérdida auditiva, tinnitus y mareo, los síntomas que requieren derivación urgente, los antecedentes de ruido, fármacos y familiares, las diferencias entre la anamnesis del niño y la del adulto, y la entrevista libre frente a los formularios estructurados.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; JCIH, Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; Lopez-Escamez et al. (2015), Diagnostic criteria for Meniere's disease, Journal of Vestibular Research; Regulation on the Protection of Employees from Noise-Related Risks, Türkiye (2013).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "anamnesis",
+   "audicion"
+  ],
+  "etiketler": [
+   "anamnesis audiológica",
+   "historia clínica",
+   "pérdida auditiva",
+   "tinnitus",
+   "vértigo",
+   "antecedentes familiares",
+   "hipoacusia inducida por ruido",
+   "fármacos ototóxicos",
+   "anamnesis pediátrica",
+   "signos de alarma",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 56",
+   "baslik": "La *anamnesis* audiológica",
+   "alt": "La pregunta, la prueba y la derivación correctas",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo hacer la anamnesis audiológica, es decir, la historia clínica del paciente.",
+    "Veremos las preguntas sobre pérdida auditiva, tinnitus y mareo, los factores de riesgo y las diferencias entre la anamnesis del niño y la del adulto."
+   ]
+  },
+  {
+   "id": "amac",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El propósito de la anamnesis",
+   "baslik": "¿*Por qué* importa la anamnesis?",
+   "maddeler": [
+    {
+     "metin": "_Define_ la elección y el orden de pruebas",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Orienta_ la interpretación de resultados",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Detecta_ la necesidad de derivación urgente",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Inicia_ una relación de confianza",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 1
+     }
+    ],
+    "cumle": 1
+   },
+   "cumleler": [
+    "La anamnesis es una indagación sistemática de las quejas del paciente y de sus antecedentes de salud.",
+    "Una buena anamnesis decide qué pruebas se hacen y en qué orden.",
+    "Orienta la interpretación; por ejemplo, una muesca en cuatro mil hertz significa más en alguien con antecedentes de ruido.",
+    "Nos permite detectar a tiempo las situaciones que requieren una derivación urgente.",
+    "También es el primer paso para construir confianza con el paciente.",
+    "Además, la anamnesis sirve de referencia para comprobar que los hallazgos posteriores sean coherentes entre sí."
+   ]
+  },
+  {
+   "id": "ortam",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El propósito de la anamnesis",
+   "baslik": "El *entorno* de la entrevista",
+   "maddeler": [
+    {
+     "metin": "Sala silenciosa, _cara a cara_",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Audífonos _puestos_, si los usa",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Empezar con una pregunta _abierta_",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "_Evitar_ las preguntas inductivas",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Las propias _palabras_ del paciente",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PREGUNTA ABIERTA",
+    "metin": "¿Qué lo *trae* hoy por aquí?",
+    "cumle": 2
+   },
+   "cumleler": [
+    "La entrevista se hace cara a cara en una sala silenciosa; la luz sobre el rostro del evaluador facilita la lectura labial.",
+    "Si el paciente usa audífonos, mantenerlos puestos durante la entrevista facilita la comunicación.",
+    "Empezar con una pregunta abierta, como qué lo trae hoy por aquí, revela la prioridad del propio paciente.",
+    "Luego, los detalles se completan con preguntas cerradas, y se evitan las preguntas inductivas.",
+    "Las quejas se registran, en lo posible, con las propias palabras del paciente."
+   ]
+  },
+  {
+   "id": "isitme_kaybi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Preguntar por las quejas",
+   "baslik": "*Preguntar* por la pérdida auditiva",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "¿Qué oído?",
+     "metin": "La asimetría puede requerir más estudios",
+     "cumle": 1
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "¿Cuándo?",
+     "metin": "La pérdida súbita es urgente",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "¿Qué evolución?",
+     "metin": "Progresiva o fluctuante",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "¿Dónde cuesta?",
+     "metin": "Ruido, teléfono, televisión",
+     "cumle": 4
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "¿Algo más?",
+     "metin": "Secreción, dolor, plenitud",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Ante una queja de pérdida auditiva, pregunten primero qué oído está afectado.",
+    "Las pérdidas unilaterales, o claramente distintas entre ambos oídos, pueden requerir más estudios.",
+    "Pregunten cuándo y cómo comenzó; una pérdida súbita que se instala en setenta y dos horas requiere derivación urgente.",
+    "Pregunten por la evolución: las pérdidas lentamente progresivas, fluctuantes o episódicas apuntan a cuadros distintos.",
+    "Las situaciones donde la persona tiene dificultad, como en ruido, al teléfono o con la televisión, muestran el impacto en su vida diaria.",
+    "Pregunten siempre también por los síntomas acompañantes, como secreción del oído, dolor y sensación de plenitud."
+   ]
+  },
+  {
+   "id": "tinnitus",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Preguntar por las quejas",
+   "baslik": "Preguntar por el *tinnitus*",
+   "maddeler": [
+    {
+     "metin": "Lado: _un_ oído o ambos",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tipo: pitido, zumbido, _pulsátil_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Duración y constancia",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "_Efecto_ en sueño, concentración y ánimo",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "vurgula": [
+     {
+      "parca": "ic_kulak",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "koklea",
+      "metin": "cóclea",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "El tinnitus es la percepción de un sonido sin ninguna fuente sonora externa.",
+    "Pregunten primero en qué oído, o en qué parte de la cabeza, se percibe; el tinnitus unilateral puede requerir más evaluación.",
+    "Pregunten por el tipo de sonido: ¿es un pitido, un zumbido, o un sonido al ritmo de los latidos, es decir, pulsátil?",
+    "Anoten cuánto tiempo lleva y si es constante o intermitente.",
+    "Su efecto en el sueño, la concentración y el estado de ánimo muestra cuánto afecta el tinnitus a la vida de la persona.",
+    "El tinnitus pulsátil y el tinnitus unilateral están entre las situaciones que requieren derivación al médico."
+   ]
+  },
+  {
+   "id": "vertigo",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Preguntar por las quejas",
+   "baslik": "Mareo: la pista de la *duración*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Segundos",
+     "metin": "VPPB; lo desencadena la posición cefálica",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Minutos a horas",
+     "metin": "Ménière; pérdida, tinnitus, plenitud",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Días, constante",
+     "metin": "Neuritis vestibular; audición casi siempre normal",
+     "cumle": 4
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Minutos a días",
+     "metin": "Migraña vestibular; cefalea, fotofobia",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Ante un mareo, pregunten primero qué se siente: ¿una sensación de giro, es decir, vértigo, o inestabilidad, o sensación de desmayo?",
+    "La duración y el desencadenante de las crisis son la información más valiosa para acotar la causa probable.",
+    "Un giro de segundos al darse vuelta en la cama puede corresponder a un vértigo posicional paroxístico benigno (VPPB).",
+    "Crisis de veinte minutos a doce horas, con pérdida auditiva, tinnitus y plenitud, pueden sugerir la enfermedad de Ménière.",
+    "Un giro constante que dura días puede verse, por ejemplo, en la neuritis vestibular.",
+    "Las crisis de duración variable con cefalea o sensibilidad a la luz pueden hacer pensar en una migraña vestibular."
+   ]
+  },
+  {
+   "id": "acil",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Preguntar por las quejas",
+   "baslik": "Lo que requiere derivación *urgente*",
+   "maddeler": [
+    {
+     "metin": "Hipoacusia _súbita_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tinnitus unilateral o _pulsátil_",
+     "cumle": 1,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Secreción, sangrado, dolor intenso",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Mareo con signos _neurológicos_",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Debilidad_ facial nueva",
+     "cumle": 4,
+     "ikon": "hastane"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SIGNO DE ALARMA",
+    "metin": "La pérdida súbita y los signos *neurológicos* no pueden esperar",
+    "cumle": 0
+   },
+   "cumleler": [
+    "La hipoacusia súbita es un cuadro en el que el tiempo importa para el tratamiento, y se deriva al médico sin demora.",
+    "El tinnitus unilateral o pulsátil y una diferencia inexplicable entre los oídos también pueden requerir más estudios.",
+    "Si hay secreción del oído, sangrado o dolor intenso, la evaluación puede posponerse y el paciente se deriva al médico.",
+    "Si el mareo se acompaña de habla arrastrada, visión doble, debilidad o incapacidad para caminar, es una emergencia.",
+    "Los signos neurológicos, como una debilidad facial nueva, también se comunican de inmediato.",
+    "El audiólogo no diagnostica, pero reconocer estos signos y derivar a tiempo es parte de su trabajo."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Factores de riesgo",
+   "baslik": "*Antecedentes* de ruido",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: muesca en 4000 Hz",
+     "cumle": 2
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: muesca similar",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       25,
+       45,
+       25
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       15,
+       30,
+       50,
+       30
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "En los antecedentes de ruido, pregunten por el ruido laboral, el servicio militar y el tiro, el ocio y los hábitos de escucha de música.",
+    "Anoten también cuánto duró la exposición y si se usó protección auditiva.",
+    "En este ejemplo, ambos oídos muestran una muesca en torno a cuatro mil hertz, con recuperación parcial en ocho mil hertz.",
+    "Este cuadro puede corresponder a una hipoacusia inducida por ruido, y la anamnesis refuerza esa interpretación.",
+    {
+     "yazi": "En Turquía, el reglamento de ruido para trabajadores fija valores de acción de 80 y 85 dB(A) y un límite de 87 dB(A) para la exposición diaria."
+    },
+    "Por eso, los antecedentes de ruido laboral importan tanto para la interpretación como para la orientación ocupacional."
+   ]
+  },
+  {
+   "id": "ilac_aile",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Factores de riesgo",
+   "baslik": "Fármacos, salud y antecedentes *familiares*",
+   "maddeler": [
+    {
+     "metin": "Fármacos _ototóxicos_",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Diabetes, enfermedad renal, cardíaca y vascular",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Cirugía de oído, infecciones frecuentes, traumatismo",
+     "cumle": 3,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Pérdida _de inicio temprano_ en la familia",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Matrimonio _consanguíneo_",
+     "cumle": 5,
+     "ikon": "gen_dna"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "vurgula": [
+     {
+      "parca": "koklea",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Algunos fármacos pueden dañar el oído interno; se llaman fármacos ototóxicos.",
+    "Este grupo incluye algunos antibióticos aminoglucósidos, quimioterápicos como el cisplatino y algunos diuréticos en dosis altas.",
+    "También se pregunta por problemas generales de salud, como la diabetes, la enfermedad renal y las enfermedades cardíacas y vasculares.",
+    "Se registran los antecedentes de cirugía de oído, de infecciones de oído frecuentes y de traumatismo craneal.",
+    "Pregunten si alguien en la familia tuvo una pérdida auditiva de inicio temprano, es decir, los antecedentes familiares.",
+    "En Turquía, el matrimonio consanguíneo es un factor de riesgo importante de pérdida auditiva hereditaria y siempre debe preguntarse."
+   ]
+  },
+  {
+   "id": "cocuk",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Niño y adulto",
+   "baslik": "La anamnesis del *niño*",
+   "ogeler": [
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Prenatal",
+     "metin": "Infecciones, fármacos en el embarazo",
+     "cumle": 1
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Parto y recién nacido",
+     "metin": "Prematuridad, cuidados intensivos",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Posnatal",
+     "metin": "Meningitis, otitis media frecuente",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Desarrollo",
+     "metin": "Respuesta al sonido, primeras palabras",
+     "cumle": 4
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Tamizaje",
+     "metin": "Resultado del tamizaje neonatal",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En los niños, la anamnesis suele tomarse a los padres y se pregunta etapa por etapa.",
+    "Para la etapa prenatal, pregunten por infecciones durante el embarazo, como el citomegalovirus, y por los fármacos tomados.",
+    "La prematuridad, el bajo peso al nacer, la estancia en cuidados intensivos neonatales y la ictericia que requiere exanguinotransfusión son riesgos importantes.",
+    "Para la etapa posterior al nacimiento, pregunten por meningitis, traumatismo craneal y otitis media recurrente, es decir, infecciones repetidas del oído medio.",
+    "Pregunten por el desarrollo del lenguaje: ¿el niño se orienta al sonido, y el balbuceo y las primeras palabras aparecieron a tiempo?",
+    "También se registra el resultado del tamizaje auditivo neonatal; un tamizaje aprobado no descarta una pérdida de inicio posterior."
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Niño y adulto",
+   "baslik": "Diferencias entre niño y *adulto*",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Niño",
+     "metin": "Información de los padres",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Desarrollo",
+     "metin": "Hitos del lenguaje y del habla",
+     "cumle": 1
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Escuela",
+     "metin": "Atención, rendimiento, audición en clase",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Adulto",
+     "metin": "Información de la propia persona",
+     "cumle": 3
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Antecedentes de riesgo",
+     "metin": "Trabajo, ruido, fármacos",
+     "cumle": 4
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Objetivos",
+     "metin": "Expectativas y objetivos comunicativos",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En el niño, la información viene sobre todo de los padres; sus observaciones son valiosas, pero a veces incompletas.",
+    "Los hitos del desarrollo del lenguaje y del habla están en el centro de la anamnesis infantil.",
+    "En la edad escolar se pregunta también por la atención, el rendimiento escolar y la dificultad para oír en clase.",
+    "En el adulto, la información suele venir de la propia persona; en los adultos mayores, también ayudan las observaciones de un familiar.",
+    "En los adultos tienen más peso la ocupación, los antecedentes de ruido, los fármacos y los problemas generales de salud.",
+    "Conocer las expectativas y los objetivos comunicativos del adulto también orienta el plan de rehabilitación posterior."
+   ]
+  },
+  {
+   "id": "form",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Niño y adulto",
+   "baslik": "¿Entrevista libre o *formulario*?",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Entrevista libre",
+     "metin": "Flexible; revela la prioridad del paciente",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Formulario estructurado",
+     "metin": "No se omite ninguna pregunta",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Comparación",
+     "metin": "Los registros pueden compararse",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Escalas",
+     "metin": "THI, DHI; validación al turco",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La anamnesis puede tomarse con una entrevista libre o con un formulario estructurado; ambos tienen ventajas.",
+    "La entrevista libre es flexible y revela lo que más le preocupa al paciente.",
+    "El formulario estructurado asegura que no se omita ninguna pregunta importante.",
+    "Los formularios también facilitan comparar los registros a lo largo del tiempo y entre profesionales.",
+    "Hay estudios de validación al turco del Inventario de Discapacidad por Tinnitus (THI) y del Inventario de Discapacidad por Mareo (DHI).",
+    "Muchos profesionales combinan ambos: tras una apertura libre, se completan los vacíos del formulario."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Niño y adulto",
+   "baslik": "Consejo clínico",
+   "metin": "Preguntar con qué oído usa el teléfono. La mayoría usa su mejor oído sin darse cuenta; la respuesta también sugiere qué oído evaluar primero.",
+   "cumleler": [
+    "Un consejo clínico: pregunten al paciente en qué oído se pone el teléfono.",
+    "La mayoría de las personas usa el oído que oye mejor sin darse cuenta.",
+    "Esta pregunta sencilla da una pista útil incluso cuando el paciente no describe una diferencia entre los oídos.",
+    "También pueden usar esta información para empezar la audiometría tonal por el oído que oye mejor."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "La anamnesis _orienta_ pruebas e interpretación",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Preguntas de audición, tinnitus y _mareo_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ruido, fármacos, _familia_, consanguinidad",
+     "cumle": 2,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Pérdida súbita, signos neurológicos: _urgente_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La anamnesis es el primer paso: decide qué pruebas se hacen y orienta la interpretación de los resultados.",
+    "En las quejas de pérdida auditiva, tinnitus y mareo se indaga el lado, el inicio, la duración y la evolución.",
+    "El ruido, los fármacos ototóxicos, los antecedentes familiares y el matrimonio consanguíneo son factores de riesgo importantes.",
+    "La hipoacusia súbita y los signos neurológicos que acompañan al mareo se derivan sin demora."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Cuál de estos casos requiere derivación urgente?",
+   "secenekler": [
+    "Pérdida que progresa lentamente desde hace años",
+    "Pérdida unilateral que comenzó ayer",
+    "Dificultad en ruido",
+    "Cerumen leve"
+   ],
+   "dogru": 1,
+   "aciklama": "En la _hipoacusia súbita_ el tiempo importa; el paciente se deriva al médico sin demora.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál de los siguientes casos requiere derivación urgente?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: una pérdida unilateral que comenzó ayer."
+    },
+    "En la hipoacusia súbita, el tiempo importa para el tratamiento, por lo que el paciente se deriva al médico sin demora."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Pruebas con diapasón: *Rinne*, Weber y Bing",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos las pruebas de Rinne, Weber y Bing, que se hacen con un diapasón.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

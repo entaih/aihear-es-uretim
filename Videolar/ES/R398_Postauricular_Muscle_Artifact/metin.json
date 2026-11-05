@@ -1,0 +1,234 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R398_Postauricular_Muscle_Artifact_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #398",
+  "baslik": "¿Onda o *músculo?*",
+  "alt": "El reflejo del músculo auricular posterior",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 80,
+    "ad": "Tiempo (ms)",
+    "isaretler": [
+     0,
+     10,
+     20,
+     30,
+     40,
+     50,
+     60,
+     70,
+     80
+    ]
+   },
+   "y": {
+    "min": -1.2,
+    "max": 1.2,
+    "adim": 0.5,
+    "ad": "Amplitud (µV)",
+    "ond": 1
+   },
+   "seriler": [
+    {
+     "ad": "mlr",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       3,
+       0.1
+      ],
+      [
+       6,
+       0.25
+      ],
+      [
+       8,
+       0.1
+      ],
+      [
+       12,
+       -0.2
+      ],
+      [
+       18,
+       -0.6
+      ],
+      [
+       23,
+       -0.1
+      ],
+      [
+       30,
+       0.75
+      ],
+      [
+       36,
+       0.2
+      ],
+      [
+       42,
+       -0.45
+      ],
+      [
+       47,
+       0.0
+      ],
+      [
+       52,
+       0.5
+      ],
+      [
+       60,
+       0.1
+      ],
+      [
+       70,
+       0
+      ],
+      [
+       80,
+       0
+      ]
+     ],
+     "renk": "lacivert",
+     "yumusak": true,
+     "kalin": true,
+     "cumle": 0
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "abr_v",
+     "x": 6,
+     "y": 0.25,
+     "etiket": "PEATC V",
+     "cumle": 1
+    },
+    {
+     "ad": "na",
+     "x": 18,
+     "y": -0.6,
+     "etiket": "Na",
+     "cumle": 2
+    },
+    {
+     "ad": "pa",
+     "x": 30,
+     "y": 0.75,
+     "etiket": "Pa",
+     "cumle": 3
+    },
+    {
+     "ad": "nb",
+     "x": 42,
+     "y": -0.45,
+     "etiket": "Nb",
+     "cumle": 4
+    },
+    {
+     "ad": "pb",
+     "x": 52,
+     "y": 0.5,
+     "etiket": "Pb",
+     "cumle": 4
+    }
+   ],
+   "araliklar": [
+    {
+     "ad": "na_pa",
+     "y": [
+      -0.6,
+      0.75
+     ],
+     "xk": 33,
+     "etiket": "amplitud Na-Pa",
+     "cumle": 5
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Lo que parece una onda cerebral podría ser una contracción muscular? #shorts",
+  "aciklama": "El error más conocido al registrar los potenciales evocados auditivos de latencia media (PEALM) es la contracción refleja del músculo auricular posterior en respuesta al sonido. Esta respuesta muscular aparece a unos 13 milisegundos, es grande y puede mezclarse con la región Na-Pa como una onda engañosa; si se toma por una verdadera onda Pa, puede pasarse por alto un problema central.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "electrofisiologia",
+   "potencialesevocados"
+  ],
+  "etiketler": [
+   "potenciales evocados auditivos de latencia media",
+   "PEALM",
+   "onda Pa",
+   "artefacto muscular",
+   "músculo auricular posterior",
+   "potenciales evocados",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Lo que parece una onda cerebral podría ser una contracción muscular?",
+  "bilgiler": [
+   "El músculo auricular posterior se contrae por reflejo ante el sonido.",
+   "La respuesta muscular aparece a unos 13 milisegundos y es grande.",
+   "Puede mezclarse con la región Na-Pa como una onda falsa."
+  ],
+  "hashtag": [
+   "audiologia",
+   "electrofisiologia",
+   "potencialesevocados"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #398",
+   "metin": "¿Onda o *músculo?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Lo que parece una onda cerebral podría ser una contracción muscular?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "El momento de la *respuesta muscular*",
+   "sayi": "13",
+   "birim": "ms",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "El error más conocido al registrar los potenciales de latencia media es un músculo.",
+    "El músculo auricular posterior se contrae por reflejo en respuesta al sonido.",
+    "Esta respuesta muscular aparece a unos trece milisegundos.",
+    {
+     "yazi": "Si se confunde con una verdadera onda Pa, puede ocultar un problema central.",
+     "ses": "Si se confunde con una verdadera onda pe a, puede ocultar un problema central."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D200",
+ "kaynak_baslik": "Potenciales evocados auditivos de latencia media"
+}

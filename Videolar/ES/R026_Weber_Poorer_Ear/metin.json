@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R026_Weber_Poorer_Ear_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #26",
+  "baslik": "El sonido en el *peor oído*",
+  "alt": "La prueba de Weber y la pérdida conductiva",
+  "cizim": "diyapazon",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Por qué el sonido parece más fuerte en el peor oído? #shorts",
+  "aciklama": "En la prueba de Weber, el diapasón se apoya en el centro de la frente. En una pérdida conductiva unilateral, el sonido se oye en el peor oído, porque allí el ruido ambiental lo enmascara menos; en una pérdida neurosensorial unilateral, el sonido se desplaza al mejor oído.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "diapason",
+   "audicion"
+  ],
+  "etiketler": [
+   "prueba de Weber",
+   "diapasón",
+   "lateralización",
+   "hipoacusia conductiva",
+   "pruebas con diapasón",
+   "audiología",
+   "audición",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Por qué a veces el sonido parece más fuerte en el peor oído?",
+  "bilgiler": [
+   "En la prueba de Weber, el diapasón se apoya en el centro de la frente.",
+   "En una pérdida conductiva unilateral, se oye en el peor oído.",
+   "En una pérdida neurosensorial unilateral, se oye en el mejor oído."
+  ],
+  "hashtag": [
+   "audiologia",
+   "diapason",
+   "audicion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #26",
+   "metin": "¿Por qué el sonido es más fuerte en *el peor oído?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Por qué a veces el sonido parece más fuerte en el peor oído?"
+   ]
+  },
+  {
+   "id": "weber",
+   "tur": "zincir",
+   "baslik": "La prueba de *Weber*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Frente",
+     "cumle": 0,
+     "tr": "línea media"
+    },
+    {
+     "ad": "Cráneo",
+     "cumle": 0,
+     "gecikme": 0.9,
+     "tr": "vibración"
+    },
+    {
+     "ad": "Peor oído",
+     "cumle": 1,
+     "tr": "pérdida conductiva"
+    }
+   ],
+   "alt": "En la pérdida neurosensorial, el sonido va al _mejor oído_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "En la prueba de Weber, se apoya un diapasón en vibración sobre la frente.",
+    "En una pérdida conductiva unilateral, se oye en el peor oído.",
+    "En ese oído, el ruido ambiental enmascara menos el sonido.",
+    "En una pérdida neurosensorial unilateral, se oye en el mejor oído."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D057",
+ "kaynak_baslik": "Pruebas con diapasón: Rinne, Weber y Bing"
+}

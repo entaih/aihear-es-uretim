@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R333_A_Weighting_Cuts_the_Bass_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #333",
+  "baslik": "La ponderación A *recorta los graves*",
+  "alt": "Ponderación A y C",
+  "cizim": "ses_dalgasi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Por qué se atenúan los tonos graves al medir el ruido? #shorts",
+  "aciklama": "El oído humano es menos sensible a los tonos graves, sobre todo a niveles moderados, y la ponderación A filtra el sonido medido para asemejarse a esa sensibilidad. El filtro A es cero a 1000 Hz y recorta unos 16 dB a 125 Hz; la exposición ocupacional se mide con ponderación A, mientras que la presión sonora pico se mide con ponderación C.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "ruido",
+   "acustica"
+  ],
+  "etiketler": [
+   "ponderación A",
+   "ponderación C",
+   "dB(A)",
+   "sonómetro",
+   "presión sonora pico",
+   "medición del ruido",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Por qué se atenúan los tonos graves al medir el ruido?",
+  "bilgiler": [
+   "El oído es menos sensible a los graves a niveles moderados.",
+   "El filtro A recorta unos 16 dB a 125 Hz.",
+   "La presión sonora pico se mide con ponderación C."
+  ],
+  "hashtag": [
+   "audiologia",
+   "ruido",
+   "acustica"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #333",
+   "metin": "¿Dónde están *los graves?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Por qué se atenúan los tonos graves al medir el ruido?"
+   ]
+  },
+  {
+   "id": "agirlik",
+   "tur": "zincir",
+   "baslik": "Ponderación *A y C*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Oído",
+     "tr": "menos sensible a graves",
+     "cumle": 0
+    },
+    {
+     "ad": "Filtro A",
+     "tr": "imita al oído",
+     "cumle": 1
+    },
+    {
+     "ad": "125 Hz",
+     "tr": "unos 16 dB menos",
+     "cumle": 2
+    }
+   ],
+   "alt": "Nivel pico: _ponderación C_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "El oído es menos sensible a los tonos graves, sobre todo a niveles moderados.",
+    "La ponderación A filtra el sonido para asemejarse a esa sensibilidad del oído.",
+    "Es cero a 1000 hertz y recorta unos 16 decibeles a 125 hertz.",
+    "La exposición ocupacional usa ponderación A; se correlaciona bien con el riesgo.",
+    "La presión sonora pico se mide con la ponderación C, casi plana."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D223",
+ "kaynak_baslik": "Medición del ruido y dosimetría"
+}

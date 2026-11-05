@@ -1,0 +1,713 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D015_Transducers_ES",
+ "kapak": {
+  "ust": "LECCIÓN 15",
+  "baslik": "Micrófonos y<br>*altavoces*",
+  "alt": "¿Cómo funcionan los transductores?",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  }
+ },
+ "youtube": {
+  "baslik": "Transductores: cómo funcionan micrófonos y altavoces | Lección 15 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos los transductores que convierten el sonido en electricidad y la electricidad en sonido: la inducción electromagnética, los micrófonos dinámicos, de condensador, electret y MEMS, el altavoz y el receptor del audífono, y los auriculares y el vibrador óseo del audiómetro. También vemos por qué importan la respuesta en frecuencia, la sensibilidad y la calibración.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Speaks, Introduction to Sound: Acoustics for the Hearing and Speech Sciences; Dillon, Hearing Aids; Katz, Handbook of Clinical Audiology; ISO 8253-1, Acoustics: Audiometric test methods.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "acustica",
+   "microfono"
+  ],
+  "etiketler": [
+   "transductor",
+   "micrófono",
+   "micrófono de condensador",
+   "micrófono electret",
+   "micrófono MEMS",
+   "altavoz",
+   "receptor del audífono",
+   "vibrador óseo",
+   "respuesta en frecuencia",
+   "calibración del audiómetro",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 15",
+   "baslik": "Micrófonos y *altavoces*",
+   "alt": "¿Cómo funcionan los transductores?",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos los dispositivos que convierten el sonido en electricidad y la electricidad en sonido: los transductores.",
+    "Veremos los tipos de micrófonos, altavoces y auriculares, y propiedades como la respuesta en frecuencia y la sensibilidad."
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "El principio de conversión",
+   "baslik": "De una energía *a otra*",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Micrófono",
+     "cumle": 1,
+     "metin": "Convierte sonido en electricidad"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Amplificador",
+     "cumle": 2,
+     "metin": "Amplifica y procesa"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Altavoz",
+     "cumle": 3,
+     "metin": "Convierte electricidad en sonido"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Oído",
+     "cumle": 5,
+     "metin": "Convierte movimiento en señal nerviosa"
+    }
+   ],
+   "cumleler": [
+    "Un transductor es un dispositivo que convierte una forma de energía en otra.",
+    "Un micrófono convierte los cambios de presión del aire, es decir, la energía acústica, en una señal eléctrica.",
+    "La señal eléctrica puede amplificarse, grabarse o procesarse.",
+    "Un altavoz convierte la señal eléctrica de nuevo en cambios de presión del aire, es decir, en sonido.",
+    "Un audífono es un pequeño ejemplo de esta cadena: micrófono, procesador y receptor.",
+    "Nuestro oído también es un transductor natural: las células ciliadas convierten el movimiento mecánico en señales nerviosas."
+   ]
+  },
+  {
+   "id": "induksiyon",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El principio de conversión",
+   "baslik": "El principio básico: *la inducción*",
+   "maddeler": [
+    {
+     "metin": "Del movimiento, _electricidad_",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "De la corriente, _movimiento_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Mismo principio, _dos sentidos_",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "INDUCCIÓN",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "mikrofon",
+      "baslik": "Micrófono dinámico",
+      "cumle": 2,
+      "metin": "El movimiento genera voltaje"
+     },
+     {
+      "ikon": "hoparlor",
+      "baslik": "Altavoz",
+      "cumle": 4,
+      "metin": "La corriente genera movimiento"
+     }
+    ]
+   },
+   "cumleler": [
+    "Muchos transductores se basan en un principio simple de la física: la inducción electromagnética.",
+    "Cuando un cable conductor se mueve en el campo de un imán, se genera un voltaje en el cable.",
+    "Esto es obtener electricidad a partir del movimiento; así funcionan los micrófonos dinámicos.",
+    "A la inversa, cuando una corriente pasa por un cable dentro de un campo magnético, una fuerza actúa sobre el cable y este se mueve.",
+    "Esto es obtener movimiento a partir de la electricidad; así funcionan los altavoces y muchos auriculares.",
+    "Así, el mismo principio funciona en dos sentidos; un altavoz dinámico puede usarse como micrófono, aunque débil."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Micrófonos",
+   "baslik": "Tipos de *micrófonos*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Dinámico",
+     "cumle": 1,
+     "metin": "Bobina e imán, resistente"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "De condensador",
+     "cumle": 3,
+     "metin": "Dos placas, respuesta plana"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Micrófono de medición",
+     "cumle": 5,
+     "metin": "Un tipo de condensador"
+    }
+   ],
+   "cumleler": [
+    "Todo micrófono tiene un diafragma delgado que vibra con la presión sonora; los tipos difieren en cómo pasan ese movimiento a electricidad.",
+    "En un micrófono dinámico, una pequeña bobina unida al diafragma se mueve en un campo magnético y genera un voltaje.",
+    "Los micrófonos dinámicos son resistentes y no necesitan alimentación externa; se usan mucho en el escenario.",
+    "En un micrófono de condensador, el diafragma está frente a una placa posterior fija, y juntos forman un condensador.",
+    "Cuando el sonido mueve el diafragma, cambia la distancia entre las placas, con ella cambia el voltaje y se genera una señal.",
+    "El diafragma del condensador es muy liviano y da una respuesta en frecuencia amplia y plana; los micrófonos de medición son de este tipo.",
+    "Un micrófono de condensador clásico necesita un voltaje de polarización externo para funcionar."
+   ]
+  },
+  {
+   "id": "elektret",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Micrófonos",
+   "baslik": "Electret y *MEMS*",
+   "maddeler": [
+    {
+     "metin": "Electret: condensador con _carga permanente_",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Pequeño, barato, _duradero_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "MEMS: micrófono en _chip de silicio_",
+     "cumle": 4,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Dos micrófonos: audición _direccional_",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 3,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "etiketler": [
+     {
+      "parca": "mikrofon",
+      "metin": "Micrófono",
+      "cumle": 3
+     },
+     {
+      "parca": "pil",
+      "metin": "Pila",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "pil",
+      "cumle": 2
+     },
+     {
+      "parca": "mikrofon",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "El micrófono electret es un tipo de micrófono de condensador.",
+    "Una de las placas lleva un material con carga eléctrica permanente, un electret, así que no necesita voltaje de polarización externo.",
+    "Aun así, el pequeño amplificador interno necesita algo de energía, que aporta la pila del dispositivo.",
+    "Los micrófonos electret son pequeños, baratos y duraderos; se usan desde hace muchos años en audífonos y teléfonos.",
+    "En los últimos años se difundieron en los audífonos los micrófonos de sistemas microelectromecánicos, o MEMS, en chips de silicio.",
+    "Los audífonos suelen tener dos micrófonos; esto permite la función de micrófono direccional que veremos en próximas lecciones."
+   ]
+  },
+  {
+   "id": "hoparlor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Altavoces y auriculares",
+   "baslik": "¿Cómo *funciona* un altavoz?",
+   "maddeler": [
+    {
+     "metin": "Bobina, imán y _cono_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "El cono _empuja y tira_ del aire",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Grande para graves, _pequeño_ para agudos",
+     "cumle": 3,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Campo libre: calibrado _en la cabeza_",
+     "cumle": 4,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "test_kabini",
+    "cumle": 4,
+    "vurgula": [
+     {
+      "parca": "hoparlor",
+      "cumle": 4
+     },
+     {
+      "parca": "hasta",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Un altavoz dinámico es lo inverso de un micrófono dinámico.",
+    "La corriente de la señal sonora pasa por una bobina en un campo magnético, y la bobina se mueve hacia adelante y atrás con la señal.",
+    "La membrana en forma de cono unida a la bobina empuja y tira del aire, y crea compresiones y rarefacciones, es decir, sonido.",
+    "Los conos grandes reproducen mejor los graves y los pequeños, los agudos; por eso muchas cajas acústicas tienen más de un altavoz.",
+    "En audiología, los altavoces se usan en las pruebas en campo libre y se calibran en el punto donde estará la cabeza del paciente.",
+    "Veamos ahora versiones pequeñas de este principio que se colocan en el oído."
+   ]
+  },
+  {
+   "id": "odyoloji",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Altavoces y auriculares",
+   "baslik": "*Transductores* en audiología",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Altavoz",
+     "cumle": 0,
+     "metin": "Pruebas en campo libre"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Supraaural",
+     "cumle": 1,
+     "metin": "Almohadilla sobre el pabellón"
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "De inserción",
+     "cumle": 2,
+     "metin": "Tubo y punta de espuma"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Vibrador óseo",
+     "cumle": 4,
+     "metin": "Hace vibrar el cráneo"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Mastoides artificial",
+     "cumle": 5,
+     "metin": "Calibración del vibrador"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Receptor",
+     "cumle": 6,
+     "metin": "El diminuto altavoz del audífono"
+    }
+   ],
+   "cumleler": [
+    "En un audiómetro, cada parte que lleva el sonido al oído es un transductor, y cada una tiene su propia calibración.",
+    "Los auriculares supraaurales se apoyan con sus almohadillas sobre el pabellón; durante muchos años fueron el estándar en audiometría.",
+    "Con los auriculares de inserción, el sonido va de un pequeño transductor por un tubo delgado a una punta de espuma y al conducto auditivo.",
+    "Los auriculares de inserción aumentan la atenuación interaural y evitan el colapso del conducto auditivo; lo veremos en próximas lecciones.",
+    "El vibrador óseo convierte la señal eléctrica en vibración mecánica y transmite esa vibración al cráneo.",
+    "El vibrador óseo no se calibra por presión sonora sino por fuerza, con un dispositivo llamado mastoides artificial.",
+    "En los audífonos, el diminuto altavoz que lleva el sonido al conducto auditivo se llama receptor; la mayoría es de armadura balanceada."
+   ]
+  },
+  {
+   "id": "odyometre",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Altavoces y auriculares",
+   "baslik": "Los *transductores* del audiómetro",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "kulaklik",
+     "metin": "Auricular: conducción aérea",
+     "cumle": 1
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "Vibrador óseo",
+     "cumle": 2
+    },
+    {
+     "parca": "cihaz",
+     "metin": "Audiómetro",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "El audiómetro en pantalla muestra dos de estos transductores.",
+    "El auricular lleva el sonido al oído en la prueba de conducción aérea.",
+    "El vibrador óseo se coloca sobre la mastoides, detrás de la oreja, y se usa en la prueba de conducción ósea.",
+    "Cada transductor se conecta al audiómetro por su propia salida, y el equipo usa valores de calibración distintos para cada uno.",
+    "Por eso, si se cambia un auricular por otro modelo, hay que volver a calibrar el audiómetro."
+   ]
+  },
+  {
+   "id": "yanit",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Propiedades",
+   "baslik": "Respuesta *en frecuencia*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 100,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 10,
+     "adim": 10,
+     "ad": "Salida relativa (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "duz",
+      "noktalar": [
+       [
+        100,
+        -1
+       ],
+       [
+        200,
+        0
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        5000,
+        0
+       ],
+       [
+        10000,
+        -1
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "micrófono de medición",
+      "etiket_konum": [
+       150,
+       0
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "ornek",
+      "noktalar": [
+       [
+        100,
+        -16
+       ],
+       [
+        250,
+        -8
+       ],
+       [
+        500,
+        -3
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        4
+       ],
+       [
+        3000,
+        6
+       ],
+       [
+        4000,
+        2
+       ],
+       [
+        6000,
+        -6
+       ],
+       [
+        8000,
+        -13
+       ],
+       [
+        10000,
+        -18
+       ]
+      ],
+      "renk": "kirmizi",
+      "kesik": true,
+      "yumusak": true,
+      "etiket": "respuesta de ejemplo",
+      "etiket_konum": [
+       3000,
+       6
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Micrófono de medición: respuesta _plana_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Picos: se corrigen con _calibración_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "La primera propiedad que describe a un transductor es su respuesta en frecuencia.",
+    "La respuesta en frecuencia muestra cuánta salida da un transductor ante señales del mismo nivel pero de distintas frecuencias.",
+    "Los micrófonos de medición tienen una respuesta plana en un rango amplio; captan todas las frecuencias con la misma sensibilidad.",
+    "La segunda curva en pantalla es un ejemplo: una respuesta con un pico en una región y una caída en ambos extremos.",
+    "Estos picos son comunes en auriculares y receptores de audífonos; el tubo y el conducto auditivo también cambian la respuesta.",
+    "En el audiómetro, estas irregularidades se corrigen con la calibración, de modo que en cada frecuencia se entrega el nivel correcto.",
+    "La respuesta en frecuencia es un gráfico que veremos a menudo en las mediciones de audífonos en próximas lecciones."
+   ]
+  },
+  {
+   "id": "ozellikler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Propiedades",
+   "baslik": "Otras *propiedades importantes*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Sensibilidad",
+     "cumle": 1,
+     "metin": "Milivoltios por pascal"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido interno",
+     "cumle": 2,
+     "metin": "Limita los sonidos débiles"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Rango dinámico",
+     "cumle": 3,
+     "metin": "Del más débil al más fuerte"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Distorsión",
+     "cumle": 4,
+     "metin": "Frecuencias añadidas"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Direccionalidad",
+     "cumle": 5,
+     "metin": "¿Desde qué dirección capta?"
+    }
+   ],
+   "cumleler": [
+    "Además de la respuesta en frecuencia, importan algunas propiedades más.",
+    "La sensibilidad es la salida eléctrica que da un micrófono ante cierta presión; suele expresarse en milivoltios por pascal.",
+    "El ruido interno es el que produce un transductor sin ningún sonido, y limita la medición de sonidos muy débiles.",
+    "El rango dinámico es el intervalo entre los niveles más débil y más fuerte con los que un transductor funciona sin distorsión.",
+    "A niveles muy altos, la salida se deforma y aparecen frecuencias que no están en la señal; esto se llama distorsión.",
+    "La direccionalidad describe qué tan sensible es un micrófono a los sonidos que llegan desde distintas direcciones."
+   ]
+  },
+  {
+   "id": "kalibrasyon",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Propiedades",
+   "baslik": "Transductores y *calibración*",
+   "maddeler": [
+    {
+     "metin": "_Calibración completa_ anual",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Oído artificial: _micrófono de medición_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "_Control de escucha_ diario",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Valores _propios de cada modelo_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 3,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 3
+     },
+     {
+      "parca": "kemik_vibratoru",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Las propiedades de los transductores pueden cambiar con el tiempo, con los golpes y con el uso.",
+    "Por eso los audiómetros se calibran por completo a intervalos fijos, en general una vez al año.",
+    "En la calibración, la salida del auricular se mide con un dispositivo llamado oído artificial, también con un micrófono de medición.",
+    "Cada día se hace un breve control de escucha: se revisan los cables, los auriculares y el vibrador escuchándolos.",
+    "Los valores de calibración son propios de cada modelo de transductor; lo veremos más adelante al hablar de dB HL y dB SPL.",
+    "Un transductor descalibrado da umbrales erróneos, por más cuidadosa que sea la prueba."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "No cambiar el auricular del audiómetro por otro modelo: la calibración es propia de cada modelo. Corregir chasquidos del cable o debilidad en un oído antes de la prueba.",
+   "cumleler": [
+    "Un consejo útil para la clínica: no cambien el auricular del audiómetro por otro modelo.",
+    "Los valores de calibración son propios de ese modelo; si se conecta otro, los niveles entregados serán erróneos.",
+    "En el control de escucha diario, muevan suavemente el cable; corrijan cualquier chasquido, corte o debilidad en un oído antes de la prueba.",
+    "Incluso una pequeña falla en un transductor puede volver engañoso todo el audiograma."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Transductor: cambia la _forma de energía_",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Micrófono de medición: tipo _condensador_",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Auricular, inserción, vibrador, _receptor_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Respuesta en frecuencia y _calibración_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Los transductores convierten una forma de energía en otra; el micrófono, sonido en electricidad, y el altavoz, electricidad en sonido.",
+    "Los micrófonos dinámicos son resistentes; los de condensador y electret son pequeños y sensibles, y dan una respuesta plana.",
+    "En audiología se usan auriculares supraaurales y de inserción, vibradores óseos y altavoces; el altavoz del audífono se llama receptor.",
+    "La respuesta en frecuencia, la sensibilidad y el ruido interno son propiedades clave; los transductores deben calibrarse con regularidad."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿De qué tipo son los micrófonos de medición?",
+   "secenekler": [
+    "Dinámico",
+    "De condensador",
+    "De armadura balanceada"
+   ],
+   "dogru": 1,
+   "aciklama": "Gracias a su diafragma liviano, el micrófono _de condensador_ da una respuesta en frecuencia amplia y plana.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿de qué tipo son los micrófonos de medición que se usan en los sonómetros y en la calibración?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: el micrófono de condensador.",
+    "Gracias a su diafragma liviano, da una respuesta en frecuencia amplia y plana."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "El hueso temporal: donde se aloja el *oído*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección conoceremos el hueso que aloja el oído: el hueso temporal.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

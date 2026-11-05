@@ -1,0 +1,855 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D146_Enlarged_Vestibular_Aqueduct_ES",
+ "kapak": {
+  "ust": "LECCIÓN 146",
+  "baslik": "Acueducto vestibular<br>*dilatado*",
+  "alt": "EVA, SLC26A4 y síndrome de Pendred",
+  "cizim": "vestibuler",
+  "ayar": {
+   "akuadukt": true
+  },
+  "vurgula": [
+   "vestibuler_akuadukt",
+   "endolenfatik_kese"
+  ]
+ },
+ "youtube": {
+  "baslik": "Acueducto vestibular dilatado (EVA) | Lección 146 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos los criterios diagnósticos del acueducto vestibular dilatado, la pérdida auditiva fluctuante y progresiva en escalones de la infancia y las caídas súbitas tras traumatismos craneales leves. También vemos el gen SLC26A4, el síndrome de Pendred, la brecha aéreo-ósea en graves y el seguimiento audiológico.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Valvassori and Clemis, The large vestibular aqueduct syndrome, Laryngoscope (1978); Boston et al., The large vestibular aqueduct: a new definition based on audiologic and computed tomography correlation, Otolaryngology Head and Neck Surgery (2007); GeneReviews, Pendred Syndrome / Nonsyndromic Enlarged Vestibular Aqueduct; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "EVA",
+   "audiologiapediatrica"
+  ],
+  "etiketler": [
+   "acueducto vestibular dilatado",
+   "EVA",
+   "síndrome de Pendred",
+   "SLC26A4",
+   "hipoacusia fluctuante",
+   "pérdida auditiva progresiva",
+   "Mondini",
+   "hipoacusia infantil",
+   "tercera ventana",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 146",
+   "baslik": "Acueducto vestibular *dilatado*",
+   "alt": "EVA, SLC26A4 y síndrome de Pendred",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos el acueducto vestibular dilatado, una diferencia del oído interno frecuente en los niños.",
+    "Veremos los criterios diagnósticos, la pérdida auditiva fluctuante y progresiva, los genes relacionados y el síndrome de Pendred."
+   ]
+  },
+  {
+   "id": "anatomi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Estructura y diagnóstico",
+   "baslik": "El *acueducto* vestibular",
+   "cizim": "vestibuler",
+   "ayar": {
+    "akuadukt": true,
+    "akuadukt_cumle": 0
+   },
+   "etiketler": [
+    {
+     "parca": "vestibuler_akuadukt",
+     "metin": "Acueducto vestibular",
+     "cumle": 0
+    },
+    {
+     "parca": "endolenfatik_kanal",
+     "metin": "Conducto endolinfático",
+     "cumle": 1
+    },
+    {
+     "parca": "endolenfatik_kese",
+     "metin": "Saco endolinfático",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vestibuler_akuadukt",
+     "cumle": 0
+    },
+    {
+     "parca": "endolenfatik_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "endolenfatik_kese",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibuler_akuadukt",
+     "cumle": 3
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "vestibuler_akuadukt",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El acueducto vestibular es un fino canal óseo que va del oído interno a la cavidad craneal.",
+    "Contiene el conducto endolinfático, que llega al saco endolinfático en la cara posterior del hueso temporal.",
+    "Un acueducto normal es muy estrecho; su ancho en el punto medio suele ser menor de un milímetro.",
+    {
+     "yazi": "Un acueducto vestibular dilatado (EVA) es el que tiene un ancho mayor de lo normal."
+    },
+    "Es una de las diferencias del oído interno más frecuentes en los niños con pérdida neurosensorial.",
+    "La dilatación suele ser bilateral, pero también puede ser unilateral."
+   ]
+  },
+  {
+   "id": "olcut",
+   "tur": "tablo",
+   "bolum_no": "PARTE 1",
+   "bolum": "Estructura y diagnóstico",
+   "baslik": "*Criterios* diagnósticos",
+   "sutunlar": [
+    "Criterio",
+    "Dónde se mide",
+    "Dilatado si"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Valvassori (1978)",
+      "Punto medio",
+      "Más de 1,5 mm"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Cincinnati (2007)",
+      "Punto medio",
+      "1 mm o más"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Cincinnati (2007)",
+      "Opérculo",
+      "2 mm o más"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El EVA se diagnostica midiendo el acueducto en la tomografía computarizada o en la resonancia magnética."
+    },
+    {
+     "yazi": "Según el criterio clásico de Valvassori, el acueducto está dilatado si su ancho en el punto medio supera uno coma cinco milímetros."
+    },
+    {
+     "yazi": "Los criterios de Cincinnati, más recientes, consideran dilatado un ancho en el punto medio de un milímetro o más."
+    },
+    {
+     "yazi": "Según los mismos criterios, el acueducto también está dilatado si su opérculo, la abertura externa, mide dos milímetros o más."
+    },
+    "El punto medio está a mitad de camino entre la cruz común y la abertura externa del acueducto.",
+    "El criterio elegido cambia la tasa de diagnóstico; las imágenes las interpretan el radiólogo y el médico."
+   ]
+  },
+  {
+   "id": "eslik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Estructura y diagnóstico",
+   "baslik": "Diferencias cocleares *asociadas*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "EVA aislado",
+     "metin": "Cóclea de aspecto normal",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Partición incompleta",
+     "metin": "Faltan los tabiques apicales",
+     "cumle": 1
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Saco grande",
+     "metin": "Se ve bien en la RM",
+     "cumle": 3
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Importancia quirúrgica",
+     "metin": "Se considera al planificar",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El EVA puede presentarse solo o junto con otras diferencias estructurales de la cóclea."
+    },
+    "La diferencia asociada más frecuente es la partición incompleta tipo dos, en la que los tabiques apicales de la cóclea están poco desarrollados.",
+    "El nombre clásico de esta combinación es malformación de Mondini.",
+    "El saco endolinfático también suele estar agrandado; la resonancia magnética lo muestra bien.",
+    "Estas diferencias estructurales son información importante para el equipo quirúrgico al planificar un implante coclear."
+   ]
+  },
+  {
+   "id": "seyir",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "La pérdida auditiva",
+   "baslik": "Progresión *escalonada*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 2,
+     "max": 12,
+     "adim": 2,
+     "ad": "Edad (años)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ters": true,
+     "ad": "Umbral promedio (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        2,
+        40
+       ],
+       [
+        4,
+        42
+       ],
+       [
+        5.4,
+        45
+       ],
+       [
+        5.5,
+        70
+       ],
+       [
+        6.5,
+        55
+       ],
+       [
+        8,
+        57
+       ],
+       [
+        9.2,
+        60
+       ],
+       [
+        9.3,
+        85
+       ],
+       [
+        10.5,
+        75
+       ],
+       [
+        12,
+        78
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 4,
+      "etiket": "niño de ejemplo",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "travma1",
+      "x": 5.5,
+      "y": 70,
+      "etiket": "traumatismo craneal leve",
+      "cumle": 3
+     },
+     {
+      "ad": "travma2",
+      "x": 9.3,
+      "y": 85,
+      "etiket": "segunda caída",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "duzelme",
+      "x": [
+       5.5,
+       6.5
+      ],
+      "renk": "sari",
+      "etiket": "recuperación parcial",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En el EVA, la pérdida suele detectarse al nacer o en la primera infancia; a veces aparece más tarde en niños que pasaron el tamizaje."
+    },
+    "Este gráfico de ejemplo muestra el umbral promedio de un niño a lo largo de los años.",
+    "La pérdida no progresa en línea recta; empeora en escalones, con caídas súbitas.",
+    "En este ejemplo, las dos caídas siguieron a golpes leves en la cabeza.",
+    "Después de una caída, la audición puede recuperarse en parte, pero a menudo no vuelve del todo a su nivel anterior.",
+    "El grado de pérdida varía mucho, de leve a profundo."
+   ]
+  },
+  {
+   "id": "tetikleyici",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "La pérdida auditiva",
+   "baslik": "Qué *desencadena* las caídas súbitas",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Traumatismo craneal leve",
+     "metin": "El más descrito",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Cambio de presión",
+     "metin": "Buceo, vuelos",
+     "cumle": 1
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Esfuerzo",
+     "metin": "Aumento de la presión intracraneal",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Mareo",
+     "metin": "Puede acompañar una caída",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Entre los desencadenantes descritos de las caídas súbitas, el traumatismo craneal leve es el que se menciona con más frecuencia.",
+    "Los cambios de presión, como el buceo o los vuelos, también pueden ser desencadenantes.",
+    "También se han propuesto situaciones que elevan la presión intracraneal, como levantar mucho peso y hacer fuerza.",
+    "Por eso algunos médicos aconsejan a las familias sobre los golpes en la cabeza y los deportes de contacto; este consejo lo da el médico.",
+    {
+     "yazi": "Algunas caídas se acompañan de mareo; algunos niños con EVA tienen síntomas vestibulares."
+    }
+   ]
+  },
+  {
+   "id": "mekanizma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "La pérdida auditiva",
+   "baslik": "¿*Por qué* progresa la pérdida?",
+   "maddeler": [
+    {
+     "metin": "El mecanismo _no se conoce del todo_",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "El ancho es un _marcador_, no la causa",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "_Reflujo_ del líquido del saco",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Se altera el _equilibrio iónico_ de la endolinfa",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "La presión _pasa fácilmente_ a la cóclea",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_kesit",
+    "vurgula": [
+     {
+      "parca": "scala_media",
+      "cumle": 3
+     },
+     {
+      "parca": "stria_vaskularis",
+      "cumle": 3
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    {
+     "yazi": "No se sabe del todo por qué disminuye la audición en el EVA."
+    },
+    "No se cree que el ancho del acueducto explique la pérdida por sí solo; es más bien un marcador del problema de fondo.",
+    "Una hipótesis es que el líquido rico en proteínas del saco refluye hacia la cóclea y daña las células ciliadas.",
+    "Otro mecanismo propuesto es una alteración de la composición iónica y del volumen de la endolinfa cuando falta la pendrina.",
+    "Otra idea que intenta explicar las caídas súbitas es que los cambios de presión se transmiten fácilmente a la cóclea por el canal ancho."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "Ejemplo: audiograma en el *EVA*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Vía ósea enmascarada_: oído derecho",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: vía aérea",
+     "cumle": 4
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       55,
+       65,
+       75,
+       80
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       25,
+       30,
+       45,
+       60,
+       70
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       45,
+       50,
+       55,
+       60,
+       70,
+       75
+      ],
+      "cumle": 4
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "aralik": {
+     "konum": [
+      0,
+      25,
+      50
+     ],
+     "etiket": "25 dB",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, el oído derecho muestra una pérdida que aumenta hacia las frecuencias agudas.",
+    "En las frecuencias graves, la vía ósea enmascarada es mejor que la vía aérea, así que hay una brecha aéreo-ósea.",
+    "Con un timpanograma y un oído medio normales, esta brecha se explica por el efecto de tercera ventana del acueducto ancho.",
+    "Este hallazgo se basa en el mismo mecanismo que la brecha que vimos en la dehiscencia del canal superior en la lección anterior.",
+    {
+     "yazi": "El oído izquierdo también tiene una pérdida neurosensorial similar; este ejemplo es compatible con un EVA bilateral."
+    },
+    "Una brecha en graves puede confundirse con líquido en el oído medio; el timpanograma y los reflejos acústicos ayudan a diferenciarlos."
+   ]
+  },
+  {
+   "id": "testler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos audiológicos",
+   "baslik": "¿*Qué* muestra la batería?",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanograma",
+     "metin": "Suele ser normal",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "VEMP",
+     "metin": "El umbral puede ser bajo",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiogramas seriados",
+     "metin": "Documentan las caídas",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Pruebas vestibulares",
+     "metin": "Si hay síntomas",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En un oído con EVA, el timpanograma suele ser normal, lo que muestra que la brecha no proviene del oído medio."
+    },
+    "Los potenciales evocados miogénicos vestibulares (VEMP) pueden aparecer con un umbral menor de lo normal por el efecto de tercera ventana.",
+    "Los audiogramas seriados documentan las caídas y las recuperaciones, lo que ayuda a aclarar la evolución.",
+    "En los niños que refieren mareo, también se planifican pruebas vestibulares.",
+    "Todos los hallazgos se transmiten completos al médico, que decide los estudios de imagen."
+   ]
+  },
+  {
+   "id": "genetik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Genética y Pendred",
+   "baslik": "*SLC26A4* y pendrina",
+   "maddeler": [
+    {
+     "metin": "Causa más conocida: _SLC26A4_",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "_Pendrina_: proteína transportadora de iones",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Herencia _autosómica recesiva_",
+     "cumle": 3,
+     "ikon": "dna"
+    },
+    {
+     "metin": "Variantes bialélicas: _varían según la población_",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "En algunos _no se halla causa_",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PENDRINA",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Oído interno",
+      "metin": "Equilibrio de la endolinfa",
+      "cumle": 2
+     },
+     {
+      "ikon": "laboratuvar",
+      "baslik": "Tiroides",
+      "metin": "Transporte de yoduro",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "La causa genética más conocida del EVA son los cambios en el gen SLC26A4."
+    },
+    "Este gen codifica la pendrina, una proteína que transporta iones en el oído interno y en la glándula tiroides.",
+    "En el oído interno, la pendrina ayuda a mantener el equilibrio iónico de la endolinfa; en la tiroides, mueve yoduro para producir hormonas.",
+    "La herencia es autosómica recesiva; un niño afectado tiene cambios en ambas copias del gen.",
+    {
+     "yazi": "Algunas personas con EVA tienen cambios en ambas copias; esta proporción varía notablemente entre poblaciones."
+    },
+    {
+     "yazi": "También hay personas con EVA que tienen un cambio en una sola copia, o en ninguna; se están estudiando otros genes."
+    }
+   ]
+  },
+  {
+   "id": "pendred",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Genética y Pendred",
+   "baslik": "Síndrome de *Pendred*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Pérdida auditiva",
+     "metin": "A menudo severa",
+     "cumle": 0
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "EVA",
+     "metin": "En las imágenes",
+     "cumle": 0
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Bocio",
+     "metin": "Infancia tardía, adolescencia",
+     "cumle": 2
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "SLC26A4",
+     "metin": "Autosómica recesiva",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Los cambios en SLC26A4 también causan el cuadro conocido como síndrome de Pendred."
+    },
+    "En este síndrome, la hipoacusia neurosensorial se acompaña de un agrandamiento de la glándula tiroides, o bocio.",
+    "El bocio no suele estar presente al nacer; aparece con más frecuencia al final de la infancia o en la adolescencia.",
+    "La mayoría de los pacientes tiene niveles normales de hormonas tiroideas; algunos, sin embargo, pueden desarrollar hipotiroidismo.",
+    "El síndrome de Pendred se considera una de las causas más frecuentes de pérdida auditiva sindrómica."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si la audición o el rendimiento del dispositivo bajan de repente en un niño con EVA, revisa el dispositivo, pero evalúa siempre la caída con un nuevo audiograma.",
+   "cumleler": [
+    {
+     "yazi": "Un consejo clínico: la familia de un niño con EVA debe saber que, tras una caída, hay que evaluar pronto la audición."
+    },
+    "Si se informa una caída súbita del rendimiento en un niño que usa un dispositivo, revisen primero el dispositivo, pero descarten también una caída auditiva.",
+    "La evaluación tras una caída es un punto de partida importante para el seguimiento médico y cualquier decisión de tratamiento.",
+    "Comparar cada nuevo audiograma con el anterior revela pronto la progresión escalonada."
+   ]
+  },
+  {
+   "id": "ekip",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "Seguimiento y rehabilitación",
+   "baslik": "*Evaluación* en equipo",
+   "adimlar": [
+    {
+     "ikon": "odyolog",
+     "baslik": "Audiología",
+     "metin": "Evaluación auditiva detallada",
+     "cumle": 1
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Imagen",
+     "metin": "Solicitada por el médico",
+     "cumle": 2
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genética",
+     "metin": "Estudio y asesoramiento",
+     "cumle": 3
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Tiroides",
+     "metin": "Planificada por el médico",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Evaluar a un niño con EVA requiere que varias especialidades trabajen juntas."
+    },
+    "El audiólogo realiza una evaluación auditiva detallada y transmite los hallazgos al médico.",
+    {
+     "yazi": "El médico solicita los estudios de imagen; el EVA se diagnostica por imagen."
+    },
+    "El estudio genético y el asesoramiento genético ayudan a aclarar la causa y el riesgo de recurrencia en la familia.",
+    "La evaluación tiroidea por el síndrome de Pendred también la planifica el médico."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Seguimiento y rehabilitación",
+   "baslik": "Seguimiento y *rehabilitación*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "Seguimiento regular",
+     "metin": "Sigue la evolución",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Audífonos",
+     "metin": "Ajuste con cada audiograma",
+     "cumle": 1
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Implante coclear",
+     "metin": "Resultados en general buenos",
+     "cumle": 2
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Familia",
+     "metin": "Expectativas realistas",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En los niños con EVA, el seguimiento audiológico regular es la base para conocer la evolución de la pérdida."
+    },
+    "Los audífonos se usan según el grado de pérdida; la adaptación se actualiza con cada nuevo audiograma.",
+    {
+     "yazi": "Cuando la pérdida se vuelve profunda, el implante coclear es una buena opción; los resultados en niños con EVA suelen ser buenos."
+    },
+    "Si hay quejas vestibulares, se suman al plan la evaluación vestibular y, si hace falta, la rehabilitación.",
+    "Se explica con claridad a la familia que la pérdida puede fluctuar y progresar; así las expectativas son realistas."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Diagnóstico: acueducto medido _en imágenes_",
+     "cumle": 0,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Pérdida fluctuante y progresiva _en escalones_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Brecha en graves: una _tercera ventana_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_SLC26A4_ y síndrome de Pendred",
+     "cumle": 3,
+     "ikon": "gen_dna"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El EVA se diagnostica con imágenes; el límite es de uno coma cinco milímetros según Valvassori y de un milímetro según Cincinnati."
+    },
+    "La pérdida fluctúa y progresa en escalones; las caídas súbitas pueden seguir a traumatismos craneales leves.",
+    "Una brecha aéreo-ósea en graves pese a un oído medio normal se explica por el efecto de tercera ventana.",
+    {
+     "yazi": "La causa genética más conocida del EVA es SLC26A4; el mismo gen causa también el síndrome de Pendred."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué desencadena con más frecuencia una caída súbita en el EVA?",
+   "secenekler": [
+    "Tiempo en ruido",
+    "Traumatismo craneal leve",
+    "Dormir mucho"
+   ],
+   "dogru": 1,
+   "aciklama": "En el EVA, el _traumatismo craneal leve_ es el desencadenante de caídas súbitas más descrito.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en el acueducto vestibular dilatado, ¿qué desencadena con más frecuencia las caídas súbitas de la audición?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: un traumatismo craneal leve.",
+    "Los cambios de presión también pueden desencadenarlas; tras una caída, la audición debe evaluarse pronto."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Hipoacusia *genética*: sindrómica y no sindrómica",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección estudiaremos la hipoacusia genética y la distinción entre formas sindrómicas y no sindrómicas.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

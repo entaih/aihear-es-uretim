@@ -1,0 +1,792 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D083_Temporal_Processing_ES",
+ "kapak": {
+  "ust": "LECCIÓN 83",
+  "baslik": "Procesamiento<br>*temporal*",
+  "alt": "Detección de silencios e integración temporal",
+  "cizim": "ses_dalgasi",
+  "ayar": {
+   "frekans_hz": 1000
+  }
+ },
+ "youtube": {
+  "baslik": "Procesamiento temporal: gaps e integración | Lección 83 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Con qué precisión puede el oído resolver el tiempo? En esta lección vemos la resolución temporal y el umbral de detección de silencios (gaps), la integración temporal en unos 200 a 300 milisegundos, el ordenamiento temporal y las pruebas clínicas que los miden, a través de su relación con la percepción del habla.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Hirsh (1959), Auditory perception of temporal order, Journal of the Acoustical Society of America; Musiek y cols. (2005), GIN (Gaps-In-Noise) test performance in subjects with confirmed central auditory nervous system involvement, Ear and Hearing; Moore, An Introduction to the Psychology of Hearing; Musiek y Chermak, Handbook of Central Auditory Processing Disorder.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "psicoacustica",
+   "procesamientotemporal"
+  ],
+  "etiketler": [
+   "procesamiento temporal",
+   "detección de gaps",
+   "resolución temporal",
+   "integración temporal",
+   "ordenamiento temporal",
+   "prueba GIN",
+   "prueba de patrones de frecuencia",
+   "prueba de patrones de duración",
+   "procesamiento auditivo",
+   "psicoacústica",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 83",
+   "baslik": "Procesamiento *temporal*",
+   "alt": "Detección de silencios, integración y ordenamiento",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo procesa el sistema auditivo la información temporal del sonido.",
+    "Veremos la detección de silencios, la integración temporal, el ordenamiento temporal y su importancia en la clínica."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "El tiempo y la audición",
+   "baslik": "*Cuatro caras* del procesamiento temporal",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Resolución temporal",
+     "metin": "Captar cambios rápidos",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Integración temporal",
+     "metin": "Sumar energía en el tiempo",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Ordenamiento temporal",
+     "metin": "Saber el orden de los sonidos",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Enmascaramiento temporal",
+     "metin": "Efecto de sonidos previos y posteriores",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El sonido no solo tiene frecuencia e intensidad, sino también cambios en el tiempo; procesar estos cambios se llama procesamiento temporal.",
+    "La resolución temporal es la capacidad de detectar cambios muy breves y rápidos en el sonido.",
+    "La integración temporal es la suma que hace el oído de la energía de un sonido durante cierto período.",
+    "El ordenamiento temporal es saber en qué orden llegan los sonidos sucesivos.",
+    "El enmascaramiento temporal es el efecto de un sonido que tapa a otro justo anterior o posterior; lo vimos en la lección anterior.",
+    "En esta lección veremos, en orden, los tres primeros."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El tiempo y la audición",
+   "baslik": "El habla se teje *en el tiempo*",
+   "maddeler": [
+    {
+     "metin": "p y b: _inicio de la sonoridad_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Transiciones consonánticas: _decenas de milisegundos_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Silencio breve_ antes de las oclusivas",
+     "cumle": 3,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Acento y ritmo: _claves de duración_",
+     "cumle": 4,
+     "ikon": "muzik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "ses_dalgasi",
+    "ayar": {
+     "frekans_hz": 1000
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dalga",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "La información temporal es uno de los pilares de la comprensión del habla.",
+    "Por ejemplo, la principal clave que distingue la p de la b es el momento en que empiezan a vibrar los pliegues vocales, el tiempo de inicio de la sonoridad.",
+    "Los cambios rápidos de los formantes en las transiciones de una consonante a una vocal duran apenas unas decenas de milisegundos.",
+    "Los silencios breves antes de las consonantes oclusivas también nos ayudan a saber qué sonido se dijo.",
+    "El acento, el ritmo y la entonación también dependen de la duración de los sonidos y de su patrón en el tiempo.",
+    "Por eso, una debilidad del procesamiento temporal puede dificultar la comprensión del habla, incluso con un audiograma normal."
+   ]
+  },
+  {
+   "id": "bosluk",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Resolución temporal",
+   "baslik": "¿Cómo se mide la *detección* de silencios?",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido",
+     "metin": "Un segmento continuo",
+     "cumle": 1
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Silencio breve",
+     "metin": "Unos pocos milisegundos",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido",
+     "metin": "Vuelve a empezar",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "¿Hubo un silencio?",
+     "metin": "Se busca el más corto",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La medida de resolución temporal más usada es la detección de silencios, también llamada detección de gaps.",
+    "El oyente escucha un segmento de ruido.",
+    "En el medio del ruido se coloca un silencio muy breve, un gap, y luego el ruido continúa.",
+    "Se le pregunta al oyente si notó el silencio; el silencio se hace cada vez más corto.",
+    "El silencio más corto que se detecta de forma confiable se llama umbral de detección de silencios.",
+    "Esta medida muestra en qué escala de tiempo tan fina puede captar el sistema auditivo que un sonido se detiene y vuelve a empezar."
+   ]
+  },
+  {
+   "id": "esikler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Resolución temporal",
+   "baslik": "¿De *cuántos* milisegundos es el umbral?",
+   "sutunlar": [
+    "Condición",
+    "Umbral aproximado",
+    "Nota"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Ruido de banda ancha",
+      "2 a 3 ms",
+      "Jóvenes, audición normal"
+     ],
+     "cumle": 0,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Prueba GIN",
+      "unos 5 ms",
+      "Promedio en adultos normales"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Banda estrecha grave",
+      "Más largo",
+      "El filtro estrecho resuena"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Edad avanzada",
+      "Suele ser más largo",
+      "Aun con audiograma normal"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En adultos jóvenes con audición normal, el umbral de detección de silencios en ruido de banda ancha es de unos dos a tres milisegundos.",
+    "En la prueba clínica Gaps-In-Noise (GIN), se ha descrito un umbral promedio de unos cinco milisegundos en adultos normales.",
+    "Con sonidos graves de banda estrecha el umbral es más largo, porque los filtros auditivos estrechos siguen resonando después de que el estímulo termina.",
+    "Los umbrales varían según la prueba, el nivel del estímulo y el método, así que cada prueba debe interpretarse con sus propias normas.",
+    "En los adultos mayores, los umbrales de detección de silencios suelen ser más largos, incluso cuando el audiograma es normal."
+   ]
+  },
+  {
+   "id": "zarf",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 2",
+   "bolum": "Resolución temporal",
+   "baslik": "Envolvente y *estructura fina*",
+   "sol": {
+    "ust": "Envolvente (cambio lento)",
+    "maddeler": [
+     {
+      "metin": "Fluctuación de la _amplitud_ del sonido",
+      "cumle": 1
+     },
+     {
+      "metin": "Claves de sílaba y ritmo",
+      "cumle": 2
+     },
+     {
+      "metin": "_Suele bastar_ para el habla en silencio",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Estructura fina (oscilación rápida)",
+    "maddeler": [
+     {
+      "metin": "_Cada_ oscilación de la onda",
+      "cumle": 4
+     },
+     {
+      "metin": "Claves de tono, música y dirección",
+      "cumle": 5
+     },
+     {
+      "metin": "_Ayuda_ a entender en ruido",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "Podemos pensar la información temporal del sonido en dos capas.",
+    "La envolvente es la fluctuación lenta de la amplitud del sonido en el tiempo.",
+    "Claves como el inicio de las sílabas, el ritmo y el acento se transmiten en gran medida en la envolvente.",
+    {
+     "yazi": "En 1995, Shannon y colaboradores mostraron que el habla en silencio se entiende en gran medida a partir de las envolventes de solo unas pocas bandas."
+    },
+    "La estructura fina temporal es la temporización de cada oscilación individual de la onda.",
+    "La estructura fina es importante para la percepción del tono, la música y la localización basada en la diferencia de tiempo entre los oídos.",
+    "También ayuda a separar el habla del ruido; los implantes cocleares, sin embargo, en gran medida no pueden transmitir esta información."
+   ]
+  },
+  {
+   "id": "testler",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Resolución temporal",
+   "baslik": "Pruebas clínicas de *silencios*",
+   "maddeler": [
+    {
+     "metin": "GIN: _silencios aleatorios en ruido_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Cada oído se evalúa _por separado_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "RGDT: _pares de tonos y clics_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Resultado: comparar con _normas por edad_",
+     "cumle": 5,
+     "ikon": "tablo"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "inferior_kollikulus",
+      "cumle": 1
+     },
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "La prueba Gaps-In-Noise (GIN) coloca silencios de distinta duración en posiciones aleatorias dentro de segmentos de ruido.",
+    {
+     "yazi": "Musiek y colaboradores describieron la prueba en 2005 y la encontraron sensible a las lesiones del sistema nervioso auditivo central."
+    },
+    "El paciente presiona un botón cada vez que oye un silencio; cada oído se evalúa por separado.",
+    {
+     "yazi": "El Random Gap Detection Test (RGDT) usa pares de tonos o de clics separados por silencios de distinta duración."
+    },
+    "El oyente dice si oyó un sonido o dos, y se busca el intervalo más corto que se percibe como dos sonidos.",
+    "Los resultados de ambas pruebas se interpretan según las normas para la edad y para la versión utilizada."
+   ]
+  },
+  {
+   "id": "butunlesme",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Integración temporal",
+   "baslik": "Sonido corto, umbral *más alto*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 10,
+     "max": 1000,
+     "log": true,
+     "ad": "Duración del tono (ms)",
+     "isaretler": [
+      10,
+      20,
+      50,
+      100,
+      200,
+      500,
+      1000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 15,
+     "adim": 5,
+     "ad": "Elevación del umbral (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        10,
+        13
+       ],
+       [
+        20,
+        10
+       ],
+       [
+        50,
+        6
+       ],
+       [
+        100,
+        3
+       ],
+       [
+        160,
+        1.2
+       ],
+       [
+        250,
+        0.3
+       ],
+       [
+        400,
+        0
+       ],
+       [
+        1000,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "on_kat",
+      "x": [
+       20,
+       200
+      ],
+      "y": 12.5,
+      "etiket": "10 veces más largo",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kisa_ton",
+      "x": 20,
+      "y": 10,
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "butunlesme_suresi",
+      "x": [
+       200,
+       300
+      ],
+      "renk": "sari",
+      "etiket": "200-300 ms",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "esik",
+     "cumle": 1
+    },
+    {
+     "parca": "on_kat",
+     "cumle": 2
+    },
+    {
+     "parca": "butunlesme_suresi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Doble duración: umbral _unos 3 dB_ mejor",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Límite: _unos 200 a 300 ms_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Más allá, el umbral _no cambia_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Pasemos a la integración temporal: el oído suma la energía de un sonido corto durante cierto período.",
+    "Por eso, un tono muy corto se oye con más dificultad que un tono largo del mismo nivel, y su umbral es más alto.",
+    "Hasta cierta duración, duplicar la duración mejora el umbral en unos tres decibeles, y multiplicarla por diez, en unos diez.",
+    "Esta mejora continúa hasta unos doscientos a trescientos milisegundos; esto se llama tiempo de integración.",
+    "En los sonidos más largos que esto, aumentar la duración casi no cambia el umbral.",
+    "El mismo principio se aplica a la sonoridad; los sonidos muy cortos se perciben más suaves."
+   ]
+  },
+  {
+   "id": "butunlesme_klinik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Integración temporal",
+   "baslik": "La integración *en la clínica*",
+   "maddeler": [
+    {
+     "metin": "Los tonos audiométricos son _suficientemente largos_",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Estímulos breves: umbral de PEATC _más alto_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La pérdida coclear _reduce_ la integración",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "dalga_V",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "En la audiometría tonal, el tono se presenta durante uno a dos segundos para quedar bien por encima del tiempo de integración.",
+    "Así, el umbral se mide sin que influya la duración del sonido.",
+    "Los clics y los tonos breves que se usan en los potenciales evocados auditivos de tronco cerebral (PEATC), en cambio, duran apenas unos milisegundos.",
+    {
+     "yazi": "Por eso, los umbrales con estímulos breves son más altos que los conductuales; la calibración en nivel de audición normalizado (nHL) lo compensa."
+    },
+    "En la pérdida auditiva coclear, la diferencia entre los umbrales de tonos cortos y largos se reduce; es decir, la integración temporal disminuye.",
+    "Este hallazgo muestra que una cóclea dañada no puede sumar la energía sonora en el tiempo como lo hace un oído normal."
+   ]
+  },
+  {
+   "id": "siralama",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ordenamiento temporal",
+   "baslik": "¿Dos sonidos o *cuál fue primero*?",
+   "sol": {
+    "ust": "Separar dos sonidos",
+    "maddeler": [
+     {
+      "metin": "Bastan _unos pocos milisegundos_",
+      "cumle": 1
+     },
+     {
+      "metin": "Resolución sobre todo _periférica_",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Nombrar su orden",
+    "maddeler": [
+     {
+      "metin": "Se necesitan unos _20 ms_",
+      "cumle": 2
+     },
+     {
+      "metin": "Requiere procesamiento central",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "El ordenamiento temporal es la capacidad de determinar el orden de sonidos sucesivos.",
+    "Basta un silencio de unos pocos milisegundos para notar que dos sonidos breves son dos y no uno.",
+    {
+     "yazi": "En 1959, Hirsh mostró que se necesitan unos veinte milisegundos para decir de forma confiable cuál de dos sonidos llegó primero."
+    },
+    "Así, detectar un sonido es fácil, mientras que nombrar el orden requiere un procesamiento central de nivel superior.",
+    "Percibir correctamente el orden de las sílabas y los sonidos del habla depende de esta habilidad."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ordenamiento temporal",
+   "baslik": "Pruebas de *patrones*",
+   "ogeler": [
+    {
+     "ikon": "muzik",
+     "baslik": "Patrones de frecuencia",
+     "metin": "Agudo, grave, agudo",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Patrones de duración",
+     "metin": "Largo, corto, largo",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Nombrar",
+     "metin": "Ambos hemisferios juntos",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Tararear",
+     "metin": "Imitar el patrón",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la clínica, el ordenamiento temporal se evalúa con pruebas de patrones.",
+    "En la prueba de patrones de frecuencia se presentan tres tonos seguidos, y el paciente nombra el orden, por ejemplo agudo, grave, agudo.",
+    "En la prueba de patrones de duración, los tonos tienen la misma frecuencia, pero se ordenan por duraciones largas y cortas.",
+    "Nombrar el patrón con palabras requiere ambos hemisferios y la transferencia entre ellos a través del cuerpo calloso.",
+    "Si el paciente no puede nombrar el patrón pero sí imitarlo correctamente tarareando, esta diferencia aporta información a la interpretación.",
+    "Estas pruebas se usan a menudo en las evaluaciones del procesamiento auditivo central."
+   ]
+  },
+  {
+   "id": "kimler",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ordenamiento temporal",
+   "baslik": "¿*Quiénes* tienen un procesamiento temporal más débil?",
+   "maddeler": [
+    {
+     "metin": "Edad avanzada: dificultad con el _habla rápida_",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Trastorno del procesamiento auditivo",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "_Lesiones_ del sistema nervioso central",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Neuropatía auditiva: alteración _marcada_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Las quejas de comprensión en ruido y con habla rápida pueden sugerir un problema de procesamiento temporal, incluso con un audiograma normal.",
+    "cumle": 4
+   },
+   "cumleler": [
+    "El procesamiento temporal se enlentece con la edad; a los adultos mayores les cuesta especialmente seguir el habla rápida.",
+    "Algunos niños con trastorno del procesamiento auditivo (TPA) tienen un rendimiento bajo en las pruebas temporales.",
+    "Las lesiones que afectan el lóbulo temporal y el tronco encefálico también pueden alterar la detección de silencios y las pruebas de patrones.",
+    "En la neuropatía auditiva, la temporización de las respuestas nerviosas está alterada, así que la resolución temporal se ve claramente afectada.",
+    "Por eso, las quejas de dificultad en ruido y con el habla rápida deben tomarse en serio, incluso cuando el audiograma es normal."
+   ]
+  },
+  {
+   "id": "destek",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ordenamiento temporal",
+   "baslik": "Darle *tiempo* al tiempo",
+   "maddeler": [
+    {
+     "metin": "Habla clara y algo _más lenta_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Reducir el ruido y la _reverberación_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "_Sistemas_ de micrófono remoto",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Entrenamiento auditivo: evaluación _individual_",
+     "cumle": 3,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "APOYO",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "Entorno",
+      "metin": "Silencioso, poca reverberación",
+      "cumle": 1
+     },
+     {
+      "ikon": "kalabalik",
+      "baslik": "Comunicación",
+      "metin": "Habla clara",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Al hablar con personas con un procesamiento temporal débil, hablar con claridad y un poco más despacio da tiempo a que los sonidos se separen.",
+    "La reverberación llena los silencios y desdibuja las claves temporales, así que reducir el ruido y la reverberación ayuda.",
+    "En la escuela y en las reuniones, los sistemas de micrófono remoto envían la voz de quien habla directamente, sin depender de la sala.",
+    "También se usan programas de entrenamiento de habilidades temporales; como el beneficio varía entre personas, los resultados deben medirse con regularidad.",
+    "Estas sugerencias no reemplazan una evaluación audiológica completa."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Revisen los umbrales tonales antes de las pruebas temporales y presenten el estímulo a un nivel claramente audible. Los problemas de atención y comprensión también bajan los puntajes.",
+   "cumleler": [
+    "Un consejo clínico: revisen siempre los umbrales tonales antes de interpretar las pruebas temporales.",
+    "Si el estímulo no es lo bastante audible, un mal resultado puede deberse a la pérdida auditiva y no a un problema temporal.",
+    "Enseñen la tarea con ítems de práctica antes de la prueba y asegúrense de que el paciente use bien las palabras agudo y grave.",
+    "La atención y la memoria también influyen en estas pruebas; decidan según toda la batería de pruebas y no por un solo puntaje bajo."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Umbral de silencios: unos _2 a 3 ms_",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Integración: unos _200 a 300 ms_",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Ordenamiento: se necesitan unos _20 ms_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Clínica: _GIN_ y pruebas de patrones",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "La resolución temporal se mide con la detección de silencios; en adultos jóvenes, el umbral en ruido de banda ancha es de unos dos a tres milisegundos.",
+    "El oído suma la energía sonora durante unos doscientos a trescientos milisegundos; los sonidos más cortos tienen umbrales más altos.",
+    "Se necesitan unos veinte milisegundos para nombrar el orden de dos sonidos; es una habilidad central.",
+    {
+     "yazi": "En la clínica, la prueba GIN, el RGDT y las pruebas de patrones de frecuencia y de duración evalúan el procesamiento temporal."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Hasta cuánto dura aproximadamente la integración temporal?",
+   "secenekler": [
+    "2 a 3 ms",
+    "20 ms",
+    "200 a 300 ms",
+    "2 a 3 segundos"
+   ],
+   "dogru": 2,
+   "aciklama": "El umbral mejora con la duración hasta _unos 200 a 300 ms_ y luego no cambia.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿hasta cuánto dura aproximadamente la integración temporal?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: unos doscientos a trescientos milisegundos.",
+    "Hasta esa duración, el umbral mejora a medida que el sonido se alarga; en sonidos más largos, el umbral casi no cambia."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Localización sonora y *percepción* binaural",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección volvemos a cómo trabajan juntos los dos oídos y veremos, desde la psicoacústica, cómo localizamos los sonidos.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

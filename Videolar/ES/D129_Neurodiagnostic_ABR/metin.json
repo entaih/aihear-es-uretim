@@ -1,0 +1,949 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D129_Neurodiagnostic_ABR_ES",
+ "kapak": {
+  "ust": "LECCIÓN 129",
+  "baslik": "PEATC<br>*neurodiagnósticos*",
+  "alt": "En busca de una lesión retrococlear",
+  "cizim": "abr",
+  "ayar": {
+   "i_v_uzama": 0.8
+  }
+ },
+ "youtube": {
+  "baslik": "PEATC neurodiagnósticos: lesiones retrococleares | Lección 129 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos cómo se usan los potenciales evocados auditivos de tronco cerebral (PEATC) cuando se sospecha una lesión retrococlear. Con ejemplos, vemos las latencias interpico, la diferencia interaural de latencia de la onda V (IT5), la corrección por pérdida auditiva en agudos, los patrones típicos y los límites de sensibilidad de los PEATC frente a la resonancia magnética.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Selters and Brackmann (1977), Acoustic tumor detection with brain stem electric response audiometry; Don et al., Stacked ABR studies.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "PEATC",
+   "retrococlear"
+  ],
+  "etiketler": [
+   "PEATC neurodiagnósticos",
+   "retrococlear",
+   "IT5",
+   "onda V",
+   "latencia interpico",
+   "schwannoma vestibular",
+   "neurinoma del acústico",
+   "potenciales evocados auditivos de tronco cerebral",
+   "PEATC apilados",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 129",
+   "baslik": "PEATC *neurodiagnósticos*",
+   "alt": "Evaluación de lesiones retrococleares",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo se usan los potenciales evocados auditivos de tronco cerebral (PEATC, en inglés ABR) para investigar problemas retrococleares.",
+    {
+     "yazi": "Con ejemplos, veremos los criterios de latencia que revisamos, la diferencia interaural de la onda V y los límites del método."
+    }
+   ]
+  },
+  {
+   "id": "amac",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El objetivo",
+   "baslik": "¿Qué *significa* retrococlear?",
+   "maddeler": [
+    {
+     "metin": "Retrococlear: la vía _más allá de la cóclea_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Nervio auditivo y _tronco cerebral_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Ejemplo clásico: _schwannoma vestibular_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "PEATC: _conducción_; imágenes: _estructura_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "isitme_siniri",
+      "cumle": 1
+     },
+     {
+      "parca": "koklear_nukleus",
+      "cumle": 1
+     },
+     {
+      "parca": "lateral_lemniskus",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "isitme_siniri",
+      "metin": "región retrococlear",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Retrococlear significa más allá de la cóclea, y abarca la vía que va desde el nervio auditivo hasta el tronco cerebral."
+    },
+    "Un problema en esta región puede hacer más lenta la señal en el tronco cerebral o hacerle perder sincronía.",
+    {
+     "yazi": "El ejemplo más clásico es el schwannoma vestibular, un tumor benigno que crece en el conducto auditivo interno."
+    },
+    "La esclerosis múltiple, los problemas vasculares que afectan el tronco cerebral y otros tumores también pueden alterar los PEATC.",
+    "Los PEATC miden con qué rapidez y regularidad se conduce la señal; los métodos de imagen muestran la estructura en sí.",
+    {
+     "yazi": "Por eso, los PEATC neurodiagnósticos son una prueba de tamizaje y de apoyo; el diagnóstico se basa en la evaluación médica y las imágenes."
+    }
+   ]
+  },
+  {
+   "id": "ikv",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El objetivo",
+   "baslik": "Un *espacio estrecho* en el conducto auditivo interno",
+   "cizim": "ic_kulak_yolu_dibi",
+   "vurgula": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "labirent_arteri",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "metin": "Nervio vestibular superior",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "Nervio vestibular inferior",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Nervio coclear",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "Nervio facial (VII)",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tumor casi siempre del nervio _vestibular_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Compresión: _se enlentece_ la conducción coclear",
+     "cumle": 2,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "El conducto auditivo interno es un canal óseo estrecho por el que pasan juntos los nervios de la audición, del equilibrio y el facial.",
+    {
+     "yazi": "El schwannoma vestibular suele originarse en las células de Schwann de la vaina del nervio vestibular superior o inferior."
+    },
+    "Al crecer, el tumor comprime el nervio coclear vecino; la conducción nerviosa se enlentece y la sincronía se pierde.",
+    "También puede afectarse la arteria laberíntica, que irriga la cóclea, por lo que a veces también hay hallazgos cocleares.",
+    "El nervio facial, que recorre el mismo conducto, puede afectarse con tumores grandes, pero la parálisis facial es rara en las fases iniciales."
+   ]
+  },
+  {
+   "id": "protokol",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Protocolo",
+   "baslik": "*Pasos* de los PEATC neurodiagnósticos",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Primero el audiograma",
+     "metin": "Conocer el grado de pérdida",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Alta intensidad",
+     "metin": "Clic, 80 a 90 dB nHL",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Tasa lenta",
+     "metin": "11 a 21 por segundo",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Repetir el registro",
+     "metin": "Al menos dos registros",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Ambos oídos",
+     "metin": "Comparar con iguales parámetros",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Antes de los PEATC neurodiagnósticos debe contarse con un audiograma actual, porque la pérdida auditiva coclear afecta las latencias.",
+    {
+     "yazi": "El estímulo es un clic o un chirp de banda ancha a alta intensidad, por ejemplo de 80 a 90 dB nHL, es decir, de nivel de audición normalizado."
+    },
+    {
+     "yazi": "Para ver bien las ondas, la tasa de estimulación se mantiene baja, por ejemplo de unos 11 a 21 por segundo."
+    },
+    "En cada condición se obtienen al menos dos registros para confirmar que las ondas son reproducibles.",
+    "Ambos oídos se evalúan con el mismo estímulo, la misma intensidad y los mismos parámetros, para poder compararlos.",
+    "Si hay una asimetría clara entre los oídos, puede presentarse ruido de enmascaramiento en el oído opuesto para evitar la audición cruzada.",
+    "Algunos protocolos añaden también registros a tasas más altas, porque una conducción alterada puede hacerse más evidente a tasas altas."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Protocolo",
+   "baslik": "Los *criterios* que revisamos",
+   "sutunlar": [
+    "Criterio",
+    "Límite de alerta",
+    "Nota"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Latencia de onda V",
+      "Mayor que la norma",
+      "Unos 6 ms"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Intervalo I-III",
+      "Más de 2,5 ms",
+      "Tronco cerebral bajo"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Intervalo III-V",
+      "Más de 2,4 ms",
+      "Tronco cerebral alto"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Intervalo I-V",
+      "Más de 4,5 ms",
+      "Conducción total"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Onda V interaural",
+      "0,3 a 0,4 ms",
+      "IT5"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Ondas ausentes",
+      "Respuesta no reproducible",
+      "No concuerda con audición"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El primer criterio es la latencia de la onda V a alta intensidad; en adultos, el límite superior suele rondar los 6 milisegundos."
+    },
+    {
+     "yazi": "Un intervalo I-III de más de unos 2,5 milisegundos sugiere una conducción retrasada entre el nervio auditivo y la parte baja de la protuberancia.",
+     "ses": "Un intervalo I-III de más de unos dos coma cinco milisegundos sugiere una conducción retrasada entre el nervio auditivo y la parte baja de la protuberancia."
+    },
+    {
+     "yazi": "Un intervalo III-V de más de unos 2,4 milisegundos puede indicar un retraso en la parte alta del tronco cerebral.",
+     "ses": "Un intervalo III-V de más de unos dos coma cuatro milisegundos puede indicar un retraso en la parte alta del tronco cerebral."
+    },
+    {
+     "yazi": "Un intervalo I-V de más de unos 4,4 a 4,5 milisegundos es el criterio de retraso más usado.",
+     "ses": "Un intervalo I-V de más de unos cuatro coma cuatro a cuatro coma cinco milisegundos es el criterio de retraso más usado."
+    },
+    {
+     "yazi": "Una diferencia interaural de la onda V de más de unos 0,3 a 0,4 milisegundos también se considera anormal.",
+     "ses": "Una diferencia interaural de la onda V de más de unos cero coma tres a cero coma cuatro milisegundos también se considera anormal."
+    },
+    "Por último, la ausencia de ondas que el nivel auditivo no explica, o un registro no reproducible, también son hallazgos importantes.",
+    "Los límites de la tabla son aproximados; cada clínica debe usar normas obtenidas con su propio equipo y protocolo."
+   ]
+  },
+  {
+   "id": "iv",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Ejemplos",
+   "baslik": "Un intervalo *I-V* prolongado",
+   "cizim": "abr",
+   "ayar": {
+    "i_v_uzama": 0.8
+   },
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_V",
+     "cumle": 2
+    },
+    {
+     "parca": "latans_I_V",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "onda I: posición normal",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "onda V: retrasada",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Línea discontinua: registro _normal_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Periferia intacta, _conducción lenta_",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "En pantalla, la línea discontinua muestra un registro normal y la línea continua, un registro de ejemplo.",
+    {
+     "yazi": "En este ejemplo, la onda I tiene una latencia normal; así, el primer paso de la conducción, de la cóclea al nervio, comienza a tiempo."
+    },
+    {
+     "yazi": "La onda V, en cambio, llega claramente más tarde que en el registro normal."
+    },
+    {
+     "yazi": "Como resultado, el intervalo I-V se prolonga a unos 4,8 milisegundos y supera el límite normal.",
+     "ses": "Como resultado, el intervalo I-V se prolonga a unos cuatro coma ocho milisegundos y supera el límite normal."
+    },
+    "Este patrón sugiere que el retraso no está en la cóclea sino en la conducción del nervio y del tronco cerebral, y requiere más estudios."
+   ]
+  },
+  {
+   "id": "it5",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Ejemplos",
+   "baslik": "La *diferencia interaural* de la onda V",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 4.5,
+     "max": 7,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Latencia de la onda V (ms)"
+    },
+    "y": {
+     "min": 0.3,
+     "max": 2.7,
+     "ad": "Oído",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Left",
+      "2": "Right",
+      "1": "Izquierdo",
+      "2": "Derecho"
+     }
+    },
+    "isaretler": [
+     {
+      "ad": "sag",
+      "x": 5.6,
+      "y": 2,
+      "renk": "kirmizi",
+      "dolu": true,
+      "etiket": "derecho: 5,6 ms",
+      "cumle": 1,
+      "dus": "x"
+     },
+     {
+      "ad": "sol",
+      "x": 6.1,
+      "y": 1,
+      "renk": "sol",
+      "dolu": true,
+      "etiket": "izquierdo: 6,1 ms",
+      "cumle": 2,
+      "dus": "x"
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "x": [
+       5.6,
+       6.1
+      ],
+      "y": 1.5,
+      "etiket": "0,5 ms",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Misma intensidad, _mismos parámetros_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Diferencia mayor de _0,3 a 0,4 ms_: alerta",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "El paciente es _su propio control_",
+     "cumle": 5,
+     "ikon": "hasta"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La diferencia interaural de latencia de la onda V (IT5) es la diferencia entre las latencias de la onda V de ambos oídos a la misma intensidad."
+    },
+    {
+     "yazi": "En este ejemplo, la onda V del oído derecho aparece a 5,6 milisegundos.",
+     "ses": "En este ejemplo, la onda V del oído derecho aparece a cinco coma seis milisegundos."
+    },
+    {
+     "yazi": "En el oído izquierdo, a la misma intensidad, la onda V llega a 6,1 milisegundos.",
+     "ses": "En el oído izquierdo, a la misma intensidad, la onda V llega a seis coma uno milisegundos."
+    },
+    {
+     "yazi": "La diferencia es de 0,5 milisegundos.",
+     "ses": "La diferencia es de cero coma cinco milisegundos."
+    },
+    {
+     "yazi": "Una diferencia de más de unos 0,3 a 0,4 milisegundos suele considerarse anormal; este ejemplo supera ese límite.",
+     "ses": "Una diferencia de más de unos cero coma tres a cero coma cuatro milisegundos suele considerarse anormal; este ejemplo supera ese límite."
+    },
+    "La fortaleza de este criterio es que compara al paciente con su propio oído contralateral; factores como la edad y el sexo afectan a ambos oídos.",
+    "Sin embargo, esta comparación es más fiable cuando los niveles auditivos cocleares de ambos oídos son parecidos."
+   ]
+  },
+  {
+   "id": "duzeltme",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Ejemplos",
+   "baslik": "La pérdida en agudos *prolonga la latencia*",
+   "maddeler": [
+    {
+     "metin": "Pérdida coclear en agudos: _onda V retrasada_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "En pérdida asimétrica, la IT5 _puede engañar_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Cada 10 dB sobre 50: _0,1 ms_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Lo más seguro: mirar el _intervalo I-V_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        15,
+        15,
+        20,
+        25,
+        30,
+        35
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        15,
+        20,
+        25,
+        45,
+        70,
+        75
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Una pérdida coclear en las frecuencias agudas puede retrasar la onda V, porque afecta la región que el clic estimula con más fuerza."
+    },
+    "En una pérdida asimétrica en agudos como la de este ejemplo, la diferencia interaural también puede deberse a la diferencia coclear.",
+    {
+     "yazi": "En una corrección habitual de Selters y Brackmann, se restan 0,1 ms por cada 10 dB de pérdida a 4000 Hz por encima de 50 dB.",
+     "ses": "En una corrección habitual de Selters y Brackmann, se resta cero coma uno milisegundos por cada diez decibeles de pérdida a cuatro mil hertz por encima de cincuenta decibeles."
+    },
+    {
+     "yazi": "En este ejemplo, el umbral izquierdo a 4000 Hz es de 70 decibeles, por lo que se aplica una corrección de unos 0,2 milisegundos.",
+     "ses": "En este ejemplo, el umbral izquierdo a cuatro mil hertz es de setenta decibeles, por lo que se aplica una corrección de unos cero coma dos milisegundos."
+    },
+    {
+     "yazi": "Las correcciones son estimaciones aproximadas; si la onda I es visible, el intervalo I-V es más fiable, porque la cóclea lo afecta mucho menos."
+    },
+    {
+     "yazi": "Si la onda I es débil, el electrodo de conducto auditivo que vimos en lecciones anteriores puede hacerla más prominente."
+    }
+   ]
+  },
+  {
+   "id": "desenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Patrones",
+   "baslik": "*Patrones* retrococleares",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Intervalos prolongados",
+     "metin": "I-III o I-V largos",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Asimetría",
+     "metin": "Diferencia interaural de onda V",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Solo onda I",
+     "metin": "Ondas tardías ausentes",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Sin respuesta",
+     "metin": "Pese a una audición bastante buena",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Poca reproducibilidad",
+     "metin": "Los registros no se superponen",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "V/I baja",
+     "metin": "Onda V muy pequeña",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En las lesiones retrococleares, el patrón más frecuente es la prolongación de los intervalos interpico, sobre todo de los intervalos I-III y I-V."
+    },
+    {
+     "yazi": "En las lesiones unilaterales, la diferencia interaural de la onda V suele ser el primer hallazgo que destaca."
+    },
+    {
+     "yazi": "A veces solo se ve la onda I y se pierden las ondas tardías; esto sugiere que la señal se interrumpe en la porción más central del nervio."
+    },
+    "Cuando los umbrales auditivos son lo bastante buenos para registrar PEATC, la ausencia de toda onda también es una fuerte señal de alerta.",
+    "Los registros obtenidos en la misma condición que no coinciden entre sí también pueden indicar una pérdida de sincronía.",
+    {
+     "yazi": "Una onda V claramente más pequeña que la onda I se considera un hallazgo adicional de apoyo."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de interpretar unos PEATC ausentes, revisar el audiograma: una pérdida severa por sí sola puede borrar las ondas. La ausencia de respuesta con buena audición es una fuerte alerta.",
+   "cumleler": [
+    "Un consejo clínico: revisen siempre el audiograma antes de interpretar la ausencia de ondas.",
+    "Si hay una pérdida severa en las frecuencias agudas, la imposibilidad de registrar PEATC con clic también puede tener un origen coclear.",
+    "En cambio, la ausencia de toda onda reproducible en un oído con audición bastante buena es mucho más sugestiva de un problema retrococlear.",
+    "Dejen clara esta distinción en el informe; a partir de ella, el médico que lo lee valora el peso del hallazgo."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Sensibilidad",
+   "baslik": "Los *límites* de los PEATC",
+   "maddeler": [
+    {
+     "metin": "Sensibilidad _alta_ para tumores grandes",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Claramente menor_ para tumores pequeños",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "PEATC normales _no descartan_ un tumor",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Estándar de oro: _RM con contraste_",
+     "cumle": 4,
+     "ikon": "hastane"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "COMPARACIÓN",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Tumor grande",
+      "metin": "PEATC casi siempre alterados",
+      "cumle": 0
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Tumor pequeño",
+      "metin": "PEATC pueden ser normales",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En los estudios, los PEATC convencionales fueron anormales en la gran mayoría de los schwannomas vestibulares grandes."
+    },
+    "Pero en los tumores pequeños limitados al conducto auditivo interno, sobre todo los de menos de un centímetro, la sensibilidad baja claramente.",
+    "Un tumor pequeño puede crecer sin afectar a parte de las fibras nerviosas y no modificar la respuesta al clic.",
+    "Por eso, un resultado normal de PEATC no descarta de forma definitiva una lesión retrococlear.",
+    "Hoy, el estándar de oro para la evaluación retrococlear es la resonancia magnética (RM), a menudo con contraste.",
+    "Los PEATC siguen siendo valiosos en personas que no pueden hacerse una RM o para quienes no es adecuada, y cuando se necesita información funcional."
+   ]
+  },
+  {
+   "id": "mr_abr",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Sensibilidad",
+   "baslik": "PEATC y RM *juntos*",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "RM",
+     "metin": "Muestra la estructura, detecta tumores pequeños",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "PEATC",
+     "metin": "Mide la función, bajo costo, no invasivo",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "PEATC avanzados",
+     "metin": "Ejemplo: PEATC apilados",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Decisión",
+     "metin": "Decide el médico",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La RM muestra directamente la presencia, el tamaño y la ubicación de un tumor; puede detectar lesiones de incluso unos pocos milímetros.",
+    "Los PEATC miden la función y no la estructura; son no invasivos, de costo relativamente bajo, y nos dicen cómo funciona la vía auditiva del paciente.",
+    "Estos dos métodos no se reemplazan entre sí; se complementan.",
+    {
+     "yazi": "Se han desarrollado técnicas avanzadas, como los PEATC apilados (stacked ABR), para aumentar la sensibilidad a los tumores pequeños, pero no se usan ampliamente."
+    },
+    "El médico decide qué estudio de imagen se hace y cuándo; el papel del audiólogo es presentar los hallazgos con claridad."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 6",
+   "bolum": "En la práctica",
+   "baslik": "Otros problemas del *tronco cerebral*",
+   "maddeler": [
+    {
+     "metin": "Esclerosis múltiple: pueden alargarse _I-V y III-V_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "ACV o _hemorragia_ del tronco cerebral",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Tumor del tronco o del _ángulo pontocerebeloso_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Seguimiento_ con registros seriados",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 0
+     },
+     {
+      "parca": "lateral_lemniskus",
+      "cumle": 1
+     },
+     {
+      "parca": "inferior_kollikulus",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En las enfermedades que afectan la mielina, como la esclerosis múltiple, pueden alargarse sobre todo los intervalos III-V y I-V, y las ondas pueden degradarse."
+    },
+    "Los accidentes cerebrovasculares o las hemorragias que afectan el tronco cerebral también pueden retrasar ondas concretas, según el sitio de la lesión.",
+    "Otros tumores del ángulo pontocerebeloso, la región entre el cerebelo y la protuberancia, pueden dar hallazgos parecidos.",
+    "En estos casos, los PEATC pueden ser anormales incluso con umbrales auditivos normales, porque miden la conducción y no el umbral.",
+    "En algunos casos también se usan registros seriados de PEATC para seguir la evolución de la enfermedad."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 6",
+   "bolum": "En la práctica",
+   "baslik": "Informe y *derivación*",
+   "maddeler": [
+    {
+     "metin": "Informar _latencias_ absolutas e interpico",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Indicar la IT5 y la _corrección_ usada",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Describir el resultado _según las normas_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Si es anormal, _derivar al médico_",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "REDACCIÓN DEL INFORME",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Adecuado",
+      "metin": "PEATC alterados de tipo retrococlear",
+      "cumle": 2
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "No adecuado",
+      "metin": "Una afirmación diagnóstica",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Para cada oído, el informe recoge las latencias absolutas de las ondas I, III y V y los intervalos interpico."
+    },
+    {
+     "yazi": "Se indica la diferencia interaural de la onda V, junto con cualquier corrección que se haya aplicado."
+    },
+    "Según las normas de la clínica, el resultado se describe como normal o como alterado de tipo retrococlear.",
+    "Ante un hallazgo anormal, el papel del audiólogo es derivar al paciente al médico para una evaluación adicional.",
+    "El informe no diagnostica; en lugar de afirmar que hay un tumor, indica que los hallazgos pueden ser compatibles con un proceso retrococlear."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "PEATC neurodiagnósticos: _conducción del tronco_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "I-V prolongado e _IT5_: criterios clave",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "La pérdida en agudos alarga latencias: _corregir_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "PEATC normales _no descartan_ tumores pequeños",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Los PEATC neurodiagnósticos usan un clic de alta intensidad para evaluar la conducción del nervio auditivo y del tronco cerebral.",
+    {
+     "yazi": "Los intervalos interpico prolongados y una diferencia interaural de la onda V de más de unos 0,3 a 0,4 milisegundos son los criterios clave.",
+     "ses": "Los intervalos interpico prolongados y una diferencia interaural de la onda V de más de unos cero coma tres a cero coma cuatro milisegundos son los criterios clave."
+    },
+    {
+     "yazi": "La pérdida coclear en agudos puede retrasar la onda V, por lo que los PEATC siempre deben interpretarse junto con el audiograma."
+    },
+    "Los PEATC no son sensibles a los tumores pequeños; la decisión sobre las imágenes corresponde al médico."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Onda V derecha: 5,6 ms; izquierda: 6,1 ms. ¿Cómo se interpreta la diferencia?",
+   "secenekler": [
+    "Dentro de lo normal",
+    "Anormal, requiere más estudios",
+    "Solo pérdida conductiva"
+   ],
+   "dogru": 1,
+   "aciklama": "La diferencia es de _0,5 ms_; por encima de unos 0,3 a 0,4 ms suele considerarse anormal. Revisar antes el audiograma.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: la onda V está a 5,6 milisegundos a la derecha y a 6,1 a la izquierda. ¿Cómo se interpreta esta diferencia?",
+     "sonra_bekle": 5,
+     "ses": "Pon a prueba lo aprendido: la onda V está a cinco coma seis milisegundos a la derecha y a seis coma uno a la izquierda. ¿Cómo se interpreta esta diferencia?"
+    },
+    "La respuesta correcta es la B: es anormal y requiere más estudios.",
+    {
+     "yazi": "La diferencia es de 0,5 milisegundos, por encima del límite aceptado habitualmente; antes de interpretar, revisa los audiogramas de ambos oídos.",
+     "ses": "La diferencia es de cero coma cinco milisegundos, por encima del límite aceptado habitualmente; antes de interpretar, revisa los audiogramas de ambos oídos."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "PEATC de umbral: evaluación por frecuencia en *bebés*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo usamos los PEATC para estimar umbrales por frecuencia en bebés.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

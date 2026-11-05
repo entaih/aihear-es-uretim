@@ -1,0 +1,1383 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D116_Calibrating_Immittance_OAE_ABR_ES",
+ "kapak": {
+  "ust": "LECCIÓN 116",
+  "baslik": "Calibración de<br>*equipos objetivos*",
+  "alt": "Inmitancia, OEA y PEATC",
+  "cizim": "oae",
+  "ayar": {
+   "tur": "DPOAE"
+  }
+ },
+ "youtube": {
+  "baslik": "Calibración de equipos de inmitancia, OEA y PEATC | Lección 116 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo se calibran los equipos de pruebas objetivas? En esta lección vemos las cavidades de calibración de 0,5, 2 y 5 ml de los equipos de inmitancia, el control de la presión y de los estímulos del reflejo, la verificación de la sonda de otoemisiones acústicas (OEA), el nivel de presión sonora de pico equivalente (peSPL) de los estímulos de los potenciales evocados auditivos de tronco cerebral (PEATC) y el concepto de 0 dB nHL.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: IEC 60645-3, -5, -6 and -7 (Electroacoustics: Audiometric equipment); ISO 389-6, Reference threshold of hearing for test signals of short duration; ANSI S3.39; British Society of Audiology, ABR Stimulus Calibration Reference Values; Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "calibracion",
+   "PEATC"
+  ],
+  "etiketler": [
+   "calibración",
+   "cavidad de calibración",
+   "timpanometría",
+   "verificación de sonda OEA",
+   "peSPL",
+   "SPL de pico equivalente",
+   "dB nHL",
+   "ISO 389-6",
+   "IEC 60645",
+   "calibración de PEATC",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 116",
+   "baslik": "Calibración de inmitancia, OEA y *PEATC*",
+   "alt": "Cavidades, verificación de sonda, peSPL y nHL",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo se calibran y controlan los equipos de inmitancia, otoemisiones acústicas y potenciales evocados auditivos de tronco cerebral.",
+    "Veremos las cavidades de calibración, la verificación de la sonda, el SPL de pico equivalente para estímulos breves y el nivel de audición normalizado."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Principios comunes",
+   "baslik": "Tres equipos, *tres normas*",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Inmitancia",
+     "metin": "IEC 60645-5",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "OEA",
+     "metin": "IEC 60645-6",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "PEATC",
+     "metin": "IEC 60645-7",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Misma lógica",
+     "metin": "Diario, periódico, completo",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Ya vimos la calibración del audiómetro; los equipos de pruebas objetivas deben controlarse con el mismo cuidado.",
+    {
+     "yazi": "Las especificaciones técnicas de los equipos de inmitancia se definen en la norma IEC 60645-5.",
+     "ses": "Las especificaciones técnicas de los equipos de inmitancia se definen en la norma i e ce sesenta y seis cuarenta y cinco, parte cinco."
+    },
+    {
+     "yazi": "En Estados Unidos, para los equipos de inmitancia se usa la norma ANSI S3.39.",
+     "ses": "En Estados Unidos, para los equipos de inmitancia se usa la norma ansi ese tres punto treinta y nueve."
+    },
+    {
+     "yazi": "Los equipos de otoemisiones acústicas, u OEA, están cubiertos por la norma IEC 60645-6.",
+     "ses": "Los equipos de otoemisiones acústicas, u OEA, están cubiertos por la norma i e ce sesenta y seis cuarenta y cinco, parte seis."
+    },
+    {
+     "yazi": "Los equipos de potenciales evocados auditivos de tronco cerebral, o PEATC, están cubiertos por la norma IEC 60645-7.",
+     "ses": "Los equipos de potenciales evocados auditivos de tronco cerebral, o PEATC, están cubiertos por la norma i e ce sesenta y seis cuarenta y cinco, parte siete."
+    },
+    "La lógica es la misma en los tres: un control diario breve, controles con mediciones a intervalos regulares y, en general, una calibración completa anual.",
+    "La calibración completa la realiza un técnico de servicio autorizado; los controles diarios son responsabilidad de quien evalúa."
+   ]
+  },
+  {
+   "id": "prob",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Inmitancia",
+   "baslik": "¿*Qué* se controla en la sonda de inmitancia?",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   },
+   "etiketler": [
+    {
+     "parca": "prob_hoparlor",
+     "metin": "altavoz",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "micrófono",
+     "cumle": 2
+    },
+    {
+     "parca": "prob_pompa",
+     "metin": "bomba",
+     "cumle": 3
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "prob",
+     "cumle": 0,
+     "olcek": 2.4
+    }
+   ],
+   "cumleler": [
+    "La sonda de inmitancia es una punta que se coloca en el conducto auditivo, con tres canales separados.",
+    "El canal del altavoz emite el tono de sonda; la calibración controla la frecuencia y el nivel de ese tono.",
+    "El canal del micrófono mide la presión sonora en el conducto auditivo; de él depende la exactitud del valor de admitancia.",
+    "El canal de la bomba cambia la presión de aire en el conducto auditivo; la exactitud de la medición de presión se controla por separado.",
+    "El nivel del tono de sonda de doscientos veintiséis hertz suele rondar los ochenta y cinco decibeles SPL.",
+    "También se calibran los estímulos del reflejo acústico; el estímulo ipsilateral sale por la sonda, y el contralateral por un auricular."
+   ]
+  },
+  {
+   "id": "kavite",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Inmitancia",
+   "baslik": "Cavidades de *calibración*",
+   "sutunlar": [
+    "Volumen de la cavidad",
+    "Lectura a 226 Hz",
+    "¿Qué imita?"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "0,5 ml",
+      "0,5 mmho",
+      "Conducto del lactante"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2,0 ml",
+      "2,0 mmho",
+      "Conducto del adulto"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "5,0 ml",
+      "5,0 mmho",
+      "Volumen grande"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La exactitud de la medición de admitancia se controla con cavidades de calibración de paredes rígidas y volumen conocido con precisión.",
+    "Con el equipo suelen venir tres cavidades, de cero coma cinco, dos y cinco mililitros.",
+    "La cavidad de cero coma cinco mililitros se aproxima al volumen del conducto auditivo de un lactante pequeño.",
+    "La cavidad de dos mililitros corresponde a un conducto auditivo adulto y es el punto de control más utilizado.",
+    "La cavidad de cinco mililitros comprueba si los volúmenes grandes, como en una perforación, se miden correctamente.",
+    "En doscientos veintiséis hertz, un mililitro de aire equivale a un milimho, así que el equipo debería leer directamente el volumen de la cavidad.",
+    "En seiscientos setenta y ocho hertz, la misma cavidad muestra unas tres veces esa admitancia; la equivalencia solo vale en doscientos veintiséis."
+   ]
+  },
+  {
+   "id": "gunluk_imm",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Inmitancia",
+   "baslik": "Control diario con *cavidades*",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Sonda en la cavidad",
+     "metin": "Una cavidad en lugar del oído",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Leer el volumen",
+     "metin": "Comparar con el valor conocido",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Curva plana",
+     "metin": "Sin pico en una cavidad",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Registrar",
+     "metin": "Fecha y valores",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En el control diario, la punta de la sonda se coloca sucesivamente en cada cavidad y se inicia una medición normal.",
+    "El volumen que lee el equipo se compara con el volumen conocido de la cavidad.",
+    "Una tolerancia frecuente en los manuales de los equipos es del cinco por ciento o de cero coma un mililitros, lo que sea mayor.",
+    "Una cavidad de paredes rígidas no tiene tímpano, así que el timpanograma debe ser plano; un pico sugiere una fuga o una falla.",
+    "Esto también muestra si el sistema de presión tiene fugas; la lectura de volumen no debe derivar.",
+    "Los resultados se registran con la fecha y el nombre de quien hace el control."
+   ]
+  },
+  {
+   "id": "basinc",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Inmitancia",
+   "baslik": "La presión y el estímulo del *reflejo*",
+   "maddeler": [
+    {
+     "metin": "Presión: se compara con un manómetro",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Tolerancia: unos diez decapascales",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Estímulo ipsilateral: acoplador de 2 ml",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Estímulo contralateral: acoplador de auricular",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "La punta de la sonda, abierta y limpia",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "cumle": 2,
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "A",
+       "cumle": 2
+      }
+     ],
+     "normal": true
+    }
+   },
+   "cumleler": [
+    "La exactitud de la medición de presión se controla periódicamente conectando la sonda a un manómetro.",
+    "El manual de un equipo indica una tolerancia de presión de diez decapascales o del diez por ciento, lo que sea mayor.",
+    "Un error de presión desplaza directamente la posición del pico del timpanograma y, por lo tanto, la lectura de la presión del pico.",
+    "El estímulo del reflejo ipsilateral sale de la sonda, por lo que su nivel se mide en un acoplador de dos mililitros.",
+    "El estímulo contralateral sale de un auricular, así que se calibra en un acoplador u oído artificial, como los auriculares del audiómetro.",
+    "Un canal de la sonda obstruido por cerumen también da resultados falsos; la punta de la sonda se revisa después de cada paciente."
+   ]
+  },
+  {
+   "id": "oae_prob",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "OEA",
+   "baslik": "La *verificación* de la sonda de OEA",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "estímulo",
+     "cumle": 2
+    },
+    {
+     "parca": "yanit",
+     "metin": "en la cavidad: ninguna",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Una sonda de OEA contiene al menos un altavoz y un micrófono muy sensible; con este micrófono se registra la emisión.",
+    "En la verificación de la sonda, esta se coloca en una pequeña cavidad de prueba que suministra el fabricante.",
+    "El equipo mide el nivel y la respuesta en frecuencia del estímulo en la cavidad y los compara con los valores esperados.",
+    "En la cavidad no hay oído, así que no debe haber emisión; una respuesta en la cavidad es distorsión del propio sistema.",
+    "Sobre todo en las OEA de productos de distorsión, un producto artificial que generan los dos tonos dentro del equipo puede confundirse con una emisión.",
+    "Por eso la verificación de la sonda confirma que el ruido y la distorsión del sistema son lo bastante bajos como para no imitar una emisión."
+   ]
+  },
+  {
+   "id": "oae_gunluk",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "OEA",
+   "baslik": "OEA: la rutina *diaria*",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Punta de la sonda",
+     "metin": "Sin cerumen ni humedad",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Verificación de sonda",
+     "metin": "En la cavidad, resultado guardado",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Un oído conocido",
+     "metin": "Control biológico",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registro",
+     "metin": "Fecha, resultado, persona",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En las pruebas de OEA, el problema más frecuente no viene de la calibración, sino de la punta de la sonda.",
+    "Si el cerumen o la humedad obstruyen los canales de la sonda, el estímulo no llega al oído y la emisión parece ausente.",
+    "Por eso la verificación de la sonda se hace cada día; muchos equipos la realizan con un solo botón y guardan el resultado.",
+    "Además, puede hacerse una medición breve en un oído que se sabe que oye normalmente, como el propio oído de quien evalúa.",
+    "En este control biológico, la amplitud de la emisión debe ser similar cada día; una caída clara sugiere un problema de la sonda o del equipo.",
+    "Si la verificación de la sonda falla, la sonda se limpia o se reemplaza; si eso no ayuda, el equipo se envía al servicio técnico."
+   ]
+  },
+  {
+   "id": "pespl",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "PEATC",
+   "baslik": "Estímulos breves: *peSPL*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 6,
+     "ad": "Tiempo (ms)",
+     "isaretler": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    "y": {
+     "min": -1.2,
+     "max": 1.2,
+     "adim": 0.5,
+     "ad": "Presión (relativa)",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "klik",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.05,
+        0.0
+       ],
+       [
+        0.1,
+        0.0
+       ],
+       [
+        0.15,
+        0.0
+       ],
+       [
+        0.2,
+        0.0
+       ],
+       [
+        0.25,
+        0.0
+       ],
+       [
+        0.3,
+        0.0
+       ],
+       [
+        0.35,
+        0.0
+       ],
+       [
+        0.4,
+        0.0
+       ],
+       [
+        0.45,
+        0.0
+       ],
+       [
+        0.5,
+        0.0
+       ],
+       [
+        0.55,
+        0.0
+       ],
+       [
+        0.6,
+        0.0
+       ],
+       [
+        0.65,
+        0.0
+       ],
+       [
+        0.7,
+        0.0
+       ],
+       [
+        0.75,
+        0.0
+       ],
+       [
+        0.8,
+        0.0
+       ],
+       [
+        0.85,
+        0.0
+       ],
+       [
+        0.9,
+        0.0
+       ],
+       [
+        0.95,
+        0.0
+       ],
+       [
+        1.0,
+        1.0
+       ],
+       [
+        1.05,
+        1.0
+       ],
+       [
+        1.1,
+        -0.6
+       ],
+       [
+        1.15,
+        -0.6
+       ],
+       [
+        1.2,
+        0.3
+       ],
+       [
+        1.25,
+        0.3
+       ],
+       [
+        1.3,
+        0.3
+       ],
+       [
+        1.35,
+        0.0
+       ],
+       [
+        1.4,
+        0.0
+       ],
+       [
+        1.45,
+        0.0
+       ],
+       [
+        1.5,
+        0.0
+       ],
+       [
+        1.55,
+        0.0
+       ],
+       [
+        1.6,
+        0.0
+       ],
+       [
+        1.65,
+        0.0
+       ],
+       [
+        1.7,
+        0.0
+       ],
+       [
+        1.75,
+        0.0
+       ],
+       [
+        1.8,
+        0.0
+       ],
+       [
+        1.85,
+        0.0
+       ],
+       [
+        1.9,
+        0.0
+       ],
+       [
+        1.95,
+        0.0
+       ],
+       [
+        2.0,
+        0.0
+       ],
+       [
+        2.05,
+        0.0
+       ],
+       [
+        2.1,
+        0.0
+       ],
+       [
+        2.15,
+        0.0
+       ],
+       [
+        2.2,
+        0.0
+       ],
+       [
+        2.25,
+        0.0
+       ],
+       [
+        2.3,
+        0.0
+       ],
+       [
+        2.35,
+        0.0
+       ],
+       [
+        2.4,
+        0.0
+       ],
+       [
+        2.45,
+        0.0
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.55,
+        0.0
+       ],
+       [
+        2.6,
+        0.0
+       ],
+       [
+        2.65,
+        0.0
+       ],
+       [
+        2.7,
+        0.0
+       ],
+       [
+        2.75,
+        0.0
+       ],
+       [
+        2.8,
+        0.0
+       ],
+       [
+        2.85,
+        0.0
+       ],
+       [
+        2.9,
+        0.0
+       ],
+       [
+        2.95,
+        0.0
+       ],
+       [
+        3.0,
+        0.0
+       ],
+       [
+        3.05,
+        0.0
+       ],
+       [
+        3.1,
+        0.0
+       ],
+       [
+        3.15,
+        0.0
+       ],
+       [
+        3.2,
+        0.0
+       ],
+       [
+        3.25,
+        0.0
+       ],
+       [
+        3.3,
+        0.0
+       ],
+       [
+        3.35,
+        0.0
+       ],
+       [
+        3.4,
+        0.0
+       ],
+       [
+        3.45,
+        0.0
+       ],
+       [
+        3.5,
+        0.0
+       ],
+       [
+        3.55,
+        0.0
+       ],
+       [
+        3.6,
+        0.0
+       ],
+       [
+        3.65,
+        0.0
+       ],
+       [
+        3.7,
+        0.0
+       ],
+       [
+        3.75,
+        0.0
+       ],
+       [
+        3.8,
+        0.0
+       ],
+       [
+        3.85,
+        0.0
+       ],
+       [
+        3.9,
+        0.0
+       ],
+       [
+        3.95,
+        0.0
+       ],
+       [
+        4.0,
+        0.0
+       ],
+       [
+        4.05,
+        0.0
+       ],
+       [
+        4.1,
+        0.0
+       ],
+       [
+        4.15,
+        0.0
+       ],
+       [
+        4.2,
+        0.0
+       ],
+       [
+        4.25,
+        0.0
+       ],
+       [
+        4.3,
+        0.0
+       ],
+       [
+        4.35,
+        0.0
+       ],
+       [
+        4.4,
+        0.0
+       ],
+       [
+        4.45,
+        0.0
+       ],
+       [
+        4.5,
+        0.0
+       ],
+       [
+        4.55,
+        0.0
+       ],
+       [
+        4.6,
+        0.0
+       ],
+       [
+        4.65,
+        0.0
+       ],
+       [
+        4.7,
+        0.0
+       ],
+       [
+        4.75,
+        0.0
+       ],
+       [
+        4.8,
+        0.0
+       ],
+       [
+        4.85,
+        0.0
+       ],
+       [
+        4.9,
+        0.0
+       ],
+       [
+        4.95,
+        0.0
+       ],
+       [
+        5.0,
+        0.0
+       ],
+       [
+        5.05,
+        0.0
+       ],
+       [
+        5.1,
+        0.0
+       ],
+       [
+        5.15,
+        0.0
+       ],
+       [
+        5.2,
+        0.0
+       ],
+       [
+        5.25,
+        0.0
+       ],
+       [
+        5.3,
+        0.0
+       ],
+       [
+        5.35,
+        0.0
+       ],
+       [
+        5.4,
+        0.0
+       ],
+       [
+        5.45,
+        0.0
+       ],
+       [
+        5.5,
+        0.0
+       ],
+       [
+        5.55,
+        0.0
+       ],
+       [
+        5.6,
+        0.0
+       ],
+       [
+        5.65,
+        0.0
+       ],
+       [
+        5.7,
+        0.0
+       ],
+       [
+        5.75,
+        0.0
+       ],
+       [
+        5.8,
+        0.0
+       ],
+       [
+        5.85,
+        0.0
+       ],
+       [
+        5.9,
+        0.0
+       ],
+       [
+        5.95,
+        0.0
+       ],
+       [
+        6.0,
+        0.0
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "clic",
+      "etiket_konum": [
+       1.3,
+       1.05
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "ton",
+      "noktalar": [
+       [
+        3.0,
+        0.0
+       ],
+       [
+        3.05,
+        0.247
+       ],
+       [
+        3.1,
+        0.47
+       ],
+       [
+        3.15,
+        0.647
+       ],
+       [
+        3.2,
+        0.761
+       ],
+       [
+        3.25,
+        0.8
+       ],
+       [
+        3.3,
+        0.761
+       ],
+       [
+        3.35,
+        0.647
+       ],
+       [
+        3.4,
+        0.47
+       ],
+       [
+        3.45,
+        0.247
+       ],
+       [
+        3.5,
+        0.0
+       ],
+       [
+        3.55,
+        -0.247
+       ],
+       [
+        3.6,
+        -0.47
+       ],
+       [
+        3.65,
+        -0.647
+       ],
+       [
+        3.7,
+        -0.761
+       ],
+       [
+        3.75,
+        -0.8
+       ],
+       [
+        3.8,
+        -0.761
+       ],
+       [
+        3.85,
+        -0.647
+       ],
+       [
+        3.9,
+        -0.47
+       ],
+       [
+        3.95,
+        -0.247
+       ],
+       [
+        4.0,
+        -0.0
+       ],
+       [
+        4.05,
+        0.247
+       ],
+       [
+        4.1,
+        0.47
+       ],
+       [
+        4.15,
+        0.647
+       ],
+       [
+        4.2,
+        0.761
+       ],
+       [
+        4.25,
+        0.8
+       ],
+       [
+        4.3,
+        0.761
+       ],
+       [
+        4.35,
+        0.647
+       ],
+       [
+        4.4,
+        0.47
+       ],
+       [
+        4.45,
+        0.247
+       ],
+       [
+        4.5,
+        0.0
+       ],
+       [
+        4.55,
+        -0.247
+       ],
+       [
+        4.6,
+        -0.47
+       ],
+       [
+        4.65,
+        -0.647
+       ],
+       [
+        4.7,
+        -0.761
+       ],
+       [
+        4.75,
+        -0.8
+       ],
+       [
+        4.8,
+        -0.761
+       ],
+       [
+        4.85,
+        -0.647
+       ],
+       [
+        4.9,
+        -0.47
+       ],
+       [
+        4.95,
+        -0.247
+       ],
+       [
+        5.0,
+        -0.0
+       ],
+       [
+        5.05,
+        0.247
+       ],
+       [
+        5.1,
+        0.47
+       ],
+       [
+        5.15,
+        0.647
+       ],
+       [
+        5.2,
+        0.761
+       ],
+       [
+        5.25,
+        0.8
+       ],
+       [
+        5.3,
+        0.761
+       ],
+       [
+        5.35,
+        0.647
+       ],
+       [
+        5.4,
+        0.47
+       ],
+       [
+        5.45,
+        0.247
+       ],
+       [
+        5.5,
+        0.0
+       ],
+       [
+        5.55,
+        -0.247
+       ],
+       [
+        5.6,
+        -0.47
+       ],
+       [
+        5.65,
+        -0.647
+       ],
+       [
+        5.7,
+        -0.761
+       ],
+       [
+        5.75,
+        -0.8
+       ],
+       [
+        5.8,
+        -0.761
+       ],
+       [
+        5.85,
+        -0.647
+       ],
+       [
+        5.9,
+        -0.47
+       ],
+       [
+        5.95,
+        -0.247
+       ],
+       [
+        6.0,
+        -0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "tono de 1000 Hz",
+      "etiket_konum": [
+       4.2,
+       1.05
+      ],
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "klik_tt",
+      "y": [
+       -0.6,
+       1.0
+      ],
+      "xk": 0.6,
+      "etiket": "pico a pico",
+      "cumle": 3
+     },
+     {
+      "ad": "ton_tt",
+      "y": [
+       -0.8,
+       0.8
+      ],
+      "xk": 5.8,
+      "etiket": "misma amplitud",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Igualar el tono al clic",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "SPL del tono = peSPL del clic",
+     "cumle": 4,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Medición pico a pico",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Los PEATC usan estímulos muy breves, como clics y tone bursts; su nivel no puede medirse como el de un tono continuo.",
+    "La línea roja muestra la onda de presión esquemática de un clic de una décima de milisegundo.",
+    "Para la medición, se introduce un tono continuo de un kilohertz en el mismo acoplador, y ambas señales se comparan en un osciloscopio.",
+    "El nivel del tono se ajusta hasta que su amplitud pico a pico sea igual a la del clic.",
+    {
+     "yazi": "En ese punto, el nivel de presión sonora del tono es el nivel de presión sonora de pico equivalente del clic, o peSPL."
+    },
+    "La práctica internacional usa el método pico a pico; medir de la línea de base al pico puede dar un resultado unos decibeles distinto.",
+    {
+     "yazi": "Este método para señales de prueba de corta duración se define en la norma IEC 60645-3.",
+     "ses": "Este método para señales de prueba de corta duración se define en la norma i e ce sesenta y seis cuarenta y cinco, parte tres."
+    }
+   ]
+  },
+  {
+   "id": "nhl",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "PEATC",
+   "baslik": "El punto cero: *dB nHL*",
+   "maddeler": [
+    {
+     "metin": "0 dB nHL: umbral del grupo normal",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Valores de referencia: ISO 389-6",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Clic con inserción: 35,5 dB peSPL",
+     "cumle": 3,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Otros estímulos: normas locales",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PRÓXIMAMENTE",
+    "metin": "Los umbrales en nHL se convierten en estimaciones *eHL*",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Cero decibeles nHL es el umbral conductual promedio para un estímulo en un grupo de adultos jóvenes con audición normal.",
+    {
+     "yazi": "nHL significa nivel de audición normalizado; es el equivalente, para estímulos breves, del dB HL del audiómetro."
+    },
+    {
+     "yazi": "Los valores de referencia para clics y tone bursts figuran en la ISO 389-6, a una tasa de veinte por segundo y con polaridad alternante.",
+     "ses": "Los valores de referencia para clics y tone bursts figuran en la iso trescientos ochenta y nueve, parte seis, a una tasa de veinte por segundo y con polaridad alternante."
+    },
+    {
+     "yazi": "Según esta norma, cero decibeles nHL para un clic con auriculares de inserción ER-3A equivalen a unos treinta y cinco coma cinco decibeles peSPL."
+    },
+    {
+     "yazi": "Por ejemplo, si se seleccionan sesenta decibeles nHL, en el oído artificial deberían medirse unos noventa y cinco coma cinco decibeles peSPL."
+    },
+    "Si el estímulo difiere del estándar, como un chirp especial, se recomienda establecer valores de referencia locales con oyentes normales."
+   ]
+  },
+  {
+   "id": "abr_kontrol",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "PEATC",
+   "baslik": "Controles de *rutina* en PEATC",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Escuchar el estímulo",
+     "metin": "Sonido, polaridad, nitidez",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Electrodos y cables",
+     "metin": "Impedancia, cortes",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Tiempos",
+     "metin": "Retardo del tubo de inserción",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Oídos normales",
+     "metin": "Referencia biológica",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En el control diario, quien evalúa escucha el estímulo por el auricular; debe sonar limpio, sin chasquidos y al nivel esperado.",
+    "En este punto también se verifican el ajuste de polaridad y la tasa de estimulación según el protocolo.",
+    "Se revisan los cables de los electrodos en busca de cortes; antes de la prueba de cada paciente se hace un control de impedancia.",
+    "El tubo de sonido del auricular de inserción retrasa el sonido algo menos de un milisegundo; el equipo debe restar este retardo de la latencia.",
+    "Si este ajuste es incorrecto, todas las latencias quedan sistemáticamente largas o cortas, y la comparación con las normas falla.",
+    "Periódicamente, se miden umbrales y latencias en algunos voluntarios con audición normal para confirmar la concordancia con las normas clínicas."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Registren los resultados de cavidades, verificación de sonda y escucha del estímulo en un solo gráfico diario; allí se notan primero las pequeñas desviaciones.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la clínica: acostúmbrense a registrar los controles diarios de los tres equipos en el mismo gráfico, a la misma hora del día.",
+    "Si la lectura de volumen de la cavidad o la amplitud de la emisión en su propio oído cambia lentamente día a día, es una señal de alerta.",
+    "Esa tendencia no se ve con el resultado de un solo día, pero es fácil de detectar en un gráfico.",
+    "Ante la duda, retiren el equipo de la evaluación de pacientes y contacten al servicio técnico para una calibración completa."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Inmitancia: cavidades de _0,5, 2 y 5 ml_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "OEA: verificación de sonda, cavidad sin emisión",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Nivel de estímulos breves: _peSPL_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "0 dB nHL: umbral del grupo normal",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "En los equipos de inmitancia, la admitancia se controla con cavidades de cero coma cinco, dos y cinco mililitros, y la presión con un manómetro.",
+    "En los equipos de OEA, la sonda se verifica cada día; no debe haber emisión en la cavidad, y la punta de la sonda debe estar limpia.",
+    {
+     "yazi": "El nivel de los estímulos de PEATC se mide como peSPL, igualándolos con un tono de un kilohertz de la misma amplitud pico a pico."
+    },
+    {
+     "yazi": "Cero decibeles nHL es el umbral promedio de oyentes normales; los valores de referencia figuran en la norma ISO 389-6.",
+     "ses": "Cero decibeles nHL es el umbral promedio de oyentes normales; los valores de referencia figuran en la norma iso trescientos ochenta y nueve, parte seis."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué debe leer una cavidad de 2 ml a 226 Hz?",
+   "secenekler": [
+    "Unos 0,5 mmho",
+    "Unos 2 mmho",
+    "Unos 6 mmho",
+    "Presión del pico 0 daPa"
+   ],
+   "dogru": 1,
+   "aciklama": "A 226 Hz, _1 ml de aire = 1 mmho_; el volumen de la cavidad se lee directamente.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: con un tono de sonda de doscientos veintiséis hertz, ¿qué debe leer el equipo en una cavidad de dos mililitros?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: unos dos milimhos.",
+    "En esta frecuencia, un mililitro de aire equivale a un milimho; como en la cavidad no hay tímpano, la curva también debe ser plana."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cómo leer un *artículo científico* de audiología",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección empezamos una nueva sección y veremos cómo leer un artículo científico de la literatura audiológica.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

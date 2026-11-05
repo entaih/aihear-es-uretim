@@ -1,0 +1,146 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R465_Fluid_in_One_Ear_Three_Reflexes_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #465",
+  "baslik": "Tres reflejos *ausentes*",
+  "alt": "Reflejos en la pérdida conductiva unilateral",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      35,
+      40,
+      35,
+      30,
+      30,
+      40
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      10,
+      10,
+      10,
+      15
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      10,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Con líquido en un oído medio, ¿por qué desaparecen tres reflejos? #shorts",
+  "aciklama": "En el caso de ejemplo, el oído derecho tiene un timpanograma tipo B con volumen normal, compatible con líquido en el oído medio. Con la sonda a la derecha, los reflejos ipsilateral derecho y contralateral izquierdo están ausentes, porque un oído medio lleno de líquido no muestra cambio de admitancia; con el estímulo a la derecha y la sonda a la izquierda, el reflejo también está ausente, porque la pérdida conductiva derecha reduce el nivel que llega a la cóclea. Solo con la sonda y el estímulo ambos a la izquierda el reflejo aparece en el nivel esperado: no hay reflejo cuando el oído afectado tiene la sonda o recibe el estímulo.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "timpanometria",
+   "inmitancia"
+  ],
+  "etiketler": [
+   "reflejo acústico",
+   "timpanograma tipo B",
+   "hipoacusia conductiva",
+   "otitis media con efusión",
+   "inmitancia",
+   "caso clínico",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Con líquido en un oído medio, ¿por qué desaparecen tres reflejos?",
+  "bilgiler": [
+   "Si la sonda está en el oído afectado, no se mide cambio de admitancia.",
+   "Si se estimula el oído afectado, llega poco sonido a la cóclea.",
+   "Solo está presente el reflejo ipsilateral del oído sano."
+  ],
+  "hashtag": [
+   "audiologia",
+   "timpanometria",
+   "inmitancia"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #465",
+   "metin": "¿Por qué *tres reflejos?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Con líquido en un oído medio, ¿por qué desaparecen tres reflejos?"
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "zincir",
+   "baslik": "Líquido en el *oído derecho*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Sonda derecha",
+     "tr": "no medible",
+     "cumle": 1
+    },
+    {
+     "ad": "Estímulo derecho",
+     "tr": "débil en la cóclea",
+     "cumle": 2
+    },
+    {
+     "ad": "Ambos izquierda",
+     "tr": "reflejo presente",
+     "cumle": 3
+    }
+   ],
+   "alt": "Patrón conductivo _unilateral_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Aquí, el oído medio derecho tiene líquido; el oído izquierdo es normal.",
+    "Con la sonda a la derecha, no hay reflejo; el líquido no muestra cambio de admitancia.",
+    "Estímulo derecho y sonda izquierda: tampoco; llega poco sonido a la cóclea.",
+    "El reflejo aparece solo con la sonda y el estímulo ambos a la izquierda.",
+    "El reflejo se pierde cuando el oído afectado tiene la sonda o el estímulo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D272",
+ "kaynak_baslik": "Caso: conductiva unilateral con timpanograma plano"
+}

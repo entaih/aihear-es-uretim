@@ -1,0 +1,795 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D004_Types_Of_Hearing_Loss_ES",
+ "kapak": {
+  "ust": "LECCIÓN 4",
+  "baslik": "Tipos de<br>*pérdida auditiva*",
+  "alt": "Conductiva, neurosensorial y mixta",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      45,
+      40,
+      40,
+      35,
+      35,
+      40
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      10
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Hipoacusia conductiva, neurosensorial y mixta | Lección 04 | AIHEAR Academia de Audiología",
+  "aciklama": "Clasificamos la pérdida auditiva según su localización. Aprendemos cómo se relacionan los umbrales de conducción aérea y ósea, qué es la brecha aéreo-ósea y cómo distinguir la hipoacusia conductiva, neurosensorial y mixta en audiogramas de ejemplo.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin and Clark, Introduction to Audiology; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "hipoacusia",
+   "audiograma"
+  ],
+  "etiketler": [
+   "hipoacusia conductiva",
+   "hipoacusia neurosensorial",
+   "hipoacusia mixta",
+   "brecha aéreo-ósea",
+   "tipos de hipoacusia",
+   "conducción ósea",
+   "conducción aérea",
+   "audiograma",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 4",
+   "baslik": "Hipoacusia conductiva, neurosensorial y *mixta*",
+   "alt": "Localización, conducción aérea, conducción ósea y brecha",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En las lecciones anteriores aprendimos a leer un audiograma y seguimos el viaje del sonido por el oído.",
+    "En esta lección clasificamos la pérdida auditiva según su localización y aprendemos a distinguir la conductiva, la neurosensorial y la mixta en el audiograma."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Clasificación por localización",
+   "baslik": "¿*Dónde* está la pérdida?",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "dis_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "ic_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Oído externo y medio: conductiva",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Oído interno y nervio: neurosensorial",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Ambos a la vez: mixta",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "La forma más básica de clasificar una pérdida auditiva es preguntar en qué punto de la vía auditiva está el problema.",
+    "Si el problema está en el oído externo o medio, el sonido no se conduce bien al oído interno; es una hipoacusia conductiva.",
+    "Si el problema está en el oído interno, es decir, en la cóclea, o en el nervio auditivo, se llama hipoacusia neurosensorial.",
+    "El término neurosensorial tiene dos partes: sensorial, que se refiere a la cóclea, y neural, que se refiere al nervio.",
+    "Si hay un problema en ambas partes, la pérdida es mixta.",
+    "Esta clasificación no nos dice cuánta pérdida hay, sino dónde está.",
+    "Así, según su localización, los tres tipos de pérdida auditiva son la hipoacusia conductiva, la neurosensorial y la mixta."
+   ]
+  },
+  {
+   "id": "iki_yol",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Clasificación por localización",
+   "baslik": "La clave: *dos vías de prueba*",
+   "maddeler": [
+    {
+     "metin": "Conducción aérea: _todo el sistema_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Conducción ósea: _la cóclea y más allá_",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "La _brecha aéreo-ósea_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "LA BRECHA",
+    "metin": "Umbral de conducción aérea menos umbral de *conducción ósea*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "La clave para hallar el tipo es comparar las dos vías de prueba en el audiograma.",
+    "El umbral de conducción aérea evalúa el oído externo, el medio y el interno, todos juntos.",
+    "El umbral de conducción ósea evita en gran parte el sistema de conducción y muestra la sensibilidad de la cóclea.",
+    "Si restamos el umbral de conducción ósea al de conducción aérea en la misma frecuencia, obtenemos la brecha aéreo-ósea.",
+    "En los informes clínicos, este concepto se llama simplemente brecha aéreo-ósea.",
+    "Una brecha mayor de diez decibeles, es decir, de quince decibeles o más, suele considerarse significativa."
+   ]
+  },
+  {
+   "id": "kurallar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Clasificación por localización",
+   "baslik": "La *regla* para hallar el tipo",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Normal",
+     "metin": "Ósea normal, sin brecha",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Conductiva",
+     "metin": "Ósea normal, con brecha",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Neurosensorial",
+     "metin": "Ósea reducida, sin brecha",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Mixta",
+     "metin": "Ósea reducida, con brecha",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Si la conducción aérea y la ósea están dentro de los límites normales y no hay brecha, la audición es normal.",
+    "Si la conducción ósea es normal, la aérea está reducida y la brecha es significativa, la pérdida es conductiva.",
+    "Si la conducción aérea y la ósea están reducidas por igual y no hay brecha, la pérdida es neurosensorial.",
+    "Si la conducción ósea está reducida y además hay una brecha significativa, la pérdida es mixta.",
+    "Estas cuatro líneas resumen la lógica básica para hallar el tipo."
+   ]
+  },
+  {
+   "id": "iletim_odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Conductiva",
+   "baslik": "Conductiva: *audiograma de ejemplo*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Conducción aérea_: oído derecho",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Conducción ósea_: oído derecho",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       45,
+       40,
+       40,
+       35,
+       35,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "En este audiograma de ejemplo, los umbrales de conducción aérea del oído derecho están entre treinta y cinco y cuarenta y cinco decibeles.",
+    "Los umbrales de conducción ósea están entre cinco y diez decibeles, dentro de los límites normales.",
+    "En quinientos hertz, la brecha aéreo-ósea es de treinta decibeles, y en las demás frecuencias, de veinticinco a treinta y cinco.",
+    "Es una hipoacusia conductiva: la cóclea funciona bien, pero el sonido no logra llegar a ella por completo.",
+    "En las pérdidas conductivas, la curva suele ser plana o algo peor en las frecuencias graves."
+   ]
+  },
+  {
+   "id": "iletim_ozellik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Conductiva",
+   "baslik": "*Características* de la pérdida conductiva",
+   "maddeler": [
+    {
+     "metin": "Conducción ósea _normal_",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Suele llegar como máximo a _60 dB_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Buena comprensión_ con sonido más intenso",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ejemplos: cerumen, _líquido en el oído medio_",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "En la pérdida conductiva, la conducción ósea está dentro de los límites normales.",
+    "La pérdida no suele superar los sesenta decibeles, porque los sonidos más intensos llegan a la cóclea por el cráneo de todos modos.",
+    "Por eso, no se espera que un componente conductivo explique por sí solo una pérdida profunda.",
+    "Cuando el sonido es lo bastante intenso, la comprensión del habla suele ser buena.",
+    "Algunas causas son el cerumen que obstruye el conducto, el líquido en el oído medio, la perforación timpánica y la otosclerosis.",
+    "Algunas de estas pérdidas pueden corregirse con tratamiento médico o quirúrgico; esta evaluación corresponde al otorrinolaringólogo."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dis_kulak",
+      "cumle": 4
+     },
+     {
+      "parca": "orta_kulak",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "Conducto auditivo",
+      "cumle": 4
+     },
+     {
+      "parca": "orta_kulak",
+      "metin": "Oído medio",
+      "cumle": 4
+     }
+    ]
+   }
+  },
+  {
+   "id": "snik_odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Neurosensorial",
+   "baslik": "Neurosensorial: *audiograma de ejemplo*",
+   "lejant": [
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Conducción aérea_: oído izquierdo",
+     "cumle": 0
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Conducción ósea_: oído izquierdo",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       25,
+       30,
+       40,
+       55,
+       65,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       20,
+       30,
+       35,
+       50,
+       60
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, los umbrales de conducción aérea del oído izquierdo empeoran progresivamente hacia las frecuencias agudas.",
+    "Los umbrales de conducción ósea siguen de cerca a los de conducción aérea.",
+    "En todas las frecuencias, la diferencia entre ambas vías es de cinco decibeles como máximo, así que no hay brecha significativa.",
+    "El sistema de conducción transmite bien el sonido, pero la cóclea o el nervio lo captan mal.",
+    "Es un ejemplo de hipoacusia neurosensorial descendente, un patrón frecuente en adultos."
+   ]
+  },
+  {
+   "id": "duyusal_noral",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 3",
+   "bolum": "Neurosensorial",
+   "baslik": "¿Sensorial o *neural*?",
+   "sol": {
+    "ust": "Sensorial (coclear)",
+    "maddeler": [
+     {
+      "metin": "Problema: células ciliadas",
+      "cumle": 1
+     },
+     {
+      "metin": "OEA reducidas o ausentes",
+      "cumle": 2
+     },
+     {
+      "metin": "Ejemplos: ruido, envejecimiento",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Neural (retrococlear)",
+    "maddeler": [
+     {
+      "metin": "Problema: nervio o tronco cerebral",
+      "cumle": 4
+     },
+     {
+      "metin": "Los PEATC pueden estar alterados",
+      "cumle": 5
+     },
+     {
+      "metin": "Ejemplo: schwannoma vestibular",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "La pérdida neurosensorial puede dividirse en dos grupos.",
+    "En la pérdida sensorial, o coclear, el problema suele estar en las células ciliadas.",
+    "En este caso, las otoemisiones acústicas (OEA), que dependen de las células ciliadas externas, suelen estar reducidas o ausentes.",
+    "La hipoacusia inducida por ruido y la relacionada con la edad son ejemplos de pérdida coclear.",
+    "En la pérdida neural, o retrococlear, el problema está en el nervio auditivo o en el tronco cerebral.",
+    "En este caso, los potenciales evocados auditivos de tronco cerebral (PEATC) pueden estar alterados.",
+    "El schwannoma vestibular, un tumor benigno que crece sobre el nervio vestibulococlear, es un ejemplo de este grupo.",
+    "El audiograma por sí solo no puede separar estos dos grupos; se necesitan pruebas como las OEA y los PEATC."
+   ]
+  },
+  {
+   "id": "snik_ozellik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Neurosensorial",
+   "baslik": "*Características* de la pérdida neurosensorial",
+   "maddeler": [
+    {
+     "metin": "Aérea y ósea _ambas_ reducidas",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "_Cualquier grado_, de leve a total",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Problema: _claridad_ y audición en ruido",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Suele ser _permanente_",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "En la pérdida neurosensorial, los umbrales de conducción aérea y ósea descienden juntos.",
+    "Puede presentarse en cualquier grado, de leve a pérdida total.",
+    "Estas personas suelen decir que oyen el sonido pero les cuesta entenderlo, sobre todo en lugares ruidosos.",
+    "Esto ocurre porque una cóclea dañada no solo debilita el sonido, sino que también reduce la resolución frecuencial.",
+    "La mayoría de las pérdidas neurosensoriales son permanentes; en ellas, los audífonos y los implantes son opciones clave de rehabilitación.",
+    "Sin embargo, una pérdida neurosensorial súbita es una urgencia, y la persona se deriva al médico de inmediato."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "koklea",
+      "cumle": 0
+     },
+     {
+      "parca": "isitme_siniri",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "koklea",
+      "metin": "Cóclea",
+      "cumle": 0
+     },
+     {
+      "parca": "isitme_siniri",
+      "metin": "Nervio auditivo",
+      "cumle": 0
+     }
+    ]
+   }
+  },
+  {
+   "id": "mikst_odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Pérdida mixta",
+   "baslik": "Mixta: *audiograma de ejemplo*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Conducción aérea_: oído derecho",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Conducción ósea_: oído derecho",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       55,
+       55,
+       60,
+       65,
+       70,
+       75
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       30,
+       30,
+       35,
+       40,
+       45
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      35,
+      60
+     ],
+     "etiket": "25 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Ahora veamos un ejemplo de pérdida mixta en un oído derecho.",
+    "Los umbrales de conducción aérea están entre cincuenta y cinco y setenta y cinco decibeles.",
+    "Los umbrales de conducción ósea están entre treinta y cuarenta y cinco decibeles, así que la conducción ósea tampoco es normal.",
+    "Además, en cada frecuencia hay una brecha de unos veinticinco decibeles entre ambas vías.",
+    "El descenso de la conducción ósea muestra el componente neurosensorial, y la brecha, el componente conductivo.",
+    "En este ejemplo, una parte de la pérdida viene del oído interno y otra, del sistema de conducción."
+   ]
+  },
+  {
+   "id": "mikst_okuma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Pérdida mixta",
+   "baslik": "Cómo *leer* una pérdida mixta",
+   "maddeler": [
+    {
+     "metin": "Componente neurosensorial: _conducción ósea_",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Componente conductivo: _tamaño de la brecha_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Ejemplo: enfermedad del oído medio _de larga evolución_",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Al leer una pérdida mixta, describimos los dos componentes por separado; la conducción ósea muestra el nivel neurosensorial.",
+    "El tamaño del componente conductivo lo indica la brecha aéreo-ósea.",
+    "Un informe podría decir, por ejemplo: hipoacusia mixta moderadamente severa en el oído derecho.",
+    "La enfermedad del oído medio de larga evolución y la otosclerosis avanzada son ejemplos de causas de pérdida mixta.",
+    "Aunque se elimine el componente conductivo, el componente neurosensorial que muestra la conducción ósea suele persistir."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DOS COMPONENTES",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "noron",
+      "baslik": "Neurosensorial",
+      "metin": "Nivel de la conducción ósea",
+      "cumle": 0
+     },
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "Conductivo",
+      "metin": "Brecha aéreo-ósea",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "tuzaklar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Interpretación correcta",
+   "baslik": "*Situaciones* engañosas",
+   "maddeler": [
+    {
+     "metin": "Conducción ósea _sin enmascarar_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Colapso del _conducto auditivo_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "_Límites de salida_ del vibrador óseo",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Muesca de Carhart_ en la otosclerosis",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Algunas situaciones pueden engañarnos al determinar el tipo.",
+    "El sonido por vía ósea llega a ambas cócleas; sin enmascaramiento, la respuesta puede venir del mejor oído.",
+    "Con auriculares supraaurales, en algunas personas el conducto se colapsa y crea una brecha aéreo-ósea falsa en los agudos.",
+    "La salida del vibrador óseo es limitada, por eso en las pérdidas severas puede no haber respuesta por vía ósea.",
+    "En las pérdidas severas, percibir la vibración de baja frecuencia como tacto también puede crear una brecha falsa.",
+    "En la otosclerosis, la conducción ósea puede descender alrededor de los dos mil hertz; esto se llama muesca de Carhart.",
+    "Esta muesca no es una verdadera pérdida coclear, y suele mejorar después de la cirugía."
+   ]
+  },
+  {
+   "id": "dogrulama",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "Interpretación correcta",
+   "baslik": "Pruebas que *confirman* el tipo",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia",
+     "metin": "Oído externo y tímpano",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometría",
+     "metin": "Movilidad del oído medio",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Reflejo acústico",
+     "metin": "Suele faltar en la pérdida conductiva",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "OEA y PEATC",
+     "metin": "Cóclea y nervio",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El tipo que se ve en el audiograma se confirma con otras pruebas; esto se llama principio de verificación cruzada.",
+    "La otoscopia muestra directamente el conducto auditivo y la membrana timpánica.",
+    "La timpanometría mide la movilidad del oído medio y da resultados alterados en la mayoría de las pérdidas conductivas.",
+    "Los reflejos acústicos suelen estar ausentes incluso con un componente conductivo pequeño.",
+    "Las otoemisiones acústicas y los PEATC ayudan a separar la parte coclear de la neural."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Ante una brecha aéreo-ósea inesperada, revisar primero la otoscopia, la colocación de los auriculares y el enmascaramiento. Los auriculares de inserción evitan el colapso del conducto.",
+   "cumleler": [
+    "Un consejo práctico: si ven una brecha aéreo-ósea inesperada, no escriban de inmediato pérdida conductiva.",
+    "Primero, revisen el conducto auditivo y la membrana timpánica con la otoscopia.",
+    "Luego verifiquen si los auriculares se colocaron bien y si se usó suficiente enmascaramiento en la conducción ósea.",
+    "Si sospechan un colapso del conducto auditivo, repetir la prueba con auriculares de inserción suele resolver el problema.",
+    "El resultado de la timpanometría también es una buena forma de comprobar si la brecha es coherente."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Por localización: *conductiva*, neurosensorial, mixta",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "La conducción ósea muestra la *cóclea*",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Brecha de 15 dB o *más*: significativa",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Confirmar el tipo con *otras pruebas*",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Según su localización, la pérdida auditiva se clasifica en conductiva, neurosensorial o mixta.",
+    "La conducción ósea evita en gran parte el sistema de conducción y muestra el estado de la cóclea.",
+    "Una diferencia de quince decibeles o más entre la conducción aérea y la ósea es una brecha aéreo-ósea significativa.",
+    "Confirmamos el tipo del audiograma con la otoscopia, la timpanometría, los reflejos, las OEA y los PEATC."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "La conducción aérea es de 60 y la ósea de 35 dB HL. ¿Qué tipo de pérdida es?",
+   "secenekler": [
+    "Conductiva",
+    "Neurosensorial",
+    "Mixta",
+    "Audición normal"
+   ],
+   "dogru": 2,
+   "aciklama": "La conducción ósea no es normal (_componente neurosensorial_) y hay una brecha de 25 dB (componente conductivo): mixta.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si la conducción aérea es de sesenta y la ósea de treinta y cinco dB HL, ¿qué tipo de pérdida es?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C, mixta. La conducción ósea no es normal, y además hay una brecha aéreo-ósea de veinticinco decibeles."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Grados de pérdida auditiva: cómo se *clasifican*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo decidimos qué tan grande es una pérdida, es decir, los grados de pérdida auditiva.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R171_A_Millisecond_Silence_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #171",
+  "baslik": "Un silencio de *milisegundos*",
+  "alt": "Detección de silencios y resolución temporal",
+  "cizim": "ses_dalgasi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Cuál es el silencio más corto que tu oído puede detectar? #shorts",
+  "aciklama": "La detección de silencios (gaps) es la medida más común de la resolución temporal: se coloca un silencio muy breve dentro de un ruido y se busca el silencio más corto que se detecta. En adultos jóvenes con audición normal, este umbral es de unos 2 a 3 milisegundos en ruido de banda ancha; en adultos mayores suele ser más largo, incluso con un audiograma normal.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audicion",
+   "cerebro"
+  ],
+  "etiketler": [
+   "detección de silencios",
+   "resolución temporal",
+   "procesamiento temporal",
+   "prueba GIN",
+   "psicoacústica",
+   "envejecimiento auditivo",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Cuál es el silencio más corto que tu oído puede detectar?",
+  "bilgiler": [
+   "Se coloca un silencio muy breve en medio de un ruido.",
+   "En adultos jóvenes, el umbral de detección de silencios es de unos 2 a 3 ms.",
+   "En adultos mayores suele ser más largo, incluso con audiograma normal."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audicion",
+   "cerebro"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #171",
+   "metin": "¿Qué tan breve es el silencio que *detectas?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Cuál es el silencio más corto que tu oído puede detectar?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Umbral de *detección de silencios* en adultos jóvenes",
+   "sayi": "2-3",
+   "birim": "ms",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "El oyente escucha una ráfaga de ruido con un breve silencio en su interior.",
+    "El silencio más corto que detecta es el umbral de detección de silencios.",
+    {
+     "yazi": "En adultos jóvenes, con ruido de banda ancha, es de unos 2 a 3 ms."
+    },
+    "En adultos mayores suele ser más largo, incluso con un audiograma normal."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D083",
+ "kaynak_baslik": "Procesamiento temporal: gaps e integración"
+}

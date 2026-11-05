@@ -1,0 +1,113 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R207_The_Third_Tone_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #207",
+  "baslik": "Dos tonos, *un tercero*",
+  "alt": "Otoemisiones acústicas producto de distorsión",
+  "cizim": "koklea_acik",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Por qué el oído produce un tercer sonido cuando recibe dos tonos? #shorts",
+  "aciklama": "En la prueba de otoemisiones acústicas producto de distorsión (OEAPD), se presentan a la vez dos tonos, f1 y f2, en el conducto auditivo. Como una cóclea sana es no lineal, crea sonidos en frecuencias nuevas; en los seres humanos, el mayor está en 2f1-f2. Por ejemplo, si f2 es de 2000 Hz, el producto se busca cerca de 1280 Hz; esta no linealidad depende de las células ciliadas externas.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "otoemisiones",
+   "coclea"
+  ],
+  "etiketler": [
+   "OEAPD",
+   "producto de distorsión",
+   "otoemisiones acústicas",
+   "2f1-f2",
+   "DP-grama",
+   "células ciliadas externas",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Por qué el oído produce un tercer sonido cuando recibe dos tonos?",
+  "bilgiler": [
+   "En las OEAPD se presentan dos tonos a la vez: f1 y f2.",
+   "Una cóclea no lineal crea un sonido nuevo.",
+   "Si f2 es de 2000 Hz, el producto está cerca de 1280 Hz."
+  ],
+  "hashtag": [
+   "audiologia",
+   "otoemisiones",
+   "coclea"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #207",
+   "metin": "¿Por qué el oído produce *un tercer sonido?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Por qué el oído produce un tercer sonido cuando recibe dos tonos?"
+   ]
+  },
+  {
+   "id": "dp",
+   "tur": "zincir",
+   "baslik": "Dos tonos, *un tercer sonido*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "f2",
+     "tr": "2000 Hz",
+     "cumle": 1
+    },
+    {
+     "ad": "f1",
+     "tr": "1640 Hz",
+     "cumle": 1,
+     "gecikme": 0.8
+    },
+    {
+     "ad": "Producto",
+     "tr": "1280 Hz",
+     "cumle": 2
+    }
+   ],
+   "alt": "El producto queda _por debajo de ambos tonos_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "En las otoemisiones acústicas producto de distorsión, u OEAPD, se presentan dos tonos.",
+    {
+     "yazi": "Digamos que f2 es de 2000 Hz, y f1, de unos 1640 Hz.",
+     "ses": "Digamos que efe dos es de dos mil hertz, y efe uno, de unos mil seiscientos cuarenta hertz."
+    },
+    {
+     "yazi": "Una cóclea sana produce un tercer sonido cerca de 1280 Hz."
+    },
+    {
+     "yazi": "Es el producto 2f1-f2, el mayor en los seres humanos.",
+     "ses": "Es el producto dos efe uno menos efe dos, el mayor en los seres humanos."
+    },
+    "Esta no linealidad depende de las células ciliadas externas; si se dañan, el producto disminuye."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D123",
+ "kaynak_baslik": "Otoemisiones acústicas producto de distorsión (OEAPD)"
+}

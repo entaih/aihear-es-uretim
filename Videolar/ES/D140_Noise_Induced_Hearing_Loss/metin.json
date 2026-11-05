@@ -1,0 +1,828 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D140_Noise_Induced_Hearing_Loss_ES",
+ "kapak": {
+  "ust": "LECCIÓN 140",
+  "baslik": "Ruido:<br>la muesca en *4 kHz*",
+  "alt": "TTS, PTS y sinaptopatía coclear",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      30,
+      50,
+      40,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      35,
+      55,
+      45,
+      25
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Hipoacusia inducida por ruido y la muesca en 4 kHz | Lección 140 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos la hipoacusia inducida por ruido (HIR) a través del desplazamiento temporal y permanente del umbral, la muesca de 3 a 6 kHz en el audiograma y la recuperación en 8 kHz. Vemos por qué se forma la muesca, cómo cambia con el tiempo y el concepto de sinaptopatía coclear, o pérdida auditiva oculta.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ACOEM, Occupational Noise-Induced Hearing Loss statement; Kujawa y Liberman (2009), Journal of Neuroscience; OMS, World Report on Hearing (2021).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "ruido",
+   "perdidaauditiva"
+  ],
+  "etiketler": [
+   "hipoacusia inducida por ruido",
+   "HIR",
+   "muesca en 4 kHz",
+   "muesca por ruido",
+   "desplazamiento temporal del umbral",
+   "desplazamiento permanente del umbral",
+   "sinaptopatía coclear",
+   "pérdida auditiva oculta",
+   "conservación auditiva",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 140",
+   "baslik": "Hipoacusia inducida por ruido y la muesca en *4 kHz*",
+   "alt": "Pérdida auditiva causada por el ruido",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos la hipoacusia inducida por ruido y la muesca de cuatro mil hertz en el audiograma.",
+    "Veremos el desplazamiento temporal y permanente del umbral, por qué se forma la muesca y el concepto de sinaptopatía coclear."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El ruido y el oído",
+   "baslik": "*Hipoacusia* inducida por ruido",
+   "maddeler": [
+    {
+     "metin": "Ruido prolongado y _repetido_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "_Neurosensorial_, por lo general bilateral",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Signo típico: muesca de _3 a 6 kHz_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Un solo estallido: _trauma acústico_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "HIR",
+    "metin": "Hipoacusia inducida por ruido: *causada por el ruido*",
+    "cumle": 0
+   },
+   "cumleler": [
+    "La hipoacusia inducida por ruido (HIR) es una pérdida que se desarrolla con la exposición prolongada y repetida a sonidos fuertes.",
+    "La pérdida es neurosensorial y, como el ruido llega a ambos oídos de forma parecida, suele ser bilateral y simétrica.",
+    "El signo típico en el audiograma es una muesca entre tres mil y seis mil hertz, con una recuperación parcial en ocho mil hertz.",
+    "Un solo sonido muy fuerte, como una explosión o un disparo, puede causar un daño súbito; esto se llama trauma acústico.",
+    "Es una de las causas más importantes de pérdida auditiva prevenible en los adultos.",
+    "Por eso, preguntar por la exposición al ruido debe ser parte habitual de toda evaluación audiológica en adultos."
+   ]
+  },
+  {
+   "id": "hasar",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El ruido y el oído",
+   "baslik": "¿*Qué* daña el ruido?",
+   "cizim": "corti",
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Células ciliadas externas: las más vulnerables",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "Célula ciliada interna",
+     "cumle": 2
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Sinapsis y fibras nerviosas",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Daño mecánico y estrés oxidativo",
+     "cumle": 1,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Las estructuras que el ruido afecta primero y con más fuerza son las células ciliadas externas, responsables de la amplificación coclear.",
+    "El sonido fuerte daña mecánicamente los estereocilios, los diminutos pelos de las células ciliadas, y provoca estrés oxidativo dentro de la célula.",
+    "A medida que el daño avanza, también pueden afectarse las células ciliadas internas y las células de sostén.",
+    "Además, las sinapsis entre las células ciliadas internas y las fibras nerviosas pueden dañarse incluso antes que las células ciliadas.",
+    "Como en los seres humanos las células ciliadas que mueren no se regeneran, esta pérdida es permanente.",
+    "Incluso entre personas expuestas al mismo ruido, el grado de daño varía; algunos oídos son más sensibles al ruido."
+   ]
+  },
+  {
+   "id": "kaynaklar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "El ruido y el oído",
+   "baslik": "¿De *dónde* viene el ruido?",
+   "ogeler": [
+    {
+     "ikon": "is_yeri",
+     "baslik": "Trabajo",
+     "metin": "Industria, construcción, minería",
+     "cumle": 0
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Ocio",
+     "metin": "Conciertos, discotecas",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Música personal",
+     "metin": "Fuerte y durante mucho tiempo",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Armas de fuego",
+     "metin": "Incluso un disparo puede dañar",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La fuente más conocida es el ruido laboral, sobre todo en la industria, la construcción, la minería y el ámbito militar.",
+    "Los conciertos, las discotecas y los eventos deportivos también pueden acumular una dosis alta en poco tiempo.",
+    "Escuchar a alto volumen durante mucho tiempo con reproductores de música personales es un riesgo importante para los jóvenes.",
+    "Las armas de fuego producen niveles pico de sonido muy altos, e incluso un solo disparo puede dejar un daño permanente.",
+    "Algunas herramientas de taller y de jardinería usadas durante mucho tiempo también pueden sumarse a la dosis total.",
+    "La Organización Mundial de la Salud ha informado que más de mil millones de jóvenes están en riesgo por hábitos de escucha poco seguros."
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El ruido y el oído",
+   "baslik": "¿*Qué* nota la persona?",
+   "maddeler": [
+    {
+     "metin": "_Tinnitus_, o zumbido en los oídos",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Dificultad para _entender_ en ruido",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "_No oír_ los sonidos agudos",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "A menudo se nota _tarde_",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "Una de las quejas más tempranas y frecuentes es el tinnitus, o zumbido en los oídos.",
+    "Como la muesca comienza por encima de las frecuencias más importantes para el habla, en los primeros años la persona tiene poca dificultad en silencio.",
+    "Pero entender el habla en lugares ruidosos y distinguir las consonantes agudas se vuelve cada vez más difícil.",
+    "Se empiezan a perder sonidos agudos, como el canto de los pájaros, el timbre de la puerta o los tonos de aviso de los dispositivos.",
+    "Como la pérdida se desarrolla lentamente, a menudo solo se nota cuando ya es significativa."
+   ]
+  },
+  {
+   "id": "tts_pts",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Desplazamiento temporal y permanente",
+   "baslik": "*TTS* y PTS",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Desplazamiento temporal (TTS)",
+     "metin": "Se recupera en horas o días",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Desplazamiento permanente (PTS)",
+     "metin": "No se recupera, daño permanente",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El desplazamiento temporal del umbral (TTS) es un empeoramiento transitorio de los umbrales justo después de la exposición a un sonido fuerte.",
+    "Oír los sonidos apagados después de un concierto fuerte, con zumbido y sensación de oído tapado, es un ejemplo típico.",
+    "El TTS suele recuperarse en unas horas, a veces en unos pocos días.",
+    "El desplazamiento permanente del umbral (PTS) es un cambio del umbral que no se recupera.",
+    "Los desplazamientos temporales repetidos pueden convertirse con el tiempo en un daño permanente.",
+    "Que los umbrales se recuperen no significa que el oído haya quedado totalmente intacto; lo veremos en la sección de sinaptopatía."
+   ]
+  },
+  {
+   "id": "doz",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Desplazamiento temporal y permanente",
+   "baslik": "Dosis: *nivel* y duración",
+   "maddeler": [
+    {
+     "metin": "Riesgo: nivel y _duración_ juntos",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Referencia: _85 dB(A)_, 8 horas",
+     "cumle": 1,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Cada _3 dB_ más: la mitad del tiempo",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Más en las lecciones de _audiología ocupacional_",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "trafik",
+      "metin": "tráfico intenso",
+      "cumle": 1
+     },
+     {
+      "parca": "konser",
+      "metin": "concierto",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "trafik",
+      "cumle": 1
+     },
+     {
+      "parca": "konser",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "El daño por ruido depende de la dosis total, que resulta del nivel sonoro y del tiempo de exposición en conjunto.",
+    "En muchas normas de salud ocupacional, ochenta y cinco decibeles A en una jornada laboral de ocho horas es un nivel de referencia importante.",
+    "Según el principio de igual energía, por cada aumento de tres decibeles en el nivel, el tiempo que da la misma dosis se reduce a la mitad.",
+    "Por ejemplo, a ochenta y ocho decibeles A ese tiempo baja a unas cuatro horas, y a noventa y un decibeles A, a unas dos horas.",
+    "Para la escucha recreativa también hay recomendaciones semanales que limitan a la vez el nivel y el tiempo.",
+    "Los límites legales y los valores de acción se tratarán por separado en las lecciones de audiología ocupacional."
+   ]
+  },
+  {
+   "id": "centik",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "La muesca en 4 kHz",
+   "baslik": "Una muesca típica en *4 kHz*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Vía ósea_: oído derecho",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: vía aérea",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "frekanslar": [
+     250,
+     500,
+     1000,
+     2000,
+     3000,
+     4000,
+     6000,
+     8000
+    ],
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       30,
+       50,
+       40,
+       25
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       30,
+       45
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       15,
+       35,
+       55,
+       45,
+       25
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Aquí, los umbrales del oído derecho son normales hasta dos mil hertz; una caída que comienza en tres mil es máxima en cuatro mil hertz.",
+    "La vía ósea se superpone con la vía aérea, así que la pérdida es neurosensorial.",
+    "El oído izquierdo tiene una muesca similar; en la pérdida inducida por ruido, se espera que ambos oídos sean parecidos.",
+    "Algunos criterios exigen que el umbral en la muesca sea al menos diez decibeles peor que en las frecuencias vecinas, tanto graves como agudas.",
+    "La mejoría en seis mil y sobre todo en ocho mil hertz es una pista clave que distingue la muesca de la pérdida relacionada con la edad.",
+    "En la pérdida relacionada con la edad, los umbrales siguen empeorando hacia los ocho mil hertz, y no se ve esta recuperación."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "La muesca en 4 kHz",
+   "baslik": "¿Por qué *4 kHz?*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Resonancia del conducto",
+     "metin": "Refuerza de 2,5 a 3 kHz",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Media octava",
+     "metin": "El daño, algo más arriba",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Región de 3 a 6 kHz",
+     "metin": "Aquí, el mayor daño",
+     "cumle": 2
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Vulnerabilidad estructural",
+     "metin": "Células ciliadas e irrigación",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El conducto auditivo refuerza los sonidos de entre unos dos mil quinientos y tres mil hertz gracias a su resonancia natural.",
+    "Un sonido de nivel alto daña más la cóclea en una región situada aproximadamente media octava por encima de su propia frecuencia.",
+    "Combinados, estos dos efectos sitúan el mayor daño por ruido de banda ancha en la región de tres mil a seis mil hertz.",
+    "Se cree que ciertas características de las células ciliadas y de la irrigación de esta región también aumentan su vulnerabilidad.",
+    "La ubicación exacta de la muesca puede ser tres, cuatro o seis mil hertz, según la persona y el espectro del ruido."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Ante antecedentes de ruido, evalúa también 3000 y 6000 Hz; la muesca puede aparecer solo en estas frecuencias interoctava.",
+   "cumleler": [
+    "Un consejo clínico: en toda persona con antecedentes de ruido, evalúen también las frecuencias interoctava, tres mil y seis mil hertz.",
+    "Si solo se miran las frecuencias de octava, una muesca en seis mil hertz, por ejemplo, puede pasar completamente inadvertida.",
+    "Tengan cuidado al interpretar una caída aislada en seis mil hertz; la calibración de los auriculares puede afectar los resultados en esta frecuencia.",
+    "Ante la duda, repitan la prueba y evalúen el hallazgo junto con la anamnesis."
+   ]
+  },
+  {
+   "id": "seyir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "La muesca en 4 kHz",
+   "baslik": "*Evolución* en el tiempo",
+   "maddeler": [
+    {
+     "metin": "Progresión _rápida_ en los primeros años",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Luego se _enlentece_ y se extiende",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Agudos: rara vez más de _75 dB_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Sin exposición, por lo general _no progresa_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Con la edad, la muesca puede _desdibujarse_",
+     "cumle": 4,
+     "ikon": "yasli"
+    }
+   ],
+   "cumleler": [
+    "Si la exposición continúa, la mayor parte de la pérdida suele desarrollarse en los primeros diez a quince años.",
+    "Luego la progresión se enlentece y la pérdida se extiende a las frecuencias vecinas, con el tiempo hasta dos mil hertz y por debajo.",
+    "Según la guía de medicina ocupacional estadounidense, el ruido solo rara vez supera setenta y cinco decibeles en los agudos o cuarenta en los graves.",
+    "Según la misma guía, la pérdida por ruido no suele progresar al cesar la exposición; el empeoramiento posterior suele deberse a la edad.",
+    "Con la edad, también empeoran los ocho mil hertz, y la muesca puede desdibujarse dentro de la pérdida relacionada con la edad.",
+    "Por eso, a edades avanzadas resulta más difícil separar la contribución del ruido y la de la edad."
+   ]
+  },
+  {
+   "id": "asimetri",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "La muesca en 4 kHz",
+   "baslik": "Hallazgos *asimétricos*",
+   "maddeler": [
+    {
+     "metin": "Rifle: el oído _más cercano al cañón_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tirador diestro: peor el _oído izquierdo_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Fuentes _laborales_ de un solo lado",
+     "cumle": 2,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Asimetría sin explicación: derivar al _médico_",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "La pérdida inducida por ruido suele ser simétrica, pero con algunas exposiciones un oído se afecta más.",
+    "En las personas diestras que disparan con rifle, el oído izquierdo, más cercano a la boca del cañón, suele afectarse más.",
+    "Una máquina situada siempre del mismo lado, o conducir un vehículo con sirena, también puede causar asimetría.",
+    "Sin embargo, una asimetría que los antecedentes de ruido no explican requiere derivación al médico para buscar causas retrococleares.",
+    "Atribuir automáticamente al ruido una pérdida asimétrica puede retrasar un diagnóstico importante."
+   ]
+  },
+  {
+   "id": "sinaptopati",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Sinaptopatía coclear",
+   "baslik": "*Sinaptopatía* coclear",
+   "cizim": "corti",
+   "vurgula": [
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "Célula ciliada interna",
+     "cumle": 0
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Sinapsis perdidas",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Los umbrales pueden volver a la normalidad",
+     "cumle": 2
+    },
+    {
+     "metin": "Se afectan las fibras de umbral alto",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La sinaptopatía coclear es la pérdida de sinapsis entre las células ciliadas internas y las fibras del nervio auditivo.",
+    "Kujawa y Liberman demostraron en ratones que un ruido que solo causaba un desplazamiento temporal del umbral destruía gran parte de estas sinapsis.",
+    "Aunque los umbrales volvieron por completo a la normalidad, estas sinapsis no se recuperaron.",
+    "Las fibras más afectadas son las de umbral alto, que ayudan a codificar el sonido a niveles altos y en ruido.",
+    "Perder estas fibras no cambia el audiograma, porque se conservan las fibras de umbral bajo, que determinan el umbral."
+   ]
+  },
+  {
+   "id": "gizli",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Sinaptopatía coclear",
+   "baslik": "Pérdida auditiva *oculta*",
+   "maddeler": [
+    {
+     "metin": "Audiograma _normal_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Dificultad_ para entender en ruido",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Posible marcador: menor _amplitud_ de la onda I",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Evidencia en humanos _aún en debate_",
+     "cumle": 3,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "abr",
+    "cumle": 2,
+    "etiketler": [
+     {
+      "parca": "dalga_I",
+      "metin": "amplitud de la onda I",
+      "cumle": 2
+     },
+     {
+      "parca": "dalga_V",
+      "metin": "onda V",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Por eso, a la sinaptopatía también se la llama pérdida auditiva oculta; el audiograma parece normal.",
+    "Sin embargo, la queja de la persona suele ser la dificultad para entender el habla en ruido, y el tinnitus.",
+    {
+     "yazi": "En estudios con animales, una menor amplitud de la onda I de los PEATC a niveles altos se ha usado como marcador de sinaptopatía."
+    },
+    "En los seres humanos, los hallazgos son contradictorios, y todavía no se ha establecido una prueba clínica confiable.",
+    "Aun así, este concepto nos recuerda que un audiograma normal no significa que el ruido no haya afectado el oído."
+   ]
+  },
+  {
+   "id": "korunma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Prevención y seguimiento",
+   "baslik": "Principios de *prevención*",
+   "maddeler": [
+    {
+     "metin": "Primero, _reducir el ruido_ en la fuente",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Acortar el tiempo, aumentar la _distancia_",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "_Protección auditiva_ bien ajustada",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "La protección real es _menor que la etiqueta_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La hipoacusia inducida por ruido es prevenible, y el enfoque más eficaz es reducir el ruido en su fuente.",
+    "Cuando esto no es posible, se acorta el tiempo de exposición y se dan pausas en silencio.",
+    "Aumentar la distancia a la fuente sonora también reduce notablemente la exposición.",
+    "Los protectores como los tapones auditivos o las orejeras solo funcionan si se eligen y se colocan correctamente.",
+    "En el uso real, la protección que brindan suele ser menor que el valor impreso en el envase."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Prevención y seguimiento",
+   "baslik": "*Seguimiento* audiométrico",
+   "maddeler": [
+    {
+     "metin": "Audiograma basal: _al ingreso_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Un período _sin ruido_ antes de la prueba",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Seguir el _cambio_ en audiogramas seriados",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Pregunta por exposiciones recientes al ruido antes de la prueba; un desplazamiento temporal puede parecer una pérdida permanente.",
+    "cumle": 2
+   },
+   "cumleler": [
+    "El audiograma basal, realizado al ingresar al trabajo, es el punto de partida de todas las comparaciones posteriores.",
+    "Por ejemplo, las normas de salud ocupacional de Estados Unidos exigen al menos catorce horas sin ruido laboral antes del audiograma basal.",
+    "De lo contrario, un desplazamiento temporal del umbral parece una pérdida permanente, y se registra un valor basal erróneo.",
+    "Los audiogramas posteriores se comparan con el basal; si hay un cambio claro del umbral, se revisan las medidas de protección.",
+    "Qué cambio se considera significativo lo establecen las normas y guías correspondientes."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Daño: primero las _células ciliadas externas_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "El TTS se recupera, el _PTS_ es permanente",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Muesca en 3-6 kHz, recuperación en _8 kHz_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Audiograma normal, posible _sinaptopatía_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "El ruido daña primero las células ciliadas externas y produce una pérdida neurosensorial.",
+    "El desplazamiento temporal del umbral se recupera, pero la exposición repetida puede convertirlo en un desplazamiento permanente.",
+    "El audiograma típico muestra una muesca entre tres mil y seis mil hertz y una recuperación en ocho mil hertz.",
+    "La sinaptopatía coclear es un concepto de investigación importante que muestra que pueden perderse sinapsis pese a un audiograma normal."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué pista distingue la pérdida por ruido de la debida a la edad?",
+   "secenekler": [
+    "Brecha aéreo-ósea",
+    "Recuperación en 8 kHz",
+    "Pérdida en graves",
+    "Pérdida unilateral"
+   ],
+   "dogru": 1,
+   "aciklama": "La muesca está en 3 a 6 kHz; los umbrales vuelven a mejorar _en 8 kHz_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué pista típica del audiograma distingue la pérdida inducida por ruido de la relacionada con la edad?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: recuperación en ocho mil hertz.",
+    "En la pérdida relacionada con la edad, los umbrales siguen empeorando hacia los ocho mil hertz."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Sordera súbita: el papel del *audiólogo*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección hablaremos del papel del audiólogo en la hipoacusia neurosensorial súbita y de por qué importa derivar rápido.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

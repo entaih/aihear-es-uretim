@@ -1,0 +1,107 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R242_Twenty_Five_Percent_Every_Time_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #242",
+  "baslik": "25 por ciento, *cada vez*",
+  "alt": "Un malentendido común en la herencia recesiva",
+  "cizim": "koklea_kesit",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Si el primer hijo está afectado, ¿los tres siguientes no lo estarán? #shorts",
+  "aciklama": "Para dos padres portadores, la probabilidad de tener un hijo afectado es del 25 por ciento en cada embarazo, es decir, uno de cada cuatro. Algunas familias creen que, si el primer hijo está afectado, los tres siguientes no lo estarán; pero el riesgo es el mismo en cada embarazo, y el resultado de un embarazo no cambia el del siguiente. Estas preguntas se responden junto con un asesor genético.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "genetica",
+   "audicion"
+  ],
+  "etiketler": [
+   "autosómico recesivo",
+   "asesoramiento genético",
+   "portadores",
+   "riesgo del 25 por ciento",
+   "herencia",
+   "hipoacusia genética",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Si el primer hijo está afectado, ¿los tres siguientes no lo estarán?",
+  "bilgiler": [
+   "Para dos padres portadores, cada embarazo tiene un riesgo del 25 por ciento.",
+   "Veinticinco por ciento significa una probabilidad de uno en cuatro.",
+   "El resultado de un embarazo no cambia el del siguiente."
+  ],
+  "hashtag": [
+   "audiologia",
+   "genetica",
+   "audicion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #242",
+   "metin": "¿Uno de cada cuatro, *en orden?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Si el primer hijo está afectado, ¿los tres siguientes no lo estarán?"
+   ]
+  },
+  {
+   "id": "risk",
+   "tur": "zincir",
+   "baslik": "El mismo riesgo *cada vez*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Embarazo 1",
+     "tr": "25%",
+     "cumle": 0
+    },
+    {
+     "ad": "Embarazo 2",
+     "tr": "25%",
+     "cumle": 3
+    },
+    {
+     "ad": "Embarazo 3",
+     "tr": "25%",
+     "cumle": 3,
+     "gecikme": 0.9
+    }
+   ],
+   "alt": "Los resultados previos _no cambian_ el siguiente",
+   "alt_cumle": 3,
+   "cumleler": [
+    {
+     "yazi": "Dos padres portadores tienen un 25 por ciento de probabilidad en cada embarazo."
+    },
+    "Veinticinco por ciento significa una probabilidad de uno en cuatro.",
+    "Algunas familias suponen que los tres hijos siguientes no estarán afectados.",
+    "Pero el riesgo se reinicia en cada embarazo; los resultados previos no lo cambian.",
+    "Responder estas preguntas con un asesor genético evita decisiones equivocadas."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D151",
+ "kaynak_baslik": "Consanguinidad y asesoramiento genético en audiología"
+}

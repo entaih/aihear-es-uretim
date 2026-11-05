@@ -1,0 +1,756 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D110_Acoustic_Reflex_Decay_ES",
+ "kapak": {
+  "ust": "LECCIÓN 110",
+  "baslik": "Deterioro<br>*del reflejo*",
+  "alt": "La prueba de decay: ¿qué pasa en diez segundos?",
+  "cizim": "akustik_refleks_arki"
+ },
+ "youtube": {
+  "baslik": "Prueba de deterioro (decay) del reflejo acústico | Lección 110 | AIHEAR Academia de Audiología",
+  "aciklama": "La prueba de deterioro (decay) del reflejo acústico mide si el reflejo se mantiene durante un tono continuo de 10 segundos presentado 10 dB por encima del umbral del reflejo. En esta lección vemos con un ejemplo cómo se realiza la prueba, qué es la vida media, qué significa un resultado positivo y cómo se relaciona con la patología retrococlear.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Anderson H, Barr B, Wedenberg E (1970), Early diagnosis of VIIIth-nerve tumours by acoustic reflex tests, Acta Oto-Laryngologica; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Hunter LL, Shahnaz N, Acoustic Immittance Measures: Basic and Advanced Practice; BSA, Recommended Procedure: Tympanometry and Acoustic Reflex Thresholds.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "reflejoacustico",
+   "inmitancia"
+  ],
+  "etiketler": [
+   "deterioro del reflejo acústico",
+   "decay del reflejo",
+   "reflejo acústico",
+   "reflejo estapedial",
+   "vida media del reflejo",
+   "patología retrococlear",
+   "schwannoma vestibular",
+   "impedanciometría",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 110",
+   "baslik": "Prueba de *deterioro* (decay) del reflejo acústico",
+   "alt": "La prueba de decay: ¿qué pasa en diez segundos?",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprenderemos la prueba de deterioro del reflejo, que mide cuánto se mantiene el reflejo acústico ante un estímulo sostenido.",
+    "Veremos cómo se realiza la prueba, cómo se lee el resultado y cómo se relaciona con la patología retrococlear."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Fundamentos",
+   "baslik": "¿Qué es el *deterioro* del reflejo?",
+   "maddeler": [
+    {
+     "metin": "¿Se apaga el reflejo con sonido _sostenido_?",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Normal: se _mantiene_ 10 segundos",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Problema del nervio: _decae rápido_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Orientada a patología _retrococlear_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "DECAY",
+    "metin": "El reflejo se apaga *con el tiempo* ante un sonido sostenido",
+    "cumle": 0
+   },
+   "cumleler": [
+    "El deterioro del reflejo acústico, o decay, es la disminución de la amplitud del reflejo con el tiempo mientras se presenta un estímulo sostenido.",
+    "En un oído normal, con un tono sostenido algo por encima del umbral del reflejo, la contracción del estapedio se mantiene en gran parte diez segundos.",
+    "Si hay un problema en el nervio auditivo, sus fibras no logran seguir respondiendo al estímulo sostenido, y el reflejo se apaga rápidamente.",
+    "La prueba mide esta diferencia; es decir, evalúa cuánto resiste el nervio auditivo una estimulación sostenida.",
+    "Junto con los umbrales y los patrones del reflejo, es una prueba de la batería de inmitancia orientada a la patología retrococlear.",
+    {
+     "yazi": "La prueba se difundió en la clínica gracias al trabajo de los investigadores suecos Anderson, Barr y Wedenberg."
+    }
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Procedimiento",
+   "baslik": "*Pasos* de la prueba",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Umbral del reflejo",
+     "metin": "Se busca primero",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Umbral más 10",
+     "metin": "Tono puro continuo",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "10 segundos",
+     "metin": "Sin interrupción",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Seguir la amplitud",
+     "metin": "Frente al inicio",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registro",
+     "metin": "Porcentaje y tiempo",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Primero se busca el umbral del reflejo acústico en la frecuencia de prueba.",
+    "La prueba suele hacerse en quinientos y mil hertz.",
+    "El estímulo es un tono puro continuo presentado diez decibeles por encima del umbral del reflejo.",
+    "El tono dura diez segundos sin interrupción, y durante ese tiempo se registra el cambio de admitancia.",
+    "La mayor amplitud inicial del reflejo se toma como referencia, y se sigue su cambio a lo largo de los diez segundos.",
+    "El estímulo suele presentarse en forma contralateral, es decir, en el oído opuesto a la sonda.",
+    "El resultado se registra como el porcentaje de caída de la amplitud y, si hace falta, el tiempo que tarda en bajar a la mitad."
+   ]
+  },
+  {
+   "id": "frekans",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Procedimiento",
+   "baslik": "¿Por qué *500 y 1000 Hz?*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "500, 1000 Hz",
+     "metin": "El reflejo normal se mantiene",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "2000, 4000 Hz",
+     "metin": "Decae incluso en oídos normales",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Molestia",
+     "metin": "Estímulo largo e intenso",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Seguridad",
+     "metin": "No superar el límite de nivel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En las frecuencias bajas, el reflejo de un oído normal se mantiene claramente durante diez segundos.",
+    "En dos mil y cuatro mil hertz, en cambio, el reflejo puede apagarse rápido incluso en personas con audición normal.",
+    "Por eso el deterioro en frecuencias altas no se considera significativo, y la prueba se limita a las frecuencias bajas.",
+    "Como la prueba requiere un tono intenso de diez segundos, puede resultar molesta para el paciente.",
+    "Si el umbral del reflejo ya es alto, el umbral más diez decibeles puede superar el límite seguro; en ese caso, la prueba puede no realizarse.",
+    "En pacientes con tinnitus o sensibilidad al sonido, se valora antes si la prueba es necesaria."
+   ]
+  },
+  {
+   "id": "egri",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Interpretación",
+   "baslik": "Resultado normal y *positivo*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Tiempo (segundos)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Amplitud del reflejo (porcentaje)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        0.3,
+        100
+       ],
+       [
+        1,
+        99
+       ],
+       [
+        2,
+        98
+       ],
+       [
+        4,
+        96
+       ],
+       [
+        6,
+        94
+       ],
+       [
+        8,
+        92
+       ],
+       [
+        10,
+        90
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "etiket": "normal",
+      "etiket_konum": [
+       7,
+       97
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "pozitif",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        0.3,
+        100
+       ],
+       [
+        1,
+        90
+       ],
+       [
+        2,
+        75
+       ],
+       [
+        3,
+        61
+       ],
+       [
+        4,
+        50
+       ],
+       [
+        5,
+        42
+       ],
+       [
+        6,
+        35
+       ],
+       [
+        8,
+        25
+       ],
+       [
+        10,
+        18
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "deterioro positivo",
+      "etiket_konum": [
+       6.5,
+       28
+      ],
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yari_alti",
+      "y": [
+       0,
+       50
+      ],
+      "renk": "sari",
+      "etiket": "bajo la mitad",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yari",
+      "x": 4,
+      "y": 50,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "unos 4 s",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal: la amplitud se mantiene",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Positivo: bajo la mitad en 10 s",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Vida media",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "En la pantalla vemos la amplitud del reflejo en el tiempo; la mayor amplitud inicial se toma como el cien por ciento.",
+    "La curva azul muestra un oído normal; la amplitud se mantiene alta durante diez segundos.",
+    "Según el criterio habitual, la prueba es positiva si la amplitud cae por debajo de la mitad de su valor inicial en diez segundos.",
+    "En la curva roja, en cambio, la amplitud baja rápidamente en pocos segundos.",
+    "El tiempo que tarda la amplitud en bajar a la mitad se llama vida media; en este ejemplo, es de unos cuatro segundos.",
+    "Algunas fuentes consideran además una vida media menor de cinco segundos como un hallazgo más marcado.",
+    "Como los criterios varían un poco entre fuentes, indiquen en el informe el criterio de su clínica."
+   ]
+  },
+  {
+   "id": "retro",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Interpretación",
+   "baslik": "Relación con la *patología* retrococlear",
+   "maddeler": [
+    {
+     "metin": "Positivo: _nervio o tronco cerebral_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Ejemplo: _schwannoma vestibular_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Pérdida coclear: _en general ausente_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Un resultado negativo _no descarta_",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "isitme_siniri",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    "vurgula": [
+     {
+      "parca": "isitme_siniri",
+      "cumle": 0
+     },
+     {
+      "parca": "ic_kulak_yolu",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "isitme_siniri",
+      "metin": "VIII par",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Un deterioro positivo del reflejo sugiere patología retrococlear, es decir, un problema del nervio auditivo o del tronco cerebral.",
+    "El ejemplo clásico es un schwannoma vestibular que comprime el nervio auditivo en el conducto auditivo interno.",
+    "En las pérdidas auditivas cocleares, por lo general no se ve un deterioro claro en quinientos y mil hertz.",
+    "Por eso el hallazgo de deterioro ayuda a distinguir los problemas cocleares de los retrococleares.",
+    "Sin embargo, estudios posteriores mostraron que en oídos con tumores el reflejo suele estar totalmente ausente, más que mostrar deterioro.",
+    "Así que la prueba de deterioro solo puede hacerse si el reflejo es medible; sin reflejo, el deterioro no puede evaluarse.",
+    "Un resultado positivo requiere más evaluación, mientras que un resultado negativo no descarta un problema retrococlear."
+   ]
+  },
+  {
+   "id": "taraf",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 4",
+   "bolum": "Aspectos prácticos",
+   "baslik": "Oído del *estímulo*, oído de la sonda",
+   "sol": {
+    "ust": "Oído del estímulo",
+    "maddeler": [
+     {
+      "metin": "Aquí está el nervio evaluado",
+      "cumle": 0
+     },
+     {
+      "metin": "El deterioro corresponde a este lado",
+      "cumle": 1
+     },
+     {
+      "metin": "Indicarlo claramente en el informe",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Oído de la sonda",
+    "maddeler": [
+     {
+      "metin": "El oído medio debe estar sano",
+      "cumle": 3
+     },
+     {
+      "metin": "Ajustado a la presión del pico",
+      "cumle": 4
+     },
+     {
+      "metin": "Una fuga causa una falsa caída",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "En la prueba de deterioro, el nervio auditivo evaluado es el del oído que recibe el estímulo.",
+    "Aunque el reflejo contralateral se mida en el oído opuesto, el hallazgo de deterioro corresponde al oído del estímulo.",
+    "El informe debe indicar con claridad qué oído recibió el estímulo y en qué oído estaba la sonda.",
+    "El oído medio del lado de la sonda debe permitir la medición; si allí hay un problema conductivo, el reflejo estará ausente de todos modos.",
+    "La presión del conducto auditivo se ajusta a la presión del pico timpanométrico del oído de la sonda.",
+    "Una fuga de la sonda o un movimiento del paciente pueden causar una caída de amplitud que no es real."
+   ]
+  },
+  {
+   "id": "yaniltici",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Aspectos prácticos",
+   "baslik": "Situaciones *engañosas*",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "Movimiento, deglución",
+     "metin": "Deflexiones irregulares",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Fuga de la sonda",
+     "metin": "La línea de base deriva",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Estímulo corto",
+     "metin": "Debe completar 10 segundos",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Nivel bajo",
+     "metin": "Demasiado cerca del umbral",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El movimiento del paciente, la deglución o el habla generan deflexiones irregulares en el registro y pueden cambiar la amplitud.",
+    "Si la sonda tiene una fuga lenta, la línea de base deriva y parece que el reflejo se apaga.",
+    "Si el tono se detiene antes de completar los diez segundos, el resultado no puede interpretarse.",
+    "Si el estímulo está muy cerca del umbral del reflejo, la amplitud puede fluctuar incluso en un oído normal; por eso se usa el umbral más diez decibeles.",
+    "Ante un resultado dudoso, se vuelve a colocar la sonda y se repite la prueba una vez más.",
+    "Un deterioro verdadero se observa de forma similar en la medición repetida."
+   ]
+  },
+  {
+   "id": "vaka",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 5",
+   "bolum": "Ejemplo",
+   "baslik": "Ejemplo: pérdida *asimétrica*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: audición normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: leve a moderada, descendente",
+     "cumle": 0
+    },
+    {
+     "isaret": "A",
+     "renk": "yesil",
+     "metin": "Timpanograma: _tipo A bilateral_",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       20,
+       25,
+       35,
+       45,
+       50
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Veamos un ejemplo: el oído izquierdo tiene una hipoacusia neurosensorial leve a moderada, más marcada en las frecuencias altas.",
+    "Ambos timpanogramas son de tipo A, y los umbrales del reflejo son medibles.",
+    "Se presenta un tono continuo al oído izquierdo en mil hertz, diez decibeles por encima del umbral del reflejo.",
+    "La amplitud del reflejo cae por debajo de la mitad en cuatro segundos; la prueba de deterioro es positiva.",
+    "Con el estímulo en el oído derecho, en cambio, la amplitud se mantiene durante diez segundos.",
+    "Junto con la pérdida asimétrica, este hallazgo justifica la derivación para más evaluación; el ejemplo es didáctico."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "tablo",
+   "bolum_no": "PARTE 5",
+   "bolum": "Ejemplo",
+   "baslik": "*Registro* de ejemplo",
+   "sutunlar": [
+    "Frecuencia",
+    "Oído del estímulo",
+    "Umbral del reflejo",
+    "Deterioro"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "Derecho",
+      "85 dB HL",
+      "Negativo"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "Derecho",
+      "90 dB HL",
+      "Negativo"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "Izquierdo",
+      "90 dB HL",
+      "Negativo"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "Izquierdo",
+      "95 dB HL",
+      "Positivo, 4 s"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Los resultados del caso de ejemplo pueden presentarse en el informe con una tabla como esta.",
+    "Con el estímulo en el oído derecho, no se observó deterioro en ninguna de las dos frecuencias.",
+    "En el oído izquierdo tampoco hay deterioro en quinientos hertz.",
+    "En mil hertz, en cambio, la amplitud bajó a la mitad en cuatro segundos, por lo que también se anotó la vida media.",
+    "Debajo de la tabla se anotan además el nivel del estímulo, el oído de la sonda y el criterio utilizado."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Interpreten el deterioro solo en 500 y 1000 Hz. En frecuencias altas el reflejo también puede apagarse en oídos normales; mantengan el nivel del estímulo dentro del límite seguro.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: interpreten el deterioro solo en quinientos y mil hertz.",
+    "En dos mil y cuatro mil hertz, el reflejo también puede apagarse en oídos normales; ese hallazgo sería una falsa alarma.",
+    "Mantengan el nivel del estímulo dentro del límite seguro, y avisen antes al paciente que oirá un sonido de diez segundos.",
+    "Un paciente preparado se mueve menos, y eso mejora la calidad del registro."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Ejemplo",
+   "baslik": "Su lugar en la *batería*",
+   "maddeler": [
+    {
+     "metin": "Asimetría y _baja puntuación de habla_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Rollover_ en la función rendimiento-intensidad",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Evaluación definitiva: _imagen_",
+     "cumle": 3,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "La tarea: _derivar correctamente_",
+     "cumle": 5,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "BATERÍA",
+    "metin": "No una prueba, sino una *combinación* de hallazgos",
+    "cumle": 0
+   },
+   "cumleler": [
+    "El deterioro del reflejo no es por sí solo una prueba diagnóstica; forma parte de la batería.",
+    "Se interpreta junto con hallazgos como una pérdida auditiva asimétrica, una puntuación de palabras desproporcionadamente baja y un tinnitus unilateral.",
+    "El rollover en la función rendimiento-intensidad también puede apoyar una sospecha retrococlear similar.",
+    "Cuando se sospecha un problema retrococlear, la principal investigación hoy es la resonancia magnética.",
+    "Los potenciales evocados auditivos de tronco cerebral también aportan información sobre la conducción neural; los veremos en próximas lecciones.",
+    "La tarea de las pruebas audiológicas es ayudar a seleccionar correctamente a los pacientes que necesitan más estudios."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Umbral _más 10 dB_, 10 segundos",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Solo _500 y 1000 Hz_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Bajo la mitad_ en 10 s: positivo",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Positivo: sospecha _retrococlear_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "La prueba usa un tono continuo de diez segundos presentado diez decibeles por encima del umbral del reflejo.",
+    "Solo se interpretan quinientos y mil hertz; en las frecuencias altas, el deterioro puede aparecer también en oídos normales.",
+    "Una caída de la amplitud por debajo de la mitad de su valor inicial en diez segundos es un resultado positivo.",
+    "Un resultado positivo sugiere patología retrococlear; un resultado negativo no la descarta."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "En 1000 Hz, con un tono al umbral más 10 dB, la amplitud bajó a la mitad en 3 segundos. ¿Resultado?",
+   "secenekler": [
+    "Normal",
+    "Deterioro positivo",
+    "Prueba no válida",
+    "Indicio de pérdida coclear"
+   ],
+   "dogru": 1,
+   "aciklama": "La prueba es positiva porque la amplitud cayó _por debajo de la mitad_ en diez segundos.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en mil hertz, con un tono diez decibeles sobre el umbral del reflejo, la amplitud bajó a la mitad en tres segundos. ¿El resultado?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: deterioro positivo del reflejo.",
+    "La amplitud cayó por debajo de la mitad de su valor inicial en diez segundos, así que la prueba es positiva y exige atención retrococlear."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Timpanometría *multifrecuencia* y resonancia",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la timpanometría multifrecuencia y la frecuencia de resonancia del oído medio.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

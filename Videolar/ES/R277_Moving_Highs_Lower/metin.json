@@ -1,0 +1,107 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R277_Moving_Highs_Lower_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #277",
+  "baslik": "Bajar los *agudos*",
+  "alt": "Cómo funciona la compresión de frecuencias",
+  "cizim": "koklea_acik",
+  "ayar": {
+   "frekans": 4000
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Se pueden llevar los agudos inaudibles a una región más grave? #shorts",
+  "aciklama": "En las pérdidas de pendiente pronunciada, la ganancia convencional a menudo no logra que las frecuencias altas sean audibles. La compresión de frecuencias deja sin cambios los sonidos por debajo de la frecuencia de corte y comprime la región superior en un rango más estrecho, pero primero la medición en oído real muestra hasta dónde puede llegar la ganancia convencional.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audifonos",
+   "reducciondefrecuencias"
+  ],
+  "etiketler": [
+   "reducción de frecuencias",
+   "compresión de frecuencias",
+   "frecuencia de corte",
+   "zona muerta coclear",
+   "pérdida de pendiente pronunciada",
+   "audífono",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Se pueden llevar los agudos inaudibles a una región más grave?",
+  "bilgiler": [
+   "Los sonidos bajo la frecuencia de corte no cambian.",
+   "Aquí, la información hasta 10 kHz cabe por debajo de 5 kHz.",
+   "La reducción de frecuencias no sustituye la ganancia en agudos."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "reducciondefrecuencias"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #277",
+   "metin": "¿Adónde van los *agudos perdidos?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Se pueden llevar los agudos inaudibles a una región más grave?"
+   ]
+  },
+  {
+   "id": "sikistirma",
+   "tur": "zincir",
+   "baslik": "Compresión de *frecuencias*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Bajo 2500 Hz",
+     "tr": "sin cambios",
+     "cumle": 1
+    },
+    {
+     "ad": "Por encima",
+     "tr": "comprimido",
+     "cumle": 2
+    },
+    {
+     "ad": "10 kHz",
+     "tr": "bajo 5 kHz",
+     "cumle": 3
+    }
+   ],
+   "alt": "Vocales y tono _se conservan_",
+   "alt_cumle": 1,
+   "cumleler": [
+    "En la pérdida de pendiente pronunciada, la ganancia a menudo no logra hacer audibles los agudos.",
+    "En la compresión de frecuencias, los sonidos bajo la frecuencia de corte no cambian.",
+    "La región superior se comprime en un rango más estrecho.",
+    "Aquí, la información hasta 10 kilohertz cabe por debajo de 5 kilohertz.",
+    "Primero va la ganancia convencional; la reducción de frecuencias no es un atajo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D182",
+ "kaynak_baslik": "Canales, bandas y reducción de frecuencias"
+}

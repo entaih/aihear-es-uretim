@@ -1,0 +1,919 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D134_Cochlear_Or_Retrocochlear_ES",
+ "kapak": {
+  "ust": "LECCIÓN 134",
+  "baslik": "¿Coclear o<br>*retrococlear?*",
+  "alt": "La lógica del diagnóstico diferencial",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "isitme_siniri"
+  ]
+ },
+ "youtube": {
+  "baslik": "¿Coclear o retrococlear? Diagnóstico diferencial | Lección 134 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos cómo razonar si una hipoacusia neurosensorial se origina en la cóclea o en el nervio auditivo y el tronco cerebral. Con un caso de ejemplo, vemos los signos de alarma, la interpretación conjunta de la logoaudiometría, el reflejo acústico, las otoemisiones acústicas (OEA) y los potenciales evocados auditivos de tronco cerebral (PEATC) con el principio de verificación cruzada, y los criterios de derivación al médico.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Jerger y Hayes (1976), The cross-check principle in pediatric audiometry; Hall, New Handbook of Auditory Evoked Responses.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "retrococlear",
+   "audicion"
+  ],
+  "etiketler": [
+   "retrococlear",
+   "patología retrococlear",
+   "sitio de lesión",
+   "signos de alarma",
+   "hipoacusia asimétrica",
+   "principio de verificación cruzada",
+   "batería de pruebas audiológicas",
+   "rollover",
+   "reflejo acústico",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 134",
+   "baslik": "¿Coclear o *retrococlear?*",
+   "alt": "Lógica del diagnóstico diferencial y signos de alarma",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprenderemos a razonar si una pérdida neurosensorial se origina en la cóclea o en las vías que están más allá de ella.",
+    "Veremos los signos de alarma, la interpretación de la batería de pruebas en conjunto y los criterios de derivación al médico."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Sitio de lesión",
+   "baslik": "¿*Dónde* está el problema?",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "orta_kulak",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "koklea",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 3,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "orta_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "koklea",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "Coclear",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "Retrococlear",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sitio de lesión",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "El audiograma _no puede distinguirlas_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Una de las preguntas centrales de la evaluación audiológica es el sitio de lesión: ¿en qué punto de la vía auditiva está el problema?"
+    },
+    "Los problemas del oído externo y medio causan una hipoacusia conductiva y se reconocen fácilmente por la brecha aéreo-ósea.",
+    "La mayoría de las pérdidas neurosensoriales son cocleares; es decir, el problema suele estar en las células ciliadas o en las estructuras internas de la cóclea.",
+    {
+     "yazi": "Con menos frecuencia, el problema está en el nervio auditivo o en el tronco cerebral; esto se llama patología retrococlear."
+    },
+    "El audiograma tonal no puede diferenciar estos dos sitios, porque ambos afectan la vía ósea de la misma manera.",
+    "Por eso, la distinción se hace interpretando en conjunto la anamnesis y la batería de pruebas."
+   ]
+  },
+  {
+   "id": "onem",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Sitio de lesión",
+   "baslik": "¿*Por qué* importa?",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "No pasarlo por alto",
+     "metin": "Causas como los tumores",
+     "cumle": 0
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Derivación correcta",
+     "metin": "Las imágenes las decide el médico",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Expectativas",
+     "metin": "El beneficio del audífono puede variar",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Seguimiento",
+     "metin": "Cambian los intervalos de control",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Las causas retrococleares son raras, pero incluyen cuadros que no deben pasarse por alto, como el schwannoma vestibular."
+    },
+    "El audiólogo no diagnostica, pero es responsable de interpretar bien los hallazgos y de derivar al paciente al médico a tiempo.",
+    "El sitio de lesión también puede influir en el beneficio esperado de los audífonos y en el contenido de la orientación.",
+    "La frecuencia de los controles y qué pruebas repetir también se planifican según esta evaluación.",
+    "El objetivo es no pasar por alto un hallazgo importante sin generar una preocupación innecesaria."
+   ]
+  },
+  {
+   "id": "uyari",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Signos de alarma",
+   "baslik": "Signos de *alarma*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Asimetría",
+     "metin": "Pérdida unilateral sin explicación",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitus unilateral",
+     "metin": "Sobre todo si es reciente",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Puntaje desproporcionado",
+     "metin": "Habla peor de lo esperado",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Pérdida súbita",
+     "metin": "Derivación urgente",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Desequilibrio",
+     "metin": "Vértigo o inestabilidad",
+     "cumle": 4
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Signo facial",
+     "metin": "Adormecimiento o debilidad",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El primero de los signos de alarma es una pérdida neurosensorial asimétrica que ni el ruido ni la edad pueden explicar."
+    },
+    "El tinnitus unilateral, sobre todo si es reciente o va en aumento, también merece atención.",
+    "Un porcentaje de discriminación claramente peor de lo que predice el audiograma es una pista importante.",
+    "La pérdida neurosensorial súbita es una urgencia aparte y se tratará en su propia lección.",
+    "El desequilibrio o el vértigo junto con la pérdida también pueden requerir una evaluación adicional.",
+    "Los signos de otros pares craneales, como el adormecimiento o la debilidad facial, deben comunicarse al médico sin demora.",
+    "Ninguno de estos hallazgos prueba por sí solo una enfermedad; pero cada uno indica que la evaluación debe profundizarse."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "La batería de pruebas",
+   "baslik": "Patrones *típicos* de la batería",
+   "sutunlar": [
+    "Prueba",
+    "Coclear",
+    "Retrococlear"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Puntaje de habla",
+      "Acorde con la pérdida",
+      "Desproporcionadamente bajo"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Rollover",
+      "Ausente o leve",
+      "Puede ser marcado"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Reflejo acústico",
+      "Con SL bajo",
+      "Ausente, elevado, deterioro"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "OEA",
+      "Reducidas según la pérdida",
+      "A veces conservadas"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "PEATC",
+      "Latencia acorde",
+      "I-V largo, IT5"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Reclutamiento",
+      "Suele estar presente",
+      "Suele estar ausente"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En la pérdida coclear, el porcentaje de discriminación suele corresponder al grado de pérdida; en la patología retrococlear puede ser mucho menor.",
+    "Un rollover marcado en la función rendimiento-intensidad, es decir, una caída del puntaje a intensidades altas, orienta hacia un sitio retrococlear.",
+    "En la pérdida coclear, los reflejos pueden aparecer con un nivel de sensación bajo; en la retrococlear pueden estar ausentes, elevados o deteriorarse rápido.",
+    "Las otoemisiones acústicas (OEA) disminuyen con la pérdida coclear; en la patología retrococlear a veces se conservan pese a la pérdida.",
+    {
+     "yazi": "En los potenciales evocados auditivos de tronco cerebral (PEATC), la patología retrococlear prolonga el intervalo I-V y la diferencia interaural de la onda V."
+    },
+    "El reclutamiento, un aumento anormalmente rápido de la sonoridad, es un signo típico de pérdida coclear; no suele verse en la patología retrococlear.",
+    "Los patrones de la tabla son tendencias; ningún resultado aislado permite una distinción definitiva."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "La batería de pruebas",
+   "baslik": "La vía del reflejo da una *pista*",
+   "cizim": "akustik_refleks_arki",
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 2,
+    "kontra_cumle": 2
+   },
+   "vurgula": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 1
+    },
+    {
+     "parca": "ipsilateral_yol",
+     "cumle": 2
+    },
+    {
+     "parca": "kontralateral_yol",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "Nervio auditivo (VIII)",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sin reflejo con pérdida leve: _precaución_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Metz: reflejo menos umbral _60 dB o menos_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "El arco del reflejo acústico incluye el nervio auditivo del oído estimulado.",
+    "Una lesión del nervio auditivo altera la transmisión de la señal hacia el tronco cerebral.",
+    "Por eso, al estimular el oído afectado, tanto los reflejos ipsilaterales como los contralaterales pueden estar ausentes o elevados.",
+    "La ausencia total del reflejo en un oído con una pérdida solo leve o moderada no se explica fácilmente por una pérdida coclear.",
+    {
+     "yazi": "En la pérdida coclear, la diferencia entre el umbral del reflejo y el umbral tonal suele ser de 60 decibeles o menos; esto se llama prueba de Metz."
+    },
+    "Los patrones del reflejo y la prueba de deterioro del reflejo se tratan en detalle en otras lecciones."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "La batería de pruebas",
+   "baslik": "*Pistas* del habla",
+   "maddeler": [
+    {
+     "metin": "Considerar el puntaje _esperado_ según el audiograma",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Puntaje claramente bajo: _signo de alarma_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Rollover_ a intensidad alta",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Se _comparan_ los puntajes de ambos oídos",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 2,
+    "ayar": {
+     "x": {
+      "min": 30,
+      "max": 100,
+      "adim": 10,
+      "ad": "Intensidad (dB HL)"
+     },
+     "y": {
+      "min": 0,
+      "max": 100,
+      "adim": 20,
+      "ad": "Puntaje (%)"
+     },
+     "seriler": [
+      {
+       "ad": "koklear_pi",
+       "noktalar": [
+        [
+         40,
+         40
+        ],
+        [
+         50,
+         70
+        ],
+        [
+         60,
+         84
+        ],
+        [
+         70,
+         88
+        ],
+        [
+         80,
+         88
+        ],
+        [
+         90,
+         86
+        ]
+       ],
+       "renk": "mavi",
+       "yumusak": true,
+       "isaretli": true,
+       "etiket": "ejemplo coclear",
+       "cumle": 2,
+       "etiket_konum": [
+        90,
+        86
+       ],
+       "etiket_dy": -14,
+       "etiket_dx": -10,
+       "etiket_hiza": "end"
+      },
+      {
+       "ad": "retro_pi",
+       "noktalar": [
+        [
+         40,
+         30
+        ],
+        [
+         50,
+         52
+        ],
+        [
+         60,
+         64
+        ],
+        [
+         70,
+         60
+        ],
+        [
+         80,
+         44
+        ],
+        [
+         90,
+         32
+        ]
+       ],
+       "renk": "kirmizi",
+       "kesik": true,
+       "yumusak": true,
+       "isaretli": true,
+       "etiket": "ejemplo retrococlear",
+       "cumle": 3,
+       "etiket_konum": [
+        90,
+        32
+       ],
+       "etiket_dy": 26,
+       "etiket_dx": -10,
+       "etiket_hiza": "end"
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Al interpretar los resultados de habla, primero hay que pensar qué puntaje cabe esperar para la pérdida del audiograma.",
+    "Un puntaje claramente menor de lo esperado, sobre todo en un oído, es una pista importante hacia un sitio retrococlear.",
+    "En la curva azul de ejemplo, el puntaje sube con la intensidad y se mantiene en los niveles altos.",
+    "En la curva roja de ejemplo, el puntaje cae claramente después de un máximo; esto se llama rollover.",
+    "Los puntajes de ambos oídos se comparan con niveles de sensación similares para buscar asimetría."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "La batería de pruebas",
+   "baslik": "Las OEA y la *cóclea*",
+   "maddeler": [
+    {
+     "metin": "Las OEA reflejan las _células ciliadas externas_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "OEA con pérdida marcada: ¿_más allá de la cóclea_?",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Un tumor también puede _afectar_ la cóclea",
+     "cumle": 3,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "OEA ausentes _no descartan_ lo retrococlear",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "oae",
+    "cumle": 0,
+    "ayar": {
+     "tur": "DPOAE"
+    },
+    "vurgula": [
+     {
+      "parca": "yanit",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Las otoemisiones acústicas reflejan la función de las células ciliadas externas.",
+    "Unas OEA normales o casi normales pese a una pérdida moderada o severa sugieren que el problema puede estar más allá de la cóclea.",
+    "Este patrón también aparece en el trastorno del espectro de la neuropatía auditiva, que veremos en una lección posterior.",
+    "Sin embargo, un tumor también puede causar daño coclear al afectar la irrigación o los líquidos de la cóclea.",
+    "Por eso, unas OEA ausentes no descartan un problema retrococlear; las OEA son solo una parte de la batería."
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Integrar los resultados",
+   "baslik": "El principio de *verificación cruzada*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Anamnesis",
+     "metin": "Inicio, lado, síntomas",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiograma",
+     "metin": "Tipo, grado, simetría",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Habla",
+     "metin": "¿El puntaje concuerda con la pérdida?",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Inmitancia",
+     "metin": "Reflejos y deterioro",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "OEA y PEATC",
+     "metin": "¿Cóclea o nervio?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La evaluación comienza con la anamnesis: ¿cuándo empezó la pérdida, es unilateral, hay tinnitus o mareo?",
+    "Luego se evalúan el tipo y el grado de pérdida en el audiograma y la simetría entre ambos oídos.",
+    "Las pruebas de habla muestran si el puntaje concuerda con el audiograma.",
+    "En la inmitanciometría se examinan los reflejos acústicos y, si es necesario, el deterioro del reflejo.",
+    "Las OEA y los PEATC ayudan a evaluar por separado la cóclea y la conducción nerviosa.",
+    {
+     "yazi": "Cada prueba confirma o cuestiona a la anterior; este es el principio de verificación cruzada."
+    }
+   ]
+  },
+  {
+   "id": "ornek_odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Integrar los resultados",
+   "baslik": "Ejemplo: una pérdida *asimétrica*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Vía aérea derecha",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Vía aérea izquierda",
+     "cumle": 2
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "Vía ósea izquierda, enmascarada",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       15,
+       20,
+       25
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       30,
+       40,
+       50,
+       55
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       15,
+       20,
+       30,
+       40,
+       50
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Pensemos ahora en un adulto, solo como ejemplo, que describe un zumbido en el oído izquierdo que ha aumentado a lo largo de un año.",
+    "En este ejemplo, los umbrales del oído derecho están dentro de los límites normales.",
+    "En el oído izquierdo hay una pérdida de leve a moderada que aumenta hacia las frecuencias agudas.",
+    "Los umbrales de vía ósea enmascarados se superponen con la vía aérea, así que la pérdida es neurosensorial.",
+    {
+     "yazi": "Hay una diferencia de 15 decibeles o más entre los oídos en varias frecuencias adyacentes; es una pérdida asimétrica."
+    },
+    "Si no hay antecedentes de ruido ni otra explicación, este cuadro requiere una batería de pruebas ampliada."
+   ]
+  },
+  {
+   "id": "ornek_batarya",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Integrar los resultados",
+   "baslik": "Resultados de la *batería* del ejemplo",
+   "sutunlar": [
+    "Prueba",
+    "Hallazgo oído izquierdo",
+    "Interpretación"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Puntaje de palabras",
+      "56 por ciento",
+      "Menor de lo esperado"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Reflejo acústico",
+      "Ausente, estímulo izquierdo",
+      "La pérdida no lo explica"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "OEA",
+      "Reducidas en agudos",
+      "No decisivo solo"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "PEATC, IT5",
+      "0,6 ms",
+      "Sobre el límite"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Conclusión",
+      "Signos de alarma",
+      "Derivar al médico"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "En el mismo ejemplo, el reconocimiento de palabras del oído izquierdo es del cincuenta y seis por ciento, menor de lo esperado para esta pérdida.",
+    "Con estimulación del oído izquierdo, los reflejos acústicos están ausentes de una forma que una pérdida de leve a moderada no puede explicar.",
+    "Las OEA están reducidas en las frecuencias agudas; este hallazgo por sí solo no basta para hacer la distinción.",
+    {
+     "yazi": "En los PEATC, la diferencia interaural de la onda V es de 0,6 milisegundos, por encima del límite aceptado.",
+     "ses": "En los PEATC, la diferencia interaural de la onda V es de cero coma seis milisegundos, por encima del límite aceptado."
+    },
+    "Estos hallazgos, que se apoyan entre sí, son signos de alarma de un sitio retrococlear, y el paciente se deriva al médico.",
+    "El informe no consigna un diagnóstico, sino los hallazgos, y que estos pueden ser compatibles con un proceso retrococlear."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Ante una asimetría, primero verifica la confiabilidad de los umbrales: ¿el enmascaramiento es adecuado, el auricular está bien colocado, el conducto auditivo está libre?",
+   "cumleler": [
+    "Un consejo clínico: antes de interpretar un resultado asimétrico, asegúrense de que los umbrales sean confiables.",
+    "El cerumen, el colapso del conducto auditivo o un auricular mal colocado pueden crear una falsa asimetría.",
+    "Un enmascaramiento insuficiente para los umbrales del oído peor puede hacer que una asimetría real parezca menor de lo que es.",
+    "Solo después de descartar un error técnico debe discutirse el significado clínico del hallazgo."
+   ]
+  },
+  {
+   "id": "esik_ustu",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Derivación",
+   "baslik": "Pruebas *supraumbrales* clásicas",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "ABLB",
+     "metin": "Demuestra el reclutamiento",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "SISI",
+     "metin": "Pequeños incrementos de intensidad",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Tone decay",
+     "metin": "El tono se desvanece",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "En el pasado se usaban mucho pruebas supraumbrales como la prueba de balance alternado binaural de sonoridad (ABLB) para hallar el sitio de lesión.",
+    {
+     "yazi": "El índice de sensibilidad a incrementos cortos (SISI) evalúa la capacidad de detectar breves aumentos de intensidad de un decibel."
+    },
+    "La prueba de deterioro tonal, o tone decay, que comprueba si un tono continuo deja de oírse con el tiempo, es otro método clásico.",
+    "Hoy estas pruebas han sido reemplazadas en gran parte por los PEATC y las imágenes, pero conocer su lógica fortalece la interpretación.",
+    "Examinaremos estas pruebas en detalle en la próxima lección."
+   ]
+  },
+  {
+   "id": "yonlendirme",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Derivación",
+   "baslik": "¿Cuándo *derivar?*",
+   "maddeler": [
+    {
+     "metin": "Pérdida neurosensorial _asimétrica_ sin explicación",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Tinnitus unilateral, puntaje _desproporcionado_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Reflejo o _PEATC_ anormales",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Pérdida súbita: médico _el mismo día_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "CIRCUITO",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "odyolog",
+      "baslik": "Audiólogo",
+      "metin": "Informa los hallazgos",
+      "cumle": 4
+     },
+     {
+      "ikon": "hekim",
+      "baslik": "Médico",
+      "metin": "Examen, decisión sobre imágenes",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Una pérdida neurosensorial asimétrica que el ruido, la edad o una causa conocida no explican requiere derivación al médico.",
+    "El tinnitus unilateral y un puntaje de habla desproporcionadamente bajo para la pérdida también son motivos de derivación.",
+    "Los hallazgos del reflejo acústico o de los PEATC que son anormales en sentido retrococlear refuerzan esta decisión.",
+    "La pérdida neurosensorial súbita tiene su propia urgencia, y el paciente se deriva al médico sin demora.",
+    "El audiólogo comunica los hallazgos en un informe claro e indica el motivo de la derivación.",
+    "El médico decide si se necesitan estudios adicionales, como la resonancia magnética."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "El audiograma _no distingue_ cóclea y nervio",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Alarmas: _asimetría_, tinnitus, puntaje bajo",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "La batería se interpreta _en conjunto_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "El audiólogo _deriva_, el médico decide",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "El audiograma tonal por sí solo no puede indicar si una pérdida neurosensorial es coclear o retrococlear.",
+    "La pérdida asimétrica, el tinnitus unilateral y un puntaje de habla desproporcionadamente bajo son los principales signos de alarma.",
+    "Los hallazgos de habla, reflejo, OEA y PEATC se interpretan en conjunto con el principio de verificación cruzada.",
+    "Ante signos de alarma, el papel del audiólogo es informar los hallazgos y derivar; la decisión sobre más estudios corresponde al médico."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cuál orienta hacia un sitio retrococlear?",
+   "secenekler": [
+    "Puntaje de habla acorde con la pérdida",
+    "Rollover marcado",
+    "Reflejo con nivel de sensación bajo",
+    "Pérdida simétrica en agudos"
+   ],
+   "dogru": 1,
+   "aciklama": "Una caída marcada del puntaje a intensidad alta, llamada _rollover_, orienta hacia un sitio retrococlear.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál de las siguientes opciones orienta hacia un sitio retrococlear?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: rollover marcado.",
+    "Las demás opciones encajan mejor con una pérdida coclear; aun así, ningún hallazgo aislado permite la distinción por sí solo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Pruebas supraumbrales: ABLB, *SISI* y tone decay",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección conoceremos las pruebas supraumbrales clásicas: ABLB, SISI y la prueba de deterioro tonal.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

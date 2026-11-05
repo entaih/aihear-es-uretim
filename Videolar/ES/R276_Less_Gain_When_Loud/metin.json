@@ -1,0 +1,162 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R276_Less_Gain_When_Loud_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #276",
+  "baslik": "*Menos ganancia* si suena fuerte",
+  "alt": "La compresión y la curva de entrada y salida",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 30,
+    "max": 100,
+    "adim": 10,
+    "ad": "Entrada (dB SPL)"
+   },
+   "y": {
+    "min": 60,
+    "max": 130,
+    "adim": 10,
+    "ad": "Salida (dB SPL)"
+   },
+   "seriler": [
+    {
+     "ad": "linear",
+     "noktalar": [
+      [
+       30,
+       65
+      ],
+      [
+       95,
+       130
+      ]
+     ],
+     "renk": "gri",
+     "kesik": true
+    },
+    {
+     "ad": "compression",
+     "noktalar": [
+      [
+       30,
+       65
+      ],
+      [
+       50,
+       85
+      ],
+      [
+       70,
+       95
+      ],
+      [
+       90,
+       105
+      ],
+      [
+       100,
+       106
+      ]
+     ],
+     "renk": "mavi",
+     "kalin": 6
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Por qué un audífono da menos ganancia a los sonidos fuertes? #shorts",
+  "aciklama": "En la pérdida coclear, los umbrales suben, pero los niveles de molestia a menudo se mantienen; la compresión ajusta un amplio rango de entrada a este espacio reducido. En este ejemplo, la ganancia es de 35 dB con una entrada de 40 dB, de 25 con 70 dB y de 15 con 90 dB, así que un rango de entrada de 50 dB cabe en 30 dB de salida.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audifonos",
+   "compresion"
+  ],
+  "etiketler": [
+   "compresión",
+   "WDRC",
+   "función de entrada y salida",
+   "relación de compresión",
+   "rango dinámico",
+   "audífono",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Por qué un audífono da menos ganancia a los sonidos fuertes?",
+  "bilgiler": [
+   "Los sonidos suaves reciben más ganancia; los fuertes, menos.",
+   "Aquí, la ganancia baja de 35 a 25 y luego a 15 dB.",
+   "Un rango de entrada de 50 dB cabe en 30 dB de salida."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "compresion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #276",
+   "metin": "¿Por qué se *reduce* la ganancia?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Por qué un audífono da menos ganancia a los sonidos fuertes?"
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "zincir",
+   "baslik": "Ganancia según el *nivel de entrada*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Entrada 40 dB",
+     "tr": "ganancia 35",
+     "cumle": 1
+    },
+    {
+     "ad": "Entrada 70 dB",
+     "tr": "ganancia 25",
+     "cumle": 2
+    },
+    {
+     "ad": "Entrada 90 dB",
+     "tr": "ganancia 15",
+     "cumle": 3
+    }
+   ],
+   "alt": "Más para lo suave, _menos para lo fuerte_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "En la pérdida coclear, los umbrales suben, pero los niveles de molestia a menudo no cambian.",
+    "Aquí, un sonido suave de 40 dB recibe 35 dB de ganancia.",
+    "Con una entrada de 70 dB, la ganancia baja a 25 dB.",
+    "Para un sonido fuerte de 90 dB, la ganancia es de solo 15 dB.",
+    "Así, un rango de entrada de 50 dB cabe en 30 dB de salida."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D181",
+ "kaynak_baslik": "Compresión en audífonos: WDRC, umbral y relación"
+}

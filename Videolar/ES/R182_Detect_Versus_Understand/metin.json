@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R182_Detect_Versus_Understand_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #182",
+  "baslik": "Detectar frente a *comprender*",
+  "alt": "La diferencia entre el UDP y el URP",
+  "cizim": "konusma_muzu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Cuántos decibeles separan detectar el habla de comprenderla? #shorts",
+  "aciklama": "El umbral de detección de la palabra (UDP) es el nivel más bajo al que se percibe el habla; el umbral de recepción de la palabra (URP) es el nivel más bajo al que se repite correctamente la mitad de las palabras. Como comprender requiere más energía sonora, el UDP suele ser unos 8 a 10 dB mejor.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "habla",
+   "audiometria"
+  ],
+  "etiketler": [
+   "logoaudiometría",
+   "UDP",
+   "URP",
+   "umbral de detección de la palabra",
+   "umbral de recepción de la palabra",
+   "audiometría",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Cuántos decibeles separan detectar el habla de comprenderla?",
+  "bilgiler": [
+   "El UDP es el nivel más bajo al que se percibe el habla.",
+   "El URP es el nivel más bajo con la mitad de las palabras correctas.",
+   "El UDP suele ser unos 8 a 10 dB mejor que el URP."
+  ],
+  "hashtag": [
+   "audiologia",
+   "habla",
+   "audiometria"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #182",
+   "metin": "Oír frente a comprender: *¿cuántos decibeles?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Cuántos decibeles separan detectar el habla de comprenderla?"
+   ]
+  },
+  {
+   "id": "sdt",
+   "tur": "zincir",
+   "baslik": "Detectar no es *comprender*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "UDP",
+     "tr": "detección",
+     "cumle": 0
+    },
+    {
+     "ad": "URP",
+     "tr": "50 % correcto",
+     "cumle": 1
+    },
+    {
+     "ad": "Diferencia",
+     "tr": "8 a 10 dB",
+     "cumle": 3
+    }
+   ],
+   "alt": "Comprender _requiere más energía_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "El umbral de detección de la palabra (UDP) es el nivel en que el habla se percibe por primera vez.",
+    "El umbral de recepción de la palabra (URP) exige la mitad de las palabras correctas.",
+    "Comprender requiere más energía sonora que solo detectar.",
+    "Por eso el UDP suele ser unos ocho a diez decibeles mejor.",
+    "El UDP es útil en niños pequeños que todavía no pueden realizar un URP."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D094",
+ "kaynak_baslik": "¿Para qué la logoaudiometría? Objetivos y pruebas"
+}

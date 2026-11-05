@@ -1,0 +1,727 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D057_Tuning_Fork_Tests_ES",
+ "kapak": {
+  "ust": "LECCIÓN 57",
+  "baslik": "Pruebas con<br>*diapasón*",
+  "alt": "Rinne, Weber y Bing",
+  "cizim": "diyapazon"
+ },
+ "youtube": {
+  "baslik": "Pruebas con diapasón: Rinne, Weber y Bing | Lección 57 | AIHEAR Academia de Audiología",
+  "aciklama": "Las pruebas con diapasón dan una información preliminar rápida sobre el tipo de pérdida auditiva. En esta lección vemos cómo usar un diapasón de 512 Hz, qué significan los resultados positivo y negativo del Rinne, la lateralización en la prueba de Weber, el efecto de oclusión en la prueba de Bing y los límites de estas pruebas.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin and Clark, Introduction to Audiology; Roeser, Valente and Hosford-Dunn, Audiology: Diagnosis.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "diapason",
+   "audicion"
+  ],
+  "etiketler": [
+   "pruebas con diapasón",
+   "diapasón",
+   "prueba de Rinne",
+   "prueba de Weber",
+   "prueba de Bing",
+   "acumetría",
+   "efecto de oclusión",
+   "hipoacusia conductiva",
+   "hipoacusia neurosensorial",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 57",
+   "baslik": "Pruebas con *diapasón*: Rinne, Weber y Bing",
+   "alt": "Cómo realizar e interpretar las pruebas de Rinne, Weber y Bing",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprendemos tres pruebas clásicas con diapasón: las pruebas de Rinne, de Weber y de Bing.",
+    "Veremos cómo se hace cada prueba, qué significan sus resultados y cuáles son sus límites."
+   ]
+  },
+  {
+   "id": "frekans",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El diapasón",
+   "baslik": "¿Por qué *512 Hz?*",
+   "maddeler": [
+    {
+     "metin": "256 Hz: se siente más _vibración_",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "1024 Hz: el sonido se _apaga_ rápido",
+     "cumle": 3,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "512 Hz: el mejor _equilibrio_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "diyapazon",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "diyapazon",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "diyapazon",
+      "metin": "Diapasón",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Un diapasón es una horquilla metálica que, al golpearla, vibra a una frecuencia fija y produce un sonido cercano a un tono puro.",
+    "Se usaba para distinguir los tipos de pérdida auditiva mucho antes del audiómetro, y aún hoy es una prueba rápida de cabecera.",
+    "Los diapasones más graves, como el de doscientos cincuenta y seis hertz, se perciben fácilmente como vibración sobre el hueso.",
+    "En cambio, el sonido de un diapasón de mil veinticuatro hertz se apaga muy rápido.",
+    "Quinientos doce hertz ofrece un buen equilibrio entre ambos, por eso es la frecuencia más elegida."
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El diapasón",
+   "baslik": "La *técnica* correcta",
+   "maddeler": [
+    {
+     "metin": "Tomar el mango, _no tocar_ las ramas",
+     "cumle": 0,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Golpear _suavemente_ en almohadilla o rodilla",
+     "cumle": 1,
+     "ikon": "diyapazon"
+    },
+    {
+     "metin": "No golpear una superficie dura",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Elegir una sala silenciosa",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "RECUERDA",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kronometre",
+      "baslik": "Rapidez",
+      "metin": "Al punto de prueba en segundos",
+      "cumle": 3
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Información cualitativa",
+      "metin": "Sin resultado numérico",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "El diapasón se toma por el mango; tocar las ramas que vibran detiene la vibración de inmediato.",
+    "Las ramas se ponen a vibrar golpeándolas suavemente sobre una almohadilla de goma, la rodilla o el codo.",
+    "Golpear una superficie dura, como una mesa, crea armónicos no deseados y distorsiona el sonido.",
+    "El diapasón en vibración debe llevarse al punto de prueba en pocos segundos, porque el sonido se apaga con el tiempo.",
+    "La prueba debe hacerse en una sala lo más silenciosa posible.",
+    "Como la fuerza del golpe varía un poco cada vez, las pruebas con diapasón dan información cualitativa, no numérica."
+   ]
+  },
+  {
+   "id": "rinne",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "La prueba de Rinne",
+   "baslik": "La prueba de *Rinne*",
+   "cizim": "diyapazon",
+   "ayar": {
+    "test": "rinne"
+   },
+   "vurgula": [
+    {
+     "parca": "mastoid",
+     "cumle": 1
+    },
+    {
+     "parca": "kulak",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "mastoid",
+     "metin": "mastoides: vía ósea",
+     "cumle": 1
+    },
+    {
+     "parca": "kulak",
+     "metin": "entrada del conducto: vía aérea",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "La prueba de Rinne compara la conducción aérea con la conducción ósea en el mismo oído.",
+    "El mango del diapasón en vibración se apoya en la apófisis mastoides, detrás del oído que se evalúa.",
+    "Luego, las ramas se sostienen a unos dos centímetros y medio delante de la entrada del conducto auditivo.",
+    "En el método más común, se pregunta al paciente si el sonido es más fuerte sobre el hueso o delante del oído.",
+    "En otro método, se espera a que el sonido se apague sobre el hueso y luego se lleva el diapasón directamente delante del oído.",
+    "En este método por tiempos, si el paciente vuelve a oír el sonido delante del oído, la conducción aérea es mejor."
+   ]
+  },
+  {
+   "id": "rinne_yorum",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 2",
+   "bolum": "La prueba de Rinne",
+   "baslik": "Interpretación del *Rinne*",
+   "sol": {
+    "ust": "Rinne positivo",
+    "maddeler": [
+     {
+      "metin": "Vía aérea _mejor_ que la ósea",
+      "cumle": 0
+     },
+     {
+      "metin": "Oído normal",
+      "cumle": 1
+     },
+     {
+      "metin": "O pérdida neurosensorial",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Rinne negativo",
+    "maddeler": [
+     {
+      "metin": "Vía ósea _mejor_ que la aérea",
+      "cumle": 3
+     },
+     {
+      "metin": "Sugiere un problema conductivo",
+      "cumle": 4
+     },
+     {
+      "metin": "Requiere una brecha aéreo-ósea clara",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Si el sonido por conducción aérea es más fuerte que por conducción ósea, el resultado se registra como Rinne positivo.",
+    "El Rinne positivo es lo esperable en un oído normal o en una pérdida neurosensorial, porque ambas vías se afectan a la vez.",
+    "Noten que aquí la palabra positivo significa normal; esta denominación suele confundir a los estudiantes.",
+    "Si el sonido por conducción ósea es más fuerte, el resultado es Rinne negativo.",
+    "El Rinne negativo sugiere un problema conductivo en ese oído, es decir, una brecha aéreo-ósea.",
+    "Pero con brechas pequeñas la prueba suele seguir positiva; en quinientos doce hertz suele hacer falta una brecha de unos veinte a treinta decibeles."
+   ]
+  },
+  {
+   "id": "yanlis_negatif",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "La prueba de Rinne",
+   "baslik": "Falso Rinne *negativo*",
+   "maddeler": [
+    {
+     "metin": "Pérdida neurosensorial unilateral _severa_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "La vibración _llega_ a la otra cóclea",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Hay que _enmascarar_ el otro oído",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "ayar": {
+     "ia_db": 0
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kafatasi",
+      "cumle": 1
+     },
+     {
+      "parca": "karsi_kulak",
+      "cumle": 2
+     },
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "karsi_kulak",
+      "metin": "Oye el oído bueno",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Una trampa importante de la prueba de Rinne es la pérdida neurosensorial unilateral severa.",
+    "La vibración en el cráneo llega a ambas cócleas casi sin pérdida.",
+    "Por eso, cuando el diapasón se apoya en la mastoides del oído malo, el paciente en realidad lo oye con el oído bueno.",
+    "Como el oído malo no oye el sonido por vía aérea, el resultado es Rinne negativo, aunque no haya un problema conductivo.",
+    "Esto se llama falso Rinne negativo; para distinguirlo hay que enmascarar con ruido el oído bueno.",
+    "La prueba de Weber también ayuda en esta situación; pasemos ahora a ella."
+   ]
+  },
+  {
+   "id": "weber",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "La prueba de Weber",
+   "baslik": "La prueba de *Weber*",
+   "cizim": "diyapazon",
+   "ayar": {
+    "test": "weber"
+   },
+   "vurgula": [
+    {
+     "parca": "alin",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "alin",
+     "metin": "línea media de la frente",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Otros puntos: vértex, dorso nasal, incisivos superiores",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Pregunta: ¿Dónde oye el sonido?",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Normal: en el centro o dentro de la cabeza",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "En la prueba de Weber, el mango del diapasón en vibración se apoya en la línea media de la cabeza, por lo general en el centro de la frente.",
+    "También pueden usarse el vértex, el dorso de la nariz o los incisivos superiores.",
+    "Se pregunta al paciente dónde oye el sonido: ¿en el centro, a la derecha o a la izquierda?",
+    "La pregunta no debe ser inductiva; pregunten dónde oye el sonido, no con qué oído lo oye.",
+    "Con audición normal, o con una pérdida simétrica en ambos oídos, el sonido se oye en el centro o dentro de la cabeza.",
+    "Algunos pacientes no logran ubicar el sonido en ningún lado; en ese caso, el resultado se registra como indeterminado."
+   ]
+  },
+  {
+   "id": "weber_yorum",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 3",
+   "bolum": "La prueba de Weber",
+   "baslik": "*Lateralización* en la prueba de Weber",
+   "sol": {
+    "ust": "Pérdida conductiva",
+    "maddeler": [
+     {
+      "metin": "El sonido va al oído _peor_",
+      "cumle": 0
+     },
+     {
+      "metin": "Menos enmascaramiento por el ruido ambiente",
+      "cumle": 1
+     },
+     {
+      "metin": "Un efecto similar a la oclusión",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Pérdida neurosensorial",
+    "maddeler": [
+     {
+      "metin": "El sonido va al oído _mejor_",
+      "cumle": 3
+     },
+     {
+      "metin": "La cóclea más sana es más sensible",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "En una pérdida conductiva unilateral, el sonido se oye en el oído peor; este desplazamiento hacia un lado se llama lateralización.",
+    "Una razón es que, en el oído con el problema conductivo, llega menos ruido ambiente a la cóclea, que enmascara menos el sonido.",
+    "Un mecanismo parecido al efecto de oclusión y los cambios en el oído medio también contribuyen a este resultado.",
+    "En una pérdida neurosensorial unilateral, el sonido se oye en el oído mejor, porque la cóclea más sana es más sensible a la vibración.",
+    "La prueba de Weber es bastante sensible incluso a pérdidas conductivas unilaterales pequeñas.",
+    "Interpretar el Weber junto con el Rinne da mucha más información que cualquiera de las dos pruebas por separado."
+   ]
+  },
+  {
+   "id": "bing",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "La prueba de Bing",
+   "baslik": "La prueba de *Bing*",
+   "cizim": "diyapazon",
+   "ayar": {
+    "test": "bing"
+   },
+   "vurgula": [
+    {
+     "parca": "mastoid",
+     "cumle": 0
+    },
+    {
+     "parca": "kulak",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "mastoid",
+     "metin": "mastoides: diapasón",
+     "cumle": 0
+    },
+    {
+     "parca": "kulak",
+     "metin": "trago: cerrar y abrir el conducto",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Normal y neurosensorial: el sonido aumenta",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Conductiva: sin cambio",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "En la prueba de Bing, el diapasón también se apoya en la mastoides.",
+    "Mientras tanto, el conducto auditivo se cierra y se abre alternadamente presionando el trago.",
+    "En un oído normal o con pérdida neurosensorial, el sonido es más fuerte con el conducto cerrado; esto se llama Bing positivo.",
+    "En la pérdida conductiva, cerrar el conducto casi no cambia el sonido; esto se llama Bing negativo.",
+    "El aumento se debe al efecto de oclusión: un conducto cerrado refuerza el sonido por vía ósea, sobre todo en los graves.",
+    "En un oído con un problema conductivo, este efecto ya está presente en gran parte, por lo que cerrar el conducto no añade cambios.",
+    "La prueba de Bing puede ser una fuente adicional de información cuando el resultado del Rinne no es claro."
+   ]
+  },
+  {
+   "id": "tablo",
+   "tur": "tablo",
+   "bolum_no": "PARTE 5",
+   "bolum": "Interpretación y límites",
+   "baslik": "*Combinar* los hallazgos",
+   "sutunlar": [
+    "Caso de ejemplo",
+    "Rinne",
+    "Weber",
+    "Bing"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Audición normal",
+      "Positivo",
+      "Centro",
+      "Positivo"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Conductiva derecha",
+      "Negativo a la derecha",
+      "A la derecha",
+      "Negativo a la derecha"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Neurosensorial derecha",
+      "Positivo a la derecha",
+      "A la izquierda",
+      "Positivo a la derecha"
+     ],
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Combinemos las tres pruebas en una tabla: con audición normal, el Rinne y el Bing son positivos, y el Weber se oye en el centro.",
+    "En este ejemplo, si el oído derecho tiene una pérdida conductiva, el Rinne y el Bing son negativos en el oído derecho, y el Weber lateraliza a la derecha.",
+    "Si el oído derecho tiene una pérdida neurosensorial, el Rinne y el Bing siguen positivos, y el Weber lateraliza a la izquierda, el oído mejor.",
+    "Cuando los resultados coinciden, dan una información preliminar valiosa sobre el tipo de pérdida antes de la audiometría tonal.",
+    "Si los resultados se contradicen, se confía más en los hallazgos audiométricos y, si es necesario, se repite la prueba.",
+    "Entender la lógica dura más que memorizar la tabla: en la pérdida conductiva, la vía ósea es relativamente fuerte frente a la aérea."
+   ]
+  },
+  {
+   "id": "vaka",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 5",
+   "bolum": "Interpretación y límites",
+   "baslik": "Ejemplo: pérdida conductiva *derecha*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Vía aérea_: oído derecho",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Vía ósea enmascarada_: oído derecho",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Vía aérea_: oído izquierdo",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       45,
+       45,
+       40,
+       40,
+       45,
+       50
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      45
+     ],
+     "etiket": "35 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "En este audiograma de ejemplo, la vía aérea del oído derecho está entre cuarenta y cincuenta dB HL, y la vía ósea enmascarada es normal.",
+    "En este ejemplo, el oído izquierdo está dentro de los límites normales.",
+    "En quinientos hertz hay una brecha aéreo-ósea de unos treinta y cinco decibeles.",
+    "Con este cuadro, esperaríamos un Rinne negativo en el oído derecho.",
+    "En la prueba de Weber, esperaríamos que el sonido lateralice a la derecha, el oído con la pérdida.",
+    "La prueba de Bing también sería negativa en el oído derecho; cerrar el conducto casi no cambiaría el sonido."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Interpretación y límites",
+   "baslik": "*Limitaciones*",
+   "maddeler": [
+    {
+     "metin": "La fuerza del golpe y la sala _varían_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Puede pasar por alto pérdidas conductivas pequeñas",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Menos confiable_ en niños",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "_No reemplaza_ la audiometría",
+     "cumle": 3,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "OTRAS OPCIONES",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "kitap",
+      "baslik": "Prueba de Schwabach",
+      "metin": "Poco usada hoy",
+      "cumle": 4
+     },
+     {
+      "ikon": "kemik_vibratoru",
+      "baslik": "Weber audiométrico",
+      "metin": "Una opción más controlada",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Las pruebas con diapasón son rápidas y económicas, pero la fuerza del golpe y el ruido de la sala afectan los resultados.",
+    "La prueba de Rinne puede pasar por alto brechas aéreo-óseas pequeñas.",
+    "La confiabilidad disminuye en niños pequeños y en personas a las que les cuesta responder.",
+    "Por eso, las pruebas con diapasón son una herramienta de tamizaje y de verificación cruzada; no reemplazan la audiometría.",
+    "Se han descrito otras pruebas con diapasón, como la de Schwabach, pero hoy se usan poco.",
+    "El Weber audiométrico, hecho con el audiómetro y el vibrador óseo en la frente, es una opción más controlada."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 5",
+   "bolum": "Interpretación y límites",
+   "baslik": "Consejo clínico",
+   "metin": "Si el audiograma muestra una pérdida conductiva unilateral, hacer también un Weber; si lateraliza al otro oído, revisar la vía ósea y el enmascaramiento.",
+   "cumleler": [
+    "Un consejo de la práctica: cuando vean una pérdida conductiva unilateral en el audiograma, hagan también la prueba de Weber.",
+    "Un Weber que lateraliza al oído con la pérdida es una verificación cruzada que concuerda con el audiograma.",
+    "Si, contra lo esperado, el Weber lateraliza al otro oído, revisen los resultados de la vía ósea y los niveles de enmascaramiento.",
+    "Esta pequeña comprobación puede ayudarles a detectar a tiempo los errores de enmascaramiento."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "El más usado: el diapasón de _512 Hz_",
+     "cumle": 0,
+     "ikon": "diyapazon"
+    },
+    {
+     "metin": "Rinne negativo sugiere un problema _conductivo_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Weber: conductiva al oído _peor_, neurosensorial al mejor",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Bing: evalúa el _efecto de oclusión_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "En las pruebas con diapasón, el más usado es el diapasón de quinientos doce hertz.",
+    "La prueba de Rinne compara la vía aérea y la ósea en el mismo oído; un resultado negativo sugiere un problema conductivo.",
+    "En la prueba de Weber, el sonido lateraliza al oído peor en la pérdida conductiva y al oído mejor en la neurosensorial.",
+    "La prueba de Bing evalúa el efecto de oclusión; ninguna de estas pruebas reemplaza la audiometría."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Con una pérdida conductiva izquierda, ¿hacia dónde lateraliza el Weber?",
+   "secenekler": [
+    "Al oído derecho",
+    "Al oído izquierdo",
+    "Queda en el centro",
+    "No se oye"
+   ],
+   "dogru": 1,
+   "aciklama": "En la pérdida conductiva, el Weber lateraliza al _oído con la pérdida_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en una persona con pérdida conductiva solo en el oído izquierdo, ¿dónde se oye el sonido en la prueba de Weber?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: en el oído izquierdo.",
+    "En la pérdida conductiva, el sonido lateraliza al oído con la pérdida, donde el ruido ambiente lo enmascara menos."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cómo funciona un audiómetro: *controles* y transductores",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección conoceremos los controles del audiómetro y los transductores, como los auriculares y el vibrador óseo.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

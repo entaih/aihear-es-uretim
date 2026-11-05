@@ -1,0 +1,87 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R358_Where_the_Chair_Sits_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #358",
+  "baslik": "Dónde va *la silla*",
+  "alt": "Medio metro en campo libre: 6 dB",
+  "cizim": "test_kabini",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Adelantar la silla medio metro cambia el resultado? #shorts",
+  "aciklama": "En las pruebas en campo libre, la cabeza del paciente debe estar en el punto donde se hizo la calibración. Un paciente sentado a medio metro de un altavoz calibrado a un metro recibe, en teoría, unos 6 decibeles más; las reflexiones de la sala pueden reducir un poco la diferencia, pero los umbrales seguirán siendo erróneos. Marcar la posición de la silla en el piso es una solución sencilla.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "campolibre",
+   "calibracion"
+  ],
+  "etiketler": [
+   "campo libre",
+   "calibración del altavoz",
+   "ley del cuadrado inverso",
+   "cálculos con decibeles",
+   "sala de pruebas",
+   "medición de umbrales",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Adelantar la silla medio metro cambia el resultado?",
+  "bilgiler": [
+   "La cabeza del paciente debe estar en el punto de calibración.",
+   "Medio metro más cerca da unos 6 dB más, en teoría.",
+   "Marca la posición de la silla en el piso."
+  ],
+  "hashtag": [
+   "audiologia",
+   "campolibre",
+   "calibracion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #358",
+   "metin": "¿Importa *medio metro?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Adelantar la silla medio metro cambia el resultado?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Medio metro más cerca: *más nivel*",
+   "sayi": "6",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "En las pruebas en campo libre, la cabeza debe estar en el punto de calibración.",
+    "Si se calibró a un metro, el altavoz suena más fuerte a medio metro.",
+    "En teoría, la diferencia es de unos seis decibeles.",
+    "Las reflexiones pueden reducirla un poco, pero los umbrales seguirán siendo erróneos.",
+    "Marcar la posición de la silla en el piso es una solución sencilla."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D014",
+ "kaynak_baslik": "Cálculos con decibeles: suma de sonidos y distancia"
+}

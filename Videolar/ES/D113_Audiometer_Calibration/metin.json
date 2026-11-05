@@ -1,0 +1,842 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D113_Audiometer_Calibration_ES",
+ "kapak": {
+  "ust": "LECCIÓN 113",
+  "baslik": "Calibración<br>*del audiómetro*",
+  "alt": "Normas, acopladores y niveles de control",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Calibración del audiómetro: por qué y cómo | Lección 113 | AIHEAR Academia de Audiología",
+  "aciklama": "La calibración del audiómetro verifica que el sonido que producen los auriculares, los vibradores óseos y los altavoces concuerde con normas como ISO 389 e IEC 60645. En esta lección vemos el concepto de RETSPL, el papel del oído artificial, el acoplador y el sonómetro, las propiedades que se miden y los niveles de calibración diario, periódico y completo.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: ISO 389 series, Acoustics: Reference zero for the calibration of audiometric equipment; IEC 60645-1, Electroacoustics: Audiometric equipment, Part 1; ANSI/ASA S3.6, Specification for Audiometers; IEC 60318 series, Simulators of human head and ear; ISO 8253-1, Acoustics: Audiometric test methods, Part 1; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "calibracion",
+   "audiometria"
+  ],
+  "etiketler": [
+   "calibración del audiómetro",
+   "calibración",
+   "RETSPL",
+   "oído artificial",
+   "acoplador",
+   "sonómetro",
+   "ISO 389",
+   "IEC 60645",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 113",
+   "baslik": "*Calibración* del audiómetro: por qué y cómo",
+   "alt": "¿Por qué es necesaria y cómo se hace?",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos por qué es necesaria la calibración del audiómetro, en qué normas se basa y cómo se realiza.",
+    "Hablaremos del papel del oído artificial, el acoplador y el sonómetro, y de los tres niveles de calibración."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué?",
+   "baslik": "¿*Por qué* es necesaria la calibración?",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Umbral exacto",
+     "metin": "¿Es real el valor indicado?",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Desgaste",
+     "metin": "Caídas, cables, componentes",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Error sistemático",
+     "metin": "Afecta a todos los pacientes",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Comparación",
+     "metin": "Entre clínicas y en el tiempo",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Si la pantalla del audiómetro indica cuarenta decibeles HL, el auricular debe producir realmente ese nivel.",
+    "Calibrar significa medir cuánto concuerda el sonido que produce el equipo con los valores estándar y corregirlo si hace falta.",
+    "Los auriculares pueden caerse, los cables pueden desgastarse y los componentes electrónicos pueden cambiar con el tiempo.",
+    "Si estos pequeños cambios pasan inadvertidos, los umbrales de todos los pacientes serán sistemáticamente erróneos.",
+    "Poder comparar los resultados de un mismo paciente entre clínicas o a lo largo de los años también depende de la calibración.",
+    "Por eso la calibración forma parte tanto de la exactitud clínica como de la responsabilidad profesional."
+   ]
+  },
+  {
+   "id": "standartlar",
+   "tur": "tablo",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué?",
+   "baslik": "*Normas* clave",
+   "sutunlar": [
+    "Norma",
+    "Tema"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Serie ISO 389",
+      "Niveles de referencia cero"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "IEC 60645-1",
+      "Especificaciones del audiómetro"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "ANSI S3.6",
+      "Norma estadounidense de audiómetros"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Serie IEC 60318",
+      "Simuladores de oído, acopladores"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "ISO 8253-1",
+      "Método de prueba, controles"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La calibración se hace frente a valores definidos en normas internacionales.",
+    {
+     "yazi": "La serie ISO 389 da los valores de referencia que corresponden a cero dB HL para cada auricular y cada frecuencia.",
+     "ses": "La serie iso trescientos ochenta y nueve da los valores de referencia que corresponden a cero decibeles hache ele para cada auricular y cada frecuencia."
+    },
+    {
+     "yazi": "La IEC 60645-1 define las propiedades técnicas del audiómetro, como la frecuencia, el nivel y la distorsión.",
+     "ses": "La i e ce sesenta y seis cuarenta y cinco, parte uno, define las propiedades técnicas del audiómetro, como la frecuencia, el nivel y la distorsión."
+    },
+    {
+     "yazi": "En Estados Unidos, los mismos temas los cubre la norma ANSI S3.6.",
+     "ses": "En Estados Unidos, los mismos temas los cubre la norma ansi ese tres punto seis."
+    },
+    {
+     "yazi": "La serie IEC 60318 define los simuladores de oído y los acopladores que se usan en la medición.",
+     "ses": "La serie i e ce sesenta y tres dieciocho define los simuladores de oído y los acopladores que se usan en la medición."
+    },
+    {
+     "yazi": "La ISO 8253-1 trata el método de prueba y con qué frecuencia deben controlarse los equipos.",
+     "ses": "La iso ochenta y dos cincuenta y tres, parte uno, trata el método de prueba y con qué frecuencia deben controlarse los equipos."
+    }
+   ]
+  },
+  {
+   "id": "retspl",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "El sistema de medición",
+   "baslik": "Referencia cero: *RETSPL*",
+   "maddeler": [
+    {
+     "metin": "0 dB HL: _umbral normal promedio_",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Su equivalente: _RETSPL_ (dB SPL)",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "TDH-39, 1000 Hz: _unos 7 dB SPL_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Vía ósea: _RETFL_ (fuerza)",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 200,
+      "max": 9000,
+      "log": true,
+      "hz": true,
+      "isaretler": [
+       250,
+       500,
+       1000,
+       2000,
+       4000,
+       8000
+      ],
+      "ad": "Frecuencia (Hz)"
+     },
+     "y": {
+      "min": 0,
+      "max": 30,
+      "adim": 10,
+      "ad": "0 dB HL (dB SPL)"
+     },
+     "seriler": [
+      {
+       "ad": "retspl",
+       "noktalar": [
+        [
+         250,
+         25.5
+        ],
+        [
+         500,
+         11.5
+        ],
+        [
+         1000,
+         7
+        ],
+        [
+         2000,
+         9
+        ],
+        [
+         4000,
+         9.5
+        ],
+        [
+         8000,
+         13
+        ]
+       ],
+       "renk": "mavi",
+       "isaretli": true,
+       "yumusak": true,
+       "etiket": "TDH-39",
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Recordemos de lecciones anteriores: cero decibeles HL es el umbral promedio de adultos jóvenes con audición normal.",
+    {
+     "yazi": "El nivel de presión sonora que corresponde a este umbral en cada frecuencia es el nivel de presión sonora umbral equivalente de referencia, o RETSPL."
+    },
+    {
+     "yazi": "Por ejemplo, con el auricular TDH-39 en mil hertz, cero dB HL corresponde a unos siete dB SPL."
+    },
+    {
+     "yazi": "Para el vibrador óseo se mide la fuerza en lugar de la presión sonora; es el nivel de fuerza umbral equivalente de referencia, o RETFL."
+    },
+    "El objetivo de la calibración es verificar que el audiómetro sume la cantidad correcta sobre estos valores de referencia en cada ajuste.",
+    "Como los valores de referencia dependen del transductor y del sistema de medición, hay que elegir la tabla del auricular que se está usando."
+   ]
+  },
+  {
+   "id": "yapay_kulak",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El sistema de medición",
+   "baslik": "Oído artificial y *acoplador*",
+   "cizim": "kuplor",
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    },
+    {
+     "parca": "bosluk",
+     "cumle": 3
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 5
+    },
+    {
+     "parca": "olcum_mikrofonu",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kulaklik",
+     "metin": "Se coloca sobre el acoplador",
+     "cumle": 1
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "Se mide en una mastoides artificial",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Oído artificial: imita el oído",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Acoplador: 6 ml o 2 ml",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "La lectura: dB SPL",
+     "cumle": 6,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "Para medir el sonido que produce un auricular, se usa un dispositivo que reemplaza al oído humano.",
+    "Un oído artificial es una cavidad de medición que imita el volumen y las propiedades acústicas del oído cubierto por el auricular.",
+    "Las cavidades de medición más simples, de paredes rígidas y volumen fijo, se llaman acopladores.",
+    "Un ejemplo común para los auriculares supraaurales es el acoplador de seis mililitros.",
+    "Para los auriculares de inserción se usa un acoplador de dos mililitros o un simulador de oído ocluido.",
+    "El vibrador óseo se mide en una mastoides artificial, que imita la cabeza humana.",
+    "Un micrófono sensible dentro del acoplador transmite el sonido al sonómetro, y el nivel se lee en decibeles SPL."
+   ],
+   "ayar": {
+    "mod": "kalibrasyon",
+    "goster": {
+     "yapay_mastoid": 5
+    }
+   }
+  },
+  {
+   "id": "olcer",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "El sistema de medición",
+   "baslik": "El *sonómetro*",
+   "maddeler": [
+    {
+     "metin": "_Sonómetro_: de señal a dB SPL",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Por lo general, equipo _clase 1_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Filtros de octava_: medición de ruido",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Antes se verifica con _calibrador acústico_",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "CALIBRADOR",
+    "metin": "Una referencia fija como *94 dB SPL* en 1000 Hz",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Un sonómetro es un instrumento de medición que convierte la señal de un micrófono en un nivel de presión sonora.",
+    {
+     "yazi": "En la calibración suele usarse un sonómetro de clase 1, la clase de mayor exactitud de la norma IEC 61672.",
+     "ses": "En la calibración suele usarse un sonómetro de clase uno, la clase de mayor exactitud de la norma i e ce sesenta y uno seis setenta y dos."
+    },
+    "Se necesitan filtros de octava o de tercio de octava para medir las señales de ruido y el ruido ambiental.",
+    "Antes de medir, el propio sonómetro se verifica con un calibrador acústico que produce un sonido de nivel conocido.",
+    "Por ejemplo, un calibrador acústico produce un sonido de referencia fijo, como noventa y cuatro decibeles SPL en mil hertz.",
+    "El calibrador, el micrófono y el sonómetro también son verificados con regularidad por un laboratorio acreditado."
+   ]
+  },
+  {
+   "id": "neler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "¿Qué se mide?",
+   "baslik": "¿*Qué* se mide en la calibración?",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Nivel de salida",
+     "metin": "Cada frecuencia, cada transductor",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frecuencia",
+     "metin": "¿El tono tiene la frecuencia correcta?",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Distorsión",
+     "metin": "Armónicos bajos",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Atenuador",
+     "metin": "¿Los pasos son lineales?",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido enmascarante",
+     "metin": "Banda y nivel",
+     "cumle": 5
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Tiempos",
+     "metin": "Subida, caída, pulsado",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "En una calibración completa, primero se mide el nivel de salida en cada frecuencia y para cada transductor.",
+    "Las normas suelen admitir una tolerancia de más o menos tres decibeles para este nivel, y algo mayor en las frecuencias altas.",
+    "Se controla la exactitud de la frecuencia; un tono rotulado como mil hertz debe estar realmente cerca de mil hertz.",
+    "Se verifica la pureza del tono, es decir, que la distorsión armónica sea baja.",
+    "Se controla la linealidad del atenuador, o control de nivel: cada paso de cinco decibeles debe ser realmente de cinco decibeles.",
+    "También se miden el ancho de banda y el nivel de los ruidos enmascarantes.",
+    "Además, los tiempos de subida y caída del tono y la temporización del tono pulsado se comparan con la norma."
+   ]
+  },
+  {
+   "id": "duzeyler",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "¿Qué se mide?",
+   "baslik": "Los *tres niveles* de calibración",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Control diario",
+     "metin": "Auditivo y visual",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Medición periódica",
+     "metin": "Mediciones acústicas básicas",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Calibración completa",
+     "metin": "Todas las propiedades",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La calibración no es un único procedimiento, sino un proceso que se piensa en tres niveles.",
+    "El primer nivel es el control auditivo y visual que se hace cada día antes de evaluar; lo veremos en detalle en la próxima lección.",
+    "El segundo nivel son los controles acústicos periódicos; los niveles de salida y las propiedades básicas se controlan con instrumentos de medición.",
+    "Estos controles intermedios pueden hacerse varias veces al año, según la intensidad de uso del equipo.",
+    "El tercer nivel es la calibración completa, en la que todas las propiedades técnicas se comparan con la norma.",
+    "En muchas clínicas, la calibración completa se hace al menos una vez al año y después de cada reparación.",
+    {
+     "yazi": "La ISO 8253-1 también define los controles como etapas A, B y C; los intervalos recomendados varían entre normas.",
+     "ses": "La iso ochenta y dos cincuenta y tres, parte uno, también define los controles como etapas a, be y ce; los intervalos recomendados varían entre normas."
+    }
+   ]
+  },
+  {
+   "id": "kemik_serbest",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 4",
+   "bolum": "Otros canales",
+   "baslik": "Vía ósea y *campo libre*",
+   "sol": {
+    "ust": "Vibrador óseo",
+    "maddeler": [
+     {
+      "metin": "Se mide en mastoides artificial",
+      "cumle": 0
+     },
+     {
+      "metin": "Unidad: nivel de fuerza",
+      "cumle": 1
+     },
+     {
+      "metin": "Importa la fuerza estática",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Campo libre",
+    "maddeler": [
+     {
+      "metin": "Se mide donde irá la cabeza",
+      "cumle": 3
+     },
+     {
+      "metin": "Sin paciente en la sala",
+      "cumle": 4
+     },
+     {
+      "metin": "Tono modulado, banda estrecha",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "La salida del vibrador óseo se mide en una mastoides artificial.",
+    {
+     "yazi": "Aquí no se mide la presión sonora, sino la fuerza vibratoria que aplica el vibrador; la referencia son los valores RETFL."
+    },
+    "También importa la fuerza con que la diadema presiona el vibrador contra la cabeza; las normas definen una fuerza estática específica.",
+    "En la calibración en campo libre, el micrófono de medición se coloca donde estará la cabeza del paciente.",
+    {
+     "yazi": "Esta medición se hace sin paciente en la sala; los valores de referencia figuran en normas como la ISO 389-7.",
+     "ses": "Esta medición se hace sin paciente en la sala; los valores de referencia figuran en normas como la iso trescientos ochenta y nueve, parte siete."
+    },
+    "Al evaluar con altavoces, se usan tonos modulados en frecuencia o ruido de banda estrecha para evitar ondas estacionarias en la sala."
+   ]
+  },
+  {
+   "id": "hata",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Otros canales",
+   "baslik": "El *costo* de una calibración desviada",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 9000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ],
+     "ad": "Frecuencia (Hz)"
+    },
+    "y": {
+     "min": -10,
+     "max": 40,
+     "adim": 10,
+     "ters": true,
+     "ad": "Nivel de audición (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "gercek",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        15
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "umbral real",
+      "cumle": 1
+     },
+     {
+      "ad": "olculen",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        15
+       ],
+       [
+        4000,
+        25
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "con equipo desviado",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "centik",
+      "x": [
+       3000,
+       6000
+      ],
+      "renk": "sari",
+      "etiket": "muesca falsa",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Salida en 4000 Hz, 10 dB baja",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Una muesca falsa",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Detectarlo pronto: controles regulares",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Veamos con un ejemplo el efecto de un error de calibración.",
+    "La línea azul muestra los umbrales reales de una persona con audición normal.",
+    "En este equipo, la salida del auricular en cuatro mil hertz bajó diez decibeles; el umbral se mide diez decibeles peor.",
+    "El resultado es una falsa muesca en cuatro mil hertz que sugiere una hipoacusia inducida por ruido.",
+    "El mismo error se repite en cada paciente evaluado con ese equipo y es difícil de notar.",
+    "Los controles diarios y la calibración regular con mediciones detectan pronto errores como este."
+   ]
+  },
+  {
+   "id": "kim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Otros canales",
+   "baslik": "¿*Quién* realiza la calibración?",
+   "maddeler": [
+    {
+     "metin": "Servicio técnico o _laboratorio_",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Instrumentos de medición también _trazables_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "El profesional: _control diario_",
+     "cumle": 2,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Ante la duda: _no usar el equipo_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 0
+     },
+     {
+      "parca": "kulaklik",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "La calibración completa la realiza un servicio técnico o un laboratorio calificado que cuenta con el equipo de medición necesario.",
+    "Los propios instrumentos de medición también deben estar vinculados a una cadena de calibración trazable.",
+    "El papel del audiólogo y del audiometrista es hacer los controles diarios y notar cualquier anomalía.",
+    "Saber leer un informe de calibración y ver que los valores están dentro de la tolerancia también forma parte de esta responsabilidad.",
+    "Ante un hallazgo dudoso, el equipo se retira de uso y se llama al servicio técnico."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Los auriculares y vibradores se calibran junto con su audiómetro. Si cambian un auricular, no empiecen a evaluar pacientes antes de un control con mediciones.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo práctico: la calibración se hace para el audiómetro junto con sus propios auriculares y su vibrador óseo.",
+    "Intercambiar auriculares con los de otro equipo, o colocar un auricular nuevo, puede invalidar la calibración.",
+    "Después de un cambio así, no empiecen a evaluar pacientes antes de un control con mediciones.",
+    "Verificar los números de serie de los auriculares y del vibrador en el certificado de calibración es un buen hábito."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Registros",
+   "baslik": "El *registro* de calibración",
+   "maddeler": [
+    {
+     "metin": "Fecha y _quién midió_",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Valores medidos y _valores objetivo_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Una _etiqueta de calibración_ en el equipo",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Calibración vencida: _no evaluar_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "REGISTRO",
+    "metin": "Una calibración sin documentar cuenta como *no hecha*",
+    "cumle": 5
+   },
+   "cumleler": [
+    "El resultado de cada calibración se registra en un documento escrito.",
+    "El documento incluye la fecha, la persona o empresa que midió, los instrumentos usados y sus fechas de calibración.",
+    "Los valores medidos, los valores objetivo de la norma y las correcciones realizadas se anotan en una tabla.",
+    "Colocar en el equipo una etiqueta con la fecha de la última calibración es una práctica habitual.",
+    "No deben hacerse mediciones con un equipo cuya calibración esté vencida.",
+    "Estos registros protegen a la clínica en las auditorías de calidad y ante cualquier consulta."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Calibración: verificación frente a una _norma_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Oído artificial, _acoplador_, sonómetro",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Nivel, frecuencia, distorsión, _atenuador_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Diaria, periódica, _completa anual_",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La calibración verifica el sonido que produce el audiómetro frente a normas como la ISO 389 y la IEC 60645.",
+     "ses": "La calibración verifica el sonido que produce el audiómetro frente a normas como la iso trescientos ochenta y nueve y la i e ce sesenta y seis cuarenta y cinco."
+    },
+    "La salida del auricular se mide en decibeles SPL con un sonómetro, dentro de un oído artificial o de un acoplador.",
+    "Se controlan el nivel de salida, la exactitud de la frecuencia, la distorsión y la linealidad del atenuador.",
+    "Se combinan los controles auditivos diarios, las mediciones periódicas y, por lo general, una calibración completa anual."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "En la calibración, ¿sobre qué se mide la salida de un auricular supraaural?",
+   "secenekler": [
+    "Una mastoides artificial",
+    "Un oído artificial o acoplador",
+    "El oído del paciente",
+    "Un micrófono de campo libre"
+   ],
+   "dogru": 1,
+   "aciklama": "El auricular se coloca sobre un _oído artificial o acoplador_ que imita el oído, y el nivel se lee en dB SPL.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en la calibración, ¿sobre qué se mide el nivel de salida de un auricular supraaural?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: un oído artificial o un acoplador.",
+    "La mastoides artificial es para el vibrador óseo; el auricular se coloca sobre una cavidad de medición que imita el oído."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "El control *biológico* diario de escucha",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección recorreremos paso a paso el control biológico diario, que se hace en cinco minutos cada mañana.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

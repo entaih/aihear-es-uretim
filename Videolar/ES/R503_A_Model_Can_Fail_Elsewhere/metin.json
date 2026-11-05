@@ -1,0 +1,101 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R503_A_Model_Can_Fail_Elsewhere_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #503",
+  "baslik": "Falla en *otro centro*",
+  "alt": "Límites del aprendizaje automático",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Un modelo que funciona bien en un centro puede fallar en otro? #shorts",
+  "aciklama": "Los modelos de aprendizaje automático aprenden de ejemplos etiquetados y funcionan bien con pacientes que se parecen a sus datos de entrenamiento. Un modelo que memoriza sus datos de entrenamiento, es decir, que presenta sobreajuste, rinde peor de lo esperado con pacientes nuevos; si falta un grupo de edad o de idioma, puede equivocarse allí; y un modelo entrenado con los equipos y el protocolo de un centro puede rendir peor en otro centro. Por eso, la validación externa es el paso realmente importante; el apoyo a la decisión clínica solo ofrece sugerencias, y la responsabilidad es del audiólogo.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "aprendizajeautomatico",
+   "saluddigital"
+  ],
+  "etiketler": [
+   "aprendizaje automático",
+   "validación externa",
+   "sobreajuste",
+   "apoyo a la decisión clínica",
+   "clasificación de audiogramas",
+   "sesgo de datos",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Un modelo que funciona bien en un centro puede fallar en otro?",
+  "bilgiler": [
+   "Un modelo que memoriza rinde mal con pacientes nuevos.",
+   "Si falta un grupo de edad o de idioma, puede equivocarse allí.",
+   "La validación externa con datos de otro centro es esencial."
+  ],
+  "hashtag": [
+   "audiologia",
+   "aprendizajeautomatico",
+   "saluddigital"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #503",
+   "metin": "¿Bueno *también en otro lado?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Un modelo que funciona bien en un centro puede fallar en otro?"
+   ]
+  },
+  {
+   "id": "tuzak",
+   "tur": "zincir",
+   "baslik": "Tres *trampas*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Sobreajuste",
+     "tr": "memoriza los datos",
+     "cumle": 0
+    },
+    {
+     "ad": "Grupo ausente",
+     "tr": "edad o idioma",
+     "cumle": 1
+    },
+    {
+     "ad": "Otro centro",
+     "tr": "equipos, protocolo",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Un modelo que memoriza sus datos de entrenamiento rinde peor con pacientes nuevos.",
+    "Si falta un grupo de edad o de idioma, puede equivocarse allí.",
+    "Un modelo entrenado con los equipos de un centro puede rendir peor en otro.",
+    "Por eso, el paso clave es la validación externa con datos de otro centro."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D295",
+ "kaynak_baslik": "Automatización y aprendizaje automático en audiología"
+}

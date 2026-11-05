@@ -1,0 +1,878 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D061_Bone_Conduction_Audiometry_ES",
+ "kapak": {
+  "ust": "LECCIÓN 61",
+  "baslik": "Audiometría<br>por *vía ósea*",
+  "alt": "Colocación del vibrador y trampas",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      40,
+      40,
+      35,
+      40,
+      45,
+      50
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      15
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Cómo realizar la audiometría por vía ósea | Lección 61 | AIHEAR Academia de Audiología",
+  "aciklama": "Los umbrales por vía ósea nos dicen si una pérdida auditiva es conductiva o neurosensorial. En esta lección, con un audiograma de ejemplo, vemos la colocación del vibrador óseo en la mastoides y en la frente, las frecuencias de prueba, la atenuación interaural, las respuestas vibrotáctiles, la radiación acústica y el efecto de oclusión.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005); British Society of Audiology, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "viaosea",
+   "audicion"
+  ],
+  "etiketler": [
+   "vía ósea",
+   "audiometría por vía ósea",
+   "vibrador óseo",
+   "colocación en mastoides",
+   "colocación en la frente",
+   "respuesta vibrotáctil",
+   "radiación acústica",
+   "efecto de oclusión",
+   "brecha aéreo-ósea",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 61",
+   "baslik": "Cómo realizar la audiometría por *vía ósea*",
+   "alt": "Colocación del vibrador, frecuencias de prueba y trampas",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo se realiza la audiometría por vía ósea.",
+    "Paso a paso veremos la colocación del vibrador, las frecuencias de prueba y las trampas que pueden falsear los resultados."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué la vía ósea?",
+   "baslik": "Vía aérea y *vía ósea*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "koklea",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "orta_kulak",
+     "metin": "vía aérea: por oído externo y medio",
+     "cumle": 0
+    },
+    {
+     "parca": "koklea",
+     "metin": "vía ósea: directo a la cóclea",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Diferencia: la brecha aéreo-ósea",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la prueba por vía aérea, el sonido pasa por el oído externo y el oído medio para llegar a la cóclea.",
+    "En la prueba por vía ósea, la vibración aplicada al cráneo evita en gran parte el oído externo y medio y estimula directamente la cóclea.",
+    "Por eso, los umbrales por vía ósea reflejan sobre todo la sensibilidad del oído interno y del nervio auditivo, es decir, del sistema neurosensorial.",
+    "Comparando ambos umbrales, podemos saber si una pérdida es conductiva, neurosensorial o mixta.",
+    "Recordemos que la diferencia entre los umbrales por vía aérea y por vía ósea se llama brecha aéreo-ósea.",
+    "Los mecanismos de la audición por vía ósea los vimos en lecciones anteriores; aquí nos centramos en la medición."
+   ]
+  },
+  {
+   "id": "ne_zaman",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué la vía ósea?",
+   "baslik": "¿Cuándo y en qué *frecuencias?*",
+   "maddeler": [
+    {
+     "metin": "Si la vía aérea _no es normal_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Frecuencias: _de 250 a 4000 Hz_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "8000 Hz no es de rutina",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Oídos _descubiertos_, sin auriculares",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "La vía ósea suele evaluarse cuando los umbrales por vía aérea están fuera de lo normal, peores que unos veinte a veinticinco dB HL.",
+    "Sin embargo, muchas clínicas evalúan la vía ósea de rutina en todos los pacientes.",
+    "Las frecuencias de prueba suelen ser las de octava, de doscientos cincuenta a cuatro mil hertz.",
+    "Ocho mil hertz no se evalúa de rutina, porque la salida del vibrador es limitada y aumenta la radiación acústica.",
+    "Al medir la vía ósea sin enmascarar, se retiran los auriculares y ambos oídos quedan descubiertos."
+   ]
+  },
+  {
+   "id": "vibrator",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El vibrador y su colocación",
+   "baslik": "El *vibrador* óseo",
+   "cizim": "odyometre",
+   "vurgula": [
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "vibrador óseo",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Diadema: fuerza de unos 5,4 N",
+     "cumle": 2
+    },
+    {
+     "metin": "Modelos habituales: B-71, B-81",
+     "cumle": 3
+    },
+    {
+     "metin": "Cada vibrador con su propia calibración",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la prueba por vía ósea, el sonido se entrega con un pequeño transductor llamado vibrador óseo.",
+    "El vibrador convierte la señal eléctrica del audiómetro en una vibración mecánica que se transmite al cráneo.",
+    "El vibrador se sujeta con una diadema que ejerce una fuerza estática de unos cinco coma cuatro newtons, según lo definen las normas.",
+    {
+     "yazi": "Entre los modelos de uso clínico habitual están el B-71 y el B-81."
+    },
+    "Cada vibrador debe configurarse en el audiómetro con sus propios valores de calibración."
+   ]
+  },
+  {
+   "id": "yerlesim",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 2",
+   "bolum": "El vibrador y su colocación",
+   "baslik": "Colocación en mastoides y en la *frente*",
+   "sol": {
+    "ust": "Mastoides",
+    "maddeler": [
+     {
+      "metin": "Sensación _más fuerte_ con igual potencia",
+      "cumle": 1
+     },
+     {
+      "metin": "Más habitual en la clínica",
+      "cumle": 1
+     },
+     {
+      "metin": "_No debe tocar_ el pabellón",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Frente",
+    "maddeler": [
+     {
+      "metin": "Test-retest _más consistente_",
+      "cumle": 3
+     },
+     {
+      "metin": "Requiere más potencia",
+      "cumle": 4
+     },
+     {
+      "metin": "Nivel máximo evaluable _menor_",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "El vibrador puede colocarse en dos lugares: sobre la apófisis mastoides o en la línea media de la frente.",
+    "La colocación en la mastoides es más habitual en la clínica, porque da una sensación más fuerte con la misma potencia eléctrica.",
+    "El vibrador se coloca en la parte más plana de la apófisis mastoides, sin tocar el pabellón auricular.",
+    "La colocación en la frente es menos sensible a las diferencias de posición y tiene mejor confiabilidad test-retest.",
+    "Pero en la frente se necesita más potencia para la misma sensación, por lo que el nivel máximo evaluable es menor.",
+    "En ambas colocaciones, el audiómetro debe usarse con los valores de calibración correspondientes."
+   ]
+  },
+  {
+   "id": "ia",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El vibrador y su colocación",
+   "baslik": "La vibración llega a *ambas cócleas*",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 0
+   },
+   "vurgula": [
+    {
+     "parca": "kafatasi",
+     "cumle": 0
+    },
+    {
+     "parca": "test_kulagi",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "atenuación interaural: unos 0 dB",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vía ósea sin enmascarar: la mejor cóclea",
+     "cumle": 3
+    },
+    {
+     "metin": "Para confirmar el oído: enmascarar el otro",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Una característica importante de la vía ósea es que la vibración hace vibrar todo el cráneo.",
+    "Sea cual sea el lado donde se coloca el vibrador, ambas cócleas se estimulan casi al mismo nivel.",
+    "Por eso, la atenuación interaural por vía ósea suele considerarse de unos cero decibeles.",
+    "Así, un umbral por vía ósea sin enmascarar muestra en realidad el umbral de la mejor de las dos cócleas.",
+    "Para confirmar a qué oído pertenece el umbral, se enmascara el oído opuesto; lo veremos en las lecciones de enmascaramiento clínico."
+   ]
+  },
+  {
+   "id": "uygulama",
+   "bolum_no": "PARTE 3",
+   "bolum": "Procedimiento",
+   "tur": "akis",
+   "baslik": "*Procedimiento* paso a paso",
+   "adimlar": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Preparación",
+     "metin": "Apartar cabello, lentes, aretes",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Colocación",
+     "metin": "Asegurar la diadema",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Búsqueda del umbral",
+     "metin": "Bajar 10 dB, subir 5 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Instrucciones",
+     "metin": "Sentir vibración no es responder",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Orden de frecuencias",
+     "metin": "1000 Hz, agudos, luego graves",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Primero se aparta el cabello sobre la mastoides y se retiran los objetos que podrían tocar el vibrador, como las patillas de los lentes y los aretes.",
+    "Se coloca el vibrador y se asegura la diadema para que no se deslice.",
+    "Igual que en la vía aérea, la búsqueda del umbral usa el método de Hughson-Westlake modificado: bajar diez decibeles, subir cinco.",
+    "Las instrucciones son las mismas, pero hay que aclarar al paciente que sentir la vibración no cuenta; debe responder cuando oiga el sonido.",
+    "El orden de frecuencias suele ser el de la vía aérea: empezar en mil hertz, subir a los agudos y luego pasar a los graves.",
+    "El paciente no debe mover el vibrador ni tocar la diadema hasta el final de la prueba."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Procedimiento",
+   "baslik": "*Límites* de salida",
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "kemik",
+       "degerler": [
+        45,
+        65,
+        65,
+        65
+       ],
+       "yanitsiz": true,
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "maddeler": [
+    {
+     "metin": "250 Hz: unos _40 a 50 dB HL_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Frecuencias medias: unos _60 a 70 dB HL_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sin respuesta en el límite: registrar con _flecha_",
+     "cumle": 2,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La salida máxima de los vibradores óseos es mucho menor que la de los auriculares de vía aérea.",
+    "El límite varía según el equipo; suele ser de unos cuarenta a cincuenta dB HL en doscientos cincuenta hertz y de sesenta a setenta en las medias.",
+    "Si tampoco hay respuesta a este nivel, la vía ósea se registra en el límite del equipo con un símbolo de ausencia de respuesta.",
+    "Por eso, en las pérdidas severas no siempre es posible confirmar el tipo de pérdida con la vía ósea."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Procedimiento",
+   "baslik": "Ejemplo: vía ósea *sin enmascarar*",
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       35,
+       40,
+       45,
+       50
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      5,
+      35
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Vía aérea_: oído derecho",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Vía ósea_: sin enmascarar, mastoides derecha",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Vía aérea_: oído izquierdo",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "En este audiograma de ejemplo, los umbrales por vía aérea del oído derecho rondan los cuarenta dB HL.",
+    "Los umbrales por vía ósea sin enmascarar, medidos en la mastoides derecha, están dentro de los límites normales.",
+    "En este ejemplo, los umbrales por vía aérea del oído izquierdo también son normales.",
+    "En el oído derecho parece haber una brecha aéreo-ósea de unos treinta decibeles.",
+    "Pero aún no sabemos si esta vía ósea sin enmascarar corresponde a la cóclea derecha o a la izquierda.",
+    "Si hay una brecha de quince decibeles o más en el oído evaluado, la vía ósea suele volver a medirse con el oído opuesto enmascarado."
+   ]
+  },
+  {
+   "id": "tipler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Procedimiento",
+   "baslik": "Vía ósea y *tipo de pérdida*",
+   "sutunlar": [
+    "Tipo de pérdida",
+    "Vía aérea",
+    "Vía ósea",
+    "Brecha aéreo-ósea"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal",
+      "Normal",
+      "Normal",
+      "No hay"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Conductiva",
+      "Alterada",
+      "Normal",
+      "Presente"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Neurosensorial",
+      "Alterada",
+      "Alterada",
+      "No hay"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Mixta",
+      "Alterada",
+      "Alterada",
+      "Presente"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "El tipo de pérdida se determina leyendo el resultado de la vía ósea junto con el de la vía aérea.",
+    "En la pérdida conductiva, la vía aérea está alterada, la vía ósea es normal y hay una brecha clara entre ambas.",
+    "En la pérdida neurosensorial, la vía aérea y la ósea empeoran juntas, y no hay una brecha significativa entre ellas.",
+    "En la pérdida mixta, la vía ósea también está alterada, pero la vía aérea está aún peor.",
+    "Las diferencias de hasta diez decibeles suelen considerarse variabilidad de la medición, no una brecha."
+   ]
+  },
+  {
+   "id": "mikst",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Procedimiento",
+   "baslik": "Ejemplo: pérdida *mixta*",
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       55,
+       60,
+       60,
+       65,
+       70,
+       75
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       30,
+       30,
+       30,
+       40,
+       45
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    },
+    "aralik": {
+     "konum": [
+      2,
+      30,
+      60
+     ],
+     "etiket": "30 dB",
+     "cumle": 2
+    }
+   },
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Vía aérea_: oído derecho",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Vía ósea enmascarada_: oído derecho",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "En este audiograma de ejemplo, los umbrales por vía aérea del oído derecho están entre cincuenta y cinco y setenta y cinco dB HL.",
+    "Los umbrales por vía ósea medidos con enmascaramiento también están fuera de lo normal, entre treinta y cuarenta y cinco dB HL.",
+    "En mil hertz hay una brecha de unos treinta decibeles entre ambos umbrales.",
+    "La vía ósea disminuida indica un componente neurosensorial, y la brecha, un componente conductivo.",
+    "El cuadro de este ejemplo es compatible con una hipoacusia mixta."
+   ]
+  },
+  {
+   "id": "vibrotaktil",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Trampas",
+   "baslik": "Trampa 1: sentir la *vibración*",
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "RESPUESTA VIBROTÁCTIL",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "dokunma",
+      "baslik": "Sensación",
+      "metin": "La piel percibe la vibración",
+      "cumle": 1
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Brecha falsa",
+      "metin": "No es un umbral verdadero",
+      "cumle": 2
+     },
+     {
+      "ikon": "soru",
+      "baslik": "Preguntar al paciente",
+      "metin": "¿Lo oyó o lo sintió?",
+      "cumle": 4
+     }
+    ]
+   },
+   "maddeler": [
+    {
+     "metin": "En graves, a niveles _altos_",
+     "cumle": 0
+    },
+    {
+     "metin": "Percibe vibración, no sonido",
+     "cumle": 1
+    },
+    {
+     "metin": "Una falsa _brecha aéreo-ósea_",
+     "cumle": 2
+    },
+    {
+     "metin": "Preguntar y _anotarlo_ en el audiograma",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A niveles altos, sobre todo en doscientos cincuenta y quinientos hertz, el vibrador óseo produce una vibración que puede sentirse en la piel.",
+    "El paciente puede confundir esta vibración con sonido y responder; esto se llama respuesta vibrotáctil.",
+    "Esa respuesta no es un umbral auditivo verdadero y puede crear una falsa brecha aéreo-ósea.",
+    "Es especialmente probable en las pérdidas neurosensoriales severas, donde puede parecer un componente conductivo en graves.",
+    "Si lo sospechan, pregunten al paciente si oyó el sonido o sintió la vibración, y anótenlo en el audiograma."
+   ]
+  },
+  {
+   "id": "yayilim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Trampas",
+   "baslik": "Trampa 2: *radiación acústica*",
+   "maddeler": [
+    {
+     "metin": "El vibrador también emite _sonido_ al aire",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Sobre todo en _2000 a 4000 Hz_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "La vía ósea parece _mejor_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Control: repetir con tapón de espuma",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "Al vibrar, el vibrador óseo también emite algo de sonido al aire que lo rodea; esto se llama radiación acústica.",
+    "Esta radiación es más notable en las frecuencias agudas, en la región de dos mil a cuatro mil hertz.",
+    "Como el conducto auditivo está abierto, el sonido radiado puede oírse por vía aérea, y el umbral óseo parece mejor de lo que es.",
+    "Como resultado, puede aparecer una falsa brecha aéreo-ósea, sobre todo en cuatro mil hertz.",
+    "Si hay dudas, puede cerrarse el oído evaluado con un tapón de espuma y volver a medir cuatro mil hertz.",
+    "Como el efecto de oclusión es despreciable en los agudos, este control no mejora artificialmente el umbral."
+   ]
+  },
+  {
+   "id": "okluzyon",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Trampas",
+   "baslik": "Trampa 3: el *efecto de oclusión*",
+   "maddeler": [
+    {
+     "metin": "Conducto cerrado: graves _más fuertes_",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Sobre todo en _250 a 1000 Hz_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Escaso o ausente_ en la pérdida conductiva",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sin enmascarar: oídos _descubiertos_",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "cumleler": [
+    "Cuando el conducto auditivo está cerrado, los sonidos graves oídos por vía ósea parecen más fuertes; esto se llama efecto de oclusión.",
+    "El efecto es máximo entre doscientos cincuenta y mil hertz, y es claro en oídos normales o con pérdida neurosensorial.",
+    "En los oídos con pérdida conductiva, el efecto de oclusión suele ser escaso o nulo.",
+    "Por eso, la vía ósea sin enmascarar se mide con los oídos descubiertos.",
+    "Cuando se coloca un auricular en el oído opuesto para enmascarar, hay que tener en cuenta este efecto.",
+    "Los auriculares de inserción colocados en profundidad reducen notablemente el efecto de oclusión."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Trampas",
+   "tur": "ikonlar",
+   "baslik": "Otros errores de *colocación*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Contacto con el pabellón",
+     "metin": "Umbral poco confiable",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Diadema floja",
+     "metin": "El umbral parece peor",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Cabello, patillas de lentes",
+     "metin": "Contacto más débil",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Vibrador que se desliza",
+     "metin": "Recolocar y repetir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los resultados de la vía ósea son muy sensibles a la colocación; pequeños errores pueden cambiar los umbrales en varios decibeles.",
+    "Si el vibrador toca el pabellón, el pabellón también vibra, y los resultados dejan de ser confiables.",
+    "Una diadema floja reduce la fuerza de contacto y hace que los umbrales parezcan peores de lo que son.",
+    "El cabello o una patilla de lentes en medio también debilitan el contacto.",
+    "Si el vibrador se desliza durante la prueba, recolóquenlo y repitan las últimas frecuencias evaluadas."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Trampas",
+   "baslik": "Consejo clínico",
+   "metin": "Si la vía ósea es más de 10 dB peor que la vía aérea, revisar primero la colocación del vibrador, la diadema y la calibración.",
+   "cumleler": [
+    "Un consejo de la práctica: normalmente, el umbral por vía ósea no puede ser claramente peor que el umbral por vía aérea.",
+    "Esto se debe a que el sonido entregado por vía aérea también termina en la misma cóclea.",
+    "Las diferencias de hasta diez decibeles se aceptan como variabilidad de la medición.",
+    "Si la vía ósea es más de diez decibeles peor que la vía aérea, revisen primero la colocación del vibrador y la diadema.",
+    "Si el problema persiste, puede que haya que revisar la calibración de la vía ósea."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "La vía ósea estimula directamente la _cóclea_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Mastoides habitual, frente _más consistente_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Atenuación interaural de unos _0 dB_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Trampas: vibración, radiación, _oclusión_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La vía ósea evita en gran parte el oído externo y medio y estimula directamente la cóclea.",
+    "El vibrador se coloca en la mastoides o en la frente; la mastoides es más habitual y la frente, más consistente.",
+    "La atenuación interaural por vía ósea es de casi cero, por lo que un umbral sin enmascarar muestra la mejor cóclea.",
+    "Las respuestas vibrotáctiles, la radiación acústica y el efecto de oclusión son tres trampas clave que pueden falsear la vía ósea."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Cuál es la atenuación interaural aproximada por vía ósea?",
+   "secenekler": [
+    "0 dB",
+    "20 dB",
+    "40 dB",
+    "60 dB"
+   ],
+   "dogru": 0,
+   "aciklama": "La vibración hace vibrar todo el cráneo; ambas cócleas se estimulan _casi por igual_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en la prueba por vía ósea, ¿cuál es la atenuación interaural aproximada en decibeles?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: unos cero decibeles.",
+    "La vibración se propaga por el cráneo y estimula ambas cócleas casi por igual, así que la vía ósea sin enmascarar no muestra qué oído la oyó."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Símbolos* del audiograma y normas de registro",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos en detalle los símbolos del audiograma, los registros con enmascaramiento y el símbolo de ausencia de respuesta.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,868 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D101_MCL_And_UCL_ES",
+ "kapak": {
+  "ust": "LECCIÓN 101",
+  "baslik": "MCL y *UCL*",
+  "alt": "Niveles de sonoridad cómoda y molesta",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 110,
+    "adim": 20,
+    "ad": "Nivel (dB HL)"
+   },
+   "y": {
+    "min": 1,
+    "max": 7,
+    "adim": 1,
+    "ad": "Sonoridad"
+   },
+   "seriler": [
+    {
+     "ad": "normal",
+     "noktalar": [
+      [
+       10,
+       1
+      ],
+      [
+       25,
+       2
+      ],
+      [
+       40,
+       3
+      ],
+      [
+       55,
+       4
+      ],
+      [
+       70,
+       5
+      ],
+      [
+       85,
+       6
+      ],
+      [
+       100,
+       7
+      ]
+     ],
+     "renk": "yesil",
+     "yumusak": true
+    },
+    {
+     "ad": "koklear",
+     "noktalar": [
+      [
+       60,
+       1
+      ],
+      [
+       67,
+       2
+      ],
+      [
+       74,
+       3
+      ],
+      [
+       81,
+       4
+      ],
+      [
+       88,
+       5
+      ],
+      [
+       94,
+       6
+      ],
+      [
+       100,
+       7
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true,
+     "kesik": true
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Nivel de máximo confort y umbral de molestia | Lección 101 | AIHEAR Academia de Audiología",
+  "aciklama": "El nivel de máximo confort (MCL) y el umbral de molestia (UCL) muestran no solo el umbral de audición, sino su rango utilizable. En esta lección vemos la escala de categorías de sonoridad, los pasos de la medición, cómo calcular el rango dinámico, el rango reducido en la pérdida coclear y cómo se usan estas medidas en la adaptación de audífonos y en la evaluación de la sensibilidad al sonido.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Cox et al. (1997), The Contour Test of loudness perception, Ear and Hearing; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Dillon, Hearing Aids.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "MCL",
+   "hiperacusia"
+  ],
+  "etiketler": [
+   "MCL",
+   "nivel de máximo confort",
+   "UCL",
+   "umbral de molestia",
+   "umbral de disconfort",
+   "rango dinámico",
+   "reclutamiento",
+   "hiperacusia",
+   "prueba Contour",
+   "adaptación de audífonos",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 101",
+   "baslik": "Nivel de *máximo confort* y umbral de molestia",
+   "alt": "Niveles de sonoridad cómoda y molesta",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo se miden el nivel de máximo confort y el umbral de molestia.",
+    "Calcularemos el rango dinámico y veremos cómo se usan estas medidas en la adaptación de audífonos y en la sensibilidad al sonido."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definiciones",
+   "baslik": "¿Qué hay *por encima* del umbral?",
+   "maddeler": [
+    {
+     "metin": "_MCL_: nivel de máximo confort",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_UCL_: umbral de molestia",
+     "cumle": 2,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Sinónimo: _LDL_",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "_Rango dinámico_: del umbral al UCL",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SUBJETIVO",
+    "metin": "El MCL y el UCL dependen de la *percepción* del paciente",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Las pruebas de umbral buscan el sonido más suave que se oye, pero en la vida diaria los sonidos están muy por encima del umbral.",
+    "El nivel de máximo confort (MCL) es el nivel en el que resulta más cómodo escuchar el habla.",
+    "El umbral de molestia (UCL) es el nivel en el que el sonido se percibe como molestamente fuerte.",
+    "En lugar de UCL, las fuentes también usan el término nivel de molestia por sonoridad (LDL).",
+    "El rango entre el umbral y el UCL se llama rango dinámico; es la zona utilizable de la audición.",
+    "El MCL y el UCL son medidas subjetivas, basadas en la sonoridad que percibe el paciente; la consigna y el método influyen claramente en el resultado."
+   ]
+  },
+  {
+   "id": "olcek",
+   "tur": "tablo",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definiciones",
+   "baslik": "La *escala de categorías* de sonoridad",
+   "sutunlar": [
+    "Categoría",
+    "Descripción del paciente"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1",
+      "Muy suave"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2",
+      "Suave"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "3",
+      "Cómodo, pero algo suave"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "4",
+      "Cómodo"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "5",
+      "Cómodo, pero algo fuerte"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "6",
+      "Fuerte, pero aceptable"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "7",
+      "Molestamente fuerte"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Las escalas de categorías se usan para medir una percepción subjetiva de forma constante.",
+    {
+     "yazi": "La prueba Contour, de uso muy extendido, tiene siete categorías; las dos primeras son muy suave y suave."
+    },
+    "La tercera categoría es cómodo pero algo suave, y la cuarta es cómodo; el MCL está en esta zona.",
+    "La quinta categoría es cómodo pero algo fuerte, y la sexta, fuerte pero aceptable.",
+    "La séptima categoría es molestamente fuerte; el primer nivel que alcanza esta categoría se toma como UCL.",
+    "Después de cada sonido, el paciente señala una de estas descripciones en la tarjeta de la escala."
+   ]
+  },
+  {
+   "id": "yontem",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Medición",
+   "baslik": "*Pasos* de la medición",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Consigna",
+     "metin": "Leer la escala juntos",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Empezar bajo",
+     "metin": "Por debajo de un nivel cómodo",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Subir 5 dB",
+     "metin": "Preguntar la categoría en cada paso",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Parar en 7",
+     "metin": "Primer nivel molesto",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Repetir",
+     "metin": "Sacar el promedio",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Antes de medir, se muestra la escala de categorías al paciente y se leen las descripciones junto con él.",
+    "Se aclara que el nivel molesto no es un nivel doloroso, sino uno que no querría escuchar durante mucho tiempo.",
+    "El sonido empieza por debajo de un nivel cómodo; el método avanza en sentido ascendente.",
+    "El nivel se sube en pasos de cinco decibeles, y en cada paso se anota la categoría que elige el paciente.",
+    "Cuando el paciente señala la séptima categoría, se deja de subir; ese nivel es el UCL.",
+    "La medición suele repetirse dos o tres veces y se promedian los resultados.",
+    "El MCL corresponde a los niveles en los que se marcó la cuarta categoría; a menudo es un rango más que un punto único."
+   ]
+  },
+  {
+   "id": "uyaran",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 2",
+   "bolum": "Medición",
+   "baslik": "¿Habla o un estímulo *específico por frecuencia*?",
+   "sol": {
+    "ust": "Habla",
+    "maddeler": [
+     {
+      "metin": "Habla continua y fluida",
+      "cumle": 0
+     },
+     {
+      "metin": "_Cercana_ a la escucha cotidiana",
+      "cumle": 1
+     },
+     {
+      "metin": "Da un solo valor",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Tono o banda estrecha",
+    "maddeler": [
+     {
+      "metin": "Cada frecuencia se mide _por separado_",
+      "cumle": 3
+     },
+     {
+      "metin": "Para la _salida máxima_ del audífono",
+      "cumle": 4
+     },
+     {
+      "metin": "Por lo general, 500 y 3000 Hz",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "El MCL y el UCL pueden medirse con habla continua, grabada o en vivo.",
+    "El habla es el estímulo más cercano a los sonidos que el paciente oye en la vida diaria.",
+    "Pero el habla da un solo valor; no muestra qué frecuencia resulta molesta.",
+    "Un UCL medido con tonos puros o con ruido de banda estrecha da información separada para cada frecuencia.",
+    "Estos valores específicos por frecuencia son más útiles para ajustar la salida máxima de un audífono.",
+    "Algunas fuentes recomiendan medir al menos una frecuencia grave y una aguda, por ejemplo quinientos y tres mil hertz."
+   ]
+  },
+  {
+   "id": "dinamik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Rango dinámico",
+   "baslik": "Un *rango dinámico* que se estrecha",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)"
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 20,
+     "ters": true,
+     "ad": "Nivel (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "normal_esik",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        4000,
+        10
+       ],
+       [
+        8000,
+        15
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "umbral normal",
+      "cumle": 0
+     },
+     {
+      "ad": "ucl",
+      "noktalar": [
+       [
+        250,
+        100
+       ],
+       [
+        500,
+        100
+       ],
+       [
+        1000,
+        100
+       ],
+       [
+        2000,
+        100
+       ],
+       [
+        4000,
+        100
+       ],
+       [
+        8000,
+        100
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "isaretli": true,
+      "etiket": "UCL",
+      "cumle": 1
+     },
+     {
+      "ad": "kayip_esik",
+      "noktalar": [
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        35
+       ],
+       [
+        1000,
+        45
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        4000,
+        70
+       ],
+       [
+        8000,
+        75
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "pérdida coclear",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "normal_aralik",
+      "y": [
+       10,
+       100
+      ],
+      "xk": 500,
+      "etiket": "unos 90 dB",
+      "cumle": 2
+     },
+     {
+      "ad": "dar_aralik",
+      "y": [
+       70,
+       100
+      ],
+      "xk": 4000,
+      "etiket": "30 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "En la pérdida coclear el UCL cambia poco",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Rango muy estrecho en frecuencias agudas",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "En el gráfico, la línea verde muestra los umbrales de una persona con audición normal.",
+    "La línea discontinua es el umbral de molestia; en este ejemplo, unos cien decibeles HL.",
+    "En un oído normal hay un amplio rango dinámico de unos noventa decibeles entre el umbral y el UCL.",
+    "La línea roja muestra los umbrales de un paciente de ejemplo con pérdida coclear; los umbrales están elevados, pero el UCL a menudo cambia poco.",
+    "Así, en cuatro mil hertz, el rango dinámico se reduce a treinta decibeles.",
+    "Hacer caber todos los sonidos cotidianos en un rango tan estrecho es un gran desafío para un audífono.",
+    "En personas con audición normal, el UCL suele estar cerca de cien decibeles HL, pero las diferencias individuales son grandes."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Rango dinámico",
+   "baslik": "*Rango dinámico* para el habla",
+   "sutunlar": [
+    "Ejemplo",
+    "URP (dB HL)",
+    "UCL (dB HL)",
+    "Rango (dB)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal",
+      "5",
+      "100",
+      "95"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Pérdida coclear",
+      "60",
+      "100",
+      "40"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Conductiva",
+      "50",
+      "No se alcanza",
+      "Amplio"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El rango dinámico para el habla se calcula restando al UCL el umbral de recepción de la palabra (URP).",
+    "En una persona con audición normal, con un URP de cinco y un UCL de cien, el rango es de noventa y cinco decibeles.",
+    "En un paciente con pérdida coclear, un URP de sesenta y un UCL que sigue en cien, el rango es de solo cuarenta decibeles.",
+    "Que el nivel de molestia se mantenga mientras el umbral sube significa que la sonoridad crece de forma anormalmente rápida.",
+    "En la pérdida conductiva, el sonido llega atenuado al oído, así que el UCL también sube; a menudo no se alcanza ni en el límite del audiómetro.",
+    "Esta diferencia también explica por qué la adaptación de audífonos es distinta en los dos tipos de pérdida."
+   ]
+  },
+  {
+   "id": "rekruitment",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Rango dinámico",
+   "baslik": "El crecimiento *rápido* de la sonoridad",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 110,
+     "adim": 20,
+     "ad": "Nivel (dB HL)"
+    },
+    "y": {
+     "min": 1,
+     "max": 7,
+     "adim": 1,
+     "ad": "Categoría"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        10,
+        1
+       ],
+       [
+        25,
+        2
+       ],
+       [
+        40,
+        3
+       ],
+       [
+        55,
+        4
+       ],
+       [
+        70,
+        5
+       ],
+       [
+        85,
+        6
+       ],
+       [
+        100,
+        7
+       ]
+      ],
+      "renk": "yesil",
+      "yumusak": true,
+      "etiket": "normal",
+      "cumle": 0
+     },
+     {
+      "ad": "koklear",
+      "noktalar": [
+       [
+        60,
+        1
+       ],
+       [
+        67,
+        2
+       ],
+       [
+        74,
+        3
+       ],
+       [
+        81,
+        4
+       ],
+       [
+        88,
+        5
+       ],
+       [
+        94,
+        6
+       ],
+       [
+        100,
+        7
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "pérdida coclear",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "bulusma",
+      "x": 100,
+      "y": 7,
+      "etiket": "mismo UCL",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal: la sonoridad crece despacio",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Coclear: empieza tarde, crece rápido",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Esto se llama _reclutamiento_",
+     "cumle": 2,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "La curva verde muestra cómo la categoría de sonoridad aumenta lentamente con el nivel en una persona con audición normal.",
+    "En la curva roja, el sonido solo se oye a partir de sesenta decibeles, pero la sonoridad crece mucho más rápido.",
+    "Este crecimiento anormalmente rápido de la sonoridad se llama reclutamiento; se relaciona sobre todo con el daño de las células ciliadas externas.",
+    "Las dos curvas se encuentran aproximadamente en el mismo UCL.",
+    "Este paciente no oye los sonidos suaves, pero los fuertes pueden volverse molestos tan rápido como en un oyente normal, o incluso antes.",
+    "Es justo lo que suelen decir los familiares: si le hablan bajo no oye, y si levantan la voz dice que no le griten."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso clínico",
+   "baslik": "En la *adaptación* de audífonos",
+   "maddeler": [
+    {
+     "metin": "Un mundo amplio en _un rango estrecho_",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Compresión: los sonidos _suaves_ se amplifican más",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Salida máxima _por debajo del UCL_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Si no se mide, las fórmulas lo _estiman_",
+     "cumle": 4,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "RIC"
+    },
+    "vurgula": [
+     {
+      "parca": "islemci",
+      "cumle": 1
+     },
+     {
+      "parca": "alici",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Una de las tareas principales de un audífono es hacer caber un amplio mundo sonoro en el estrecho rango dinámico del paciente.",
+    "Para ello, los audífonos usan compresión: amplifican mucho los sonidos suaves y menos los fuertes.",
+    "La salida máxima de potencia del audífono (MPO) se ajusta para que no supere el UCL del paciente.",
+    "De lo contrario, los sonidos fuertes repentinos causan molestia y el paciente puede dejar de usar el audífono.",
+    "Si el UCL no se midió, las fórmulas de prescripción lo estiman a partir de los umbrales; los valores medidos individualizan la adaptación.",
+    "Con el audífono colocado, se pueden presentar sonidos fuertes para confirmar que la salida máxima no resulta molesta."
+   ]
+  },
+  {
+   "id": "hiperakuzi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso clínico",
+   "baslik": "En la evaluación de la *hiperacusia*",
+   "ogeler": [
+    {
+     "ikon": "agri",
+     "baslik": "UCL bajo",
+     "metin": "Umbral normal, baja tolerancia",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Valor basal",
+     "metin": "Comparación durante el abordaje",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Medición cuidadosa",
+     "metin": "Empezar bajo, el paciente puede detenerla",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La hiperacusia, una sensibilidad excesiva a los sonidos, es un uso importante de la medición del UCL.",
+    "En la hiperacusia, los umbrales auditivos pueden ser normales, pero el UCL es claramente más bajo de lo esperado.",
+    "Así, el rango dinámico está reducido aunque no haya pérdida auditiva.",
+    "Los valores medidos se convierten en una referencia basal para seguir los cambios durante abordajes como la terapia sonora.",
+    "En estos pacientes se evalúa con especial cuidado: se empieza bajo, se avanza en pasos pequeños y el paciente puede detener la prueba en cualquier momento.",
+    "Algunos pacientes sienten ansiedad ante una prueba con sonidos fuertes; en ese caso, la necesidad de la prueba se conversa con el paciente."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Para el UCL, pregunten por el nivel que no querrían escuchar durante mucho tiempo, no por uno doloroso. Si cambia la consigna, el UCL cambia claramente.",
+   "cumleler": [
+    "En la medición del UCL, la consigna es lo que más influye en el resultado.",
+    "Si le piden al paciente un nivel doloroso, obtienen un valor muy alto; si le piden uno apenas algo fuerte, uno muy bajo.",
+    "La pregunta correcta es un nivel tan molesto que no querría escucharlo mucho tiempo; la tarjeta de categorías estandariza esta pregunta.",
+    "Usen la misma consigna y el mismo estímulo en las mediciones posteriores del mismo paciente."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "MCL, nivel cómodo; UCL, nivel _molesto_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Escala de categorías y método _ascendente_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Rango dinámico: _UCL menos umbral_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "MPO ajustada _por debajo del UCL_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "El MCL es el nivel en el que el habla resulta más cómoda, y el UCL, el nivel en el que el sonido se vuelve molesto.",
+    "La medición usa una escala de categorías, empezando bajo y subiendo en pasos de cinco decibeles.",
+    "El rango dinámico es la diferencia entre el UCL y el umbral; en la pérdida coclear se estrecha por el reclutamiento.",
+    "La salida máxima de un audífono se ajusta para que no supere el UCL; en la hiperacusia, el UCL es más bajo de lo normal."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "URP 55, UCL 95 dB HL. ¿Rango dinámico para el habla?",
+   "secenekler": [
+    "40 dB",
+    "55 dB",
+    "95 dB",
+    "150 dB"
+   ],
+   "dogru": 0,
+   "aciklama": "Rango dinámico = UCL menos URP: _95 menos 55 = 40 dB_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: el URP de un paciente es cincuenta y cinco y su UCL, noventa y cinco decibeles HL. ¿Cuál es el rango dinámico para el habla?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: cuarenta decibeles.",
+    "El rango dinámico se obtiene restando el URP al UCL: noventa y cinco menos cincuenta y cinco es cuarenta."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Audiometría en *campo libre* y umbrales con audífono",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la audiometría en campo libre con altavoces y los umbrales con audífono.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

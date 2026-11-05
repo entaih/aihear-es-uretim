@@ -1,0 +1,725 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D090_Effective_Masking_Level_ES",
+ "kapak": {
+  "ust": "LECCIÓN 90",
+  "baslik": "Enmascaramiento<br>*efectivo*",
+  "alt": "El ruido mínimo y el máximo",
+  "cizim": "maskeleme",
+  "ayar": {
+   "ia_db": 40
+  }
+ },
+ "youtube": {
+  "baslik": "Nivel de enmascaramiento efectivo: mínimo y máximo | Lección 90 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cuánto ruido debemos dar al oído opuesto? En esta lección trabajamos, con cálculos de ejemplo, la calibración en enmascaramiento efectivo (dB EM), el cálculo del enmascaramiento mínimo y máximo, el subenmascaramiento y el sobreenmascaramiento, el enmascaramiento central y la ventana de enmascaramiento.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ANSI/ASA S3.6, Specification for Audiometers; BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "enmascaramiento",
+   "audiometria"
+  ],
+  "etiketler": [
+   "enmascaramiento efectivo",
+   "dB EM",
+   "enmascaramiento mínimo",
+   "enmascaramiento máximo",
+   "subenmascaramiento",
+   "sobreenmascaramiento",
+   "enmascaramiento central",
+   "ventana de enmascaramiento",
+   "enmascaramiento clínico",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 90",
+   "baslik": "Nivel de *enmascaramiento* efectivo: mínimo y máximo",
+   "alt": "dB EM, sobreenmascaramiento y enmascaramiento central",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo calcular el ruido mínimo y el máximo que podemos dar al oído opuesto.",
+    "Con ejemplos, veremos el enmascaramiento efectivo, el subenmascaramiento y el sobreenmascaramiento, y el enmascaramiento central."
+   ]
+  },
+  {
+   "id": "birim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Enmascaramiento efectivo",
+   "baslik": "¿*Qué* unidad usamos para el ruido?",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "dB SPL",
+     "metin": "Nivel físico",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Nivel bruto del ruido",
+     "metin": "No muestra su efecto",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "dB EM",
+     "metin": "¿Cuánto desplaza el umbral?",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Necesitamos expresar el nivel del ruido enmascarante en una unidad con sentido.",
+    "Los decibeles SPL indican el nivel físico del ruido, pero no directamente cuánto enmascarará un tono.",
+    "El poder enmascarante de un ruido con el mismo nivel físico cambia según su ancho de banda y su frecuencia.",
+    {
+     "yazi": "Por eso, en la clínica el ruido se ajusta en enmascaramiento efectivo, o dB EM."
+    },
+    {
+     "yazi": "El dB EM no describe cuánto suena el ruido, sino cuánto desplaza el umbral."
+    },
+    {
+     "yazi": "En un audiómetro bien calibrado, el valor que se lee en el canal de ruido es directamente el valor en dB EM."
+    }
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Enmascaramiento efectivo",
+   "baslik": "¿*Cómo* se define el dB EM?",
+   "maddeler": [
+    {
+     "metin": "X dB EM: umbral _a X dB HL_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Oído normal: enmascara _la mitad de las veces_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "De ahí el _factor de seguridad_ de 10 dB",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Audiómetro calibrado _en dB EM_",
+     "cumle": 4,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EJEMPLO",
+    "metin": "Un ruido de 30 dB EM lleva un umbral normal *a 30 dB HL*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "El nivel de enmascaramiento efectivo se define por el nivel de audición del tono que el ruido es capaz de enmascarar.",
+    {
+     "yazi": "Por ejemplo, treinta dB EM de ruido de banda estrecha llevan un umbral normal en su frecuencia central a unos treinta decibeles HL."
+    },
+    "En la calibración estándar, es el nivel con el que el tono queda enmascarado en cerca de la mitad de los ensayos en oyentes con audición normal.",
+    "Por eso algunas personas aún pueden oír el tono; esta es la razón por la que suele sumarse un factor de seguridad de diez decibeles a los cálculos.",
+    {
+     "yazi": "En los audiómetros clínicos, el nivel del ruido de banda estrecha se calibra en dB EM para cada frecuencia."
+    },
+    "Si hay dudas sobre la calibración, puede hacerse una comprobación sencilla con algunos oyentes con audición normal."
+   ]
+  },
+  {
+   "id": "min_mantik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Enmascaramiento mínimo",
+   "baslik": "El ruido mínimo: cubrir el *tono cruzado*",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40
+   },
+   "vurgula": [
+    {
+     "parca": "test_kulagi",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "test_kulagi",
+     "metin": "TE: tono de 50 dB",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "AI: 40 dB",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "metin": "Cóclea del NTE: 10 dB",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "metin": "Al menos 10 dB EM",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Para el enmascaramiento mínimo, la primera pregunta es: ¿con qué nivel llega a la cóclea opuesta el tono que damos al oído evaluado, o TE?",
+    "Imaginemos que presentamos un tono de cincuenta decibeles al TE y que la atenuación interaural, o AI, es de cuarenta decibeles.",
+    "El tono llega a la cóclea del oído opuesto, el oído no evaluado o NTE, con unos diez decibeles.",
+    {
+     "yazi": "Para cubrir este tono, debe haber al menos diez dB EM de ruido efectivo en la cóclea del NTE."
+    },
+    "Si el NTE tiene una pérdida conductiva, el ruido que presenta el auricular se debilita en esa magnitud en su camino hacia la cóclea.",
+    "En ese caso, hay que subir el ruido en la magnitud de la brecha aéreo-ósea del NTE."
+   ]
+  },
+  {
+   "id": "min_formul",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 2",
+   "bolum": "Enmascaramiento mínimo",
+   "baslik": "La *fórmula* del enmascaramiento mínimo",
+   "sol": {
+    "ust": "Método de cálculo",
+    "maddeler": [
+     {
+      "metin": "Tono en el TE _menos la AI_",
+      "cumle": 0
+     },
+     {
+      "metin": "Más la _brecha aéreo-ósea del NTE_",
+      "cumle": 1
+     },
+     {
+      "metin": "Más un factor de seguridad de _10 dB_",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Nivel inicial de la meseta",
+    "maddeler": [
+     {
+      "metin": "_Umbral por vía aérea_ del NTE",
+      "cumle": 4
+     },
+     {
+      "metin": "Más un factor de seguridad de _10 dB_",
+      "cumle": 4
+     },
+     {
+      "metin": "En vía ósea, más la _oclusión_",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "En el método de cálculo, el enmascaramiento mínimo parte del nivel del tono en el TE menos la AI.",
+    "Se suma la brecha aéreo-ósea del NTE, porque el ruido tiene que superar ese bloqueo para llegar a la cóclea del NTE.",
+    "Por último, se suma un factor de seguridad de diez decibeles para cubrir las diferencias individuales.",
+    "La fórmula muestra con claridad que, a medida que sube el tono en el TE, también sube el ruido necesario.",
+    "En el método de la meseta, que se usa más en la clínica, el nivel inicial está diez decibeles por encima del umbral por vía aérea del NTE.",
+    "En el enmascaramiento de la vía ósea, a este valor se le suma una corrección por oclusión en las frecuencias graves."
+   ]
+  },
+  {
+   "id": "min_ornek",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Enmascaramiento mínimo",
+   "baslik": "Enmascaramiento mínimo: *un ejemplo resuelto*",
+   "sutunlar": [
+    "Paso",
+    "Valor",
+    "Resultado parcial"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Tono en el TE",
+      "50 dB HL",
+      "50"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Menos la AI",
+      "40 dB",
+      "10"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Más brecha del NTE",
+      "0 dB",
+      "10"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Más factor de seguridad",
+      "10 dB",
+      "20 dB EM"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Resolvamos un ejemplo: en el TE, el tono se presenta a cincuenta decibeles HL en mil hertz.",
+    "Con auriculares supraaurales, la AI es de cuarenta decibeles; cincuenta menos cuarenta da diez decibeles.",
+    "El NTE es normal, con vía aérea y vía ósea de diez decibeles; la brecha aéreo-ósea es cero, así que el resultado sigue siendo diez.",
+    {
+     "yazi": "Sumando el factor de seguridad de diez decibeles, el enmascaramiento mínimo es de veinte dB EM."
+    },
+    "Esto coincide además con el nivel inicial de la meseta, que está diez decibeles por encima del umbral por vía aérea del NTE.",
+    {
+     "yazi": "Si el tono en el TE sube a sesenta, el ruido mínimo sube a treinta dB EM; esta es la lógica del método de la meseta."
+    }
+   ]
+  },
+  {
+   "id": "max_mantik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Enmascaramiento máximo",
+   "baslik": "El ruido máximo: el ruido que *cruza de vuelta*",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40
+   },
+   "vurgula": [
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "cumle": 1
+    },
+    {
+     "parca": "test_kulagi",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "maskeleme_gurultusu",
+     "metin": "Ruido al NTE",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "Atenuado por la AI",
+     "cumle": 1
+    },
+    {
+     "parca": "test_kulagi",
+     "metin": "Umbral por vía ósea del TE",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Límite superior: VO del TE + AI _menos 5_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "VO del TE desconocida: _usar VO sin enmascarar_",
+     "cumle": 4,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "cumleler": [
+    "Subir el ruido también tiene un límite, porque el ruido que damos al NTE también puede atravesar el cráneo hasta el TE.",
+    "Al cruzar, el ruido se debilita más o menos en la AI, igual que el sonido de prueba.",
+    "Si el ruido que llega a la cóclea del TE alcanza su umbral por vía ósea, enmascara también el TE; esto se llama sobreenmascaramiento.",
+    "Por eso, el enmascaramiento máximo se toma como cinco decibeles menos que la suma del umbral por vía ósea del TE y la AI.",
+    "Al enmascarar la vía aérea, a menudo no se conoce la vía ósea real del TE; por prudencia, se usa el umbral por vía ósea sin enmascarar.",
+    "Como la vía ósea sin enmascarar muestra la mejor de las dos cócleas, esta elección mantiene el límite superior del lado seguro."
+   ]
+  },
+  {
+   "id": "max_ornek",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Enmascaramiento máximo",
+   "baslik": "La ventana: del mínimo al *máximo*",
+   "sutunlar": [
+    "Caso (1000 Hz)",
+    "Mínimo",
+    "Máximo"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "NTE normal, supraaural",
+      "20 dB EM",
+      "45 dB EM"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "NTE normal, inserción",
+      "20 dB EM",
+      "60 dB EM"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "NTE: conductiva 50 dB",
+      "70 dB EM",
+      "45 dB EM"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Consideremos ahora juntos el ruido mínimo y el máximo; al rango entre ambos podemos llamarlo ventana de enmascaramiento.",
+    {
+     "yazi": "En el ejemplo anterior, la vía ósea sin enmascarar es de diez; con supraaurales, el máximo es diez más cuarenta menos cinco: cuarenta y cinco dB EM."
+    },
+    {
+     "yazi": "Si con auriculares de inserción se toma una AI de cincuenta y cinco, el máximo sube a sesenta dB EM; la ventana se amplía claramente."
+    },
+    "Cuanto más amplia es la ventana, más margen hay para subir el ruido y ver la meseta.",
+    {
+     "yazi": "Pero si el NTE tuviera una pérdida conductiva de cincuenta decibeles, su vía aérea sería de sesenta y el mínimo subiría a setenta dB EM."
+    },
+    "Cuando el mínimo supera al máximo, la ventana se cierra; es el dilema de enmascaramiento, que veremos en una lección aparte."
+   ]
+  },
+  {
+   "id": "plato_ornek",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Enmascaramiento máximo",
+   "baslik": "Ejemplo: de la meseta al *sobreenmascaramiento*",
+   "sutunlar": [
+    "Ruido (dB EM)",
+    "Umbral TE (dB HL)",
+    "Interpretación"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "20",
+      "50",
+      "Inicio"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "30",
+      "50",
+      "Meseta"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "45",
+      "50",
+      "Fin de la meseta"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "50",
+      "55",
+      "Sobreenmascaramiento"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "55",
+      "60",
+      "Sobreenmascaramiento"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Un ejemplo: el oído izquierdo es el TE, con vía aérea de cincuenta y vía ósea de diez decibeles, una pérdida conductiva; el derecho es normal.",
+    {
+     "yazi": "Con auriculares supraaurales, el mínimo es veinte, y el máximo, diez más cuarenta menos cinco: cuarenta y cinco dB EM."
+    },
+    "Cuando subimos el ruido de veinte a treinta, el umbral se mantiene en cincuenta decibeles.",
+    {
+     "yazi": "Hasta cuarenta y cinco dB EM el umbral no cambia; esta meseta muestra que el umbral real es de cincuenta decibeles."
+    },
+    {
+     "yazi": "En cambio, con cincuenta y cincuenta y cinco dB EM el umbral sube con el ruido, porque el ruido ya llega a la cóclea del TE."
+    },
+    "Si en lugar de detenernos aquí hubiéramos seguido subiendo el ruido, habríamos registrado por error la pérdida conductiva como una pérdida mayor."
+   ]
+  },
+  {
+   "id": "yetersiz_asiri",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 3",
+   "bolum": "Enmascaramiento máximo",
+   "baslik": "¿Demasiado poco o *demasiado?*",
+   "sol": {
+    "ust": "Subenmascaramiento",
+    "maddeler": [
+     {
+      "metin": "El NTE _sigue oyendo_ el tono",
+      "cumle": 0
+     },
+     {
+      "metin": "El umbral parece _mejor_ de lo que es",
+      "cumle": 1
+     },
+     {
+      "metin": "El umbral _sube_ con el ruido",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Sobreenmascaramiento",
+    "maddeler": [
+     {
+      "metin": "El ruido también cubre _el TE_",
+      "cumle": 3
+     },
+     {
+      "metin": "El umbral parece _peor_ de lo que es",
+      "cumle": 4
+     },
+     {
+      "metin": "El umbral sube _otra vez_ tras la meseta",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Si el ruido queda por debajo del mínimo, el NTE sigue oyendo el tono; esto se llama subenmascaramiento.",
+    "En este caso, el umbral registrado sigue perteneciendo al oído opuesto, y la audición del TE parece mejor de lo que es.",
+    "El signo del subenmascaramiento es que el umbral sube junto con el ruido.",
+    "Si el ruido supera el máximo, también se enmascara el TE; esto es el sobreenmascaramiento.",
+    "Esta vez el umbral parece peor de lo que es; incluso una pérdida conductiva puede registrarse como neurosensorial o mixta.",
+    "El signo del sobreenmascaramiento es que el umbral se mantiene estable un tiempo y luego vuelve a subir con el ruido."
+   ]
+  },
+  {
+   "id": "kemik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Enmascaramiento máximo",
+   "baslik": "*Límites* en la vía ósea",
+   "maddeler": [
+    {
+     "metin": "Mínimo: VO del TE + _brecha del NTE_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Más la _oclusión_ en los graves",
+     "cumle": 2,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Máximo: VO del TE + _AI del auricular_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "ayar": {
+     "ia_db": 0
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kafatasi",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "En la vía ósea, la AI para el tono es de unos cero decibeles, así que el tono llega a ambas cócleas con el mismo nivel.",
+    "Por eso, el enmascaramiento mínimo se obtiene sumando la brecha aéreo-ósea del NTE al nivel del tono por vía ósea en el TE.",
+    "Se suma un factor de seguridad y, en las frecuencias graves, también una corrección por oclusión, porque el NTE está tapado con un auricular.",
+    "El ruido, en cambio, va al NTE por un auricular, así que al cruzar pierde la AI del auricular; el máximo es como en la vía aérea.",
+    {
+     "yazi": "Por ejemplo, si la vía ósea del TE es de diez y la AI del auricular de inserción es de cincuenta y cinco, el máximo es de sesenta dB EM."
+    },
+    "Si el TE tiene una pérdida conductiva, es decir, una buena vía ósea, el máximo se mantiene bajo y la ventana se estrecha."
+   ]
+  },
+  {
+   "id": "merkezi",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Enmascaramiento central",
+   "baslik": "Enmascaramiento *central*",
+   "maddeler": [
+    {
+     "metin": "Desplazamiento del umbral _sin_ cruce",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "En promedio, _unos 5 dB_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Origen: efectos _centrales_ y eferentes",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Desplazamiento de 5 dB: _sin cambio_",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 3,
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "superior_oliver",
+      "metin": "Aquí se unen los dos oídos",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Aunque el ruido dado al NTE no sea lo bastante fuerte para cruzar, el umbral del TE puede desplazarse un poco.",
+    "Esto se llama enmascaramiento central.",
+    "Este desplazamiento es de unos cinco decibeles en promedio, pero varía de una persona a otra.",
+    "El enmascaramiento central se explica por la unión de la información de ambos oídos en el tronco cerebral y por las fibras eferentes hacia la cóclea.",
+    {
+     "yazi": "Aunque se describió por primera vez en 1924, su mecanismo todavía se discute hoy."
+    },
+    "En la clínica, si al enmascarar aparece un desplazamiento de hasta cinco decibeles, por lo general se considera que el umbral no cambió.",
+    "Confundir este pequeño desplazamiento con subenmascaramiento y subir el ruido sin necesidad aumenta el riesgo de sobreenmascaramiento."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Antes de enmascarar, anotar en el formulario el ruido mínimo y el máximo de cada frecuencia. Al subir el ruido, verificar cuán cerca se está del máximo.",
+   "cumleler": [
+    "Un consejo de la clínica: antes de empezar a enmascarar, anoten dos números en un papel o en el formulario.",
+    "El primero es el ruido mínimo en esa frecuencia, y el segundo, el ruido máximo, donde empieza el sobreenmascaramiento.",
+    "Al subir el ruido, vean en cada paso cuánto se acercan a este límite superior.",
+    "Si los dos números están muy cerca, cambiar a auriculares de inserción es la forma más práctica de ampliar la ventana."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "dB EM: capacidad de _desplazar el umbral_",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Mínimo: tono menos AI _más brecha_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Máximo: VO del TE + AI _menos 5_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Enmascaramiento central: _unos 5 dB_",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "El enmascaramiento efectivo se define por los decibeles HL a los que el ruido desplaza el umbral; se suma un factor de seguridad de diez decibeles.",
+    "El enmascaramiento mínimo es el nivel del tono en el TE menos la AI, más la brecha aéreo-ósea del NTE.",
+    "El enmascaramiento máximo es cinco decibeles menos que la vía ósea del TE más la AI; por encima, hay sobreenmascaramiento.",
+    "Aunque el ruido no cruce, el umbral puede desplazarse unos cinco decibeles; esto se llama enmascaramiento central."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "VO del TE 10 dB, AI 40 dB. ¿Cuál es el ruido máximo?",
+   "secenekler": [
+    "40 dB EM",
+    "45 dB EM",
+    "50 dB EM",
+    "60 dB EM"
+   ],
+   "dogru": 1,
+   "aciklama": "Máximo = VO del TE + AI menos 5: _10 + 40 - 5 = 45 dB EM_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: la vía ósea del TE es de diez decibeles y la AI de cuarenta. ¿Cuál es el ruido máximo antes del sobreenmascaramiento?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: cuarenta y cinco dB EM."
+    },
+    "El ruido máximo es cinco menos que la suma de la vía ósea del TE y la AI: diez más cuarenta menos cinco, cuarenta y cinco."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "El método de la *meseta* paso a paso",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección estudiaremos el método de la meseta, en el que subimos el ruido paso a paso dentro de estos límites para hallar el umbral real.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

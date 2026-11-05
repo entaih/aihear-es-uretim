@@ -1,0 +1,217 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R401_P300_Rare_Target_Sound_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #401",
+  "baslik": "La onda *del conteo*",
+  "alt": "La P300 y el sonido objetivo infrecuente",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -100,
+    "max": 600,
+    "ad": "Tiempo (ms)",
+    "isaretler": [
+     0,
+     100,
+     200,
+     300,
+     400,
+     500,
+     600
+    ]
+   },
+   "y": {
+    "min": -6,
+    "max": 12,
+    "adim": 3,
+    "ad": "Amplitud (µV)"
+   },
+   "seriler": [
+    {
+     "ad": "sik",
+     "noktalar": [
+      [
+       -100,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       50,
+       0.5
+      ],
+      [
+       100,
+       -3.5
+      ],
+      [
+       180,
+       2.5
+      ],
+      [
+       250,
+       0.5
+      ],
+      [
+       350,
+       0.5
+      ],
+      [
+       450,
+       0
+      ],
+      [
+       600,
+       0
+      ]
+     ],
+     "renk": "lacivert",
+     "yumusak": true,
+     "cumle": 1
+    },
+    {
+     "ad": "seyrek",
+     "noktalar": [
+      [
+       -100,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       50,
+       0.5
+      ],
+      [
+       100,
+       -4
+      ],
+      [
+       180,
+       2.5
+      ],
+      [
+       230,
+       -1
+      ],
+      [
+       320,
+       9
+      ],
+      [
+       400,
+       5
+      ],
+      [
+       480,
+       1
+      ],
+      [
+       600,
+       0
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true,
+     "kalin": true,
+     "cumle": 2
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "p300",
+     "x": 320,
+     "y": 9,
+     "etiket": "P300",
+     "dus": "x",
+     "cumle": 3
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Cómo cambia una onda cerebral al contar sonidos infrecuentes? #shorts",
+  "aciklama": "En el registro de la P300, se pide a la persona que cuente los sonidos infrecuentes o que presione un botón con cada uno; ante el sonido objetivo atendido, aparece una gran onda positiva alrededor de los 300 milisegundos. Cuanto más infrecuente es el sonido objetivo, mayor es la P300; si la persona no realiza la tarea o se distrae, la respuesta se reduce o desaparece.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "electrofisiologia",
+   "cerebro"
+  ],
+  "etiketler": [
+   "P300",
+   "paradigma oddball",
+   "potenciales cognitivos",
+   "atención",
+   "potencial endógeno",
+   "potencial evocado auditivo",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Cómo cambia una onda cerebral al contar sonidos infrecuentes?",
+  "bilgiler": [
+   "Se pide a la persona que cuente los sonidos objetivo infrecuentes.",
+   "Ante el objetivo aparece una gran onda positiva a unos 300 milisegundos.",
+   "Si la atención se dispersa, la P300 se reduce o desaparece."
+  ],
+  "hashtag": [
+   "audiologia",
+   "electrofisiologia",
+   "cerebro"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #401",
+   "metin": "¿Qué cambia *al contar?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Cómo cambia una onda cerebral al contar sonidos infrecuentes?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Latencia de la *P300*",
+   "sayi": "300",
+   "birim": "ms",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    {
+     "yazi": "Para la P300, la persona cuenta los sonidos infrecuentes."
+    },
+    "Cada objetivo produce una gran onda positiva cerca de los trescientos milisegundos.",
+    "Cuanto más infrecuente es el sonido objetivo, mayor es esta onda.",
+    {
+     "yazi": "Si la atención se dispersa, la P300 se reduce o desaparece."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D202",
+ "kaynak_baslik": "P300 y MMN: potenciales auditivos cognitivos"
+}

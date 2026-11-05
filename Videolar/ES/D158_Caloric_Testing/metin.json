@@ -1,0 +1,816 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D158_Caloric_Testing_ES",
+ "kapak": {
+  "ust": "LECCIÓN 158",
+  "baslik": "La prueba *calórica*",
+  "alt": "Método bitérmico, cálculo de PC y PD",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Pruebas calóricas: método bitérmico e interpretación | Lección 158 | AIHEAR Academia de Audiología",
+  "aciklama": "Esta lección explica el principio de las pruebas calóricas, el método bitérmico a 30 y 44 °C y la regla COWS. Calculamos paso a paso, con valores de ejemplo, la paresia canalicular (PC) con la fórmula de Jongkees y la preponderancia direccional (PD), y luego repasamos los patrones de respuesta y las limitaciones de la prueba.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Jacobson and Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology; ANSI/ASA S3.45, Procedures for Testing Basic Vestibular Function.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "pruebacalorica",
+   "vestibular"
+  ],
+  "etiketler": [
+   "prueba calórica",
+   "pruebas calóricas",
+   "prueba calórica bitérmica",
+   "regla COWS",
+   "fórmula de Jongkees",
+   "paresia canalicular",
+   "debilidad vestibular unilateral",
+   "preponderancia direccional",
+   "evaluación vestibular",
+   "videonistagmografía",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 158",
+   "baslik": "La prueba *calórica*",
+   "alt": "Método bitérmico e interpretación",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos la prueba calórica, el método bitérmico que evalúa por separado el canal lateral de cada oído.",
+    {
+     "yazi": "Con valores de ejemplo, trabajaremos la regla COWS y los cálculos de la paresia canalicular y de la preponderancia direccional."
+    }
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Principio de la prueba calórica",
+   "baslik": "¿*Qué* mide la prueba calórica?",
+   "maddeler": [
+    {
+     "metin": "Estimula cada oído _por separado_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Canal lateral y nervio vestibular _superior_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Un estímulo de _muy baja frecuencia_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Medida: _velocidad de la fase lenta_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "lateral_kanal",
+      "metin": "canal lateral",
+      "cumle": 1
+     },
+     {
+      "parca": "vestibuler_sinir",
+      "metin": "nervio vestibular",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "La prueba calórica es una prueba clásica que permite comparar de forma independiente la respuesta vestibular de ambos oídos.",
+    "Evalúa sobre todo el canal semicircular lateral y la vía del nervio vestibular superior que lo inerva.",
+    "El estímulo es muy lento comparado con los movimientos cotidianos de la cabeza; es decir, es un estímulo de baja frecuencia.",
+    "Por eso la prueba calórica explora un rango de frecuencias distinto del de la prueba de impulso cefálico con video, que veremos más adelante.",
+    "La magnitud de la respuesta se mide por la velocidad de la fase lenta del nistagmo, en grados por segundo.",
+    "Como no requiere mover la cabeza, también puede usarse en algunos pacientes con problemas cervicales."
+   ]
+  },
+  {
+   "id": "isi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Principio de la prueba calórica",
+   "baslik": "¿Cómo provoca *nistagmo* la temperatura?",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Se aplica agua o aire",
+     "cumle": 0
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Flujo de endolinfa en el canal lateral",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Decúbito supino, cabeza flexionada 30 grados",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Lo caliente excita, lo frío inhibe",
+     "cumle": 5,
+     "ikon": "denge"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 2,
+     "olcek": 2.2
+    }
+   ],
+   "cumleler": [
+    "Se aplica en el conducto auditivo agua o aire más caliente o más frío que la temperatura corporal.",
+    "El paciente está en decúbito supino con la cabeza elevada unos treinta grados, lo que lleva el canal lateral al plano vertical.",
+    "El cambio de temperatura llega al canal lateral a través del hueso temporal y modifica la densidad de la endolinfa en parte del canal.",
+    "La endolinfa calentada asciende y la enfriada desciende, lo que genera un flujo dentro del canal.",
+    "Este flujo desplaza la cúpula, y aparece un nistagmo a través del reflejo vestíbulo-ocular.",
+    "El estímulo caliente empuja la cúpula hacia la ampolla y la excita, mientras que el frío la empuja en sentido contrario y la inhibe."
+   ]
+  },
+  {
+   "id": "cows",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Principio de la prueba calórica",
+   "baslik": "La regla *COWS*",
+   "maddeler": [
+    {
+     "metin": "Dirección: la _fase rápida_ del nistagmo",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Frío, opuesto_: late hacia el otro lado",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Caliente, mismo_: late hacia el mismo lado",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Válida: _decúbito supino_, cabeza flexionada",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El nistagmo se nombra según la dirección de su fase rápida, algo fácil de recordar con la regla COWS."
+    },
+    "Frío, opuesto: con un estímulo frío, el nistagmo late hacia el oído contrario.",
+    "Caliente, mismo: con un estímulo caliente, el nistagmo late hacia el oído estimulado.",
+    "Por ejemplo, el agua caliente en el oído derecho produce un nistagmo que late a la derecha, y el agua fría, uno que late a la izquierda.",
+    "Esta relación se cumple con el paciente en decúbito supino y la cabeza flexionada treinta grados; en decúbito prono se invierte."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "El método bitérmico",
+   "baslik": "*Preparación* para la prueba",
+   "maddeler": [
+    {
+     "metin": "_Otoscopia_: cerumen y estado de la membrana timpánica",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Preguntar por _fármacos_ supresores y alcohol",
+     "cumle": 2,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Informar al paciente _de antemano_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Tareas de alerta _mental_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Antes de comenzar, realicen una otoscopia en ambos oídos.",
+    "El cerumen puede bloquear el estímulo; si la membrana timpánica está perforada, no se usa agua y el método se elige con el médico.",
+    "Los fármacos supresores vestibulares y el alcohol pueden reducir las respuestas; pregunten por ellos según el protocolo y la indicación médica.",
+    "Expliquen que puede haber un giro breve y náuseas, y que se trata de una respuesta esperada.",
+    "Durante la prueba, propongan tareas como cálculo mental o nombrar objetos; así se evita la supresión mental de la respuesta."
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "El método bitérmico",
+   "baslik": "El método *bitérmico*",
+   "maddeler": [
+    {
+     "metin": "Agua: _30 y 44 °C_",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Irrigación con agua: en general _30 segundos_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Cuatro irrigaciones: _derecha e izquierda_, caliente y fría",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Esperar a que la respuesta _desaparezca_",
+     "cumle": 4,
+     "ikon": "saat"
+    },
+    {
+     "metin": "El _mismo_ estímulo en ambos oídos",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "En el método bitérmico, cada oído recibe dos estímulos, uno caliente y otro frío.",
+    "Con agua, suelen usarse treinta y cuarenta y cuatro grados, es decir, siete grados por debajo y por encima de la temperatura corporal.",
+    "Una irrigación con agua suele durar unos treinta segundos.",
+    "Se hacen cuatro irrigaciones: derecha caliente, izquierda caliente, derecha fría e izquierda fría; el orden puede variar entre laboratorios.",
+    "Después de cada irrigación, se espera a que el nistagmo desaparezca por completo, a menudo durante unos minutos.",
+    "Aplicar en ambos oídos un estímulo de igual temperatura, duración y volumen es la condición básica para poder compararlos."
+   ]
+  },
+  {
+   "id": "su_hava",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 2",
+   "bolum": "El método bitérmico",
+   "baslik": "¿Agua o *aire?*",
+   "sol": {
+    "ust": "Agua",
+    "maddeler": [
+     {
+      "metin": "Estímulo más fuerte y constante",
+      "cumle": 1
+     },
+     {
+      "metin": "No se usa si hay perforación",
+      "cumle": 1
+     },
+     {
+      "metin": "Humedad y molestia",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Aire",
+    "maddeler": [
+     {
+      "metin": "En general, unos 24 y 50 °C",
+      "cumle": 2
+     },
+     {
+      "metin": "Irrigación más prolongada",
+      "cumle": 2
+     },
+     {
+      "metin": "Intensidad del estímulo más variable",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "El estímulo calórico puede aplicarse con agua o con aire.",
+    "El agua transfiere el calor con más eficacia, por lo que suele producir una respuesta más fuerte y constante.",
+    "Con aire, las temperaturas suelen ser de unos veinticuatro y cincuenta grados, y la irrigación dura más.",
+    "El aire puede dar resultados más variables según la forma del conducto auditivo y la humedad que quede en él.",
+    "Sea cual sea el método elegido, los valores normativos deben ser propios de ese método y de ese laboratorio."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "El método bitérmico",
+   "baslik": "*Medición* de la respuesta",
+   "maddeler": [
+    {
+     "metin": "Medida: _velocidad máxima_ de la fase lenta",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Pico: alrededor de _1 minuto_ después",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Registro sin _fijación visual_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Luego, _supresión_ con fijación",
+     "cumle": 3,
+     "ikon": "ampul"
+    }
+   ],
+   "cumleler": [
+    "El resultado de cada irrigación se expresa como el promedio de unos segundos en torno a la velocidad máxima de la fase lenta del nistagmo.",
+    "La respuesta suele alcanzar su pico alrededor de un minuto después del inicio de la irrigación.",
+    "Durante ese tiempo se registran los ojos sin fijación visual, con las videogafas cerradas.",
+    "Tras el pico, se pide al paciente que mire una luz y se mide la reducción del nistagmo.",
+    "Normalmente la fijación reduce el nistagmo con claridad, en general en más de la mitad; si no lo reduce, sugiere causas centrales.",
+    "Si hay nistagmo espontáneo, esta línea de base se tiene en cuenta al interpretar las respuestas calóricas."
+   ]
+  },
+  {
+   "id": "jongkees",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cálculo",
+   "baslik": "Paresia canalicular: *Jongkees*",
+   "maddeler": [
+    {
+     "metin": "Total derecho: _derecha caliente + derecha fría_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Total izquierdo: _izquierda caliente + izquierda fría_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Diferencia dividida entre _las cuatro respuestas_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Corte habitual: _20 a 25_ por ciento",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FÓRMULA DE LA PC",
+    "metin": "(Total derecho menos total izquierdo) / *suma de las cuatro respuestas* x 100",
+    "cumle": 2
+   },
+   "cumleler": [
+    "La paresia canalicular, o PC, se calcula con la fórmula de Jongkees.",
+    "Primero se suman las respuestas caliente y fría de cada oído, lo que da un total para el oído derecho y otro para el izquierdo.",
+    "La diferencia entre ambos totales se divide entre la suma de las cuatro respuestas y se expresa en porcentaje.",
+    "El signo del resultado indica qué oído es el más débil.",
+    "Por ejemplo, si el total derecho es mayor que el izquierdo, el resultado es positivo e indica que el oído izquierdo es el más débil.",
+    "Una diferencia mayor del veinte al veinticinco por ciento suele considerarse significativa; el punto de corte exacto varía según el laboratorio."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cálculo",
+   "baslik": "Un *ejemplo* resuelto",
+   "sutunlar": [
+    "Irrigación",
+    "Velocidad de fase lenta",
+    "Dirección del nistagmo"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Derecha caliente",
+      "30 grados/s",
+      "Derecha"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Derecha fría",
+      "28 grados/s",
+      "Izquierda"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Izquierda caliente",
+      "12 grados/s",
+      "Izquierda"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Izquierda fría",
+      "10 grados/s",
+      "Derecha"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Resultado",
+      "PC del 45 %",
+      "Izquierdo débil"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Calculemos con valores puramente de ejemplo: derecha caliente da treinta y derecha fría veintiocho grados por segundo.",
+    "Izquierda caliente da doce e izquierda fría diez grados por segundo.",
+    "El total derecho es cincuenta y ocho, el izquierdo veintidós, y la suma de las cuatro respuestas es ochenta.",
+    "La diferencia es treinta y seis; treinta y seis dividido entre ochenta es el cuarenta y cinco por ciento.",
+    "En este ejemplo el oído izquierdo es el más débil, con una paresia canalicular izquierda del cuarenta y cinco por ciento.",
+    "Esto indica una respuesta reducida del canal lateral o de la vía nerviosa izquierdos; encontrar la causa requiere una evaluación médica."
+   ]
+  },
+  {
+   "id": "dp",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cálculo",
+   "baslik": "Preponderancia *direccional*",
+   "maddeler": [
+    {
+     "metin": "Hacia la derecha: _derecha caliente + izquierda fría_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Hacia la izquierda: _izquierda caliente + derecha fría_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "También dividida entre _las cuatro respuestas_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Corte habitual: _25 a 30_ por ciento",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La preponderancia direccional, o PD, muestra si el nistagmo es más fuerte en una dirección que en la otra.",
+    "El nistagmo que late a la derecha proviene de las irrigaciones derecha caliente e izquierda fría; estas dos se suman.",
+    "El nistagmo que late a la izquierda proviene de las irrigaciones izquierda caliente y derecha fría.",
+    "La diferencia entre ambas direcciones se divide también entre la suma de las cuatro respuestas y se expresa en porcentaje.",
+    "En nuestro ejemplo, las respuestas hacia la derecha suman cuarenta y las de la izquierda también cuarenta, así que no hay preponderancia.",
+    "Los valores mayores del veinticinco al treinta por ciento suelen ser significativos; la PD por sí sola no indica el lado de la lesión."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de informar una paresia, revisen la irrigación: conducto, temperatura, duración y alerta del paciente. Repitan toda irrigación dudosa.",
+   "cumleler": [
+    "Un consejo clínico: antes de informar una paresia canalicular, asegúrense de que la irrigación que parece débil se hizo correctamente.",
+    "Si el agua o el aire no llegaron al fondo del conducto, o si la temperatura o la duración variaron, la respuesta puede ser falsamente pequeña.",
+    "Si el paciente está distraído o somnoliento, el nistagmo puede suprimirse; mantengan las tareas mentales.",
+    "Repetir una irrigación dudosa tras un descanso suficiente evita un resultado falso."
+   ]
+  },
+  {
+   "id": "monotermal",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Cálculo",
+   "baslik": "*Tamizaje* con una sola temperatura",
+   "maddeler": [
+    {
+     "metin": "Solo irrigaciones _calientes_",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Si son simétricas y suficientes, _puede acortarse_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Ante la duda, completar el _método bitérmico_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "La preponderancia direccional _no puede calcularse_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Algunos laboratorios inician la prueba solo con irrigaciones calientes, es decir, de forma monotérmica.",
+    "Si las dos respuestas calientes son suficientemente amplias y simétricas, pueden omitirse las irrigaciones frías, según el protocolo.",
+    "Si hay asimetría, una respuesta débil o un hallazgo dudoso, la prueba se completa de forma bitérmica.",
+    "Con un método monotérmico no puede calcularse la preponderancia direccional y pueden pasarse por alto algunos hallazgos.",
+    "Por eso el tamizaje monotérmico solo se usa con criterios bien definidos y de acuerdo con el protocolo del laboratorio."
+   ]
+  },
+  {
+   "id": "kelebek",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación",
+   "baslik": "*Presentación* de los resultados",
+   "maddeler": [
+    {
+     "metin": "El gráfico de _mariposa_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cuatro irrigaciones, _cuatro cuadrantes_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Zona sombreada: límites _normales_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "La _asimetría_ de un vistazo",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "En la mayoría de los equipos, los resultados calóricos se muestran en una figura llamada gráfico de mariposa.",
+    "El gráfico muestra la velocidad de la fase lenta y la dirección del nistagmo de cada irrigación en cuatro cuadrantes separados.",
+    "La zona sombreada marca los límites normales del laboratorio.",
+    "Esta presentación permite ver de un vistazo la paresia canalicular y la preponderancia direccional.",
+    "Sin embargo, las decisiones siempre se basan en los valores numéricos y en la calidad técnica de las irrigaciones."
+   ]
+  },
+  {
+   "id": "oruntuler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación",
+   "baslik": "*Patrones* de respuesta",
+   "sutunlar": [
+    "Hallazgo",
+    "¿Qué sugiere?"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Paresia canalicular",
+      "Hipofunción periférica ipsilateral"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Hiporreflexia bilateral",
+      "Hipofunción vestibular bilateral"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Preponderancia direccional",
+      "No lateraliza"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Sin supresión por fijación",
+      "Causas centrales"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Respuestas muy intensas",
+      "Considerar causas centrales"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La paresia canalicular suele sugerir un problema en el canal lateral o en la vía del nervio vestibular superior de ese lado.",
+    "Respuestas muy pequeñas en las cuatro irrigaciones sugieren una hiporreflexia bilateral.",
+    "En ese caso, algunos laboratorios confirman la ausencia real de respuesta con una irrigación adicional con agua helada.",
+    "La preponderancia direccional puede deberse tanto a causas periféricas como centrales y, por sí sola, no indica el lado de la lesión.",
+    "Que la fijación no reduzca el nistagmo es un hallazgo central importante.",
+    "También pueden verse respuestas calóricas muy intensas en algunos trastornos cerebelosos; estos hallazgos se comunican al médico."
+   ]
+  },
+  {
+   "id": "iki_tarafli",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación",
+   "baslik": "Hiporreflexia *bilateral*",
+   "maddeler": [
+    {
+     "metin": "Todas las respuestas, _muy pequeñas_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Confirmar: _agua helada_ o silla rotatoria",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Síntomas: _oscilopsia_ e inestabilidad",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Una causa conocida: fármacos _ototóxicos_",
+     "cumle": 3,
+     "ikon": "ilac"
+    }
+   ],
+   "cumleler": [
+    "En la hiporreflexia bilateral, las respuestas caliente y fría de ambos oídos están claramente por debajo de las normas del laboratorio.",
+    "Este hallazgo puede confirmarse con una irrigación con agua helada, la silla rotatoria o la prueba de impulso cefálico con video.",
+    "Estos pacientes pueden describir que el entorno rebota al caminar, lo que se llama oscilopsia, e inestabilidad, sobre todo en la oscuridad.",
+    "Los fármacos ototóxicos, como algunos antibióticos aminoglucósidos, están entre las causas conocidas.",
+    "Este hallazgo debe comunicarse al médico, porque hay que investigar la causa y planificar la rehabilitación."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación",
+   "baslik": "*Limitaciones* de la prueba",
+   "maddeler": [
+    {
+     "metin": "Solo el _canal lateral_",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Solo _baja frecuencia_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Sensible_ a la anatomía y la técnica",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Náuseas y _molestias_",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "lateral_kanal",
+      "metin": "solo el canal lateral",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "La prueba calórica evalúa solo el canal lateral; no explora los canales anterior y posterior ni los órganos otolíticos.",
+    "Como usa un estímulo de baja frecuencia, no refleja directamente la función de alta frecuencia de los movimientos cotidianos de la cabeza.",
+    "La forma del conducto auditivo y la estructura del oído medio y del hueso temporal influyen en la transferencia de calor y en el resultado.",
+    "Algunos pacientes sienten náuseas y molestias marcadas durante la prueba.",
+    {
+     "yazi": "Por eso la prueba calórica se interpreta dentro de una batería, con pruebas como la de impulso cefálico con video, o vHIT, y los VEMP."
+    },
+    {
+     "yazi": "En una próxima lección veremos por qué la prueba calórica y el vHIT pueden dar resultados distintos."
+    }
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "COWS: frío _opuesto_, caliente mismo",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "30 y 44 °C, _cuatro_ irrigaciones",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "PC: _Jongkees_, corte de 20 a 25 %",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "PD: _no lateraliza_",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Con un estímulo frío el nistagmo late hacia el oído contrario, y con uno caliente, hacia el mismo oído.",
+    "En la prueba bitérmica cada oído recibe agua a treinta y a cuarenta y cuatro grados, y se comparan las cuatro respuestas.",
+    "La paresia canalicular se calcula con la fórmula de Jongkees; por encima del veinte al veinticinco por ciento suele ser significativa.",
+    "La preponderancia direccional muestra un nistagmo dominante en una dirección, pero por sí sola no identifica el lado de la lesión."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Agua fría en el oído izquierdo. ¿Hacia dónde late el nistagmo?",
+   "secenekler": [
+    "Hacia la izquierda",
+    "Hacia la derecha",
+    "Hacia arriba"
+   ],
+   "dogru": 1,
+   "aciklama": "Frío, opuesto: con frío, el nistagmo late hacia el oído _contrario_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en supino y con la cabeza flexionada treinta grados, se aplica agua fría en el oído izquierdo. ¿Hacia dónde late el nistagmo?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: hacia la derecha.",
+    {
+     "yazi": "Según la regla COWS, con un estímulo frío el nistagmo late hacia el oído contrario, es decir, hacia la derecha."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*vHIT*: ganancia y sacadas en el impulso cefálico",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "En la próxima lección conoceremos la prueba de impulso cefálico con video, o vHIT, su valor de ganancia y las sacadas."
+    },
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

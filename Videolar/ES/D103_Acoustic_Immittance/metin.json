@@ -1,0 +1,760 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D103_Acoustic_Immittance_ES",
+ "kapak": {
+  "ust": "LECCIÓN 103",
+  "baslik": "Inmitancia<br>*acústica*",
+  "alt": "Impedancia, admitancia y 226 Hz",
+  "cizim": "orta_kulak"
+ },
+ "youtube": {
+  "baslik": "Inmitancia acústica: impedancia y admitancia | Lección 103 | AIHEAR Academia de Audiología",
+  "aciklama": "La inmitanciometría mide con qué facilidad el oído medio transmite el sonido. En esta lección vemos la impedancia, la admitancia y la inmitancia, los componentes de masa, rigidez y resistencia, la frecuencia de resonancia del oído medio, por qué se elige un tono de sonda de 226 Hz en adultos y cómo contribuyen a la medición el conducto auditivo y el oído medio.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Hunter and Shahnaz, Acoustic Immittance Measures: Basic and Advanced Practice.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "inmitancia",
+   "timpanometria"
+  ],
+  "etiketler": [
+   "inmitancia acústica",
+   "impedancia",
+   "admitancia",
+   "compliancia",
+   "tono de sonda",
+   "226 Hz",
+   "frecuencia de resonancia",
+   "masa rigidez resistencia",
+   "oído medio",
+   "impedanciometría",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 103",
+   "baslik": "Inmitancia *acústica:* impedancia y admitancia",
+   "alt": "Impedancia, admitancia y tono de sonda",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos los conceptos de impedancia y admitancia, que son la base de la inmitanciometría.",
+    "Veremos el papel de la masa, la rigidez y la resistencia, y por qué en adultos usamos un tono de sonda de doscientos veintiséis hertz."
+   ]
+  },
+  {
+   "id": "terimler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos",
+   "baslik": "Tres términos, *un* sistema",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Impedancia",
+     "metin": "Oposición al flujo de energía",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Admitancia",
+     "metin": "Facilidad del flujo de energía",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Inmitancia",
+     "metin": "Nombre común para ambas",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Cuando el sonido incide sobre un sistema, parte de la energía pasa al sistema y parte se refleja.",
+    "La impedancia es la oposición total que un sistema ofrece a la energía que recibe.",
+    "La unidad de la impedancia acústica es el ohmio acústico.",
+    "La admitancia es lo contrario: describe con qué facilidad fluye la energía hacia el sistema.",
+    "La unidad de la admitancia es el mho acústico; los equipos clínicos usan su milésima parte, el milimho.",
+    "Inmitancia acústica es un término común que abarca tanto la impedancia como la admitancia.",
+    "Hoy la mayoría de los equipos clínicos miden admitancia, por eso en la pantalla solemos ver milimhos o mililitros."
+   ]
+  },
+  {
+   "id": "bilesenler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos",
+   "baslik": "Masa, rigidez y *resistencia*",
+   "cizim": "orta_kulak",
+   "yakinlastir": [
+    {
+     "parca": "kemikcikler",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kemikcikler",
+     "cumle": 2
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4
+    },
+    {
+     "parca": "stapedius",
+     "cumle": 5
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kemikcikler",
+     "metin": "Masa: los huesecillos",
+     "cumle": 2
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Rigidez: el espacio aéreo",
+     "cumle": 4
+    },
+    {
+     "parca": "stapedius",
+     "metin": "Rigidez: músculos y ligamentos",
+     "cumle": 5
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Masa y rigidez",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Resistencia: convierte energía en calor",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Masa: actúa en frecuencias altas",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Rigidez: actúa en frecuencias bajas",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Tres componentes determinan la impedancia del oído medio: la resistencia, la masa y la rigidez.",
+    "La resistencia convierte parte de la energía en calor y cambia poco con la frecuencia.",
+    "El componente de masa proviene del peso del sistema, sobre todo de los huesecillos.",
+    "La oposición debida a la masa aumenta al subir la frecuencia, por eso actúa más en las frecuencias altas.",
+    "El componente de rigidez proviene del aire de la caja del tímpano, de la membrana timpánica, de los ligamentos y de los tendones musculares.",
+    "La oposición debida a la rigidez aumenta al bajar la frecuencia, por eso actúa más en las frecuencias bajas.",
+    "La membrana timpánica contribuye tanto a la masa como a la rigidez."
+   ]
+  },
+  {
+   "id": "rezonans",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos",
+   "baslik": "La *resonancia* del oído medio",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)"
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "yazisiz": true,
+     "ad": "Oposición (relativa)"
+    },
+    "seriler": [
+     {
+      "ad": "sertlik",
+      "noktalar": [
+       [
+        125,
+        9.6
+       ],
+       [
+        250,
+        7.6
+       ],
+       [
+        500,
+        5.6
+       ],
+       [
+        1000,
+        3.6
+       ],
+       [
+        2000,
+        1.6
+       ],
+       [
+        4000,
+        0.4
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "rigidez",
+      "etiket_konum": [
+       125,
+       9.6
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "kutle",
+      "noktalar": [
+       [
+        125,
+        0.4
+       ],
+       [
+        250,
+        1.6
+       ],
+       [
+        500,
+        2.8
+       ],
+       [
+        1000,
+        3.6
+       ],
+       [
+        2000,
+        5.6
+       ],
+       [
+        4000,
+        8.0
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "masa",
+      "cumle": 1
+     },
+     {
+      "ad": "surtunme",
+      "noktalar": [
+       [
+        125,
+        2
+       ],
+       [
+        4000,
+        2
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "resistencia",
+      "etiket_konum": [
+       3000,
+       2
+      ],
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "rezonans_noktasi",
+      "x": 1000,
+      "y": 3.6,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "resonancia",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "prob",
+      "x": [
+       200,
+       260
+      ],
+      "renk": "sari",
+      "etiket": "226 Hz",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "En resonancia, masa y rigidez se equilibran",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Normal: unos 800 a 1200 Hz",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "226 Hz: predomina la rigidez",
+     "cumle": 5,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "En el diagrama, la oposición debida a la rigidez es grande en las frecuencias bajas y disminuye hacia las altas.",
+    "La oposición debida a la masa hace lo contrario y crece al subir la frecuencia.",
+    "La resistencia se mantiene casi constante a lo largo de las frecuencias.",
+    "La frecuencia en la que la masa y la rigidez se anulan entre sí se llama frecuencia de resonancia; allí solo queda la resistencia.",
+    "En adultos sanos, la frecuencia de resonancia del oído medio suele estar entre ochocientos y mil doscientos hertz.",
+    "Doscientos veintiséis hertz está muy por debajo de esa frecuencia, en la región donde predomina la rigidez.",
+    "Este diagrama es esquemático; su objetivo es mostrar la dirección de las curvas."
+   ]
+  },
+  {
+   "id": "formul",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos",
+   "baslik": "¿*Cómo* se combinan los componentes?",
+   "maddeler": [
+    {
+     "metin": "Masa y rigidez actúan _en sentidos opuestos_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Total: resistencia y _reactancia neta_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "En admitancia: _conductancia_ y _susceptancia_",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "En la clínica, suele usarse _un solo valor_",
+     "cumle": 5,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FÓRMULA",
+    "metin": "Impedancia = raíz cuadrada de (resistencia al cuadrado + *reactancia neta* al cuadrado)",
+    "cumle": 2
+   },
+   "cumleler": [
+    "La masa y la rigidez actúan en sentidos opuestos, así que sus efectos se restan entre sí.",
+    "La diferencia se llama reactancia neta; la impedancia total combina la resistencia y la reactancia neta.",
+    "Matemáticamente, la impedancia es la raíz cuadrada de la suma de la resistencia al cuadrado y la reactancia neta al cuadrado.",
+    "Del lado de la admitancia, este mismo par se llama conductancia y susceptancia.",
+    "Algunos equipos pueden medir estos dos componentes por separado; esta es la base de la timpanometría multifrecuencia.",
+    "En la práctica clínica habitual se usa un único valor de admitancia que combina estos componentes."
+   ]
+  },
+  {
+   "id": "neden226",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "El tono de sonda",
+   "baslik": "¿Por qué *226 Hz*?",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Predomina la rigidez",
+     "metin": "Interpretación más sencilla",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Equivalencia de volumen",
+     "metin": "1 ml = 1 mmho",
+     "cumle": 3
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Conducto auditivo",
+     "metin": "Un simple volumen de aire",
+     "cumle": 4
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Excepción en bebés",
+     "metin": "1000 Hz antes de los seis meses",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "En adultos, el tono de sonda de la timpanometría de rutina es de doscientos veintiséis hertz, por varias razones.",
+    "Primero, a esta frecuencia en el oído medio adulto sano predomina la rigidez, lo que facilita interpretar la medición.",
+    "Un sistema dominado por la rigidez se comporta como un volumen cerrado de aire, así que su admitancia también puede expresarse como volumen.",
+    "Segundo, a doscientos veintiséis hertz, un volumen cerrado de aire de un mililitro corresponde exactamente a un milimho.",
+    "Tercero, a esta frecuencia baja el conducto auditivo se comporta como un simple volumen de aire, y su aporte se resta con facilidad.",
+    "Por eso, a doscientos veintiséis hertz los mililitros y los milimhos pueden usarse indistintamente; esto no se cumple en otras frecuencias.",
+    "En bebés menores de seis meses la masa tiene un efecto claro en el oído medio, por eso se prefiere un tono de sonda de mil hertz."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El tono de sonda",
+   "baslik": "¿*De dónde* viene el sonido medido?",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   },
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 3,
+     "olcek": 2.3
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob_hoparlor",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 4
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 5
+    },
+    {
+     "parca": "prob_pompa",
+     "cumle": 7
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "prob_hoparlor",
+     "metin": "Tono de sonda: 226 Hz",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "Sonido en el conducto",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Volumen del conducto auditivo",
+     "cumle": 4
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Admitancia del oído medio",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La sonda de inmitancia sella herméticamente el conducto auditivo.",
+    "Un pequeño altavoz en la sonda emite un tono continuo, el tono de sonda; su nivel suele ser de unos ochenta y cinco decibeles SPL.",
+    "Un micrófono en la sonda mide de forma continua el nivel sonoro en el conducto auditivo.",
+    "Si el sistema acepta el sonido con facilidad, queda menos sonido en el conducto; eso significa que la admitancia es alta.",
+    "Una parte de la admitancia medida corresponde al aire del conducto auditivo.",
+    "El resto corresponde al sistema de la membrana timpánica y el oído medio; esta es la parte que realmente nos interesa.",
+    "Para separar ambas partes, en la timpanometría se hace variar la presión; lo veremos en la próxima lección.",
+    "Todas las pruebas de inmitancia se basan en este montaje sencillo: un altavoz, un micrófono y una bomba."
+   ]
+  },
+  {
+   "id": "esdeger",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "El tono de sonda",
+   "baslik": "Ejemplo: separar *los dos aportes*",
+   "sutunlar": [
+    "Medición",
+    "Valor"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "A más 200 daPa",
+      "1,0 ml"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "En el pico",
+      "1,7 mmho"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Oído medio (diferencia)",
+      "0,7 mmho"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Veamos un ejemplo: los valores son ilustrativos y están medidos a doscientos veintiséis hertz.",
+    "A más doscientos decapascales la membrana timpánica se tensa; el valor corresponde casi por completo al aire del conducto: un mililitro.",
+    "Cuando la presión se iguala con la del oído medio, la admitancia total sube a su valor máximo, uno coma siete milimhos.",
+    "La diferencia entre ambos, cero coma siete milimhos, es la admitancia del oído medio.",
+    "Como un mililitro equivale a un milimho, esta resta puede hacerse directamente.",
+    "La mayoría de los equipos hacen esta resta por sí mismos y muestran directamente el valor del pico del oído medio."
+   ]
+  },
+  {
+   "id": "kompliyans",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 2",
+   "bolum": "El tono de sonda",
+   "baslik": "¿*Compliancia* o admitancia?",
+   "sol": {
+    "ust": "Uso antiguo",
+    "maddeler": [
+     {
+      "metin": "_Compliancia_: inversa de la rigidez",
+      "cumle": 0
+     },
+     {
+      "metin": "Unidad: _volumen equivalente_, ml",
+      "cumle": 1
+     },
+     {
+      "metin": "Describe solo el componente de rigidez",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Uso actual",
+    "maddeler": [
+     {
+      "metin": "_Admitancia_: todos los componentes",
+      "cumle": 3
+     },
+     {
+      "metin": "Unidad: _mmho_",
+      "cumle": 3
+     },
+     {
+      "metin": "A 226 Hz, ambas unidades coinciden",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "El término compliancia aparece a menudo en equipos y textos antiguos; la compliancia es la inversa de la rigidez y describe la flexibilidad.",
+    "La compliancia se expresaba como un volumen de aire equivalente, en mililitros o centímetros cúbicos.",
+    "Pero este término solo describe el componente de rigidez y deja fuera la masa y la resistencia.",
+    "Hoy se prefieren el término admitancia, que abarca todos los componentes, y la unidad milimho.",
+    "Como a doscientos veintiséis hertz ambas unidades son numéricamente equivalentes, en la clínica pueden verse las dos."
+   ]
+  },
+  {
+   "id": "patoloji",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "En la patología",
+   "baslik": "La patología cambia los *componentes*",
+   "ogeler": [
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Más rigidez",
+     "metin": "Baja la admitancia, sube la resonancia",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Menos rigidez",
+     "metin": "Sube la admitancia, baja la resonancia",
+     "cumle": 3
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Líquido, masa",
+     "metin": "Movimiento claramente reducido",
+     "cumle": 5
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Perforación",
+     "metin": "Volumen medido mucho mayor",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Los trastornos del oído medio modifican estos componentes, y la medición de inmitancia detecta ese cambio.",
+    "En la otosclerosis, la platina del estribo se fija; el sistema se vuelve más rígido, la admitancia tiende a bajar y la frecuencia de resonancia sube.",
+    "En la timpanosclerosis puede verse un aumento similar de la rigidez.",
+    "En la disrupción de la cadena osicular o con una membrana timpánica muy flácida, la rigidez disminuye y la admitancia sube.",
+    "En este caso, la frecuencia de resonancia también baja.",
+    "Cuando hay líquido o una masa en el oído medio, el movimiento de la membrana timpánica se reduce claramente y la admitancia queda muy baja.",
+    "En una perforación, el tono de sonda también llega a la caja del tímpano, y el volumen medido resulta mucho mayor de lo esperado."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Revisa en la pantalla la unidad y el tono de sonda. Solo a 226 Hz los mililitros y los mmho son equivalentes; los resultados a 1000 Hz se leen en mmho.",
+   "cumleler": [
+    "Al leer informes, presta atención a un detalle pequeño pero importante.",
+    "Verifica con qué tono de sonda y en qué unidad se expresa el valor.",
+    "Los mililitros y los milimhos solo pueden usarse indistintamente a doscientos veintiséis hertz.",
+    "En la timpanometría infantil de mil hertz, los resultados se leen en milimhos y no se comparan con las normas de adultos."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "En la patología",
+   "baslik": "La *familia* de las medidas de inmitancia",
+   "maddeler": [
+    {
+     "metin": "_Timpanometría_: admitancia frente a presión",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "_Reflejo acústico_: cambio por contracción muscular",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Pruebas de la _trompa de Eustaquio_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Medidas _multifrecuencia_ y de banda ancha",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "A",
+       "cumle": 0
+      }
+     ]
+    },
+    "cumle": 0
+   },
+   "cumleler": [
+    "Estos conceptos básicos se usan en todas las pruebas de inmitancia; la primera es la timpanometría, que mide la admitancia mientras varía la presión.",
+    "En la prueba del reflejo acústico se mide el pequeño cambio de admitancia que produce la contracción del músculo estapedio.",
+    "Las pruebas de función de la trompa de Eustaquio también se basan en mediciones de presión y admitancia.",
+    "Las medidas multifrecuencia y de banda ancha dan información más detallada al examinar los componentes en distintas frecuencias.",
+    "Todas estas pruebas son rápidas y no requieren que el paciente responda, por eso se consideran pruebas objetivas."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "La impedancia se opone, la admitancia _facilita_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Masa, rigidez y _resistencia_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Resonancia: unos _800 a 1200 Hz_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "A 226 Hz, _1 ml = 1 mmho_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "La impedancia describe la oposición al flujo de energía y la admitancia su facilidad; la inmitancia es el nombre común para ambas.",
+    "La impedancia del oído medio depende de la masa, la rigidez y la resistencia.",
+    "La frecuencia de resonancia, donde la masa y la rigidez se equilibran, es de unos ochocientos a mil doscientos hertz en adultos sanos.",
+    "A doscientos veintiséis hertz predomina la rigidez en el oído medio, y un mililitro de aire equivale a un milimho."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Cómo cambia la frecuencia de resonancia del oído medio en la otosclerosis?",
+   "secenekler": [
+    "Baja",
+    "Sube",
+    "No cambia",
+    "Cae a cero"
+   ],
+   "dogru": 1,
+   "aciklama": "La fijación del estribo _vuelve rígido_ el sistema; más rigidez reduce la admitancia y eleva la frecuencia de resonancia.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cómo cambia la frecuencia de resonancia del oído medio en la otosclerosis?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: sube.",
+    "La fijación de la platina del estribo vuelve más rígido el sistema; con más rigidez, la admitancia baja y la frecuencia de resonancia sube."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cómo realizar una *timpanometría*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección llevaremos estos conceptos a la práctica y veremos paso a paso cómo se realiza una timpanometría.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

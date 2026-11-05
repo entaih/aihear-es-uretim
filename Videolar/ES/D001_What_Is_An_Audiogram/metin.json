@@ -1,0 +1,901 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D001_What_Is_An_Audiogram_ES",
+ "kapak": {
+  "ust": "LECCIÓN 1",
+  "baslik": "Cómo leer un<br>*audiograma*",
+  "alt": "Ejes, símbolos, grado y tipo",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      20,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      35,
+      50,
+      55
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "¿Qué es un audiograma y cómo se lee? | Lección 01 | AIHEAR Academia de Audiología",
+  "aciklama": "Aprendemos los ejes de frecuencia y dB HL del audiograma y los símbolos de los oídos derecho e izquierdo y de la conducción aérea y ósea. Luego, con audiogramas de ejemplo, leemos paso a paso el grado, el tipo y la configuración de una pérdida auditiva.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Guidelines for Audiometric Symbols (1990); ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audiograma",
+   "audicion"
+  ],
+  "etiketler": [
+   "audiograma",
+   "cómo leer un audiograma",
+   "conducción aérea",
+   "conducción ósea",
+   "dB HL",
+   "audiometría tonal",
+   "hipoacusia",
+   "clases de audiología",
+   "fonoaudiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 1",
+   "baslik": "¿Qué es un *audiograma* y cómo se lee?",
+   "alt": "Ejes, símbolos, grado, tipo y configuración",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta primera lección conocemos el audiograma, el documento más básico de la clínica audiológica.",
+    "Paso a paso veremos sus ejes y símbolos, y cómo leer el grado, el tipo y la forma de una pérdida auditiva."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es un audiograma?",
+   "baslik": "¿Qué es un *audiograma*?",
+   "maddeler": [
+    {
+     "metin": "Un _gráfico_ de umbrales auditivos",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Se obtiene con _audiometría de tonos puros_",
+     "cumle": 1,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Cada oído se evalúa _por separado_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Se miden conducción aérea y _conducción ósea_",
+     "cumle": 4,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "UMBRAL",
+    "metin": "El nivel *más bajo* oído en cerca de la mitad de las presentaciones",
+    "cumle": 2
+   },
+   "cumleler": [
+    "Un audiograma es un gráfico que muestra los umbrales auditivos de una persona en distintas frecuencias.",
+    "Estos umbrales se miden con audiometría de tonos puros, es decir, presentando tonos puros de una sola frecuencia.",
+    "El umbral es la intensidad más baja a la que la persona oye el sonido en cerca de la mitad de las presentaciones.",
+    "Cada oído se evalúa por separado, y los resultados se muestran en un solo gráfico o en dos gráficos separados.",
+    "Los umbrales se miden por dos vías: la conducción aérea y la conducción ósea.",
+    "Comparar estas dos vías nos indica de qué parte del oído proviene la pérdida auditiva."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es un audiograma?",
+   "baslik": "¿*Cómo* se miden los umbrales?",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "cihaz",
+     "metin": "Audiómetro",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "Auriculares: conducción aérea",
+     "cumle": 1
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "Vibrador óseo",
+     "cumle": 3
+    },
+    {
+     "parca": "hasta_butonu",
+     "metin": "Botón de respuesta",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Aérea: oído externo, medio e interno",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Ósea: directo al oído interno",
+     "cumle": 4,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Baja 10 dB, sube 5 dB",
+     "cumle": 6,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Los umbrales se miden con un equipo llamado audiómetro, que produce tonos puros.",
+    "En la prueba de conducción aérea, el sonido se presenta con auriculares supraaurales o auriculares de inserción.",
+    "Este sonido pasa por el oído externo, medio e interno, de modo que evalúa toda la vía auditiva.",
+    "En la prueba de conducción ósea, se coloca un vibrador óseo sobre la apófisis mastoides, detrás de la oreja.",
+    "El vibrador hace vibrar el cráneo y lleva el sonido al oído interno, evitando en gran parte el oído externo y medio.",
+    "Cada vez que el paciente oye el sonido, presiona un botón o levanta la mano.",
+    "El umbral suele hallarse con una regla simple: bajar diez decibeles tras una respuesta y subir cinco si no la hay."
+   ]
+  },
+  {
+   "id": "yatay",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Los ejes",
+   "baslik": "Eje horizontal: *frecuencia*",
+   "maddeler": [
+    {
+     "metin": "Unidad: _hercio_ (Hz)",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "De izquierda a derecha: _de grave a agudo_",
+     "cumle": 1,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Rango habitual: _250 a 8000 Hz_",
+     "cumle": 2,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Frecuencias interoctava: _1500, 3000, 6000 Hz_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "OCTAVA",
+    "metin": "Intervalo en el que la frecuencia se *duplica*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "El eje horizontal del audiograma muestra la frecuencia, y su unidad es el hercio.",
+    "La frecuencia aumenta de izquierda a derecha: los sonidos graves están a la izquierda y los agudos, a la derecha.",
+    "La evaluación de rutina suele abarcar las frecuencias de doscientos cincuenta a ocho mil hercios.",
+    "Estas frecuencias están separadas por una octava, y con cada octava la frecuencia se duplica.",
+    "Si dos octavas vecinas difieren mucho, también se evalúan frecuencias interoctava, como mil quinientos o tres mil hercios.",
+    "El oído humano puede oír aproximadamente de veinte a veinte mil hercios.",
+    "La región más importante para comprender el habla está, aproximadamente, entre quinientos y cuatro mil hercios."
+   ]
+  },
+  {
+   "id": "dikey",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Los ejes",
+   "baslik": "Eje vertical: *nivel de audición*",
+   "maddeler": [
+    {
+     "metin": "Unidad: _dB HL_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "_0 dB HL_: umbral promedio de adultos jóvenes",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Más abajo en el gráfico: sonido _más fuerte_",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Rango: _-10 a 120 dB HL_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "NOTA",
+    "metin": "0 dB HL no significa *silencio*",
+    "cumle": 2
+   },
+   "cumleler": [
+    "El eje vertical muestra el nivel de audición, medido en decibeles de nivel de audición, abreviado dB HL.",
+    "Cero dB HL corresponde al umbral promedio de adultos jóvenes con audición normal en cada frecuencia.",
+    "Por eso, cero no significa silencio, y también pueden verse valores como menos diez dB HL.",
+    "Cuanto más abajo en el eje, más fuerte debe ser el sonido, lo que significa una audición más pobre.",
+    "El gráfico suele abarcar el rango de menos diez a ciento veinte dB HL.",
+    "En un audiograma estándar, una octava en horizontal equivale a veinte decibeles en vertical, así los audiogramas son comparables."
+   ]
+  },
+  {
+   "id": "muz",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Los ejes",
+   "baslik": "La *banana* del habla",
+   "cizim": "konusma_muzu",
+   "notlar": [
+    {
+     "metin": "Vocales: graves y más intensas",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "s, sh, f: agudas y débiles",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Pérdida en agudos: se pierden consonantes",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "Si ubicamos los sonidos del habla en el audiograma, forman un área con forma de banana llamada banana del habla.",
+    "Las vocales son más graves y más intensas, por eso se ubican en el lado izquierdo de la banana y más abajo.",
+    "Las consonantes fricativas como s, sh y f son agudas y débiles; se ubican en la parte superior derecha de la banana.",
+    "Una persona cuyos umbrales están por encima de la banana, en niveles más bajos de decibeles, puede oír estos sonidos.",
+    "Quien tiene una pérdida en agudos oye las vocales, pero puede perder las consonantes agudas, y dice: oigo, pero no entiendo.",
+    "La banana del habla es una herramienta muy útil para explicar un audiograma al paciente y a su familia."
+   ]
+  },
+  {
+   "id": "isaretler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Símbolos",
+   "baslik": "*Símbolos* del audiograma",
+   "sutunlar": [
+    "Medición",
+    "Oído derecho",
+    "Oído izquierdo"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Conducción aérea",
+      "O (rojo)",
+      "X (azul)"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Aérea, enmascarada",
+      "Triángulo",
+      "Cuadrado"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Conducción ósea",
+      "&lt;",
+      "&gt;"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Ósea, enmascarada",
+      "[",
+      "]"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Sin respuesta",
+      "Flecha hacia abajo",
+      "Flecha hacia abajo"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Los símbolos del audiograma se basan sobre todo en la guía de la Asociación Americana del Habla, Lenguaje y Audición, o ASHA.",
+    "En la conducción aérea, el oído derecho se marca con un círculo rojo y el izquierdo, con una cruz azul.",
+    "Si se usó enmascaramiento, la conducción aérea se marca con un triángulo en el oído derecho y un cuadrado en el izquierdo.",
+    "En la conducción ósea, se usa el signo menor que para el oído derecho y el signo mayor que para el izquierdo.",
+    "En la conducción ósea enmascarada, se dibuja un corchete de apertura para el oído derecho y uno de cierre para el izquierdo.",
+    "Si no hay respuesta ni siquiera con la salida máxima del audiómetro, se agrega una flecha hacia abajo bajo el símbolo.",
+    "Los símbolos de conducción aérea se unen con una línea continua.",
+    "Veremos el enmascaramiento en detalle en próximas lecciones; por ahora, basta con reconocer los símbolos."
+   ]
+  },
+  {
+   "id": "normal",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Símbolos",
+   "baslik": "Ejemplo: audición *normal*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: conducción aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: conducción aérea",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       10,
+       15,
+       20,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "En este ejemplo vemos los umbrales de conducción aérea del oído derecho como círculos rojos.",
+    "Los umbrales del oído izquierdo están marcados con cruces azules.",
+    "En adultos, los umbrales de veinticinco dB HL o mejores suelen considerarse dentro de los límites normales.",
+    "Este límite varía un poco según la clasificación; la Organización Mundial de la Salud, por ejemplo, usa veinte decibeles.",
+    "En niños, muchas clínicas usan un límite más estricto, por lo general quince decibeles.",
+    "En este ejemplo, todos los umbrales de ambos oídos caen en la zona verde, así que la audición está dentro de los límites normales."
+   ]
+  },
+  {
+   "id": "uc_soru",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Grado y tipo",
+   "baslik": "Leer un audiograma con *tres preguntas*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Grado",
+     "metin": "¿Cuánta pérdida hay?",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tipo",
+     "metin": "¿Dónde está la pérdida?",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Configuración",
+     "metin": "¿Qué forma tiene?",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Cada oído",
+     "metin": "Se responde por separado",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Al leer un audiograma, buscamos la respuesta a tres preguntas para cada oído.",
+    "La primera es el grado: ¿qué tan grande es la pérdida?",
+    "La segunda es el tipo: ¿de qué parte del oído proviene la pérdida?",
+    "La tercera es la configuración: ¿qué forma toma la pérdida a lo largo de las frecuencias?",
+    "Respondemos estas tres preguntas para cada oído por separado y luego comparamos ambos oídos.",
+    "Ahora veamos estas preguntas una por una."
+   ]
+  },
+  {
+   "id": "derece",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Grado y tipo",
+   "baslik": "Grado: *promedio de tonos puros*",
+   "sutunlar": [
+    "Grado",
+    "dB HL"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal",
+      "-10 a 25"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Leve",
+      "26 a 40"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Moderada",
+      "41 a 55"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Moderadamente severa",
+      "56 a 70"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Severa",
+      "71 a 90"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Profunda",
+      "91 o más"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El grado de pérdida suele describirse con el promedio de tonos puros, o PTP.",
+    "En su forma más común, es el promedio de los umbrales de conducción aérea en quinientos, mil y dos mil hercios.",
+    "Luego, el promedio se clasifica con una escala como la de esta tabla.",
+    "Por ejemplo, un oído con un umbral promedio de treinta y cinco decibeles tiene una pérdida leve en esta escala.",
+    "Cuarenta y cinco decibeles es una pérdida moderada, y ochenta decibeles, una pérdida severa.",
+    "Distintas organizaciones usan límites algo diferentes; los compararemos en detalle en la lección cinco."
+   ]
+  },
+  {
+   "id": "iletim",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Grado y tipo",
+   "baslik": "Tipo: pérdida *conductiva*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Conducción aérea_: oído derecho",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Conducción ósea_: oído derecho",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       35,
+       35,
+       40,
+       45
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Para hallar el tipo de pérdida, comparamos la conducción aérea con la conducción ósea.",
+    "En este ejemplo, los umbrales de conducción aérea del oído derecho están entre treinta y cinco y cuarenta y cinco decibeles.",
+    "Los umbrales de conducción ósea, en cambio, se mantienen en la zona normal.",
+    "La diferencia entre ambos umbrales se llama brecha aéreo-ósea; aquí es de unos treinta decibeles.",
+    "Si la conducción ósea es normal, la aérea está reducida y la brecha es clara, la hipoacusia es conductiva.",
+    "Este patrón sugiere que el problema está en el oído externo o medio, mientras que el oído interno funciona bien."
+   ]
+  },
+  {
+   "id": "sensorinoral",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Grado y tipo",
+   "baslik": "Tipo: pérdida *neurosensorial*",
+   "lejant": [
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Conducción aérea_: oído izquierdo",
+     "cumle": 1
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Conducción ósea_: oído izquierdo",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       35,
+       50,
+       60,
+       65
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       15,
+       25,
+       35,
+       45,
+       55
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Ahora veamos otro ejemplo, esta vez de un oído izquierdo.",
+    "Los umbrales de conducción aérea empeoran progresivamente hacia las frecuencias agudas.",
+    "Los umbrales de conducción ósea siguen de cerca a la aérea; la diferencia no supera los diez decibeles.",
+    "Cuando la conducción aérea y la ósea descienden juntas de esta forma, hablamos de una hipoacusia neurosensorial.",
+    "En este tipo, el problema está en el oído interno o en el nervio auditivo.",
+    "Si la conducción aérea y la ósea están reducidas y hay una brecha significativa entre ellas, se habla de una pérdida mixta.",
+    "Una pérdida mixta tiene un componente conductivo y uno neurosensorial; veremos los tipos en detalle en la lección cuatro."
+   ]
+  },
+  {
+   "id": "konfigurasyon",
+   "tur": "tablo",
+   "bolum_no": "PARTE 5",
+   "bolum": "Configuración",
+   "baslik": "Configuración: la *forma* de la pérdida",
+   "sutunlar": [
+    "Forma",
+    "Aspecto"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Plana",
+      "Todas las frecuencias similares"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Ascendente",
+      "Graves más afectados"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Descendente",
+      "Agudos más afectados"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "En muesca",
+      "Caída en una región"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "En U",
+      "Medias más afectadas"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La tercera pregunta es la configuración, la forma que toma la pérdida a lo largo de las frecuencias.",
+    "Si los umbrales son similares en todas las frecuencias, se habla de una configuración plana.",
+    "Si la pérdida es mayor en las frecuencias graves y la curva sube hacia la derecha, hablamos de una configuración ascendente.",
+    "Una curva que empeora hacia las frecuencias agudas es una configuración descendente, una de las formas más comunes.",
+    "En una configuración en muesca, hay una caída clara en una región de frecuencias, seguida de una recuperación.",
+    "Una forma con mayor pérdida en las frecuencias medias se llama configuración en U."
+   ]
+  },
+  {
+   "id": "konfig_ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 5",
+   "bolum": "Configuración",
+   "baslik": "Ejemplos descendente y *en muesca*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: descendente",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: muesca en 4000 Hz",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       30,
+       45,
+       60,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       45,
+       20
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, el oído derecho muestra una pérdida descendente que aumenta progresivamente hacia los agudos.",
+    "Las frecuencias graves están dentro de los límites normales; desde mil hercios, los umbrales empeoran progresivamente.",
+    "El oído izquierdo muestra una muesca en cuatro mil hercios; en ocho mil hercios el umbral se recupera.",
+    "Una muesca así, entre tres mil y seis mil hercios, es frecuente en personas con exposición prolongada al ruido.",
+    "Aun así, una muesca por sí sola no establece un diagnóstico; se interpreta junto con la historia clínica y otras pruebas.",
+    "La configuración da pistas importantes sobre las posibles causas de una pérdida y sobre la adaptación de audífonos."
+   ]
+  },
+  {
+   "id": "simetri",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Configuración",
+   "baslik": "*Comparar* ambos oídos",
+   "maddeler": [
+    {
+     "metin": "¿_Simétrica_ o asimétrica?",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Diferencia clara: _registrarla_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Informe: _grado, tipo, configuración_",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "En el último paso, comparamos los dos oídos entre sí.",
+    "Si los umbrales de ambos oídos son cercanos, la pérdida es simétrica; si difieren claramente, es asimétrica.",
+    "Los criterios de asimetría varían según la fuente, pero una diferencia clara siempre se registra y puede requerir más estudios.",
+    "Por último, el informe indica el grado, el tipo y la configuración de cada oído.",
+    "Un ejemplo de conclusión sería: hipoacusia neurosensorial moderada, descendente, en el oído derecho."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de leer, revisar la leyenda: los auriculares usados, el enmascaramiento y los puntos sin respuesta cambian directamente la interpretación.",
+   "cumleler": [
+    "Un hábito útil en la clínica: revisar la leyenda antes de empezar a leer un audiograma.",
+    "Qué auriculares se usaron, si se aplicó enmascaramiento y qué puntos no tuvieron respuesta cambian directamente la interpretación.",
+    "Por ejemplo, un umbral de conducción ósea sin enmascarar puede ser en realidad la respuesta del oído contrario.",
+    "Y no lean un punto con flecha como un umbral real; solo indica que no hubo respuesta hasta el límite del audiómetro."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Eje horizontal *frecuencia*, eje vertical dB HL",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Derecho O roja, izquierdo *X azul*",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Aérea y ósea muestran el *tipo*",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Orden: *grado*, tipo, configuración",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "El eje horizontal del audiograma muestra la frecuencia, y el eje vertical, el nivel de audición en dB HL.",
+    "El oído derecho se marca con un círculo rojo y el izquierdo con una cruz azul; la conducción ósea tiene sus propios símbolos.",
+    "La relación entre la conducción aérea y la ósea muestra si una pérdida es conductiva, neurosensorial o mixta.",
+    "En cada oído leemos el grado, el tipo y la configuración, en ese orden."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "La conducción ósea es normal y la aérea es de 40 dB HL. ¿Qué tipo de pérdida es?",
+   "secenekler": [
+    "Neurosensorial",
+    "Conductiva",
+    "Mixta",
+    "Audición normal"
+   ],
+   "dogru": 1,
+   "aciklama": "Ósea normal con una clara _brecha aéreo-ósea_: pérdida conductiva.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si la conducción ósea es normal y la aérea es de cuarenta dB HL, ¿qué tipo de pérdida es?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B, conductiva. La conducción aérea reducida con ósea normal crea una clara brecha aéreo-ósea."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "¿Qué es la audiología y qué hace un *audiólogo?*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección hablaremos de qué es la audiología y de las áreas en las que trabaja un audiólogo.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

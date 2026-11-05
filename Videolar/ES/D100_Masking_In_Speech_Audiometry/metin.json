@@ -1,0 +1,807 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D100_Masking_In_Speech_Audiometry_ES",
+ "kapak": {
+  "ust": "LECCIÓN 100",
+  "baslik": "Enmascarar<br>el *habla*",
+  "alt": "Para el URP y la discriminación: ¿cuándo y cuánto?",
+  "cizim": "maskeleme",
+  "ayar": {
+   "ia_db": 40,
+   "test_kulak": "sag"
+  }
+ },
+ "youtube": {
+  "baslik": "Enmascaramiento en logoaudiometría | Lección 100 | AIHEAR Academia de Audiología",
+  "aciklama": "En las pruebas de habla, sobre todo en el reconocimiento de palabras a niveles altos, el oído opuesto puede oír el habla. En esta lección trabajamos con un audiograma de ejemplo la regla de enmascaramiento para el URP y el porcentaje de discriminación, el ruido de habla, cómo calcular los niveles mínimo y máximo de enmascaramiento efectivo y la regla práctica del nivel de presentación menos veinte decibeles.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Yacullo (1999), Clinical masking in speech audiometry: a simplified approach, American Journal of Audiology; Martin y Clark, Introduction to Audiology; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "enmascaramiento",
+   "logoaudiometria"
+  ],
+  "etiketler": [
+   "enmascaramiento en logoaudiometría",
+   "ruido de habla",
+   "enmascaramiento efectivo",
+   "nivel de presentación",
+   "enmascaramiento URP",
+   "enmascaramiento discriminación",
+   "atenuación interaural",
+   "enmascaramiento clínico",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 100",
+   "baslik": "*Enmascaramiento* en logoaudiometría",
+   "alt": "Para el URP y la discriminación: ¿cuándo y cuánto?",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cuándo hay que enmascarar el oído opuesto en las pruebas de habla.",
+    "Luego trabajaremos en un audiograma de ejemplo dos formas de calcular el nivel del ruido de habla."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Cuándo?",
+   "baslik": "El habla también *cruza*",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40,
+    "test_kulak": "sag"
+   },
+   "vurgula": [
+    {
+     "parca": "test_kulagi",
+     "cumle": 0
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "test_kulagi",
+     "metin": "TE: palabras a 90 dB HL",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "AI: cerca de 40 dB",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "metin": "Cóclea del NTE: cerca de 50 dB",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "metin": "Ruido de habla al NTE",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "El reconocimiento de palabras es _a nivel alto_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "El mejor oído _infla_ la puntuación",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Igual que con los tonos puros, el habla puede cruzar del oído evaluado (TE) al otro lado a través del cráneo.",
+    "Con auriculares supraaurales, la atenuación interaural (AI) conservadora para el habla se toma en unos cuarenta decibeles.",
+    "Las palabras presentadas a noventa decibeles HL pueden llegar a la cóclea del oído no evaluado (NTE) con unos cincuenta decibeles.",
+    "Este riesgo es especialmente grande porque el reconocimiento de palabras se evalúa a un nivel cómodamente audible, es decir, alto.",
+    "Si el NTE oye bien, reconoce las palabras, y la puntuación del peor oído parece mucho mejor de lo que realmente es.",
+    "Para evitarlo, se da ruido de habla al NTE."
+   ]
+  },
+  {
+   "id": "kural",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Cuándo?",
+   "baslik": "La *regla* de enmascaramiento para el habla",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Nivel de presentación",
+     "metin": "Nivel dado al TE",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Vía ósea del NTE",
+     "metin": "Mejor umbral",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Calcular la diferencia",
+     "metin": "Presentación menos ósea",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Comparar con la AI",
+     "metin": "40 o 55",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Enmascarar",
+     "metin": "Si la diferencia alcanza la AI",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La regla parte del nivel de presentación del habla dada al oído evaluado.",
+    "A este nivel le restamos el mejor umbral óseo del NTE en las frecuencias del habla, por lo general de quinientos a cuatro mil hertz.",
+    "Usamos la mejor vía ósea porque el habla cruzada puede captarse en la región más sensible de la cóclea del NTE.",
+    "La diferencia se compara con una AI de cuarenta decibeles para auriculares supraaurales o de unos cincuenta y cinco para auriculares de inserción.",
+    "Si la diferencia es igual o mayor que la AI, la prueba se hace enmascarando el oído opuesto.",
+    "La regla es la misma para el umbral de recepción de la palabra (URP) y el porcentaje de discriminación; solo cambia el nivel de presentación."
+   ]
+  },
+  {
+   "id": "srt_sds",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Cuándo?",
+   "baslik": "URP y discriminación: ¿*cuál* es más riesgoso?",
+   "sol": {
+    "ust": "URP",
+    "maddeler": [
+     {
+      "metin": "Nivel de presentación _cerca del umbral_",
+      "cumle": 0
+     },
+     {
+      "metin": "Se enmascara _con menos frecuencia_",
+      "cumle": 1
+     },
+     {
+      "metin": "Necesario con gran asimetría",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Discriminación",
+    "maddeler": [
+     {
+      "metin": "Presentación _30 a 40 dB_ sobre el URP",
+      "cumle": 3
+     },
+     {
+      "metin": "Se enmascara _muy a menudo_",
+      "cumle": 4
+     },
+     {
+      "metin": "Puede requerirse aun con simetría",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Al medir el URP, el habla se presenta cerca del umbral del oído evaluado.",
+    "A este nivel bajo, el habla cruzada a menudo no alcanza el umbral del NTE; el enmascaramiento se necesita con menos frecuencia.",
+    "Pero si hay una gran diferencia entre ambos oídos, también hay que enmascarar para el URP.",
+    "El reconocimiento de palabras, en cambio, suele evaluarse treinta a cuarenta decibeles por encima del URP.",
+    "A este nivel alto, la diferencia supera fácilmente la AI, así que en la prueba de discriminación hay que enmascarar muy a menudo.",
+    "Como el reconocimiento de palabras se hace a un nivel alto, puede hacer falta enmascarar incluso en pérdidas simétricas entre ambos oídos."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ruido",
+   "baslik": "Ruido de *habla*",
+   "maddeler": [
+    {
+     "metin": "Ruido de _banda ancha_ con forma de habla",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Mismo efecto con _menor_ sonoridad",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Nivel: _enmascaramiento efectivo_, dB EM",
+     "cumle": 3,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "_Conozcan_ la calibración de su audiómetro",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ELECCIÓN",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Ruido de habla",
+      "metin": "Preferido",
+      "cumle": 0
+     },
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Ruido blanco",
+      "metin": "Menos eficiente",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "En las pruebas de habla se enmascara con ruido de habla; su espectro se parece al espectro promedio del habla a largo plazo.",
+    "Su energía se concentra en las frecuencias donde está la energía del habla, así que enmascara igual de bien con menor sonoridad.",
+    "También puede usarse ruido blanco, pero lleva energía innecesaria en las frecuencias altas y molesta más al paciente.",
+    {
+     "yazi": "El nivel del ruido se expresa en enmascaramiento efectivo, o dB EM."
+    },
+    "Algunos audiómetros pueden mostrar el ruido de habla en otras unidades; conozcan cómo está calibrado el audiómetro que usan.",
+    "Se le explica al paciente que oirá un sonido como un soplido en un oído y que solo debe repetir las palabras."
+   ]
+  },
+  {
+   "id": "min_max",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "¿Cuánto?",
+   "baslik": "El ruido mínimo y el *máximo*",
+   "maddeler": [
+    {
+     "metin": "Mínimo: presentación menos AI más _brecha del NTE_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ruido insuficiente: _subenmascaramiento_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Máximo: ósea del TE más AI _menos 5_",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Nivel elegido: _entre ambos_",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FÓRMULA",
+    "metin": "EM mínimo = nivel de presentación menos AI más *brecha aéreo-ósea del NTE*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Una forma de fijar el nivel de ruido es hallar los niveles mínimo y máximo de enmascaramiento efectivo y elegir un valor intermedio.",
+    "Nivel mínimo: al nivel de presentación en el TE se le resta la AI y se suma la mayor brecha aéreo-ósea del NTE.",
+    "Un ruido por debajo de este nivel no puede cubrir el habla cruzada; esto se llama subenmascaramiento.",
+    "La brecha aéreo-ósea del NTE se suma porque el ruido llega al NTE por vía aérea y también debe superar el bloqueo conductivo.",
+    "Nivel máximo: al mejor umbral óseo del TE se le suma la AI y se restan cinco decibeles por seguridad.",
+    "Un ruido por encima de este nivel cruza el cráneo hasta el TE y hace que la puntuación parezca peor de lo que es; esto se llama sobreenmascaramiento.",
+    "El nivel de ruido elegido debe quedar entre estos dos límites."
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "¿Cuánto?",
+   "baslik": "El *rango* seguro",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 110,
+     "adim": 10,
+     "ad": "Ruido al NTE (dB EM)"
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": " "
+    },
+    "bolgeler": [
+     {
+      "ad": "yetersiz",
+      "x": [
+       0,
+       50
+      ],
+      "renk": "sari",
+      "etiket": "insuficiente",
+      "cumle": 1
+     },
+     {
+      "ad": "guvenli",
+      "x": [
+       50,
+       90
+      ],
+      "renk": "yesil",
+      "etiket": "rango seguro",
+      "cumle": 2
+     },
+     {
+      "ad": "asiri",
+      "x": [
+       90,
+       110
+      ],
+      "renk": "kirmizi",
+      "etiket": "excesivo",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "en_az",
+      "x": 50,
+      "y": 5,
+      "cizgi": "dikey",
+      "nokta": false,
+      "renk": "sari",
+      "etiket": "mínimo 50",
+      "cumle": 1
+     },
+     {
+      "ad": "en_cok",
+      "x": 90,
+      "y": 5,
+      "cizgi": "dikey",
+      "nokta": false,
+      "renk": "kirmizi",
+      "etiket": "máximo 90",
+      "cumle": 3
+     },
+     {
+      "ad": "secilen",
+      "x": 70,
+      "y": 5,
+      "dolu": true,
+      "renk": "mavi",
+      "etiket": "elegido 70",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Mínimo: 90 menos 40 más 0",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Máximo: 55 más 40 menos 5",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Elegido: el centro del rango",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "En el ejemplo que veremos en breve, las palabras se presentan al oído derecho a noventa decibeles HL.",
+    {
+     "yazi": "El oído izquierdo no tiene brecha aéreo-ósea; el nivel mínimo es noventa menos cuarenta más cero, o sea cincuenta dB EM."
+    },
+    "La zona entre cincuenta y noventa es el rango seguro.",
+    {
+     "yazi": "La mejor vía ósea del oído derecho es cincuenta y cinco; el máximo es cincuenta y cinco más cuarenta menos cinco, o sea noventa dB EM."
+    },
+    {
+     "yazi": "Setenta dB EM, en el centro de este rango, es una elección segura a veinte decibeles de ambos límites."
+    },
+    "Una razón para evitar un ruido innecesariamente alto es el enmascaramiento central, que puede elevar el umbral unos cinco decibeles."
+   ]
+  },
+  {
+   "id": "yacullo",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "¿Cuánto?",
+   "baslik": "Una regla práctica: *menos 20*",
+   "maddeler": [
+    {
+     "metin": "EM = nivel de presentación _menos 20_",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Más la mayor _brecha aéreo-ósea_ del NTE",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "_Segura_ con AI de 40 dB o más",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Conductiva en el TE: _revisar el límite superior_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EJEMPLO",
+    "metin": "90 menos 20 más 0 = *70 dB EM*",
+    "cumle": 3
+   },
+   "cumleler": [
+    {
+     "yazi": "Una forma más rápida es la regla práctica propuesta por Yacullo: el nivel de enmascaramiento efectivo es veinte decibeles menor que el nivel de presentación."
+    },
+    "Si el NTE tiene una brecha aéreo-ósea, se suma a este valor la mayor brecha.",
+    "Como la AI es de al menos cuarenta decibeles, este nivel queda unos veinte decibeles por encima del mínimo necesario.",
+    {
+     "yazi": "En nuestro ejemplo, noventa menos veinte más cero da setenta dB EM, lo mismo que la elección segura que acabamos de hallar."
+    },
+    "Pero si el TE tiene una pérdida conductiva grande, su vía ósea es buena y el límite superior baja; entonces hay que calcularlo aparte.",
+    "Ambos métodos tienen el mismo objetivo: el ruido debe ser suficiente, pero no debe llegar al oído evaluado."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ejemplo",
+   "baslik": "Ejemplo: una pérdida *unilateral*",
+   "lejant": [
+    {
+     "isaret": "△",
+     "renk": "sag",
+     "metin": "_Derecho_ (TE): URP 60 dB HL",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Derecho_: mejor vía ósea 55",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_ (NTE): normal, ósea 10",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava_maskeli",
+      "degerler": [
+       50,
+       55,
+       60,
+       65,
+       70,
+       75
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       45,
+       55,
+       60,
+       60,
+       65
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, el oído derecho tiene una hipoacusia neurosensorial moderadamente severa; el URP se obtuvo en sesenta decibeles HL.",
+    "El mejor umbral óseo del oído derecho en las frecuencias del habla es de cincuenta y cinco decibeles.",
+    "El oído izquierdo es normal; sus umbrales por vía aérea y ósea están alrededor de diez decibeles, sin brecha aéreo-ósea.",
+    "El reconocimiento de palabras se evaluará en el oído derecho treinta decibeles por encima del URP, es decir, a noventa decibeles HL.",
+    "Primero la regla para el URP: sesenta menos diez es cincuenta decibeles, más que cuarenta para auriculares supraaurales, así que hay que enmascarar.",
+    "Para el reconocimiento de palabras: noventa menos diez es ochenta decibeles, que también supera claramente la AI.",
+    "Con auriculares de inserción, la diferencia de cincuenta del URP no llega a cincuenta y cinco, pero para el reconocimiento de palabras sí hay que enmascarar."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ejemplo",
+   "baslik": "La *tabla de cálculo* del ejemplo",
+   "sutunlar": [
+    "Prueba",
+    "Presentación (dB HL)",
+    "Diferencia (dB)",
+    "Ruido (dB EM)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "URP",
+      "Cerca de 60",
+      "50",
+      "40"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Discriminación",
+      "90",
+      "80",
+      "70"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Pongamos los resultados en una tabla.",
+    {
+     "yazi": "El URP se mide cerca de sesenta decibeles; según la regla práctica, el ruido es sesenta menos veinte, o sea cuarenta dB EM."
+    },
+    "Como el nivel cambia durante la búsqueda del URP, algunos clínicos fijan el ruido una vez a partir del URP esperado y lo mantienen.",
+    {
+     "yazi": "El reconocimiento de palabras se evalúa a noventa decibeles HL con setenta dB EM de ruido de habla en el oído izquierdo."
+    },
+    "Ambos valores quedan entre los límites mínimo y máximo.",
+    "El URP y la puntuación enmascarados se registran junto con el nivel de ruido usado."
+   ]
+  },
+  {
+   "id": "nte_iletim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ejemplo",
+   "baslik": "Si el NTE tiene una pérdida *conductiva*",
+   "maddeler": [
+    {
+     "metin": "El ruido debe _superar primero el bloqueo_",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "El mínimo sube _según la brecha_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "El rango seguro _se estrecha_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Los auriculares de inserción _amplían el rango_",
+     "cumle": 4,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        40,
+        40,
+        35,
+        35,
+        40,
+        45
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        10,
+        10,
+        5,
+        10,
+        15
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Imaginemos ahora que el NTE, el oído izquierdo, tiene una pérdida conductiva; en este ejemplo, la brecha aéreo-ósea es de treinta decibeles.",
+    "El ruido llega al oído izquierdo por vía aérea, así que primero debe superar este bloqueo; el nivel mínimo sube treinta decibeles.",
+    {
+     "yazi": "En el mismo ejemplo, el mínimo para el reconocimiento de palabras pasa de cincuenta a ochenta dB EM; la regla práctica da cien dB EM."
+    },
+    "Cien supera el límite superior de noventa del oído derecho; el rango seguro se ha estrechado y aquí no se puede usar la regla práctica.",
+    "Los auriculares de inserción aumentan la AI, así que amplían el rango seguro en situaciones como esta.",
+    "En la pérdida conductiva bilateral este rango puede desaparecer por completo: es el dilema de enmascaramiento de los tonos puros, ahora en el habla."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Si la puntuación sin enmascarar del peor oído es mejor de lo esperado, sospechen audición cruzada y repitan la prueba con ruido de habla.",
+   "cumleler": [
+    "Este es un control que funciona bien en la clínica.",
+    "Si la puntuación de reconocimiento sin enmascarar del peor oído parece mejor de lo esperado según sus umbrales tonales, deténganse.",
+    "Puede significar que en realidad es el mejor oído el que reconoce las palabras.",
+    "Repitan la prueba con ruido de habla a un nivel adecuado en el oído opuesto, y comparen ambas puntuaciones."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ejemplo",
+   "baslik": "El *enmascaramiento* en el informe",
+   "maddeler": [
+    {
+     "metin": "¿Se enmascaró?: _sí o no_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Tipo de ruido y nivel en _dB EM_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Tipo de auricular: _supraaural o de inserción_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Los casos límite _se anotan_",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "REGISTRO",
+    "metin": "Discriminación: 72 %, 90 dB HL, izquierdo 70 dB EM *ruido de habla*",
+    "cumle": 4
+   },
+   "cumleler": [
+    "El informe indica primero si se enmascaró para el URP y para el reconocimiento de palabras.",
+    "Si se enmascaró, se anotan el tipo de ruido y el nivel de enmascaramiento efectivo.",
+    "También se anota el tipo de auricular, porque la AI, y por lo tanto la decisión, dependen de él.",
+    "Los casos en que el rango seguro fue estrecho o el enmascaramiento pudo ser insuficiente se anotan aparte.",
+    {
+     "yazi": "Por ejemplo: reconocimiento de palabras del setenta y dos por ciento a noventa decibeles HL, con setenta dB EM de ruido de habla en el oído izquierdo."
+    }
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Regla: presentación menos ósea del NTE _alcanza la AI_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "La discriminación requiere enmascarar _muy a menudo_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Mínimo: presentación menos AI _más brecha del NTE_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Regla práctica: _presentación menos 20_",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "Si la diferencia entre el nivel de presentación y la mejor vía ósea del NTE alcanza la AI, en las pruebas de habla se enmascara el oído opuesto.",
+    "Como el reconocimiento de palabras se evalúa a un nivel alto, requiere enmascaramiento mucho más a menudo que el URP.",
+    "El mínimo es la presentación menos la AI más la brecha aéreo-ósea del NTE; el máximo es la ósea del TE más la AI menos cinco.",
+    "Como regla práctica, puede usarse un nivel veinte decibeles por debajo del nivel de presentación, sumando la brecha del NTE si hace falta."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Discriminación a 80 dB HL, NTE normal, sin brecha. ¿Ruido según la regla práctica?",
+   "secenekler": [
+    "40 dB EM",
+    "60 dB EM",
+    "80 dB EM",
+    "100 dB EM"
+   ],
+   "dogru": 1,
+   "aciklama": "Nivel de presentación menos 20: _80 menos 20 = 60 dB EM_; el NTE no tiene brecha, así que no se suma nada.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: reconocimiento de palabras a ochenta decibeles HL, oído opuesto normal y sin brecha. ¿Qué ruido da la regla práctica?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: sesenta dB EM."
+    },
+    "Al nivel de presentación se le restan veinte; el oído opuesto no tiene brecha aéreo-ósea, así que no se suma nada más."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Nivel de *máximo confort* y umbral de molestia",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo medir el nivel de máximo confort y el umbral de molestia.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

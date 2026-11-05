@@ -1,0 +1,102 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R452_The_McGurk_Effect_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #452",
+  "baslik": "Oyes ba, *percibes da*",
+  "alt": "El efecto McGurk",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Tu oído recibe ba, tu ojo recibe ga: ¿qué oyes? #shorts",
+  "aciklama": "En 1976, McGurk y MacDonald presentaron la sílaba ba al oído mientras mostraban en la pantalla un rostro que decía ga. La mayoría de los oyentes dijeron que no oían ni ba ni ga, sino da, una sílaba intermedia. Aunque la persona sepa que es una ilusión, la percepción no cambia; este efecto muestra que el cerebro decodifica el habla usando juntas la audición y la visión.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "habla",
+   "cerebro"
+  ],
+  "etiketler": [
+   "efecto McGurk",
+   "integración audiovisual",
+   "lectura labiofacial",
+   "percepción del habla",
+   "ilusión perceptiva",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Tu oído recibe ba, tu ojo recibe ga: ¿qué oyes?",
+  "bilgiler": [
+   "Se mostró un rostro que decía ga mientras se presentaba ba al oído.",
+   "La mayoría de los oyentes dijeron que oían da.",
+   "Saber que es una ilusión no cambia la percepción."
+  ],
+  "hashtag": [
+   "audiologia",
+   "habla",
+   "cerebro"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #452",
+   "metin": "¿Ba *o ga?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Tu oído recibe ba, tu ojo recibe ga: ¿qué oyes?"
+   ]
+  },
+  {
+   "id": "mcgurk",
+   "tur": "zincir",
+   "baslik": "El efecto *McGurk*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Oído",
+     "tr": "ba",
+     "cumle": 0
+    },
+    {
+     "ad": "Ojo",
+     "tr": "ga",
+     "cumle": 0,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Percepción",
+     "tr": "da",
+     "cumle": 1
+    }
+   ],
+   "alt": "La integración _es automática_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "McGurk y MacDonald presentaron ba mientras un rostro en la pantalla decía ga.",
+    "La mayoría de los oyentes dijeron que oían da, una sílaba intermedia.",
+    "Aun sabiendo que es una ilusión, la percepción no cambia.",
+    "El cerebro decodifica el habla usando juntas la audición y la visión."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D264",
+ "kaynak_baslik": "Lectura labiofacial y claves visuales"
+}

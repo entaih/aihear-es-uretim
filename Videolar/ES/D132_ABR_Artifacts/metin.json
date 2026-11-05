@@ -1,0 +1,3057 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D132_ABR_Artifacts_ES",
+ "kapak": {
+  "ust": "LECCIÓN 132",
+  "baslik": "Artefactos<br>en *PEATC*",
+  "alt": "Reconocer, separar, corregir",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "Artefactos en PEATC y solución de problemas | Lección 132 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos los artefactos musculares, de la red eléctrica y del estímulo que alteran los registros de potenciales evocados auditivos de tronco cerebral (PEATC), junto con el rechazo de artefactos y el ruido residual. También vemos cómo separar el artefacto del estímulo del microfónico coclear invirtiendo la polaridad y registrando con el tubo pinzado, y la solución de problemas paso a paso.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; BSA, Recommended Procedure: Auditory Brainstem Response Testing in Babies.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "PEATC",
+   "electrofisiologia"
+  ],
+  "etiketler": [
+   "PEATC",
+   "artefacto",
+   "rechazo de artefactos",
+   "microfónico coclear",
+   "artefacto del estímulo",
+   "ruido residual",
+   "interferencia de la red eléctrica",
+   "potenciales evocados auditivos de tronco cerebral",
+   "problemas en PEATC",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 132",
+   "baslik": "Artefactos en *PEATC*",
+   "alt": "Reconocer, separar, corregir",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprenderemos a reconocer y eliminar los artefactos que alteran los registros de potenciales evocados auditivos de tronco cerebral (PEATC, en inglés ABR).",
+    "También veremos cómo separar el artefacto del estímulo del microfónico coclear, y cómo resolver problemas paso a paso."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es un artefacto?",
+   "baslik": "Una señal que no es *respuesta*",
+   "maddeler": [
+    {
+     "metin": "Artefacto: señal del registro que _no es respuesta_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Fuente 1: _el paciente_",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Fuente 2: _entorno y red eléctrica_",
+     "cumle": 2,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Fuente 3: _estímulo y equipo_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "RESULTADO",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "yanlis",
+      "baslik": "Onda falsa",
+      "metin": "Parece una respuesta",
+      "cumle": 4
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Respuesta oculta",
+      "metin": "Parece que no hay respuesta",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Un artefacto es cualquier señal eléctrica que entra en el registro pero no proviene de la vía auditiva."
+    },
+    "Algunos provienen del paciente: la tensión muscular, los movimientos oculares y la actividad eléctrica habitual del cerebro.",
+    "Otros provienen del entorno: la red eléctrica, la iluminación y los equipos electrónicos cercanos.",
+    "Y otros provienen del estímulo y del propio equipo, por ejemplo el campo electromagnético que emite el auricular.",
+    "Un artefacto puede crear una onda cuando no hay respuesta, u ocultar una respuesta real; ambos errores llevan a decisiones equivocadas.",
+    "Por eso, un buen registro de PEATC empieza por reconocer los artefactos antes de buscar la respuesta."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es un artefacto?",
+   "baslik": "Tipos de *artefacto*",
+   "ogeler": [
+    {
+     "ikon": "agri",
+     "baslik": "Muscular",
+     "metin": "Cuello, mandíbula, detrás de la oreja",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Ocular",
+     "metin": "Parpadeos y movimientos oculares",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "EEG",
+     "metin": "Aumenta en vigilia",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Red eléctrica",
+     "metin": "Interferencia de 50 Hz",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Estímulo",
+     "metin": "Campo del transductor",
+     "cumle": 4
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Electrodo",
+     "metin": "Flojo, roto, con puente",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El artefacto más frecuente es el muscular: la tensión del cuello, la mandíbula y los músculos auriculares posteriores produce voltajes grandes.",
+    "Los parpadeos y los movimientos oculares causan fluctuaciones lentas y grandes, sobre todo en los electrodos cercanos a la frente.",
+    "La propia actividad eléctrica del cerebro, la electroencefalografía o EEG, aumenta mucho en una persona despierta e inquieta.",
+    {
+     "yazi": "La red eléctrica crea una interferencia regular a su frecuencia de línea, que es de 50 Hz en Turquía y de 60 Hz en algunos otros países.",
+     "ses": "La red eléctrica crea una interferencia regular a su frecuencia de línea, que es de cincuenta hertz en Turquía y de sesenta hertz en algunos otros países."
+    },
+    "El auricular o el vibrador óseo emite un campo electromagnético mientras presenta el estímulo, lo que genera el artefacto del estímulo.",
+    "Por último, los electrodos flojos, rotos o unidos por un puente de gel también alteran el registro."
+   ]
+  },
+  {
+   "id": "kas",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Del paciente",
+   "baslik": "*Artefacto* muscular",
+   "maddeler": [
+    {
+     "metin": "_Tensión_ del cuello y la mandíbula",
+     "cumle": 0,
+     "ikon": "agri"
+    },
+    {
+     "metin": "En bebés: _succión_ e inquietud",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Apoyar la cabeza, _relajar la mandíbula_",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Con actividad muscular, _pausar el registro_",
+     "cumle": 5,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SOLUCIÓN",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "hasta",
+      "baslik": "Posición cómoda",
+      "metin": "Cabeza en almohada, cuello relajado",
+      "cumle": 3
+     },
+     {
+      "ikon": "sessizlik",
+      "baslik": "Sueño",
+      "metin": "El registro más limpio",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "El artefacto muscular suele provenir de la tensión del cuello, de la mandíbula y de los músculos auriculares posteriores.",
+    {
+     "yazi": "El músculo auricular posterior puede contraerse de forma refleja ante sonidos intensos y crear una onda grande en la parte tardía de la ventana de tiempo."
+    },
+    "En los bebés, la succión, la deglución y la inquietud tienen el mismo efecto.",
+    "En los adultos, se apoya la cabeza en una almohada y se pide a la persona que relaje la mandíbula y no apriete los dientes.",
+    "El registro más limpio se obtiene en sueño natural, por lo que también se anima a los adultos a descansar con los ojos cerrados en una sala con poca luz.",
+    "Si el bebé está inquieto, el registro se pausa hasta que se calme; si no, entra demasiado ruido en el promedio."
+   ]
+  },
+  {
+   "id": "red",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Del paciente",
+   "baslik": "*Rechazo* de artefactos",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 41,
+     "adim": 10,
+     "ad": "Orden de los barridos (ejemplo)"
+    },
+    "y": {
+     "min": -50,
+     "max": 50,
+     "adim": 25,
+     "ad": "Amplitud pico (µV)"
+    },
+    "seriler": [
+     {
+      "ad": "taramalar",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        1,
+        -2.5
+       ],
+       [
+        2,
+        -2.6
+       ],
+       [
+        3,
+        11.1
+       ],
+       [
+        4,
+        11.1
+       ],
+       [
+        5,
+        -5.4
+       ],
+       [
+        6,
+        9.8
+       ],
+       [
+        7,
+        12.8
+       ],
+       [
+        8,
+        9.4
+       ],
+       [
+        9,
+        -35.4
+       ],
+       [
+        10,
+        40.6
+       ],
+       [
+        11,
+        13.2
+       ],
+       [
+        12,
+        -7.1
+       ],
+       [
+        13,
+        4.5
+       ],
+       [
+        14,
+        12.6
+       ],
+       [
+        15,
+        -0.1
+       ],
+       [
+        16,
+        11.5
+       ],
+       [
+        17,
+        11.1
+       ],
+       [
+        18,
+        8.3
+       ],
+       [
+        19,
+        10.6
+       ],
+       [
+        20,
+        8.9
+       ],
+       [
+        21,
+        1.7
+       ],
+       [
+        22,
+        -3.5
+       ],
+       [
+        23,
+        -34.5
+       ],
+       [
+        24,
+        8.3
+       ],
+       [
+        25,
+        1.3
+       ],
+       [
+        26,
+        2.9
+       ],
+       [
+        27,
+        8.4
+       ],
+       [
+        28,
+        4.9
+       ],
+       [
+        29,
+        4.7
+       ],
+       [
+        30,
+        10.7
+       ],
+       [
+        31,
+        43.4
+       ],
+       [
+        32,
+        -6.8
+       ],
+       [
+        33,
+        8.1
+       ],
+       [
+        34,
+        3.9
+       ],
+       [
+        35,
+        6.8
+       ],
+       [
+        36,
+        11.7
+       ],
+       [
+        37,
+        -7.5
+       ],
+       [
+        38,
+        -11.1
+       ],
+       [
+        39,
+        -10.5
+       ],
+       [
+        40,
+        -8.4
+       ]
+      ],
+      "renk": "mavi",
+      "r": 6,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "ust_sinir",
+      "x": 40,
+      "y": 25,
+      "cizgi": "yatay",
+      "nokta": false,
+      "renk": "kirmizi",
+      "etiket": "límite de rechazo",
+      "cumle": 1,
+      "dx": -40,
+      "dy": -12
+     },
+     {
+      "ad": "alt_sinir",
+      "x": 40,
+      "y": -25,
+      "cizgi": "yatay",
+      "nokta": false,
+      "renk": "kirmizi",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "kabul",
+      "y": [
+       -25,
+       25
+      ],
+      "renk": "yesil",
+      "opak": 0.06,
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Barridos sobre el límite _no se promedian_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Rechazo frecuente: _buscar la fuente_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El rechazo de artefactos deja fuera del promedio los barridos que contienen voltajes muy grandes."
+    },
+    "En el equipo se fija un límite de rechazo; en este ejemplo, el límite se muestra con líneas rojas arriba y abajo.",
+    "Los barridos que superan el límite, como los registrados durante una contracción muscular, se excluyen automáticamente.",
+    "Si el límite es demasiado estricto, se rechaza la mayoría de los barridos y la prueba se alarga; si es demasiado amplio, el ruido entra en el promedio.",
+    "Si la tasa de rechazo es alta, hay que buscar la fuente del artefacto en lugar de ampliar el límite.",
+    "Porque el rechazo solo elimina los picos grandes; no puede limpiar el ruido pequeño y continuo."
+   ]
+  },
+  {
+   "id": "sebeke",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Interferencia eléctrica",
+   "baslik": "Interferencia de la red de *50 Hz*",
+   "cizim": "dalga_bicimi",
+   "ayar": {
+    "seriler": [
+     "ton"
+    ],
+    "cumleler": [
+     0
+    ],
+    "frekans_hz": 50
+   },
+   "etiketler": [
+    {
+     "parca": "ton",
+     "metin": "ondulación regular de 50 Hz",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Equilibrar_ impedancias, trenzar los cables",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Apagar o alejar_ equipos innecesarios",
+     "cumle": 3,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Filtro de muesca: _último recurso_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La interferencia de la red aparece en el registro como una ondulación regular que se repite cada 20 milisegundos."
+    },
+    "Su origen pueden ser los tubos fluorescentes, las extensiones eléctricas, los monitores y los equipos eléctricos cercanos.",
+    "La primera solución es mantener las impedancias de los electrodos bajas y equilibradas, y trenzar entre sí los cables de los electrodos.",
+    "Los equipos innecesarios se apagan o se alejan, y se cambia la posición de la camilla del paciente y de los cables.",
+    {
+     "yazi": "Elegir una tasa de estimulación no entera, como 21,1, ayuda a que la interferencia se cancele en el promedio.",
+     "ses": "Elegir una tasa de estimulación no entera, como veintiuno coma uno, ayuda a que la interferencia se cancele en el promedio."
+    },
+    {
+     "yazi": "Un filtro de muesca de 50 Hz en el equipo reduce la interferencia, pero también puede distorsionar la forma de onda, por lo que debe ser el último recurso."
+    }
+   ]
+  },
+  {
+   "id": "cm_artefakt",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Artefacto del estímulo y MC",
+   "baslik": "Una onda *temprana* que se invierte",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Tiempo (ms)"
+    },
+    "y": {
+     "min": -1.0,
+     "max": 2.2,
+     "ad": "Voltaje (relativo)",
+     "isaretler": []
+    },
+    "seriler": [
+     {
+      "ad": "seyrelme",
+      "noktalar": [
+       [
+        0.0,
+        1.2
+       ],
+       [
+        0.04,
+        1.2
+       ],
+       [
+        0.08,
+        1.2
+       ],
+       [
+        0.12,
+        1.2
+       ],
+       [
+        0.16,
+        1.2
+       ],
+       [
+        0.2,
+        1.2
+       ],
+       [
+        0.24,
+        1.2
+       ],
+       [
+        0.28,
+        1.2
+       ],
+       [
+        0.32,
+        1.2
+       ],
+       [
+        0.36,
+        1.2
+       ],
+       [
+        0.4,
+        1.2
+       ],
+       [
+        0.44,
+        1.2
+       ],
+       [
+        0.48,
+        1.2
+       ],
+       [
+        0.52,
+        1.2
+       ],
+       [
+        0.56,
+        1.2
+       ],
+       [
+        0.6,
+        1.2
+       ],
+       [
+        0.64,
+        1.2
+       ],
+       [
+        0.68,
+        1.2
+       ],
+       [
+        0.72,
+        1.2
+       ],
+       [
+        0.76,
+        1.2
+       ],
+       [
+        0.8,
+        1.2
+       ],
+       [
+        0.84,
+        1.2
+       ],
+       [
+        0.88,
+        1.2
+       ],
+       [
+        0.92,
+        1.279
+       ],
+       [
+        0.96,
+        1.411
+       ],
+       [
+        1.0,
+        1.486
+       ],
+       [
+        1.04,
+        1.488
+       ],
+       [
+        1.08,
+        1.421
+       ],
+       [
+        1.12,
+        1.303
+       ],
+       [
+        1.16,
+        1.168
+       ],
+       [
+        1.2,
+        1.049
+       ],
+       [
+        1.24,
+        0.976
+       ],
+       [
+        1.28,
+        0.968
+       ],
+       [
+        1.32,
+        1.029
+       ],
+       [
+        1.36,
+        1.146
+       ],
+       [
+        1.4,
+        1.296
+       ],
+       [
+        1.44,
+        1.447
+       ],
+       [
+        1.48,
+        1.569
+       ],
+       [
+        1.52,
+        1.638
+       ],
+       [
+        1.56,
+        1.641
+       ],
+       [
+        1.6,
+        1.581
+       ],
+       [
+        1.64,
+        1.475
+       ],
+       [
+        1.68,
+        1.349
+       ],
+       [
+        1.72,
+        1.234
+       ],
+       [
+        1.76,
+        1.153
+       ],
+       [
+        1.8,
+        1.122
+       ],
+       [
+        1.84,
+        1.14
+       ],
+       [
+        1.88,
+        1.193
+       ],
+       [
+        1.92,
+        1.262
+       ],
+       [
+        1.96,
+        1.323
+       ],
+       [
+        2.0,
+        1.358
+       ],
+       [
+        2.04,
+        1.356
+       ],
+       [
+        2.08,
+        1.319
+       ],
+       [
+        2.12,
+        1.255
+       ],
+       [
+        2.16,
+        1.182
+       ],
+       [
+        2.2,
+        1.117
+       ],
+       [
+        2.24,
+        1.075
+       ],
+       [
+        2.28,
+        1.065
+       ],
+       [
+        2.32,
+        1.089
+       ],
+       [
+        2.36,
+        1.138
+       ],
+       [
+        2.4,
+        1.2
+       ],
+       [
+        2.44,
+        1.259
+       ],
+       [
+        2.48,
+        1.301
+       ],
+       [
+        2.52,
+        1.316
+       ],
+       [
+        2.56,
+        1.303
+       ],
+       [
+        2.6,
+        1.265
+       ],
+       [
+        2.64,
+        1.214
+       ],
+       [
+        2.68,
+        1.161
+       ],
+       [
+        2.72,
+        1.121
+       ],
+       [
+        2.76,
+        1.102
+       ],
+       [
+        2.8,
+        1.107
+       ],
+       [
+        2.84,
+        1.135
+       ],
+       [
+        2.88,
+        1.177
+       ],
+       [
+        2.92,
+        1.223
+       ],
+       [
+        2.96,
+        1.26
+       ],
+       [
+        3.0,
+        1.282
+       ],
+       [
+        3.04,
+        1.283
+       ],
+       [
+        3.08,
+        1.263
+       ],
+       [
+        3.12,
+        1.229
+       ],
+       [
+        3.16,
+        1.19
+       ],
+       [
+        3.2,
+        1.156
+       ],
+       [
+        3.24,
+        1.133
+       ],
+       [
+        3.28,
+        1.129
+       ],
+       [
+        3.32,
+        1.143
+       ],
+       [
+        3.36,
+        1.172
+       ],
+       [
+        3.4,
+        1.211
+       ],
+       [
+        3.44,
+        1.252
+       ],
+       [
+        3.48,
+        1.29
+       ],
+       [
+        3.52,
+        1.321
+       ],
+       [
+        3.56,
+        1.346
+       ],
+       [
+        3.6,
+        1.366
+       ],
+       [
+        3.64,
+        1.384
+       ],
+       [
+        3.68,
+        1.402
+       ],
+       [
+        3.72,
+        1.421
+       ],
+       [
+        3.76,
+        1.438
+       ],
+       [
+        3.8,
+        1.45
+       ],
+       [
+        3.84,
+        1.455
+       ],
+       [
+        3.88,
+        1.45
+       ],
+       [
+        3.92,
+        1.435
+       ],
+       [
+        3.96,
+        1.409
+       ],
+       [
+        4.0,
+        1.375
+       ],
+       [
+        4.04,
+        1.335
+       ],
+       [
+        4.08,
+        1.293
+       ],
+       [
+        4.12,
+        1.252
+       ],
+       [
+        4.16,
+        1.215
+       ],
+       [
+        4.2,
+        1.211
+       ],
+       [
+        4.24,
+        1.205
+       ],
+       [
+        4.28,
+        1.203
+       ],
+       [
+        4.32,
+        1.201
+       ],
+       [
+        4.36,
+        1.2
+       ],
+       [
+        4.4,
+        1.2
+       ],
+       [
+        4.44,
+        1.2
+       ],
+       [
+        4.48,
+        1.2
+       ],
+       [
+        4.52,
+        1.2
+       ],
+       [
+        4.56,
+        1.2
+       ],
+       [
+        4.6,
+        1.2
+       ],
+       [
+        4.64,
+        1.2
+       ],
+       [
+        4.68,
+        1.2
+       ],
+       [
+        4.72,
+        1.2
+       ],
+       [
+        4.76,
+        1.2
+       ],
+       [
+        4.8,
+        1.2
+       ],
+       [
+        4.84,
+        1.2
+       ],
+       [
+        4.88,
+        1.2
+       ],
+       [
+        4.92,
+        1.2
+       ],
+       [
+        4.96,
+        1.201
+       ],
+       [
+        5.0,
+        1.202
+       ],
+       [
+        5.04,
+        1.203
+       ],
+       [
+        5.08,
+        1.207
+       ],
+       [
+        5.12,
+        1.213
+       ],
+       [
+        5.16,
+        1.223
+       ],
+       [
+        5.2,
+        1.239
+       ],
+       [
+        5.24,
+        1.263
+       ],
+       [
+        5.28,
+        1.297
+       ],
+       [
+        5.32,
+        1.343
+       ],
+       [
+        5.36,
+        1.399
+       ],
+       [
+        5.4,
+        1.464
+       ],
+       [
+        5.44,
+        1.532
+       ],
+       [
+        5.48,
+        1.597
+       ],
+       [
+        5.52,
+        1.651
+       ],
+       [
+        5.56,
+        1.687
+       ],
+       [
+        5.6,
+        1.699
+       ],
+       [
+        5.64,
+        1.686
+       ],
+       [
+        5.68,
+        1.649
+       ],
+       [
+        5.72,
+        1.594
+       ],
+       [
+        5.76,
+        1.528
+       ],
+       [
+        5.8,
+        1.457
+       ],
+       [
+        5.84,
+        1.39
+       ],
+       [
+        5.88,
+        1.33
+       ],
+       [
+        5.92,
+        1.28
+       ],
+       [
+        5.96,
+        1.239
+       ],
+       [
+        6.0,
+        1.208
+       ],
+       [
+        6.04,
+        1.182
+       ],
+       [
+        6.08,
+        1.16
+       ],
+       [
+        6.12,
+        1.14
+       ],
+       [
+        6.16,
+        1.12
+       ],
+       [
+        6.2,
+        1.1
+       ],
+       [
+        6.24,
+        1.078
+       ],
+       [
+        6.28,
+        1.054
+       ],
+       [
+        6.32,
+        1.029
+       ],
+       [
+        6.36,
+        1.002
+       ],
+       [
+        6.4,
+        0.976
+       ],
+       [
+        6.44,
+        0.949
+       ],
+       [
+        6.48,
+        0.924
+       ],
+       [
+        6.52,
+        0.902
+       ],
+       [
+        6.56,
+        0.882
+       ],
+       [
+        6.6,
+        0.867
+       ],
+       [
+        6.64,
+        0.856
+       ],
+       [
+        6.68,
+        0.851
+       ],
+       [
+        6.72,
+        0.851
+       ],
+       [
+        6.76,
+        0.856
+       ],
+       [
+        6.8,
+        0.867
+       ],
+       [
+        6.84,
+        0.882
+       ],
+       [
+        6.88,
+        0.902
+       ],
+       [
+        6.92,
+        0.924
+       ],
+       [
+        6.96,
+        0.949
+       ],
+       [
+        7.0,
+        0.976
+       ],
+       [
+        7.04,
+        1.002
+       ],
+       [
+        7.08,
+        1.028
+       ],
+       [
+        7.12,
+        1.054
+       ],
+       [
+        7.16,
+        1.077
+       ],
+       [
+        7.2,
+        1.098
+       ],
+       [
+        7.24,
+        1.117
+       ],
+       [
+        7.28,
+        1.134
+       ],
+       [
+        7.32,
+        1.148
+       ],
+       [
+        7.36,
+        1.159
+       ],
+       [
+        7.4,
+        1.169
+       ],
+       [
+        7.44,
+        1.177
+       ],
+       [
+        7.48,
+        1.183
+       ],
+       [
+        7.52,
+        1.187
+       ],
+       [
+        7.56,
+        1.191
+       ],
+       [
+        7.6,
+        1.194
+       ],
+       [
+        7.64,
+        1.196
+       ],
+       [
+        7.68,
+        1.197
+       ],
+       [
+        7.72,
+        1.198
+       ],
+       [
+        7.76,
+        1.199
+       ],
+       [
+        7.8,
+        1.199
+       ],
+       [
+        7.84,
+        1.199
+       ],
+       [
+        7.88,
+        1.2
+       ],
+       [
+        7.92,
+        1.2
+       ],
+       [
+        7.96,
+        1.2
+       ],
+       [
+        8.0,
+        1.2
+       ],
+       [
+        8.04,
+        1.2
+       ],
+       [
+        8.08,
+        1.2
+       ],
+       [
+        8.12,
+        1.2
+       ],
+       [
+        8.16,
+        1.2
+       ],
+       [
+        8.2,
+        1.2
+       ],
+       [
+        8.24,
+        1.2
+       ],
+       [
+        8.28,
+        1.2
+       ],
+       [
+        8.32,
+        1.2
+       ],
+       [
+        8.36,
+        1.2
+       ],
+       [
+        8.4,
+        1.2
+       ],
+       [
+        8.44,
+        1.2
+       ],
+       [
+        8.48,
+        1.2
+       ],
+       [
+        8.52,
+        1.2
+       ],
+       [
+        8.56,
+        1.2
+       ],
+       [
+        8.6,
+        1.2
+       ],
+       [
+        8.64,
+        1.2
+       ],
+       [
+        8.68,
+        1.2
+       ],
+       [
+        8.72,
+        1.2
+       ],
+       [
+        8.76,
+        1.2
+       ],
+       [
+        8.8,
+        1.2
+       ],
+       [
+        8.84,
+        1.2
+       ],
+       [
+        8.88,
+        1.2
+       ],
+       [
+        8.92,
+        1.2
+       ],
+       [
+        8.96,
+        1.2
+       ],
+       [
+        9.0,
+        1.2
+       ],
+       [
+        9.04,
+        1.2
+       ],
+       [
+        9.08,
+        1.2
+       ],
+       [
+        9.12,
+        1.2
+       ],
+       [
+        9.16,
+        1.2
+       ],
+       [
+        9.2,
+        1.2
+       ],
+       [
+        9.24,
+        1.2
+       ],
+       [
+        9.28,
+        1.2
+       ],
+       [
+        9.32,
+        1.2
+       ],
+       [
+        9.36,
+        1.2
+       ],
+       [
+        9.4,
+        1.2
+       ],
+       [
+        9.44,
+        1.2
+       ],
+       [
+        9.48,
+        1.2
+       ],
+       [
+        9.52,
+        1.2
+       ],
+       [
+        9.56,
+        1.2
+       ],
+       [
+        9.6,
+        1.2
+       ],
+       [
+        9.64,
+        1.2
+       ],
+       [
+        9.68,
+        1.2
+       ],
+       [
+        9.72,
+        1.2
+       ],
+       [
+        9.76,
+        1.2
+       ],
+       [
+        9.8,
+        1.2
+       ],
+       [
+        9.84,
+        1.2
+       ],
+       [
+        9.88,
+        1.2
+       ],
+       [
+        9.92,
+        1.2
+       ],
+       [
+        9.96,
+        1.2
+       ],
+       [
+        10.0,
+        1.2
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 3,
+      "etiket": "rarefacción",
+      "cumle": 1,
+      "etiket_konum": [
+       10,
+       1.2
+      ],
+      "etiket_dx": -4,
+      "etiket_dy": -14,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "sikisma",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.04,
+        0.0
+       ],
+       [
+        0.08,
+        0.0
+       ],
+       [
+        0.12,
+        0.0
+       ],
+       [
+        0.16,
+        0.0
+       ],
+       [
+        0.2,
+        0.0
+       ],
+       [
+        0.24,
+        0.0
+       ],
+       [
+        0.28,
+        0.0
+       ],
+       [
+        0.32,
+        0.0
+       ],
+       [
+        0.36,
+        0.0
+       ],
+       [
+        0.4,
+        0.0
+       ],
+       [
+        0.44,
+        0.0
+       ],
+       [
+        0.48,
+        0.0
+       ],
+       [
+        0.52,
+        0.0
+       ],
+       [
+        0.56,
+        0.0
+       ],
+       [
+        0.6,
+        0.0
+       ],
+       [
+        0.64,
+        0.0
+       ],
+       [
+        0.68,
+        0.0
+       ],
+       [
+        0.72,
+        0.0
+       ],
+       [
+        0.76,
+        0.0
+       ],
+       [
+        0.8,
+        0.0
+       ],
+       [
+        0.84,
+        0.0
+       ],
+       [
+        0.88,
+        0.0
+       ],
+       [
+        0.92,
+        -0.079
+       ],
+       [
+        0.96,
+        -0.211
+       ],
+       [
+        1.0,
+        -0.286
+       ],
+       [
+        1.04,
+        -0.288
+       ],
+       [
+        1.08,
+        -0.22
+       ],
+       [
+        1.12,
+        -0.102
+       ],
+       [
+        1.16,
+        0.036
+       ],
+       [
+        1.2,
+        0.161
+       ],
+       [
+        1.24,
+        0.244
+       ],
+       [
+        1.28,
+        0.272
+       ],
+       [
+        1.32,
+        0.244
+       ],
+       [
+        1.36,
+        0.177
+       ],
+       [
+        1.4,
+        0.096
+       ],
+       [
+        1.44,
+        0.027
+       ],
+       [
+        1.48,
+        -0.007
+       ],
+       [
+        1.52,
+        0.005
+       ],
+       [
+        1.56,
+        0.058
+       ],
+       [
+        1.6,
+        0.139
+       ],
+       [
+        1.64,
+        0.225
+       ],
+       [
+        1.68,
+        0.294
+       ],
+       [
+        1.72,
+        0.329
+       ],
+       [
+        1.76,
+        0.321
+       ],
+       [
+        1.8,
+        0.269
+       ],
+       [
+        1.84,
+        0.183
+       ],
+       [
+        1.88,
+        0.08
+       ],
+       [
+        1.92,
+        -0.022
+       ],
+       [
+        1.96,
+        -0.103
+       ],
+       [
+        2.0,
+        -0.148
+       ],
+       [
+        2.04,
+        -0.152
+       ],
+       [
+        2.08,
+        -0.117
+       ],
+       [
+        2.12,
+        -0.055
+       ],
+       [
+        2.16,
+        0.018
+       ],
+       [
+        2.2,
+        0.083
+       ],
+       [
+        2.24,
+        0.125
+       ],
+       [
+        2.28,
+        0.135
+       ],
+       [
+        2.32,
+        0.111
+       ],
+       [
+        2.36,
+        0.062
+       ],
+       [
+        2.4,
+        0.0
+       ],
+       [
+        2.44,
+        -0.059
+       ],
+       [
+        2.48,
+        -0.101
+       ],
+       [
+        2.52,
+        -0.116
+       ],
+       [
+        2.56,
+        -0.103
+       ],
+       [
+        2.6,
+        -0.065
+       ],
+       [
+        2.64,
+        -0.014
+       ],
+       [
+        2.68,
+        0.039
+       ],
+       [
+        2.72,
+        0.079
+       ],
+       [
+        2.76,
+        0.098
+       ],
+       [
+        2.8,
+        0.093
+       ],
+       [
+        2.84,
+        0.065
+       ],
+       [
+        2.88,
+        0.023
+       ],
+       [
+        2.92,
+        -0.023
+       ],
+       [
+        2.96,
+        -0.06
+       ],
+       [
+        3.0,
+        -0.082
+       ],
+       [
+        3.04,
+        -0.083
+       ],
+       [
+        3.08,
+        -0.063
+       ],
+       [
+        3.12,
+        -0.029
+       ],
+       [
+        3.16,
+        0.01
+       ],
+       [
+        3.2,
+        0.045
+       ],
+       [
+        3.24,
+        0.068
+       ],
+       [
+        3.28,
+        0.073
+       ],
+       [
+        3.32,
+        0.062
+       ],
+       [
+        3.36,
+        0.039
+       ],
+       [
+        3.4,
+        0.011
+       ],
+       [
+        3.44,
+        -0.011
+       ],
+       [
+        3.48,
+        -0.018
+       ],
+       [
+        3.52,
+        -0.003
+       ],
+       [
+        3.56,
+        0.036
+       ],
+       [
+        3.6,
+        0.096
+       ],
+       [
+        3.64,
+        0.17
+       ],
+       [
+        3.68,
+        0.244
+       ],
+       [
+        3.72,
+        0.305
+       ],
+       [
+        3.76,
+        0.343
+       ],
+       [
+        3.8,
+        0.35
+       ],
+       [
+        3.84,
+        0.325
+       ],
+       [
+        3.88,
+        0.275
+       ],
+       [
+        3.92,
+        0.211
+       ],
+       [
+        3.96,
+        0.144
+       ],
+       [
+        4.0,
+        0.087
+       ],
+       [
+        4.04,
+        0.047
+       ],
+       [
+        4.08,
+        0.026
+       ],
+       [
+        4.12,
+        0.02
+       ],
+       [
+        4.16,
+        0.026
+       ],
+       [
+        4.2,
+        0.011
+       ],
+       [
+        4.24,
+        0.005
+       ],
+       [
+        4.28,
+        0.003
+       ],
+       [
+        4.32,
+        0.001
+       ],
+       [
+        4.36,
+        0.0
+       ],
+       [
+        4.4,
+        0.0
+       ],
+       [
+        4.44,
+        0.0
+       ],
+       [
+        4.48,
+        0.0
+       ],
+       [
+        4.52,
+        0.0
+       ],
+       [
+        4.56,
+        0.0
+       ],
+       [
+        4.6,
+        0.0
+       ],
+       [
+        4.64,
+        0.0
+       ],
+       [
+        4.68,
+        0.0
+       ],
+       [
+        4.72,
+        0.0
+       ],
+       [
+        4.76,
+        0.0
+       ],
+       [
+        4.8,
+        0.0
+       ],
+       [
+        4.84,
+        0.0
+       ],
+       [
+        4.88,
+        0.0
+       ],
+       [
+        4.92,
+        0.0
+       ],
+       [
+        4.96,
+        0.001
+       ],
+       [
+        5.0,
+        0.002
+       ],
+       [
+        5.04,
+        0.003
+       ],
+       [
+        5.08,
+        0.007
+       ],
+       [
+        5.12,
+        0.013
+       ],
+       [
+        5.16,
+        0.023
+       ],
+       [
+        5.2,
+        0.039
+       ],
+       [
+        5.24,
+        0.063
+       ],
+       [
+        5.28,
+        0.097
+       ],
+       [
+        5.32,
+        0.143
+       ],
+       [
+        5.36,
+        0.199
+       ],
+       [
+        5.4,
+        0.264
+       ],
+       [
+        5.44,
+        0.332
+       ],
+       [
+        5.48,
+        0.397
+       ],
+       [
+        5.52,
+        0.451
+       ],
+       [
+        5.56,
+        0.487
+       ],
+       [
+        5.6,
+        0.499
+       ],
+       [
+        5.64,
+        0.486
+       ],
+       [
+        5.68,
+        0.449
+       ],
+       [
+        5.72,
+        0.394
+       ],
+       [
+        5.76,
+        0.328
+       ],
+       [
+        5.8,
+        0.257
+       ],
+       [
+        5.84,
+        0.19
+       ],
+       [
+        5.88,
+        0.13
+       ],
+       [
+        5.92,
+        0.08
+       ],
+       [
+        5.96,
+        0.039
+       ],
+       [
+        6.0,
+        0.008
+       ],
+       [
+        6.04,
+        -0.018
+       ],
+       [
+        6.08,
+        -0.04
+       ],
+       [
+        6.12,
+        -0.06
+       ],
+       [
+        6.16,
+        -0.08
+       ],
+       [
+        6.2,
+        -0.1
+       ],
+       [
+        6.24,
+        -0.122
+       ],
+       [
+        6.28,
+        -0.146
+       ],
+       [
+        6.32,
+        -0.171
+       ],
+       [
+        6.36,
+        -0.198
+       ],
+       [
+        6.4,
+        -0.224
+       ],
+       [
+        6.44,
+        -0.251
+       ],
+       [
+        6.48,
+        -0.276
+       ],
+       [
+        6.52,
+        -0.298
+       ],
+       [
+        6.56,
+        -0.318
+       ],
+       [
+        6.6,
+        -0.333
+       ],
+       [
+        6.64,
+        -0.344
+       ],
+       [
+        6.68,
+        -0.349
+       ],
+       [
+        6.72,
+        -0.349
+       ],
+       [
+        6.76,
+        -0.344
+       ],
+       [
+        6.8,
+        -0.333
+       ],
+       [
+        6.84,
+        -0.318
+       ],
+       [
+        6.88,
+        -0.298
+       ],
+       [
+        6.92,
+        -0.276
+       ],
+       [
+        6.96,
+        -0.251
+       ],
+       [
+        7.0,
+        -0.224
+       ],
+       [
+        7.04,
+        -0.198
+       ],
+       [
+        7.08,
+        -0.172
+       ],
+       [
+        7.12,
+        -0.146
+       ],
+       [
+        7.16,
+        -0.123
+       ],
+       [
+        7.2,
+        -0.102
+       ],
+       [
+        7.24,
+        -0.083
+       ],
+       [
+        7.28,
+        -0.066
+       ],
+       [
+        7.32,
+        -0.052
+       ],
+       [
+        7.36,
+        -0.041
+       ],
+       [
+        7.4,
+        -0.031
+       ],
+       [
+        7.44,
+        -0.023
+       ],
+       [
+        7.48,
+        -0.017
+       ],
+       [
+        7.52,
+        -0.013
+       ],
+       [
+        7.56,
+        -0.009
+       ],
+       [
+        7.6,
+        -0.006
+       ],
+       [
+        7.64,
+        -0.004
+       ],
+       [
+        7.68,
+        -0.003
+       ],
+       [
+        7.72,
+        -0.002
+       ],
+       [
+        7.76,
+        -0.001
+       ],
+       [
+        7.8,
+        -0.001
+       ],
+       [
+        7.84,
+        -0.001
+       ],
+       [
+        7.88,
+        -0.0
+       ],
+       [
+        7.92,
+        -0.0
+       ],
+       [
+        7.96,
+        -0.0
+       ],
+       [
+        8.0,
+        -0.0
+       ],
+       [
+        8.04,
+        -0.0
+       ],
+       [
+        8.08,
+        -0.0
+       ],
+       [
+        8.12,
+        -0.0
+       ],
+       [
+        8.16,
+        -0.0
+       ],
+       [
+        8.2,
+        -0.0
+       ],
+       [
+        8.24,
+        -0.0
+       ],
+       [
+        8.28,
+        -0.0
+       ],
+       [
+        8.32,
+        -0.0
+       ],
+       [
+        8.36,
+        -0.0
+       ],
+       [
+        8.4,
+        -0.0
+       ],
+       [
+        8.44,
+        -0.0
+       ],
+       [
+        8.48,
+        -0.0
+       ],
+       [
+        8.52,
+        -0.0
+       ],
+       [
+        8.56,
+        -0.0
+       ],
+       [
+        8.6,
+        -0.0
+       ],
+       [
+        8.64,
+        -0.0
+       ],
+       [
+        8.68,
+        -0.0
+       ],
+       [
+        8.72,
+        -0.0
+       ],
+       [
+        8.76,
+        -0.0
+       ],
+       [
+        8.8,
+        -0.0
+       ],
+       [
+        8.84,
+        -0.0
+       ],
+       [
+        8.88,
+        -0.0
+       ],
+       [
+        8.92,
+        -0.0
+       ],
+       [
+        8.96,
+        -0.0
+       ],
+       [
+        9.0,
+        -0.0
+       ],
+       [
+        9.04,
+        -0.0
+       ],
+       [
+        9.08,
+        -0.0
+       ],
+       [
+        9.12,
+        -0.0
+       ],
+       [
+        9.16,
+        -0.0
+       ],
+       [
+        9.2,
+        -0.0
+       ],
+       [
+        9.24,
+        -0.0
+       ],
+       [
+        9.28,
+        -0.0
+       ],
+       [
+        9.32,
+        -0.0
+       ],
+       [
+        9.36,
+        -0.0
+       ],
+       [
+        9.4,
+        -0.0
+       ],
+       [
+        9.44,
+        -0.0
+       ],
+       [
+        9.48,
+        -0.0
+       ],
+       [
+        9.52,
+        -0.0
+       ],
+       [
+        9.56,
+        -0.0
+       ],
+       [
+        9.6,
+        -0.0
+       ],
+       [
+        9.64,
+        -0.0
+       ],
+       [
+        9.68,
+        -0.0
+       ],
+       [
+        9.72,
+        -0.0
+       ],
+       [
+        9.76,
+        -0.0
+       ],
+       [
+        9.8,
+        -0.0
+       ],
+       [
+        9.84,
+        -0.0
+       ],
+       [
+        9.88,
+        -0.0
+       ],
+       [
+        9.92,
+        -0.0
+       ],
+       [
+        9.96,
+        -0.0
+       ],
+       [
+        10.0,
+        -0.0
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": 3,
+      "etiket": "condensación",
+      "cumle": 1,
+      "etiket_konum": [
+       10,
+       0.0
+      ],
+      "etiket_dx": -4,
+      "etiket_dy": -14,
+      "etiket_hiza": "end"
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "erken",
+      "x": [
+       0.9,
+       4.2
+      ],
+      "renk": "sari",
+      "etiket": "se invierte",
+      "cumle": 2
+     },
+     {
+      "ad": "dalga_v_bolge",
+      "x": [
+       5.2,
+       6.1
+      ],
+      "renk": "yesil",
+      "etiket": "onda V",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "MC y artefacto _se invierten_ con la polaridad",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "La onda V neural _no cambia_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Imaginen que superponemos dos registros obtenidos por separado con polaridad de rarefacción y de condensación.",
+    "En el ejemplo en pantalla, el registro con rarefacción está arriba y el registro con condensación, abajo.",
+    "La oscilación de los primeros milisegundos está invertida entre ambos; es artefacto del estímulo o microfónico coclear (MC).",
+    {
+     "yazi": "La onda V, en cambio, apunta en la misma dirección y está casi en el mismo lugar en ambos; una respuesta neural no se invierte con la polaridad."
+    },
+    "Hace falta un paso más para identificar el componente que se invierte, porque tanto el artefacto como el MC siguen la polaridad.",
+    {
+     "yazi": "El microfónico coclear es una respuesta real de las células ciliadas externas que sigue la forma de onda del estímulo."
+    }
+   ]
+  },
+  {
+   "id": "ayirma",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Artefacto del estímulo y MC",
+   "baslik": "¿Artefacto o *MC*?",
+   "adimlar": [
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Auricular de inserción",
+     "metin": "El tubo retrasa el sonido",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Mirar el inicio",
+     "metin": "¿En cero o retrasado?",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Pinzar el tubo",
+     "metin": "No llega sonido al oído",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Comparar",
+     "metin": "Lo que desaparece: MC",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Con un auricular de inserción, el sonido viaja por un tubo desde el transductor hasta el oído en unos 0,8 a 0,9 milisegundos.",
+     "ses": "Con un auricular de inserción, el sonido viaja por un tubo desde el transductor hasta el oído en unos cero coma ocho a cero coma nueve milisegundos."
+    },
+    "El artefacto del estímulo empieza con la señal eléctrica, en el tiempo cero; el microfónico coclear empieza después de este retardo acústico.",
+    "Esta diferencia de tiempo es la primera pista, pero por sí sola no siempre es concluyente.",
+    "Para una respuesta clara, se hace un registro de control con el tubo de sonido pinzado o desconectado, para que no llegue sonido al oído.",
+    "La oscilación que desaparece en este registro es el microfónico coclear verdadero; la que se mantiene igual es artefacto eléctrico.",
+    "Veremos la importancia clínica de esta distinción en la próxima lección, sobre el trastorno del espectro de la neuropatía auditiva."
+   ]
+  },
+  {
+   "id": "uyaran_art",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Artefacto del estímulo y MC",
+   "baslik": "*Reducir* el artefacto del estímulo",
+   "maddeler": [
+    {
+     "metin": "Auricular de inserción: transductor _alejado_",
+     "cumle": 0,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Cable del transductor _separado_ de los electrodos",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "La polaridad alternante _lo cancela_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Pero para el MC, _polaridades separadas_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "ayar": {
+     "insert": true
+    },
+    "vurgula": [
+     {
+      "parca": "transduser",
+      "cumle": 0
+     },
+     {
+      "parca": "ses_tupu",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "transduser",
+      "metin": "Transductor",
+      "cumle": 0
+     },
+     {
+      "parca": "ses_tupu",
+      "metin": "Tubo de sonido",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Con un auricular de inserción, el transductor queda lejos del oído, por lo que su campo electromagnético afecta menos a los electrodos.",
+    "El transductor y su cable se colocan lo más lejos posible de los cables de los electrodos y no en paralelo a ellos.",
+    "Con polaridad alternante, el artefacto tiene signo opuesto en las dos polaridades, por lo que se cancela en gran parte en el promedio.",
+    "Pero cuando se busca el microfónico coclear, como en la sospecha de neuropatía auditiva, las polaridades se registran por separado.",
+    "Un vibrador óseo emite un campo aún mayor, por lo que estas precauciones importan todavía más en los PEATC por vía ósea."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de concluir que no hay respuesta: ¿auricular colocado y conectado, estímulo activo, buena impedancia? Ante la duda, pinzar el tubo y hacer un registro de control.",
+   "cumleler": [
+    "Un consejo clínico: revisen todo el montaje, de principio a fin, antes de decidir que no hay respuesta.",
+    "Asegúrense de que el auricular está en el oído correcto y conectado al equipo, y de que el estímulo realmente se está presentando.",
+    "Revisen de nuevo las impedancias de los electrodos y confirmen que el ruido residual del registro es lo bastante bajo.",
+    "Si ven una onda dudosa, un registro de control con el tubo de sonido pinzado muestra rápidamente si es real."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "tablo",
+   "bolum_no": "PARTE 5",
+   "bolum": "Solución de problemas",
+   "baslik": "Signo, causa, *solución*",
+   "sutunlar": [
+    "Signo",
+    "Causa posible",
+    "Primer paso"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Registro plano",
+      "Puente o rotura",
+      "Revisar electrodos"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Rechazo frecuente",
+      "Músculo, electrodo flojo",
+      "Relajar, preparar de nuevo"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Ondulación regular",
+      "Interferencia de 50 Hz",
+      "Equilibrar impedancias"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Gran oscilación en cero",
+      "Artefacto del estímulo",
+      "Separar los cables"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Registros no superpuestos",
+      "Ruido residual alto",
+      "Agregar más barridos"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Si el registro es casi plano, puede haber un puente de gel entre los electrodos o un cable roto.",
+    "Si se rechaza la mayoría de los barridos, piensen en tensión muscular o en un electrodo flojo.",
+    "Si hay una ondulación regular en el registro, piensen en interferencia de la red y revisen el equilibrio de impedancias.",
+    "Una gran oscilación que empieza en el tiempo cero suele ser artefacto del estímulo; separen los cables del transductor y de los electrodos.",
+    "Si los registros repetidos no se superponen, el ruido residual es alto; agreguen más barridos y esperen a que el paciente se calme.",
+    "Hacer un solo cambio a la vez y observar el resultado facilita encontrar el origen del problema."
+   ]
+  },
+  {
+   "id": "ortalama",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Solución de problemas",
+   "baslik": "Ruido residual y *replicación*",
+   "maddeler": [
+    {
+     "metin": "Ruido residual: lo que _queda_ tras promediar",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Cuatro veces los barridos, _la mitad_ del ruido",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cada condición _al menos dos veces_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Los indicadores estadísticos _ayudan_",
+     "cumle": 4,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 0,
+      "max": 4200,
+      "adim": 1000,
+      "ad": "Número de barridos"
+     },
+     "y": {
+      "min": 0,
+      "max": 1.1,
+      "ad": "Ruido residual (relativo)",
+      "isaretler": []
+     },
+     "seriler": [
+      {
+       "ad": "gurultu_egrisi",
+       "noktalar": [
+        [
+         250,
+         1.0
+        ],
+        [
+         500,
+         0.707
+        ],
+        [
+         750,
+         0.577
+        ],
+        [
+         1000,
+         0.5
+        ],
+        [
+         1500,
+         0.408
+        ],
+        [
+         2000,
+         0.354
+        ],
+        [
+         3000,
+         0.289
+        ],
+        [
+         4000,
+         0.25
+        ]
+       ],
+       "renk": "mavi",
+       "yumusak": true,
+       "isaretli": true,
+       "cumle": 1
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "bin",
+       "x": 1000,
+       "y": 0.5,
+       "etiket": "mitad",
+       "cumle": 2,
+       "dy": -20
+      },
+      {
+       "ad": "dortbin",
+       "x": 4000,
+       "y": 0.25,
+       "etiket": "cuarta parte",
+       "cumle": 2,
+       "dy": -20
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "El ruido residual es la actividad de fondo que aún queda en el registro después de la promediación."
+    },
+    "El ruido aleatorio disminuye con la raíz cuadrada del número de barridos; así, al cuadruplicar los barridos, el ruido se reduce a la mitad.",
+    "Por eso, a partir de cierto punto, reducir la fuente del ruido es más eficiente que agregar más barridos.",
+    "En cada condición se obtienen al menos dos registros; una respuesta real aparece a la misma latencia en ambos.",
+    "Los indicadores estadísticos que ofrecen muchos equipos apoyan la decisión visual, pero no la reemplazan."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Solución de problemas",
+   "baslik": "Prevenir es más fácil que *corregir*",
+   "maddeler": [
+    {
+     "metin": "Sala con luz tenue, silenciosa y _cómoda_",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Celulares y equipos innecesarios, _lejos_",
+     "cumle": 1,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Buena preparación de la piel, impedancia _equilibrada_",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Cables ordenados y _trenzados_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "test_kabini",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "hasta",
+      "cumle": 0
+     },
+     {
+      "parca": "kulaklik",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "La mayoría de los artefactos pueden prevenirse con precauciones tomadas antes de empezar el registro.",
+    "Los teléfonos celulares y los equipos electrónicos innecesarios se mantienen lejos del paciente y de los cables.",
+    "Una buena preparación de la piel y una impedancia equilibrada reducen desde el inicio los problemas musculares y de la red eléctrica.",
+    "Los cables se mantienen ordenados, trenzados y separados del cable del transductor.",
+    "Explicar antes del registro que la prueba no duele y que basta con descansar reduce la ansiedad y la tensión muscular.",
+    "Esto acorta el tiempo de registro y aumenta la fiabilidad del resultado."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Fuentes: _paciente, entorno, estímulo_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "El rechazo de artefactos elimina los _picos_ grandes",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "MC y artefacto se invierten _con la polaridad_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Registro con tubo pinzado: _el MC desaparece_",
+     "cumle": 3,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Los artefactos de los PEATC pueden provenir del paciente, del entorno y del propio estímulo.",
+    "El rechazo de artefactos elimina los barridos de alto voltaje; para el ruido continuo, hay que encontrar la fuente.",
+    {
+     "yazi": "El artefacto del estímulo y el microfónico coclear se invierten al invertir la polaridad; la onda V neural no."
+    },
+    "Al pinzar el tubo de sonido, el microfónico coclear desaparece, mientras que el artefacto eléctrico permanece en el registro."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Con el tubo pinzado, la oscilación se mantiene. ¿Qué es?",
+   "secenekler": [
+    "Microfónico coclear",
+    "Artefacto del estímulo",
+    "Onda V"
+   ],
+   "dogru": 1,
+   "aciklama": "La oscilación que se mantiene cuando no llega sonido al oído es de origen _eléctrico_; un MC verdadero desaparecería.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: al pinzar el tubo de sonido, la oscilación temprana se mantiene exactamente igual. ¿Qué es esta oscilación?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: artefacto del estímulo.",
+    "Cuando no llega sonido al oído, un microfónico coclear verdadero desaparece; la oscilación que queda es el efecto eléctrico del transductor."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Trastorno del espectro de la *neuropatía auditiva*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos el trastorno del espectro de la neuropatía auditiva, en el que el microfónico coclear está presente pero los PEATC están ausentes.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

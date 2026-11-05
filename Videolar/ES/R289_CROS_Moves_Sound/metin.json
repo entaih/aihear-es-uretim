@@ -1,0 +1,135 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R289_CROS_Moves_Sound_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #289",
+  "baslik": "El CROS traslada el *sonido*",
+  "alt": "Sordera unilateral y CROS",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava_maskeli",
+     "degerler": [
+      90,
+      95,
+      100,
+      105,
+      110,
+      115
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Un sistema CROS hace oír al oído sordo? #shorts",
+  "aciklama": "Con el CROS, el oído peor lleva un dispositivo que solo tiene micrófono y transmisor, y el sonido se envía de forma inalámbrica al audífono receptor del oído mejor. El CROS no repara el oído peor; solo lleva el sonido de ese lado al oído mejor, la localización no se recupera y también se transmite el ruido de ese lado.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audifonos",
+   "CROS"
+  ],
+  "etiketler": [
+   "CROS",
+   "BiCROS",
+   "sordera unilateral",
+   "efecto sombra de la cabeza",
+   "localización",
+   "audífono",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Un sistema CROS hace oír al oído sordo?",
+  "bilgiler": [
+   "El dispositivo del lado peor solo tiene micrófono y transmisor.",
+   "El CROS no repara el oído peor; redirige su sonido.",
+   "La localización no vuelve; un período de prueba orienta la decisión."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "CROS"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #289",
+   "metin": "¿El oído peor *oirá?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Un sistema CROS hace oír al oído sordo?"
+   ]
+  },
+  {
+   "id": "cros",
+   "tur": "zincir",
+   "baslik": "Cómo funciona el *CROS*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Lado peor",
+     "tr": "micrófono, transmisor",
+     "cumle": 0
+    },
+    {
+     "ad": "Inalámbrico",
+     "tr": "lleva el sonido",
+     "cumle": 1
+    },
+    {
+     "ad": "Oído mejor",
+     "tr": "lo oye",
+     "cumle": 2
+    }
+   ],
+   "alt": "La localización _no vuelve_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "El oído peor lleva un dispositivo que solo tiene micrófono y transmisor.",
+    "Este envía el sonido de forma inalámbrica al audífono receptor del oído mejor.",
+    "El CROS no repara el oído peor; solo redirige su sonido.",
+    "Ayuda sobre todo cuando, por ejemplo, un pasajero habla desde ese lado.",
+    "La localización no se recupera, y también se transmite el ruido de ese lado."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D194",
+ "kaynak_baslik": "Adaptación bilateral, CROS y BiCROS"
+}

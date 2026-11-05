@@ -1,0 +1,134 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R029_Four_Kilohertz_Notch_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #29",
+  "baslik": "Una *muesca* en 4000 Hz",
+  "alt": "Una pista que pide indagar la exposición al ruido",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      25,
+      55,
+      30
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      15,
+      30,
+      60,
+      35
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Qué indica una muesca en 4000 Hz en el audiograma? #shorts",
+  "aciklama": "Una muesca en la que los umbrales caen en 4000 Hz y se recuperan en 8000 Hz es típica de la hipoacusia inducida por ruido. Aun así, el diagnóstico no se hace solo con el audiograma; se necesita una anamnesis detallada de exposición al ruido. El audiograma que se muestra es un ejemplo.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audiograma",
+   "audicion"
+  ],
+  "etiketler": [
+   "muesca por ruido",
+   "muesca en 4000 Hz",
+   "hipoacusia inducida por ruido",
+   "configuración audiométrica",
+   "audiograma",
+   "audiología",
+   "audición",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Qué indica una muesca en el audiograma?",
+  "bilgiler": [
+   "El umbral cae en 4000 Hz y se recupera en 8000 Hz.",
+   "Esta muesca es típica de la hipoacusia inducida por ruido.",
+   "El audiograma por sí solo no es un diagnóstico; se necesita la anamnesis de exposición al ruido."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audiograma",
+   "audicion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #29",
+   "metin": "¿Qué indica una *muesca* en el audiograma?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Qué indica una muesca en el audiograma?"
+   ]
+  },
+  {
+   "id": "centik",
+   "tur": "zincir",
+   "baslik": "Muesca y *recuperación*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "4000 Hz",
+     "cumle": 0,
+     "tr": "caída"
+    },
+    {
+     "ad": "8000 Hz",
+     "cumle": 1,
+     "tr": "recuperación"
+    },
+    {
+     "ad": "Anamnesis",
+     "cumle": 2,
+     "tr": "preguntar por el ruido"
+    }
+   ],
+   "alt": "Una _pista_, no un diagnóstico por sí sola",
+   "alt_cumle": 3,
+   "cumleler": [
+    "El umbral cae claramente en cuatro mil hertz.",
+    "En ocho mil hertz vuelve a mejorar; esto se llama recuperación.",
+    "Una muesca así es típica de la hipoacusia inducida por ruido.",
+    "Aun así, el audiograma por sí solo no es un diagnóstico; la anamnesis también importa."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D063",
+ "kaynak_baslik": "Configuraciones audiométricas y lo que sugieren"
+}

@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R257_Conductive_Loss_Hides_VEMP_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #257",
+  "baslik": "Un VEMP ausente *puede engañar*",
+  "alt": "VEMP por vía aérea e hipoacusia conductiva",
+  "cizim": "orta_kulak",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Puede una pequeña pérdida conductiva borrar la respuesta VEMP? #shorts",
+  "aciklama": "El sonido por vía aérea llega a los órganos otolíticos a través del oído medio, por lo que incluso una pequeña pérdida conductiva puede reducir o abolir la respuesta VEMP por vía aérea; en ese caso, una respuesta ausente no se interpreta como una pérdida vestibular. Con pérdida conductiva se prefiere la vibración por vía ósea, y siempre se revisan el audiograma y la timpanometría antes del VEMP.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "vestibular",
+   "VEMP"
+  ],
+  "etiketler": [
+   "VEMP",
+   "VEMP por vía aérea",
+   "vibración por vía ósea",
+   "hipoacusia conductiva",
+   "timpanometría",
+   "órganos otolíticos",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Puede una pequeña pérdida conductiva borrar la respuesta VEMP?",
+  "bilgiler": [
+   "Una pequeña pérdida conductiva puede abolir el VEMP por vía aérea.",
+   "En ese caso, la respuesta ausente no indica pérdida vestibular.",
+   "Revisa el audiograma y la timpanometría antes del VEMP."
+  ],
+  "hashtag": [
+   "audiologia",
+   "vestibular",
+   "VEMP"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #257",
+   "metin": "¿Por qué falta el *VEMP?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Puede una pequeña pérdida conductiva borrar la respuesta VEMP?"
+   ]
+  },
+  {
+   "id": "iletim",
+   "tur": "zincir",
+   "baslik": "VEMP por *vía aérea*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Oído medio",
+     "tr": "vía del sonido",
+     "cumle": 0
+    },
+    {
+     "ad": "Pérdida conductiva",
+     "tr": "sin respuesta",
+     "cumle": 1
+    },
+    {
+     "ad": "Vibración ósea",
+     "tr": "preferida",
+     "cumle": 3
+    }
+   ],
+   "alt": "Primero, _audiograma y timpanometría_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "El sonido por vía aérea llega a los órganos otolíticos a través del oído medio.",
+    "Incluso una pequeña pérdida conductiva puede abolir la respuesta VEMP por vía aérea.",
+    "Entonces, una respuesta ausente no se interpreta como una pérdida vestibular.",
+    "Con pérdida conductiva, la vibración por vía ósea es el estímulo preferido.",
+    "Por eso, revisa el audiograma y la timpanometría antes de cada VEMP."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D160",
+ "kaynak_baslik": "Pruebas VEMP: cVEMP y oVEMP"
+}

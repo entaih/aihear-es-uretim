@@ -1,0 +1,696 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D043_Speech_Banana_ES",
+ "kapak": {
+  "ust": "LECCIÓN 43",
+  "baslik": "La banana<br>*del habla*",
+  "alt": "¿Dónde están los sonidos del habla en el audiograma?",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "La banana del habla: los sonidos en el audiograma | Lección 43 | AIHEAR Academia de Audiología",
+  "aciklama": "Los sonidos del habla se ubican en una región con forma de banana en el audiograma. En esta lección usamos un audiograma de ejemplo para ver la frecuencia y la intensidad del habla, el espectro promedio del habla a largo plazo (LTASS), dónde se sitúan las vocales y las consonantes en el audiograma y qué sonidos se pierden con una pérdida auditiva.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology; Byrne et al., An international comparison of long-term average speech spectra (Journal of the Acoustical Society of America, 1994); Mueller and Killion, An easy method for calculating the articulation index (The Hearing Journal, 1990); Ling, Speech and the Hearing-Impaired Child; ANSI S3.5, Methods for Calculation of the Speech Intelligibility Index.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "bananadelhabla",
+   "audicion"
+  ],
+  "etiketler": [
+   "banana del habla",
+   "LTASS",
+   "espectro del habla",
+   "fonemas",
+   "vocales",
+   "consonantes",
+   "formantes",
+   "seis sonidos de Ling",
+   "índice de inteligibilidad del habla",
+   "audiograma",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 43",
+   "baslik": "La *banana* del habla: los sonidos en el audiograma",
+   "alt": "¿Dónde se ubican los sonidos del habla en el audiograma?",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprendemos dónde se ubican los sonidos del habla en el audiograma, en lo que se llama la banana del habla.",
+    "Luego usaremos un audiograma de ejemplo para ver qué sonidos se pierden con una pérdida auditiva."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La acústica del habla",
+   "baslik": "El habla es un sonido *complejo*",
+   "maddeler": [
+    {
+     "metin": "Información clave: de unos _250 a 8000 Hz_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Cada sonido tiene su frecuencia e _intensidad_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Conversación normal: unos _60 dB SPL_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Rango dinámico: unos _30 dB_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "desibel_olcegi",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "konusma",
+      "metin": "Conversación: unos 60 dB SPL",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "A diferencia de los tonos puros, el habla es un sonido complejo que contiene muchas frecuencias al mismo tiempo.",
+    "La información necesaria para entender el habla se extiende desde unos doscientos cincuenta hasta ocho mil hertz.",
+    "Cada sonido del habla se concentra en una región de frecuencia distinta dentro de este rango, con una intensidad distinta.",
+    "El nivel promedio de una conversación normal a un metro de distancia es de unos sesenta dB SPL.",
+    "Entre las partes más intensas y las más débiles del habla hay un rango dinámico de unos treinta decibeles.",
+    "Por eso, para oír el habla por completo, necesitamos oír no solo el promedio, sino también los sonidos más débiles."
+   ]
+  },
+  {
+   "id": "ltass",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La acústica del habla",
+   "baslik": "*LTASS*: el espectro promedio del habla",
+   "maddeler": [
+    {
+     "metin": "La mayor energía, en la región _grave_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "El nivel _cae_ hacia los agudos",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Similar_ entre idiomas",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "LTASS",
+    "metin": "La energía *promedio* del habla prolongada por frecuencia",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Para estudiar el habla en su conjunto, usamos el espectro promedio del habla a largo plazo, o LTASS.",
+    "El LTASS muestra la energía promedio en cada banda de frecuencia a lo largo de un tramo extenso de habla.",
+    "La mayor parte de la energía del habla está en la región grave, entre unos doscientos cincuenta y quinientos hertz.",
+    "A medida que sube la frecuencia, el nivel promedio desciende gradualmente.",
+    "Las comparaciones entre idiomas han mostrado que el espectro promedio del habla es bastante similar de un idioma a otro.",
+    "Esta similitud facilita usar los mismos objetivos de adaptación de audífonos en distintos idiomas."
+   ]
+  },
+  {
+   "id": "unlu_unsuz",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 2",
+   "bolum": "Vocales y consonantes",
+   "baslik": "Vocales y *consonantes*",
+   "sol": {
+    "ust": "Vocales",
+    "maddeler": [
+     {
+      "metin": "_Más intensas_",
+      "cumle": 1
+     },
+     {
+      "metin": "Energía en graves y medios",
+      "cumle": 1
+     },
+     {
+      "metin": "Se identifican por _formantes_",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Consonantes",
+    "maddeler": [
+     {
+      "metin": "En general _más débiles_",
+      "cumle": 3
+     },
+     {
+      "metin": "Claves principales en los agudos",
+      "cumle": 3
+     },
+     {
+      "metin": "Aportan información distintiva",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Podemos dividir a grandes rasgos los sonidos del habla, o fonemas, en dos grupos: vocales y consonantes.",
+    "Las vocales son más intensas, y su energía se concentra sobre todo en las frecuencias graves y medias.",
+    "Cada vocal se define por la posición de unas concentraciones de energía llamadas formantes.",
+    "La mayoría de las consonantes son más débiles y llevan sus claves principales en las frecuencias agudas.",
+    "Los textos clásicos destacan que las vocales aportan la mayor parte de la potencia del habla, y las consonantes, gran parte de sus claves distintivas.",
+    "Las consonantes también se reconocen por los breves cambios de formantes que provocan al pasar a una vocal vecina."
+   ]
+  },
+  {
+   "id": "formant",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Vocales y consonantes",
+   "baslik": "Vocales y *formantes*",
+   "maddeler": [
+    {
+     "metin": "Primer formante (F1): en la región _grave_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Segundo formante (F2): _varía_ según la vocal",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "/i/: F2 en la región _aguda_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "/u/: F2 en la región _grave_",
+     "cumle": 4,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "El turco tiene _ocho_ vocales",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Veamos las vocales un poco más de cerca.",
+    "El primer formante de cada vocal suele estar en la región grave y se relaciona con la altura de la lengua.",
+    "El segundo formante cambia claramente según la lengua esté adelantada o retraída.",
+    "Por ejemplo, el segundo formante de la vocal i está en la región aguda, por encima de unos dos mil hertz.",
+    "El segundo formante de la vocal u se queda en la región grave, en unos mil hertz o menos.",
+    "El turco tiene ocho vocales; por estas diferencias, una persona con pérdida en los agudos también puede confundir algunas vocales."
+   ]
+  },
+  {
+   "id": "muz",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Vocales y consonantes",
+   "baslik": "La *banana* del habla",
+   "cizim": "konusma_muzu",
+   "notlar": [
+    {
+     "metin": "Graves e intensos: vocales, /m/, /n/",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Medios a agudos: /sh/, /ch/, /k/, /t/",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Agudos y suaves: /s/, /f/",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "muz",
+     "cumle": 0
+    },
+    {
+     "parca": "unluler",
+     "cumle": 1
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Cuando ubicamos los sonidos del habla en el audiograma, aparece una región con forma de banana; se llama banana del habla.",
+    "En el lado izquierdo e inferior de la banana, la región grave y más intensa, encontramos las vocales y sonidos nasales como la m y la n.",
+    "En el centro, entre unos mil y dos mil hertz, están los segundos formantes de las vocales y algunas consonantes.",
+    {
+     "yazi": "Consonantes como la sh, la ch, la k y la t se ubican en una región más aguda y más débil."
+    },
+    "Más a la derecha y arriba, en la región aguda y más débil, están fricativas como la s y la f.",
+    "Esta región es la ubicación aproximada del habla a nivel normal en el audiograma, y cambia según el hablante."
+   ]
+  },
+  {
+   "id": "ling",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Vocales y consonantes",
+   "baslik": "Los *seis sonidos* de Ling",
+   "sutunlar": [
+    "Sonido",
+    "Región de frecuencia aproximada"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "/m/",
+      "250 a 500 Hz"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "/u/",
+      "300 y 900 Hz"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "/a/",
+      "700 y 1200 Hz"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "/i/",
+      "300 y 2500 Hz"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "/sh/",
+      "2000 a 4000 Hz"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "/s/",
+      "4000 Hz o más"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Una forma práctica de usar la banana del habla en la clínica es la prueba de los seis sonidos de Ling.",
+    {
+     "yazi": "La prueba usa seis sonidos que recorren el rango del habla de grave a agudo: m, u, a, i, sh y s."
+    },
+    {
+     "yazi": "Los sonidos m y u representan la región grave, y la a representa la región media."
+    },
+    {
+     "yazi": "La i tiene energía tanto en la región grave como en la aguda, mientras que la sh y la s representan la región aguda."
+    },
+    {
+     "yazi": "Si un niño no logra detectar el sonido s, su acceso al habla en las frecuencias agudas puede estar limitado."
+    },
+    "Veremos esta prueba en detalle más adelante, en la lección sobre el control de los audífonos."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "¿Qué se pierde con la pérdida auditiva?",
+   "baslik": "Ejemplo: pérdida en *frecuencias agudas*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       40,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       20,
+       45,
+       60,
+       70
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "En este audiograma de ejemplo, los umbrales de ambos oídos están dentro de los límites normales hasta mil hertz.",
+    "Por encima de dos mil hertz, los umbrales caen claramente y llegan a unos sesenta dB HL en cuatro mil hertz.",
+    "Esta persona puede oír con facilidad las vocales y las consonantes graves de una conversación normal.",
+    {
+     "yazi": "Pero muchas de las consonantes agudas y débiles, como la s, la f, la sh y la t, quedan por debajo del umbral."
+    },
+    "Una queja frecuente de estas personas es que oyen los sonidos, pero no logran distinguir las palabras.",
+    "Esta dificultad aumenta aún más en lugares ruidosos."
+   ]
+  },
+  {
+   "id": "hangi_ses",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "¿Qué se pierde con la pérdida auditiva?",
+   "baslik": "¿Qué pérdida, *qué sonidos?*",
+   "sutunlar": [
+    "Región de la pérdida",
+    "Más afectados"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Frecuencias agudas",
+      "/s/, /f/, /sh/, /t/"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Frecuencias medias",
+      "F2, /ch/, /k/"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Frecuencias graves",
+      "/m/, /n/, /u/"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Todas las frecuencias",
+      "Toda el habla"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Esta tabla resume qué sonidos se ven afectados según la región de la pérdida.",
+    {
+     "yazi": "En la pérdida en agudos, los más afectados son sonidos como la s, la f, la sh y la t; es la situación más frecuente."
+    },
+    {
+     "yazi": "En la pérdida en frecuencias medias, se dificultan los segundos formantes de las vocales y consonantes como la ch y la k."
+    },
+    {
+     "yazi": "En la pérdida en graves, se ven afectados los sonidos nasales como la m y la n, y vocales como la u."
+    },
+    "En una pérdida plana, toda el habla se vuelve más suave, según el grado de la pérdida.",
+    {
+     "yazi": "En turco, la s y la sh aparecen en muchos sufijos, de modo que con una pérdida en agudos también pueden perderse claves gramaticales."
+    }
+   ]
+  },
+  {
+   "id": "derece",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "¿Qué se pierde con la pérdida auditiva?",
+   "baslik": "El grado de pérdida y la *banana*",
+   "maddeler": [
+    {
+     "metin": "Leve: el _borde superior_ de la banana",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Moderada: _atraviesa_ la banana",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Severa: _por debajo_ de la banana",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EFECTO EN EL HABLA",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Leve",
+      "metin": "Se pierden los sonidos más débiles",
+      "cumle": 1
+     },
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "Moderada",
+      "metin": "Gran parte del habla no se oye",
+      "cumle": 2
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Severa",
+      "metin": "El habla normal casi no se oye",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "La banana del habla también nos ayuda a interpretar el grado de pérdida en términos del habla.",
+    "En una pérdida leve, los umbrales suelen tocar el borde superior de la banana; se pierden los sonidos más débiles, pero se oye la mayor parte del habla.",
+    "En una pérdida moderada, los umbrales atraviesan la banana, y una gran parte de la conversación normal no se oye.",
+    "En una pérdida severa, los umbrales quedan por debajo de la banana, y el habla a niveles normales prácticamente no se oye.",
+    "Esta interpretación ofrece un lenguaje concreto para hablar con el paciente sobre la necesidad de audífonos y sobre las expectativas."
+   ]
+  },
+  {
+   "id": "nokta",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Audibilidad",
+   "baslik": "El audiograma de *contar puntos*",
+   "maddeler": [
+    {
+     "metin": "_100 puntos_ en la región de la banana",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Puntos _más densos_ en frecuencias importantes",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Se _cuentan_ los puntos bajo el umbral",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Resultado: una estimación aproximada de audibilidad",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SII",
+    "metin": "Un índice de cuánto del habla es *audible*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Una extensión práctica de la banana del habla es el audiograma de contar puntos, en el que se colocan cien puntos dentro de la banana.",
+    "Los puntos se agrupan con más densidad en las frecuencias que más importan para entender el habla.",
+    "Contamos los puntos que quedan por debajo de la línea de umbrales de la persona, en la región audible.",
+    "Este número da una estimación aproximada del índice de inteligibilidad del habla, o SII.",
+    "El SII muestra cuánto del habla es audible; no es un porcentaje directo de comprensión.",
+    "Esta herramienta es muy útil para explicar al paciente y a la familia cómo afecta la pérdida al habla cotidiana."
+   ]
+  },
+  {
+   "id": "mesafe",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Audibilidad",
+   "baslik": "La banana no es *fija*",
+   "maddeler": [
+    {
+     "metin": "Doble distancia: unos _6 dB_ menos",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Voz suave: la banana _sube_",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Ruido y reverberación _enmascaran_ consonantes",
+     "cumle": 3,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "La banana del habla no es fija; se desplaza según el nivel de voz y la distancia del hablante.",
+    "En campo libre, el nivel baja unos seis decibeles cada vez que se duplica la distancia al hablante.",
+    "Con una voz suave, la banana sube hacia la región más débil, y con una voz fuerte, baja.",
+    "El ruido y la reverberación reducen la audibilidad al enmascarar sobre todo las consonantes agudas y débiles.",
+    "Por eso a las personas con pérdida auditiva les resulta más fácil estar cerca del hablante y poder ver su cara.",
+    "Veremos este tema en detalle en la próxima lección, cuando estudiemos la acústica de salas."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Audibilidad",
+   "baslik": "Consejo clínico",
+   "metin": "Al explicar los resultados, dibujar la banana del habla sobre el audiograma del paciente; ver qué sonidos quedan fuera del umbral hace concreta la pérdida.",
+   "cumleler": [
+    "Un consejo de la práctica: cuando expliquen los resultados, dibujen la banana del habla sobre el audiograma del paciente.",
+    "Ver qué sonidos deja fuera la línea de umbrales convierte la pérdida de un número abstracto en algo concreto.",
+    "Los familiares también entienden con más facilidad por qué deben hablar con más claridad y de frente, y no solo más fuerte.",
+    "Pero expliquen también que la banana es una región aproximada que se desplaza según el hablante y la distancia."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Habla: de unos _250 a 8000 Hz_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Las vocales son _graves e intensas_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Consonantes como /s/, /f/: _agudas y suaves_",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Pérdida en agudos: se _pierden_ consonantes",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "La información clave del habla abarca de unos doscientos cincuenta a ocho mil hertz y un rango de unos treinta decibeles.",
+    "Las vocales son más intensas y se ubican en la parte grave e inferior de la banana del habla.",
+    "Los sonidos débiles, como las consonantes fricativas, están en la parte aguda y superior de la banana.",
+    "Por eso, en las pérdidas en agudos, que son las más frecuentes, la persona oye la voz pero pierde los detalles."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Qué sonido se pierde con más facilidad en una pérdida en agudos?",
+   "secenekler": [
+    "La vocal /a/",
+    "La vocal /u/",
+    "La consonante /s/",
+    "La consonante /m/"
+   ],
+   "dogru": 2,
+   "aciklama": "La /s/ está en la región _aguda y suave_; con una pérdida en agudos queda bajo el umbral.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: una persona con pérdida auditiva en frecuencias agudas, ¿cuál de estos sonidos pierde con más facilidad?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la C: la consonante s."
+    },
+    {
+     "yazi": "El sonido s está en la región aguda y débil de la banana del habla, por eso con una pérdida en agudos suele quedar por debajo del umbral."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Acústica de salas: reverberación y *señal-ruido*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo la reverberación y la relación señal-ruido afectan la comprensión del habla.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

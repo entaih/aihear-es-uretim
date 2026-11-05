@@ -1,0 +1,824 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D025_Organ_Of_Corti_ES",
+ "kapak": {
+  "ust": "LECCIÓN 25",
+  "baslik": "El órgano<br>de *Corti*",
+  "alt": "Células ciliadas internas y externas",
+  "cizim": "corti"
+ },
+ "youtube": {
+  "baslik": "Órgano de Corti: células ciliadas internas y externas | Lección 25 | AIHEAR Academia de Audiología",
+  "aciklama": "Vemos de cerca el órgano de Corti, el órgano sensorial de la cóclea. Estudiamos el número, la estructura y las funciones de las células ciliadas internas y externas, los estereocilios, la membrana tectoria, las células de sostén y las diferencias de inervación, y los relacionamos con las pruebas de OEA y PEATC.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Pickles, An Introduction to the Physiology of Hearing; Hall, Handbook of Otoacoustic Emissions; Joint Committee on Infant Hearing, Year 2019 Position Statement.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "coclea",
+   "anatomia"
+  ],
+  "etiketler": [
+   "órgano de Corti",
+   "células ciliadas internas",
+   "células ciliadas externas",
+   "membrana tectoria",
+   "estereocilios",
+   "prestina",
+   "amplificador coclear",
+   "otoemisiones acústicas",
+   "neuropatía auditiva",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 25",
+   "baslik": "Órgano de Corti: células *ciliadas* internas y externas",
+   "alt": "Células ciliadas internas y externas",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección estudiaremos el órgano de Corti, el verdadero órgano sensorial de la cóclea.",
+    "Conoceremos las células ciliadas internas y externas, la membrana tectoria, las células de sostén y cómo difieren sus conexiones nerviosas."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Presentación del órgano de Corti",
+   "baslik": "¿Dónde está el órgano de *Corti?*",
+   "cizim": "koklea_kesit",
+   "vurgula": [
+    {
+     "parca": "scala_media",
+     "cumle": 0
+    },
+    {
+     "parca": "corti_organi",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "baziler_membran",
+     "metin": "Membrana basilar",
+     "cumle": 1
+    },
+    {
+     "parca": "corti_organi",
+     "metin": "Órgano de Corti",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "1851: Alfonso Corti",
+     "cumle": 3,
+     "ikon": "kitap"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "corti_organi",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En la lección anterior conocimos la rampa media, la cámara central de la cóclea.",
+    "Sobre la membrana basilar, que forma el piso de la rampa media, hay una franja de células que recorre toda la cóclea.",
+    "Esta estructura se llama órgano de Corti.",
+    {
+     "yazi": "Debe su nombre al anatomista italiano Alfonso Corti, que lo describió en detalle en 1851."
+    },
+    "El órgano de Corti es el órgano sensorial que convierte la vibración mecánica de la membrana basilar en señales nerviosas.",
+    "Se extiende sin interrupción a lo largo de toda la cóclea, desde la base hasta el ápice."
+   ]
+  },
+  {
+   "id": "bilesenler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Presentación del órgano de Corti",
+   "baslik": "Partes del *órgano de Corti*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "baziler_membran",
+     "metin": "Membrana basilar",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "Célula ciliada interna",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Células ciliadas externas",
+     "cumle": 2
+    },
+    {
+     "parca": "tektoryal_membran",
+     "metin": "Membrana tectoria",
+     "cumle": 3
+    },
+    {
+     "parca": "destek_hucreleri",
+     "metin": "Células de sostén",
+     "cumle": 4
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Fibras nerviosas",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Veamos el órgano de Corti en un corte transversal; abajo se encuentra la membrana basilar.",
+    "En el lado interno, cerca del modiolo, las células ciliadas internas se disponen en una sola fila.",
+    "En el lado externo, las células ciliadas externas suelen disponerse en tres filas.",
+    "Por encima, las células ciliadas están cubiertas por la membrana tectoria.",
+    "Las células ciliadas están rodeadas por diversas células de sostén que las sujetan y mantienen su forma.",
+    "Las fibras del nervio auditivo llegan a la base de las células ciliadas."
+   ]
+  },
+  {
+   "id": "karsilastirma",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Células ciliadas internas y externas",
+   "baslik": "*Células ciliadas* internas y externas",
+   "sutunlar": [
+    "Característica",
+    "Célula ciliada interna",
+    "Célula ciliada externa"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Filas",
+      "1 fila",
+      "Por lo general 3"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Número (aprox.)",
+      "3500",
+      "12 000"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Forma",
+      "De pera",
+      "Cilíndrica"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Proporción de aferentes",
+      "Cerca del 95 %",
+      "Cerca del 5 %"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Función principal",
+      "Transducción sensorial",
+      "Amplificación, sintonía"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Comparemos los dos tipos de células ciliadas en una tabla.",
+    "Las células ciliadas internas forman una sola fila, mientras que las externas suelen disponerse en tres filas.",
+    "Cada cóclea tiene unas tres mil quinientas células ciliadas internas y unas doce mil externas.",
+    "Las células ciliadas internas tienen forma de pera o de frasco, mientras que las externas son largas y cilíndricas.",
+    "Cerca del noventa y cinco por ciento de las fibras del nervio auditivo que van al cerebro se conectan con las células ciliadas internas.",
+    "Por eso, las células ciliadas internas se consideran las verdaderas células sensoriales, y las externas, células amplificadoras y de sintonía.",
+    "Es decir, las células ciliadas internas, aunque son menos numerosas, transportan casi toda la información que llega al cerebro."
+   ]
+  },
+  {
+   "id": "ic_tuy",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Células ciliadas internas y externas",
+   "baslik": "Células ciliadas internas: las *células sensoriales*",
+   "maddeler": [
+    {
+     "metin": "_Células ciliadas internas_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Varias_ fibras tipo I por célula",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Estereocilios: filas _casi rectas_",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_No insertados_ en la membrana tectoria",
+     "cumle": 5,
+     "ikon": "dokunma"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "corti",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "ic_tuy_hucresi",
+      "cumle": 0
+     },
+     {
+      "parca": "sinir_lifleri",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "ic_tuy_hucresi",
+      "metin": "Célula ciliada interna",
+      "cumle": 0
+     },
+     {
+      "parca": "tektoryal_membran",
+      "metin": "Membrana tectoria",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Las células ciliadas internas son los verdaderos receptores de la audición.",
+    "Son las principales células que convierten la vibración de la membrana basilar en una señal nerviosa y la transmiten al cerebro.",
+    {
+     "yazi": "Cada célula ciliada interna recibe varias fibras nerviosas tipo I; en el ser humano, el promedio es de unas diez."
+    },
+    "Estas fibras tienen umbrales distintos, lo que ayuda a codificar un amplio rango de intensidades.",
+    "Los estereocilios de la parte superior de la célula se disponen en filas suavemente curvas, casi rectas.",
+    "Los estereocilios de las células internas no están firmemente insertados en la membrana tectoria; los inclina el movimiento del líquido."
+   ]
+  },
+  {
+   "id": "dis_tuy",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Células ciliadas internas y externas",
+   "baslik": "Células ciliadas externas: los *amplificadores*",
+   "maddeler": [
+    {
+     "metin": "_Células ciliadas externas_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "_Electromotilidad_: cambian de longitud",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Proteína motora: _prestina_",
+     "cumle": 2,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Ganancia: unos _40 a 50 dB_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "corti",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dis_tuy_hucreleri",
+      "cumle": 0
+     },
+     {
+      "parca": "tektoryal_membran",
+      "cumle": 5
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dis_tuy_hucreleri",
+      "metin": "Células ciliadas externas",
+      "cumle": 0
+     },
+     {
+      "parca": "tektoryal_membran",
+      "metin": "Membrana tectoria",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Las células ciliadas externas son más numerosas, pero llevan muy poca información al cerebro; su función principal es otra.",
+    "Al ser estimuladas, estas células pueden acortarse y alargarse rápidamente; esta propiedad se llama electromotilidad.",
+    "Este movimiento lo produce una proteína motora de la membrana celular llamada prestina.",
+    "El movimiento refuerza la vibración de la membrana basilar ante sonidos débiles y afina la sintonía frecuencial.",
+    "Este mecanismo se llama amplificador coclear y aporta una ganancia de unos cuarenta a cincuenta decibeles.",
+    "Los estereocilios más altos de las células externas están insertados en la membrana tectoria; este vínculo es clave para la amplificación.",
+    "Sus estereocilios se disponen en filas con forma de letra ve o de doble ve."
+   ]
+  },
+  {
+   "id": "stereosil",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Estereocilios y membrana tectoria",
+   "baslik": "Estereocilios: un patrón en *escalera*",
+   "maddeler": [
+    {
+     "metin": "Alturas ordenadas: _de corto a largo_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Enlaces de punta_ (tip links)",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Inclinación hacia el más alto: _excitación_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Dirección opuesta: _inhibición_",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "corti",
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "stereosil",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    "vurgula": [
+     {
+      "parca": "stereosil",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "stereosil",
+      "metin": "Estereocilios",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "En la parte superior de cada célula ciliada hay un haz de estereocilios ordenados como una escalera, de cortos a largos.",
+    "Las puntas de los estereocilios vecinos están unidas por filamentos finos llamados enlaces de punta.",
+    "Estos enlaces actúan como resortes que abren y cierran canales iónicos cerca de la punta de los estereocilios.",
+    "Cuando el haz se inclina hacia el estereocilio más alto, los canales se abren, entra potasio y la célula se excita.",
+    "Cuando se inclina en sentido contrario, los canales se cierran y la célula se inhibe.",
+    "El alto nivel de potasio de la endolinfa y el potencial endococlear impulsan este flujo de iones."
+   ]
+  },
+  {
+   "id": "tektoryal",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Estereocilios y membrana tectoria",
+   "baslik": "La membrana tectoria y el *cizallamiento*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "tektoryal_membran",
+     "metin": "Membrana tectoria",
+     "cumle": 0
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "Membrana basilar",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "tektoryal_membran",
+     "cumle": 0
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Fijada al limbo espiral",
+     "cumle": 0,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "El cizallamiento inclina los estereocilios",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Movimiento de nanómetros en el umbral",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "La membrana tectoria es una membrana gelatinosa, rica en colágeno, fijada por su borde interno al limbo espiral.",
+    "Cuando la membrana basilar se mueve hacia arriba y hacia abajo, las dos membranas giran sobre ejes distintos.",
+    "Esta diferencia crea un movimiento de cizallamiento entre la parte superior de las células ciliadas y la membrana tectoria.",
+    "El cizallamiento inclina los estereocilios y comienza la transducción.",
+    "El movimiento es diminuto; con sonidos en el umbral, las puntas de los estereocilios se mueven apenas unos nanómetros.",
+    "Se cree que la membrana tectoria contribuye a la sintonía coclear y al efecto amplificador de las células ciliadas externas."
+   ]
+  },
+  {
+   "id": "degisim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Estereocilios y membrana tectoria",
+   "baslik": "Cambios de la base al *ápice*",
+   "maddeler": [
+    {
+     "metin": "Células ciliadas externas _más largas_ hacia el ápice",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Estereocilios _más largos_ hacia el ápice",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Cerca del ápice: _4 a 5 filas_",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "A LO LARGO",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Base",
+      "metin": "Agudos, células cortas",
+      "cumle": 0
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Ápice",
+      "metin": "Graves, células largas",
+      "cumle": 1
+     },
+     {
+      "ikon": "tablo",
+      "baslik": "Cerca del ápice",
+      "metin": "A veces 4 a 5 filas",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "El órgano de Corti también cambia gradualmente a lo largo de la cóclea, desde la base hasta el ápice.",
+    "Hacia el ápice, las células ciliadas externas y sus estereocilios se hacen más largos.",
+    "Junto con una membrana basilar más ancha y flexible, este cambio favorece la sintonía con las frecuencias graves.",
+    "Cerca del ápice de la cóclea, a veces se observan células ciliadas externas en cuatro o cinco filas."
+   ]
+  },
+  {
+   "id": "destek",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Células de sostén e inervación",
+   "baslik": "*Células* de sostén",
+   "cizim": "corti",
+   "vurgula": [
+    {
+     "parca": "destek_hucreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "corti_tuneli",
+     "cumle": 1
+    },
+    {
+     "parca": "retikuler_lamina",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "sutun_hucreleri",
+     "metin": "Células pilares",
+     "cumle": 1
+    },
+    {
+     "parca": "deiters_hucreleri",
+     "metin": "Células de Deiters",
+     "cumle": 3
+    },
+    {
+     "parca": "hensen_hucreleri",
+     "metin": "Hensen y Claudius",
+     "cumle": 5
+    },
+    {
+     "parca": "retikuler_lamina",
+     "metin": "Lámina reticular",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "El túnel de Corti contiene _cortilinfa_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Falángicas internas: _rodean las células internas_",
+     "cumle": 4,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Solo el ápice toca la _endolinfa_",
+     "cumle": 7,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Las células ciliadas no están solas; las células de sostén las sostienen y las mantienen en su lugar.",
+    "Las células pilares internas y externas dejan entre sí un espacio triangular que forma el túnel de Corti.",
+    "El túnel de Corti está lleno de un líquido similar a la perilinfa llamado cortilinfa.",
+    "Las células de Deiters sostienen la base de las células ciliadas externas como una copa y envían prolongaciones hasta la superficie.",
+    "Las células falángicas internas rodean a las células ciliadas internas.",
+    "Las células de Hensen y de Claudius forman el borde externo del órgano de Corti.",
+    "La parte superior de las células ciliadas y las prolongaciones de las células de sostén forman una superficie firme: la lámina reticular.",
+    "La lámina reticular separa la endolinfa de las células de abajo, de modo que solo el ápice de cada célula ciliada toca la endolinfa."
+   ]
+  },
+  {
+   "id": "innervasyon",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 4",
+   "bolum": "Células de sostén e inervación",
+   "baslik": "Diferencias de *inervación*",
+   "sol": {
+    "ust": "Células ciliadas internas",
+    "maddeler": [
+     {
+      "metin": "Aferentes tipo I, mielinizadas",
+      "cumle": 1
+     },
+     {
+      "metin": "Cerca del 95 % de las aferentes",
+      "cumle": 1
+     },
+     {
+      "metin": "Eferente olivococlear lateral",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Células ciliadas externas",
+    "maddeler": [
+     {
+      "metin": "Aferentes tipo II, amielínicas",
+      "cumle": 2
+     },
+     {
+      "metin": "Cerca del 5 % de las aferentes",
+      "cumle": 2
+     },
+     {
+      "metin": "Eferente olivococlear medial",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Las conexiones nerviosas de los dos tipos de células también son muy distintas.",
+    {
+     "yazi": "Las células ciliadas internas reciben fibras aferentes tipo I, gruesas y mielinizadas, que llevan la información al cerebro."
+    },
+    {
+     "yazi": "Las células ciliadas externas reciben fibras tipo II, finas y amielínicas; cada fibra se ramifica hacia muchas células ciliadas externas."
+    },
+    "De las fibras eferentes que bajan del tronco cerebral, las olivococleares laterales llegan a las aferentes bajo las células ciliadas internas.",
+    "Las fibras olivococleares mediales llegan directamente a las células ciliadas externas y regulan su efecto amplificador.",
+    "Se cree que este sistema eferente ayuda a escuchar en ruido y a proteger el oído."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 5",
+   "bolum": "Vínculo clínico",
+   "baslik": "Células ciliadas externas y *OEA*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "Estímulo",
+     "cumle": 1
+    },
+    {
+     "parca": "yanit",
+     "metin": "Respuesta del oído",
+     "cumle": 2
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Piso de ruido",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "El movimiento de las células ciliadas externas produce sonidos muy débiles que pueden medirse en el conducto auditivo.",
+    "Estos sonidos se llaman otoemisiones acústicas (OEA) y se miden con una sonda colocada en el conducto auditivo.",
+    "Si la respuesta que vuelve del oído está claramente por encima del piso de ruido, se considera que hay emisión.",
+    "Cuando las células ciliadas externas están dañadas, las emisiones disminuyen o desaparecen.",
+    "Para poder medir las emisiones, el oído medio también debe estar sano.",
+    "Por eso, las OEA son una prueba rápida y objetiva de la función de las células ciliadas externas, muy usada en el tamizaje neonatal."
+   ]
+  },
+  {
+   "id": "hasar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Vínculo clínico",
+   "baslik": "Efectos de la *pérdida de células ciliadas*",
+   "maddeler": [
+    {
+     "metin": "Pérdida de células externas: _40 a 50 dB_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "La selectividad frecuencial _empeora_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Pérdida de células internas: _la señal no llega_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_Sin regeneración_ en los mamíferos",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "corti",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dis_tuy_hucreleri",
+      "cumle": 0
+     },
+     {
+      "parca": "ic_tuy_hucresi",
+      "cumle": 3
+     },
+     {
+      "parca": "sinir_lifleri",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dis_tuy_hucreleri",
+      "metin": "Células ciliadas externas",
+      "cumle": 0
+     },
+     {
+      "parca": "ic_tuy_hucresi",
+      "metin": "Célula ciliada interna",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Si se pierden las células ciliadas externas, el amplificador coclear deja de funcionar y los umbrales pueden subir unos cuarenta a cincuenta decibeles.",
+    "La sintonía frecuencial también se vuelve difusa, lo que dificulta entender el habla en ruido.",
+    "El ruido y los fármacos ototóxicos suelen afectar primero a las células ciliadas externas.",
+    "Si se dañan las células ciliadas internas o sus fibras nerviosas, la información no llega bien al cerebro aunque el sonido sea fuerte.",
+    "En el ser humano y otros mamíferos, las células ciliadas cocleares perdidas no se regeneran solas; por eso estas pérdidas son permanentes.",
+    "La regeneración de células ciliadas es hoy un área activa de investigación."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "OEA presentes con PEATC ausentes o muy alterados: considerar el trastorno del espectro de la neuropatía auditiva. El tamizaje solo con OEA puede pasar por alto este cuadro.",
+   "cumleler": [
+    "Esta anatomía tiene una consecuencia clínica muy importante.",
+    "Las células ciliadas internas, sus sinapsis o el nervio auditivo pueden estar afectados mientras las células ciliadas externas siguen sanas.",
+    "En ese caso, las OEA pueden ser normales y los potenciales evocados auditivos de tronco cerebral (PEATC) estar ausentes o muy alterados.",
+    "Este cuadro se llama trastorno del espectro de la neuropatía auditiva (TENA).",
+    "Como el tamizaje solo con OEA puede pasarlos por alto, se recomienda el tamizaje con PEATC para los bebés con más de cinco días en cuidados intensivos.",
+    "El seguimiento regular con pruebas conductuales y PEATC es muy importante para estos bebés."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Una fila interna, *tres filas* externas",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Internas: sensoriales; externas: *amplificadoras*",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Inclinar estereocilios abre *canales iónicos*",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Las OEA *reflejan* las células externas",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "El órgano de Corti tiene unas tres mil quinientas células ciliadas internas y doce mil externas.",
+    "La mayoría de las fibras aferentes se conectan con las células ciliadas internas; las externas amplifican el sonido gracias a la prestina.",
+    "La inclinación de los estereocilios abre canales iónicos a través de los enlaces de punta, y comienza la señal.",
+    "Las otoemisiones acústicas reflejan la función de las células ciliadas externas y deben interpretarse junto con los PEATC."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Con qué células se conecta la mayoría de las fibras aferentes?",
+   "secenekler": [
+    "Células ciliadas internas",
+    "Células ciliadas externas",
+    "Células de Deiters",
+    "Células de Hensen"
+   ],
+   "dogru": 0,
+   "aciklama": "Cerca del _95 por ciento_ de las fibras aferentes se conecta con las células ciliadas internas.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿con qué células se conecta la mayoría de las fibras aferentes del nervio auditivo?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A, las células ciliadas internas. Cerca del noventa y cinco por ciento de las fibras aferentes llegan a ellas."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "El laberinto *vestibular*: otolitos y canales",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección estudiaremos la parte del equilibrio del oído interno: el utrículo, el sáculo y los canales semicirculares.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

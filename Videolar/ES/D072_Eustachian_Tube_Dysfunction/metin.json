@@ -1,0 +1,732 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D072_Eustachian_Tube_Dysfunction_ES",
+ "kapak": {
+  "ust": "LECCIÓN 72",
+  "baslik": "Disfunción<br>*tubárica*",
+  "alt": "Presión negativa y trompa patulosa",
+  "cizim": "ostaki_kaslari"
+ },
+ "youtube": {
+  "baslik": "Disfunción tubárica y presión negativa | Lección 72 | AIHEAR Academia de Audiología",
+  "aciklama": "En esta lección estudiamos los subtipos de la disfunción de la trompa de Eustaquio: la trompa que no se abre y la presión negativa en el oído medio, la retracción del tímpano, los timpanogramas tipo C y tipo B, la relación con la hipertrofia adenoidea y la fisura palatina, y la trompa de Eustaquio patulosa. También vemos las herramientas de evaluación y las opciones de tratamiento.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Schilder et al. (2015), Eustachian tube dysfunction: consensus statement on definition, types, clinical presentation and diagnosis, Clinical Otolaryngology; McCoul et al. (2012), Validating the clinical assessment of Eustachian tube dysfunction: the ETDQ-7, Laryngoscope; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "trompadeeustaquio",
+   "timpanometria"
+  ],
+  "etiketler": [
+   "disfunción de la trompa de Eustaquio",
+   "trompa de Eustaquio patulosa",
+   "presión negativa en el oído medio",
+   "retracción timpánica",
+   "hipertrofia adenoidea",
+   "fisura palatina",
+   "timpanograma tipo C",
+   "ETDQ-7",
+   "autofonía",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 72",
+   "baslik": "Disfunción de la *trompa de Eustaquio*",
+   "alt": "Tipos obstructivo y patuloso, presión negativa en el oído medio",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos la disfunción de la trompa de Eustaquio y las consecuencias de la presión negativa en el oído medio.",
+    "Compararemos una trompa que no se abre con una que no se cierra, y veremos su relación con la hipertrofia adenoidea y la fisura palatina."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definición",
+   "baslik": "Un equilibrio entre abrir y *cerrar*",
+   "cizim": "ostaki_kaslari",
+   "ayar": {
+    "acilma": 1,
+    "acilma_cumle": 0
+   },
+   "vurgula": [
+    {
+     "parca": "tensor_veli_palatini",
+     "cumle": 0
+    },
+    {
+     "parca": "lumen",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "tensor_veli_palatini",
+     "metin": "tensor del velo del paladar",
+     "cumle": 0
+    },
+    {
+     "parca": "lumen",
+     "metin": "luz de la trompa",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Abrirse: _ventilación_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Permanecer cerrada: _protección_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Equilibrio perdido: _disfunción_",
+     "cumle": 2,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La porción cartilaginosa de la trompa está cerrada en reposo; se abre brevemente al tragar y bostezar gracias al tensor del velo del paladar.",
+    "Esta apertura ventila el oído medio, mientras que permanecer cerrada lo protege de las secreciones y los sonidos de la nasofaringe.",
+    "La disfunción de la trompa de Eustaquio es una alteración de este equilibrio entre apertura y cierre.",
+    "Si la trompa no se abre lo suficiente, el oído medio no se ventila; si permanece demasiado abierta, se pierde su función protectora.",
+    "La estructura y las funciones de la trompa las vimos en la lección sobre la trompa de Eustaquio; aquí nos centramos en su disfunción clínica."
+   ]
+  },
+  {
+   "id": "tipler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definición",
+   "baslik": "Tres *subtipos*",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "La trompa no se abre",
+     "cumle": 1,
+     "metin": "Tipo obstructivo o dilatador"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Con cambios de presión",
+     "cumle": 2,
+     "metin": "Aparece al volar y bucear"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "La trompa no se cierra",
+     "cumle": 3,
+     "metin": "Tipo patuloso"
+    }
+   ],
+   "cumleler": [
+    "Un consenso internacional publicado en dos mil quince agrupa la disfunción de la trompa de Eustaquio en tres subtipos.",
+    "El más frecuente es aquel en que la trompa no se abre lo suficiente; se llama disfunción obstructiva o dilatadora.",
+    "En el segundo tipo, los síntomas aparecen solo cuando la presión ambiental cambia rápidamente, como al volar o bucear.",
+    "El tercero es el tipo patuloso, en el que la trompa permanece abierta más de lo normal; lo veremos por separado al final de la lección.",
+    "Según el consenso, el diagnóstico del tipo dilatador requiere síntomas junto con evidencia de presión negativa en el oído medio."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "La trompa no se abre",
+   "baslik": "Por qué la trompa *no se abre*",
+   "ogeler": [
+    {
+     "ikon": "virus",
+     "baslik": "Resfriado común",
+     "cumle": 0,
+     "metin": "Mucosa inflamada"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Rinitis alérgica",
+     "cumle": 1,
+     "metin": "Inflamación nasal crónica"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Hipertrofia adenoidea",
+     "cumle": 2,
+     "metin": "Estrecha el orificio tubárico"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Fisura palatina",
+     "cumle": 3,
+     "metin": "El músculo de apertura funciona mal"
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Síndrome de Down",
+     "cumle": 4,
+     "metin": "Trompa estrecha, bajo tono muscular"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Masa nasofaríngea",
+     "cumle": 5,
+     "metin": "Efusión unilateral en adultos"
+    }
+   ],
+   "cumleler": [
+    "Las infecciones respiratorias altas inflaman la mucosa de la trompa; es la causa más frecuente de disfunción transitoria.",
+    "La inflamación nasal crónica, como la rinitis alérgica, también puede alterar la función al mantener inflamada la mucosa.",
+    "La hipertrofia adenoidea, es decir, las adenoides agrandadas, puede estrechar el orificio de la trompa y actuar como fuente de gérmenes.",
+    "En la fisura palatina, el tensor del velo del paladar, el músculo que abre la trompa, no se inserta normalmente, y la trompa no se abre bien.",
+    "Los niños con síndrome de Down tienen una trompa estrecha y bajo tono muscular; por eso en ellos los problemas de oído medio son muy frecuentes.",
+    "En los adultos, una causa rara pero importante es una masa en la nasofaringe que obstruye el orificio de la trompa."
+   ]
+  },
+  {
+   "id": "adenoid",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "La trompa no se abre",
+   "baslik": "Adenoides y *fisura palatina*",
+   "maddeler": [
+    {
+     "metin": "Adenoides: _obstrucción_ y fuente de gérmenes",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Fisura palatina: efusión _casi siempre_",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "El _seguimiento_ continúa tras la reparación",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "_Evaluaciones auditivas_ periódicas",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ostaki_kaslari",
+    "cumle": 2,
+    "ayar": {
+     "acilma": 0.3
+    },
+    "vurgula": [
+     {
+      "parca": "tensor_veli_palatini",
+      "cumle": 2
+     },
+     {
+      "parca": "yumusak_damak",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "tensor_veli_palatini",
+      "metin": "tensor del velo del paladar",
+      "cumle": 2
+     },
+     {
+      "parca": "yumusak_damak",
+      "metin": "paladar blando",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Un tejido adenoideo grande estrecha mecánicamente el orificio de la trompa y mantiene los gérmenes nasofaríngeos cerca de ella.",
+    "Por eso, la otitis media recurrente y la efusión son frecuentes en los niños con hipertrofia adenoidea.",
+    "La otitis media con efusión es muy frecuente en los lactantes con fisura palatina no reparada; las fuentes suelen hablar de un noventa por ciento.",
+    "Incluso después de reparar el paladar, la función tubárica no siempre mejora de inmediato; los problemas de oído medio pueden durar años.",
+    "En estos niños, la audición se controla a intervalos regulares junto con la timpanometría, y los resultados se comparten con el equipo."
+   ]
+  },
+  {
+   "id": "retraksiyon",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Presión negativa",
+   "baslik": "El tímpano bajo *presión negativa*",
+   "cizim": "kulak_zari_otoskopik",
+   "ayar": {
+    "kulak": "sag",
+    "patoloji": [
+     {
+      "tur": "retraksiyon",
+      "cumle": 1,
+      "kalici": true
+     },
+     {
+      "tur": "atik_cebi",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "manubrium",
+     "cumle": 2
+    },
+    {
+     "parca": "processus_lateralis",
+     "cumle": 2
+    },
+    {
+     "parca": "pars_flaccida",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "manubrium",
+     "metin": "mango: parece corto",
+     "cumle": 2
+    },
+    {
+     "parca": "processus_lateralis",
+     "metin": "apófisis lateral: prominente",
+     "cumle": 2
+    },
+    {
+     "parca": "isik_ucgeni",
+     "metin": "triángulo luminoso: ausente",
+     "cumle": 3
+    },
+    {
+     "parca": "atik_cebi",
+     "metin": "bolsa de retracción",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "El mango del martillo parece _corto_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Si se prolonga: _bolsa de retracción_",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Plenitud, _chasquidos_",
+     "cumle": 5,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "Si la trompa no puede abrirse, la mucosa del oído medio sigue absorbiendo gas de la cavidad y la presión desciende.",
+    "La presión negativa tracciona hacia dentro la membrana timpánica; esto se llama retracción del tímpano.",
+    "En la otoscopia, el mango del martillo se ve acortado y más horizontal, y su apófisis lateral se vuelve prominente.",
+    "El triángulo luminoso puede deformarse o desaparecer.",
+    "Con una presión negativa prolongada, el tímpano se adelgaza, puede adherirse a estructuras del oído medio y pueden formarse bolsas de retracción.",
+    "La persona siente plenitud, oído tapado y chasquidos al tragar; la audición suele estar levemente reducida."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Presión negativa",
+   "baslik": "De la presión al *líquido*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     },
+     {
+      "tip": "C",
+      "cumle": 1
+     },
+     {
+      "tip": "B",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "A: _presión_ normal",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "C: pico _negativo_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "B: acumulación de _líquido_",
+     "cumle": 2,
+     "ikon": "akinti"
+    }
+   ],
+   "cumleler": [
+    "En un oído medio normal, el pico del timpanograma está alrededor de cero decapascales.",
+    "Con presión negativa, el pico se desplaza al lado negativo; según el criterio de Jerger, un pico por debajo de menos cien decapascales es tipo C.",
+    "Si la presión negativa persiste, la mucosa secreta líquido en la cavidad, y la curva puede aplanarse hasta un tipo B.",
+    "La presión negativa sola suele causar una pérdida conductiva leve; cuando se acumula líquido, la pérdida aumenta un poco.",
+    "Cuando la función tubárica mejora, esta secuencia suele revertirse: primero una curva tipo C y luego una curva tipo A."
+   ]
+  },
+  {
+   "id": "odyolog",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Presión negativa",
+   "baslik": "¿Qué *hace el audiólogo?*",
+   "maddeler": [
+    {
+     "metin": "Timpanograma y audiograma _juntos_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Informar la presión del pico _en número_",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Efusión prolongada en niños: _evaluación auditiva_",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "_Vigilar_ el cambio, informar al médico",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        30,
+        30,
+        25,
+        20,
+        20,
+        25
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sag",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        5,
+        5,
+        5,
+        10,
+        10
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Ante la sospecha de disfunción de la trompa de Eustaquio, se hacen juntas la timpanometría y la audiometría tonal.",
+    "El informe indica no solo el tipo de curva, sino también el valor numérico de la presión del pico, para seguir el cambio en los controles.",
+    "En los niños, se recomienda una evaluación auditiva adecuada a la edad cuando la efusión dura tres meses o más.",
+    "La presión negativa y la efusión pueden fluctuar con el tiempo, por eso el control regular vale más que una sola medición.",
+    "Los resultados se comparten con el médico, que toma la decisión de tratamiento a la luz de estos hallazgos."
+   ]
+  },
+  {
+   "id": "patulous",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "La trompa no se cierra",
+   "baslik": "*Trompa de Eustaquio* patulosa",
+   "maddeler": [
+    {
+     "metin": "Oír la propia voz _con eco_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Oír_ la propia respiración en el oído",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Alivio_ al acostarse o agacharse",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Asociada a pérdida de peso, _embarazo_",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Audición a menudo _normal_",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ostaki_kaslari",
+    "cumle": 0,
+    "ayar": {
+     "acilma": 1
+    },
+    "vurgula": [
+     {
+      "parca": "lumen",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "lumen",
+      "metin": "trompa que no se cierra",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "En la trompa de Eustaquio patulosa, la trompa permanece abierta incluso en reposo; la queja más típica es la autofonía.",
+    "La persona oye su propia voz resonar fuerte y de forma molesta en el oído, y también puede oír su propia respiración.",
+    "También puede haber sensación de plenitud, por lo que el cuadro se confunde fácilmente con una trompa que no se abre.",
+    "Los síntomas se alivian al acostarse o al inclinar la cabeza hacia delante, porque los vasos sanguíneos que rodean la trompa se llenan y la cierran.",
+    "La pérdida rápida de peso, el embarazo y los cambios hormonales son asociaciones conocidas; en muchos pacientes no se encuentra una causa clara.",
+    "La audición suele ser normal; en la otoscopia puede verse el tímpano moverse hacia dentro y hacia fuera con la respiración.",
+    "Los descongestionantes nasales indicados para una supuesta trompa obstruida pueden empeorar una trompa patulosa; por eso importa diferenciarlas."
+   ]
+  },
+  {
+   "id": "ayirim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "La trompa no se cierra",
+   "baslik": "Cómo *diferenciarlas*",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Oído tapado, chasquidos",
+     "cumle": 0,
+     "metin": "La trompa no se abre"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Autofonía",
+     "cumle": 1,
+     "metin": "La trompa no se cierra"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Tipo C, B",
+     "cumle": 2,
+     "metin": "La trompa no se abre"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Fluctuaciones respiratorias",
+     "cumle": 3,
+     "metin": "La trompa no se cierra"
+    }
+   ],
+   "cumleler": [
+    "Ambos tipos pueden causar plenitud ótica, pero el oído tapado y los chasquidos al tragar apuntan más a una trompa que no se abre.",
+    "Oír con eco la propia voz y la respiración, en cambio, es característico de una trompa que no se cierra.",
+    "Cuando la trompa no se abre, el timpanograma suele ser tipo C o tipo B.",
+    "Cuando la trompa no se cierra, la presión del pico suele ser normal; la respiración profunda puede hacer fluctuar la curva al ritmo respiratorio.",
+    "Estos hallazgos son solo indicios; el diagnóstico diferencial corresponde al médico."
+   ]
+  },
+  {
+   "id": "degerlendirme",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Evaluación",
+   "baslik": "La *evaluación* en la clínica",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "ETDQ-7",
+     "cumle": 0,
+     "metin": "Siete ítems, de 7 a 49 puntos"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometría",
+     "cumle": 2,
+     "metin": "Presión del pico y tipo"
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Maniobras",
+     "cumle": 3,
+     "metin": "Deglución, Valsalva, Toynbee"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tímpano perforado",
+     "cumle": 4,
+     "metin": "Prueba de insuflación y desinsuflación"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Para seguir los síntomas con números, puede usarse el Cuestionario de Disfunción de la Trompa de Eustaquio de siete ítems, o ETDQ-7."
+    },
+    "Cada ítem se puntúa de uno a siete, así que el total va de siete a cuarenta y nueve; los puntos de corte varían entre estudios.",
+    "La timpanometría es la prueba objetiva más práctica; muestra la presión del oído medio y la probabilidad de líquido.",
+    "Un cambio en la presión del pico antes y después de tragar y de las maniobras de Valsalva y Toynbee muestra que la trompa puede abrirse.",
+    "Si hay una perforación o un tubo en el tímpano, se aplica presión en el conducto y la persona intenta igualarla tragando.",
+    "Este método se llama prueba de insuflación y desinsuflación.",
+    "Ninguna prueba muestra por sí sola toda la función tubárica; los síntomas y los hallazgos se evalúan en conjunto."
+   ]
+  },
+  {
+   "id": "tedavi",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "Evaluación",
+   "baslik": "*Opciones* de tratamiento",
+   "adimlar": [
+    {
+     "ikon": "takvim",
+     "baslik": "Espera vigilada",
+     "cumle": 0,
+     "metin": "La mayoría se resuelve sola"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Tratamiento nasal",
+     "cumle": 1,
+     "metin": "Alergia e inflamación"
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Autoinsuflación",
+     "cumle": 2,
+     "metin": "Inflar un globo con la nariz"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Tubo, adenoidectomía",
+     "cumle": 3,
+     "metin": "En niños seleccionados"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Dilatación con balón",
+     "cumle": 4,
+     "metin": "En adultos seleccionados"
+    }
+   ],
+   "cumleler": [
+    "La decisión de tratamiento corresponde al médico; la disfunción tras un resfriado, en particular, suele resolverse sola.",
+    "Tratar los problemas nasales de base, como la rinitis alérgica, puede favorecer la función tubárica.",
+    "En los niños puede usarse la autoinsuflación, que abre la trompa inflando un globo especial con la nariz.",
+    "Ante una efusión prolongada, el médico puede recomendar un tubo de ventilación, en niños seleccionados junto con una adenoidectomía.",
+    "En adultos seleccionados con disfunción obstructiva crónica, la trompa puede ensancharse con un balón; se llama dilatación con balón."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si ves una efusión unilateral sin explicación en un adulto, deriva siempre a la persona al médico; hay que examinar la nasofaringe.",
+   "cumleler": [
+    "Un consejo de la práctica: la efusión es muy frecuente en los niños, pero una efusión unilateral en un adulto significa algo distinto.",
+    "En un adulto sin una causa clara, como un resfriado, presta atención a un timpanograma tipo B unilateral con pérdida conductiva.",
+    "Aunque es raro, puede ser el primer signo de una masa en la nasofaringe que obstruye el orificio de la trompa.",
+    "Deriva a la persona al médico para un examen de la nasofaringe y deja el hallazgo claramente anotado en tu informe."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Tres subtipos: dilatador, _por cambio de presión_, patuloso",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Adenoides y fisura palatina: trompa _no se abre_",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Presión negativa: _retracción_, tipo C",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Patulosa: _autofonía_, alivio al acostarse",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "La disfunción de la trompa de Eustaquio se divide en tres subtipos: dilatadora, desencadenada por cambios de presión y patulosa.",
+    "Los resfriados, las alergias, la hipertrofia adenoidea y la fisura palatina dificultan la apertura de la trompa.",
+    "Una trompa que no se abre causa presión negativa, retracción del tímpano y un timpanograma tipo C; si se prolonga, se acumula líquido.",
+    "En la trompa patulosa es típico oír la propia voz con eco; los síntomas se alivian al acostarse y la audición suele ser normal."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Voz propia con eco, alivio al acostarse: ¿qué debes sospechar?",
+   "secenekler": [
+    "Trompa que no se abre",
+    "Trompa de Eustaquio patulosa",
+    "Otosclerosis",
+    "Tapón de cerumen"
+   ],
+   "dogru": 1,
+   "aciklama": "En la trompa patulosa, la trompa _permanece abierta_; la autofonía es típica, y al acostarse los vasos se llenan y cierran la trompa, lo que alivia los síntomas.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: una persona oye con eco su propia voz y su respiración, y se siente mejor al acostarse. ¿Qué debes sospechar?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: una trompa de Eustaquio patulosa.",
+    "La trompa sigue abierta incluso en reposo, y la voz y la respiración llegan directo al oído medio; al acostarse, la zona se congestiona y hay alivio."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Producción del *habla*: respiración, voz y articulación",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos del oído al habla y veremos cómo la respiración, la voz y la articulación producen el habla.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

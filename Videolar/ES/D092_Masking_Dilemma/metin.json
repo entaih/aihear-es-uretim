@@ -1,0 +1,809 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D092_Masking_Dilemma_ES",
+ "kapak": {
+  "ust": "LECCIÓN 92",
+  "baslik": "El dilema de<br>*enmascaramiento*",
+  "alt": "Un callejón sin salida en la pérdida conductiva bilateral",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      55,
+      60,
+      60,
+      55,
+      60,
+      65
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      60,
+      60,
+      65,
+      60,
+      60,
+      65
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik",
+     "degerler": [
+      5,
+      5,
+      10,
+      10,
+      10
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "El dilema de enmascaramiento en la pérdida conductiva | Lección 92 | AIHEAR Academia de Audiología",
+  "aciklama": "En la pérdida conductiva bilateral, el ruido mínimo necesario puede superar el máximo permitido. En esta lección usamos cálculos de ejemplo para ver por qué ocurre el dilema de enmascaramiento, cómo ayudan los auriculares de inserción, las pruebas de verificación cruzada y cómo los PEATC por vía ósea aportan información específica de cada oído.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Hall, New Handbook of Auditory Evoked Responses; BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "enmascaramiento",
+   "audiometria"
+  ],
+  "etiketler": [
+   "dilema de enmascaramiento",
+   "hipoacusia conductiva bilateral",
+   "auriculares de inserción",
+   "PEATC por vía ósea",
+   "sobreenmascaramiento",
+   "enmascaramiento clínico",
+   "principio de verificación cruzada",
+   "Naunton",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 92",
+   "baslik": "El *dilema* de enmascaramiento en la pérdida conductiva",
+   "alt": "Un callejón sin salida en la pérdida conductiva bilateral",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos la situación más difícil del enmascaramiento clínico: el dilema de enmascaramiento.",
+    "Veremos por qué ocurre, cómo ayudan los auriculares de inserción y cómo respaldamos con otras pruebas la información específica de cada oído."
+   ]
+  },
+  {
+   "id": "tablo_odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es el dilema?",
+   "baslik": "Una *brecha grande* en ambos oídos",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Vía ósea sin enmascarar",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       55,
+       60,
+       60,
+       55,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       60,
+       60,
+       65,
+       60,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       5,
+       10,
+       10,
+       10
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      60
+     ],
+     "etiket": "50 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, los umbrales por vía aérea de ambos oídos están entre cincuenta y cinco y sesenta y cinco decibeles.",
+    "Los umbrales por vía ósea sin enmascarar están entre cinco y diez decibeles, es decir, son normales.",
+    "Ambos oídos podrían tener una brecha aéreo-ósea de unos cincuenta decibeles, pero no sabemos de quién es la vía ósea sin enmascarar.",
+    "Según la regla de la vía ósea, ambos oídos requieren enmascarar la vía ósea; la regla de la vía aérea también puede exigir enmascarar.",
+    "Pero al intentar presentar el ruido, descubrimos que ningún nivel sirve.",
+    {
+     "yazi": "Este callejón sin salida se llama dilema de enmascaramiento; en general se atribuye a Naunton, que lo describió en 1960."
+    }
+   ]
+  },
+  {
+   "id": "bilinen",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es el dilema?",
+   "baslik": "¿Qué *sabemos* y qué no?",
+   "maddeler": [
+    {
+     "metin": "Al menos una cóclea es _normal_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Al menos un oído tiene _componente conductivo_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "La vía aérea también puede quedar _incierta_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Se desconoce: la vía ósea de _cada oído_",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "INCERTIDUMBRE",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "kemik_vibratoru",
+      "baslik": "Vía ósea",
+      "metin": "¿De quién es?",
+      "cumle": 4
+     },
+     {
+      "ikon": "odyogram",
+      "baslik": "Tipo de pérdida",
+      "metin": "¿Distinto en cada oído?",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Aunque no podamos enmascarar, sabemos algunas cosas: como la vía ósea sin enmascarar es normal, al menos una cóclea funciona con normalidad.",
+    "Como los umbrales por vía aérea son claramente malos, al menos un oído tiene un componente conductivo.",
+    "Como la regla de la vía aérea también exige enmascarar, en un dilema tampoco los umbrales por vía aérea de cada oído pueden ser seguros.",
+    "Esto se debe a que un tono dado al oído peor pudo atravesar el cráneo y ser oído por la mejor cóclea.",
+    "Lo que realmente no sabemos es el umbral por vía ósea propio de cada oído, es decir, si la brecha existe de verdad en ambos oídos.",
+    "Por ejemplo, un oído puede tener una pérdida conductiva y el otro una pérdida mixta o neurosensorial."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es el dilema?",
+   "baslik": "Una *ventana* que se cierra",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40
+   },
+   "vurgula": [
+    {
+     "parca": "karsi_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 1
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "cumle": 3
+    },
+    {
+     "parca": "test_kulagi",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "karsi_kulak",
+     "metin": "NTE: bloqueo conductivo",
+     "cumle": 0
+    },
+    {
+     "parca": "test_kulagi",
+     "metin": "TE: buena vía ósea",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "El ruido mínimo _sube_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "El ruido máximo _baja_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "La meseta _desaparece_",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "El dilema tiene dos causas; la primera es una pérdida conductiva en el oído no evaluado, o NTE.",
+    "El ruido del auricular debe superar este bloqueo para llegar a la cóclea del NTE, así que el mínimo sube en la magnitud de la brecha aéreo-ósea.",
+    "La segunda causa es una buena vía ósea en el oído evaluado, o TE.",
+    "El ruido llega a la cóclea del TE debilitado solo por la atenuación interaural, o AI, y la enmascara, así que el máximo se mantiene bajo.",
+    "Cuando el ruido mínimo alcanza y supera al máximo, no queda ninguna ventana en la que buscar una meseta.",
+    "El ruido pasa directamente del subenmascaramiento al sobreenmascaramiento; nunca aparece una zona estable que muestre el umbral real."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Cálculo y auriculares de inserción",
+   "baslik": "La *ventana* de la vía ósea en 1000 Hz",
+   "sutunlar": [
+    "Caso",
+    "Mínimo (dB EM)",
+    "Máximo (dB EM)",
+    "Resultado"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Brecha 55, supraaural",
+      "75",
+      "45",
+      "Dilema"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Brecha 55, inserción",
+      "75",
+      "60",
+      "Dilema"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Brecha 25, supraaural",
+      "45",
+      "45",
+      "Sin ventana"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Brecha 25, inserción",
+      "45",
+      "60",
+      "Meseta posible"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Apliquemos las fórmulas de la lección anterior en mil hertz, para enmascarar la vía ósea del oído derecho.",
+    "La vía ósea del TE es de diez y la brecha del NTE de cincuenta y cinco; con el factor de seguridad, el mínimo es de setenta y cinco dB EM.",
+    "Como el NTE tiene una pérdida conductiva, no se suma corrección por oclusión; el máximo es diez más cuarenta menos cinco: cuarenta y cinco dB EM.",
+    "Con auriculares de inserción y una AI de cincuenta y cinco, el máximo sube a sesenta, pero sigue por debajo del mínimo de setenta y cinco.",
+    "En una pérdida más leve, con una brecha de veinticinco decibeles, el mínimo y el máximo coinciden en cuarenta y cinco con auriculares supraaurales.",
+    "En la misma pérdida con auriculares de inserción, el máximo sube a sesenta; se abre una ventana de quince decibeles y puede buscarse una meseta."
+   ]
+  },
+  {
+   "id": "insert",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Cálculo y auriculares de inserción",
+   "baslik": "La primera solución: auriculares *de inserción*",
+   "ogeler": [
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "AI más alta",
+     "metin": "Aún más alta en graves",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Menos oclusión",
+     "metin": "Ayuda a enmascarar la vía ósea",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Inserción profunda",
+     "metin": "Determina la AI",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Tiene límites",
+     "metin": "Puede fallar con brechas grandes",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Cuando se sospecha un dilema de enmascaramiento, el primer paso es usar auriculares de inserción tanto para el tono como para el ruido.",
+    "Con auriculares de inserción la AI es mayor; en las frecuencias graves suele superar incluso el valor conservador.",
+    "Al subir la AI, sube el máximo; en el enmascaramiento de la vía aérea también baja el mínimo, así que la ventana se amplía por ambos lados.",
+    "Los auriculares de inserción también reducen el efecto de oclusión, lo que disminuye el ruido necesario para enmascarar la vía ósea.",
+    "Estas ventajas dependen de colocar la punta de espuma en profundidad y correctamente en el conducto auditivo.",
+    "Pero, como mostró el cálculo, con brechas muy grandes ni siquiera los auriculares de inserción pueden resolver el dilema."
+   ]
+  },
+  {
+   "id": "cozum",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Cálculo y auriculares de inserción",
+   "baslik": "Un ejemplo *resuelto* con inserción",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Derecho_: vía ósea enmascarada",
+     "cumle": 2
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía ósea enmascarada",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       35,
+       35,
+       35,
+       35,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       35,
+       40,
+       35,
+       35,
+       40,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       10
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 3
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, la vía aérea de ambos oídos estaba entre treinta y cinco y cuarenta decibeles, y la vía ósea sin enmascarar rondaba los diez.",
+    "La ventana calculada con auriculares de inserción estaba abierta, así que pudo aplicarse el método de la meseta en ambos oídos.",
+    "Los umbrales por vía ósea enmascarados del oído derecho se mantuvieron entre diez y quince decibeles.",
+    "La vía ósea enmascarada del oído izquierdo se encontró en un nivel similar.",
+    "Esto demostró que la brecha aéreo-ósea era real en ambos oídos, es decir, una pérdida conductiva bilateral.",
+    "Con auriculares supraaurales no habría sido posible llegar a este resultado en el mismo paciente."
+   ]
+  },
+  {
+   "id": "kimler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Cálculo y auriculares de inserción",
+   "baslik": "¿*Quiénes* llegan al dilema?",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Otitis bilateral",
+     "metin": "Con efusión o crónica",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Otosclerosis bilateral",
+     "metin": "Brecha amplia",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Atresia del conducto",
+     "metin": "No admite auriculares de inserción",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Pérdida mixta",
+     "metin": "Brechas en ambos lados",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El dilema aparece en pérdidas con un componente conductivo claro en ambos oídos, y es más difícil de resolver cuanto mayor es la brecha.",
+    "La otitis media con efusión bilateral, o la otitis media crónica, es un ejemplo frecuente.",
+    "En la otosclerosis bilateral también puede surgir un dilema a medida que avanza la brecha aéreo-ósea.",
+    "La atresia aural congénita es el caso más difícil; la pérdida conductiva es grande y no pueden colocarse auriculares de inserción.",
+    "En la atresia, los umbrales por vía ósea suelen respaldarse con pruebas electrofisiológicas para obtener información específica de cada oído.",
+    "En las pérdidas mixtas puede ocurrir un problema similar si hay una brecha clara en ambos lados."
+   ]
+  },
+  {
+   "id": "kontrol",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Pruebas de apoyo",
+   "baslik": "Pruebas de *verificación cruzada*",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometría",
+     "metin": "Estado del oído medio",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Reflejo acústico",
+     "metin": "Suele faltar en la pérdida conductiva",
+     "cumle": 2
+    },
+    {
+     "ikon": "diyapazon",
+     "baslik": "Diapasón",
+     "metin": "Da una orientación aproximada",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "PEATC por vía ósea",
+     "metin": "Información específica de cada oído",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Cuando el dilema no puede resolverse, el audiograma debe respaldarse con otras pruebas; este es el principio de verificación cruzada.",
+    "La timpanometría muestra por separado el estado de cada oído medio y respalda el origen del componente conductivo.",
+    "En la pérdida conductiva, los reflejos acústicos suelen estar ausentes, lo que confirma el componente conductivo.",
+    "Las pruebas con diapasón pueden dar una orientación aproximada, pero su interpretación es limitada en la pérdida bilateral.",
+    {
+     "yazi": "Los métodos más antiguos, como la prueba de nivel de agudeza sensorineural, o SAL, propuesta por Jerger y Tillman en 1960, hoy se usan poco."
+    },
+    "Hoy el apoyo más sólido son los potenciales evocados auditivos de tronco cerebral obtenidos por vía ósea."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Pruebas de apoyo",
+   "baslik": "*PEATC* por vía ósea",
+   "cizim": "abr",
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Onda I: mismo lado",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Onda V",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Registro en dos canales: _ipsilateral y contralateral_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "AI por vía ósea en lactantes: _mayor_",
+     "cumle": 4,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Si hace falta, enmascarar _con inserción_",
+     "cumle": 5,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Los potenciales evocados auditivos de tronco cerebral (PEATC, en inglés ABR) también pueden obtenerse con un vibrador óseo; son los PEATC por vía ósea.",
+    "El registro se toma a la vez en dos canales, con electrodos en el lado estimulado y en el lado opuesto.",
+    "La onda I se origina en la porción del nervio auditivo cercana a la cóclea y suele verse con claridad solo en el canal del lado estimulado.",
+    "Comparar la presencia de la onda I y las latencias de la onda V en ambos canales nos indica de qué cóclea proviene la respuesta.",
+    "En los lactantes, la atenuación interaural por vía ósea es mayor que en los adultos, lo que facilita la evaluación de cada oído por separado.",
+    "Cuando hace falta, también se presenta enmascaramiento al oído opuesto mediante un auricular de inserción.",
+    "Los PEATC por vía ósea son un apoyo valioso, sobre todo en niños con atresia y cuando no es posible la evaluación conductual."
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ruta clínica e informe",
+   "baslik": "Una *hoja de ruta* ante la sospecha de dilema",
+   "adimlar": [
+    {
+     "ikon": "tablo",
+     "baslik": "Calcular la ventana",
+     "metin": "Mínimo y máximo",
+     "cumle": 0
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Usar inserción",
+     "metin": "Para tono y ruido",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Verificación cruzada",
+     "metin": "Inmitancia y reflejos",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "PEATC por vía ósea",
+     "metin": "Si hace falta",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Indicarlo en el informe",
+     "metin": "Escribir claramente la incertidumbre",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la práctica, el primer paso es calcular el ruido mínimo y el máximo en cada frecuencia y ver si la ventana está abierta.",
+    "Si la ventana está cerrada, prueben de nuevo con auriculares de inserción para el tono y el ruido.",
+    "Si el dilema persiste, recurran a pruebas de verificación cruzada como la timpanometría y los reflejos acústicos.",
+    "Si para una decisión de tratamiento hace falta información de la vía ósea de cada oído, se consideran los PEATC por vía ósea.",
+    "Por último, indiquen con claridad en el informe toda incertidumbre que no se haya podido resolver."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ruta clínica e informe",
+   "baslik": "¿Qué va *en el informe?*",
+   "maddeler": [
+    {
+     "metin": "No informar umbrales _como seguros_",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "_Anotar_ el dilema de enmascaramiento",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "_Registrar_ los niveles de ruido usados",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Añadir_ los resultados de las pruebas de apoyo",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "NOTA DE EJEMPLO",
+    "metin": "La vía ósea de cada oído *no pudo determinarse* por un dilema de enmascaramiento",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Si el dilema no pudo resolverse, no informen como seguros los umbrales sin enmascarar ni los obtenidos sin meseta.",
+    "Indiquen con claridad en el informe que la vía ósea de cada oído no pudo determinarse por un dilema de enmascaramiento.",
+    "Registren los niveles de ruido probados y el tipo de auricular utilizado.",
+    "Añadan a la interpretación los resultados de la timpanometría, los reflejos acústicos y, si los hay, los PEATC por vía ósea.",
+    "Tras una cirugía en un oído, la brecha de ese oído puede cerrarse; entonces el oído opuesto puede enmascararse con facilidad."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "En la pérdida conductiva bilateral, empezar la prueba con auriculares de inserción desde el principio. Habrá que enmascarar menos frecuencias y a menudo el dilema ni aparece.",
+   "cumleler": [
+    "Un consejo de la clínica: si la historia o la otoscopia sugieren una pérdida conductiva bilateral, empiecen con auriculares de inserción desde el inicio.",
+    "Así no tendrán que cambiar de auriculares ni repetir mediciones más tarde.",
+    "Los auriculares de inserción reducen la necesidad de enmascarar la vía aérea y, además, amplían la ventana al enmascarar la vía ósea.",
+    "Esto puede no ser posible si hay otorrea o atresia del conducto auditivo; en ese caso, planifiquen pronto las pruebas de verificación cruzada."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "El ruido mínimo supera _al máximo_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Causa: bloqueo en el NTE, _buena VO_ del TE",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Primera solución: auriculares _de inserción_",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Apoyo: _PEATC por vía ósea_, inmitancia",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "En un dilema de enmascaramiento, el ruido mínimo necesario alcanza o supera al máximo, donde empieza el sobreenmascaramiento; no se encuentra meseta.",
+    "Ocurre porque el bloqueo conductivo del NTE eleva el ruido mínimo y la buena vía ósea del TE baja el máximo.",
+    "Los auriculares de inserción amplían la ventana al elevar la AI y reducir la oclusión, pero pueden no bastar con brechas muy grandes.",
+    "Si no puede resolverse, las pruebas de inmitancia y los PEATC por vía ósea dan apoyo, y la incertidumbre se indica en el informe."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Cuál es el primer paso práctico para reducir el dilema de enmascaramiento?",
+   "secenekler": [
+    "Subir el ruido 20 dB",
+    "Usar auriculares de inserción",
+    "Omitir el enmascaramiento",
+    "Medir la vía ósea en la frente"
+   ],
+   "dogru": 1,
+   "aciklama": "Los auriculares de inserción _elevan la AI_ y reducen la oclusión; la ventana de enmascaramiento se amplía.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál es el primer paso práctico para reducir el dilema de enmascaramiento?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: usar auriculares de inserción.",
+    "Los auriculares de inserción elevan la atenuación interaural y reducen la oclusión, así que se amplía la ventana entre el ruido mínimo y el máximo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Práctica de *enmascaramiento* con audiogramas reales",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección aplicaremos paso a paso todas las reglas de enmascaramiento en audiogramas de ejemplo realistas.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

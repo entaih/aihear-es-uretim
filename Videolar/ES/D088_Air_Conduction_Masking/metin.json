@@ -1,0 +1,852 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D088_Air_Conduction_Masking_ES",
+ "kapak": {
+  "ust": "LECCIÓN 88",
+  "baslik": "Enmascaramiento<br>*de la vía aérea*",
+  "alt": "¿Cuándo hace falta? Decidir con ejemplos",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      50,
+      55,
+      60,
+      65,
+      70,
+      70
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "¿Cuándo hay que enmascarar la vía aérea? | Lección 88 | AIHEAR Academia de Audiología",
+  "aciklama": "En la prueba por vía aérea hay que enmascarar cuando la diferencia entre el umbral por vía aérea del oído evaluado y el umbral por vía ósea del oído no evaluado alcanza la atenuación interaural. En esta lección usamos audiogramas de ejemplo para trabajar el oído evaluado (TE) y el oído no evaluado (NTE), la regla de enmascaramiento y la diferencia entre auriculares supraaurales y de inserción.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry; BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "enmascaramiento",
+   "audiometria"
+  ],
+  "etiketler": [
+   "enmascaramiento clínico",
+   "enmascaramiento vía aérea",
+   "regla de enmascaramiento",
+   "oído evaluado",
+   "oído no evaluado",
+   "atenuación interaural",
+   "auriculares de inserción",
+   "auriculares supraaurales",
+   "audiometría tonal",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 88",
+   "baslik": "¿Cuándo hay que *enmascarar* la vía aérea?",
+   "alt": "Oído evaluado, oído no evaluado y la regla de enmascaramiento",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo decidimos cuándo hay que enmascarar en la prueba por vía aérea.",
+    "Aplicaremos la regla paso a paso en audiogramas de ejemplo."
+   ]
+  },
+  {
+   "id": "kavramlar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Términos clave",
+   "baslik": "Oído evaluado y *oído no evaluado*",
+   "maddeler": [
+    {
+     "metin": "_Oído evaluado_: TE",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "_Oído no evaluado_: NTE",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tono al TE, ruido al _NTE_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Se decide _en cada frecuencia_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "ayar": {
+     "ia_db": 40
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "test_kulagi",
+      "cumle": 0
+     },
+     {
+      "parca": "karsi_kulak",
+      "cumle": 1
+     },
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "test_kulagi",
+      "metin": "TE: oído evaluado",
+      "cumle": 0
+     },
+     {
+      "parca": "karsi_kulak",
+      "metin": "NTE: oído no evaluado",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Primero definamos dos términos clave: el oído cuyo umbral medimos se llama oído evaluado, o TE, por sus siglas en inglés.",
+    {
+     "yazi": "El otro oído se llama oído no evaluado, o NTE."
+    },
+    {
+     "yazi": "En el enmascaramiento, el tono va al TE y el ruido enmascarante va al NTE."
+    },
+    {
+     "yazi": "Al evaluar el oído derecho, el derecho es el TE y el izquierdo el NTE; al evaluar el izquierdo, los papeles se invierten."
+    },
+    "La necesidad de enmascarar se decide por separado en cada frecuencia.",
+    "Puede hacer falta enmascarar en una frecuencia y no en la frecuencia vecina."
+   ]
+  },
+  {
+   "id": "kural",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "Términos clave",
+   "baslik": "La *regla* de enmascaramiento",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "VA del TE",
+     "metin": "Partir de este umbral",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "VO del NTE",
+     "metin": "Restar este umbral",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Comparar con la AI",
+     "metin": "Si es igual o mayor",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Enmascarar",
+     "metin": "Repetir la VA del TE",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La regla de enmascaramiento para la vía aérea parte del umbral por vía aérea del oído evaluado.",
+    {
+     "yazi": "A este umbral le restamos el umbral por vía ósea del NTE."
+    },
+    "Si la diferencia es igual o mayor que la atenuación interaural, o AI, la audición cruzada es posible.",
+    {
+     "yazi": "En ese caso, el umbral por vía aérea del TE se mide de nuevo con el NTE enmascarado."
+    },
+    {
+     "yazi": "¿Por qué la vía ósea del NTE? Porque el sonido cruzado llega a la cóclea opuesta por vía ósea y la estimula directamente."
+    },
+    {
+     "yazi": "Así, aunque el NTE tenga una pérdida conductiva, es su umbral por vía ósea el que decide si capta el sonido cruzado."
+    }
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Términos clave",
+   "baslik": "El sonido cruza por *vía ósea*",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40
+   },
+   "vurgula": [
+    {
+     "parca": "test_kulagi",
+     "cumle": 0
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "test_kulagi",
+     "metin": "TE: tono de 70 dB",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "AI: 40 dB",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "metin": "Cóclea del NTE: unos 30 dB",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "metin": "Ruido al NTE",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Un bloqueo conductivo no detiene esta vía",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "El ruido ocupa la cóclea del NTE",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En el esquema, imaginemos que presentamos un tono de setenta decibeles al TE."
+    },
+    "Al atravesar el cráneo, en este ejemplo el sonido se debilita unos cuarenta decibeles.",
+    {
+     "yazi": "A la cóclea del NTE llegan unos treinta decibeles; si su umbral por vía ósea es de treinta o mejor, el tono se oye allí."
+    },
+    {
+     "yazi": "Un bloqueo conductivo en el oído externo o medio del NTE no detiene esta vía, porque el sonido llega a la cóclea a través del cráneo."
+    },
+    {
+     "yazi": "En este caso presentamos ruido al NTE para mantener ocupada su cóclea y evitar la audición cruzada."
+    }
+   ]
+  },
+  {
+   "id": "ia",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Términos clave",
+   "baslik": "¿Qué *valor* de AI?",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Supraaural",
+     "metin": "AI _40 dB_; valor conservador",
+     "cumle": 1
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "De inserción",
+     "metin": "AI _unos 55 dB_; depende de la frecuencia",
+     "cumle": 2
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Vibrador óseo",
+     "metin": "AI _0 dB_; otra regla",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El valor de AI que se usa en la regla se elige según el auricular utilizado.",
+    "Para auriculares supraaurales, el valor conservador es de cuarenta decibeles; si la diferencia es de cuarenta o más, enmascaramos.",
+    "Con auriculares de inserción la AI es mayor; las guías suelen usar cincuenta y cinco decibeles como valor conservador.",
+    "En esta lección usaremos cincuenta y cinco decibeles para los de inserción; algunos protocolos usan valores distintos para cada frecuencia.",
+    "Como en la vía ósea la AI se considera cero, su regla es distinta y es el tema de la próxima lección."
+   ]
+  },
+  {
+   "id": "ornek1",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audiogramas de ejemplo",
+   "baslik": "Ejemplo 1: pérdida *unilateral*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_ (NTE): vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Derecho_ (NTE): vía ósea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_ (TE): vía aérea sin enmascarar",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       50,
+       55,
+       60,
+       65,
+       70,
+       70
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      60
+     ],
+     "etiket": "50 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "En el primer ejemplo, el oído derecho es normal; sus umbrales por vía aérea y por vía ósea están en el rango normal.",
+    "Los umbrales por vía aérea sin enmascarar del oído izquierdo están entre cincuenta y setenta decibeles.",
+    {
+     "yazi": "Al evaluar el oído izquierdo, el izquierdo es el TE y el derecho es el NTE."
+    },
+    "En mil hertz, la vía aérea izquierda es de sesenta y la vía ósea derecha de diez decibeles; la diferencia es de cincuenta.",
+    "Cincuenta es mayor que cuarenta, así que con auriculares supraaurales hay que enmascarar en esta frecuencia.",
+    "Si hacemos el mismo cálculo en las demás frecuencias, la diferencia supera cuarenta en todas.",
+    "Así, con auriculares supraaurales, todos los umbrales por vía aérea del oído izquierdo deben medirse de nuevo con el oído derecho enmascarado."
+   ]
+  },
+  {
+   "id": "ornek1_insert",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audiogramas de ejemplo",
+   "baslik": "El mismo ejemplo, con *auriculares de inserción*",
+   "maddeler": [
+    {
+     "metin": "250 y 500 Hz: diferencia de _45 dB_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "1000 Hz: diferencia de _50 dB_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "2000 y 4000 Hz: diferencia de _55 dB_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "8000 Hz: _vía aérea_ del NTE, 50 dB",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "RESULTADO",
+    "metin": "Con auriculares de inserción: enmascarar solo en *2000 y 4000 Hz*",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Imaginemos ahora que evaluamos al mismo paciente con auriculares de inserción y usamos una AI de cincuenta y cinco decibeles.",
+    "En doscientos cincuenta y quinientos hertz, la diferencia es de cuarenta y cinco decibeles, por debajo de cincuenta y cinco.",
+    "En mil hertz, la diferencia es de cincuenta decibeles, también por debajo de cincuenta y cinco.",
+    "En dos mil y cuatro mil hertz, la diferencia es de cincuenta y cinco decibeles; alcanza el límite, así que hay que enmascarar.",
+    {
+     "yazi": "En ocho mil hertz no se mide la vía ósea, así que se usa la vía aérea del NTE; la diferencia es de cincuenta, así que no se enmascara."
+    },
+    "Como ven, los auriculares de inserción reducen claramente el número de frecuencias que requieren enmascaramiento."
+   ]
+  },
+  {
+   "id": "ornek2",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Audiogramas de ejemplo",
+   "baslik": "Ejemplo 2: una trampa *oculta*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_ (TE): vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_ (NTE): vía aérea",
+     "cumle": 1
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Izquierdo_ (NTE): vía ósea",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       65,
+       70,
+       70,
+       75,
+       75,
+       80
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       35,
+       35,
+       35,
+       40,
+       40,
+       45
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      70
+     ],
+     "etiket": "60 dB",
+     "cumle": 4
+    }
+   },
+   "cumleler": [
+    "En el segundo ejemplo, el oído derecho tiene una pérdida neurosensorial de unos setenta decibeles, y el derecho es el TE.",
+    {
+     "yazi": "Los umbrales por vía aérea del oído izquierdo, el NTE, están entre treinta y cinco y cuarenta y cinco decibeles."
+    },
+    "Pero la vía ósea izquierda es normal, así que el oído izquierdo tiene una pérdida conductiva.",
+    "Si comparamos los umbrales por vía aérea de ambos oídos en mil hertz, la diferencia es de solo treinta y cinco; parece que no hace falta enmascarar.",
+    {
+     "yazi": "Pero según la regla, la comparación correcta es con la vía ósea del NTE: setenta menos diez, es decir, sesenta decibeles."
+    },
+    "Sesenta está muy por encima de cuarenta, así que los umbrales por vía aérea del oído derecho deben medirse con enmascaramiento.",
+    "El sonido cruzado sortea el bloqueo conductivo del oído izquierdo y llega directamente a la cóclea izquierda.",
+    "Este ejemplo muestra con claridad por qué la comparación se hace con la vía ósea y no con la vía aérea."
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Flujo de trabajo clínico",
+   "baslik": "El *flujo de decisión* en la práctica",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Vía aérea",
+     "metin": "Umbrales de ambos oídos",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Decisión provisional",
+     "metin": "Según la diferencia por vía aérea",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Vía ósea",
+     "metin": "Se revisa de nuevo la regla",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Nuevo enmascaramiento",
+     "metin": "Pueden requerirlo más frecuencias",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En la clínica, por lo general se miden primero los umbrales por vía aérea de ambos oídos y después la vía ósea.",
+    "Por eso, al principio se toma una decisión provisional a partir de la diferencia entre los umbrales por vía aérea de ambos oídos.",
+    {
+     "yazi": "Una vez medida la vía ósea, la regla se revisa de nuevo con el umbral por vía ósea del NTE."
+    },
+    "Esta revisión puede revelar nuevas frecuencias que requieren enmascaramiento, como en el segundo ejemplo.",
+    "Como la vía ósea sin enmascarar refleja la mejor de las dos cócleas, usar este valor en la comparación es un enfoque conservador.",
+    "Algunas guías también usan la diferencia por vía aérea entre los oídos como regla aparte cuando no se conoce la vía ósea."
+   ]
+  },
+  {
+   "id": "ornek3",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Flujo de trabajo clínico",
+   "baslik": "Ejemplo 3: *no hace falta* enmascarar",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Vía ósea_: coincide con la vía aérea",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       45,
+       50,
+       55,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       45,
+       45,
+       55,
+       55,
+       65,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       35,
+       40,
+       45,
+       50,
+       55
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "En el tercer ejemplo, ambos oídos tienen una pérdida neurosensorial de grado similar.",
+    "Los umbrales por vía aérea derechos e izquierdos están muy cerca, y los umbrales por vía ósea coinciden con la vía aérea.",
+    {
+     "yazi": "En ninguna frecuencia la diferencia entre la vía aérea del TE y la vía ósea del NTE supera los quince decibeles."
+    },
+    "Esta diferencia está muy por debajo de cuarenta, así que no hace falta enmascarar la vía aérea.",
+    "En las pérdidas simétricas sin brecha aéreo-ósea, la necesidad de enmascarar suele ser escasa."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Si el oído opuesto tiene una pérdida conductiva, la diferencia por vía aérea puede engañar. Después de medir la vía ósea, revisar siempre la decisión de enmascarar.",
+   "cumleler": [
+    "Recordemos un error frecuente.",
+    "Si el oído opuesto tiene una pérdida conductiva, los umbrales por vía aérea de ambos oídos pueden parecer cercanos.",
+    "En ese caso, decidir que no hace falta enmascarar mirando solo la diferencia por vía aérea es engañoso.",
+    "Después de medir los umbrales por vía ósea, revisen la decisión en cada frecuencia.",
+    "Esta revisión rápida les permite detectar un audiograma erróneo antes de que llegue al informe."
+   ]
+  },
+  {
+   "id": "karar",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Decisión y registro",
+   "baslik": "*Tabla de decisión* en 1000 Hz",
+   "sutunlar": [
+    "Ejemplo",
+    "VA del TE",
+    "VO del NTE",
+    "Decisión"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1, supraaural",
+      "60",
+      "10",
+      "Enmascarar"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "1, de inserción",
+      "60",
+      "10",
+      "No hace falta"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2, supraaural",
+      "70",
+      "10",
+      "Enmascarar"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "3, supraaural",
+      "55",
+      "45",
+      "No hace falta"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Resumamos en una tabla las decisiones en mil hertz: en el primer ejemplo, con auriculares supraaurales, la diferencia es de cincuenta, así que enmascaramos.",
+    "Con auriculares de inserción la diferencia sigue siendo de cincuenta, pero queda por debajo de cincuenta y cinco, así que no hace falta enmascarar.",
+    "En el segundo ejemplo, la diferencia es de sesenta decibeles; aunque los umbrales por vía aérea parezcan cercanos, enmascarar es imprescindible.",
+    "En el tercer ejemplo, la diferencia es de diez decibeles; no hace falta enmascarar.",
+    {
+     "yazi": "En todos los casos la pregunta es la misma: después de perder la AI, ¿puede oírse en la cóclea del NTE el sonido presentado al TE?"
+    }
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Decisión y registro",
+   "baslik": "El registro tras *enmascarar*",
+   "maddeler": [
+    {
+     "metin": "Umbral enmascarado: _triángulo_ derecho, cuadrado izquierdo",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Anotar_ el nivel del ruido",
+     "cumle": 2,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "_Símbolo enmascarado_ aunque no cambie",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Nivel del ruido: el _método de la meseta_",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Los umbrales por vía aérea obtenidos con enmascaramiento se marcan con un triángulo rojo en el derecho y un cuadrado azul en el izquierdo.",
+    "Así, quien lea el audiograma sabe que el umbral se confirmó con enmascaramiento.",
+    "El nivel del ruido enmascarante utilizado también se anota en el formulario o debajo del audiograma.",
+    "Aunque el umbral no haya cambiado tras enmascarar, se usa el símbolo que indica una medición enmascarada.",
+    "Qué nivel de ruido usar lo veremos en las lecciones sobre el enmascaramiento efectivo y el método de la meseta."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "TE es el oído evaluado; _NTE_, el otro",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Regla: VA del TE menos _VO del NTE_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Enmascarar si la diferencia _alcanza la AI_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "_Revisar_ tras medir la vía ósea",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El oído cuyo umbral medimos es el TE, y el oído opuesto, que recibe el ruido, es el NTE."
+    },
+    {
+     "yazi": "En la regla de la vía aérea, al umbral por vía aérea del TE se le resta el umbral por vía ósea del NTE."
+    },
+    "Si la diferencia llega a cuarenta con auriculares supraaurales o a unos cincuenta y cinco con auriculares de inserción, hay que enmascarar.",
+    "Una vez medida la vía ósea, la decisión se revisa de nuevo en cada frecuencia."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "VA derecha 70, VO izquierda 15 dB. ¿Con auriculares supraaurales?",
+   "secenekler": [
+    "No hace falta enmascarar",
+    "Enmascarar el izquierdo al evaluar el derecho",
+    "Enmascarar el derecho al evaluar el izquierdo"
+   ],
+   "dogru": 1,
+   "aciklama": "La diferencia es de 55 dB, mayor que 40 dB; la VA derecha se repite _con el oído izquierdo enmascarado_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: la vía aérea derecha es de 70 y la vía ósea izquierda de 15 decibeles. Con auriculares supraaurales, ¿qué debemos hacer?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: se enmascara el oído izquierdo mientras se evalúa el derecho.",
+    "La diferencia es de cincuenta y cinco decibeles, mayor que cuarenta, así que el umbral por vía aérea derecho se mide de nuevo con ruido en el oído izquierdo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "¿Cuándo hay que *enmascarar* la vía ósea?",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cuándo hay que enmascarar en la prueba por vía ósea, y hablaremos del efecto de oclusión.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

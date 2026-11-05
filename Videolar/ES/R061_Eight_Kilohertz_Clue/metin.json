@@ -1,0 +1,130 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R061_Eight_Kilohertz_Clue_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #61",
+  "baslik": "La muesca por ruido: *8 kHz*",
+  "alt": "Muesca entre 3 y 6 kHz, recuperación en 8 kHz",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      30,
+      50,
+      40,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      35,
+      55,
+      45,
+      25
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Cómo se reconoce la hipoacusia inducida por ruido en el audiograma? #shorts",
+  "aciklama": "El signo típico de la hipoacusia inducida por ruido es una muesca entre 3 y 6 kHz con recuperación parcial en 8 kHz. La pérdida relacionada con la edad no muestra esta recuperación; los umbrales siguen empeorando hacia 8 kHz.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audiograma",
+   "ruido"
+  ],
+  "etiketler": [
+   "hipoacusia inducida por ruido",
+   "HIR",
+   "muesca en 4 kHz",
+   "muesca por ruido",
+   "recuperación en 8 kHz",
+   "audiograma",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Cómo se reconoce la hipoacusia inducida por ruido en el audiograma?",
+  "bilgiler": [
+   "El signo típico es una muesca entre 3 y 6 kHz.",
+   "En 8 kHz, los umbrales vuelven a mejorar.",
+   "La pérdida relacionada con la edad no muestra esta recuperación."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audiograma",
+   "ruido"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #61",
+   "metin": "¿Cómo *reconocer* la pérdida por ruido en el audiograma?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Cómo se reconoce la hipoacusia inducida por ruido en el audiograma?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "La pista: la recuperación *en 8 kHz*",
+   "sayi": "8",
+   "birim": "kHz",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "El signo típico es una muesca entre tres mil y seis mil hertz.",
+    "En ocho mil hertz, los umbrales vuelven a mejorar.",
+    "La pérdida relacionada con la edad no muestra esa recuperación; los umbrales siguen empeorando."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D140",
+ "kaynak_baslik": "Hipoacusia inducida por ruido y la muesca en 4 kHz"
+}

@@ -1,0 +1,810 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D089_Bone_Conduction_Masking_ES",
+ "kapak": {
+  "ust": "LECCIÓN 89",
+  "baslik": "Enmascaramiento<br>*de la vía ósea*",
+  "alt": "¿Cuándo hace falta? El efecto de oclusión",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      40,
+      40,
+      40,
+      35,
+      40,
+      45
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "kemik",
+     "degerler": [
+      5,
+      10,
+      10,
+      10,
+      10
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "¿Cuándo hay que enmascarar la vía ósea? | Lección 89 | AIHEAR Academia de Audiología",
+  "aciklama": "En la vía ósea la atenuación interaural es de unos cero decibeles, así que un umbral por vía ósea sin enmascarar no nos dice a qué oído pertenece. En esta lección usamos audiogramas de ejemplo para trabajar la regla de enmascaramiento de la vía ósea, la lectura de la brecha aéreo-ósea, la corrección por efecto de oclusión y los dos resultados posibles.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005); BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "enmascaramiento",
+   "viaosea"
+  ],
+  "etiketler": [
+   "enmascaramiento vía ósea",
+   "vía ósea sin enmascarar",
+   "brecha aéreo-ósea",
+   "efecto de oclusión",
+   "enmascaramiento clínico",
+   "oído evaluado",
+   "oído no evaluado",
+   "audiometría tonal",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 89",
+   "baslik": "¿Cuándo hay que *enmascarar* la vía ósea?",
+   "alt": "La brecha aéreo-ósea y el efecto de oclusión",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo decidimos cuándo hay que enmascarar en la prueba por vía ósea.",
+    "Con audiogramas de ejemplo, veremos el efecto de oclusión y los dos resultados posibles de la vía ósea enmascarada."
+   ]
+  },
+  {
+   "id": "belirsizlik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El problema",
+   "baslik": "La vía ósea estimula *ambas* cócleas",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 0,
+    "test_kulak": "sol"
+   },
+   "vurgula": [
+    {
+     "parca": "kafatasi",
+     "cumle": 1
+    },
+    {
+     "parca": "test_kulagi",
+     "cumle": 2
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "AI: unos 0 dB",
+     "cumle": 1
+    },
+    {
+     "parca": "test_kulagi",
+     "metin": "Cóclea del TE",
+     "cumle": 2
+    },
+    {
+     "parca": "karsi_kulak",
+     "metin": "Cóclea del NTE",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vía ósea sin enmascarar: _la mejor cóclea_",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "¿Qué oído? _Se desconoce_",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "Aunque el vibrador óseo esté sobre la mastoides del oído evaluado, su vibración no se limita a ese lado.",
+    "El cráneo vibra en conjunto; en la vía ósea, la atenuación interaural, o AI, se considera de unos cero decibeles.",
+    "Así, el vibrador estimula casi por igual la cóclea del oído evaluado, o TE, y la del oído no evaluado, o NTE.",
+    "Por eso, un umbral por vía ósea sin enmascarar refleja la mejor de las dos cócleas, sea cual sea.",
+    "Al ver un umbral por vía ósea sin enmascarar, no podemos decir a qué oído pertenece.",
+    "El objetivo del enmascaramiento de la vía ósea es mostrar si el umbral pertenece realmente al oído evaluado."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El problema",
+   "baslik": "La verdadera pregunta: ¿la *brecha* es real?",
+   "maddeler": [
+    {
+     "metin": "Brecha aéreo-ósea: ¿es _conductiva_?",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "La vía ósea puede venir _del otro oído_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Brecha falsa: _tipo de pérdida_ erróneo",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "OBJETIVO",
+    "metin": "Demostrar que la brecha pertenece *al oído evaluado*",
+    "cumle": 4
+   },
+   "cumleler": [
+    "La razón principal para medir la vía ósea es determinar el tipo de pérdida a partir de la brecha aéreo-ósea.",
+    "Cuando aparece una brecha en el oído evaluado, la vía ósea sin enmascarar puede venir en realidad de la mejor cóclea del oído opuesto.",
+    "En ese caso, el umbral real por vía ósea del oído evaluado puede ser mucho peor que el que vemos.",
+    "Así, una pérdida neurosensorial puede parecer conductiva o mixta por una brecha aéreo-ósea falsa.",
+    "El enmascaramiento de la vía ósea muestra si la brecha que se ve en el oído evaluado pertenece realmente a ese oído."
+   ]
+  },
+  {
+   "id": "kural",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "La regla de enmascaramiento",
+   "baslik": "La *regla* para la vía ósea",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "VA del TE",
+     "metin": "Partir de este umbral",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "VO sin enmascarar",
+     "metin": "Restar este umbral",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "¿Brecha significativa?",
+     "metin": "Si supera 10 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Enmascarar el NTE",
+     "metin": "Repetir la VO del TE",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La regla de la vía ósea parte del umbral por vía aérea del oído evaluado.",
+    "A este umbral le restamos el umbral por vía ósea sin enmascarar en la misma frecuencia; el resultado es la brecha aéreo-ósea del TE.",
+    "Muchas guías indican enmascarar cuando la brecha supera los diez decibeles, es decir, quince o más en pasos de cinco decibeles.",
+    "La Sociedad Británica de Audiología, o BSA, es más prudente y recomienda enmascarar con una brecha de diez decibeles o más.",
+    "Si hace falta enmascarar, el ruido va al NTE y se mide de nuevo el umbral por vía ósea del TE.",
+    "Como en la vía aérea, decidimos en cada frecuencia; la vía ósea suele evaluarse de doscientos cincuenta a cuatro mil hertz."
+   ]
+  },
+  {
+   "id": "karsilastirma",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 2",
+   "bolum": "La regla de enmascaramiento",
+   "baslik": "Reglas de la vía aérea y de la *vía ósea*",
+   "sol": {
+    "ust": "Regla de la vía aérea",
+    "maddeler": [
+     {
+      "metin": "VA del TE menos _VO del NTE_",
+      "cumle": 0
+     },
+     {
+      "metin": "Criterio: _la AI_, 40 o 55 dB",
+      "cumle": 1
+     },
+     {
+      "metin": "Pregunta: ¿el sonido _cruza?_",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Regla de la vía ósea",
+    "maddeler": [
+     {
+      "metin": "VA del TE menos _VO sin enmascarar_",
+      "cumle": 3
+     },
+     {
+      "metin": "Criterio: _una brecha significativa_",
+      "cumle": 4
+     },
+     {
+      "metin": "Pregunta: ¿de _quién_ es la vía ósea?",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "En la regla de la vía aérea, comparábamos el umbral por vía aérea del oído evaluado con el umbral por vía ósea del oído opuesto.",
+    "Si la diferencia llegaba a cuarenta decibeles con auriculares supraaurales o a unos cincuenta y cinco con los de inserción, había que enmascarar.",
+    "Nuestra pregunta era si el sonido de prueba llegaba a la cóclea opuesta.",
+    "En la regla de la vía ósea, comparamos la vía aérea y la vía ósea sin enmascarar del mismo oído.",
+    "Como la AI ya es cero, el criterio no es un valor de atenuación, sino una brecha aéreo-ósea significativa.",
+    "También cambia nuestra pregunta: ¿este umbral por vía ósea pertenece realmente al oído evaluado?"
+   ]
+  },
+  {
+   "id": "tolerans",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "La regla de enmascaramiento",
+   "baslik": "Sin brecha, no hace falta *enmascarar*",
+   "maddeler": [
+    {
+     "metin": "La VO _nunca es peor_ que la VA",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Brecha pequeña: _variabilidad de la prueba_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Neurosensorial simétrica: a menudo _no hace falta_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DECISIÓN",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Brecha pequeña",
+      "metin": "10 dB o menos: no hace falta",
+      "cumle": 1
+     },
+     {
+      "ikon": "gurultu",
+      "baslik": "Brecha significativa",
+      "metin": "15 dB o más: enmascarar",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "El umbral real por vía ósea de un oído no puede ser significativamente peor que su propio umbral por vía aérea.",
+    "Por eso, si no hay brecha en el oído evaluado, la pérdida se interpreta como neurosensorial, sea de quien sea la vía ósea sin enmascarar.",
+    "Las diferencias pequeñas, de cinco o diez decibeles, pueden caer dentro de la variabilidad natural de la prueba por vía ósea.",
+    "Cuando la brecha supera este límite, enmascarar es imprescindible, porque saber de quién es el umbral puede cambiar el tipo de pérdida.",
+    "Cuando ambos oídos tienen una pérdida neurosensorial simétrica, a menudo no hace falta enmascarar la vía ósea."
+   ]
+  },
+  {
+   "id": "okluzyon",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "El efecto de oclusión",
+   "baslik": "El oído tapado *refuerza los graves*",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Conducto auditivo ocluido",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "metin": "Se refuerzan los graves",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En el enmascaramiento de la vía ósea, presentamos el ruido al NTE mediante un auricular, así que el conducto auditivo del NTE queda tapado.",
+    "Cuando el cráneo vibra, las paredes del conducto auditivo también vibran e irradian sonido hacia el conducto.",
+    "Cuando el conducto está abierto, este sonido se escapa, sobre todo su parte de baja frecuencia.",
+    "Cuando el conducto está tapado, esta energía queda dentro y aumenta el sonido grave que llega a la cóclea; es el efecto de oclusión.",
+    "Como resultado, el NTE tapado empieza a oír mejor los tonos graves presentados por vía ósea.",
+    "Por eso, para enmascarar bien el NTE, hay que añadir una corrección al ruido en las frecuencias graves.",
+    "El efecto es mayor entre doscientos cincuenta y mil hertz; en las frecuencias más altas puede ignorarse."
+   ]
+  },
+  {
+   "id": "degerler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "El efecto de oclusión",
+   "baslik": "*Corrección* por oclusión (dB)",
+   "sutunlar": [
+    "Frecuencia",
+    "Supraaural",
+    "Inserción profunda"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "250 Hz",
+      "30",
+      "unos 10"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "20",
+      "0 a 10"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "10",
+      "cerca de 0"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2000 Hz o más",
+      "0",
+      "0"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La magnitud de la corrección depende del tipo de auricular que cubre el oído y de la frecuencia.",
+    "Para los auriculares supraaurales, un valor de uso habitual es de treinta decibeles en doscientos cincuenta hertz.",
+    "En quinientos hertz se suman veinte decibeles, y en mil hertz, diez.",
+    "En dos mil hertz y más no hace falta corrección.",
+    "Con un auricular de inserción cuya punta de espuma queda profunda en el conducto, el efecto de oclusión es mucho menor; los valores varían según la fuente.",
+    "Esta es otra ventaja de los auriculares de inserción en el enmascaramiento de la vía ósea."
+   ]
+  },
+  {
+   "id": "eklenmez",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "El efecto de oclusión",
+   "baslik": "¿Cuándo *no* se suma la corrección?",
+   "maddeler": [
+    {
+     "metin": "Si el NTE tiene pérdida _conductiva_",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "_Por encima_ de 1000 Hz",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Medición individual: umbrales _abierto y ocluido_",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 0
+     },
+     {
+      "parca": "orta_kulak",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Si el NTE tiene una pérdida conductiva, el efecto de oclusión no aparece o es muy pequeño.",
+    "Este oído ya tiene un bloqueo conductivo, así que tapar el conducto cambia poco; en este caso no se suma corrección.",
+    "La corrección por oclusión tampoco se usa en las frecuencias por encima de mil hertz.",
+    "Algunas clínicas calculan el efecto de oclusión propio del paciente a partir de umbrales por vía ósea medidos con el oído abierto y tapado.",
+    "Este método individual da una corrección más exacta que los valores promedio."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Audiogramas de ejemplo",
+   "baslik": "Ejemplo: una *brecha* en el oído izquierdo",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_ (TE): vía aérea",
+     "cumle": 1
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "Vía ósea sin enmascarar",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       40,
+       35,
+       40,
+       45
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       10
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, los umbrales por vía aérea del oído derecho son normales.",
+    "Los umbrales por vía aérea del oído izquierdo están entre treinta y cinco y cuarenta y cinco decibeles.",
+    "Los umbrales por vía ósea sin enmascarar medidos en la mastoides izquierda están entre cinco y diez decibeles, es decir, son normales.",
+    "En mil hertz, el oído izquierdo muestra una brecha aéreo-ósea de treinta decibeles; supera quince, así que hay que enmascarar.",
+    "La regla de la vía aérea no exige enmascarar aquí: la diferencia es como máximo de treinta y cinco, menos de cuarenta con auriculares supraaurales.",
+    "Ahora enmascaremos el oído derecho y midamos de nuevo la vía ósea izquierda; hay dos resultados posibles."
+   ]
+  },
+  {
+   "id": "sonuc_a",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Audiogramas de ejemplo",
+   "baslik": "Resultado A: pérdida *conductiva*",
+   "lejant": [
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía ósea enmascarada",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       40,
+       35,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       15,
+       10,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      15,
+      40
+     ],
+     "etiket": "25 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "En el primer resultado, aun con el oído derecho enmascarado, los umbrales por vía ósea izquierdos cambian solo unos pocos decibeles.",
+    "La vía ósea enmascarada del oído izquierdo se marca con un corchete de cierre.",
+    "La brecha aéreo-ósea se mantiene, así que la vía ósea pertenece realmente al oído izquierdo.",
+    "Este cuadro muestra una pérdida conductiva en el oído izquierdo.",
+    "Los pequeños desplazamientos de cinco decibeles causados por el ruido pueden explicarse por el enmascaramiento central y no cambian el resultado."
+   ]
+  },
+  {
+   "id": "sonuc_b",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Audiogramas de ejemplo",
+   "baslik": "Resultado B: pérdida *neurosensorial*",
+   "lejant": [
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía ósea enmascarada",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       40,
+       35,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       35,
+       35,
+       40,
+       35,
+       40
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "En el segundo resultado, al enmascarar el oído derecho, los umbrales por vía ósea izquierdos suben a entre treinta y cinco y cuarenta decibeles.",
+    "La vía ósea normal que medimos sin enmascarar pertenecía en realidad a la cóclea derecha.",
+    "La brecha aéreo-ósea se cerró; la pérdida del oído izquierdo es neurosensorial.",
+    "Sin enmascarar, este oído se habría informado por error como una pérdida conductiva.",
+    "Esta diferencia puede cambiar por completo la derivación del paciente y sus opciones de tratamiento."
+   ]
+  },
+  {
+   "id": "baslangic",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Audiogramas de ejemplo",
+   "baslik": "¿*Cómo* se calcula el ruido inicial?",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "VA del NTE",
+     "metin": "Ejemplo: 10 dB",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Factor de seguridad",
+     "metin": "Más 10 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Oclusión",
+     "metin": "Más 20 dB, 500 Hz",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Nivel inicial",
+     "metin": "40 dB EM",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Como veremos en la lección sobre el método de la meseta, el nivel inicial del ruido enmascarante es la suma de tres partes.",
+    "La primera es el umbral por vía aérea del NTE en esa frecuencia; en nuestro ejemplo, el oído derecho, diez decibeles en quinientos hertz.",
+    "Se suma un factor de seguridad de diez decibeles para cubrir las diferencias entre personas.",
+    "Si se usan auriculares supraaurales, también se suma una corrección por oclusión de veinte decibeles para quinientos hertz.",
+    {
+     "yazi": "Así, el ruido inicial es de 40 dB EM, es decir, cuarenta decibeles de enmascaramiento efectivo; con auriculares de inserción es mucho menor."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Vibrador en la mastoides del oído evaluado y auricular de ruido en el opuesto. No dejar el auricular libre sobre el oído evaluado: también le causaría efecto de oclusión.",
+   "cumleler": [
+    "Un consejo de la clínica: al preparar el enmascaramiento de la vía ósea, presten atención a dos errores.",
+    "El vibrador debe estar en la mastoides del oído evaluado, y el auricular que presenta el ruido, en el oído opuesto.",
+    "El auricular que no se usa se coloca en la sien o al costado de la cabeza, no sobre el oído evaluado.",
+    "Si el oído evaluado queda tapado, también sufre efecto de oclusión y su umbral por vía ósea mejora falsamente en las frecuencias graves.",
+    "Además, comprueben que el arco del vibrador y el del auricular no se empujen entre sí y que el vibrador no se deslice."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Vía ósea sin enmascarar: _la mejor cóclea_",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Enmascarar si el TE tiene _brecha significativa_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Corrección por _oclusión_ en los graves",
+     "cumle": 2,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Brecha persiste: _conductiva_; se cierra: neurosensorial",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "En la vía ósea la AI es de unos cero decibeles; la vía ósea sin enmascarar muestra la mejor de las dos cócleas.",
+    "Si el oído evaluado tiene una brecha aéreo-ósea mayor de diez decibeles, se enmascara el NTE; la BSA lo recomienda desde diez decibeles.",
+    "Un NTE tapado sufre efecto de oclusión; con auriculares supraaurales se suman treinta, veinte y diez decibeles en los graves.",
+    "Si la brecha persiste con la vía ósea enmascarada, la pérdida es conductiva; si la brecha se cierra, es neurosensorial."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "VA del TE 45, VO sin enmascarar 10 dB. ¿Qué hacemos?",
+   "secenekler": [
+    "No hace falta enmascarar",
+    "Enmascarar el NTE, repetir la VO del TE",
+    "Enmascarar el TE"
+   ],
+   "dogru": 1,
+   "aciklama": "La brecha es de 35 dB; se enmascara el NTE para saber _a qué oído_ pertenece la vía ósea.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en el oído evaluado, la vía aérea es de 45 y la vía ósea sin enmascarar de 10 decibeles. ¿Qué debemos hacer?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: se enmascara el NTE y se mide de nuevo la vía ósea del TE.",
+    "Una brecha de treinta y cinco decibeles es significativa; la vía ósea sin enmascarar puede ser de la cóclea opuesta, así que hay que enmascarar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Nivel de *enmascaramiento efectivo*: mínimo y máximo",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección conoceremos el enmascaramiento efectivo y cómo calcular el ruido mínimo y el máximo que podemos usar.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

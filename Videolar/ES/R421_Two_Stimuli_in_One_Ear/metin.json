@@ -1,0 +1,126 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R421_Two_Stimuli_in_One_Ear_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #421",
+  "baslik": "Dos estímulos, *un oído*",
+  "alt": "Estimulación electroacústica",
+  "grafik": {
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      30,
+      45,
+      70,
+      95,
+      105,
+      110
+     ],
+     "yanitsiz": [
+      5
+     ]
+    }
+   ],
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   }
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Puede un oído oír a la vez con un implante y con sonido acústico? #shorts",
+  "aciklama": "En la estimulación electroacústica (EAS), las frecuencias agudas se estimulan eléctricamente con el implante y las graves de forma acústica con sonido amplificado; el candidato tiene audición útil en las frecuencias graves, pero una pérdida severa a profunda en las agudas. El punto donde se encuentran las dos regiones se llama frecuencia de cruce y se elige a partir del audiograma de la persona; hoy, en muchos sistemas, el mismo procesador entrega tanto la estimulación del implante como el sonido acústico.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "implantecoclear",
+   "audicion"
+  ],
+  "etiketler": [
+   "estimulación electroacústica",
+   "EAS",
+   "frecuencia de cruce",
+   "audición residual",
+   "implante coclear",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Puede un oído oír a la vez con un implante y con sonido acústico?",
+  "bilgiler": [
+   "Los agudos se estimulan eléctricamente; los graves, de forma acústica con sonido.",
+   "El punto donde se unen las dos regiones es la frecuencia de cruce.",
+   "En muchos sistemas, un solo procesador entrega ambos."
+  ],
+  "hashtag": [
+   "audiologia",
+   "implantecoclear",
+   "audicion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #421",
+   "metin": "¿Ambos *a la vez?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Puede un oído oír a la vez con un implante y con sonido acústico?"
+   ]
+  },
+  {
+   "id": "eas",
+   "tur": "zincir",
+   "baslik": "Estimulación *electroacústica*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Agudos",
+     "tr": "eléctrico",
+     "cumle": 1
+    },
+    {
+     "ad": "Graves",
+     "tr": "sonido acústico",
+     "cumle": 1,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Cruce",
+     "tr": "según el audiograma",
+     "cumle": 3
+    }
+   ],
+   "alt": "El mismo _procesador_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Algunas personas conservan la audición en graves, con pérdida profunda en agudos.",
+    "En la estimulación electroacústica, el implante estimula los agudos y el sonido amplificado, los graves.",
+    "Los sonidos graves siguen llegando al ápice mediante la onda viajera.",
+    "El punto donde se unen las dos regiones es la frecuencia de cruce.",
+    "Hoy, en muchos sistemas, un solo procesador entrega los dos estímulos juntos."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D245",
+ "kaynak_baslik": "Estimulación electroacústica (EAS) y sistemas híbridos"
+}

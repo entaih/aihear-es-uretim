@@ -1,0 +1,777 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D167_Speech_Perception_In_Children_ES",
+ "kapak": {
+  "ust": "LECCIÓN 167",
+  "baslik": "*Percepción del habla*<br>en niños",
+  "alt": "Conjunto cerrado, conjunto abierto, ESP",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "Evaluación de la percepción del habla en niños | Lección 167 | AIHEAR Academia de Audiología",
+  "aciklama": "Esta lección explica cómo se evalúa la percepción del habla en los niños. Veremos los niveles de las habilidades auditivas, las pruebas de conjunto cerrado y de conjunto abierto, el nivel de azar, la prueba de Percepción Temprana del Habla (ESP) y sus categorías, los materiales en turco, la elección del material según el nivel de lenguaje, la aplicación y el informe.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Moog and Geers, Early Speech Perception Test, Central Institute for the Deaf (1990); Erber, Auditory Training (1982); ASHA, Guidelines for the Audiologic Assessment of Children From Birth to 5 Years of Age (2004); Madell, Flexer, Wolfe and Schafer, Pediatric Audiology: Diagnosis, Technology, and Management.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audiologiapediatrica",
+   "percepciondelhabla"
+  ],
+  "etiketler": [
+   "percepción del habla en niños",
+   "prueba de conjunto cerrado",
+   "prueba de conjunto abierto",
+   "Early Speech Perception",
+   "prueba ESP",
+   "nivel de azar",
+   "PBK",
+   "logoaudiometría infantil",
+   "audiología pediátrica",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 167",
+   "baslik": "*Percepción del habla* en niños",
+   "alt": "Conjunto cerrado, conjunto abierto y ESP",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos cómo se evalúa la percepción del habla en los niños.",
+    "Veremos las pruebas de conjunto cerrado y abierto, la prueba de Percepción Temprana del Habla y cómo elegir el material según el nivel de lenguaje."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué evaluar el habla?",
+   "baslik": "¿Por qué evaluar el *habla*?",
+   "maddeler": [
+    {
+     "metin": "Los tonos puros no muestran la _comprensión_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Beneficio_ de audífonos e implantes",
+     "cumle": 2,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "_Seguimiento_ del desarrollo",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "_Planificar_ la intervención",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "muz",
+      "metin": "Banana del habla",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "muz",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "El audiograma tonal muestra cuán suaves son los sonidos que un niño puede oír; no muestra qué tan bien percibe el habla.",
+    "Dos niños con audiogramas parecidos pueden tener capacidades de percepción del habla muy distintas.",
+    "Si el niño usa audífono o implante coclear, las pruebas de percepción del habla son la vía principal para ver el beneficio real del dispositivo.",
+    "Repetir las pruebas a lo largo del tiempo nos permite seguir el desarrollo auditivo del niño.",
+    "Los resultados ayudan a planificar los ajustes del dispositivo y la terapia de habla y lenguaje.",
+    "Pero como el nivel de lenguaje del niño influye directamente en el resultado, elegir la prueba adecuada es muy importante."
+   ]
+  },
+  {
+   "id": "hiyerarsi",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué evaluar el habla?",
+   "baslik": "*Niveles* de las habilidades auditivas",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Detección",
+     "metin": "¿Hay un sonido?",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Discriminación",
+     "metin": "¿Igual o diferente?",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Identificación",
+     "metin": "¿Cuál es?",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Comprensión",
+     "metin": "¿Qué significa?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Como describió Erber, las habilidades auditivas pueden entenderse como niveles que se construyen unos sobre otros.",
+    "El primer nivel es la detección: el niño nota si hay un sonido o no.",
+    "El segundo nivel es la discriminación: el niño puede distinguir si dos sonidos son iguales o diferentes.",
+    "El tercer nivel es la identificación: el niño encuentra entre las opciones la palabra que oyó, o la repite.",
+    "El nivel más alto es la comprensión: el niño capta el significado de lo dicho y responde.",
+    "La prueba se elige según cuál de estos niveles haya alcanzado el niño."
+   ]
+  },
+  {
+   "id": "set",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Conjunto cerrado y abierto",
+   "baslik": "Conjunto *cerrado*, conjunto abierto",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Conjunto cerrado",
+     "metin": "Señala lo oído entre pocas imágenes u objetos.",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Conjunto abierto",
+     "metin": "Sin opciones; el niño repite lo oído.",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Las pruebas de percepción del habla se dividen en dos grupos según la forma en que responde el niño.",
+    "En las pruebas de conjunto cerrado, el niño señala la palabra oída entre un número limitado de imágenes u objetos.",
+    "Este formato es útil para niños pequeños y para niños cuya habla no es inteligible, pero existe la posibilidad de acertar al azar.",
+    "En las pruebas de conjunto abierto no hay opciones; el niño repite la palabra o la oración que oyó.",
+    "La prueba de conjunto abierto se acerca más a la escucha cotidiana y es más difícil.",
+    "Como vimos en las lecciones de logoaudiometría, los puntajes de ambos tipos no se comparan directamente."
+   ]
+  },
+  {
+   "id": "sans",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Conjunto cerrado y abierto",
+   "baslik": "Nivel de *azar* en conjunto cerrado",
+   "sutunlar": [
+    "Número de opciones",
+    "Aciertos al azar"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "2",
+      "50 %"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "3",
+      "Alrededor del 33 %"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "4",
+      "25 %"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "6",
+      "Alrededor del 17 %"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "12",
+      "Alrededor del 8 %"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En las pruebas de conjunto cerrado, el puntaje debe interpretarse junto con el nivel de azar.",
+    "En una prueba de dos opciones, un niño puede acertar alrededor de la mitad de las respuestas sin oír nada.",
+    "Con tres opciones, el nivel de azar es de alrededor del treinta y tres por ciento; con cuatro opciones, del veinticinco por ciento.",
+    "A medida que aumentan las opciones, el nivel de azar baja: es de alrededor del diecisiete por ciento con seis y del ocho por ciento con doce.",
+    "Por eso, un puntaje cercano al nivel de azar no es prueba de una identificación real."
+   ]
+  },
+  {
+   "id": "esp",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Conjunto cerrado y abierto",
+   "baslik": "Early Speech Perception: *ESP*",
+   "maddeler": [
+    {
+     "metin": "Moog y Geers, _1990_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "_Conjunto cerrado_ con imágenes u objetos",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Versión estándar: _imágenes_",
+     "cumle": 2,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Versión de bajo nivel verbal: _juguetes_",
+     "cumle": 3,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Patrón, palabras bisílabas y _monosílabas_",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ESP",
+    "metin": "Percepción Temprana del Habla: una prueba de *conjunto cerrado* para niños pequeños",
+    "cumle": 0
+   },
+   "cumleler": [
+    {
+     "yazi": "La prueba de Percepción Temprana del Habla, o ESP, fue desarrollada por Moog y Geers en 1990."
+    },
+    "Es una prueba de conjunto cerrado diseñada para niños pequeños con pérdida auditiva de severa a profunda.",
+    "Para los niños con suficiente vocabulario se usa la versión estándar, con imágenes.",
+    "Para niños pequeños con lenguaje más limitado hay una versión de bajo nivel verbal que usa cuatro juguetes reales en lugar de imágenes.",
+    "La prueba evalúa por separado el reconocimiento del patrón rítmico y silábico de las palabras, las palabras bisílabas y las monosílabas.",
+    "Como sus palabras están en inglés, el formato de la prueba se usa en otros idiomas adaptándolo con los mismos principios."
+   ]
+  },
+  {
+   "id": "esp_kategori",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Conjunto cerrado y abierto",
+   "baslik": "Categorías de la *ESP*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Categoría 1",
+     "metin": "Detección",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Categoría 2",
+     "metin": "Percepción del patrón",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Categoría 3",
+     "metin": "Identifica algunas palabras",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Categoría 4",
+     "metin": "Identificación constante de palabras",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Según los resultados de la ESP, la percepción del habla del niño se ubica en una de cuatro categorías.",
+    "En la categoría uno, el niño detecta el sonido, pero no distingue los patrones de las palabras.",
+    "En la categoría dos, el niño distingue patrones como el número de sílabas y el ritmo, pero no puede identificar palabras.",
+    "En la categoría tres, el niño empieza a identificar algunas palabras, sobre todo las bisílabas.",
+    "En la categoría cuatro, el niño identifica también las monosílabas de forma constante; puede estar listo para pruebas de conjunto abierto.",
+    "Estas categorías ofrecen un lenguaje simple y claro para seguir el progreso del niño y explicárselo a la familia."
+   ]
+  },
+  {
+   "id": "acik_set",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Conjunto cerrado y abierto",
+   "baslik": "Pruebas de *conjunto abierto*",
+   "maddeler": [
+    {
+     "metin": "El niño _repite_ la palabra",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ejemplo en inglés: listas _PBK_",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "En turco: listas para _edad escolar_",
+     "cumle": 3,
+     "ikon": "okul"
+    },
+    {
+     "metin": "En ruido: HINT turco _infantil_",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "okul",
+      "baslik": "Palabras",
+      "metin": "Listas de monosílabos",
+      "cumle": 3
+     },
+     {
+      "ikon": "gurultu",
+      "baslik": "En ruido",
+      "metin": "Pruebas de oraciones",
+      "cumle": 4
+     }
+    ],
+    "ust": "EN TURCO"
+   },
+   "cumleler": [
+    "En las pruebas de conjunto abierto, el niño repite la palabra o la oración que oyó, y se puntúan las palabras dichas correctamente.",
+    "En inglés, las listas de monosílabos fonéticamente balanceados para preescolares, o PBK, son un ejemplo usado desde hace mucho tiempo.",
+    "Algunas pruebas también tienen en cuenta la frecuencia de uso de las palabras y cuánto se parecen entre sí.",
+    "En turco, como vimos en la lección sobre materiales de habla, hay listas de palabras monosílabas para niños de siete a doce años.",
+    {
+     "yazi": "Para el habla en ruido, la prueba de audición en ruido turca, o HINT, también tiene una versión infantil con normas para los seis a doce años."
+    },
+    "Las pruebas de conjunto abierto se usan cuando el lenguaje del niño está lo bastante desarrollado como para repetir palabras."
+   ]
+  },
+  {
+   "id": "secim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Materiales y aplicación",
+   "baslik": "Al *elegir* una prueba",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Nivel de lenguaje",
+     "metin": "¿Conoce el niño las palabras?",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Modo de respuesta",
+     "metin": "¿Señalar o repetir?",
+     "cumle": 2
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Presentación",
+     "metin": "Grabada o a viva voz",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Nivel",
+     "metin": "Nivel del habla cotidiana",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Para elegir la prueba adecuada, se responden algunas preguntas.",
+    "La primera es si el niño conoce las palabras de la prueba; no se puede esperar que un niño perciba una palabra que no conoce.",
+    "La segunda es el modo de respuesta: ¿el niño puede señalar imágenes o repetir de forma inteligible?",
+    "Los estímulos grabados son más uniformes y facilitan la comparación; con niños muy pequeños, la viva voz puede ser más flexible.",
+    "El nivel de presentación suele elegirse cercano al del habla conversacional cotidiana y se registra.",
+    "Sea cual sea la elección, en el seguimiento debe repetirse la misma prueba en las mismas condiciones."
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Materiales y aplicación",
+   "baslik": "Aplicar una prueba de *conjunto cerrado*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Presentar",
+     "metin": "Nombrar juntos las imágenes",
+     "cumle": 0
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Filtrar",
+     "metin": "Quitar palabras desconocidas",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Emitir",
+     "metin": "Solo por audición",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Responder",
+     "metin": "El niño señala",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Puntuar",
+     "metin": "Comparar con el azar",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En una prueba de conjunto cerrado, primero se le presentan al niño las imágenes o los juguetes y se nombran juntos.",
+    "Las palabras que el niño no conoce se dejan fuera de la prueba; el objetivo es medir la audición, no el vocabulario.",
+    "Las palabras se presentan solo por vía auditiva; el niño no debe ver los labios de quien habla.",
+    "El niño señala la imagen o el objeto de la palabra oída; se le elogia sin mostrar si la respuesta fue correcta o incorrecta.",
+    "El resultado se calcula como porcentaje y se compara con el nivel de azar de la prueba.",
+    "La posición de las imágenes se cambia en cada ensayo, para que el niño no memorice su ubicación."
+   ]
+  },
+  {
+   "id": "dikkat",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Materiales y aplicación",
+   "baslik": "Lo que puede *alterar* el resultado",
+   "maddeler": [
+    {
+     "metin": "_Lectura labial_: cubrir la boca",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Errores de _articulación_ no son de percepción",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Cansancio y _pérdida de interés_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Verificar que el _dispositivo_ funcione",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Con un niño con trastorno del habla, usa una prueba de imágenes de conjunto cerrado en lugar de una de conjunto abierto, o anota las respuestas y puntúa con cuidado.",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Si el niño ve la cara de quien habla, la lectura labial eleva el puntaje; por eso se cubre la boca o se usa presentación grabada.",
+    "En las pruebas de conjunto abierto, los errores de habla del propio niño no deben confundirse con errores de percepción.",
+    "Por ejemplo, un niño que no puede pronunciar la erre no está oyendo mal la palabra por ese error.",
+    "Las listas largas producen cansancio y pérdida de interés en los niños pequeños; si es necesario, se usan listas más cortas.",
+    "En un niño que usa audífono o implante, el dispositivo se verifica con los sonidos de Ling antes de la prueba.",
+    "Si estos factores no se registran, la comparación con la siguiente prueba será engañosa."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento e informe",
+   "baslik": "*Seguimiento* en el tiempo",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 24,
+     "ad": "Meses de uso del dispositivo",
+     "isaretler": [
+      0,
+      6,
+      12,
+      18,
+      24
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 4.5,
+     "adim": 1,
+     "ad": "Categoría ESP",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    "seriler": [
+     {
+      "ad": "kategori",
+      "noktalar": [
+       [
+        0,
+        1
+       ],
+       [
+        6,
+        2
+       ],
+       [
+        12,
+        3
+       ],
+       [
+        18,
+        4
+       ],
+       [
+        24,
+        4
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kalin": true,
+      "etiket": "niño de ejemplo",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "acik_set_gecis",
+      "x": 18,
+      "y": 4,
+      "etiket": "paso a conjunto abierto",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Misma prueba, _mismas condiciones_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Sin progreso: revisar _con el equipo_",
+     "cumle": 5,
+     "ikon": "odyolog"
+    }
+   ],
+   "cumleler": [
+    "Las pruebas de percepción del habla son especialmente valiosas para seguir los cambios a lo largo del tiempo.",
+    "El gráfico muestra cómo cambia con los meses la categoría ESP de un niño de ejemplo que empieza a usar un dispositivo.",
+    "Al principio el niño solo detecta el sonido; hacia el sexto mes ya aparece la percepción del patrón.",
+    "A los doce meses el niño identifica algunas palabras, y a los dieciocho meses las identifica de forma constante.",
+    "En este punto, el niño puede estar listo para pasar a las pruebas de conjunto abierto.",
+    "Si no se observa el progreso esperado, se revisan de nuevo con el equipo los ajustes del dispositivo, las horas de uso y el plan de terapia."
+   ]
+  },
+  {
+   "id": "anket",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento e informe",
+   "baslik": "*Cuestionarios* para niños muy pequeños",
+   "maddeler": [
+    {
+     "metin": "_Cuestionarios_ basados en la observación parental",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "_Reacciones al sonido_ en la vida diaria",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Complementan_ las pruebas, no las reemplazan",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Muestran el _cambio_ en el seguimiento",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "En casa",
+      "metin": "Observación de los padres",
+      "cumle": 0
+     },
+     {
+      "ikon": "odyolog",
+      "baslik": "En la clínica",
+      "metin": "Resultado de la prueba",
+      "cumle": 3
+     }
+    ],
+    "ust": "DOS FUENTES"
+   },
+   "cumleler": [
+    "Para niños demasiado pequeños incluso para un conjunto cerrado, se usan cuestionarios de desarrollo auditivo basados en la observación de los padres.",
+    "Estos cuestionarios preguntan si el niño se gira cuando lo llaman por su nombre y cómo reacciona a los sonidos cotidianos.",
+    "Las observaciones de los padres en casa aportan información que una prueba breve en la clínica no puede mostrar.",
+    "Los cuestionarios no reemplazan las pruebas conductuales y objetivas; las complementan.",
+    "Si se repiten antes y después de la adaptación del dispositivo, son útiles para mostrar el cambio en el desarrollo auditivo."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento e informe",
+   "baslik": "¿*Qué* debe incluir el informe?",
+   "maddeler": [
+    {
+     "metin": "Nombre de la prueba y _tipo de conjunto_",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Número de opciones y _nivel de azar_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Presentación: _grabada_ o viva voz, nivel",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Con o _sin_ dispositivo",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "_Comparación_ con resultados anteriores",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "El informe indica el nombre de la prueba usada y si fue de conjunto cerrado o de conjunto abierto.",
+    "En las pruebas de conjunto cerrado, también se anotan el número de opciones y el nivel de azar.",
+    "Se registra si la presentación fue grabada o a viva voz, el nivel de presentación y si fue solo auditiva.",
+    "Se indica claramente si la prueba se hizo con o sin dispositivo, y con qué oído.",
+    "El resultado se compara con evaluaciones anteriores hechas en las mismas condiciones.",
+    "Sin esta información, otro centro no puede interpretar correctamente el resultado."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de evaluar, asegúrate de que el niño conozca las palabras. No encontrar una palabra desconocida es un problema de lenguaje, no de audición.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: antes de empezar una prueba de conjunto cerrado, nombra cada imagen junto con el niño.",
+    "Que un niño no encuentre una palabra desconocida tiene que ver con el vocabulario, no con la audición.",
+    "Por eso, quita de la prueba las imágenes que el niño no reconoce y anótalo en el informe.",
+    "Así, el puntaje refleja la percepción auditiva del niño y no su nivel de lenguaje."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Conjunto cerrado: opciones, _nivel de azar_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Conjunto abierto: _repetición_, más difícil",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "ESP: conjunto cerrado, _cuatro categorías_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Material según el _nivel de lenguaje_",
+     "cumle": 3,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "En las pruebas de conjunto cerrado, el niño señala entre opciones; el puntaje se interpreta junto con el nivel de azar.",
+    "En las pruebas de conjunto abierto, el niño repite lo que oyó; este método se acerca más a la escucha cotidiana.",
+    "La prueba de Percepción Temprana del Habla es de conjunto cerrado, se aplica con imágenes o juguetes y resume el resultado en cuatro categorías.",
+    "El material debe adecuarse al nivel de lenguaje y al modo de respuesta del niño, y repetirse en las mismas condiciones en el seguimiento."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cuál es el nivel de azar con cuatro opciones?",
+   "secenekler": [
+    "10 %",
+    "25 %",
+    "50 %"
+   ],
+   "dogru": 1,
+   "aciklama": "Con cuatro opciones, un niño puede acertar alrededor de _una de cada cuatro_ respuestas sin oír nada.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en una prueba de conjunto cerrado en la que se señala una de cuatro imágenes, ¿cuál es el nivel de azar?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: el veinticinco por ciento.",
+    "Por eso, un puntaje cercano al nivel de azar no demuestra que el niño reconozca realmente las palabras."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "La batería de pruebas *objetivas* en bebés y niños",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la batería de pruebas objetivas: timpanometría, otoemisiones acústicas, PEATC y potenciales de estado estable.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

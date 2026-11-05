@@ -1,0 +1,106 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R305_No_Response_Is_Not_Proof_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #305",
+  "baslik": "Con audífono: *m, g, t*",
+  "alt": "Evaluación cortical con audífono",
+  "cizim": "konusma_muzu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Sin respuesta cortical con el audífono: ¿el bebé no oye? #shorts",
+  "aciklama": "En la evaluación cortical con audífono, el bebé usa su audífono o implante mientras se presentan sonidos breves del habla, como m, g y t, a niveles de habla suave, media y fuerte. Una respuesta es una prueba sólida de que el sonido llegó a la corteza, pero la ausencia de respuesta no demuestra que el sonido no se haya oído: incluso algunos bebés con audición normal no responden a los sonidos suaves.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "potencialesevocados",
+   "audifonos"
+  ],
+  "etiketler": [
+   "potenciales corticales con audífono",
+   "PEAC",
+   "respuesta cortical",
+   "verificación del audífono",
+   "implante coclear",
+   "audiología pediátrica",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Sin respuesta cortical con el audífono: ¿el bebé no oye?",
+  "bilgiler": [
+   "Se evalúa al bebé con su audífono o implante puesto.",
+   "Una respuesta es una prueba sólida de que el sonido llegó a la corteza.",
+   "La ausencia de respuesta no demuestra que no haya oído."
+  ],
+  "hashtag": [
+   "audiologia",
+   "potencialesevocados",
+   "audifonos"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #305",
+   "metin": "Sin respuesta, *¿no oye?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Sin respuesta cortical con el audífono: ¿el bebé no oye?"
+   ]
+  },
+  {
+   "id": "sesler",
+   "tur": "zincir",
+   "baslik": "Tres sonidos, *tres regiones*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "m",
+     "tr": "graves",
+     "cumle": 1
+    },
+    {
+     "ad": "g",
+     "tr": "medios",
+     "cumle": 1,
+     "gecikme": 0.8
+    },
+    {
+     "ad": "t",
+     "tr": "agudos",
+     "cumle": 1,
+     "gecikme": 1.6
+    }
+   ],
+   "alt": "La ausencia _no es prueba_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "En la evaluación cortical con audífono, el bebé usa su audífono o implante.",
+    "Una m breve cubre las frecuencias graves, la g las medias y la t las agudas.",
+    "Una respuesta cortical muestra que el sonido llegó a la corteza a través del dispositivo.",
+    "Pero la ausencia de respuesta no demuestra que el sonido no se haya oído.",
+    "Incluso algunos bebés con audición normal no responden a los sonidos suaves."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D201",
+ "kaynak_baslik": "Potenciales evocados auditivos corticales: P1-N1-P2"
+}

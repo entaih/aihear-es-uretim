@@ -1,0 +1,633 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D117_Reading_A_Research_Paper_ES",
+ "kapak": {
+  "ust": "LECCIÓN 117",
+  "baslik": "Cómo leer<br>*un artículo*",
+  "alt": "Introducción a la literatura audiológica",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0.5,
+    "max": 5.5,
+    "adim": 1,
+    "yazilar": {
+     "1": "1",
+     "2": "2",
+     "3": "3",
+     "4": "4",
+     "5": "5",
+     "1": "1",
+     "2": "2",
+     "3": "3",
+     "4": "4",
+     "5": "5"
+    },
+    "ad": "Nivel de evidencia"
+   },
+   "y": {
+    "min": 0,
+    "max": 5,
+    "adim": 1,
+    "ad": "Fuerza"
+   },
+   "seriler": [
+    {
+     "ad": "guc",
+     "tur": "cubuk",
+     "noktalar": [
+      [
+       1,
+       5
+      ],
+      [
+       2,
+       4
+      ],
+      [
+       3,
+       3
+      ],
+      [
+       4,
+       2
+      ],
+      [
+       5,
+       1
+      ]
+     ],
+     "renk": "mavi"
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Cómo leer un artículo científico de audiología | Lección 117 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo encontramos, leemos y evaluamos un artículo de audiología? En esta lección vemos la práctica basada en la evidencia, la formulación de una pregunta clínica con PICO, la búsqueda en PubMed y otras bases de datos, la estructura IMRyD, las preguntas que hay que hacerle a la sección de métodos y los niveles de evidencia.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Oxford Centre for Evidence-Based Medicine, Levels of Evidence (2011); ASHA, Evidence-Based Practice; Sackett et al., Evidence based medicine: what it is and what it isn't (BMJ, 1996); Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "practicabasadaenlaevidencia",
+   "investigacion"
+  ],
+  "etiketler": [
+   "artículo científico",
+   "práctica basada en la evidencia",
+   "PICO",
+   "PubMed",
+   "MeSH",
+   "IMRyD",
+   "nivel de evidencia",
+   "ensayo controlado aleatorizado",
+   "revisión sistemática",
+   "lectura crítica",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 117",
+   "baslik": "Cómo leer un *artículo* científico",
+   "alt": "Introducción a la literatura audiológica",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "Con esta lección comenzamos la sección de investigación y estadística, y veremos cómo leer un artículo de la literatura audiológica.",
+    "Paso a paso, formularemos una pregunta clínica, buscaremos en bases de datos y veremos las partes de un artículo y el nivel de evidencia."
+   ]
+  },
+  {
+   "id": "kdu",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué leemos?",
+   "baslik": "Práctica basada en la *evidencia*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Evidencia científica",
+     "metin": "Estudios actuales y confiables",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Experiencia clínica",
+     "metin": "Saber y destreza del audiólogo",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Preferencia del paciente",
+     "metin": "Valores y metas de la persona",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La práctica basada en la evidencia consiste en tomar decisiones clínicas combinando tres fuentes.",
+    "La primera es la mejor y más actual evidencia científica sobre la pregunta.",
+    "La segunda es la propia experiencia y destreza clínica del audiólogo.",
+    "La tercera son los valores, las preferencias y las metas del paciente en su vida diaria.",
+    "Si falta una de las tres, la decisión se apoya solo en la costumbre o solo en un único artículo.",
+    "Aprender a leer artículos significa construir sobre bases sólidas el primer pilar de esta tríada.",
+    "En audiología, las pruebas, las funciones de los equipos y los métodos de rehabilitación cambian rápido; esta habilidad se necesita toda la carrera."
+   ]
+  },
+  {
+   "id": "pico",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué leemos?",
+   "baslik": "La pregunta clínica: *PICO*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "P: ¿Quién?",
+     "metin": "Paciente o población",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "I: ¿Qué?",
+     "metin": "Intervención o prueba",
+     "cumle": 2
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "C: ¿Frente a qué?",
+     "metin": "Comparación",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "O: ¿Resultado?",
+     "metin": "Desenlace medido (outcome)",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Una buena lectura empieza con una buena pregunta; para estructurar la pregunta clínica se usa una plantilla de cuatro partes llamada PICO.",
+    "La P define al paciente o la población: por ejemplo, adultos mayores con pérdida auditiva leve a moderada.",
+    "La letra i es la intervención o la prueba que se estudia: por ejemplo, la adaptación de audífonos.",
+    "La C es la comparación: por ejemplo, no usar audífonos, u otro método.",
+    "La O es el desenlace medido, del inglés outcome: por ejemplo, el cambio en las puntuaciones cognitivas a lo largo de tres años.",
+    "Una vez escrita así la pregunta, las palabras clave para la búsqueda surgen de forma natural."
+   ]
+  },
+  {
+   "id": "veritabani",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Búsqueda bibliográfica",
+   "baslik": "¿Dónde *buscamos?*",
+   "ogeler": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "PubMed",
+     "metin": "MEDLINE y acceso gratuito",
+     "cumle": 0
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Scopus, WoS",
+     "metin": "Amplias bases de citas",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Cochrane",
+     "metin": "Revisiones sistemáticas",
+     "cumle": 3
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Google Scholar",
+     "metin": "Amplio pero sin filtrar",
+     "cumle": 4
+    },
+    {
+     "ikon": "okul",
+     "baslik": "TR Dizin",
+     "metin": "Revistas turcas, DergiPark",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La fuente más usada en medicina y ciencias de la salud es PubMed, el buscador gratuito de la Biblioteca Nacional de Medicina de Estados Unidos.",
+    "PubMed incluye la base de datos MEDLINE y reúne más de cuarenta millones de registros.",
+    "Las bases de citas como Scopus y Web of Science también permiten ver quién citó después un artículo.",
+    "La Biblioteca Cochrane reúne revisiones sistemáticas de alta calidad que responden preguntas específicas.",
+    "Google Scholar busca de forma muy amplia, pero también incluye fuentes sin revisión por pares, así que los resultados deben filtrarse con cuidado.",
+    {
+     "yazi": "Para publicaciones en turco, son fuentes valiosas la base TR Dizin de TÜBİTAK ULAKBİM, DergiPark y el centro nacional de tesis de Turquía.",
+     "ses": "Para publicaciones en turco, son fuentes valiosas la base te erre dizin de TÜBİTAK ULAKBİM, dergipark y el centro nacional de tesis de Turquía."
+    },
+    "Una sola base de datos no siempre basta; para una pregunta importante se busca en varias fuentes."
+   ]
+  },
+  {
+   "id": "arama",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Búsqueda bibliográfica",
+   "baslik": "Pasos de *búsqueda* en PubMed",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Palabras clave",
+     "metin": "Derivadas de PICO",
+     "cumle": 0
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Término MeSH",
+     "metin": "Vocabulario controlado",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Operadores",
+     "metin": "AND, OR, NOT",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Filtros",
+     "metin": "Año, tipo de artículo",
+     "cumle": 4
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Revisar resúmenes",
+     "metin": "Elegir los pertinentes",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Primero se eligen palabras clave para cada parte de la pregunta PICO: por ejemplo, audífonos, adultos mayores y deterioro cognitivo.",
+    "PubMed tiene un vocabulario controlado llamado MeSH, que agrupa bajo un solo término las distintas formas de nombrar un mismo concepto.",
+    {
+     "yazi": "Las palabras se combinan con los operadores booleanos AND, OR y NOT.",
+     "ses": "Las palabras se combinan con los operadores booleanos and, or y not."
+    },
+    {
+     "yazi": "AND restringe la búsqueda, OR la amplía al sumar sinónimos y NOT excluye un tema no deseado.",
+     "ses": "And restringe la búsqueda, or la amplía al sumar sinónimos y not excluye un tema no deseado."
+    },
+    "Luego, filtros como el año de publicación, el tipo de estudio o el idioma reducen los resultados a un número manejable.",
+    "En el último paso se revisan títulos y resúmenes, y se pasa al texto completo de los artículos que realmente responden la pregunta.",
+    "Anotar la cadena de búsqueda utilizada permite repetir la búsqueda de la misma forma más adelante."
+   ]
+  },
+  {
+   "id": "imrad",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "La estructura de un artículo",
+   "baslik": "El esqueleto de un artículo: *IMRyD*",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Introducción",
+     "metin": "¿Por qué y qué pregunta?",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Métodos",
+     "metin": "¿Cómo se hizo?",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Resultados",
+     "metin": "¿Qué se encontró?",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Discusión",
+     "metin": "¿Qué significa?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La mayoría de los artículos originales siguen el mismo esqueleto: introducción, métodos, resultados y discusión, o IMRyD.",
+    "La introducción explica por qué importa el tema, qué se sabe ya, y cuál es la pregunta o la hipótesis del estudio.",
+    "La sección de métodos detalla los participantes, las pruebas y equipos utilizados, el procedimiento y el análisis estadístico.",
+    "La sección de resultados presenta los hallazgos sin interpretarlos, con tablas y gráficos.",
+    "La discusión compara los hallazgos con estudios anteriores, señala las limitaciones y analiza el significado clínico.",
+    "Estas secciones van precedidas de un resumen y seguidas de las referencias, los conflictos de intereses y la información sobre financiamiento.",
+    "Saber qué función cumple cada sección indica en qué parte del artículo buscar la información que necesitan."
+   ]
+  },
+  {
+   "id": "okuma",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "La estructura de un artículo",
+   "baslik": "¿En qué orden *leemos?*",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Resumen",
+     "metin": "Tema y hallazgo principal",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Tablas y figuras",
+     "metin": "Aquí están los datos reales",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Métodos",
+     "metin": "¿Es confiable?",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Discusión",
+     "metin": "La interpretación de los autores",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los lectores con experiencia no leen de corrido; primero revisan el resumen y deciden si el artículo se ajusta a su pregunta.",
+    "Después examinan las tablas y las figuras, porque allí suele estar el núcleo de los hallazgos.",
+    "Luego se leen con atención los métodos; de ellos depende qué tan confiables son los hallazgos.",
+    "Si los métodos tienen un problema serio, los resultados se toman con cautela, por llamativos que sean.",
+    "La discusión se lee al final; la interpretación de los autores no siempre coincide con lo que realmente muestran los datos.",
+    "A veces las frases del resumen hacen que los hallazgos parezcan más sólidos de lo que son; las decisiones deben basarse en el texto completo."
+   ]
+  },
+  {
+   "id": "yontem",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "La estructura de un artículo",
+   "baslik": "Preguntas que *hacerle* a los métodos",
+   "maddeler": [
+    {
+     "metin": "¿Quiénes y cuántos son los participantes?",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "¿Hay un grupo control?",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "¿Se asignaron los grupos al azar?",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "¿El evaluador conoce el grupo?",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "¿Cuántos se perdieron en el seguimiento?",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Asignación aleatoria",
+      "metin": "Equilibra los grupos",
+      "cumle": 2
+     },
+     {
+      "ikon": "goz",
+      "baslik": "Cegamiento",
+      "metin": "Reduce el sesgo",
+      "cumle": 3
+     }
+    ],
+    "ust": "DOS RESGUARDOS"
+   },
+   "cumleler": [
+    "La primera pregunta al leer los métodos: ¿quiénes son los participantes, cuántos son y qué tanto se parecen a sus pacientes?",
+    "La segunda es si hay un grupo control con el que se comparan los resultados.",
+    "La tercera es si los participantes se asignaron a los grupos al azar; esto reduce las diferencias ocultas entre grupos.",
+    "La cuarta es el cegamiento: si quien mide el desenlace no sabe a qué grupo pertenece cada participante, se reduce el sesgo.",
+    "La quinta es cuántos participantes no completaron el estudio, y por qué.",
+    "Por último, verifiquen si las medidas, como la prueba de habla utilizada, son válidas para ese idioma y esa población."
+   ]
+  },
+  {
+   "id": "duzey",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Sopesar la evidencia",
+   "baslik": "*Niveles de evidencia* en preguntas de tratamiento",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Nivel 1",
+     "metin": "Revisión sistemática de ECA",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Nivel 2",
+     "metin": "Ensayo controlado aleatorizado",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Nivel 3",
+     "metin": "Cohorte controlada, seguimiento",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Nivel 4",
+     "metin": "Series de casos, casos y controles",
+     "cumle": 4
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Nivel 5",
+     "metin": "Razonamiento basado en mecanismos",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "No todos los tipos de estudio ofrecen evidencia de la misma solidez; para mostrar esta diferencia se usan escalas de nivel de evidencia.",
+    {
+     "yazi": "En la escala de Oxford de 2011 para la medicina basada en la evidencia, las revisiones sistemáticas de ensayos aleatorizados son el nivel más alto para tratamiento."
+    },
+    "En el segundo nivel está un único ensayo controlado aleatorizado, o ECA.",
+    "En el tercer nivel están los estudios de cohorte controlados o de seguimiento no aleatorizados.",
+    "El cuarto nivel incluye las series de casos, los estudios de casos y controles y los estudios con controles históricos.",
+    "El quinto nivel es el razonamiento basado en mecanismos, es decir, las inferencias que se extraen de la fisiología.",
+    "La escala es una guía inicial; un ensayo aleatorizado mal realizado puede ser más débil que un estudio de cohorte bien hecho."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Sopesar la evidencia",
+   "baslik": "Ejemplo: *dos* tipos de estudio",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Seguimiento observacional",
+     "metin": "Muestra asociación, no causa",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Ensayo aleatorizado",
+     "metin": "Pone a prueba la pregunta causal",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Un ejemplo claro de esta diferencia es la relación entre la pérdida auditiva y la demencia, que veremos en detalle más adelante.",
+    "Los estudios de seguimiento a largo plazo mostraron que el riesgo de demencia aumenta a medida que aumenta la pérdida auditiva.",
+    "Pero un estudio observacional por sí solo no puede mostrar si una asociación es causal.",
+    {
+     "yazi": "Para poner a prueba esta pregunta se realizó el estudio ACHIEVE, en el que los participantes fueron asignados al azar a los grupos."
+    },
+    "En su desenlace principal, con todos los participantes analizados juntos, no se encontró una diferencia significativa entre los dos grupos.",
+    "Se observó un posible beneficio en un subgrupo de mayor riesgo; este hallazgo debe confirmarse con nuevos estudios.",
+    "Así, dos tipos de estudio distintos responden la misma pregunta con distinta solidez; la tarea del lector es ver esa diferencia."
+   ]
+  },
+  {
+   "id": "dergi",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Sopesar la evidencia",
+   "baslik": "Confiabilidad de la revista y la *publicación*",
+   "maddeler": [
+    {
+     "metin": "¿La revista tiene revisión por pares?",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "¿Indexada en una base reconocida?",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "El factor de impacto no lo es todo",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cuidado con las revistas depredadoras",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Leer la declaración de conflicto de intereses",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Un artículo confiable pasa por la evaluación de expertos independientes; esto se llama revisión por pares.",
+    "Que la revista esté indexada en bases reconocidas como MEDLINE, Scopus o Web of Science es una señal básica de calidad.",
+    "El factor de impacto de una revista muestra el promedio de citas de sus artículos, pero no mide la calidad de un artículo concreto.",
+    "Cuidado con las revistas depredadoras, que publican a cambio de un pago sin un verdadero proceso de revisión por pares.",
+    "También hay que leer quién financió el estudio y las declaraciones de conflicto de intereses de los autores.",
+    "Un estudio apoyado por un fabricante de equipos o de pruebas no es inválido, pero sus hallazgos deben compararse con estudios independientes."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Al leer un artículo, anoten tres preguntas: ¿los resultados son confiables?, ¿qué tan grande es el efecto? y ¿se aplica a mi paciente?",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la clínica: lleven una ficha breve por cada artículo que lean.",
+    "En la ficha, respondan tres preguntas: ¿los hallazgos son confiables?, ¿qué tan grande es el efecto? y ¿se aplica a mis pacientes?",
+    "Este hábito les ahorra mucho tiempo cuando busquen el mismo tema meses después.",
+    "Organizar clubes de revista periódicos dentro del equipo también desarrolla rápidamente la lectura crítica."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Evidencia, experiencia y paciente, _juntos_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Preguntar con PICO, buscar en PubMed",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "IMRyD: introducción, métodos, resultados, discusión",
+     "cumle": 2,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Nivel de evidencia y calidad del _método_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "La práctica basada en la evidencia combina la evidencia científica con la experiencia clínica y las preferencias del paciente.",
+    "La plantilla PICO precisa la pregunta clínica; en PubMed se busca con palabras clave, términos MeSH y operadores.",
+    "Los artículos siguen el esqueleto de introducción, métodos, resultados y discusión; la lectura empieza por el resumen, las tablas y los métodos.",
+    "Los niveles de evidencia ordenan los tipos de estudio, pero lo que realmente decide es la calidad de los métodos."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Máximo nivel de evidencia en una pregunta de tratamiento?",
+   "secenekler": [
+    "Opinión de expertos",
+    "Serie de casos",
+    "Un solo estudio de cohorte",
+    "Revisión sistemática de ECA"
+   ],
+   "dogru": 3,
+   "aciklama": "En la cima está la revisión sistemática de varios ensayos _controlados aleatorizados_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en una pregunta sobre el efecto de un tratamiento, ¿cuál es el nivel de evidencia más alto?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la D: una revisión sistemática de ensayos controlados aleatorizados.",
+    "La asignación aleatoria reduce el sesgo, y combinar sistemáticamente varios estudios reduce el papel del azar en un solo estudio."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Bioestadística básica: *media*, DE y curva normal",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos los conceptos básicos de la bioestadística, para poder leer la sección de resultados de un artículo.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

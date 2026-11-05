@@ -1,0 +1,92 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R275_An_Aids_Own_Hiss_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #275",
+  "baslik": "El *siseo propio* del audífono",
+  "alt": "Ruido equivalente de entrada",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "BTE"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Un audífono hace ruido aunque no le llegue ningún sonido? #shorts",
+  "aciklama": "Todo audífono produce un poco de ruido en su micrófono y sus circuitos, incluso sin señal de entrada; el ruido equivalente de entrada expresa este ruido interno como si fuera un sonido externo en la entrada. Las personas con audición casi normal en las frecuencias graves pueden oírlo como un siseo, sobre todo en silencio y con adaptaciones abiertas.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audifonos",
+   "electroacustica"
+  ],
+  "etiketler": [
+   "ruido equivalente de entrada",
+   "análisis electroacústico",
+   "caja de pruebas",
+   "ANSI S3.22",
+   "adaptación abierta",
+   "audífono",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Un audífono hace ruido aunque no le llegue ningún sonido?",
+  "bilgiler": [
+   "Todo audífono produce algo de ruido, incluso sin entrada.",
+   "Cálculo: al ruido medido sin entrada se le resta la ganancia.",
+   "En silencio y con adaptación abierta, puede oírse como un siseo."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "electroacustica"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #275",
+   "metin": "¿Un siseo *en silencio?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Un audífono hace ruido aunque no le llegue ningún sonido?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Ejemplo de ruido *equivalente de entrada*",
+   "sayi": "20",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Todo audífono produce un poco de ruido en su micrófono y sus circuitos.",
+    "El ruido equivalente de entrada expresa ese ruido interno como un sonido externo.",
+    "Al ruido medido sin señal de entrada se le resta la ganancia del audífono.",
+    {
+     "yazi": "Ruido de salida de 58 y ganancia de 38 dB: el resultado es 20 dB SPL."
+    },
+    "Quien tiene graves casi normales puede oír un siseo, sobre todo en silencio y con adaptación abierta."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D180",
+ "kaynak_baslik": "Electroacústica: ganancia, salida máxima y respuesta"
+}

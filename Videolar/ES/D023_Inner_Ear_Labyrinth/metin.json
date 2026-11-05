@@ -1,0 +1,876 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D023_Inner_Ear_Labyrinth_ES",
+ "kapak": {
+  "ust": "LECCIÓN 23",
+  "baslik": "Laberinto óseo<br>y *membranoso*",
+  "alt": "Estructura y líquidos del oído interno",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "El oído interno: laberinto óseo y membranoso | Lección 23 | AIHEAR Academia de Audiología",
+  "aciklama": "El oído interno está formado por dos laberintos, uno dentro del otro. En esta lección vemos las partes del laberinto óseo, las dos ventanas y los sacos y conductos del laberinto membranoso. También vemos la diferencia entre la perilinfa y la endolinfa y cómo se manifiesta el hidrops endolinfático en el audiograma.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Gray's Anatomy; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Pickles, An Introduction to the Physiology of Hearing; Zemlin, Speech and Hearing Science: Anatomy and Physiology; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "anatomia",
+   "oidointerno"
+  ],
+  "etiketler": [
+   "oído interno",
+   "laberinto óseo",
+   "laberinto membranoso",
+   "labyrinthus osseus",
+   "endolinfa",
+   "perilinfa",
+   "hidrops endolinfático",
+   "acueducto vestibular",
+   "tercera ventana",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 23",
+   "baslik": "El oído interno: el *laberinto*",
+   "alt": "Laberinto óseo, laberinto membranoso y dos líquidos",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección estudiaremos la estructura básica del oído interno: dos laberintos, uno dentro del otro.",
+    "Veremos las partes del laberinto óseo, el laberinto membranoso y los dos líquidos distintos que contienen."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Visión general",
+   "baslik": "¿Dónde está el *oído interno?*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "Cóclea",
+     "cumle": 2
+    },
+    {
+     "parca": "vestibul",
+     "metin": "Vestíbulo",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Canales semicirculares",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "VIII par craneal",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Porción _petrosa_ del hueso temporal",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Tamaño adulto_ al nacer",
+     "cumle": 5,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "El oído interno se encuentra en lo profundo de la porción petrosa, la parte más dura del hueso temporal.",
+    "Por su estructura compleja y sinuosa, se le llama laberinto.",
+    "La cóclea está adelante, el vestíbulo en el centro y los tres canales semicirculares atrás.",
+    "La cóclea se encarga de la audición, mientras que el vestíbulo y los canales se encargan del equilibrio.",
+    "La cóclea tiene el tamaño de un garbanzo; todo el laberinto es tan pequeño que cabe en la yema de un dedo.",
+    "El oído interno ya tiene tamaño adulto al nacer; el laberinto no cambia de tamaño a medida que crece el cráneo.",
+    "Las fibras nerviosas que salen del laberinto forman el octavo par craneal, que se dirige al tronco cerebral."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 1,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ]
+  },
+  {
+   "id": "iki_labirent",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Visión general",
+   "baslik": "Dos laberintos, *uno dentro del otro*",
+   "maddeler": [
+    {
+     "metin": "Por fuera: el _laberinto óseo_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Por dentro: el _laberinto membranoso_",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Entre ambos: la _perilinfa_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Dentro del laberinto membranoso: la _endolinfa_",
+     "cumle": 3,
+     "ikon": "akinti"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_kesit",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "scala_media",
+      "metin": "Laberinto membranoso: endolinfa",
+      "cumle": 1
+     },
+     {
+      "parca": "perilenf",
+      "metin": "Perilinfa",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "perilenf",
+      "cumle": 2
+     },
+     {
+      "parca": "endolenf",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "El oído interno tiene dos capas; la cubierta ósea externa se llama laberinto óseo (labyrinthus osseus)."
+    },
+    {
+     "yazi": "Dentro del laberinto óseo, siguiendo su forma, se encuentra el laberinto membranoso (labyrinthus membranaceus)."
+    },
+    "El espacio entre el laberinto óseo y el membranoso contiene un líquido llamado perilinfa.",
+    "El interior del laberinto membranoso está lleno de otro líquido, llamado endolinfa.",
+    "El laberinto membranoso parece flotar en la perilinfa y está fijado a la pared ósea por finas fibras de tejido conectivo.",
+    "A modo de analogía, el laberinto óseo es un estuche y el laberinto membranoso, una manguera llena de líquido dentro de él."
+   ]
+  },
+  {
+   "id": "kemik_bolumler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El laberinto óseo",
+   "baslik": "Partes del *laberinto óseo*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "vestibul",
+     "cumle": 1
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 3
+    },
+    {
+     "parca": "koklea",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "vestibul",
+     "metin": "Vestíbulo",
+     "cumle": 1
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "Platina del estribo: ventana oval",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Tres canales semicirculares",
+     "cumle": 3
+    },
+    {
+     "parca": "koklea",
+     "metin": "Cóclea",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El laberinto óseo tiene tres partes: el vestíbulo, los canales semicirculares y la cóclea.",
+    "El vestíbulo es la pequeña cámara del centro del laberinto; en su pared lateral se encuentra la ventana oval.",
+    "Como la platina del estribo se aloja en esta ventana, las vibraciones sonoras entran al oído interno primero por el vestíbulo.",
+    "Detrás del vestíbulo están los tres canales semicirculares, dispuestos aproximadamente en ángulo recto entre sí.",
+    "Delante del vestíbulo está la cóclea, enrollada como un caracol; da entre dos vueltas y media y dos vueltas y tres cuartos.",
+    "Los canales se abren al vestíbulo por cinco orificios, porque el canal anterior y el posterior comparten un extremo, el pilar común.",
+    "La cápsula ótica, que forma la pared del laberinto óseo, es uno de los tejidos óseos más densos y duros del cuerpo."
+   ],
+   "notlar": [
+    {
+     "metin": "Los canales se abren por _cinco orificios_",
+     "cumle": 5,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Cápsula ótica: entre los huesos _más duros_",
+     "cumle": 6,
+     "ikon": "kulak"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 2,
+     "olcek": 2.6
+    },
+    {
+     "parca": "ic_kulak",
+     "cumle": 3,
+     "olcek": 2.0
+    }
+   ]
+  },
+  {
+   "id": "pencereler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El laberinto óseo",
+   "baslik": "Dos *ventanas*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "oval_pencere",
+     "metin": "Ventana oval: platina del estribo",
+     "cumle": 1
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Ventana redonda: membrana delgada",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "oval_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "El líquido es _incompresible_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Tercera ventana: _se escapa energía_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "El laberinto óseo tiene dos aberturas hacia el oído medio: la ventana oval y la ventana redonda.",
+    "La platina del estribo cierra la ventana oval, mientras que la ventana redonda está cubierta por una membrana delgada y flexible.",
+    "Los líquidos no se comprimen; por eso, cuando el estribo empuja la ventana oval hacia adentro, la ventana redonda se abomba hacia afuera.",
+    "Este movimiento recíproco de las dos ventanas permite que vibren los líquidos del oído interno y la membrana basilar.",
+    "Si se forma una tercera abertura en el laberinto óseo, parte de la energía sonora escapa por ella: es el efecto de tercera ventana.",
+    "Una dehiscencia del hueso sobre el canal semicircular superior es un ejemplo; puede dar hallazgos de aspecto conductivo en el audiograma."
+   ]
+  },
+  {
+   "id": "akuadukt",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "El laberinto óseo",
+   "baslik": "Dos conductos hacia la *cavidad craneal*",
+   "maddeler": [
+    {
+     "metin": "_Acueducto coclear_: perilinfa y LCR",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Acueducto vestibular_: conducto endolinfático",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "En su extremo: el _saco endolinfático_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Acueducto dilatado: _hipoacusia infantil_",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 1,
+    "ayar": {
+     "akuadukt": true,
+     "akuadukt_cumle": 1
+    },
+    "etiketler": [
+     {
+      "parca": "koklear_akuadukt",
+      "metin": "Acueducto coclear",
+      "cumle": 1
+     },
+     {
+      "parca": "endolenfatik_kanal",
+      "metin": "Conducto endolinfático",
+      "cumle": 2
+     },
+     {
+      "parca": "endolenfatik_kese",
+      "metin": "Saco endolinfático",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "koklear_akuadukt",
+      "cumle": 1
+     },
+     {
+      "parca": "vestibuler_akuadukt",
+      "cumle": 2
+     },
+     {
+      "parca": "endolenfatik_kanal",
+      "cumle": 2
+     },
+     {
+      "parca": "endolenfatik_kese",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Dos conductos delgados van desde el laberinto óseo hasta la cavidad craneal.",
+    "El acueducto coclear comunica la perilinfa cercana a la rampa timpánica con el líquido cefalorraquídeo (LCR) del cráneo.",
+    "El acueducto vestibular aloja el conducto endolinfático, una prolongación del laberinto membranoso.",
+    "Este conducto termina en el saco endolinfático, situado entre las capas de la duramadre en la cara posterior del hueso temporal.",
+    "El acueducto vestibular dilatado es una variante estructural frecuente del oído interno, asociada a hipoacusia neurosensorial en la infancia.",
+    "En estos niños la pérdida puede fluctuar y empeorar después de un traumatismo craneal."
+   ]
+  },
+  {
+   "id": "zar_bolumler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "El laberinto membranoso",
+   "baslik": "Partes del *laberinto membranoso*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "Utrículo",
+     "cumle": 1
+    },
+    {
+     "parca": "sakkul",
+     "metin": "Sáculo",
+     "cumle": 1
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Conductos semicirculares membranosos",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "metin": "Ampolla",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 1
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 1
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 3
+    },
+    {
+     "parca": "koklea",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "En la cóclea: el _conducto coclear_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Un único sistema _cerrado_",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "El laberinto membranoso está formado por sacos y conductos comunicados entre sí dentro del laberinto óseo.",
+    "Dentro del vestíbulo hay dos sacos: el utrículo y el sáculo.",
+    "Por dentro de los canales óseos corren los conductos semicirculares membranosos, más delgados.",
+    "Cada conducto tiene en un extremo una parte ensanchada, la ampolla, donde se encuentran los sensores del equilibrio.",
+    "Dentro de la cóclea está la parte auditiva del laberinto membranoso: el conducto coclear, o rampa media.",
+    "El sáculo se une al conducto coclear por un conducto fino, de modo que todo el laberinto membranoso forma un único sistema cerrado.",
+    "Veremos el utrículo, el sáculo y los canales en detalle en la lección sobre el laberinto vestibular."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ampulla",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ]
+  },
+  {
+   "id": "endolenf_yolu",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "El laberinto membranoso",
+   "baslik": "Cómo se *produce* la endolinfa",
+   "maddeler": [
+    {
+     "metin": "En la cóclea: _estría vascular_",
+     "cumle": 0,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "En el vestíbulo: _células oscuras_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Absorción: _saco endolinfático_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Si aumenta el volumen: _hidrops_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Se dilatan más: _conducto coclear_ y sáculo",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_kesit",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "stria_vaskularis",
+      "metin": "Estría vascular",
+      "cumle": 0
+     },
+     {
+      "parca": "reissner_membrani",
+      "metin": "Membrana de Reissner",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "stria_vaskularis",
+      "cumle": 0
+     },
+     {
+      "parca": "scala_media",
+      "cumle": 3
+     }
+    ],
+    "yakinlastir": [
+     {
+      "parca": "stria_vaskularis",
+      "cumle": 0,
+      "olcek": 1.8
+     },
+     {
+      "parca": "genel",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "En la cóclea, la endolinfa es producida por la estría vascular, en la pared externa de la rampa media.",
+    "En la parte vestibular, unas células especiales llamadas células oscuras cumplen una función similar.",
+    "Se cree que parte de la endolinfa se absorbe en el saco endolinfático.",
+    {
+     "yazi": "Si se pierde el equilibrio entre producción y absorción y la endolinfa aumenta, el laberinto membranoso se dilata: es el hidrops endolinfático."
+    },
+    "La enfermedad de Ménière es una enfermedad del oído interno asociada al hidrops endolinfático.",
+    "En el hidrops, las partes del laberinto membranoso que con más frecuencia se dilatan son el conducto coclear y el sáculo."
+   ]
+  },
+  {
+   "id": "sivilar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Dos líquidos",
+   "baslik": "Perilinfa y *endolinfa*",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Perilinfa _entre ambos_, endolinfa _dentro_",
+     "cumle": 1,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Perilinfa _sodio_, endolinfa _potasio_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Como el líquido extracelular e _intracelular_",
+     "cumle": 3,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Sangre, LCR; _células especializadas_",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Potencial: cerca de _+80 mV_",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "koklea_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "perilenf",
+      "cumle": 1
+     },
+     {
+      "parca": "endolenf",
+      "cumle": 1
+     },
+     {
+      "parca": "stria_vaskularis",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "perilenf",
+      "metin": "Perilinfa",
+      "cumle": 1
+     },
+     {
+      "parca": "endolenf",
+      "metin": "Endolinfa",
+      "cumle": 1
+     },
+     {
+      "parca": "stria_vaskularis",
+      "metin": "Estría vascular",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Los dos líquidos del oído interno tienen composiciones muy distintas.",
+    "La perilinfa está entre el laberinto óseo y el membranoso, mientras que la endolinfa está dentro del laberinto membranoso.",
+    "La perilinfa es rica en sodio y pobre en potasio; la endolinfa, al revés, es muy rica en potasio.",
+    "Así, la perilinfa se parece al líquido extracelular del cuerpo, y la endolinfa, al líquido intracelular.",
+    "Se cree que la perilinfa proviene de la sangre y del líquido cefalorraquídeo, y que la endolinfa la producen células especializadas.",
+    "La endolinfa de la cóclea tiene un potencial cercano a más ochenta milivoltios, llamado potencial endococlear."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Dos líquidos",
+   "baslik": "¿Por qué dos líquidos *distintos*?",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "Célula ciliada interna",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Células ciliadas externas",
+     "cumle": 1
+    },
+    {
+     "parca": "tektoryal_membran",
+     "metin": "Membrana tectoria",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ápice: _endolinfa_, potasio",
+     "cumle": 1,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Cuerpo: líquido tipo perilinfa",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Entrada de potasio: _excitación_",
+     "cumle": 2,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Los dos líquidos son distintos por la forma en que funcionan las células ciliadas.",
+    "Los estereocilios del ápice de las células ciliadas están en contacto con la endolinfa, y el cuerpo celular, con un líquido similar a la perilinfa.",
+    "Cuando la vibración sonora inclina los estereocilios, se abren canales en su extremo y el potasio entra en la célula.",
+    "El alto contenido de potasio y el potencial positivo de la endolinfa actúan como una batería que impulsa este flujo.",
+    "Gracias a esto, las células ciliadas responden incluso a vibraciones diminutas.",
+    "La mezcla de los dos líquidos altera este sistema; por eso la integridad del laberinto membranoso es vital para la audición y el equilibrio."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "stereosil",
+     "cumle": 2,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ]
+  },
+  {
+   "id": "hidrops",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Dos líquidos",
+   "baslik": "Ejemplo: el *hidrops* y el audiograma",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Vía aérea_: pérdida en graves",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Vía ósea enmascarada_: cercana a la aérea",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Frecuencias agudas: _casi normales_",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       45,
+       40,
+       30,
+       20,
+       15,
+       20
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       40,
+       40,
+       30,
+       20,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Veamos un ejemplo de cómo puede manifestarse el hidrops endolinfático en el audiograma.",
+    "En este ejemplo, el oído derecho muestra una pérdida clara en las frecuencias graves, con umbrales casi normales en las medias y agudas.",
+    "Los umbrales de vía ósea enmascarada son muy cercanos a los de vía aérea, de modo que la pérdida es neurosensorial.",
+    "En el hidrops inicial, la pérdida suele estar en las frecuencias graves y puede fluctuar con el tiempo.",
+    "Por eso es importante repetir el audiograma a lo largo del tiempo en estos pacientes.",
+    "Este ejemplo solo muestra la relación entre el equilibrio de los líquidos y el audiograma; la evaluación la hace un médico."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Dos líquidos",
+   "baslik": "Consejo clínico",
+   "metin": "Ante una pérdida fluctuante en graves, comparar siempre con audiogramas anteriores. Anotar también si la prueba se hizo en un período de más síntomas.",
+   "cumleler": [
+    "Un consejo de la práctica: en un paciente con pérdida en graves, revisen siempre los audiogramas anteriores.",
+    "Las pérdidas relacionadas con el equilibrio de los líquidos del oído interno pueden fluctuar; una sola medición no muestra el cuadro completo.",
+    "Anoten en el informe si la prueba se hizo en un período de más síntomas o en un período tranquilo.",
+    "Registrar las molestias asociadas, como la sensación de oído tapado y el tinnitus, también ayuda a la evaluación médica."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "_Laberinto óseo_: vestíbulo, canales, cóclea",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Laberinto membranoso_: sacos, conductos, conducto coclear",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Perilinfa _sodio_, endolinfa potasio",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Exceso de endolinfa: _hidrops_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "El laberinto óseo está formado por el vestíbulo, los tres canales semicirculares y la cóclea.",
+    "Por dentro corre el laberinto membranoso, un sistema cerrado de utrículo, sáculo, conductos membranosos y conducto coclear.",
+    "La perilinfa, rica en sodio, está entre ambos laberintos, y la endolinfa, rica en potasio, dentro del membranoso.",
+    "El aumento del volumen de endolinfa se llama hidrops endolinfático y se asocia a pérdidas fluctuantes en graves."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Qué líquido es rico en potasio y dónde se encuentra?",
+   "secenekler": [
+    "Perilinfa, dentro del laberinto membranoso",
+    "Endolinfa, dentro del laberinto membranoso",
+    "Perilinfa, entre hueso y membrana",
+    "Endolinfa, entre hueso y membrana"
+   ],
+   "dogru": 1,
+   "aciklama": "La _endolinfa_ está dentro del laberinto membranoso y es rica en potasio; la perilinfa es rica en sodio.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué líquido del oído interno es rico en potasio y dónde se encuentra?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: la endolinfa, dentro del laberinto membranoso."
+    },
+    "La perilinfa ocupa el espacio entre el laberinto óseo y el membranoso, y es rica en sodio."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Anatomía de la cóclea: las tres *rampas*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos de cerca la cóclea, la parte auditiva del oído interno, y estudiaremos sus tres rampas.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

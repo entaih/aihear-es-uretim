@@ -1,0 +1,707 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D114_Daily_Biological_Check_ES",
+ "kapak": {
+  "ust": "LECCIÓN 114",
+  "baslik": "Control<br>*biológico* diario",
+  "alt": "Una lista de cinco minutos cada mañana",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "El control biológico diario de escucha | Lección 114 | AIHEAR Academia de Audiología",
+  "aciklama": "El control biológico diario es una revisión visual y auditiva del audiómetro que se hace cada mañana antes del primer paciente. En esta lección recorremos paso a paso la revisión de cables, auriculares y vibrador óseo, la comparación con los propios umbrales, el control de diafonía, chasquidos y ruido, y el formulario de control diario.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: ISO 8253-1, Acoustics: Audiometric test methods, Part 1; ANSI/ASA S3.6, Specification for Audiometers; BSA, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audiometria",
+   "calibracion"
+  ],
+  "etiketler": [
+   "control biológico",
+   "control de escucha",
+   "control del audiómetro",
+   "diafonía",
+   "control diario de calibración",
+   "calibración",
+   "audiometría",
+   "calidad clínica",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 114",
+   "baslik": "El control *biológico* diario de escucha",
+   "alt": "Una lista de cinco minutos cada mañana",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprenderemos paso a paso el control biológico diario que se hace cada mañana antes del primer paciente.",
+    "Hablaremos de la revisión de cables, auriculares y vibrador, de la comparación con los propios umbrales y del control de diafonía y ruido."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Fundamentos",
+   "baslik": "¿Qué es un control *biológico?*",
+   "maddeler": [
+    {
+     "metin": "Un _control de escucha_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Detectar fallas _antes de evaluar pacientes_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Cada día, unos _5 minutos_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "_No reemplaza_ la calibración",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 1
+     },
+     {
+      "parca": "kemik_vibratoru",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Un control biológico es una revisión del audiómetro escuchándolo con los oídos de una persona con audición normal.",
+    "También se llama control de escucha, y no requiere instrumentos de medición.",
+    "El objetivo es detectar si el equipo presenta alguna falla por el uso diario antes de evaluar a los pacientes.",
+    "El control dura unos cinco minutos; se hace al inicio de cada día de evaluación y cada vez que se traslada el equipo.",
+    {
+     "yazi": "Como vimos en la lección anterior, este control corresponde a la etapa A de la ISO 8253-1, es decir, a los controles de rutina.",
+     "ses": "Como vimos en la lección anterior, este control corresponde a la etapa a de la iso ochenta y dos cincuenta y tres, parte uno, es decir, a los controles de rutina."
+    },
+    "El control biológico no reemplaza la calibración con mediciones, pero protege el período entre calibraciones."
+   ]
+  },
+  {
+   "id": "gozle",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Control visual",
+   "baslik": "Primero, un control *visual*",
+   "cizim": "test_kabini",
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    },
+    {
+     "parca": "odyometre",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 4
+    },
+    {
+     "parca": "kapi",
+     "cumle": 4
+    },
+    {
+     "parca": "havalandirma",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kulaklik",
+     "metin": "Cable y almohadilla",
+     "cumle": 1
+    },
+    {
+     "parca": "odyometre",
+     "metin": "Conector y canal",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "metin": "Pulsador de respuesta",
+     "cumle": 4
+    },
+    {
+     "parca": "havalandirma",
+     "metin": "¿Fuente de ruido?",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Cable, conector, almohadilla, diadema",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Derecho e izquierdo en su canal",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Pulsador, intercomunicador, puerta",
+     "cumle": 4,
+     "ikon": "hasta_butonu"
+    }
+   ],
+   "cumleler": [
+    "El control comienza con una revisión visual antes de encender el equipo.",
+    "Se revisan los cables de los auriculares y del vibrador en busca de tramos rotos, aplastados o deshilachados.",
+    "Se verifica que los conectores estén en las tomas correctas, con el auricular derecho en el canal derecho y el izquierdo en el izquierdo.",
+    "Se revisa que las almohadillas de los auriculares no estén agrietadas ni endurecidas, y que la diadema no haya perdido tensión.",
+    "En esta ronda también se revisan el pulsador de respuesta del paciente, el intercomunicador y el cierre hermético de la puerta de la cabina.",
+    "También se anota cualquier ruido de la ventilación o de otro equipo dentro de la cabina."
+   ]
+  },
+  {
+   "id": "dinleme",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Control visual",
+   "baslik": "*Pasos* de la escucha",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Auriculares",
+     "metin": "Cada frecuencia, ambos lados",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Vibrador",
+     "metin": "Frecuencias bajas y medias",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Enmascaramiento",
+     "metin": "¿Por el canal correcto?",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Canal de habla",
+     "metin": "Micrófono y reproductor",
+     "cumle": 4
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Pulsador, intercomunicador",
+     "metin": "¿Funcionan en ambos sentidos?",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En la etapa de escucha, primero se colocan los auriculares y se verifica que el tono salga por ambos auriculares en cada frecuencia.",
+    "Los tonos deben oírse limpios, sin chasquidos ni oscilaciones, y la altura tonal debe cambiar al cambiar la frecuencia.",
+    "Luego se coloca el vibrador óseo sobre la propia mastoides y se escucha el tono en las frecuencias bajas y medias.",
+    "Se enciende y apaga el ruido enmascarante en cada auricular para verificar que salga por el canal correcto.",
+    "En el canal de habla, se prueban con un sonido breve el micrófono en vivo y el reproductor de material grabado.",
+    "Por último, se confirma que el pulsador de respuesta del paciente y el intercomunicador funcionen en ambos sentidos."
+   ]
+  },
+  {
+   "id": "esik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "El propio umbral",
+   "baslik": "*Comparar* con el propio umbral",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 9000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ],
+     "ad": "Frecuencia (Hz)"
+    },
+    "y": {
+     "min": -10,
+     "max": 40,
+     "adim": 10,
+     "ters": true,
+     "ad": "Nivel de audición (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "taban",
+      "noktalar": [
+       [
+        250,
+        5
+       ],
+       [
+        500,
+        5
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        5
+       ],
+       [
+        4000,
+        10
+       ],
+       [
+        8000,
+        10
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "línea de base registrada",
+      "cumle": 1
+     },
+     {
+      "ad": "bugun",
+      "noktalar": [
+       [
+        250,
+        5
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        5
+       ],
+       [
+        4000,
+        25
+       ],
+       [
+        8000,
+        10
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "hoy",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       10,
+       25
+      ],
+      "xk": 4000,
+      "etiket": "15 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Línea de base: justo tras calibrar",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Diferencia de 10 dB o más: revisar",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Primero, volver a medir",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "La parte más sólida del control es que una persona con audición normal mida regularmente sus propios umbrales.",
+    "Cuando el equipo acaba de calibrarse, se miden los umbrales de quien hace el control con cada auricular y vibrador, y se registran como línea de base.",
+    "En los días siguientes, la misma persona mide rápidamente sus umbrales, o escucha el tono un poco por encima del umbral de base.",
+    "En este ejemplo, el umbral de hoy en cuatro mil hertz es quince decibeles peor que la línea de base registrada.",
+    "En la práctica habitual, una diferencia de diez decibeles o más respecto de la línea de base exige un control del equipo con mediciones.",
+    "Primero hay que confirmar la diferencia midiendo de nuevo; la colocación del auricular o el propio estado ese día también pueden influir.",
+    "Si la diferencia persiste, el equipo no se usa para evaluar pacientes y se llama al servicio de calibración."
+   ]
+  },
+  {
+   "id": "insert",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "El propio umbral",
+   "baslik": "Auriculares de inserción y *altavoces*",
+   "maddeler": [
+    {
+     "metin": "_De inserción_: mismos controles con espumas",
+     "cumle": 0,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "¿El _tubo de sonido_ está doblado o agrietado?",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Altavoces: _en la posición de escucha_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Derecho e izquierdo: _canal correcto_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "ayar": {
+     "insert": true
+    },
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    "vurgula": [
+     {
+      "parca": "ses_tupu",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "ses_tupu",
+      "metin": "Tubo de sonido",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Si su clínica también tiene auriculares de inserción, se hacen los mismos controles con las puntas de espuma colocadas.",
+    "Con estos auriculares, el tubo de sonido no debe estar doblado ni agrietado; un tubo doblado reduce claramente el sonido.",
+    "Las puntas de espuma son de un solo uso; también para el control se usa una punta limpia.",
+    "Los altavoces de campo libre se escuchan brevemente en cada frecuencia, en la posición de escucha donde se sienta el paciente.",
+    "Los altavoces no deben producir chasquidos, y el derecho y el izquierdo deben sonar por el canal correcto."
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Fugas y ruido",
+   "baslik": "El control de *diafonía*",
+   "maddeler": [
+    {
+     "metin": "_Diafonía_: fuga entre canales",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Auricular activo _fuera de la cabeza_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Ningún sonido_ en el otro auricular",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "_Repetir_ en ambos lados",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SI HAY FUGA",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "uyari",
+      "baslik": "Se compromete el enmascaramiento",
+      "metin": "Señal en el oído opuesto",
+      "cumle": 4
+     },
+     {
+      "ikon": "laboratuvar",
+      "baslik": "Servicio técnico",
+      "metin": "Cable y conexión",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "La diafonía es la fuga eléctrica de una señal de un canal hacia el otro canal o auricular.",
+    "Se retira el auricular activo de la cabeza, el otro queda en el oído, y se envía un tono, por ejemplo de setenta decibeles HL, al canal activo.",
+    "En el auricular que queda en el oído no debe oírse nada; si se oye, la señal se está filtrando por el cable o el circuito.",
+    "El procedimiento se repite para el otro lado.",
+    "La diafonía puede hacer que la señal de prueba llegue al oído opuesto y distorsione los resultados, sobre todo durante el enmascaramiento.",
+    "Ante un hallazgo así, el equipo se envía al servicio técnico; el problema suele estar en un cable o una conexión."
+   ]
+  },
+  {
+   "id": "cizirti",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Fugas y ruido",
+   "baslik": "Control de chasquidos y *ruido*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Chasquido del cable",
+     "metin": "Escuchar moviendo el cable",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Clics",
+     "metin": "Al encender y apagar el tono",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Zumbido",
+     "metin": "Escuchar sin señal",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Atenuador",
+     "metin": "¿El nivel cambia sin saltos?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Después de la diafonía, se revisan los sonidos no deseados distintos de la señal.",
+    "Se mueven suavemente los cables mientras suena un tono; chasquidos, cortes o cambios de nivel indican una falla del cable.",
+    "No debe oírse ningún clic al encender y apagar el tono; un clic puede hacer que el paciente responda a él en lugar de al tono.",
+    "Se escucha con la señal apagada; un zumbido sugiere ruido eléctrico.",
+    "Al cambiar el nivel en pasos de cinco decibeles, se verifica que el sonido suba y baje de forma pareja, sin sonidos extra.",
+    "El ruido ambiental de la cabina también se revisa a grandes rasgos de oído; su medición detallada la veremos en la próxima lección."
+   ]
+  },
+  {
+   "id": "form",
+   "tur": "tablo",
+   "bolum_no": "PARTE 5",
+   "bolum": "Registros",
+   "baslik": "El *formulario* de control diario",
+   "sutunlar": [
+    "Elemento",
+    "Resultado"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Cables y conectores",
+      "En buen estado"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Tonos de auriculares",
+      "Limpios, ambos lados"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Vibrador",
+      "Limpio"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Diferencia con umbral propio",
+      "Menor de 10 dB"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Diafonía",
+      "No hay"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Pulsador e intercomunicador",
+      "Funcionan"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El resultado del control se marca cada día en un formulario breve.",
+    "En el formulario se confirman uno por uno los controles del cable, los auriculares y el vibrador.",
+    "También se anotan la diferencia hallada al comparar con el propio umbral y el nombre de quien hizo el control.",
+    "Los controles de diafonía, chasquidos, pulsador e intercomunicador también tienen sus propias filas.",
+    "Este formulario se convierte en la prueba de los días en que el equipo funcionó sin problemas."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Que la misma persona haga el control cada día, en el mismo orden. Registren los umbrales de base justo después de calibrar; solo así se notan las pequeñas desviaciones.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la práctica: si es posible, que la misma persona haga el control cada día, en el mismo orden.",
+    "Así el control se convierte en un hábito de pocos minutos, y no se omite ningún paso.",
+    "Registren sus umbrales de base justo después de que el equipo haya sido calibrado.",
+    "Si tienen un cambio auditivo transitorio, como un resfriado, dejen la comparación de umbrales a otra persona."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Registros",
+   "baslik": "¿Qué hacer si *encuentran un problema?*",
+   "maddeler": [
+    {
+     "metin": "Primero, _conexiones_ y ajustes",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Si persiste: _no usar el equipo_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Anotarlo, _avisar al servicio técnico_",
+     "cumle": 2,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Tras la reparación: _control con mediciones_",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "REGLA",
+    "metin": "No se *evalúan pacientes* con un equipo dudoso",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Si encuentran un problema durante el control, revisen primero las conexiones y los ajustes y repitan la prueba.",
+    "Si el problema persiste, no usen el equipo para evaluar pacientes y colóquenle una nota bien visible.",
+    "Anoten el problema en el formulario e infórmenlo al servicio técnico.",
+    "Si no está claro cuándo empezó el problema, pueden revisarse los resultados de los pacientes evaluados desde el último control correcto.",
+    "Después de la reparación, el equipo no vuelve a usarse hasta que supere un control con mediciones.",
+    "Esta disciplina protege la confianza de los pacientes y de la clínica en los resultados."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Cada día, _antes de evaluar pacientes_",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Cables, auriculares, _vibrador_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Diferencia de _10 dB_ o más",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sin _diafonía_ ni chasquidos",
+     "cumle": 3,
+     "ikon": "sessizlik"
+    }
+   ],
+   "cumleler": [
+    "El control biológico se hace cada día, antes del primer paciente, en unos cinco minutos.",
+    "Los cables, los conectores, los auriculares y el vibrador se revisan primero a la vista y luego escuchando.",
+    "Una diferencia de diez decibeles o más respecto del propio umbral de base exige un control con mediciones.",
+    "No debe haber diafonía, chasquidos ni clics; si hay un problema, el equipo no se usa."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "En el control diario, tu umbral en 4000 Hz está 15 dB peor que la línea de base. ¿Primer paso?",
+   "secenekler": [
+    "Seguir evaluando",
+    "Volver a medir para confirmar",
+    "Sumar 15 dB a los resultados",
+    "Dejar el formulario en blanco"
+   ],
+   "dogru": 1,
+   "aciklama": "Primero se confirma la diferencia _midiendo de nuevo_; si persiste, el equipo no se usa y se llama al servicio técnico.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en el control diario, tu umbral en cuatro mil hertz está quince decibeles peor que la línea de base. ¿Cuál es el primer paso?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: volver a medir y confirmar la diferencia.",
+    "Si la diferencia persiste, el equipo no se usa para evaluar pacientes; sumar una corrección o seguir evaluando no es correcto."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Normas de la sala de pruebas: *ruido ambiental* máximo",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos el ruido ambiental máximo permitido en la sala de pruebas y cómo se mide.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

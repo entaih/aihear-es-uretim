@@ -1,0 +1,671 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D052_Vestibulo_Ocular_Reflex_ES",
+ "kapak": {
+  "ust": "LECCIÓN 52",
+  "baslik": "Reflejo<br>*vestíbulo-ocular*",
+  "alt": "Ganancia, fase y leyes de Ewald",
+  "cizim": "vestibuler",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "El reflejo vestíbulo-ocular: una visión estable | Lección 52 | AIHEAR Academia de Audiología",
+  "aciklama": "El reflejo vestíbulo-ocular (RVO) mantiene estable la imagen en la retina moviendo los ojos a la misma velocidad que la cabeza y en sentido contrario. En esta lección vemos el arco reflejo de tres neuronas, la relación entre cada canal y los músculos oculares, la ganancia y la fase del RVO, las leyes de Ewald, las formas de medir el RVO y los síntomas de su pérdida.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Leigh and Zee, The Neurology of Eye Movements; Jacobson and Shepard, Balance Function Assessment and Management; Halmagyi and Curthoys (1988), A clinical sign of canal paresis, Archives of Neurology; Herdman and Clendaniel, Vestibular Rehabilitation.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "vestibular",
+   "reflejovestibuloocular"
+  ],
+  "etiketler": [
+   "reflejo vestíbulo-ocular",
+   "RVO",
+   "ganancia del RVO",
+   "fase del RVO",
+   "leyes de Ewald",
+   "prueba de impulso cefálico",
+   "oscilopsia",
+   "supresión del RVO",
+   "fisiología vestibular",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 52",
+   "baslik": "El *reflejo* vestíbulo-ocular",
+   "alt": "¿Por qué la imagen no se mueve al girar la cabeza?",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo los ojos mantienen estable la imagen mientras la cabeza se mueve, gracias al reflejo vestíbulo-ocular.",
+    {
+     "yazi": "Recorreremos paso a paso el arco reflejo, los conceptos de ganancia y fase, y las leyes de Ewald."
+    }
+   ]
+  },
+  {
+   "id": "gorev",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La función del reflejo",
+   "baslik": "¿Qué hace el *RVO*?",
+   "maddeler": [
+    {
+     "metin": "Mantiene estable la imagen en la _retina_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Ojos: _igual velocidad, sentido contrario_",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Latencia menor de unos _10 ms_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "El seguimiento visual _no alcanza_",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "RVO",
+    "metin": "Cabeza a la derecha, ojos a la *izquierda*: imagen quieta",
+    "cumle": 1
+   },
+   "cumleler": [
+    "El reflejo vestíbulo-ocular (RVO, en inglés VOR) mantiene estable la imagen en la retina mientras la cabeza se mueve.",
+    "Cuando la cabeza gira hacia un lado, los ojos giran hacia el otro a la misma velocidad, y el objetivo se mantiene en su lugar.",
+    "Si la imagen se desliza sobre la retina más de unos pocos grados por segundo, la agudeza visual cae notablemente.",
+    "El RVO es muy rápido; la respuesta ocular comienza menos de unos diez milisegundos después del movimiento de la cabeza.",
+    "Los sistemas de seguimiento visual tienen un retardo de unos cien milisegundos y no alcanzan a seguir los movimientos rápidos de la cabeza.",
+    "Por eso es sobre todo el RVO el que nos permite ver con claridad al caminar, correr o girar rápido la cabeza."
+   ]
+  },
+  {
+   "id": "uc_noron",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La función del reflejo",
+   "baslik": "El *arco reflejo* de tres neuronas",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Canal",
+     "metin": "Detecta el movimiento cefálico",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Nervio vestibular",
+     "metin": "Neurona 1: ganglio de Scarpa",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Núcleo vestibular",
+     "metin": "Neurona 2: en el tronco cerebral",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Núcleo motor",
+     "metin": "Neurona 3: pares III, IV, VI",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Músculos oculares",
+     "metin": "Vía corta, respuesta rápida",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En el centro del RVO hay un arco reflejo corto, de tres neuronas.",
+    {
+     "yazi": "La primera neurona es la fibra del nervio vestibular, cuyo cuerpo celular está en el ganglio de Scarpa."
+    },
+    "La segunda neurona se encuentra en los núcleos vestibulares del tronco cerebral.",
+    "La tercera es la motoneurona del núcleo oculomotor, troclear o abducens, que activa los músculos oculares.",
+    "Gracias a esta vía tan corta, el reflejo es tan rápido.",
+    "Además de la vía directa, hay vías indirectas que ayudan a mantener la posición del ojo y a prolongar la respuesta."
+   ]
+  },
+  {
+   "id": "kanal_kas",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "La función del reflejo",
+   "baslik": "Del canal al *músculo ocular*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Canal lateral: horizontal",
+     "metin": "Recto medial y recto lateral opuesto",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Canal anterior: arriba",
+     "metin": "Recto superior y oblicuo inferior opuesto",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Canal posterior: abajo",
+     "metin": "Oblicuo superior y recto inferior opuesto",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Cada canal se conecta con dos músculos que producen un movimiento ocular en su propio plano.",
+    "Cuando se excita el canal lateral, se contraen el recto medial del mismo lado y el recto lateral del lado opuesto.",
+    "Por ejemplo, cuando la cabeza gira a la derecha, se excita el canal lateral derecho y ambos ojos giran juntos a la izquierda.",
+    "Cuando se excita el canal anterior, se contraen el recto superior homolateral y el oblicuo inferior opuesto, y los ojos suben.",
+    "Cuando se excita el canal posterior, se contraen el oblicuo superior homolateral y el recto inferior opuesto, y los ojos bajan.",
+    "Con los canales verticales, el movimiento ocular tiene además un componente torsional."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ganancia y fase",
+   "baslik": "*Ganancia* del RVO",
+   "maddeler": [
+    {
+     "metin": "Ganancia: velocidad ocular entre _velocidad cefálica_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Valor ideal cercano a _uno_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Ganancia baja: _la imagen se desliza_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Los límites normales varían según _la prueba_",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "GANANCIA",
+    "metin": "Velocidad ocular entre velocidad cefálica; valor ideal cercano a *uno*",
+    "cumle": 0
+   },
+   "cumleler": [
+    {
+     "yazi": "La primera medida del funcionamiento del RVO es la ganancia: la relación entre la velocidad del ojo y la de la cabeza."
+    },
+    "Si el ojo acompaña por completo el movimiento de la cabeza, la ganancia es cercana a uno.",
+    "Si la ganancia es baja, el ojo se queda atrás, la imagen se desliza sobre la retina y se necesitan sacadas correctoras.",
+    {
+     "yazi": "Por ejemplo, si la cabeza gira a 200 grados por segundo y el ojo solo a 100, la ganancia es de 0,5.",
+     "ses": "Por ejemplo, si la cabeza gira a doscientos grados por segundo y el ojo solo a cien, la ganancia es de cero coma cinco."
+    },
+    "Una ganancia claramente mayor que uno también desliza la imagen, en sentido contrario; en las pruebas suele indicar un fallo técnico.",
+    "Los valores normales de ganancia varían según la prueba y el equipo; la interpretación usa las normas propias del laboratorio."
+   ]
+  },
+  {
+   "id": "faz",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ganancia y fase",
+   "baslik": "*Fase* del RVO",
+   "maddeler": [
+    {
+     "metin": "Fase: _sincronía_ entre ojo y cabeza",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Idealmente, ojo y cabeza _sincronizados_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "_Adelanto de fase_ en rotación muy lenta",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Se _mide_ en la silla rotatoria",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "faz_egrileri",
+    "cumle": 0,
+    "ayar": {
+     "faz": 30,
+     "kazanc": 0.9,
+     "bas_cumle": 0,
+     "goz_cumle": 1,
+     "faz_cumle": 3
+    },
+    "vurgula": [
+     {
+      "parca": "bas_hizi",
+      "cumle": 1
+     },
+     {
+      "parca": "goz_hizi",
+      "cumle": 2
+     },
+     {
+      "parca": "faz_farki",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "La segunda medida es la fase: el momento del movimiento ocular en relación con el movimiento de la cabeza.",
+    "En un RVO ideal, el ojo se mueve exactamente al mismo tiempo que la cabeza, en sentido contrario.",
+    "En una rotación sinusoidal, la respuesta ocular puede retrasarse o adelantarse a la cabeza; esta diferencia se expresa en grados.",
+    "En rotaciones muy lentas, por la mecánica de la cúpula, la respuesta ocular se adelanta; esto se llama adelanto de fase.",
+    "La fase y la ganancia se miden juntas, sobre todo en la prueba sinusoidal en silla rotatoria.",
+    "El aumento del adelanto de fase es un hallazgo frecuente en los trastornos vestibulares periféricos."
+   ]
+  },
+  {
+   "id": "yontemler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ganancia y fase",
+   "baslik": "Formas de *medir* el RVO",
+   "ogeler": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Prueba calórica",
+     "metin": "Muy baja frecuencia; cada oído por separado",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Silla rotatoria",
+     "metin": "Baja y media; ganancia, fase, simetría",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "vHIT",
+     "metin": "Alta frecuencia; seis canales por separado",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Impulso cefálico de cabecera",
+     "metin": "Alta frecuencia; sin equipo",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El RVO puede medirse con distintos métodos y a distintas velocidades de movimiento; cada método tiene sus propias ventajas.",
+    "La prueba calórica es un estímulo de muy baja frecuencia y compara los dos oídos por separado.",
+    "La silla rotatoria mide en detalle ganancia, fase y simetría en frecuencias bajas y medias; es muy útil para seguir la pérdida bilateral.",
+    "La prueba de impulso cefálico con video (vHIT) evalúa los seis canales por separado, en frecuencias altas similares a las de la vida diaria.",
+    "La prueba de impulso cefálico de cabecera es rápida y no necesita equipo, pero no permite ver las sacadas encubiertas.",
+    "La prueba calórica y el vHIT se usan ampliamente, mientras que la silla rotatoria es un equipo costoso disponible en menos centros."
+   ]
+  },
+  {
+   "id": "gorsel_sistem",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ganancia y fase",
+   "baslik": "El RVO y los sistemas *visuales*",
+   "ogeler": [
+    {
+     "ikon": "denge",
+     "baslik": "RVO",
+     "metin": "Actúa en movimientos rápidos, incluso a oscuras",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Optocinético",
+     "metin": "Sigue una escena que se desplaza",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Seguimiento lento",
+     "metin": "Sigue un objetivo pequeño en movimiento",
+     "cumle": 3
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Límite visual",
+     "metin": "Bueno si es lento, tardío si es rápido",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El RVO no trabaja solo; comparte la tarea con los sistemas visuales.",
+    "El RVO es eficaz en los movimientos rápidos de la cabeza y funciona incluso con los ojos cerrados o a oscuras.",
+    "En rotaciones largas y constantes el RVO se atenúa, y toma el relevo el sistema optocinético, que sigue una escena que se desplaza.",
+    "El sistema de seguimiento lento nos permite seguir con la mirada un objetivo pequeño en movimiento.",
+    "Los sistemas visuales funcionan bien en movimientos lentos, pero por su retardo no pueden reemplazar al RVO en los movimientos rápidos.",
+    "Por eso las pruebas de estímulo lento, como la silla rotatoria y la prueba calórica, se hacen a oscuras o sin fijación visual."
+   ]
+  },
+  {
+   "id": "ewald",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Las leyes de Ewald",
+   "baslik": "Las leyes de *Ewald*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Primera ley",
+     "metin": "Movimiento en el plano del canal",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Segunda ley",
+     "metin": "Lateral: más fuerte el flujo ampulípeto",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Tercera ley",
+     "metin": "Verticales: más fuerte el flujo ampulífugo",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Estimulando canales individuales en palomas, Ewald describió tres reglas básicas."
+    },
+    "Primera ley: los movimientos de ojos y cabeza ocurren en el plano del canal estimulado y en la dirección del flujo endolinfático.",
+    "Segunda ley: en el canal lateral, el flujo hacia la ampolla produce una respuesta más fuerte que el flujo en sentido contrario.",
+    "Tercera ley: en los canales verticales, el flujo que se aleja de la ampolla produce la respuesta más fuerte.",
+    "Esta asimetría se debe a que la descarga de las fibras puede aumentar mucho al excitarse, pero no bajar de cero al inhibirse.",
+    "La primera ley nos permite deducir qué canal está afectado a partir de la dirección del nistagmo en las pruebas posicionales."
+   ]
+  },
+  {
+   "id": "ewald_klinik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Las leyes de Ewald",
+   "baslik": "Las leyes *en la clínica*",
+   "maddeler": [
+    {
+     "metin": "Impulso rápido: domina el lado _excitado_",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Impulso a la derecha: canal lateral _derecho_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Sacada_ en impulsos hacia el lado débil",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Una pista de _dirección_ en pruebas posicionales",
+     "cumle": 4,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "En los movimientos muy rápidos de la cabeza, el lado inhibido cae a cero y la respuesta proviene casi por completo del lado excitado.",
+    "Así, cuando giramos la cabeza bruscamente hacia la derecha, evaluamos sobre todo el canal lateral derecho.",
+    "Si el lado derecho está débil, los ojos se van con la cabeza y se necesita una sacada correctora para volver al objetivo.",
+    "En los movimientos lentos, el lado sano puede cubrir en parte ambas direcciones, porque se excita y también se inhibe.",
+    "En el vértigo posicional del canal lateral, el lado donde el nistagmo es más fuerte también se interpreta con la segunda ley."
+   ]
+  },
+  {
+   "id": "uyarlama",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Adaptación y clínica",
+   "baslik": "El RVO *se adapta*",
+   "maddeler": [
+    {
+     "metin": "El cerebelo _recalibra_ la ganancia",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Lentes nuevos: _adaptación_ en pocos días",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "La _base_ de la rehabilitación",
+     "cumle": 3,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ADAPTACIÓN",
+    "metin": "El deslizamiento de la imagen es una *señal de error*",
+    "cumle": 0
+   },
+   "cumleler": [
+    "El RVO no es un reflejo fijo; cuando la imagen se desliza, el cerebelo recalibra la ganancia.",
+    "Por ejemplo, con lentes de aumento nuevos la ganancia del RVO debe aumentar, y la persona se adapta en pocos días.",
+    "Esta capacidad se llama adaptación del RVO y depende de que el flóculo del cerebelo esté indemne.",
+    "Los ejercicios de estabilización de la mirada de la rehabilitación vestibular se basan en este principio.",
+    "Los ejercicios se eligen y planifican después de una evaluación especializada."
+   ]
+  },
+  {
+   "id": "baskilama",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Adaptación y clínica",
+   "baslik": "¿Cuándo se *suprime* el RVO?",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Objetivo quieto",
+     "metin": "Actúa el RVO, ojos en sentido opuesto",
+     "cumle": 0
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Objetivo que acompaña",
+     "metin": "El libro gira con la cabeza",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Se suprime el RVO",
+     "metin": "Los ojos se mueven con la cabeza",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Cerebelo",
+     "metin": "Realiza la supresión",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Fallo de la supresión",
+     "metin": "Signo central, informar al médico",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Si giramos la cabeza mientras miramos un cuadro en la pared, el objetivo está quieto y el RVO debe actuar.",
+    "En este caso, los ojos giran en sentido contrario a la cabeza y el cuadro se ve nítido.",
+    "Pero si miramos un libro que sostenemos en las manos mientras giramos en una silla, el objetivo gira con la cabeza.",
+    "Esta vez el RVO debe suprimirse; los ojos deben moverse junto con la cabeza.",
+    {
+     "yazi": "La supresión del RVO depende del cerebelo y puede medirse en la prueba de silla rotatoria."
+    },
+    "Una supresión alterada sugiere un problema central y no periférico; estos hallazgos se comunican al médico."
+   ]
+  },
+  {
+   "id": "osilopsi",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Adaptación y clínica",
+   "baslik": "Pérdida del RVO: *oscilopsia*",
+   "maddeler": [
+    {
+     "metin": "La _imagen salta_ al caminar",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Marcada_ en la pérdida bilateral",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "La agudeza visual dinámica _cae_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Inestabilidad_ peor a oscuras",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "OSCILOPSIA",
+    "metin": "*Deslizamiento de la imagen* al mover la cabeza",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Cuando el RVO está muy reducido en ambos lados, la persona cuenta que la imagen rebota o salta al caminar.",
+    {
+     "yazi": "Esta queja se llama oscilopsia y se observa sobre todo en la hipofunción vestibular bilateral."
+    },
+    "La visión puede ser normal con la cabeza quieta, pero la agudeza visual cae notablemente cuando la cabeza se mueve.",
+    "En cabecera, se gira la cabeza de lado a lado a unos dos hertz mientras la persona lee una cartilla: es la prueba de agudeza visual dinámica.",
+    "Cuando las señales visuales y somatosensoriales se reducen, por ejemplo a oscuras, la inestabilidad se hace aún más marcada."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Adaptación y clínica",
+   "baslik": "Consejo clínico",
+   "metin": "En la anamnesis, preguntar siempre si la persona no logra leer letreros al caminar o si la imagen salta. Así se detecta una pérdida bilateral del RVO sin vértigo.",
+   "cumleler": [
+    "Un consejo clínico: pregunten a la persona con inestabilidad si la imagen le salta al caminar.",
+    "La dificultad para distinguir letreros o caras al caminar puede ser la primera pista de una pérdida bilateral del RVO.",
+    "Estas personas a menudo no describen vértigo, por lo que la queja puede pasar fácilmente inadvertida.",
+    "Si esta queja se acompaña de antecedentes de fármacos ototóxicos, registren el hallazgo y comuníquenlo al médico."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Arco de _tres neuronas_, latencia menor de 10 ms",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_Ganancia_: velocidad ocular / velocidad cefálica",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Fase_: sincronía entre ojo y cabeza",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "_Ewald_: plano y asimetría de excitación",
+     "cumle": 3,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "El RVO funciona mediante un arco corto de tres neuronas y responde con un retardo menor de diez milisegundos.",
+    "La ganancia es la relación entre la velocidad del ojo y la de la cabeza, y su valor ideal es cercano a uno.",
+    "La fase es el momento del movimiento ocular respecto de la cabeza; en rotaciones muy lentas, el ojo se adelanta.",
+    {
+     "yazi": "Según las leyes de Ewald, el movimiento ocurre en el plano del canal, y la excitación da una respuesta más fuerte que la inhibición."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "La cabeza gira a 100 grados por segundo y el ojo a 80. ¿Cuál es la ganancia del RVO?",
+   "secenekler": [
+    "0,2",
+    "0,8",
+    "1,25",
+    "80"
+   ],
+   "dogru": 1,
+   "aciklama": "Ganancia = velocidad ocular entre velocidad cefálica: _80 entre 100_, es decir, 0,8.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: la cabeza gira a 100 grados por segundo y el ojo a 80. ¿Cuál es la ganancia del RVO?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: 0,8.",
+     "ses": "La respuesta correcta es la B: cero coma ocho."
+    },
+    {
+     "yazi": "La ganancia es la relación entre la velocidad del ojo y la de la cabeza: 80 entre 100, es decir, 0,8.",
+     "ses": "La ganancia es la relación entre la velocidad del ojo y la de la cabeza: ochenta entre cien, es decir, cero coma ocho."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Equilibrio: *visión*, vestíbulo y somatosensación",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo la visión, el sistema vestibular y la somatosensación trabajan juntos para mantener el equilibrio.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,739 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D094_Why_Speech_Audiometry_ES",
+ "kapak": {
+  "ust": "LECCIÓN 94",
+  "baslik": "¿Para qué la<br>*logoaudiometría*?",
+  "alt": "Objetivos y tipos de pruebas",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "¿Para qué la logoaudiometría? Objetivos y pruebas | Lección 94 | AIHEAR Academia de Audiología",
+  "aciklama": "El audiograma tonal muestra cuán suave es el sonido que podemos oír; la logoaudiometría mide qué tan bien entendemos el habla. En esta lección presentamos los objetivos de la logoaudiometría, las pruebas de umbral (UDP, URP), las pruebas supraumbrales (porcentaje de discriminación, MCL, UCL), los materiales de prueba y los conceptos de conjunto abierto y cerrado.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin y Clark, Introduction to Audiology; ASHA, Guidelines for Determining Threshold Level for Speech.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "logoaudiometria",
+   "fonoaudiologia"
+  ],
+  "etiketler": [
+   "logoaudiometría",
+   "audiometría verbal",
+   "umbral de detección de la palabra",
+   "URP",
+   "umbral de recepción de la palabra",
+   "porcentaje de discriminación",
+   "reconocimiento de palabras",
+   "conjunto abierto y cerrado",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 94",
+   "baslik": "¿Para qué la *logoaudiometría*? Objetivos y pruebas",
+   "alt": "¿Por qué se hace y qué pruebas incluye?",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos por qué se hace la logoaudiometría y qué pruebas incluye.",
+    "Conoceremos las pruebas de umbral y supraumbrales, los materiales de prueba y los conceptos de conjunto abierto y cerrado."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Objetivos",
+   "baslik": "¿Por qué una prueba con *habla*?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Verificación",
+     "metin": "Contrasta los umbrales tonales",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Comprensión",
+     "metin": "¿Qué tan claro se entiende?",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Orientación",
+     "metin": "Beneficio esperado de los dispositivos",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Pista diagnóstica",
+     "metin": "Puntuación desproporcionadamente baja",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Pérdida funcional",
+     "metin": "Discrepancia entre umbrales",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Logoaudiometría es el nombre general de las pruebas de audición que usan estímulos de habla.",
+    "Su primer objetivo es comprobar si los umbrales tonales son confiables, comparándolos con el umbral de habla.",
+    "Su segundo objetivo es mostrar no solo si una persona oye el habla, sino con qué claridad la entiende.",
+    "Tercero, ayuda a fijar expectativas realistas en las decisiones sobre audífonos o implante coclear y en la orientación.",
+    "Una puntuación más baja de lo esperado para el grado de pérdida puede sugerir un problema más allá de la cóclea, lo que orienta la batería de pruebas.",
+    "Una discrepancia clara entre los umbrales tonales y los de habla es un hallazgo importante cuando se sospecha una pérdida auditiva funcional.",
+    "En resumen, el audiograma tonal muestra la audibilidad, y las pruebas de habla muestran qué significa la audición en la comunicación diaria."
+   ]
+  },
+  {
+   "id": "yetmez",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Objetivos",
+   "baslik": "Por qué los tonos puros *no bastan*",
+   "maddeler": [
+    {
+     "metin": "Señal compleja que _cambia rápido_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "La pérdida no solo _atenúa_, también distorsiona",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Mismo audiograma, comprensión _distinta_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "El cerebro también _participa_",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Un tono puro es un estímulo estable de una sola frecuencia; el habla es una señal compleja cuya frecuencia e intensidad cambian rápidamente.",
+    "Las consonantes suaves, sobre todo en las frecuencias altas, tienen un papel importante en la comprensión del habla.",
+    "Según el modelo de Plomp, la pérdida auditiva tiene dos componentes: uno que hace los sonidos más suaves y otro que los distorsiona.",
+    "El primero se compensa en gran parte haciendo los sonidos más fuertes; el segundo no mejora con la amplificación.",
+    "Por eso, dos personas con audiogramas parecidos pueden entender el habla en niveles muy distintos.",
+    "Entender el habla también requiere que las vías auditivas, el lenguaje y la atención trabajen juntos."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tipos de pruebas",
+   "baslik": "*Cuatro familias* de pruebas de habla",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Pruebas de umbral",
+     "metin": "UDP y URP",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Supraumbrales",
+     "metin": "Discriminación, MCL y UCL",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "En ruido",
+     "metin": "QuickSIN, HINT, pruebas de matriz",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Pruebas especiales",
+     "metin": "Evaluación auditiva central",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Podemos agrupar las pruebas de habla en cuatro familias según su objetivo.",
+    "Las pruebas de umbral buscan el nivel más bajo en el que el habla se detecta o empieza a entenderse.",
+    "Las pruebas supraumbrales miden qué tan bien se entiende el habla, o cuán molesta resulta, cuando se presenta a un nivel claramente audible.",
+    "Las pruebas de habla en ruido imitan la condición más difícil de la vida diaria: el ruido de fondo.",
+    "Las pruebas especiales usan estímulos de habla dicóticos o degradados para evaluar el procesamiento auditivo central.",
+    "En esta lección daremos una mirada general a las dos primeras familias; veremos cada una en detalle en próximas lecciones."
+   ]
+  },
+  {
+   "id": "sdt_srt",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tipos de pruebas",
+   "baslik": "Detectar y *entender*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 50,
+     "adim": 10,
+     "ad": "Nivel del habla (dB HL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Respuestas correctas (%)"
+    },
+    "seriler": [
+     {
+      "ad": "fark_etme",
+      "noktalar": [
+       [
+        0,
+        2
+       ],
+       [
+        5,
+        15
+       ],
+       [
+        10,
+        50
+       ],
+       [
+        15,
+        85
+       ],
+       [
+        20,
+        98
+       ],
+       [
+        25,
+        100
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "detección",
+      "cumle": 1
+     },
+     {
+      "ad": "alma",
+      "noktalar": [
+       [
+        9,
+        2
+       ],
+       [
+        14,
+        15
+       ],
+       [
+        19,
+        50
+       ],
+       [
+        24,
+        85
+       ],
+       [
+        29,
+        98
+       ],
+       [
+        34,
+        100
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "reconocimiento",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sdt",
+      "x": 10,
+      "y": 50,
+      "dus": "x",
+      "etiket": "UDP",
+      "cumle": 1
+     },
+     {
+      "ad": "srt",
+      "x": 19,
+      "y": 50,
+      "dus": "x",
+      "etiket": "URP",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "x": [
+       10,
+       19
+      ],
+      "y": 35,
+      "etiket": "8 a 10 dB",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "UDP: detectar _la presencia_ del habla",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "URP: repetir _la mitad_ de las palabras",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "UDP: suele ser 8 a 10 dB mejor",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Veamos en este gráfico esquemático la diferencia entre las dos pruebas de umbral.",
+    {
+     "yazi": "El umbral de detección de la palabra (UDP) es el nivel más bajo en el que una persona nota que hay habla."
+    },
+    {
+     "yazi": "En el UDP, el paciente no necesita entender la palabra; basta con que indique que oyó el sonido del habla."
+    },
+    "El umbral de recepción de la palabra (URP) es el nivel más bajo en el que se repite correctamente el cincuenta por ciento de las palabras.",
+    "Entender requiere más energía sonora que solo detectar, por eso la curva del URP se desplaza hacia la derecha.",
+    {
+     "yazi": "Como resultado, el UDP suele ser unos ocho a diez decibeles mejor que el URP."
+    },
+    {
+     "yazi": "El UDP es una opción valiosa en niños pequeños que no pueden hacer un URP y en pacientes con barreras de idioma o que no pueden hablar."
+    }
+   ]
+  },
+  {
+   "id": "esik_ustu",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tipos de pruebas",
+   "baslik": "Pruebas *supraumbrales*",
+   "maddeler": [
+    {
+     "metin": "_Discriminación_: porcentaje de aciertos a nivel cómodo",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_MCL_: nivel de máximo confort",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_UCL_: umbral de molestia",
+     "cumle": 3,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Varios niveles: _curva de rendimiento_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PREGUNTA",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Prueba de umbral",
+      "metin": "¿Qué tan suave oye?",
+      "cumle": 0
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Supraumbral",
+      "metin": "Una vez oído, ¿cuánto se entiende?",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "La prueba supraumbral más conocida es el porcentaje de discriminación, en inglés SDS.",
+    "En esta prueba, las palabras se presentan a un nivel cómodamente audible, y se calcula el porcentaje repetido correctamente.",
+    "El nivel de máximo confort (MCL) es el nivel en el que resulta más cómodo escuchar el habla.",
+    "El umbral de molestia (UCL) es el nivel en el que el habla se vuelve molesta.",
+    "Estas dos medidas se usan sobre todo en la adaptación de audífonos y en la evaluación de la sensibilidad al sonido.",
+    "Si el reconocimiento de palabras se mide a varios niveles, obtenemos una curva de rendimiento que cambia con la intensidad."
+   ]
+  },
+  {
+   "id": "materyal",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Materiales y presentación",
+   "baslik": "*Materiales* de prueba",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Sílaba",
+     "metin": "Detecta una sola diferencia de sonido",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Monosílabo",
+     "metin": "Pruebas de reconocimiento de palabras",
+     "cumle": 2
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Palabra polisílaba",
+     "metin": "Pruebas de umbral",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Frase",
+     "metin": "La más cercana al habla cotidiana",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Dígitos",
+     "metin": "Menos afectados por el idioma",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Los materiales de las pruebas de habla pueden ordenarse de la unidad más pequeña a la más grande.",
+    "Las sílabas sin sentido se usan para examinar si se puede discriminar una sola diferencia de sonido.",
+    "Las palabras de una sílaba son el material central de las pruebas de reconocimiento de palabras.",
+    "Las palabras de varias sílabas son más fáciles de reconocer y se prefieren en las pruebas de umbral.",
+    "Las frases tienen contexto, por eso son las más cercanas al habla cotidiana y se usan a menudo en las pruebas en ruido.",
+    "Los dígitos vienen de un conjunto pequeño que todos conocen, por eso los afectan menos el idioma y el vocabulario."
+   ]
+  },
+  {
+   "id": "set",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 3",
+   "bolum": "Materiales y presentación",
+   "baslik": "¿Conjunto abierto o *cerrado*?",
+   "sol": {
+    "ust": "Conjunto abierto",
+    "maddeler": [
+     {
+      "metin": "Sin opciones, _se repite la palabra_",
+      "cumle": 0
+     },
+     {
+      "metin": "Más difícil, más cercano a la realidad",
+      "cumle": 1
+     },
+     {
+      "metin": "El paciente debe poder hablar",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Conjunto cerrado",
+    "maddeler": [
+     {
+      "metin": "El paciente _señala_ una opción",
+      "cumle": 3
+     },
+     {
+      "metin": "Niños pequeños y pacientes no verbales",
+      "cumle": 4
+     },
+     {
+      "metin": "Adivinar sube la puntuación",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "En las pruebas de conjunto abierto no se dan opciones al paciente; repite o escribe la palabra que oyó.",
+    "Este formato es más difícil y da un cuadro más cercano a la comunicación cotidiana.",
+    "Pero el paciente debe poder hablar, y su respuesta debe entenderse correctamente.",
+    "En las pruebas de conjunto cerrado, el paciente señala lo que oyó entre unas pocas imágenes o palabras.",
+    {
+     "yazi": "Este formato es útil en niños pequeños y en personas con trastornos del habla; en inglés, un ejemplo es la prueba de imágenes WIPI."
+    },
+    "En un conjunto cerrado se puede acertar al azar, por eso las puntuaciones son más altas que en el abierto y no se comparan directamente."
+   ]
+  },
+  {
+   "id": "sunum",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Materiales y presentación",
+   "baslik": "Presentación y *respuesta*",
+   "cizim": "test_kabini",
+   "vurgula": [
+    {
+     "parca": "odyometre",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    },
+    {
+     "parca": "hoparlor",
+     "cumle": 2
+    },
+    {
+     "parca": "interkom",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "odyometre",
+     "metin": "canal de habla",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "cada oído por separado",
+     "cumle": 1
+    },
+    {
+     "parca": "hoparlor",
+     "metin": "campo libre",
+     "cumle": 2
+    },
+    {
+     "parca": "interkom",
+     "metin": "intercomunicador",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "El material grabado es más estandarizado",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Respuesta: repetir, escribir, señalar",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Los estímulos de habla se presentan por el canal de habla del audiómetro, y este canal también se calibra con regularidad.",
+    "En las pruebas con auriculares, cada oído se evalúa por separado.",
+    "Las pruebas en campo libre con altavoces muestran cómo trabajan juntos ambos oídos, o el rendimiento con audífono.",
+    "El estímulo puede venir de material grabado o de voz viva monitorizada; el material grabado da resultados más estandarizados.",
+    "El audiólogo oye la respuesta hablada del paciente a través del intercomunicador de la cabina.",
+    "La respuesta puede darse repitiendo la palabra, escribiéndola o señalando una imagen."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "En pacientes con otra lengua materna, alfabetización limitada o un acento regional marcado, adapten los materiales y el formato de respuesta, y anótenlo en el informe.",
+   "cumleler": [
+    "Las pruebas de habla dependen del idioma; esta es su diferencia más importante con la audiometría tonal.",
+    "En un paciente cuya lengua materna no es la de la prueba, una puntuación baja puede deberse al idioma y no a la audición.",
+    "En esos casos se pueden preferir materiales menos afectados por el idioma, como los dígitos o los conjuntos cerrados.",
+    "Indiquen en el informe toda adaptación que hayan hecho, para que la próxima prueba pueda compararse en las mismas condiciones."
+   ]
+  },
+  {
+   "id": "birlikte",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación conjunta",
+   "baslik": "Tonos puros y habla *juntos*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: pérdida descendente en agudos",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_URP_: 25 dB HL, concuerda con el PTP",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Discriminación_: 76 % a 70 dB HL",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       25,
+       40,
+       60,
+       70
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "En este ejemplo vemos una pérdida auditiva en el oído derecho que desciende hacia las frecuencias altas.",
+    "El promedio de los umbrales en quinientos, mil y dos mil hertz, el promedio de tonos puros (PTP), es de unos veintiocho decibeles.",
+    "El URP se obtuvo en veinticinco decibeles HL; la diferencia es de diez decibeles o menos, así que los resultados se respaldan entre sí.",
+    "El porcentaje de reconocimiento de palabras es del setenta y seis por ciento a setenta decibeles HL.",
+    "Si el paciente dice que oye el habla en silencio pero confunde algunas palabras, este cuadro concuerda con su relato.",
+    "Juntos, los resultados tonales y de habla describen tanto el grado de la pérdida como su efecto en la comunicación diaria."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación conjunta",
+   "baslik": "¿*Qué* va en el informe?",
+   "maddeler": [
+    {
+     "metin": "Tipo de prueba y _lista usada_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Nivel de presentación y _transductor_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Grabado o _voz viva_",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "_Nivel de enmascaramiento_ en el oído opuesto",
+     "cumle": 3,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "REGLA",
+    "metin": "Una puntuación sin sus condiciones de prueba *no puede interpretarse*",
+    "cumle": 4
+   },
+   "cumleler": [
+    "El informe indica primero qué prueba y qué lista de palabras se usaron.",
+    "Indica el nivel de presentación y si la prueba se hizo con auriculares o en campo libre.",
+    "También se anota si se usó material grabado o voz viva monitorizada, ya que influye en el resultado.",
+    "Si se enmascaró el oído opuesto, también se registra el nivel de ruido usado.",
+    "Sin esta información, una puntuación de habla no puede interpretarse bien ni compararse con pruebas posteriores."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Las pruebas de habla miden la _comprensión_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Pruebas de umbral: _UDP y URP_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "UDP _8 a 10 dB_ mejor que URP",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Conjunto abierto y cerrado: _no comparables_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "La logoaudiometría verifica los umbrales tonales y muestra con qué claridad se entiende el habla.",
+    {
+     "yazi": "Las pruebas de umbral son el UDP y el URP; las supraumbrales son el porcentaje de discriminación, el MCL y el UCL."
+    },
+    "El umbral de detección de la palabra suele ser unos ocho a diez decibeles mejor que el umbral de recepción de la palabra.",
+    "Las pruebas de conjunto cerrado son útiles en niños pequeños, pero sus puntuaciones no se comparan directamente con las de conjunto abierto."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "El URP es 40 dB HL. ¿Dónde se espera el UDP?",
+   "secenekler": [
+    "40 a 50 dB HL",
+    "30 a 32 dB HL",
+    "10 dB HL",
+    "60 dB HL"
+   ],
+   "dogru": 1,
+   "aciklama": "Detectar el habla requiere menos energía que entenderla; el UDP es _unos 8 a 10 dB_ mejor que el URP.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: el URP de un paciente es de cuarenta decibeles HL. ¿Dónde esperarías aproximadamente el UDP?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: alrededor de treinta a treinta y dos decibeles HL.",
+    {
+     "yazi": "Detectar el habla requiere menos energía sonora que entenderla, por eso el UDP es unos ocho a diez decibeles mejor."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cómo obtener el *umbral* de recepción de la palabra",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos paso a paso cómo obtener el umbral de recepción de la palabra, el URP.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

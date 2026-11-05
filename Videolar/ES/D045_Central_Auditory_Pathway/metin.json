@@ -1,0 +1,960 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D045_Central_Auditory_Pathway_ES",
+ "kapak": {
+  "ust": "LECCIÓN 45",
+  "baslik": "De la cóclea<br>a la *corteza*",
+  "alt": "Las estaciones de la vía auditiva central",
+  "cizim": "isitme_yolu"
+ },
+ "youtube": {
+  "baslik": "La vía auditiva central, estación por estación | Lección 45 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo llega el sonido al cerebro después de la cóclea? En esta lección vemos las estaciones de la vía auditiva central: el núcleo coclear, el complejo olivar superior, el lemnisco lateral, el colículo inferior y el cuerpo geniculado medial, junto con las fibras cruzadas y no cruzadas y la relación de estas estaciones con las ondas de los PEATC.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Musiek FE and Baran JA, The Auditory System: Anatomy, Physiology, and Clinical Correlates; Møller AR, Hearing: Anatomy, Physiology, and Disorders of the Auditory System; Pickles, An Introduction to the Physiology of Hearing; Hall, New Handbook of Auditory Evoked Responses.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "neuroanatomia",
+   "audicion"
+  ],
+  "etiketler": [
+   "vía auditiva central",
+   "núcleo coclear",
+   "complejo olivar superior",
+   "colículo inferior",
+   "cuerpo geniculado medial",
+   "lemnisco lateral",
+   "ondas del PEATC",
+   "nervio auditivo",
+   "neuroanatomía",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 45",
+   "baslik": "La vía auditiva *central*",
+   "alt": "De la cóclea a la corteza, estación por estación",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprenderemos, estación por estación, el camino que sigue el sonido desde la cóclea hasta la corteza auditiva.",
+    "También veremos las fibras cruzadas y no cruzadas y su relación con las ondas de los potenciales evocados auditivos de tronco cerebral (PEATC, en inglés ABR)."
+   ]
+  },
+  {
+   "id": "genel",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Panorama de la vía",
+   "baslik": "Un *mapa* de la vía",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "cóclea",
+     "cumle": 0
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "nervio auditivo",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "núcleo coclear",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "complejo olivar superior",
+     "cumle": 2
+    },
+    {
+     "parca": "lateral_lemniskus",
+     "metin": "lemnisco lateral",
+     "cumle": 3
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "colículo inferior",
+     "cumle": 3
+    },
+    {
+     "parca": "mgb",
+     "metin": "cuerpo geniculado medial",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "corteza auditiva",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_oliver",
+     "cumle": 2
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 3
+    },
+    {
+     "parca": "mgb",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 5
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1,
+     "olcek": 1.7
+    },
+    {
+     "parca": "superior_oliver",
+     "cumle": 2,
+     "olcek": 1.7
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 3,
+     "olcek": 1.7
+    },
+    {
+     "parca": "mgb",
+     "cumle": 4,
+     "olcek": 1.7
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 5,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "El sonido, convertido en señal eléctrica en la cóclea, llega al tronco cerebral a través del nervio auditivo.",
+    "En el tronco cerebral, la señal se detiene primero en el núcleo coclear.",
+    "Luego llega al complejo olivar superior.",
+    "Después asciende por el lemnisco lateral y llega al colículo inferior, en el mesencéfalo.",
+    "Desde aquí pasa al cuerpo geniculado medial, en el tálamo.",
+    "La última parada es la corteza auditiva, en el lóbulo temporal.",
+    "Ahora conozcamos cada una de estas estaciones, una por una."
+   ]
+  },
+  {
+   "id": "kurallar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Panorama de la vía",
+   "baslik": "*Cuatro reglas* de la vía",
+   "maddeler": [
+    {
+     "metin": "Una _sinapsis_ y procesamiento en cada estación",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Se conserva el mapa de frecuencias: _tonotopía_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "La mayoría de las fibras se _cruzan_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Subvías_ paralelas",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 2
+     },
+     {
+      "parca": "lateral_lemniskus",
+      "cumle": 3
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "La vía auditiva central no es un cable único; en cada estación la señal pasa a una nueva neurona y se procesa.",
+    "El mapa de frecuencias que comienza en la cóclea, llamado tonotopía, se conserva en todas las estaciones de la vía.",
+    "La mayoría de las fibras se cruzan al lado opuesto en el tronco cerebral, pero algunas permanecen del mismo lado.",
+    "La vía también está formada por subvías paralelas que transportan distintas características del sonido.",
+    "El número de neuronas aumenta mucho en las estaciones superiores; cuanto más avanza la señal, más complejo es su procesamiento."
+   ]
+  },
+  {
+   "id": "nucleus",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Estaciones del tronco cerebral",
+   "baslik": "Primera parada: el *núcleo coclear*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "nervio auditivo",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "núcleo coclear",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Todas las fibras hacen sinapsis _del mismo lado_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Divisiones ventral y _dorsal_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hasta aquí, información de _un oído_",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1,
+     "olcek": 2.0
+    }
+   ],
+   "cumleler": [
+    "El nervio auditivo atraviesa el conducto auditivo interno y entra al tronco cerebral en la unión de la protuberancia con el bulbo raquídeo.",
+    "La primera parada es el núcleo coclear, en el tronco cerebral.",
+    "Todas las fibras del nervio auditivo hacen sinapsis en el núcleo coclear de su propio lado.",
+    "El núcleo tiene divisiones ventral y dorsal, y cada fibra nerviosa se ramifica para llegar a todas ellas.",
+    "Distintos tipos celulares procesan por separado la temporalidad, el inicio o la forma espectral del sonido.",
+    "Hasta este nivel, la información pertenece a un solo oído; a partir de aquí comienza el cruce."
+   ]
+  },
+  {
+   "id": "oliva",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Estaciones del tronco cerebral",
+   "baslik": "Los dos oídos *se encuentran*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "superior_oliver",
+     "metin": "complejo olivar superior",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 0
+    },
+    {
+     "parca": "superior_oliver",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "El _primer encuentro_ de los dos oídos",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Parte del _arco_ del reflejo acústico",
+     "cumle": 5,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "_Origen_ de las fibras eferentes",
+     "cumle": 6,
+     "ikon": "noron"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "superior_oliver",
+     "cumle": 1,
+     "olcek": 2.0
+    }
+   ],
+   "cumleler": [
+    "Una gran parte de las fibras que salen del núcleo coclear se cruzan al otro lado en un haz llamado cuerpo trapezoide.",
+    "Las fibras llegan al complejo olivar superior, en la parte baja de la protuberancia.",
+    "Aquí se encuentra por primera vez la información de los dos oídos.",
+    "Por eso el complejo olivar superior cumple un papel clave para localizar de dónde viene un sonido.",
+    "Está formado por varios núcleos separados, y por eso se le llama complejo.",
+    "El arco del reflejo acústico en el tronco cerebral también pasa por esta región.",
+    "Además, las fibras eferentes olivococleares que regresan a la cóclea se originan en torno a este complejo."
+   ]
+  },
+  {
+   "id": "mso_lso",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Estaciones del tronco cerebral",
+   "baslik": "*Dos claves* para la localización",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Porción medial",
+     "metin": "Diferencia interaural de tiempo",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Para los graves",
+     "metin": "La clave temporal es fuerte",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Porción lateral",
+     "metin": "Diferencia interaural de nivel",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Para los agudos",
+     "metin": "Sombra de la cabeza: nivel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Dos partes importantes del complejo olivar superior usan claves distintas para la dirección del sonido.",
+    "La porción medial compara diferencias muy pequeñas en el tiempo que tarda el sonido en llegar a cada oído.",
+    "Esta clave temporal es especialmente fuerte para los sonidos de baja frecuencia.",
+    "La porción lateral compara la diferencia de nivel del sonido que llega a los dos oídos.",
+    "Como la sombra de la cabeza atenúa más los sonidos agudos, la clave de nivel es especialmente fuerte en las frecuencias altas.",
+    "Veremos estas dos claves en detalle en la lección sobre audición binaural."
+   ]
+  },
+  {
+   "id": "lemniskus_kollikulus",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Estaciones del tronco cerebral",
+   "baslik": "La vía ascendente y el *mesencéfalo*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "lateral_lemniskus",
+     "metin": "lemnisco lateral",
+     "cumle": 0
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "colículo inferior",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "lateral_lemniskus",
+     "cumle": 0
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Lemnisco: el principal _haz ascendente_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Colículo inferior: _parada_ de casi todas las fibras",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "La información se _integra_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "lateral_lemniskus",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 2,
+     "olcek": 2.0
+    }
+   ],
+   "cumleler": [
+    "Las fibras del complejo olivar superior y del núcleo coclear ascienden por el lemnisco lateral.",
+    "Este haz también contiene pequeños núcleos, y hay conexiones entre ambos lados.",
+    "El haz termina en el colículo inferior, en el mesencéfalo.",
+    "Casi todas las fibras auditivas ascendentes hacen sinapsis en esta estación.",
+    "El colículo inferior integra la información de tiempo, nivel y frecuencia que llega desde las distintas estaciones del tronco cerebral.",
+    "También contribuye a respuestas reflejas, como girar la cabeza y los ojos hacia un sonido repentino."
+   ]
+  },
+  {
+   "id": "talamus",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tálamo y corteza",
+   "baslik": "La puerta de entrada a la corteza: el *tálamo*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "mgb",
+     "metin": "cuerpo geniculado medial",
+     "cumle": 0,
+     "yer": "sag"
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "corteza auditiva",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "mgb",
+     "cumle": 0
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "El _último_ relevo, en el tálamo",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Parte tonotópica a la _corteza primaria_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Radiación auditiva",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "mgb",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3,
+     "olcek": 1.8
+    }
+   ],
+   "cumleler": [
+    "Las fibras que salen del colículo inferior llegan al cuerpo geniculado medial, en el tálamo.",
+    "Esta estructura es la última estación de relevo antes de que la información auditiva llegue a la corteza.",
+    "Su división ventral tiene un mapa de frecuencias ordenado y se proyecta a la corteza auditiva primaria.",
+    "Desde aquí, las fibras llegan a la corteza auditiva del lóbulo temporal a través de un haz llamado radiación auditiva.",
+    "En la próxima lección veremos en detalle la corteza auditiva y las áreas del lenguaje."
+   ]
+  },
+  {
+   "id": "istasyonlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tálamo y corteza",
+   "baslik": "Las estaciones *en conjunto*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Núcleo coclear",
+     "metin": "Unión bulboprotuberancial: primera sinapsis",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Complejo olivar superior",
+     "metin": "Protuberancia baja: dos oídos, dirección",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Lemnisco lateral",
+     "metin": "Protuberancia: principal haz ascendente",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Colículo inferior",
+     "metin": "Mesencéfalo: integración, reflejos",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Cuerpo geniculado medial",
+     "metin": "Tálamo: relevo a la corteza",
+     "cumle": 4
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Corteza auditiva",
+     "metin": "Lóbulo temporal: percepción, significado",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El núcleo coclear es la estación donde el nervio auditivo hace su primera sinapsis y donde las características del sonido empiezan a separarse.",
+    "El complejo olivar superior es donde se encuentra por primera vez la información de los dos oídos y donde se procesan las claves de dirección.",
+    "El lemnisco lateral es el principal haz ascendente que va de la protuberancia al mesencéfalo.",
+    "El colículo inferior es una parada obligada donde se integra la información ascendente.",
+    "El cuerpo geniculado medial retransmite la información desde el tálamo hacia la corteza.",
+    "La corteza auditiva es donde el sonido se percibe y empieza a cobrar significado."
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Fibras cruzadas",
+   "baslik": "Fibras cruzadas y *no cruzadas*",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Vía cruzada",
+     "metin": "La mayoría, al hemisferio opuesto",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Puntos de cruce",
+     "metin": "Cuerpo trapezoide, lemnisco, colículo inferior",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "No cruzada",
+     "metin": "Menor, del mismo lado",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Resultado",
+     "metin": "Cada oído en ambos hemisferios",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Sigamos la vía desde un oído, por ejemplo desde la cóclea izquierda.",
+    "Después del núcleo coclear, la mayoría de las fibras se cruzan al otro lado; esta es la vía cruzada, o contralateral.",
+    "Por eso cada oído está más fuertemente conectado con el hemisferio del lado opuesto.",
+    "El cruce ocurre en varios puntos: en el cuerpo trapezoide, a nivel del lemnisco y entre los colículos.",
+    "Una proporción menor de fibras asciende por el mismo lado; esta es la vía no cruzada, o ipsilateral.",
+    "Como resultado, por encima del núcleo coclear cada oído está representado en ambos hemisferios del cerebro."
+   ]
+  },
+  {
+   "id": "tek_kulak",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Fibras cruzadas",
+   "baslik": "La *consecuencia clínica* de esta organización",
+   "maddeler": [
+    {
+     "metin": "Nervio y núcleo: se afecta _un oído_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Más arriba: audiograma a menudo _normal_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Pruebas difíciles: se afecta el _oído opuesto_",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "La _base_ de las pruebas centrales",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        5,
+        10,
+        15,
+        15
+       ],
+       "cumle": 1
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        10,
+        10,
+        15,
+        20
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Un problema a nivel del nervio auditivo o del núcleo coclear puede afectar solo al oído de ese lado.",
+    "Pero con un problema unilateral por encima del núcleo coclear, el audiograma tonal a menudo se mantiene normal.",
+    "En este audiograma de ejemplo, los umbrales de ambos oídos están dentro de los límites normales.",
+    "La dificultad suele aparecer en el oído opuesto al problema, en pruebas exigentes como el habla en ruido o estímulos distintos en cada oído.",
+    "Esta es la base de las pruebas de procesamiento auditivo central que veremos más adelante."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 5",
+   "bolum": "Relación con los PEATC",
+   "baslik": "Estaciones y *ondas del PEATC*",
+   "cizim": "abr",
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "onda I: nervio auditivo",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_III",
+     "metin": "onda III: núcleo coclear",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "onda V: lemnisco lateral y colículo inferior",
+     "cumle": 3
+    },
+    {
+     "parca": "latans_I_V",
+     "metin": "intervalo I-V: conducción en el tronco",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_III",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "cumle": 3
+    },
+    {
+     "parca": "latans_I_V",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Estas estaciones son los generadores de las ondas del registro de potenciales evocados auditivos de tronco cerebral, o PEATC.",
+    {
+     "yazi": "La onda I se origina en el extremo del nervio auditivo más cercano a la cóclea."
+    },
+    {
+     "yazi": "El principal generador de la onda III es el núcleo coclear, en el tronco cerebral."
+    },
+    {
+     "yazi": "La onda V se origina en la región donde el lemnisco lateral llega al colículo inferior."
+    },
+    {
+     "yazi": "El tiempo entre las ondas I y V muestra con qué rapidez viaja la señal por el tronco cerebral."
+    },
+    "Cada onda proviene de la actividad combinada de varias estructuras; esta correspondencia es una simplificación útil."
+   ]
+  },
+  {
+   "id": "dalga_tablo",
+   "tur": "tablo",
+   "bolum_no": "PARTE 5",
+   "bolum": "Relación con los PEATC",
+   "baslik": "Onda y *generador*",
+   "sutunlar": [
+    "Onda",
+    "Generador principal"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "I",
+      "Nervio auditivo, distal"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "II",
+      "Nervio auditivo, proximal"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "III",
+      "Núcleo coclear"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "IV",
+      "Complejo olivar superior"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "V",
+      "Lemnisco lateral, colículo inferior"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Las ondas I y II se originan en el nervio auditivo: la onda I en la parte cercana a la cóclea y la onda II en la parte cercana al tronco cerebral."
+    },
+    {
+     "yazi": "La onda III se asocia con el núcleo coclear."
+    },
+    {
+     "yazi": "La onda IV se origina en gran parte en el complejo olivar superior y a menudo se fusiona con la onda V."
+    },
+    {
+     "yazi": "La onda V refleja la región donde el lemnisco lateral llega al colículo inferior y es la onda más usada en la clínica."
+    },
+    "Como ven, los PEATC evalúan solo la parte de la vía que está en el tronco cerebral; no muestran el tálamo ni la corteza."
+   ]
+  },
+  {
+   "id": "retrokoklear",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 5",
+   "bolum": "Relación con los PEATC",
+   "baslik": "Ejemplo: sospecha *retrococlear*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: pérdida aguda asimétrica",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       35,
+       50,
+       55
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, los umbrales del oído derecho están dentro de los límites normales.",
+    "En el oído izquierdo, en cambio, hay una marcada pérdida neurosensorial unilateral en las frecuencias agudas.",
+    "Una pérdida asimétrica como esta puede sugerir que el problema está más allá de la cóclea, por ejemplo en el nervio auditivo.",
+    {
+     "yazi": "Otras pistas son una discriminación del habla en este oído peor de lo esperado por los umbrales y una onda V retrasada en los PEATC."
+    },
+    "La evaluación definitiva la realiza un médico con estudios de imagen; las pruebas audiológicas aportan información orientadora."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 5",
+   "bolum": "Relación con los PEATC",
+   "baslik": "Consejo clínico",
+   "metin": "Un audiograma normal no significa que la vía central esté intacta. Si un paciente refiere dificultad para oír en ruido, tomarlo en serio y, si corresponde, derivar a pruebas centrales.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo de la clínica: el audiograma tonal muestra solo los umbrales.",
+    "Como cada oído está representado en ambos hemisferios, un problema en la vía central puede no verse en el audiograma.",
+    "Tomen en serio la historia de quien refiere dificultad para entender en ruido a pesar de tener un audiograma normal.",
+    "En estos casos, las pruebas de habla, los PEATC y las pruebas auditivas centrales pueden aportar más información."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Núcleo coclear, oliva superior, _lemnisco lateral_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Colículo inferior, _cuerpo geniculado medial_, corteza",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "La mayoría de las fibras se _cruzan_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Ondas del PEATC: el _tronco cerebral_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "En el tronco cerebral, el sonido recorre el núcleo coclear, el complejo olivar superior y el lemnisco lateral.",
+    "Luego llega a la corteza auditiva a través del colículo inferior y el cuerpo geniculado medial.",
+    "La mayoría de las fibras se cruzan al lado opuesto; por encima del núcleo coclear, cada oído está representado en ambos hemisferios.",
+    {
+     "yazi": "Las ondas del PEATC reflejan las estaciones del tronco cerebral: la onda I, el nervio auditivo, y la onda V, la región del colículo inferior."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Dónde se encuentra por primera vez la información de los dos oídos?",
+   "secenekler": [
+    "Núcleo coclear",
+    "Complejo olivar superior",
+    "Cuerpo geniculado medial",
+    "Corteza auditiva"
+   ],
+   "dogru": 1,
+   "aciklama": "El núcleo coclear recibe información de un solo oído; los dos oídos se encuentran primero en el _complejo olivar superior_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿dónde se encuentra por primera vez la información de los dos oídos?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: el complejo olivar superior."
+    },
+    "El núcleo coclear recibe información solo de su propio oído; la información de los dos oídos se combina por primera vez en el complejo olivar superior."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "La *corteza auditiva* y las áreas del lenguaje",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la última parada de la vía: la corteza auditiva y las áreas del lenguaje.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

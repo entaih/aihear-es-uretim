@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R285_SII_Is_Not_a_Percentage_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #285",
+  "baslik": "SII: *no es un porcentaje*",
+  "alt": "El índice de inteligibilidad del habla",
+  "cizim": "konusma_muzu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Si el SII es de 0,5, ¿la persona entiende la mitad de las palabras? #shorts",
+  "aciklama": "El índice de inteligibilidad del habla (SII) resume cuánto del habla es audible, ponderado por la importancia de cada banda, en una escala de 0 a 1; las bandas de 1000 y 2000 Hz aportan cerca de la mitad de la información. Pero el SII no es un porcentaje de comprensión: un valor de 0,5 no significa que se entenderá la mitad de las palabras.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audifonos",
+   "SII"
+  ],
+  "etiketler": [
+   "SII",
+   "índice de inteligibilidad del habla",
+   "audibilidad",
+   "importancia de banda",
+   "mapeo del habla",
+   "ANSI S3.5",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Si el SII es de 0,5, ¿la persona entiende la mitad de las palabras?",
+  "bilgiler": [
+   "El SII resume el habla audible en una escala de 0 a 1.",
+   "Las bandas de 1000 y 2000 Hz aportan cerca de la mitad de la información.",
+   "Un SII de 0,5 no significa entender la mitad de las palabras."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "SII"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #285",
+   "metin": "¿Entiende *la mitad?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Si el SII es de 0,5, ¿la persona entiende la mitad de las palabras?"
+   ]
+  },
+  {
+   "id": "sii",
+   "tur": "zincir",
+   "baslik": "Cómo leer el *SII*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "0 a 1",
+     "tr": "resumen de audibilidad",
+     "cumle": 0
+    },
+    {
+     "ad": "Importancia de banda",
+     "tr": "1 y 2 kHz: la mitad",
+     "cumle": 2
+    },
+    {
+     "ad": "No es porcentaje",
+     "tr": "no es comprensión",
+     "cumle": 3
+    }
+   ],
+   "alt": "Audibilidad, _no comprensión_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "El SII resume cuánto del habla es audible, en una escala de 0 a 1.",
+    "En cada banda, la parte audible se pondera según la importancia de esa banda.",
+    "Las bandas de 1000 y 2000 hertz aportan cerca de la mitad de la información.",
+    "Pero 0,5 no significa que se entenderá la mitad de las palabras.",
+    "El SII resume la audibilidad; por sí solo, no predice la comprensión."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D191",
+ "kaynak_baslik": "Mapeo del habla y verificación con ISTS"
+}

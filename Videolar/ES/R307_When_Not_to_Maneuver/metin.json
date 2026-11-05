@@ -1,0 +1,106 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R307_When_Not_to_Maneuver_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #307",
+  "baslik": "*Sin maniobra* en este caso",
+  "alt": "Hallazgos que no corresponden a un VPPB típico",
+  "cizim": "nistagmus_izi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Todo vértigo posicional lleva una maniobra de reposicionamiento? #shorts",
+  "aciklama": "El éxito de una maniobra de reposicionamiento depende de un diagnóstico preciso. Si el nistagmo no corresponde a un VPPB típico, por ejemplo si no tiene latencia, no se fatiga o es vertical inferior puro, no se hace ninguna maniobra; se registran los hallazgos y se deriva al paciente para evaluación médica. El nistagmo posicional vertical inferior también puede tener causas centrales.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "VPPB",
+   "vestibular"
+  ],
+  "etiketler": [
+   "VPPB",
+   "nistagmo posicional",
+   "maniobra de reposicionamiento",
+   "nistagmo posicional central",
+   "nistagmo vertical inferior",
+   "derivación médica",
+   "vestibular",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Todo vértigo posicional lleva una maniobra de reposicionamiento?",
+  "bilgiler": [
+   "El éxito de la maniobra depende de un diagnóstico preciso.",
+   "Sin latencia, sin fatiga o vertical inferior puro: sin maniobra.",
+   "Se registran los hallazgos y se deriva al paciente al médico."
+  ],
+  "hashtag": [
+   "audiologia",
+   "VPPB",
+   "vestibular"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #307",
+   "metin": "¿Una maniobra para *todo vértigo?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Todo vértigo posicional lleva una maniobra de reposicionamiento?"
+   ]
+  },
+  {
+   "id": "uyari",
+   "tur": "zincir",
+   "baslik": "¿No es típico? *Alto*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Sin latencia",
+     "tr": "empieza de inmediato",
+     "cumle": 1
+    },
+    {
+     "ad": "No se fatiga",
+     "tr": "no disminuye",
+     "cumle": 1,
+     "gecikme": 0.8
+    },
+    {
+     "ad": "Solo hacia abajo",
+     "tr": "puede ser central",
+     "cumle": 2
+    }
+   ],
+   "alt": "No es maniobra: _derivación médica_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "El éxito de una maniobra depende de un diagnóstico preciso.",
+    "Un nistagmo sin latencia, o que no se fatiga, es atípico.",
+    "Un nistagmo posicional vertical inferior puro también puede tener causas centrales.",
+    "En esos casos, no se hace ninguna maniobra; se registran los hallazgos.",
+    "Se deriva al paciente para evaluación médica."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D205",
+ "kaynak_baslik": "Maniobras de reposicionamiento: Epley, Semont y Gufoni"
+}

@@ -1,0 +1,814 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D130_Threshold_ABR_ES",
+ "kapak": {
+  "ust": "LECCIÓN 130",
+  "baslik": "PEATC de *umbral*<br>en bebés",
+  "alt": "Tone bursts, nHL y eHL, sueño natural",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "PEATC de umbral: evaluación por frecuencia en bebés | Lección 130 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos cómo se estiman los umbrales por oído y por frecuencia en bebés con potenciales evocados auditivos de tronco cerebral (PEATC) con tone burst. Con ejemplos, vemos la conversión de los umbrales en dB nHL a nivel de audición estimado (eHL), los pasos de la búsqueda del umbral y la preparación para la prueba en sueño natural.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Joint Committee on Infant Hearing, Position Statement (2019); BSA and NHSP infant ABR guidelines.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "PEATC",
+   "audiologiapediatrica"
+  ],
+  "etiketler": [
+   "PEATC",
+   "PEATC de umbral",
+   "PEATC con tone burst",
+   "PEATC de frecuencia específica",
+   "nivel de audición estimado",
+   "eHL",
+   "dB nHL",
+   "evaluación auditiva en bebés",
+   "tamizaje auditivo neonatal",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 130",
+   "baslik": "Estimación del *umbral* con PEATC",
+   "alt": "Evaluación por frecuencia en bebés",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo se estiman los umbrales por frecuencia en bebés con potenciales evocados auditivos de tronco cerebral (PEATC, en inglés ABR).",
+    {
+     "yazi": "Veremos la búsqueda del umbral con tone burst, la conversión de los valores en nHL a nivel de audición estimado y la preparación para la prueba en sueño natural."
+    }
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué evaluar por frecuencia?",
+   "baslik": "¿Por qué PEATC de *umbral*?",
+   "maddeler": [
+    {
+     "metin": "Las pruebas conductuales _aún no_ son posibles",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Evaluación _diagnóstica_ tras el tamizaje",
+     "cumle": 1,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Objetivo: umbrales _por oído y frecuencia_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Un _audiograma estimado_ para la intervención temprana",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "En los primeros meses de vida, por lo general no es posible obtener un umbral conductual fiable de un bebé.",
+    "Un bebé que no pasa el tamizaje auditivo neonatal se deriva a la clínica de audiología para una evaluación diagnóstica.",
+    "El objetivo no es solo responder si hay una pérdida, sino estimar los umbrales de cada oído y de cada frecuencia.",
+    "Las recomendaciones internacionales buscan que el diagnóstico se haga por lo general antes de los tres meses, y que la intervención comience antes de los seis meses.",
+    "Los umbrales por frecuencia son la base del audiograma estimado que se usará para adaptar audífonos si hace falta."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "META",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "takvim",
+      "baslik": "Antes de los 3 meses",
+      "metin": "Diagnóstico",
+      "cumle": 3
+     },
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Antes de los 6 meses",
+      "metin": "Intervención",
+      "cumle": 3
+     }
+    ]
+   }
+  },
+  {
+   "id": "klik_tonburst",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué evaluar por frecuencia?",
+   "baslik": "¿Clic o *tone burst*?",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Clic",
+     "metin": "Sobre todo 2000 a 4000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Tone burst",
+     "metin": "Banda estrecha, estimación por frecuencia",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El clic es un estímulo muy breve y de banda ancha; produce una onda V fuerte y clara."
+    },
+    "Pero la respuesta al clic refleja sobre todo la audición en la región de unos dos mil a cuatro mil hertz.",
+    "Por eso, con el clic solo, puede pasar inadvertida una pérdida en graves o una muesca en una frecuencia concreta.",
+    "El tone burst es un fragmento corto de tono que dura unos pocos ciclos, con su energía concentrada alrededor de una frecuencia concreta.",
+    "Esto permite estimar por separado los umbrales en quinientos, mil, dos mil y cuatro mil hertz.",
+    "El resultado es una estimación por frecuencia que se parece a un audiograma.",
+    "Vimos en detalle la estructura de estos estímulos en la lección anterior."
+   ]
+  },
+  {
+   "id": "nhl",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Unidades y plan de prueba",
+   "baslik": "¿Qué es el *dB nHL*?",
+   "maddeler": [
+    {
+     "metin": "Nivel de audición normalizado: _nHL_",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Punto cero: _adultos_ con audición normal",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Estímulo breve: umbral conductual _más alto_",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Umbral de PEATC _algo por encima_ del conductual",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El nivel de los estímulos de los PEATC suele expresarse en dB nHL, el nivel de audición normalizado."
+    },
+    "El punto cero es el nivel promedio al que un grupo de adultos con audición normal oye, en forma conductual, ese estímulo breve.",
+    "Los estímulos breves se oyen a niveles más altos que un tono puro largo, porque el oído integra el sonido en el tiempo.",
+    {
+     "yazi": "Por eso, la escala nHL no es idéntica a la escala dB HL del audiograma."
+    },
+    "Además, el umbral obtenido con PEATC suele ser algo más alto que el umbral conductual de la misma persona.",
+    "Para salvar estas dos diferencias se usan los valores de corrección que veremos en breve."
+   ]
+  },
+  {
+   "id": "oncelik",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Unidades y plan de prueba",
+   "baslik": "*Prioridad* de frecuencias",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "2000 Hz",
+     "metin": "Primero, en cada oído",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "500 Hz",
+     "metin": "Después, en cada oído",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "4000, 1000 Hz",
+     "metin": "Si el tiempo alcanza",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Información crítica",
+     "metin": "Aunque el bebé despierte antes",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Como no sabemos cuánto dormirá el bebé, el orden de la prueba se planifica de antemano.",
+    "En muchos protocolos se evalúa primero dos mil hertz en cada oído, y luego quinientos hertz.",
+    "Si el tiempo alcanza, se agregan cuatro mil y mil hertz.",
+    "Así, aunque el bebé despierte antes, tenemos información sobre las frecuencias graves y agudas de ambos oídos.",
+    "El orden puede variar según el protocolo de la clínica; lo importante es reunir primero la información más crítica."
+   ]
+  },
+  {
+   "id": "kulak",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Unidades y plan de prueba",
+   "baslik": "Evaluación *por oído*",
+   "maddeler": [
+    {
+     "metin": "Auriculares _de inserción_, cada oído por separado",
+     "cumle": 0,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Conducto pequeño: presión sonora _más alta_",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "_Se evita_ el colapso del conducto",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Atenuación _interaural_ alta",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Buscar _vérnix_ en el conducto",
+     "cumle": 5,
+     "ikon": "otoskop"
+    }
+   ],
+   "cumleler": [
+    "En bebés, los PEATC por vía aérea suelen hacerse con auriculares de inserción.",
+    "Cada oído se evalúa por separado, y los resultados se informan por separado para el oído derecho y el izquierdo.",
+    "Como el conducto auditivo del bebé es pequeño, el mismo ajuste produce en el conducto una presión sonora más alta que en un adulto.",
+    "Los auriculares de inserción también evitan el colapso del conducto que puede causar la presión de los auriculares supraaurales.",
+    "Con auriculares de inserción la atenuación interaural es alta, por lo que se reduce la necesidad de enmascaramiento por vía aérea.",
+    "Los restos de vérnix o de líquido en el conducto pueden elevar falsamente los umbrales, por lo que el conducto debe revisarse antes de la prueba."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Búsqueda del umbral",
+   "baslik": "Pasos de la *búsqueda* del umbral",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Nivel moderado",
+     "metin": "Se espera respuesta clara",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Bajar 10 dB",
+     "metin": "Mientras se vea la onda V",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Pasos de 5 dB",
+     "metin": "Cerca del umbral, si hace falta",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Umbral",
+     "metin": "Nivel más bajo con respuesta replicada",
+     "cumle": 3
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Confirmar",
+     "metin": "Sin respuesta justo debajo",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La búsqueda del umbral suele comenzar en un nivel moderado en el que se espera una respuesta clara.",
+    {
+     "yazi": "Cuando se ve una onda V reproducible, el nivel suele bajarse en pasos de diez decibeles."
+    },
+    "Al acercarse al umbral, se usan pasos de cinco decibeles si hace falta.",
+    {
+     "yazi": "El umbral es el nivel más bajo en el que la onda V se replica en ambos registros."
+    },
+    "Para reforzar esta decisión, se muestra la ausencia de respuesta en el nivel justo inferior, con una promediación suficiente.",
+    "Una decisión de ausencia de respuesta solo es fiable si el ruido residual del registro es lo bastante bajo."
+   ]
+  },
+  {
+   "id": "dalga_v",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Búsqueda del umbral",
+   "baslik": "La *onda V* cerca del umbral",
+   "cizim": "abr",
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "Onda seguida hasta el umbral",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Menor nivel: más latencia, menos amplitud",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "500 Hz: respuesta más ancha y tardía",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ventana: unos 20 a 25 ms",
+     "cumle": 5,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Al bajar el nivel, desaparecen las ondas I y III; la onda V es la última en desaparecer."
+    },
+    {
+     "yazi": "Por eso, en la búsqueda del umbral se sigue la onda V."
+    },
+    {
+     "yazi": "Al bajar el nivel, la latencia de la onda V aumenta y su amplitud disminuye."
+    },
+    "En las frecuencias graves, por ejemplo quinientos hertz, la respuesta es más ancha y llega más tarde.",
+    {
+     "yazi": "En estas frecuencias, la onda negativa lenta que sigue a la onda V también ayuda a reconocer la respuesta."
+    },
+    "Por eso, en los registros con tone burst, la ventana de análisis suele ampliarse a entre veinte y veinticinco milisegundos."
+   ]
+  },
+  {
+   "id": "var_yok",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Búsqueda del umbral",
+   "baslik": "¿Hay *respuesta* o no?",
+   "maddeler": [
+    {
+     "metin": "_Superposición_ de dos registros",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Ruido residual_ bajo",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Criterio estadístico: p. ej. _Fsp_",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Sin respuesta: anotar el _nivel máximo_",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "La decisión sobre la respuesta se toma primero de forma visual, comprobando si dos registros se superponen a la misma latencia.",
+    "El ruido residual es la actividad de fondo que queda en el registro tras la promediación; cuanto más bajo, más fiable es la decisión.",
+    {
+     "yazi": "Muchos equipos usan también medidas estadísticas como el Fsp para mostrar numéricamente si la respuesta se destaca del ruido.",
+     "ses": "Muchos equipos usan también medidas estadísticas como el efe ese pe para mostrar numéricamente si la respuesta se destaca del ruido."
+    },
+    "Usar juntas la evaluación visual y la estadística reduce la probabilidad de una decisión equivocada.",
+    "Si no hay respuesta ni siquiera al nivel máximo del equipo, el resultado se informa como ausencia de respuesta al nivel más alto evaluado."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dalga_V",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dalga_V",
+      "metin": "misma latencia en ambos registros",
+      "cumle": 0
+     }
+    ]
+   }
+  },
+  {
+   "id": "kalite",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Búsqueda del umbral",
+   "baslik": "*Calidad* del registro",
+   "maddeler": [
+    {
+     "metin": "Impedancia baja y _equilibrada_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Bebé tranquilo, poco _artefacto muscular_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Rechazo de artefactos _activado_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Más_ promediación cerca del umbral",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Como vimos en lecciones anteriores, un buen registro de umbral empieza con una impedancia de electrodos baja y equilibrada.",
+    "Cuando el bebé se mueve o succiona, aumenta el artefacto muscular; el registro se pausa hasta que se calme.",
+    "El rechazo de artefactos se mantiene activado, para que los barridos con voltajes muy grandes no entren en el promedio.",
+    "Cerca del umbral la respuesta es más pequeña, por lo que se aumenta el número de barridos y se comprueba que el ruido residual sea lo bastante bajo.",
+    "Si la calidad del registro es mala, el umbral puede sobreestimarse; esto debe indicarse en el informe."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si no hay respuesta, registrar clics a nivel alto en cada polaridad por separado; un microfónico coclear que se invierte puede sugerir neuropatía auditiva.",
+   "cumleler": [
+    "Un consejo clínico: si no obtienen respuesta en ninguna frecuencia con tone bursts, no terminen la sesión de inmediato.",
+    "Registren con un clic de nivel alto, por separado en polaridad de condensación y de rarefacción.",
+    "Una respuesta temprana que se invierte con la polaridad puede ser un microfónico coclear y hace sospechar una neuropatía auditiva.",
+    "En próximas lecciones veremos cómo se distingue esta respuesta del artefacto del estímulo, y la neuropatía auditiva en detalle."
+   ]
+  },
+  {
+   "id": "ehl",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "De nHL a eHL",
+   "baslik": "Nivel de audición estimado: *eHL*",
+   "maddeler": [
+    {
+     "metin": "eHL: _nivel de audición estimado_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "eHL = nHL menos la _corrección_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "La corrección depende del _equipo y el protocolo_",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Corrección _mayor_ en frecuencias graves",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "eHL",
+    "metin": "El umbral de PEATC convertido a la escala del *audiograma*",
+    "cumle": 0
+   },
+   "cumleler": [
+    {
+     "yazi": "El nivel de audición estimado (eHL) es el umbral de PEATC convertido a la escala del audiograma."
+    },
+    {
+     "yazi": "El cálculo es sencillo: al umbral obtenido en nHL se le resta el valor de corrección de esa frecuencia."
+    },
+    "Los valores de corrección varían según el equipo, el estímulo y el protocolo; las tablas publicadas también difieren entre sí.",
+    "En muchas tablas, la corrección es mayor en las frecuencias graves y menor en las agudas.",
+    "Algunos protocolos aplican una corrección menor a medida que aumenta el grado de pérdida auditiva."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "De nHL a eHL",
+   "baslik": "Un ejemplo de *conversión*",
+   "sutunlar": [
+    "Frecuencia",
+    "Umbral de PEATC",
+    "Corrección de ejemplo",
+    "Umbral estimado"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "50 dB nHL",
+      "unos 15 dB",
+      "35 dB eHL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "45 dB nHL",
+      "unos 10 dB",
+      "35 dB eHL"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "50 dB nHL",
+      "unos 5 dB",
+      "45 dB eHL"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "60 dB nHL",
+      "unos 5 dB",
+      "55 dB eHL"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Ahora hagamos el cálculo con un registro de bebé totalmente inventado.",
+    {
+     "yazi": "En este ejemplo, el umbral a 500 Hz es de 50 dB nHL; con una corrección de unos 15 decibeles, la estimación es de 35 dB eHL."
+    },
+    {
+     "yazi": "Para 1000 Hz, se restan unos 10 decibeles al umbral de 45 dB nHL, lo que da 35 dB eHL."
+    },
+    "En dos mil y cuatro mil hertz la corrección es menor; en este ejemplo se usaron unos cinco decibeles.",
+    "El resultado es un perfil de pérdida estimado en el rango leve a moderado, que aumenta hacia las frecuencias agudas.",
+    "Los valores de corrección de aquí son solo ejemplos; en la clínica, usen siempre la tabla de su propio protocolo."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "De nHL a eHL",
+   "baslik": "*Interpretar* el eHL",
+   "maddeler": [
+    {
+     "metin": "eHL: una _estimación_, no un umbral exacto",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Tipo de pérdida: _PEATC por vía ósea_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Oído medio: timpanometría a _1000 Hz_",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "En la batería de pruebas: _OEA_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Más adelante, _confirmar_ con pruebas conductuales",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "Los umbrales estimados son estimaciones razonables, no valores exactos que reemplacen el umbral conductual.",
+    "Para saber si una pérdida es conductiva o neurosensorial se necesitan PEATC por vía ósea; los veremos en la próxima lección.",
+    "En bebés menores de seis meses, el oído medio se evalúa con timpanometría con tono de sonda de mil hertz.",
+    "Los resultados de las otoemisiones acústicas (OEA) también forman parte de la batería de pruebas y aportan información adicional sobre la función coclear.",
+    "Cuando el bebé ya pueda hacer pruebas conductuales, los umbrales estimados se confirman con audiometría por refuerzo visual."
+   ]
+  },
+  {
+   "id": "uyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Sueño natural y sedación",
+   "baslik": "Prueba en *sueño natural*",
+   "maddeler": [
+    {
+     "metin": "Primeros meses: suele bastar el _sueño natural_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Cita: a la hora de _sueño y alimentación_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Mantenerlo _despierto_ antes de llegar",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Electrodos y auriculares _antes del sueño_",
+     "cumle": 4,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Sala con luz tenue, silenciosa y _templada_",
+     "cumle": 5,
+     "ikon": "sessizlik"
+    }
+   ],
+   "cumleler": [
+    "Como los PEATC se ven afectados fácilmente por la actividad muscular, el bebé necesita estar en un sueño profundo y tranquilo.",
+    "En los primeros meses de vida, la prueba a menudo puede hacerse en sueño natural, sin medicación.",
+    "La cita se planifica según los horarios habituales de sueño y alimentación del bebé.",
+    "Se pide a la familia que mantenga al bebé despierto lo más posible antes de llegar y que lo alimente en la clínica.",
+    "Los electrodos y los auriculares de inserción se colocan antes de que el bebé se duerma, mientras está en brazos de su madre o padre.",
+    "Una sala con luz tenue, silenciosa y templada ayuda a que el bebé siga dormido."
+   ]
+  },
+  {
+   "id": "sedasyon",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Sueño natural y sedación",
+   "baslik": "¿Cuándo se usa *sedación*?",
+   "maddeler": [
+    {
+     "metin": "El _sueño natural_ se dificulta con la edad",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Sedación: decisión y supervisión _del médico_",
+     "cumle": 1,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Audiólogo: un plan de prueba _listo_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Registro con bebé despierto: _no fiable_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "A medida que el bebé crece, por lo general después de los seis meses, es más difícil obtener un registro largo y tranquilo en sueño natural.",
+    "Entonces puede necesitarse sedación; la decisión y su administración son responsabilidad del médico.",
+    "El papel del audiólogo es preparar de antemano un plan de prueba que aproveche al máximo el tiempo de sedación.",
+    "En algunos niños, la prueba también puede programarse durante una anestesia general indicada por otro motivo.",
+    "Un registro de PEATC de un bebé despierto y en movimiento, por lo general, no es fiable para estimar el umbral."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Sueño natural y sedación",
+   "baslik": "¿*Qué* debe incluir el informe?",
+   "maddeler": [
+    {
+     "metin": "Oído, estímulo y _frecuencias_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Umbrales en nHL y estimaciones _eHL_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "La tabla de _corrección_ usada",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Estado de sueño y _calidad del registro_",
+     "cumle": 3,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Frecuencias faltantes y plan de _seguimiento_",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "El informe indica el estímulo usado y las frecuencias evaluadas en cada oído.",
+    {
+     "yazi": "Se escriben por separado los umbrales en nHL y las estimaciones en eHL calculadas a partir de ellos."
+    },
+    "También se indica la tabla de corrección usada, para que otro centro pueda interpretar bien el resultado.",
+    "Se añaden al informe el estado de sueño del bebé, si se usó sedación y la calidad del registro.",
+    "Las frecuencias que no pudieron completarse se enumeran con claridad, y se programa una cita de seguimiento."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "El clic no basta: _tone bursts_ por frecuencia",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Umbral: nivel más bajo con _onda V_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "eHL = nHL menos la _corrección_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "En bebés pequeños se prefiere el _sueño natural_",
+     "cumle": 3,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "El clic refleja sobre todo las frecuencias agudas; para obtener información por frecuencia se usan tone bursts.",
+    {
+     "yazi": "El umbral es el nivel más bajo en el que se ve una onda V reproducible."
+    },
+    {
+     "yazi": "El umbral en nHL se convierte a nivel de audición estimado, o eHL, con una corrección específica para cada frecuencia."
+    },
+    "En los bebés pequeños, la prueba se hace en sueño natural siempre que sea posible."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Umbral a 500 Hz de 50 dB nHL, corrección de 15 dB. ¿Umbral estimado?",
+   "secenekler": [
+    "35 dB eHL",
+    "50 dB eHL",
+    "65 dB eHL"
+   ],
+   "dogru": 0,
+   "aciklama": "La corrección se resta del umbral en nHL: 50 menos 15 = _35 dB eHL_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si el umbral de PEATC a 500 Hz es de 50 dB nHL y la corrección es de 15 decibeles, ¿cuál es el umbral estimado?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la A: 35 dB eHL."
+    },
+    {
+     "yazi": "El valor de corrección se resta del umbral en nHL, no se suma."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Función latencia-intensidad y PEATC por *vía ósea*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la función latencia-intensidad y los PEATC por vía ósea, que permiten saber el tipo de pérdida.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

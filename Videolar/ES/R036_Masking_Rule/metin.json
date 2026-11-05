@@ -1,0 +1,135 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R036_Masking_Rule_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #36",
+  "baslik": "Una resta, *una decisión*",
+  "alt": "La regla de enmascaramiento de la vía aérea",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      50,
+      55,
+      60,
+      65,
+      70,
+      70
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Cómo puede una resta decirte que hay que enmascarar? #shorts",
+  "aciklama": "Para la vía aérea, se resta el umbral por vía ósea del oído no evaluado (NTE) al umbral del oído evaluado (TE). Si la diferencia alcanza la atenuación interaural (AI), 40 dB con auriculares supraaurales y unos 55 dB con auriculares de inserción, hace falta enmascarar.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "enmascaramiento",
+   "audiometria"
+  ],
+  "etiketler": [
+   "enmascaramiento",
+   "enmascaramiento de la vía aérea",
+   "regla de enmascaramiento",
+   "atenuación interaural",
+   "auriculares de inserción",
+   "audiología",
+   "audiometría",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Puede una resta decirte que hay que enmascarar?",
+  "bilgiler": [
+   "Resta el umbral óseo del NTE al umbral aéreo del TE.",
+   "Si alcanza la AI, enmascara: 40 dB supraaural, unos 55 dB de inserción.",
+   "Compara con la vía ósea del otro oído, no con su vía aérea."
+  ],
+  "hashtag": [
+   "audiologia",
+   "enmascaramiento",
+   "audiometria"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #36",
+   "metin": "¿Puede *una resta* decirte cuándo enmascarar?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Puede una resta decirte que hay que enmascarar?"
+   ]
+  },
+  {
+   "id": "kural",
+   "tur": "zincir",
+   "baslik": "*Regla de enmascaramiento* en vía aérea",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "TE",
+     "cumle": 0,
+     "tr": "oído evaluado"
+    },
+    {
+     "ad": "NTE",
+     "cumle": 1,
+     "tr": "oído no evaluado"
+    },
+    {
+     "ad": "AI",
+     "cumle": 2,
+     "tr": "atenuación"
+    }
+   ],
+   "alt": "VA del TE menos VO del NTE: enmascarar _si alcanza la AI_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "Partimos del umbral por vía aérea del oído evaluado.",
+    "A ese umbral le restamos el umbral por vía ósea del otro oído.",
+    "Si la diferencia es igual o mayor que la atenuación interaural, hace falta enmascarar.",
+    "Esto es cuarenta decibeles con auriculares supraaurales y cincuenta y cinco con auriculares de inserción.",
+    "Comparamos con la vía ósea del otro oído, no con su vía aérea."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D088",
+ "kaynak_baslik": "¿Cuándo hay que enmascarar la vía aérea?"
+}

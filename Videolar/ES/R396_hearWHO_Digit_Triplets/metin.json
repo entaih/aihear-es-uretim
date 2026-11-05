@@ -1,0 +1,251 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R396_hearWHO_Digit_Triplets_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #396",
+  "baslik": "La aplicación *hearWHO*",
+  "alt": "Tamizaje con dígitos en ruido",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 24,
+    "ad": "Número de trío de dígitos",
+    "isaretler": [
+     1,
+     5,
+     10,
+     15,
+     20,
+     23
+    ]
+   },
+   "y": {
+    "min": -14,
+    "max": 2,
+    "adim": 2,
+    "ad": "SNR (dB)"
+   },
+   "seriler": [
+    {
+     "ad": "iz",
+     "noktalar": [
+      [
+       1,
+       0
+      ],
+      [
+       2,
+       -2
+      ],
+      [
+       3,
+       -4
+      ],
+      [
+       4,
+       -6
+      ],
+      [
+       5,
+       -8
+      ],
+      [
+       6,
+       -10
+      ],
+      [
+       7,
+       -8
+      ],
+      [
+       8,
+       -10
+      ],
+      [
+       9,
+       -12
+      ],
+      [
+       10,
+       -10
+      ],
+      [
+       11,
+       -8
+      ],
+      [
+       12,
+       -10
+      ],
+      [
+       13,
+       -12
+      ],
+      [
+       14,
+       -10
+      ],
+      [
+       15,
+       -12
+      ],
+      [
+       16,
+       -10
+      ],
+      [
+       17,
+       -8
+      ],
+      [
+       18,
+       -10
+      ],
+      [
+       19,
+       -12
+      ],
+      [
+       20,
+       -10
+      ],
+      [
+       21,
+       -12
+      ],
+      [
+       22,
+       -10
+      ],
+      [
+       23,
+       -12
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "sure": 3,
+     "etiket": "trayectoria adaptativa",
+     "cumle": 1
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "dalgalanma",
+     "y": [
+      -12,
+      -8
+     ],
+     "renk": "sari",
+     "etiket": "zona de oscilación",
+     "cumle": 3
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "srt",
+     "x": 18,
+     "y": -10,
+     "cizgi": "yatay",
+     "etiket": "URP cerca de -10 dB",
+     "cumle": 4
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Cómo funciona la aplicación auditiva gratuita de la Organización Mundial de la Salud? #shorts",
+  "aciklama": "La aplicación hearWHO de la Organización Mundial de la Salud (OMS) es una herramienta de tamizaje gratuita que usa la tecnología de dígitos en ruido. La persona escucha con auriculares 23 tríos de dígitos en ruido y obtiene un puntaje de 0 a 100; por debajo de 50 se le aconseja consultar a un profesional, y un puntaje por encima de 75 indica buena audición. La aplicación está diseñada para personas de 12 años o más, y su resultado no es un diagnóstico, sino una señal de derivación.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "tamizaje",
+   "hearWHO"
+  ],
+  "etiketler": [
+   "hearWHO",
+   "prueba de dígitos en ruido",
+   "tamizaje auditivo en adultos",
+   "Organización Mundial de la Salud",
+   "tamizaje auditivo",
+   "aplicación",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Cómo funciona la aplicación auditiva gratuita de la Organización Mundial de la Salud?",
+  "bilgiler": [
+   "La persona escucha 23 tríos de dígitos en ruido.",
+   "Puntaje de 0 a 100; por debajo de 50, consulta a un profesional.",
+   "El resultado es una señal de derivación, no un diagnóstico."
+  ],
+  "hashtag": [
+   "audiologia",
+   "tamizaje",
+   "hearWHO"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #396",
+   "metin": "¿Tamizaje *gratuito?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Cómo funciona la aplicación auditiva gratuita de la Organización Mundial de la Salud?"
+   ]
+  },
+  {
+   "id": "hearwho",
+   "tur": "zincir",
+   "baslik": "La aplicación *hearWHO*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "23 tríos",
+     "tr": "dígitos en ruido",
+     "cumle": 0
+    },
+    {
+     "ad": "0-100",
+     "tr": "puntaje",
+     "cumle": 1
+    },
+    {
+     "ad": "Menos de 50",
+     "tr": "consultar a un profesional",
+     "cumle": 2
+    }
+   ],
+   "alt": "No es diagnóstico: _es señal de derivación_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "La persona escucha con auriculares veintitrés tríos de dígitos en ruido.",
+    "El resultado es un puntaje de cero a cien.",
+    "Por debajo de cincuenta, se le aconseja consultar a un profesional.",
+    "Un puntaje por encima de setenta y cinco indica buena audición.",
+    "El resultado no es un diagnóstico, sino una señal de derivación."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D177",
+ "kaynak_baslik": "Tamizaje auditivo en adultos y adultos mayores"
+}

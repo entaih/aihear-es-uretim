@@ -1,0 +1,103 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R157_Is_Cholesteatoma_A_Tumor_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #157",
+  "baslik": "¿El *colesteatoma* es un tumor?",
+  "alt": "Un nombre engañoso: piel atrapada en el oído medio",
+  "cizim": "orta_kulak",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿El colesteatoma es un tumor y tiene que ver con el colesterol? #shorts",
+  "aciklama": "El colesteatoma es una acumulación de piel productora de queratina y de restos de queratina en el oído medio o la mastoides. El nombre es engañoso: no es un tumor y no tiene relación directa con el colesterol, pero crece con el tiempo y puede erosionar los huesecillos.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "oido",
+   "audicion"
+  ],
+  "etiketler": [
+   "colesteatoma",
+   "oído medio",
+   "erosión de los huesecillos",
+   "hipoacusia conductiva",
+   "otorrea",
+   "enfermedades del oído",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿El colesteatoma es un tumor? ¿Tiene algo que ver con el colesterol?",
+  "bilgiler": [
+   "El colesteatoma es piel productora de queratina y restos en el oído medio.",
+   "No es un tumor ni tiene relación directa con el colesterol.",
+   "Crece con el tiempo y puede erosionar los huesecillos."
+  ],
+  "hashtag": [
+   "audiologia",
+   "oido",
+   "audicion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #157",
+   "metin": "¿El colesteatoma es un *tumor?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿El colesteatoma es un tumor y tiene que ver con el colesterol?"
+   ]
+  },
+  {
+   "id": "kolesteatom",
+   "tur": "zincir",
+   "baslik": "Un nombre *engañoso*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Piel",
+     "tr": "produce queratina",
+     "cumle": 0
+    },
+    {
+     "ad": "Saco",
+     "tr": "se acumulan restos",
+     "cumle": 1
+    },
+    {
+     "ad": "Erosión",
+     "tr": "de los huesecillos",
+     "cumle": 3
+    }
+   ],
+   "alt": "No es un tumor, pero es _grave_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "El colesteatoma es piel productora de queratina en el oído medio o la mastoides.",
+    "Esta piel descama sin cesar restos de células muertas dentro de un saco.",
+    "El nombre engaña: no es un tumor ni tiene relación directa con el colesterol.",
+    "Pero crece con el tiempo y puede erosionar los huesecillos."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D069",
+ "kaynak_baslik": "Colesteatoma: lo que todo audiólogo debe saber"
+}

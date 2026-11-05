@@ -1,0 +1,1347 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D120_Sensitivity_Specificity_ES",
+ "kapak": {
+  "ust": "LECCIÓN 120",
+  "baslik": "Sensibilidad y<br>*especificidad*",
+  "alt": "La tabla de dos por dos y los valores predictivos",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 100,
+    "adim": 20,
+    "ad": "Valor de la prueba"
+   },
+   "y": {
+    "min": 0,
+    "max": 1.15,
+    "adim": 0.5,
+    "yazisiz": true,
+    "ad": "Número de personas (relativo)"
+   },
+   "seriler": [
+    {
+     "ad": "saglikli",
+     "noktalar": [
+      [
+       0,
+       0.002
+      ],
+      [
+       2.5,
+       0.005
+      ],
+      [
+       5.0,
+       0.011
+      ],
+      [
+       7.5,
+       0.023
+      ],
+      [
+       10.0,
+       0.044
+      ],
+      [
+       12.5,
+       0.08
+      ],
+      [
+       15.0,
+       0.135
+      ],
+      [
+       17.5,
+       0.216
+      ],
+      [
+       20.0,
+       0.325
+      ],
+      [
+       22.5,
+       0.458
+      ],
+      [
+       25.0,
+       0.607
+      ],
+      [
+       27.5,
+       0.755
+      ],
+      [
+       30.0,
+       0.882
+      ],
+      [
+       32.5,
+       0.969
+      ],
+      [
+       35.0,
+       1.0
+      ],
+      [
+       37.5,
+       0.969
+      ],
+      [
+       40.0,
+       0.882
+      ],
+      [
+       42.5,
+       0.755
+      ],
+      [
+       45.0,
+       0.607
+      ],
+      [
+       47.5,
+       0.458
+      ],
+      [
+       50.0,
+       0.325
+      ],
+      [
+       52.5,
+       0.216
+      ],
+      [
+       55.0,
+       0.135
+      ],
+      [
+       57.5,
+       0.08
+      ],
+      [
+       60.0,
+       0.044
+      ],
+      [
+       62.5,
+       0.023
+      ],
+      [
+       65.0,
+       0.011
+      ],
+      [
+       67.5,
+       0.005
+      ],
+      [
+       70.0,
+       0.002
+      ],
+      [
+       72.5,
+       0.001
+      ],
+      [
+       75.0,
+       0.0
+      ],
+      [
+       77.5,
+       0.0
+      ],
+      [
+       80.0,
+       0.0
+      ],
+      [
+       82.5,
+       0.0
+      ],
+      [
+       85.0,
+       0.0
+      ],
+      [
+       87.5,
+       0.0
+      ],
+      [
+       90.0,
+       0.0
+      ],
+      [
+       92.5,
+       0.0
+      ],
+      [
+       95.0,
+       0.0
+      ],
+      [
+       97.5,
+       0.0
+      ],
+      [
+       100.0,
+       0.0
+      ]
+     ],
+     "renk": "mavi",
+     "yumusak": true,
+     "dolgu": true,
+     "etiket": "sanos",
+     "etiket_konum": [
+      22,
+      1.05
+     ],
+     "cumle": 1
+    },
+    {
+     "ad": "hasta",
+     "noktalar": [
+      [
+       0,
+       0.0
+      ],
+      [
+       2.5,
+       0.0
+      ],
+      [
+       5.0,
+       0.0
+      ],
+      [
+       7.5,
+       0.0
+      ],
+      [
+       10.0,
+       0.0
+      ],
+      [
+       12.5,
+       0.0
+      ],
+      [
+       15.0,
+       0.0
+      ],
+      [
+       17.5,
+       0.0
+      ],
+      [
+       20.0,
+       0.0
+      ],
+      [
+       22.5,
+       0.0
+      ],
+      [
+       25.0,
+       0.0
+      ],
+      [
+       27.5,
+       0.001
+      ],
+      [
+       30.0,
+       0.002
+      ],
+      [
+       32.5,
+       0.005
+      ],
+      [
+       35.0,
+       0.011
+      ],
+      [
+       37.5,
+       0.023
+      ],
+      [
+       40.0,
+       0.044
+      ],
+      [
+       42.5,
+       0.08
+      ],
+      [
+       45.0,
+       0.135
+      ],
+      [
+       47.5,
+       0.216
+      ],
+      [
+       50.0,
+       0.325
+      ],
+      [
+       52.5,
+       0.458
+      ],
+      [
+       55.0,
+       0.607
+      ],
+      [
+       57.5,
+       0.755
+      ],
+      [
+       60.0,
+       0.882
+      ],
+      [
+       62.5,
+       0.969
+      ],
+      [
+       65.0,
+       1.0
+      ],
+      [
+       67.5,
+       0.969
+      ],
+      [
+       70.0,
+       0.882
+      ],
+      [
+       72.5,
+       0.755
+      ],
+      [
+       75.0,
+       0.607
+      ],
+      [
+       77.5,
+       0.458
+      ],
+      [
+       80.0,
+       0.325
+      ],
+      [
+       82.5,
+       0.216
+      ],
+      [
+       85.0,
+       0.135
+      ],
+      [
+       87.5,
+       0.08
+      ],
+      [
+       90.0,
+       0.044
+      ],
+      [
+       92.5,
+       0.023
+      ],
+      [
+       95.0,
+       0.011
+      ],
+      [
+       97.5,
+       0.005
+      ],
+      [
+       100.0,
+       0.002
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true,
+     "dolgu": true,
+     "etiket": "afectados",
+     "etiket_konum": [
+      72,
+      1.05
+     ],
+     "cumle": 1
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "kesme",
+     "x": 50,
+     "y": 1.1,
+     "cizgi": "dikey",
+     "etiket": "punto de corte",
+     "cumle": 2
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Sensibilidad, especificidad y valores predictivos | Lección 120 | AIHEAR Academia de Audiología",
+  "aciklama": "El desempeño de una prueba se describe con su sensibilidad, su especificidad y sus valores predictivos. En esta lección usamos un ejemplo ficticio de tamizaje auditivo neonatal para armar la tabla de dos por dos, calcular las cuatro medidas y analizar el costo de los resultados falsos positivos y falsos negativos y el efecto de la prevalencia sobre el valor predictivo positivo.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Altman DG, Bland JM (1994), Diagnostic tests 1: sensitivity and specificity, BMJ; Altman DG, Bland JM (1994), Diagnostic tests 2: predictive values, BMJ; JCIH (2019), Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "bioestadistica",
+   "tamizaje"
+  ],
+  "etiketler": [
+   "sensibilidad",
+   "especificidad",
+   "valor predictivo positivo",
+   "valor predictivo negativo",
+   "tabla de dos por dos",
+   "prevalencia",
+   "tamizaje auditivo neonatal",
+   "curva ROC",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 120",
+   "baslik": "Sensibilidad, *especificidad* y valores predictivos",
+   "alt": "La tabla de dos por dos y los valores predictivos",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos la sensibilidad, la especificidad y los valores predictivos, que muestran qué tan bien una prueba distingue a las personas.",
+    "Veremos cómo armar la tabla de dos por dos, hacer los cálculos e interpretar los resultados en un ejemplo de tamizaje auditivo neonatal."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos básicos",
+   "baslik": "¿*Qué tan* exacta es la prueba?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Verdadero positivo",
+     "metin": "Afectado, prueba positiva",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Falso positivo",
+     "metin": "Sano, prueba positiva",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Falso negativo",
+     "metin": "Afectado, prueba negativa",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Verdadero negativo",
+     "metin": "Sano, prueba negativa",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Comparamos el resultado de una prueba con una prueba de referencia que muestra la condición con certeza; esta se llama patrón de oro.",
+    "Si la prueba es positiva en una persona que tiene la condición, el resultado es un verdadero positivo.",
+    "Si la prueba es positiva en una persona sana, es un resultado falso positivo.",
+    "Si la prueba es negativa en una persona que tiene la condición, es un resultado falso negativo.",
+    "Si la prueba es negativa en una persona sana, el resultado es un verdadero negativo.",
+    "Estas cuatro posibilidades son la base de todas las medidas que describen el desempeño de una prueba."
+   ]
+  },
+  {
+   "id": "dortlu",
+   "tur": "tablo",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos básicos",
+   "baslik": "La tabla de *dos por dos*",
+   "sutunlar": [
+    "Resultado de la prueba",
+    "Condición presente",
+    "Condición ausente"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Prueba positiva",
+      "a: verdadero positivo",
+      "b: falso positivo"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Prueba negativa",
+      "c: falso negativo",
+      "d: verdadero negativo"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Total",
+      "a + c",
+      "b + d"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Ordenamos estas cuatro posibilidades en una tabla de dos filas y dos columnas; se llama tabla de dos por dos, o tabla de contingencia.",
+    "Las filas muestran el resultado de la prueba, y las columnas, la condición real según el patrón de oro.",
+    "Las celdas suelen rotularse a, b, c y d: a es verdadero positivo, b falso positivo, c falso negativo y d verdadero negativo.",
+    "Los totales de las columnas dan el número de personas que realmente tienen la condición y el número de personas sanas.",
+    "Todos los cálculos se hacen a partir de estos cuatro números."
+   ]
+  },
+  {
+   "id": "duyarlilik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Sensibilidad y especificidad",
+   "baslik": "*Sensibilidad* y especificidad",
+   "maddeler": [
+    {
+     "metin": "_Sensibilidad_ = a / (a + c)",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Si es alta: _pocos casos perdidos_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Especificidad_ = d / (b + d)",
+     "cumle": 4,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Si es alta: pocas _falsas alarmas_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "RECUERDA",
+    "metin": "La sensibilidad detecta a los afectados; la especificidad, a los *sanos*",
+    "cumle": 6
+   },
+   "cumleler": [
+    "La sensibilidad es la proporción de personas con la condición en quienes la prueba da positivo.",
+    "Como fórmula, la sensibilidad es a dividido entre a más c.",
+    "Una prueba muy sensible rara vez pasa por alto a las personas afectadas; es decir, tiene pocos falsos negativos.",
+    "La especificidad es la proporción de personas sanas en quienes la prueba da negativo.",
+    "Como fórmula, la especificidad es d dividido entre b más d.",
+    "Una prueba muy específica rara vez clasifica a personas sanas como afectadas; es decir, tiene pocos falsos positivos.",
+    "Estas dos medidas son propiedades de la prueba misma y no dependen directamente de qué tan frecuente es la condición."
+   ]
+  },
+  {
+   "id": "kesme",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Sensibilidad y especificidad",
+   "baslik": "Cuando el punto de corte *se mueve*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Valor de la prueba"
+    },
+    "y": {
+     "min": 0,
+     "max": 1.15,
+     "adim": 0.5,
+     "yazisiz": true,
+     "ad": "Número de personas (relativo)"
+    },
+    "seriler": [
+     {
+      "ad": "saglikli",
+      "noktalar": [
+       [
+        0,
+        0.002
+       ],
+       [
+        2.5,
+        0.005
+       ],
+       [
+        5.0,
+        0.011
+       ],
+       [
+        7.5,
+        0.023
+       ],
+       [
+        10.0,
+        0.044
+       ],
+       [
+        12.5,
+        0.08
+       ],
+       [
+        15.0,
+        0.135
+       ],
+       [
+        17.5,
+        0.216
+       ],
+       [
+        20.0,
+        0.325
+       ],
+       [
+        22.5,
+        0.458
+       ],
+       [
+        25.0,
+        0.607
+       ],
+       [
+        27.5,
+        0.755
+       ],
+       [
+        30.0,
+        0.882
+       ],
+       [
+        32.5,
+        0.969
+       ],
+       [
+        35.0,
+        1.0
+       ],
+       [
+        37.5,
+        0.969
+       ],
+       [
+        40.0,
+        0.882
+       ],
+       [
+        42.5,
+        0.755
+       ],
+       [
+        45.0,
+        0.607
+       ],
+       [
+        47.5,
+        0.458
+       ],
+       [
+        50.0,
+        0.325
+       ],
+       [
+        52.5,
+        0.216
+       ],
+       [
+        55.0,
+        0.135
+       ],
+       [
+        57.5,
+        0.08
+       ],
+       [
+        60.0,
+        0.044
+       ],
+       [
+        62.5,
+        0.023
+       ],
+       [
+        65.0,
+        0.011
+       ],
+       [
+        67.5,
+        0.005
+       ],
+       [
+        70.0,
+        0.002
+       ],
+       [
+        72.5,
+        0.001
+       ],
+       [
+        75.0,
+        0.0
+       ],
+       [
+        77.5,
+        0.0
+       ],
+       [
+        80.0,
+        0.0
+       ],
+       [
+        82.5,
+        0.0
+       ],
+       [
+        85.0,
+        0.0
+       ],
+       [
+        87.5,
+        0.0
+       ],
+       [
+        90.0,
+        0.0
+       ],
+       [
+        92.5,
+        0.0
+       ],
+       [
+        95.0,
+        0.0
+       ],
+       [
+        97.5,
+        0.0
+       ],
+       [
+        100.0,
+        0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "dolgu": true,
+      "etiket": "sanos",
+      "etiket_konum": [
+       22,
+       1.05
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "hasta",
+      "noktalar": [
+       [
+        0,
+        0.0
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        5.0,
+        0.0
+       ],
+       [
+        7.5,
+        0.0
+       ],
+       [
+        10.0,
+        0.0
+       ],
+       [
+        12.5,
+        0.0
+       ],
+       [
+        15.0,
+        0.0
+       ],
+       [
+        17.5,
+        0.0
+       ],
+       [
+        20.0,
+        0.0
+       ],
+       [
+        22.5,
+        0.0
+       ],
+       [
+        25.0,
+        0.0
+       ],
+       [
+        27.5,
+        0.001
+       ],
+       [
+        30.0,
+        0.002
+       ],
+       [
+        32.5,
+        0.005
+       ],
+       [
+        35.0,
+        0.011
+       ],
+       [
+        37.5,
+        0.023
+       ],
+       [
+        40.0,
+        0.044
+       ],
+       [
+        42.5,
+        0.08
+       ],
+       [
+        45.0,
+        0.135
+       ],
+       [
+        47.5,
+        0.216
+       ],
+       [
+        50.0,
+        0.325
+       ],
+       [
+        52.5,
+        0.458
+       ],
+       [
+        55.0,
+        0.607
+       ],
+       [
+        57.5,
+        0.755
+       ],
+       [
+        60.0,
+        0.882
+       ],
+       [
+        62.5,
+        0.969
+       ],
+       [
+        65.0,
+        1.0
+       ],
+       [
+        67.5,
+        0.969
+       ],
+       [
+        70.0,
+        0.882
+       ],
+       [
+        72.5,
+        0.755
+       ],
+       [
+        75.0,
+        0.607
+       ],
+       [
+        77.5,
+        0.458
+       ],
+       [
+        80.0,
+        0.325
+       ],
+       [
+        82.5,
+        0.216
+       ],
+       [
+        85.0,
+        0.135
+       ],
+       [
+        87.5,
+        0.08
+       ],
+       [
+        90.0,
+        0.044
+       ],
+       [
+        92.5,
+        0.023
+       ],
+       [
+        95.0,
+        0.011
+       ],
+       [
+        97.5,
+        0.005
+       ],
+       [
+        100.0,
+        0.002
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "dolgu": true,
+      "etiket": "afectados",
+      "etiket_konum": [
+       72,
+       1.05
+      ],
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kesme",
+      "x": 50,
+      "y": 1.1,
+      "cizgi": "dikey",
+      "etiket": "punto de corte",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yanlis_pozitif",
+      "x": [
+       50,
+       62
+      ],
+      "renk": "sari",
+      "etiket": "falso positivo",
+      "cumle": 3
+     },
+     {
+      "ad": "yanlis_negatif",
+      "x": [
+       38,
+       50
+      ],
+      "renk": "turuncu",
+      "etiket": "falso negativo",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Hacia la izquierda: sube la sensibilidad",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hacia la derecha: sube la especificidad",
+     "cumle": 5,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "El equilibrio: curva ROC",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "La mayoría de las pruebas dan un número; se elige un punto de corte para considerar el resultado positivo o negativo.",
+    "En la pantalla vemos las distribuciones de los valores de la prueba en el grupo sano y en el afectado; las dos distribuciones se superponen en parte.",
+    "El punto de corte es esta línea vertical; los valores a su derecha cuentan como positivos, y los de su izquierda, como negativos.",
+    "En la zona de superposición, algunas personas sanas dan positivo y algunas personas afectadas dan negativo.",
+    "Si movemos el punto de corte hacia la izquierda, sube la sensibilidad, pero también aumentan los falsos positivos y baja la especificidad.",
+    "Si lo movemos hacia la derecha, sube la especificidad, pero se pierden más personas afectadas y baja la sensibilidad.",
+    "El gráfico que muestra este equilibrio con distintos puntos de corte se llama curva ROC, o curva de característica operativa del receptor."
+   ]
+  },
+  {
+   "id": "bedel",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 3",
+   "bolum": "El costo de los errores",
+   "baslik": "¿Falso positivo o *falso negativo*?",
+   "sol": {
+    "ust": "Falso positivo",
+    "maddeler": [
+     {
+      "metin": "Preocupación innecesaria para la familia",
+      "cumle": 0
+     },
+     {
+      "metin": "Pruebas adicionales innecesarias",
+      "cumle": 1
+     },
+     {
+      "metin": "Menos confianza en el programa",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Falso negativo",
+    "maddeler": [
+     {
+      "metin": "La pérdida auditiva pasa inadvertida",
+      "cumle": 3
+     },
+     {
+      "metin": "Diagnóstico tardío, intervención tardía",
+      "cumle": 4
+     },
+     {
+      "metin": "El desarrollo del lenguaje puede verse afectado",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Un resultado falso positivo causa una preocupación innecesaria en la familia de un bebé sano.",
+    "Se cita al bebé para más pruebas, lo que implica tiempo, esfuerzo y costo.",
+    "Demasiados falsos positivos reducen la confianza en el programa y pueden aumentar la pérdida de seguimiento.",
+    "Con un resultado falso negativo, un bebé con pérdida auditiva se cuenta como si hubiera pasado el tamizaje.",
+    "La familia se queda tranquila, pero el diagnóstico y la intervención se retrasan.",
+    "Como la intervención tardía puede perjudicar el desarrollo del lenguaje y del habla, el costo de este error es alto.",
+    "Por eso, en el tamizaje suele priorizarse una sensibilidad alta; los falsos positivos se filtran con una prueba en una segunda etapa."
+   ]
+  },
+  {
+   "id": "ongoru",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Valores predictivos",
+   "baslik": "Valores *predictivos*",
+   "maddeler": [
+    {
+     "metin": "_VPP_ = a / (a + b)",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "_VPN_ = d / (c + d)",
+     "cumle": 4,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Los valores predictivos dependen de la _prevalencia_",
+     "cumle": 5,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Menor prevalencia: _menor VPP_",
+     "cumle": 6,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "VPP",
+    "metin": "La probabilidad de estar *realmente* afectado tras una prueba positiva",
+    "cumle": 1
+   },
+   "cumleler": [
+    "En la clínica, nuestra pregunta suele ser la inversa: la prueba dio positivo, así que ¿qué probabilidad hay de que esta persona realmente tenga la condición?",
+    "La respuesta a esta pregunta es el valor predictivo positivo, o VPP.",
+    "El VPP es la proporción de personas con prueba positiva que realmente tienen la condición, y es a dividido entre a más b.",
+    "El valor predictivo negativo, o VPN, es la proporción de personas con prueba negativa que realmente están sanas.",
+    "El VPN se calcula como d dividido entre c más d.",
+    "A diferencia de la sensibilidad y la especificidad, los valores predictivos dependen de qué tan frecuente es la condición en el grupo evaluado.",
+    "Esta frecuencia se llama prevalencia; a medida que baja la prevalencia, también baja el VPP."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PARTE 5",
+   "bolum": "Ejemplo de tamizaje",
+   "baslik": "Ejemplo: *10 000* recién nacidos",
+   "sutunlar": [
+    "Tamizaje",
+    "Con pérdida auditiva",
+    "Sin pérdida auditiva",
+    "Total"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "No pasa",
+      "19",
+      "400",
+      "419"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Pasa",
+      "1",
+      "9580",
+      "9581"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Total",
+      "20",
+      "9980",
+      "10 000"
+     ],
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Ahora hagamos los cálculos con un ejemplo ficticio de tamizaje auditivo neonatal; los números son ilustrativos.",
+    "Se tamiza a diez mil bebés, y veinte de ellos tienen pérdida auditiva permanente; la prevalencia es, entonces, de dos por mil.",
+    "El tamizaje detecta a diecinueve de los veinte bebés con pérdida auditiva; un bebé recibe por error un resultado pasa.",
+    "De los nueve mil novecientos ochenta bebés sanos, nueve mil quinientos ochenta pasan y cuatrocientos no pasan.",
+    "El número total de bebés que no pasan el tamizaje es cuatrocientos diecinueve.",
+    "Esta tabla muestra cuántos resultados distintos produce incluso una buena prueba cuando se aplica a miles de bebés.",
+    "Ahora calculemos las cuatro medidas a partir de estos números."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Ejemplo de tamizaje",
+   "baslik": "Los *resultados*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Sensibilidad",
+     "metin": "19 / 20: 95 por ciento",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Especificidad",
+     "metin": "9580 / 9980: cerca del 96 por ciento",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "VPP",
+     "metin": "19 / 419: cerca del 4,5 por ciento",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "VPN",
+     "metin": "9580 / 9581: cerca del 99,99 por ciento",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La sensibilidad es diecinueve dividido entre veinte, es decir, el noventa y cinco por ciento.",
+    "La especificidad es nueve mil quinientos ochenta dividido entre nueve mil novecientos ochenta, cerca del noventa y seis por ciento.",
+    "El valor predictivo positivo es diecinueve dividido entre cuatrocientos diecinueve, apenas cerca del cuatro y medio por ciento.",
+    "Es decir, de cada cien bebés que no pasan el tamizaje, solo cuatro o cinco tienen realmente pérdida auditiva.",
+    "El valor predictivo negativo es de cerca del noventa y nueve coma nueve nueve por ciento; casi todos los bebés que pasan están sanos.",
+    "Aunque la prueba es buena, el VPP es bajo, porque la pérdida auditiva permanente es poco frecuente en los recién nacidos.",
+    "Por eso hay que explicar con cuidado a las familias que un resultado no pasa no es un diagnóstico, sino la necesidad de más pruebas."
+   ]
+  },
+  {
+   "id": "iki_asama",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "Ejemplo de tamizaje",
+   "baslik": "*Tamizaje* en dos etapas",
+   "adimlar": [
+    {
+     "ikon": "tarama",
+     "baslik": "Primer tamizaje",
+     "metin": "OEA o PEATC-A",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Segundo tamizaje",
+     "metin": "Se repite en quienes no pasan",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Sube la prevalencia",
+     "metin": "Se filtran los bebés sanos",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Prueba diagnóstica",
+     "metin": "Menos derivaciones",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La manera de reducir el problema de los falsos positivos es hacer el tamizaje por etapas.",
+    "Los bebés que no pasan el primer tamizaje se vuelven a tamizar antes del alta o poco después.",
+    "En la segunda etapa, la prevalencia en el grupo evaluado es mayor, porque la mayoría de los bebés sanos se filtraron en la primera etapa.",
+    "Así, el valor predictivo positivo de la segunda prueba sube claramente, y se derivan menos bebés a evaluación diagnóstica.",
+    "El precio de este diseño es que una pérdida real puede pasar inadvertida en la segunda etapa; por eso los bebés con factores de riesgo se siguen aparte.",
+    "Veremos en detalle los protocolos de tamizaje en lecciones posteriores."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "La sensibilidad y la especificidad describen la prueba; los valores predictivos describen tu grupo de pacientes. Piensa en el grupo evaluado al interpretar un resultado.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo clínico: los folletos de las pruebas suelen dar solo la sensibilidad y la especificidad, pero su pregunta puede ser otra.",
+    "El valor de una prueba en su clínica depende de qué tan frecuente es la condición entre sus pacientes.",
+    "La misma prueba da un valor predictivo positivo mucho más alto en un grupo de cuidados intensivos de alto riesgo.",
+    "Por eso, al interpretar un resultado, tengan siempre presentes el grupo evaluado y la probabilidad previa a la prueba."
+   ]
+  },
+  {
+   "id": "odyoloji",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Ejemplo de tamizaje",
+   "baslik": "¿*Dónde* lo encontramos en audiología?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Tamizaje neonatal",
+     "metin": "OEA y PEATC-A",
+     "cumle": 1
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Tamizaje escolar",
+     "metin": "Tonos a un nivel fijo",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Sospecha retrococlear",
+     "metin": "PEATC e imágenes",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Cuestionarios",
+     "metin": "Puntaje de corte",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Estos conceptos aparecen en muchas áreas de la audiología.",
+    "En el tamizaje neonatal, el desempeño de las otoemisiones acústicas y de los potenciales de tronco cerebral automatizados se describe con estas medidas.",
+    "En el tamizaje en edad escolar, las respuestas a tonos presentados a un nivel fijo se juzgan con la misma lógica.",
+    "Ante una sospecha retrococlear, la sensibilidad de los potenciales de tronco cerebral frente a las imágenes orienta la elección de la prueba.",
+    "En los cuestionarios y las preguntas de tamizaje, también se informan la sensibilidad y la especificidad del puntaje de corte.",
+    "Al leer un artículo, verifiquen en qué grupo y frente a qué patrón de oro se obtuvieron estas medidas."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Sensibilidad y _especificidad_: propiedades de la prueba",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Tabla 2 × 2: _a, b, c, d_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "El _VPP_ depende de la prevalencia",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "En el tamizaje, primero la _sensibilidad_",
+     "cumle": 3,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "La sensibilidad es la tasa de clasificación correcta de los afectados, y la especificidad, la de los sanos; ambas son propiedades de la prueba.",
+    "Las cuatro medidas se calculan a partir de las celdas a, b, c y d de la tabla de dos por dos.",
+    "Los valores predictivos dependen de la prevalencia; en condiciones poco frecuentes, incluso una buena prueba puede tener un VPP bajo.",
+    "En el tamizaje se prioriza una sensibilidad alta; los falsos positivos se reducen con pruebas por etapas."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Si la misma prueba se usa para una condición mucho más rara, ¿qué cambia más?",
+   "secenekler": [
+    "Sensibilidad",
+    "Especificidad",
+    "Valor predictivo positivo",
+    "Ninguno"
+   ],
+   "dogru": 2,
+   "aciklama": "La sensibilidad y la especificidad son propiedades de la prueba; el _VPP_ baja cuando baja la prevalencia.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si la misma prueba se usa en un grupo donde la condición es mucho más rara, ¿qué medida cambia más?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: el valor predictivo positivo.",
+    "La sensibilidad y la especificidad son propiedades de la prueba misma, mientras que el valor predictivo positivo baja cuando baja la prevalencia."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "¿Qué son las otoemisiones *acústicas*?",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección conoceremos las otoemisiones acústicas, una de las pruebas principales del tamizaje neonatal.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

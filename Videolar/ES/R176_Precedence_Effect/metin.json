@@ -1,0 +1,105 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R176_Precedence_Effect_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #176",
+  "baslik": "Por qué los ecos *pasan inadvertidos*",
+  "alt": "El efecto de precedencia",
+  "cizim": "ses_dalgasi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "En una sala con reverberación, ¿por qué oímos el sonido desde su fuente? #shorts",
+  "aciklama": "En una sala cerrada, el sonido directo llega primero al oído y las reflexiones llegan unos milisegundos después desde otras direcciones. Con un retardo corto, la reflexión se fusiona con el primer sonido y este se oye desde la dirección de la primera llegada; esto es el efecto de precedencia.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audicion",
+   "acustica"
+  ],
+  "etiketler": [
+   "efecto de precedencia",
+   "eco",
+   "umbral de eco",
+   "localización sonora",
+   "acústica de salas",
+   "reverberación",
+   "psicoacústica",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "En una sala con reverberación, ¿por qué oímos el sonido desde su fuente?",
+  "bilgiler": [
+   "El sonido directo llega primero; las reflexiones, unos milisegundos después.",
+   "Con un retardo corto se fusionan y la dirección sigue al primer sonido.",
+   "Por eso en los auditorios se añade un pequeño retardo a los altavoces traseros."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audicion",
+   "acustica"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #176",
+   "metin": "¿Por qué el sonido viene de la *fuente?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "En una sala con reverberación, ¿por qué oímos el sonido desde su fuente?"
+   ]
+  },
+  {
+   "id": "oncelik",
+   "tur": "zincir",
+   "baslik": "El efecto de *precedencia*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Directo",
+     "tr": "llega primero",
+     "cumle": 0
+    },
+    {
+     "ad": "Reflexión",
+     "tr": "ms después",
+     "cumle": 1
+    },
+    {
+     "ad": "Fusión",
+     "tr": "gana el primer sonido",
+     "cumle": 2
+    }
+   ],
+   "alt": "Auditorio: el sonido parece venir _del escenario_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "El sonido directo recorre el camino más corto, así que llega primero.",
+    "Las reflexiones llegan unos milisegundos después, desde otras direcciones.",
+    "Con un retardo corto se fusionan, y la dirección sigue al primer sonido.",
+    "Esto se llama efecto de precedencia.",
+    "Por eso en los auditorios se añade un pequeño retardo a los altavoces traseros."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D084",
+ "kaynak_baslik": "Localización sonora y percepción binaural"
+}

@@ -1,0 +1,888 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D060_Hughson_Westlake_ES",
+ "kapak": {
+  "ust": "LECCIÓN 60",
+  "baslik": "Cómo hallar<br>el *umbral*",
+  "alt": "El método de Hughson-Westlake modificado",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Umbrales por vía aérea: el método Hughson-Westlake | Lección 60 | AIHEAR Academia de Audiología",
+  "aciklama": "En la audiometría tonal, los umbrales por vía aérea se obtienen con el método de Hughson-Westlake modificado. En esta lección recorremos paso a paso la definición de umbral, la familiarización, la regla de bajar 10 dB y subir 5 dB, el orden de las frecuencias, un ejemplo de búsqueda de umbral y los errores frecuentes.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005); Carhart and Jerger, Preferred method for clinical determination of pure-tone thresholds (Journal of Speech and Hearing Disorders, 1959); British Society of Audiology, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audiometria",
+   "audicion"
+  ],
+  "etiketler": [
+   "Hughson-Westlake",
+   "Hughson-Westlake modificado",
+   "audiometría tonal",
+   "umbral por vía aérea",
+   "umbral auditivo",
+   "método ascendente",
+   "método descendente",
+   "audiograma",
+   "guías ASHA",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 60",
+   "baslik": "Umbrales por vía aérea: el método *Hughson-Westlake*",
+   "alt": "El método de Hughson-Westlake modificado, paso a paso",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo se obtienen los umbrales por vía aérea en la audiometría tonal, con el método de Hughson-Westlake modificado.",
+    "Partiendo de la definición de umbral, seguiremos paso a paso un ejemplo de búsqueda de umbral y hablaremos de los errores frecuentes."
+   ]
+  },
+  {
+   "id": "esik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Umbral y método",
+   "baslik": "¿Qué es un *umbral?*",
+   "maddeler": [
+    {
+     "metin": "El nivel audible _más bajo_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "No es una línea nítida, es una _probabilidad_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Se _confirma_ con ensayos repetidos",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Al menos dos respuestas: _dos de tres_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "UMBRAL",
+    "metin": "El nivel más bajo con respuesta en al menos la *mitad* de los ensayos ascendentes",
+    "cumle": 3
+   },
+   "cumleler": [
+    "El umbral es el nivel más bajo al que una persona puede oír un sonido.",
+    "Pero el umbral no es una línea nítida; cerca del umbral, la persona a veces oye el sonido y a veces no.",
+    "Por eso el umbral se define en términos de probabilidad.",
+    "En el método de Hughson-Westlake modificado, el umbral es el nivel más bajo con respuesta en al menos la mitad de los ensayos ascendentes.",
+    "En la práctica, esto significa al menos dos respuestas en ensayos ascendentes al mismo nivel, por ejemplo, dos de tres.",
+    "Esta definición figura en las guías de la Asociación Estadounidense del Habla, Lenguaje y Audición (ASHA)."
+   ]
+  },
+  {
+   "id": "koken",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Umbral y método",
+   "baslik": "*Orígenes* del método",
+   "maddeler": [
+    {
+     "metin": "Hughson y Westlake: el abordaje _ascendente_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Carhart y Jerger: el método _modificado_",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "La _base_ de las guías internacionales",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "El método lleva el nombre de Hughson y Westlake, que describieron cómo llegar al umbral con un abordaje ascendente.",
+    "Carhart y Jerger simplificaron este abordaje y propusieron el método de Hughson-Westlake modificado que usamos hoy.",
+    "En el centro del método, el sonido siempre se presenta desde el silencio hasta un nivel audible, es decir, de abajo hacia arriba.",
+    "Las guías internacionales se basan en este método, aunque el abordaje descendente también se usa mucho en la práctica clínica.",
+    {
+     "yazi": "El método recomendado por la British Society of Audiology (BSA) se basa en los mismos principios."
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PRINCIPIO CLAVE",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "sessizlik",
+      "baslik": "De abajo hacia arriba",
+      "metin": "Del silencio a lo audible",
+      "cumle": 2
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Método de la BSA",
+      "metin": "Se basa en los mismos principios",
+      "cumle": 4
+     }
+    ]
+   }
+  },
+  {
+   "id": "neden_yukselen",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 1",
+   "bolum": "Umbral y método",
+   "baslik": "Abordajes ascendente y *descendente*",
+   "sol": {
+    "ust": "Ascendente",
+    "maddeler": [
+     {
+      "metin": "El sonido sube del silencio a lo _audible_",
+      "cumle": 1
+     },
+     {
+      "metin": "Respuesta a un sonido _recién_ detectado",
+      "cumle": 2
+     },
+     {
+      "metin": "La _base_ de las guías internacionales",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Descendente",
+    "maddeler": [
+     {
+      "metin": "El sonido baja de lo audible al _silencio_",
+      "cumle": 4
+     },
+     {
+      "metin": "El paciente _reconoce antes_ el sonido",
+      "cumle": 5
+     },
+     {
+      "metin": "_Más usado_ en Turquía",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "Al umbral se puede llegar desde dos direcciones: presentando el sonido de abajo hacia arriba, o de arriba hacia abajo.",
+    "En el abordaje ascendente, el sonido empieza en un nivel inaudible y se sube paso a paso.",
+    "Así, el paciente responde a un sonido que acaba de detectar, y es menos probable que responda por costumbre.",
+    "El método de Hughson-Westlake modificado y las guías internacionales definen el umbral a partir de estos ensayos ascendentes.",
+    "En el abordaje descendente, el sonido empieza en un nivel claramente audible y se baja hasta que cesa la respuesta.",
+    "La ventaja de este abordaje es que el paciente reconoce el sonido objetivo desde el inicio y distingue con más facilidad los tonos débiles.",
+    "Por eso, en las clínicas de Turquía se usa más el método descendente.",
+    "Ambos abordajes tienen sus ventajas; lo importante es aplicar el método elegido de forma coherente e indicarlo en el informe."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Preparación e instrucciones",
+   "baslik": "Preparación para la *prueba*",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "cihaz",
+     "metin": "audiómetro",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "auriculares: vía aérea",
+     "cumle": 1
+    },
+    {
+     "parca": "hasta_butonu",
+     "metin": "pulsador de respuesta",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Primero, la otoscopia",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "El paciente no debe ver al evaluador",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "Antes de empezar la prueba, ya debe haberse hecho la otoscopia y colocado correctamente los auriculares.",
+    "En la prueba por vía aérea, el sonido se presenta con auriculares supraaurales o auriculares de inserción.",
+    "El paciente presiona un botón o levanta la mano cada vez que oye el sonido.",
+    "El paciente se sienta de modo que no vea las manos del evaluador ni la pantalla del audiómetro.",
+    "Así se evitan las respuestas inducidas por señales visuales.",
+    "El auricular rojo va en el oído derecho y el azul en el oído izquierdo."
+   ]
+  },
+  {
+   "id": "talimat",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Preparación e instrucciones",
+   "baslik": "Instrucciones claras y *estándar*",
+   "maddeler": [
+    {
+     "metin": "_Avisar_ incluso los sonidos muy débiles",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Presionar al oír, soltar al dejar de oír",
+     "cumle": 1,
+     "ikon": "hasta_butonu"
+    },
+    {
+     "metin": "_Verificar_ que se entendieron",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Empezar por el _mejor_ oído",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Las instrucciones son breves y claras: presione el botón cada vez que oiga un sonido, por débil que sea.",
+    "Pidan al paciente que presione apenas oiga el sonido y que suelte cuando se detenga.",
+    "Recalquen que debe responder a todo sonido que oiga, por débil que sea.",
+    "Tras dar las instrucciones, comprueben con una pregunta breve que el paciente las entendió.",
+    "La prueba empieza por el oído que el paciente considera mejor.",
+    "Si el paciente no refiere diferencia entre los oídos, las clínicas suelen empezar por el oído derecho."
+   ]
+  },
+  {
+   "id": "alistirma",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "El método, paso a paso",
+   "baslik": "Primero, la *familiarización*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "1000 Hz",
+     "metin": "Empezar en 30 dB HL",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Sin respuesta",
+     "metin": "50 dB HL",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Subir 10 dB",
+     "metin": "Hasta que responda",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Respuesta",
+     "metin": "Comienza la búsqueda del umbral",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La prueba empieza en mil hertz, porque en esta frecuencia los umbrales suelen medirse de forma más consistente.",
+    "Primero se da un tono claramente audible para que el paciente conozca el sonido; la guía de la ASHA sugiere treinta dB HL.",
+    "Si no hay respuesta, el tono se da a cincuenta dB HL; si sigue sin haber respuesta, se sube en pasos de diez decibeles.",
+    "Cuando el paciente oye el tono y responde, la familiarización está completa y comienza la búsqueda del umbral.",
+    "El objetivo de esta primera respuesta es ayudar al paciente a reconocer el sonido que debe escuchar."
+   ]
+  },
+  {
+   "id": "kural",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "El método, paso a paso",
+   "baslik": "*Bajar 10*, subir 5",
+   "maddeler": [
+    {
+     "metin": "Respuesta: bajar _10 dB_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sin respuesta: subir _5 dB_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Duración del tono: 1 a 2 segundos",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Intervalos _irregulares_",
+     "cumle": 4,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Aquí solo cuentan las respuestas _ascendentes_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "La regla de la búsqueda del umbral es sencilla: cuando el paciente responde, el nivel se baja diez decibeles.",
+    "Cuando el paciente no responde, el nivel se sube cinco decibeles.",
+    "Esta regla es fácil de recordar como bajar diez, subir cinco.",
+    "Cada tono se presenta durante uno a dos segundos aproximadamente.",
+    "Los intervalos de silencio entre tonos deben ser irregulares; una presentación rítmica lleva al paciente a responder adivinando.",
+    "En este método, el umbral se determina a partir de las respuestas en los ensayos ascendentes."
+   ]
+  },
+  {
+   "id": "ornek_arama",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "El método, paso a paso",
+   "baslik": "Un ejemplo de *búsqueda de umbral*",
+   "sutunlar": [
+    "Paso",
+    "Nivel (dB HL)",
+    "Respuesta",
+    "Siguiente paso"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1",
+      "30",
+      "Sí",
+      "Bajar 10 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2",
+      "20",
+      "Sí",
+      "Bajar 10 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "3",
+      "10",
+      "No",
+      "Subir 5 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "4",
+      "15",
+      "No",
+      "Subir 5 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "5",
+      "20",
+      "Sí (1.ª ascendente)",
+      "Bajar 10 dB"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "6",
+      "10 y 15",
+      "No",
+      "Subir 5 dB"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "7",
+      "20",
+      "Sí (2.ª ascendente)",
+      "Umbral: 20 dB HL"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Sigamos ahora, paso a paso, un ejemplo de búsqueda de umbral en mil hertz.",
+    "El paciente responde a treinta dB HL; bajamos diez decibeles, a veinte, y vuelve a responder.",
+    "No hay respuesta a diez dB HL; subimos cinco decibeles, a quince, y sigue sin haber respuesta.",
+    "Aparece una respuesta a veinte dB HL; es la primera respuesta ascendente en veinte.",
+    "Bajamos otra vez diez decibeles y subimos en pasos de cinco; no hay respuesta ni en diez ni en quince.",
+    "Vuelve a aparecer una respuesta a veinte dB HL; es la segunda respuesta ascendente al mismo nivel.",
+    "Como no hubo respuesta en quince en ninguno de los dos ensayos ascendentes, en este ejemplo el umbral se registra en veinte dB HL."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "El método, paso a paso",
+   "baslik": "*Orden* de las frecuencias",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "1000 Hz",
+     "metin": "Inicio",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frecuencias agudas",
+     "metin": "2000, 4000, 8000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Repetir 1000 Hz",
+     "metin": "Diferencia de hasta 5 dB",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frecuencias graves",
+     "metin": "500 y 250 Hz",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Segundo oído",
+     "metin": "Mismo orden, sin repetir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Después de mil hertz, se evalúan sucesivamente dos mil, cuatro mil y ocho mil hertz.",
+    "Luego se vuelve a medir mil hertz; esta repetición muestra si las respuestas del paciente son consistentes.",
+    "Las dos mediciones no suelen diferir en más de cinco decibeles; si difieren, se vuelve a medir al menos otra frecuencia.",
+    "Después se evalúan quinientos y doscientos cincuenta hertz.",
+    "En el segundo oído se sigue el mismo orden; según la ASHA, en este oído no hace falta repetir mil hertz."
+   ]
+  },
+  {
+   "id": "ara_frekans",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "El método, paso a paso",
+   "baslik": "Frecuencias *interoctavas*",
+   "maddeler": [
+    {
+     "metin": "_20 dB_ o más entre octavas vecinas",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "3000 y 6000 Hz: _rutina_ en la ASHA",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "750 y 1500 Hz: cuando haga falta",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "125 Hz: en pérdidas en graves",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "En algunos casos, a las frecuencias de octava estándar se agregan frecuencias interoctavas.",
+    "Si dos frecuencias de octava vecinas difieren en veinte decibeles o más, también se evalúa la frecuencia intermedia.",
+    "Tres mil y seis mil hertz están en la lista de rutina de la guía de la ASHA; algunas clínicas solo las evalúan según esta regla.",
+    "Setecientos cincuenta y mil quinientos hertz también pueden agregarse en situaciones similares.",
+    "Si hay una pérdida en las frecuencias graves, también puede evaluarse ciento veinticinco hertz.",
+    "Estas mediciones adicionales muestran con más exactitud la forma del audiograma y también son útiles en la adaptación de audífonos."
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "frekanslar": [
+      125,
+      250,
+      500,
+      750,
+      1000,
+      1500,
+      2000,
+      3000,
+      4000,
+      6000,
+      8000
+     ],
+     "seriler": []
+    }
+   }
+  },
+  {
+   "id": "ton",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "El método, paso a paso",
+   "baslik": "Tipos de *tono*",
+   "maddeler": [
+    {
+     "metin": "Tono pulsado: _más fácil_ de detectar",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tono continuo: usar _de forma coherente_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Campo libre: tono _modulado en frecuencia_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    }
+   ],
+   "cumleler": [
+    "Los audiómetros pueden presentar el tono de distintas maneras.",
+    "Los tonos pulsados, que se apagan y encienden a intervalos cortos, hacen que el sonido sea más fácil de detectar para muchos pacientes.",
+    "También puede usarse un tono continuo; lo importante es elegir un modo de presentación y usarlo de forma coherente con cada paciente.",
+    "En las pruebas en campo libre con altavoces, se usa un tono modulado en frecuencia en lugar de un tono puro.",
+    "Así se evita que se formen ondas estacionarias en la sala y que el nivel sonoro fluctúe en la posición del oído."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Registro y próximos pasos",
+   "baslik": "Registro de los *umbrales*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: círculo rojo",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: cruz azul",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       35,
+       40
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       15,
+       20,
+       40,
+       45
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Cada umbral se marca enseguida en la línea de su frecuencia.",
+    "En este ejemplo, los umbrales por vía aérea del oído derecho se muestran con un círculo rojo.",
+    "Los umbrales por vía aérea del oído izquierdo se muestran con una cruz azul.",
+    "En ambos oídos, los umbrales están dentro de lo normal hasta dos mil hertz; desde cuatro mil hertz hay un descenso leve.",
+    "Los símbolos de un mismo oído se unen con una línea recta; veremos las normas de registro en una lección aparte.",
+    "Marcar los umbrales apenas se obtienen reduce el riesgo de anotarlos después en la frecuencia o en el oído equivocados."
+   ]
+  },
+  {
+   "id": "yanit_yok",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Registro y próximos pasos",
+   "baslik": "Si *no hay respuesta*",
+   "maddeler": [
+    {
+     "metin": "Sin respuesta en el límite del equipo",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Símbolo en el límite, _flecha hacia abajo_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_No se une_ a los umbrales vecinos",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Atención a la _vibración_ en graves",
+     "cumle": 3,
+     "ikon": "dokunma"
+    }
+   ],
+   "cumleler": [
+    "Si no hay respuesta ni siquiera con la salida máxima del audiómetro, esa frecuencia se registra como sin respuesta.",
+    "En ese caso, el símbolo se coloca en el límite del equipo, con una pequeña flecha hacia abajo debajo de él.",
+    "Los símbolos de ausencia de respuesta no se unen con una línea a los umbrales vecinos.",
+    "Recuerden que a niveles muy altos, sobre todo en los graves, el paciente puede sentir la vibración en lugar de oír el sonido.",
+    "Esa respuesta no debe registrarse como un umbral verdadero; debe anotarse aparte en el audiograma."
+   ]
+  },
+  {
+   "id": "sonraki_adim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Registro y próximos pasos",
+   "baslik": "Después de la vía *aérea*",
+   "maddeler": [
+    {
+     "metin": "Umbrales no normales: _vía ósea_",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Gran diferencia entre oídos: _enmascaramiento_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "_Verificación cruzada_ con pruebas de habla",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Si los umbrales por vía aérea están fuera de los límites normales, se mide la vía ósea para determinar el tipo de pérdida.",
+    "Si hay una gran diferencia entre los oídos, puede hacer falta enmascarar, porque el oído bueno puede oír el sonido dirigido al oído malo.",
+    "En las lecciones de enmascaramiento clínico veremos en detalle cuándo y cómo enmascarar.",
+    "Los resultados de la logoaudiometría también se comparan con los umbrales tonales como verificación cruzada."
+   ]
+  },
+  {
+   "id": "ozel",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Registro y próximos pasos",
+   "baslik": "*Situaciones* especiales",
+   "maddeler": [
+    {
+     "metin": "Para pacientes que pueden responder y colaborar",
+     "cumle": 0,
+     "ikon": "hasta_butonu"
+    },
+    {
+     "metin": "Niños: _juego_ y refuerzo visual",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Cansancio: _pausas_ breves",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "_Indicar_ el método en el informe",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "El método de Hughson-Westlake modificado está pensado para personas que entienden las instrucciones y responden con un botón.",
+    "En niños pequeños, la misma lógica de umbral se adapta con métodos de juego o de refuerzo visual.",
+    "En pacientes mayores o que se cansan rápido, las pausas breves mejoran la consistencia de las respuestas.",
+    "Sea cual sea el método, indicar en el informe el método y la confiabilidad de las respuestas es una buena práctica."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 5",
+   "bolum": "Errores frecuentes",
+   "baslik": "Respuestas *falsas*",
+   "sol": {
+    "ust": "Falso positivo",
+    "maddeler": [
+     {
+      "metin": "_Respuesta_ sin sonido",
+      "cumle": 0
+     },
+     {
+      "metin": "Presentación rítmica, expectativa",
+      "cumle": 1
+     },
+     {
+      "metin": "Confusión con el tinnitus",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Falso negativo",
+    "maddeler": [
+     {
+      "metin": "_Sin respuesta_ a un sonido",
+      "cumle": 4
+     },
+     {
+      "metin": "Cansancio, distracción",
+      "cumle": 5
+     },
+     {
+      "metin": "Instrucciones mal entendidas",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Una respuesta dada cuando no se presentó ningún sonido se llama respuesta falsa positiva.",
+    "La presentación rítmica y que el paciente adivine mientras espera el siguiente sonido aumentan las respuestas falsas positivas.",
+    "Los pacientes con tinnitus, o zumbido en los oídos, pueden confundir el tono con su tinnitus; los tonos pulsados ayudan en este caso.",
+    "Para detectar respuestas falsas positivas, de vez en cuando se dejan intervalos de silencio más largos y se observa si hay respuesta.",
+    "La ausencia de respuesta cuando sí se presentó un sonido se llama respuesta falsa negativa.",
+    "Puede deberse al cansancio, a la distracción o a instrucciones mal entendidas."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 5",
+   "bolum": "Errores frecuentes",
+   "baslik": "Consejo clínico",
+   "metin": "Si las respuestas son inconsistentes, no acelerar: detenerse, repetir las instrucciones y, si hace falta, volver a la familiarización. Más de 5 dB de diferencia al repetir 1000 Hz es una alerta.",
+   "cumleler": [
+    "Un consejo de la práctica: cuando las respuestas se vuelvan inconsistentes, deténganse en lugar de acelerar.",
+    "Repitan las instrucciones de forma breve y clara, y vuelvan a la etapa de familiarización si es necesario.",
+    "Una repetición de mil hertz que difiere en más de cinco decibeles es un signo temprano de que hace falta ese paso.",
+    "Anotar en el informe una breve nota sobre la confiabilidad de las respuestas ayuda a interpretar bien los resultados."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Dos abordajes: _ascendente_ y descendente",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Familiarización: 1000 Hz, _30 dB HL_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Regla: bajar _10 dB_, subir 5 dB",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Orden: 1000 Hz, agudos, _repetir 1000_, graves",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Al umbral se puede llegar con un abordaje ascendente o descendente; ambos tienen sus ventajas.",
+    "La prueba empieza en mil hertz con la familiarización, usando un tono claramente audible.",
+    "Tras una respuesta, se bajan diez decibeles; si no hay respuesta, se suben cinco decibeles.",
+    "El orden de frecuencias es mil hertz, las frecuencias agudas, la repetición de mil hertz y luego las frecuencias graves."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Cómo se cambia el nivel cuando el paciente no responde?",
+   "secenekler": [
+    "Se baja 10 dB",
+    "Se sube 5 dB",
+    "Se sube 10 dB",
+    "No se cambia"
+   ],
+   "dogru": 1,
+   "aciklama": "Hughson-Westlake modificado: _bajar 10 dB_ tras una respuesta y subir 5 dB si no la hay.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en el método de Hughson-Westlake modificado, ¿cómo se cambia el nivel cuando el paciente no responde?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: se sube cinco decibeles.",
+    "La regla de este método es bajar diez y subir cinco, y el umbral se basa en las respuestas de los ensayos ascendentes."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cómo realizar la audiometría por *vía ósea*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo se miden los umbrales por vía ósea y cuáles son las trampas de esta medición.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

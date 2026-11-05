@@ -1,0 +1,893 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D049_Auditory_Nerve_Coding_ES",
+ "kapak": {
+  "ust": "LECCIÓN 49",
+  "baslik": "Codificación en el<br>*nervio auditivo*",
+  "alt": "Codificación de lugar, temporal y de intensidad",
+  "cizim": "koklea_acik",
+  "ayar": {
+   "frekans": 4000
+  }
+ },
+ "youtube": {
+  "baslik": "Nervio auditivo: código de frecuencia e intensidad | Lección 49 | AIHEAR Academia de Audiología",
+  "aciklama": "Las fibras del nervio auditivo codifican la frecuencia de un sonido según qué fibra descarga (codificación de lugar) y según el momento de los potenciales de acción (sincronía de fase), y su intensidad según la tasa de descarga y el número de fibras activas. En esta lección vemos las curvas de sintonía, la función tasa-nivel, los tres grupos de fibras según su tasa de descarga espontánea y lo que estos principios significan en la clínica.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Pickles, An Introduction to the Physiology of Hearing; Moore, An Introduction to the Psychology of Hearing; Liberman (1978), Auditory-nerve response from cats raised in a low-noise chamber, Journal of the Acoustical Society of America; Kujawa and Liberman (2009), Adding insult to injury: cochlear nerve degeneration after temporary noise-induced hearing loss, Journal of Neuroscience.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audicion",
+   "fisiologia"
+  ],
+  "etiketler": [
+   "nervio auditivo",
+   "codificación de lugar",
+   "sincronía de fase",
+   "tasa de descarga espontánea",
+   "función tasa-nivel",
+   "curva de sintonía",
+   "principio de andanada",
+   "sinaptopatía coclear",
+   "fisiología de la audición",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 49",
+   "baslik": "Cómo *codifica el sonido* el nervio auditivo",
+   "alt": "El código neural de la frecuencia y la intensidad",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo las fibras del nervio auditivo envían al cerebro la frecuencia y la intensidad de un sonido.",
+    "Estudiaremos, en orden, la codificación de lugar, la sincronía de fase, la tasa de descarga y los distintos grupos de fibras."
+   ]
+  },
+  {
+   "id": "lifler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El lenguaje del nervio",
+   "baslik": "Las *fibras* del nervio auditivo",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "sinir_lifleri",
+     "metin": "fibras nerviosas",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "célula ciliada interna",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "células ciliadas externas",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Unas 30 000 fibras",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tipo I: célula ciliada interna",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tipo II: células ciliadas externas",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 4,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La señal que producen las células ciliadas de la cóclea llega al tronco cerebral a través de las fibras del nervio auditivo.",
+    "En los seres humanos, el nervio auditivo contiene unas treinta mil fibras aferentes.",
+    "Entre el noventa y el noventa y cinco por ciento de ellas son fibras tipo I, que se conectan con las células ciliadas internas.",
+    "Cada fibra tipo I recibe información de una sola célula ciliada interna, mientras que cada célula ciliada interna se conecta con varias fibras.",
+    "Las delgadas fibras tipo II restantes se conectan con muchas células ciliadas externas; su función aún no se conoce del todo.",
+    "Así, la información detallada sobre el sonido la transportan sobre todo las fibras tipo I unidas a las células ciliadas internas."
+   ]
+  },
+  {
+   "id": "aksiyon",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El lenguaje del nervio",
+   "baslik": "¿*Cómo* se transporta la información?",
+   "maddeler": [
+    {
+     "metin": "Potencial de acción: _todo o nada_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Clave 1: _tasa de descarga_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Clave 2: _momento de las descargas_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Clave 3: _qué fibra_ descarga",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "TRES FUENTES DE INFORMACIÓN",
+    "metin": "*Número* de descargas, su momento y la ubicación de la fibra",
+    "cumle": 2
+   },
+   "cumleler": [
+    "Las fibras nerviosas transportan la información como breves pulsos eléctricos llamados potenciales de acción.",
+    "Cada descarga sigue el principio del todo o nada; su tamaño no cambia con la intensidad del sonido.",
+    "Por eso la información se guarda, en primer lugar, en el número de descargas por unidad de tiempo, es decir, en la tasa de descarga.",
+    "La segunda fuente es el momento de las descargas: si caen en instantes determinados de la onda sonora.",
+    "La tercera fuente es qué fibras descargan, porque cada fibra proviene de un lugar determinado de la cóclea.",
+    "Veamos ahora cómo estas tres fuentes representan la frecuencia y la intensidad."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Codificación de la frecuencia",
+   "baslik": "Codificación de *lugar*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "máxima vibración",
+     "cumle": 1
+    },
+    {
+     "parca": "taban",
+     "metin": "base: agudos",
+     "cumle": 2
+    },
+    {
+     "parca": "tepe",
+     "metin": "ápice: graves",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Qué fibra, qué frecuencia",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tonotopía hasta la corteza",
+     "cumle": 4,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Ejemplo: 4000 Hz cerca de la base",
+     "cumle": 5,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "La primera forma de codificar la frecuencia es la codificación de lugar.",
+    "Para cada frecuencia, la onda viajera alcanza su máxima amplitud en un lugar determinado de la membrana basilar.",
+    "Los sonidos agudos producen la vibración más intensa en la base de la cóclea, y los graves, en el ápice.",
+    "Las fibras unidas a las células ciliadas internas de esa región son las que más descargan, así que la fibra activa indica la frecuencia.",
+    "Este mapa de frecuencias se llama tonotopía y se conserva desde el núcleo coclear hasta la corteza.",
+    "En este ejemplo, un sonido de cuatro mil hertz produce la mayor vibración cerca de la base de la cóclea."
+   ]
+  },
+  {
+   "id": "ayar_egrisi",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Codificación de la frecuencia",
+   "baslik": "Frecuencia característica y *curva de sintonía*",
+   "maddeler": [
+    {
+     "metin": "_Frecuencia característica_: el umbral más bajo",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Curva de sintonía_ en V",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Punta aguda: _células ciliadas externas_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sin punta por daño: la curva se _ensancha_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ayar_egrisi",
+    "cumle": 0,
+    "ayar": {
+     "cf": 2000,
+     "egriler": [
+      {
+       "tip": "saglikli",
+       "cumle": 2
+      },
+      {
+       "tip": "hasarli",
+       "cumle": 4
+      }
+     ],
+     "cf_cumle": 1
+    },
+    "etiketler": [
+     {
+      "parca": "karakteristik_frekans",
+      "metin": "frecuencia característica",
+      "cumle": 1
+     },
+     {
+      "parca": "hasarli",
+      "metin": "pérdida de células ciliadas externas",
+      "cumle": 4,
+      "yer": "ust"
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "uc",
+      "cumle": 3
+     },
+     {
+      "parca": "hasarli",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Una fibra no responde a todas las frecuencias con la misma sensibilidad.",
+    "La frecuencia a la que una fibra responde con la menor intensidad se llama su frecuencia característica.",
+    {
+     "yazi": "Si graficamos sus umbrales en distintas frecuencias, obtenemos una curva de sintonía con forma de letra V.",
+     "ses": "Si graficamos sus umbrales en distintas frecuencias, obtenemos una curva de sintonía con forma de letra ve."
+    },
+    "La punta aguda de la curva se debe a las células ciliadas externas, que funcionan como amplificador coclear.",
+    "Cuando las células ciliadas externas se dañan, la punta se pierde; el umbral de la fibra sube y su curva de sintonía se ensancha.",
+    "Esto explica en parte por qué a las personas con pérdida neurosensorial les cuesta separar sonidos y entender en ruido."
+   ]
+  },
+  {
+   "id": "faz",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Codificación de la frecuencia",
+   "baslik": "Sincronía de *fase*",
+   "cizim": "atim_dizisi",
+   "ayar": {
+    "frekans_hz": 250,
+    "periyot": 6,
+    "ates": [
+     1,
+     0,
+     1,
+     1,
+     0,
+     1
+    ],
+    "cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "atimlar",
+     "metin": "Descargas de la fibra",
+     "cumle": 3
+    },
+    {
+     "parca": "periyot",
+     "metin": "Período: 4 ms",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga",
+     "cumle": 1
+    },
+    {
+     "parca": "evre",
+     "cumle": 2
+    },
+    {
+     "parca": "atimlar",
+     "cumle": 3
+    },
+    {
+     "parca": "aralik",
+     "cumle": 4
+    },
+    {
+     "parca": "periyot",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Descargas en la misma fase",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "No en todos los períodos",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Intervalos múltiplos del período",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "La segunda forma de codificar la frecuencia es la temporal.",
+    "En cada período, una onda sonora de baja frecuencia pasa una vez por la fase que más estimula a la célula ciliada.",
+    "Las fibras del nervio auditivo tienden a descargar justo en esa fase; esto se llama sincronía de fase.",
+    "Una fibra no tiene que descargar en cada período, pero cuando lo hace, descarga en la misma fase de la onda.",
+    "Así, los intervalos entre descargas son múltiplos del período, y el cerebro puede extraer la frecuencia de este patrón.",
+    "En este ejemplo, el período de un tono de doscientos cincuenta hertz es de cuatro milisegundos."
+   ]
+  },
+  {
+   "id": "salvo",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Codificación de la frecuencia",
+   "baslik": "El principio de andanada y el *límite superior*",
+   "maddeler": [
+    {
+     "metin": "Una fibra: _unos cientos_ de descargas por segundo",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Fibras en conjunto: _principio de andanada_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Se _debilita_ sobre 1000 Hz",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Desaparece_ hacia los 4 a 5 kHz",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "etiketler": [
+     {
+      "parca": "isitme_siniri",
+      "metin": "nervio auditivo",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "isitme_siniri",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Una sola fibra puede descargar como máximo unos cientos de veces por segundo, lo que por sí solo no basta para seguir una onda de mil hertz.",
+    {
+     "yazi": "Según el principio de andanada de Wever, distintas fibras descargan en distintos períodos y, en conjunto, marcan cada período."
+    },
+    "Así, la población de fibras puede transmitir la temporalidad de la onda incluso en frecuencias que una sola fibra no puede seguir.",
+    "Sin embargo, la sincronía de fase se debilita gradualmente por encima de unos mil hertz.",
+    "En los mamíferos no se observa una sincronía de fase clara por encima de unos cuatro a cinco kilohertz.",
+    "El límite superior exacto en los seres humanos se debate, pero se acepta que la información temporal disminuye en las frecuencias agudas."
+   ]
+  },
+  {
+   "id": "yer_zaman",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Codificación de la frecuencia",
+   "baslik": "¿Lugar o *tiempo*?",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Código de lugar",
+     "metin": "Funciona en todo el rango de frecuencias",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frecuencias agudas",
+     "metin": "Información sobre todo del código de lugar",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Precisión",
+     "metin": "Depende de las células ciliadas externas",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Código temporal",
+     "metin": "En frecuencias graves y medias",
+     "cumle": 3
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Discriminación del tono",
+     "metin": "El tiempo aporta resolución fina",
+     "cumle": 4
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Implante coclear",
+     "metin": "Sobre todo código de lugar, poca temporalidad",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La codificación de lugar aporta información en todo el rango de frecuencias.",
+    "Como la sincronía de fase se pierde, la información de frecuencia en los agudos depende en gran parte de la codificación de lugar.",
+    "La precisión del código de lugar depende de que las células ciliadas externas estén sanas.",
+    "En las frecuencias graves y medias, la información de lugar y la temporal se usan juntas.",
+    "La discriminación más fina del tono en estas frecuencias se atribuye en parte a la información temporal.",
+    "Los implantes cocleares transmiten la frecuencia sobre todo por la posición del electrodo, o código de lugar; la información temporal fina sigue siendo limitada."
+   ]
+  },
+  {
+   "id": "hiz_seviye",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Codificación de la intensidad",
+   "baslik": "La *función* tasa-nivel",
+   "maddeler": [
+    {
+     "metin": "Más intensidad, mayor _tasa de descarga_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Umbral, ascenso y _saturación_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Una fibra: unos _20 a 40 dB_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "El oído: un rango de unos _120 dB_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "vurgula": [
+     {
+      "parca": "fisilti",
+      "cumle": 4
+     },
+     {
+      "parca": "agri_esigi",
+      "cumle": 4
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "La forma básica de codificar la intensidad es la tasa de descarga: cuanto más intenso el sonido, más descargas por segundo produce la fibra.",
+    "La curva que muestra cómo cambia la tasa de descarga con el nivel del sonido se llama función tasa-nivel.",
+    "La curva empieza a subir en el umbral, aumenta en cierto rango y luego se satura; la tasa deja de subir aunque el sonido siga aumentando.",
+    "El rango dinámico de una sola fibra suele ser de apenas unos veinte a cuarenta decibeles.",
+    "Sin embargo, el oído humano puede manejar un rango de intensidades de unos ciento veinte decibeles.",
+    "Para ver cómo se cubre esta diferencia, debemos fijarnos en la tasa de descarga espontánea de las fibras."
+   ]
+  },
+  {
+   "id": "spontan",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Codificación de la intensidad",
+   "baslik": "*Tres grupos* según la tasa espontánea",
+   "ogeler": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Tasa espontánea alta",
+     "metin": "Más de 18: umbral bajo, rango estrecho",
+     "cumle": 2
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Tasa espontánea media",
+     "metin": "0,5 a 18: umbral y rango medios",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Tasa espontánea baja",
+     "metin": "Menos de 0,5: umbral alto, rango amplio",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Las fibras descargan por sí solas incluso sin sonido; esta tasa se llama tasa de descarga espontánea.",
+    "En el estudio clásico de Liberman en gatos, las fibras se dividieron en tres grupos según su tasa espontánea.",
+    "Las fibras de tasa espontánea alta, con más de dieciocho descargas por segundo, son cerca del sesenta por ciento de las fibras.",
+    "Estas fibras responden a intensidades muy bajas, pero se saturan rápido tras un rango estrecho.",
+    "Las fibras de tasa espontánea media son cerca de una cuarta parte, y las de tasa espontánea baja, cerca del quince por ciento.",
+    "Las fibras de tasa espontánea baja tienen umbrales más altos, pero siguen funcionando a intensidades altas sin saturarse.",
+    "Las proporciones varían según la especie y el estudio, pero el principio es el mismo: distintas fibras cubren distintos rangos de intensidad."
+   ]
+  },
+  {
+   "id": "genis_aralik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Codificación de la intensidad",
+   "baslik": "¿Cómo se *cubre* un rango amplio?",
+   "maddeler": [
+    {
+     "metin": "Fibras de distinto umbral se suman _sucesivamente_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Sonido intenso: la vibración se _extiende_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Más fibras _descargan_",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "El cerebro _combina_ tasa y número de fibras",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_acik",
+    "ayar": {
+     "frekans": 1000
+    },
+    "vurgula": [
+     {
+      "parca": "baziler_membran",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "El amplio rango de intensidades se cubre gracias a que fibras con distintos umbrales se van sumando sucesivamente.",
+    "Además, a medida que el sonido se intensifica, la vibración de la membrana basilar se extiende desde el lugar característico hacia regiones vecinas.",
+    "Por esta extensión, descargan fibras de una región más amplia y, por lo tanto, más fibras en total.",
+    "El cerebro percibe la intensidad al ponderar las tasas de descarga junto con el número de fibras activas.",
+    "A intensidades altas, esta extensión también reduce algo la selectividad frecuencial."
+   ]
+  },
+  {
+   "id": "uyum",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Codificación de la intensidad",
+   "baslik": "Respuesta de inicio y *adaptación*",
+   "maddeler": [
+    {
+     "metin": "Descarga _muy alta_ al inicio del sonido",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Luego la tasa baja: _adaptación_",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Los sonidos cambiantes _destacan_",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Inicio sincrónico: _onda I del PEATC_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "abr",
+    "etiketler": [
+     {
+      "parca": "dalga_I",
+      "metin": "onda I: nervio auditivo",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 3
+     }
+    ],
+    "cumle": 3
+   },
+   "cumleler": [
+    "Cuando un sonido comienza, las fibras descargan a una tasa muy alta durante los primeros milisegundos.",
+    "A medida que el sonido continúa, la tasa de descarga baja y se estabiliza en un nivel menor; esto se llama adaptación.",
+    "La adaptación resalta el inicio de un sonido y ayuda a que los sonidos cambiantes se perciban con más facilidad.",
+    "Cuando un estímulo breve hace descargar muchas fibras a la vez, genera la primera onda de los potenciales evocados auditivos de tronco cerebral (PEATC).",
+    "Por eso la onda I del PEATC refleja la actividad sincrónica del nervio auditivo."
+   ]
+  },
+  {
+   "id": "sinaptopati",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Relaciones clínicas",
+   "baslik": "Audiograma normal, dificultad en el *ruido*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: umbrales normales",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: umbrales normales",
+     "cumle": 0
+    },
+    {
+     "isaret": "?",
+     "renk": "yesil",
+     "metin": "Queja: comprensión _en ruido_",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       5,
+       10,
+       10,
+       15,
+       20
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, los umbrales por vía aérea de ambos oídos están dentro de los límites normales.",
+    "Pero la persona refiere que le cuesta entender el habla en lugares concurridos y ruidosos.",
+    "Estudios con animales mostraron que el ruido puede reducir las sinapsis entre células ciliadas y fibras nerviosas sin cambiar los umbrales de forma permanente.",
+    "Esto se llama sinaptopatía coclear: una pérdida de las conexiones entre las células ciliadas y las fibras nerviosas.",
+    "Se cree que afecta sobre todo a las fibras de tasa espontánea baja; las que fijan el umbral se conservan, y el audiograma puede seguir normal.",
+    "En los seres humanos aún se debate su frecuencia y cómo medirla; este ejemplo solo ilustra el concepto."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Relaciones clínicas",
+   "baslik": "La codificación y la *clínica*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Pérdida de células ciliadas",
+     "metin": "Externas: la curva de sintonía se ensancha",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Reclutamiento",
+     "metin": "La sonoridad crece rápido",
+     "cumle": 2
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Envejecimiento",
+     "metin": "La información temporal puede debilitarse",
+     "cumle": 3
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Implante coclear",
+     "metin": "Sobre todo el código de lugar",
+     "cumle": 4
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Sinaptopatía coclear",
+     "metin": "Umbrales normales, dificultad en ruido",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Estos principios de codificación nos ayudan a entender muchas quejas que vemos en la clínica.",
+    "Con la pérdida de células ciliadas externas, las curvas de sintonía se ensanchan y los sonidos se vuelven más difíciles de separar.",
+    {
+     "yazi": "Esa misma pérdida reduce la compresión coclear; la sonoridad crece de forma anormalmente rápida por encima del umbral, lo que se llama reclutamiento."
+    },
+    "Con el envejecimiento, se ha descrito que la precisión temporal de las fibras nerviosas disminuye, lo que puede dificultar la comprensión en ruido.",
+    "En los usuarios de implante coclear, la información de frecuencia se transmite sobre todo por la posición del electrodo, es decir, por el código de lugar.",
+    "En la sinaptopatía coclear, la dificultad para entender en ruido puede pasar a primer plano aunque los umbrales sean normales."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Relaciones clínicas",
+   "baslik": "Precaución clínica",
+   "metin": "Un audiograma normal no descarta una queja de comprensión en ruido. Tomarla en serio, ampliar la evaluación con pruebas de habla en ruido e informar los resultados juntos.",
+   "cumleler": [
+    "Un consejo clínico: un audiograma normal no garantiza que todas las partes del sistema auditivo estén sanas.",
+    "El audiograma mide sobre todo el umbral, es decir, la respuesta de las fibras más sensibles.",
+    "Ante alguien que refiere dificultad para entender en ruido, amplíen la evaluación con pruebas adicionales, como las pruebas de habla en ruido.",
+    "Consignar juntos la queja y los resultados en el informe deja un registro valioso para evaluaciones posteriores."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "_Código de lugar_: qué fibra descarga",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Sincronía de fase_: frecuencias graves y medias",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Intensidad: _tasa de descarga_ y número de fibras",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Tres_ grupos según la tasa espontánea",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "La frecuencia se representa según qué fibras descargan, es decir, mediante la codificación de lugar.",
+    "En las frecuencias graves y medias, la sincronía de fase añade información temporal; por encima de unos cuatro a cinco kilohertz esta información se pierde.",
+    "La intensidad se codifica por el aumento de la tasa de descarga y por el número de fibras activas.",
+    "Las fibras de tasa espontánea alta, media y baja cubren juntas un amplio rango de intensidades."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Aproximadamente por encima de qué frecuencia se pierde la sincronía de fase?",
+   "secenekler": [
+    "250 Hz",
+    "500 Hz",
+    "4 a 5 kHz",
+    "Nunca se pierde"
+   ],
+   "dogru": 2,
+   "aciklama": "La sincronía de fase se debilita por encima de 1000 Hz; en las _frecuencias agudas_, la información de frecuencia depende del código de lugar.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿aproximadamente por encima de qué frecuencia se pierde la sincronía de fase?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la C: unos cuatro a cinco kilohertz."
+    },
+    "La sincronía de fase empieza a debilitarse por encima de mil hertz; en frecuencias más altas, la información de frecuencia depende del código de lugar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Audición binaural: por qué dos oídos son *mejor* que uno",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección conoceremos las ventajas de oír con dos oídos, es decir, la audición binaural.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

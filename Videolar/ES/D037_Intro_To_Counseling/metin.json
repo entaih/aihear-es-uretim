@@ -1,0 +1,603 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D037_Intro_To_Counseling_ES",
+ "kapak": {
+  "ust": "LECCIÓN 37",
+  "baslik": "Hablar con<br>*el paciente*",
+  "alt": "Introducción a la orientación en audiología",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "Hablar con el paciente: orientación en audiología | Lección 37 | AIHEAR Academia de Audiología",
+  "aciklama": "En audiología, la orientación es una parte inseparable de la evaluación. En esta lección vemos la diferencia entre la orientación informativa y la orientación para la adaptación, la escucha activa y la empatía, y el uso de un lenguaje sencillo en lugar de la jerga técnica. Con ejemplos, también vemos cómo dividir la información en partes y el método teach-back.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Clark JG y English K, Counseling-Infused Audiologic Care; Luterman D, Counseling Persons with Communication Disorders and Their Families; Kessels RPC, Patients' memory for medical information (Journal of the Royal Society of Medicine, 2003); Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "orientacion",
+   "comunicacionconelpaciente"
+  ],
+  "etiketler": [
+   "orientación en audiología",
+   "orientación informativa",
+   "orientación para la adaptación",
+   "escucha activa",
+   "empatía",
+   "comunicación con el paciente",
+   "lenguaje sencillo",
+   "teach-back",
+   "pérdida auditiva",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 37",
+   "baslik": "La *orientación* en audiología",
+   "alt": "Escucha activa, empatía y lenguaje claro",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos las bases de la orientación en audiología: la escucha activa, la empatía y cómo compartir información con claridad.",
+    "Con ejemplos, también veremos la diferencia entre la orientación informativa y la orientación para la adaptación."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la orientación?",
+   "baslik": "La orientación es *parte* de la evaluación",
+   "maddeler": [
+    {
+     "metin": "En cada consulta, en _cada_ etapa",
+     "cumle": 1,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Informar y _escuchar_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Toma de _decisiones_ compartida",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Conocer los límites, _derivar_",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        35,
+        50,
+        60,
+        65
+       ],
+       "cumle": 1
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        30,
+        35,
+        50,
+        65,
+        70
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "En audiología, la orientación no es una tarea aparte después de las pruebas; forma parte de cada minuto que pasamos con el paciente.",
+    "También orientamos al hacer la anamnesis, al explicar los resultados y al describir el proceso de adaptación del audífono.",
+    "La orientación tiene dos caras: dar información correcta y escuchar los sentimientos de la persona.",
+    "El objetivo es que la persona entienda su situación y participe en decisiones acordes con sus propias metas.",
+    "El audiólogo orienta sobre comunicación y audición; si aparecen problemas psicológicos más profundos, la persona se deriva.",
+    "En Turquía, el médico hace el diagnóstico; el audiólogo explica los hallazgos de las pruebas y el proceso de rehabilitación dentro de su ámbito."
+   ]
+  },
+  {
+   "id": "unutma",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la orientación?",
+   "baslik": "Casi todo lo que se dice *se olvida*",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Se olvida rápido",
+     "metin": "Gran parte de la información, muy pronto",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Ansiedad",
+     "metin": "Dificulta asimilar",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Pérdida auditiva",
+     "metin": "Dificulta seguir lo que decimos",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Cómo lo decimos",
+     "metin": "Tan importante como qué decimos",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Las investigaciones muestran que gran parte de la información que dan los profesionales de la salud se olvida en poco tiempo.",
+    "Un paciente ansioso, o la familia de un niño recién diagnosticado, puede apenas oír lo que se dice tras las primeras frases.",
+    "Además, la persona que tenemos delante tiene una pérdida auditiva, lo que hace aún más difícil entender lo que decimos.",
+    "Por eso, cómo decimos algo importa tanto como lo que decimos.",
+    "En el resto de la lección veremos métodos que podemos usar para esto."
+   ]
+  },
+  {
+   "id": "iki_tur",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Dos tipos de orientación",
+   "baslik": "Orientación informativa y *para la adaptación*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Informativa",
+     "metin": "Resultados, tipo de pérdida, opciones",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Preguntas de información",
+     "metin": "¿Qué, cómo, cuándo?",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Para la adaptación",
+     "metin": "Sentimientos: duelo, enojo, negación, ansiedad",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "¿Por qué a mí?",
+     "metin": "Muestra una necesidad de ser comprendido",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La orientación en audiología suele dividirse en dos tipos.",
+    "La orientación informativa consiste en explicar los resultados de las pruebas, el tipo de pérdida y las opciones posibles.",
+    "En esta etapa, la persona suele hacer preguntas de qué, cómo y cuándo.",
+    "La orientación para la adaptación, en cambio, consiste en escuchar y acompañar las reacciones emocionales de la persona.",
+    "El duelo, el enojo, la negación y la ansiedad son partes naturales del proceso de aceptar una pérdida.",
+    "Preguntas como por qué a mí, o si es mi culpa, suelen mostrar una necesidad de ser comprendido más que una necesidad de información."
+   ]
+  },
+  {
+   "id": "tuzak",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Dos tipos de orientación",
+   "baslik": "Un *error* frecuente",
+   "maddeler": [
+    {
+     "metin": "Responder a sentimientos _con datos_",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Ejemplo: _anatomía_ ante una madre que llora",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Primero, notar el _sentimiento_",
+     "cumle": 3,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Luego _volver_ a la información",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "vurgula": [
+     {
+      "parca": "koklea",
+      "cumle": 1
+     }
+    ],
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "koklea",
+      "metin": "datos técnicos: la cóclea",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "El error más común en la orientación es responder a una pregunta emocional con información técnica.",
+    "Por ejemplo, cuando una madre que acaba de saber que su bebé tiene pérdida auditiva pregunta por qué, podemos ponernos a explicar la cóclea.",
+    "Sin embargo, lo que la madre necesita en ese momento no suele ser anatomía, sino que su sentimiento sea visto.",
+    "En cambio, primero debemos notar el sentimiento y nombrarlo, por ejemplo, diciendo que es una noticia muy difícil.",
+    "Cuando la persona está lista, volvemos a la información, y entonces es mucho más fácil de entender."
+   ]
+  },
+  {
+   "id": "aktif_dinleme",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Escucha activa y empatía",
+   "baslik": "Técnicas de *escucha activa*",
+   "ogeler": [
+    {
+     "ikon": "soru",
+     "baslik": "Pregunta abierta",
+     "metin": "¿Dónde le cuesta más?",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Reflejo",
+     "metin": "Eso lo ha agotado mucho",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Resumen",
+     "metin": "Entonces, lo más difícil son las reuniones...",
+     "cumle": 3
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Silencio",
+     "metin": "Dar tiempo para pensar",
+     "cumle": 4
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Lenguaje corporal",
+     "metin": "Frente a frente, contacto visual",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La escucha activa no es solo oír a la otra persona, sino mostrarle que la entendemos.",
+    "Las preguntas abiertas permiten que la persona describa su experiencia con sus propias palabras.",
+    "En el reflejo, devolvemos el sentimiento que la persona describió, para que se sienta comprendida.",
+    "En el resumen, reunimos brevemente lo que dijo y comprobamos que lo entendimos bien.",
+    "Los silencios breves también son valiosos; dan a la persona tiempo para pensar y expresar sus sentimientos.",
+    "Ponerse frente al paciente y mirarlo a los ojos muestra que escuchamos y además facilita la lectura labial."
+   ]
+  },
+  {
+   "id": "empati",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Escucha activa y empatía",
+   "baslik": "Empatía frente a *lástima*",
+   "ogeler": [
+    {
+     "ikon": "kalp",
+     "baslik": "Empatía",
+     "metin": "Comprende el sentimiento, apoya el afrontamiento",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Frase de ejemplo",
+     "metin": "Veo que esto es difícil para usted",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Lástima, restar importancia",
+     "metin": "No se preocupe, ya se acostumbrará",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Resultado",
+     "metin": "La persona puede sentirse sola",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Es importante distinguir la empatía de la lástima.",
+    "La empatía es comprender el sentimiento de la persona desde su punto de vista y mostrar que lo aceptamos.",
+    "Una frase como veo que esto es difícil para usted hace que la persona se sienta comprendida.",
+    "La empatía fortalece la capacidad de la persona para afrontar el problema.",
+    "La lástima, o un consuelo rápido como no se preocupe, ya se acostumbrará, deja de lado el sentimiento.",
+    "Aunque tengan buena intención, estas respuestas pueden hacer que la persona se sienta sola."
+   ]
+  },
+  {
+   "id": "sade_dil",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Información clara",
+   "baslik": "*Lenguaje sencillo* en lugar de jerga",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Hipoacusia neurosensorial",
+     "metin": "Pérdida que viene del oído interno",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Hipoacusia conductiva",
+     "metin": "Un problema al transmitir el sonido",
+     "cumle": 2
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Umbral",
+     "metin": "El sonido más suave que se oye",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Discriminación del habla",
+     "metin": "Entender bien las palabras",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los términos que usamos a diario en la clínica suelen ser desconocidos para los pacientes.",
+    "En vez de hipoacusia neurosensorial, decir una pérdida que viene del oído interno o del nervio auditivo es más fácil de entender.",
+    "La hipoacusia conductiva puede explicarse como un problema para llevar el sonido del oído externo o medio al oído interno.",
+    "En vez de umbral, basta decir el sonido más suave que usted puede oír en cada tono.",
+    "El porcentaje de discriminación puede explicarse como qué tan bien entiende usted las palabras que oye.",
+    "No hace falta ocultar el término; explicarlo primero con sencillez y luego nombrarlo también ayuda a la persona a leer el informe."
+   ]
+  },
+  {
+   "id": "parcala",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Información clara",
+   "baslik": "Dividir la información en *partes*",
+   "cizim": "konusma_muzu",
+   "ayar": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       35,
+       50,
+       60,
+       65
+      ],
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "unluler",
+     "cumle": 3
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Dos o tres_ mensajes clave por consulta",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Hacerla _concreta_ con imágenes",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Teach-back",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Dividir la información en partes pequeñas la hace más fácil de recordar; dos o tres mensajes clave por consulta suelen bastar.",
+    "Después de cada parte, hagan una pausa y comprueben si la persona entendió.",
+    "Usar imágenes como la banana del habla al explicar el audiograma hace concretos los números abstractos.",
+    "Con este audiograma de ejemplo, podemos mostrar directamente que las vocales se oyen, pero las consonantes agudas pueden perderse.",
+    "El método teach-back consiste en pedir a la persona que explique con sus propias palabras lo que aprendió.",
+    "Este método no sirve para evaluar a la persona, sino para ver con qué claridad explicamos."
+   ]
+  },
+  {
+   "id": "iki_yol",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Información clara",
+   "baslik": "*Dos formas* de reforzar la información",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Oral, interactiva",
+     "metin": "Teach-back, corrección inmediata",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Escrita, visual",
+     "metin": "Repasar en casa, compartir con la familia",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Ambas juntas",
+     "metin": "A menudo, el mejor resultado",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Hay dos formas válidas y complementarias de reforzar la información.",
+    "En la forma oral e interactiva, el teach-back permite detectar y corregir de inmediato los malentendidos.",
+    "Esta forma puede adaptarse en el momento a las preguntas y preocupaciones de la persona.",
+    "Los materiales escritos y visuales son un recurso duradero que la persona puede releer en casa.",
+    "Una copia del audiograma o una hoja informativa breve también facilita compartir la información con la familia.",
+    "Usadas juntas, suelen dar el mejor resultado; las necesidades de la persona y el contexto clínico definen el equilibrio."
+   ]
+  },
+  {
+   "id": "konusma_kurallari",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Información clara",
+   "baslik": "*Hablar* con una persona con pérdida auditiva",
+   "maddeler": [
+    {
+     "metin": "Primero captar la _atención_, mirarla",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Cara bien iluminada, sala _silenciosa_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "No gritar; hablar _algo más lento_, claro",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Si no entiende, _reformular_",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "La mascarilla _impide_ la lectura labial",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Antes de empezar a hablar, capten la atención de la persona y giren la cara hacia ella.",
+    "Asegúrense de que su cara esté bien iluminada y, si pueden, aléjense del ruido.",
+    "No griten; gritar distorsiona la voz y cambia los movimientos de los labios, así que hablen un poco más lento y con claridad.",
+    "Cuando no se entiende una frase, digan lo mismo con otras palabras en lugar de repetir las mismas.",
+    "La mascarilla reduce la voz e impide la lectura labial; si hace falta, usen una mascarilla transparente o una nota escrita."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Información clara",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de terminar la consulta, pidan a la persona las dos cosas más importantes que recordará. La respuesta muestra qué parte de su explicación no quedó clara.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la práctica: antes de terminar la consulta, pregunten a la persona cuáles son las dos cosas más importantes que recordará de hoy.",
+    "Esta pregunta no es un examen; es un espejo que muestra qué tan bien se entendió su explicación.",
+    "Vuelvan a explicar brevemente en ese momento cualquier punto que falte, y refuércenlo con una nota escrita.",
+    "Cuando las personas salen de la clínica sabiendo cuál es su siguiente paso, aumentan la colaboración y la satisfacción."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "La orientación es parte de _cada_ consulta",
+     "cumle": 0,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Orientación informativa y _para la adaptación_",
+     "cumle": 1,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Escucha activa y _empatía_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Lenguaje sencillo, partes, _teach-back_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "La orientación no está separada de la evaluación; es una parte natural de cada consulta.",
+    "La orientación informativa trata con datos, la de adaptación con sentimientos; una pregunta emocional recibe primero una respuesta emocional.",
+    "Las preguntas abiertas, el reflejo, el resumen y la empatía ayudan a que la persona se sienta comprendida.",
+    "El lenguaje sencillo, dividir la información en partes y el teach-back hacen que la información se recuerde mejor."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "La madre de un bebé recién diagnosticado pregunta: ¿por qué a mí? ¿Qué va primero?",
+   "secenekler": [
+    "Explicar la cóclea",
+    "Notar y reconocer su sentimiento",
+    "Enumerar opciones de audífonos",
+    "Decirle que no se preocupe"
+   ],
+   "dogru": 1,
+   "aciklama": "Esta pregunta no suele buscar información sino ser _comprendida_: primero orientación para la adaptación, luego información.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: la madre de un bebé recién diagnosticado pregunta: ¿por qué a mí? ¿Cuál debería ser el primer paso?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: notar y reconocer su sentimiento."
+    },
+    "Esta pregunta suele mostrar una necesidad de ser comprendida, no de información; pasamos a la información cuando ella esté lista."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "dB SPL, dB HL y *dB SL*: cuándo usar cada uno",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección volvemos a la acústica y veremos la diferencia entre dB SPL, dB HL y dB SL.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

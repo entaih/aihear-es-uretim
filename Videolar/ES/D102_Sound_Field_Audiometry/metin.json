@@ -1,0 +1,864 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D102_Sound_Field_Audiometry_ES",
+ "kapak": {
+  "ust": "LECCIÓN 102",
+  "baslik": "Audiometría en<br>*campo libre*",
+  "alt": "Altavoces y umbrales con audífono",
+  "cizim": "test_kabini"
+ },
+ "youtube": {
+  "baslik": "Audiometría en campo libre y umbrales con audífono | Lección 102 | AIHEAR Academia de Audiología",
+  "aciklama": "En la audiometría en campo libre, el estímulo se presenta por un altavoz en lugar de auriculares. En esta lección vemos la ubicación del altavoz y el punto de referencia, por qué se usan tonos modulados en frecuencia (warble) y ruido de banda estrecha en lugar de tonos puros, cómo calcular los umbrales con audífono y la ganancia funcional, y las limitaciones actuales de este método.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Dillon, Hearing Aids; ISO 8253-2, Acoustics: Audiometric test methods, Part 2: Sound field audiometry; ASHA, Guidelines for Audiometric Symbols.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "campolibre",
+   "audifonos"
+  ],
+  "etiketler": [
+   "audiometría en campo libre",
+   "campo libre",
+   "tono warble",
+   "tono modulado en frecuencia",
+   "ruido de banda estrecha",
+   "umbral con audífono",
+   "ganancia funcional",
+   "audífonos",
+   "implante coclear",
+   "medición en oído real",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 102",
+   "baslik": "Audiometría en *campo libre* y umbrales con audífono",
+   "alt": "Altavoces, estímulos y umbrales con audífono",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos la audiometría en campo libre con altavoces y los umbrales con audífono.",
+    "Veremos la ubicación del altavoz, los estímulos que se usan y por qué la ganancia funcional debe interpretarse con cuidado."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Campo libre",
+   "baslik": "Un *altavoz* en lugar de auriculares",
+   "cizim": "test_kabini",
+   "vurgula": [
+    {
+     "parca": "hoparlor",
+     "cumle": 0
+    },
+    {
+     "parca": "hasta",
+     "cumle": 2
+    },
+    {
+     "parca": "odyometre",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "hoparlor",
+     "metin": "Estímulo desde el altavoz",
+     "cumle": 0
+    },
+    {
+     "parca": "hasta",
+     "metin": "Ambos oídos escuchan juntos",
+     "cumle": 2
+    },
+    {
+     "parca": "odyometre",
+     "metin": "Calibración en campo libre",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Niños y pacientes que no toleran auriculares",
+     "cumle": 3,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Evaluación con audífono e implante",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "En la audiometría en campo libre, el estímulo se presenta por altavoces ubicados en la sala de prueba, no por auriculares.",
+    "El sonido se propaga por la sala y llega a los dos oídos del paciente a la vez.",
+    "Por eso, un umbral obtenido en campo libre suele reflejar el oído que mejor oye.",
+    "La prueba en campo libre es una opción valiosa para niños pequeños que no aceptan auriculares y para pacientes que no pueden usarlos.",
+    "Las evaluaciones con el audífono o el implante coclear colocados también se hacen en campo libre.",
+    "El audiómetro se calibra por separado para la salida del altavoz; la calibración de los auriculares no sirve aquí."
+   ]
+  },
+  {
+   "id": "yerlesim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Campo libre",
+   "baslik": "*Ubicación* del altavoz",
+   "maddeler": [
+    {
+     "metin": "Altavoz _a la altura de la cabeza_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Distancia habitual: _cerca de 1 metro_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Referencia: _centro de la cabeza_",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Ángulo: _0, 45 o 90 grados_",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "El paciente _no mueve la cabeza_",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ÁNGULO",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "hasta",
+      "baslik": "0 grados",
+      "metin": "De frente",
+      "cumle": 4
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Desde un lado",
+      "metin": "45 o 90 grados",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "El altavoz se coloca a una altura que coincide con la de los oídos del paciente sentado.",
+    "La distancia entre el altavoz y el paciente suele ser de alrededor de un metro y se mantiene igual en todas las pruebas.",
+    "La calibración se hace en el punto de referencia que corresponde al centro de la cabeza del paciente, sin el paciente en la sala.",
+    "Por eso, el paciente debe sentarse exactamente en ese punto.",
+    "La dirección del altavoz se llama azimut; el más usado es cero grados, es decir, de frente.",
+    "Pueden elegirse ángulos de cuarenta y cinco o noventa grados, por ejemplo, para favorecer el oído de un lado.",
+    "Si el paciente gira o se inclina hacia adelante, el sonido que llega al oído puede variar unos decibeles, sobre todo en las frecuencias altas."
+   ]
+  },
+  {
+   "id": "uyaran",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 2",
+   "bolum": "Estímulos",
+   "baslik": "¿Tono puro o *tono warble?*",
+   "sol": {
+    "ust": "Tono puro",
+    "maddeler": [
+     {
+      "metin": "Genera _ondas estacionarias_ en la sala",
+      "cumle": 0
+     },
+     {
+      "metin": "El nivel _varía_ según la posición",
+      "cumle": 1
+     },
+     {
+      "metin": "_No recomendado_ en campo libre",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Tono FM o banda estrecha",
+    "maddeler": [
+     {
+      "metin": "Tono de frecuencia _levemente variable_",
+      "cumle": 3
+     },
+     {
+      "metin": "O ruido de _banda estrecha_",
+      "cumle": 4
+     },
+     {
+      "metin": "Nivel _más estable_ en la sala",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Un tono puro emitido por un altavoz se refleja en las paredes y se superpone con el sonido directo; así se forman ondas estacionarias.",
+    "Por eso, el nivel de un tono puro puede subir y bajar claramente aunque la posición cambie solo unos centímetros.",
+    "Por esta razón, en campo libre se prefieren otros estímulos en lugar de los tonos puros.",
+    "El más común es el tono warble, un tono modulado en frecuencia que oscila levemente alrededor de su centro varias veces por segundo.",
+    "La otra opción es el ruido de banda estrecha centrado en la frecuencia de prueba.",
+    "En estos estímulos la energía se reparte en un pequeño rango de frecuencias, así que el nivel se mantiene mucho más estable en la sala."
+   ]
+  },
+  {
+   "id": "duran_dalga",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Estímulos",
+   "baslik": "El nivel *cambia con la posición*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 40,
+     "adim": 10,
+     "ad": "Distancia al punto de referencia (cm)"
+    },
+    "y": {
+     "min": -15,
+     "max": 5,
+     "adim": 5,
+     "ad": "Diferencia de nivel (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "saf_ses",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        4,
+        -3
+       ],
+       [
+        8,
+        -11
+       ],
+       [
+        12,
+        -4
+       ],
+       [
+        16,
+        1
+       ],
+       [
+        20,
+        -2
+       ],
+       [
+        24,
+        -9
+       ],
+       [
+        28,
+        -3
+       ],
+       [
+        32,
+        1
+       ],
+       [
+        36,
+        -4
+       ],
+       [
+        40,
+        -10
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "tono puro",
+      "cumle": 0
+     },
+     {
+      "ad": "fm_ton",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        5,
+        -1
+       ],
+       [
+        10,
+        -1.5
+       ],
+       [
+        15,
+        -0.5
+       ],
+       [
+        20,
+        -1
+       ],
+       [
+        25,
+        -1.5
+       ],
+       [
+        30,
+        -0.5
+       ],
+       [
+        35,
+        -1
+       ],
+       [
+        40,
+        -1.5
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "tono FM",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Tono puro: grandes subidas y bajadas",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tono FM: casi plano",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Esquemático; cada sala es distinta",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "El diagrama muestra cómo cambia el nivel sonoro en una misma sala a medida que nos alejamos del punto de referencia.",
+    "Con un tono puro, el nivel puede mostrar caídas y picos de hasta diez decibeles en pocos centímetros.",
+    "Con un tono modulado en frecuencia, las variaciones son pequeñas; el umbral medido se afecta menos por los pequeños movimientos de la cabeza.",
+    "Esta diferencia es especialmente clara en salas pequeñas con superficies reflectantes cercanas.",
+    "El gráfico es esquemático; los valores reales varían con el tamaño de la sala, la frecuencia y los materiales absorbentes.",
+    "Por eso, para buscar umbrales en campo libre se usa un tono modulado en frecuencia o ruido de banda estrecha."
+   ]
+  },
+  {
+   "id": "dikkat",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Estímulos",
+   "baslik": "*Precauciones* en campo libre",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Ambos oídos",
+     "metin": "El resultado refleja el mejor oído",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Un oído",
+     "metin": "Ocluir o enmascarar el otro",
+     "cumle": 1
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido ambiental",
+     "metin": "Oídos descubiertos, límites más estrictos",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Posición",
+     "metin": "En el punto de referencia, cabeza quieta",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Un umbral en campo libre refleja los dos oídos escuchando juntos, en la práctica el mejor oído.",
+    "Para ver el aporte de un solo oído, el otro se ocluye con un tapón auditivo o se enmascara.",
+    "Colocar el altavoz a un lado no basta por sí solo, porque la sombra de la cabeza protege muy poco en las frecuencias bajas.",
+    "Como los oídos están descubiertos, los límites de ruido ambiental en la sala son más estrictos que en la prueba con auriculares.",
+    "El paciente debe permanecer en el punto de referencia sin mover la cabeza, y nadie debe hablar cerca."
+   ]
+  },
+  {
+   "id": "cihazli",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Umbrales con audífono",
+   "baslik": "Umbrales sin y *con audífono*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)"
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 10,
+     "ters": true,
+     "ad": "Umbral en campo libre (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "cihazsiz",
+      "noktalar": [
+       [
+        500,
+        50
+       ],
+       [
+        1000,
+        55
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        4000,
+        70
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "sin audífono (S)",
+      "cumle": 1
+     },
+     {
+      "ad": "cihazli",
+      "noktalar": [
+       [
+        500,
+        30
+       ],
+       [
+        1000,
+        30
+       ],
+       [
+        2000,
+        35
+       ],
+       [
+        4000,
+        45
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "con audífono (A)",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kazanc",
+      "y": [
+       35,
+       60
+      ],
+      "xk": 2000,
+      "etiket": "25 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "S: campo libre, sin audífono",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "A: campo libre, con audífono",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Diferencia: ganancia funcional",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Un umbral con audífono es el umbral obtenido en campo libre mientras el paciente usa un audífono o un implante.",
+    "Primero se obtienen los umbrales sin el dispositivo; en el audiograma se registran con la letra ese.",
+    "Luego se miden las mismas frecuencias con el dispositivo en su programa habitual, y se marcan con la letra a.",
+    "La diferencia entre ambos umbrales se llama ganancia funcional; en este ejemplo, veinticinco decibeles en dos mil hertz.",
+    "Este método muestra la ganancia a partir de las respuestas del propio paciente, es decir, de forma conductual.",
+    "Durante muchos años, esta fue la principal forma de verificar la ganancia de un audífono.",
+    "Aun así, este número debe interpretarse con cuidado; enseguida veremos por qué."
+   ]
+  },
+  {
+   "id": "kazanc_tablo",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Umbrales con audífono",
+   "baslik": "Cálculo de la *ganancia funcional*",
+   "sutunlar": [
+    "Frecuencia (Hz)",
+    "Sin audífono",
+    "Con audífono",
+    "Ganancia (dB)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500",
+      "50",
+      "30",
+      "20"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000",
+      "55",
+      "30",
+      "25"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2000",
+      "60",
+      "35",
+      "25"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "4000",
+      "70",
+      "45",
+      "25"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El cálculo es sencillo: en cada frecuencia, se resta el umbral con audífono del umbral sin audífono.",
+    "En quinientos hertz, cincuenta menos treinta da veinte decibeles.",
+    "En mil y en dos mil hertz, la ganancia es de veinticinco decibeles.",
+    "En cuatro mil hertz, setenta menos cuarenta y cinco da de nuevo veinticinco decibeles.",
+    "En este ejemplo, los umbrales con audífono están entre treinta y cuarenta y cinco decibeles, así que algunos sonidos suaves del habla ya son audibles.",
+    "Pero estos números solo muestran la ganancia a nivel umbral, es decir, para sonidos muy suaves."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Umbrales con audífono",
+   "baslik": "Pruebas de *habla* en campo libre",
+   "maddeler": [
+    {
+     "metin": "_URP_ sin y con audífono",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Reconocimiento de palabras_ con audífono",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Habla de frente, _ruido detrás_",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "_Calibración_ aparte para el habla",
+     "cumle": 4,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "MONTAJE",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "hoparlor",
+      "baslik": "Altavoz frontal",
+      "metin": "Habla, 0 grados",
+      "cumle": 3
+     },
+     {
+      "ikon": "gurultu",
+      "baslik": "Altavoz trasero",
+      "metin": "Ruido, 180 grados",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "En campo libre también puede medirse el umbral de recepción de la palabra (URP), sin y con audífono.",
+    "El porcentaje de reconocimiento de palabras con audífono muestra directamente cuánto ayuda el dispositivo a entender el habla.",
+    "Cuando esta prueba se hace a un nivel cercano al habla cotidiana, da una imagen más realista que la prueba de umbrales.",
+    "Para la prueba en ruido, el habla llega de frente y el ruido desde atrás o los lados; así se observa el efecto de los micrófonos direccionales.",
+    "El canal de habla también debe calibrarse por separado para el campo libre."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Limitaciones",
+   "baslik": "Los *límites* de la ganancia funcional",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Compresión",
+     "metin": "Más ganancia para sonidos suaves",
+     "cumle": 0
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Expansión",
+     "metin": "Puede atenuar sonidos muy suaves",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Piso de ruido",
+     "metin": "Ruido de la sala y del equipo",
+     "cumle": 3
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Funciones automáticas",
+     "metin": "Pueden suprimir tonos estables",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Adaptación abierta",
+     "metin": "Se suma el sonido directo",
+     "cumle": 5
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Pasos de 5 dB",
+     "metin": "Gruesos y variables",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Los audífonos modernos usan compresión; dan más ganancia a los sonidos suaves que a los sonidos a nivel de conversación.",
+    "Por eso, la ganancia medida a nivel umbral puede sobrestimar la ganancia para el habla cotidiana.",
+    "Por otro lado, la expansión, que atenúa los sonidos muy suaves, puede hacer que el umbral con audífono parezca peor de lo que es.",
+    "El ruido de la sala y del propio dispositivo puede impedir que el umbral con audífono baje de cierto nivel.",
+    "La reducción de ruido o la cancelación de la retroalimentación pueden tratar un tono de prueba estable como un sonido no deseado y suprimirlo.",
+    "Con los audífonos de adaptación abierta, los sonidos graves también llegan directamente al oído sin pasar por el audífono.",
+    "Por último, los pasos de cinco decibeles y la variabilidad test-retest dificultan interpretar las diferencias pequeñas."
+   ]
+  },
+  {
+   "id": "rem",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 4",
+   "bolum": "Limitaciones",
+   "baslik": "Umbrales con audífono y medición en *oído real*",
+   "sol": {
+    "ust": "Umbral con audífono",
+    "maddeler": [
+     {
+      "metin": "Información _solo a nivel umbral_",
+      "cumle": 0
+     },
+     {
+      "metin": "Depende de la respuesta del paciente",
+      "cumle": 1
+     },
+     {
+      "metin": "Pocas frecuencias, pasos de 5 dB",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Medición en oído real",
+    "maddeler": [
+     {
+      "metin": "_Salida_ a niveles de habla",
+      "cumle": 3
+     },
+     {
+      "metin": "_Objetiva_, con micrófono de sonda",
+      "cumle": 3
+     },
+     {
+      "metin": "Todo el rango, comparada con objetivos",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Un umbral con audífono solo muestra lo que el dispositivo hace con los sonidos muy suaves.",
+    "Además, el resultado depende de la atención del paciente y de su forma de responder.",
+    "También da información solo en unas pocas frecuencias, en pasos de cinco decibeles.",
+    "En la medición en oído real, el sonido en el conducto auditivo se mide objetivamente con un micrófono de sonda, a niveles de habla.",
+    "El resultado puede compararse con los objetivos prescriptivos en todo el rango de frecuencias.",
+    "Por eso, en adultos se prefiere la medición en oído real para verificar la adaptación del audífono; la veremos en detalle en otra lección."
+   ]
+  },
+  {
+   "id": "deger",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Limitaciones",
+   "baslik": "¿*Dónde* son útiles los umbrales con audífono?",
+   "maddeler": [
+    {
+     "metin": "Control de la programación del _implante coclear_",
+     "cumle": 0,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Dispositivos de _anclaje óseo_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Control _conductual_ en niños pequeños",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Orientación _visual_ a las familias",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "vurgula": [
+     {
+      "parca": "dis_islemci",
+      "cumle": 0
+     },
+     {
+      "parca": "elektrot_dizisi",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "El implante coclear no tiene una salida acústica medible en el conducto auditivo, así que su programación se controla mucho con umbrales en campo libre.",
+    "La medición en oído real tampoco puede usarse con los dispositivos auditivos de anclaje óseo, por lo que los métodos conductuales cobran importancia.",
+    "En niños pequeños, las pruebas conductuales en campo libre, junto con la medición en oído real, muestran qué sonidos se oyen con el dispositivo.",
+    "Mostrar los umbrales con audífono sobre la banana del habla ayuda mucho a explicar a las familias qué sonidos del habla se han vuelto audibles.",
+    "Una prueba de reconocimiento de palabras con audífono en campo libre también puede mostrar cómo ayuda el dispositivo a entender el habla."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "En la prueba con audífono, registra el programa, el volumen y las funciones activas del dispositivo; anota también si el oído opuesto estaba ocluido.",
+   "cumleler": [
+    "Lo que hace comparables las mediciones con audífono en campo libre es registrar las condiciones.",
+    "Anota en qué programa y volumen estaba el dispositivo, y si funciones como la reducción de ruido estaban activas.",
+    "Si evaluaste un solo oído, deja constancia de que el otro estaba ocluido o enmascarado.",
+    "Registra también el ángulo del altavoz y el estímulo usado, para reproducir las mismas condiciones en la siguiente consulta."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Altavoz: _aprox. 1 m_, altura de la cabeza",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Estímulo: _tono FM_ o banda estrecha",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ganancia funcional: _sin menos con audífono_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Verificación en adultos: _oído real_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "En campo libre, el altavoz se coloca a la altura de la cabeza, por lo general a cerca de un metro, con un ángulo fijo.",
+    "Por las ondas estacionarias, se usa un tono modulado en frecuencia o ruido de banda estrecha en lugar de un tono puro.",
+    "La ganancia funcional es la diferencia entre los umbrales en campo libre sin y con audífono.",
+    "La compresión y las funciones automáticas limitan este valor; en adultos, la adaptación del audífono se verifica con la medición en oído real."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Por qué usar un tono FM en lugar de un tono puro en campo libre?",
+   "secenekler": [
+    "Alcanza niveles más altos",
+    "Reduce las ondas estacionarias",
+    "El paciente lo detecta más fácilmente",
+    "No necesita calibración"
+   ],
+   "dogru": 1,
+   "aciklama": "Un tono puro genera _ondas estacionarias_ en la sala; un tono FM reparte la energía en un rango pequeño, así que su nivel es más estable.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en la audiometría en campo libre, ¿por qué se usa un tono modulado en frecuencia en lugar de un tono puro?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: reduce las ondas estacionarias.",
+    "Un tono puro crea picos y caídas que cambian con la posición en la sala; con un tono modulado, el nivel se mantiene mucho más estable."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Inmitancia acústica: *impedancia* y admitancia",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos a la inmitanciometría y conoceremos la impedancia y la admitancia.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

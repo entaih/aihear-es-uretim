@@ -1,0 +1,749 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D059_Preparing_For_Pure_Tone_Audiometry_ES",
+ "kapak": {
+  "ust": "LECCIÓN 59",
+  "baslik": "Preparación<br>*para la prueba*",
+  "alt": "Instrucciones, colapso del conducto y colocación de auriculares",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "dis_kulak_yolu"
+  ]
+ },
+ "youtube": {
+  "baslik": "Preparación para la audiometría tonal | Lección 59 | AIHEAR Academia de Audiología",
+  "aciklama": "Un umbral exacto empieza con una buena preparación. En esta lección recorremos paso a paso el entorno de la prueba, los controles previos, las instrucciones estándar al paciente y los métodos de respuesta, el colapso del conducto auditivo y la falsa pérdida en agudos, y la colocación correcta de los auriculares supraaurales y de las puntas de espuma de inserción.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005); British Society of Audiology, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking; ISO 8253-1, Acoustics - Audiometric test methods - Part 1; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audiometria",
+   "audicion"
+  ],
+  "etiketler": [
+   "audiometría tonal",
+   "preparación de la audiometría",
+   "instrucciones al paciente",
+   "colapso del conducto auditivo",
+   "conducto colapsable",
+   "auricular de inserción",
+   "punta de espuma",
+   "auricular supraaural",
+   "otoscopia",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 59",
+   "baslik": "Preparación para la audiometría *tonal*",
+   "alt": "Instrucciones, otoscopia y colocación de auriculares",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos la preparación necesaria antes de la audiometría tonal.",
+    "Recorreremos paso a paso el entorno, las instrucciones al paciente, la detección del colapso del conducto y la colocación correcta de los auriculares."
+   ]
+  },
+  {
+   "id": "ortam",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Entorno y paciente",
+   "baslik": "El *entorno* de la prueba",
+   "maddeler": [
+    {
+     "metin": "Una _cabina_ sonoamortiguada",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Ruido ambiental dentro de la _norma_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "El paciente _no ve_ al evaluador",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Asiento cómodo, teléfono apagado",
+     "cumle": 4,
+     "ikon": "telefon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "La audiometría tonal se hace en una cabina sonoamortiguada o en una sala con un ruido ambiental suficientemente bajo.",
+    "Los niveles máximos permitidos de ruido ambiental están definidos en normas; si se superan, los umbrales pueden salir peores de lo que son.",
+    "El paciente se sienta de modo que no vea las manos del evaluador ni la pantalla del equipo, por lo general de costado o en ángulo.",
+    "Así, el paciente responde solo al sonido que oye y no a señales visuales.",
+    "Se pide al paciente que se siente cómodo, apague el teléfono y se quite cualquier cosa ruidosa, como la goma de mascar.",
+    "El evaluador también debe ubicarse de modo que vea con facilidad el rostro y las respuestas del paciente."
+   ]
+  },
+  {
+   "id": "on_kontrol",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Entorno y paciente",
+   "baslik": "*Antes* de empezar la prueba",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Anamnesis",
+     "metin": "Identificar el mejor oído",
+     "cumle": 0
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia",
+     "metin": "Cerumen, secreción, perforación",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Control de colapso",
+     "metin": "Falsa pérdida en agudos",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Lentes, aretes, pinzas",
+     "metin": "Para que el auricular calce bien",
+     "cumle": 3
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Audífonos",
+     "metin": "Apagados y retirados",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Instrucciones",
+     "metin": "Para respuestas correctas",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La evaluación empieza con la anamnesis, que indica qué oído considera mejor el paciente.",
+    "Luego se hace la otoscopia en ambos oídos, para detectar antes de la prueba situaciones como cerumen, secreción o una perforación.",
+    "Durante la otoscopia también se revisa la tendencia del conducto auditivo a colapsar bajo la presión del auricular.",
+    "Se retiran los lentes, aretes y pinzas para el cabello que dificultarían la colocación de los auriculares.",
+    "En los pacientes que usan audífonos, los equipos se apagan y se retiran.",
+    "Por último se dan las instrucciones; si se omiten estos pasos, incluso el mejor método puede dar resultados erróneos."
+   ]
+  },
+  {
+   "id": "talimat",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Instrucciones",
+   "baslik": "Instrucciones claras y *estándar*",
+   "maddeler": [
+    {
+     "metin": "_Pitidos_ graves y agudos",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Presionar_ aunque sea muy débil",
+     "cumle": 1,
+     "ikon": "hasta_butonu"
+    },
+    {
+     "metin": "Presionar al oír, soltar al dejar de oír",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Los oídos se evalúan _uno por uno_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Verificar la comprensión con una _pregunta_",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PRIMERO, LAS INSTRUCCIONES",
+    "metin": "Explicar *cara a cara* antes de poner los auriculares",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Las instrucciones le dicen primero al paciente qué va a oír: pitidos breves de distinto tono, graves y agudos.",
+    "Se le pide que presione el botón cada vez que oiga el sonido, aunque sea muy débil.",
+    "Se le indica que presione apenas oiga el sonido y que lo suelte cuando el sonido se detenga.",
+    "Se explica que los oídos se evaluarán uno por uno, y cuál será el primero.",
+    "Las instrucciones se dan antes de colocar los auriculares, cara a cara y en lenguaje sencillo.",
+    "Por último, una pregunta breve permite comprobar si se entendieron las instrucciones."
+   ]
+  },
+  {
+   "id": "yanit",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Instrucciones",
+   "baslik": "*Métodos* de respuesta",
+   "ogeler": [
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Botón",
+     "metin": "Luz, momento claro; puede quedar presionado",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Levantar la mano",
+     "metin": "Sencillo; exige observar siempre",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Respuesta verbal",
+     "metin": "Natural; la propia voz puede interferir",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El paciente puede responder al sonido de distintas formas, y cada método tiene sus ventajas.",
+    "El pulsador de respuesta enciende una luz en el equipo y muestra con claridad cuándo se produjo la respuesta.",
+    "Levantar la mano es sencillo y sirve para quienes tienen dificultad con el botón, pero el evaluador debe observar al paciente todo el tiempo.",
+    "También pueden usarse respuestas verbales, como decir sí, pero la propia voz del paciente puede interferir brevemente con la escucha.",
+    "En la clínica, lo más usado es el pulsador de respuesta; el método elegido debe mantenerse igual durante toda la prueba."
+   ]
+  },
+  {
+   "id": "ozel",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Instrucciones",
+   "baslik": "*Situaciones* especiales",
+   "maddeler": [
+    {
+     "metin": "Adultos mayores: explicación _lenta_ y clara",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Tinnitus: avisar de los tonos _pulsados_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Niños: respuestas por _juego_",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "_Volver a practicar_ si hace falta",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "vurgula": [
+     {
+      "parca": "hasta_butonu",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Con pacientes mayores, conviene dar las instrucciones más despacio y con claridad, y por escrito si es necesario.",
+    "Avisar al paciente con tinnitus que el sonido de prueba será distinto de su zumbido y llegará en pulsos facilita la respuesta.",
+    "Con niños pequeños se usan respuestas por juego en lugar del botón, como echar un juguete en una caja al oír el sonido.",
+    "Si parece que no se entendieron las instrucciones, se detiene la prueba, se repiten las instrucciones y se practica de nuevo.",
+    "Vigilar la atención y el cansancio del paciente es parte de obtener respuestas confiables."
+   ]
+  },
+  {
+   "id": "kollaps",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Colapso del conducto",
+   "baslik": "*Colapso* del conducto auditivo",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "kulaklik_yastigi",
+     "metin": "Auricular supraaural",
+     "cumle": 0
+    },
+    {
+     "parca": "kollaps",
+     "metin": "Porción cartilaginosa colapsada",
+     "cumle": 0
+    },
+    {
+     "parca": "yarik_agiz",
+     "metin": "Entrada en forma de ranura",
+     "cumle": 4
+    },
+    {
+     "parca": "kulak_kepcesi",
+     "metin": "Pabellón auricular",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kollaps",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 2
+    },
+    {
+     "parca": "yarik_agiz",
+     "cumle": 4
+    },
+    {
+     "parca": "kulak_kepcesi",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Más frecuente en adultos mayores",
+     "cumle": 1,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Falsa pérdida en agudos",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Entrada del conducto en ranura",
+     "cumle": 4,
+     "ikon": "otoskop"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El colapso del conducto auditivo es el cierre de su porción cartilaginosa bajo la presión de un auricular supraaural.",
+    "Es más frecuente en adultos mayores, porque el cartílago pierde elasticidad; también puede ocurrir en lactantes por sus conductos blandos.",
+    "Un conducto colapsado impide que el sonido llegue a la membrana timpánica y empeora falsamente los umbrales, sobre todo en los agudos.",
+    "Como resultado, en el audiograma puede aparecer una brecha aéreo-ósea que en realidad no existe.",
+    "En la otoscopia, una entrada del conducto estrecha o en forma de ranura es un signo de alerta.",
+    "Una prueba sencilla es presionar suavemente el pabellón hacia la cabeza con un dedo y ver si el conducto se cierra."
+   ],
+   "ayar": {
+    "kollaps": true,
+    "kollaps_cumle": 0
+   }
+  },
+  {
+   "id": "kollaps_ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Colapso del conducto",
+   "baslik": "Ejemplo: *falsa* pérdida en agudos",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Vía aérea_: supraaural",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Vía ósea_: normal",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       35,
+       45,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       15,
+       10,
+       15,
+       null
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      4,
+      15,
+      45
+     ],
+     "etiket": "30 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, se evaluó el oído derecho de un paciente mayor con un auricular supraaural.",
+    "Los umbrales por vía ósea están dentro de los límites normales.",
+    "En la vía aérea, en cambio, hay una brecha de unos veinticinco a treinta decibeles en dos mil y cuatro mil hertz.",
+    "En la otoscopia, la entrada del conducto tiene forma de ranura, y el conducto se cierra al presionar el pabellón.",
+    "Esta brecha conductiva que solo aparece en los agudos es un hallazgo inesperado y refuerza la sospecha de colapso.",
+    "Para confirmarlo, se vuelve a medir la vía aérea con un método que evite el colapso."
+   ]
+  },
+  {
+   "id": "kollaps_cozum",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Colapso del conducto",
+   "baslik": "Medir *de nuevo* con inserción",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Vía aérea_: auricular de inserción",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Vía ósea_: sin cambios",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       15,
+       20,
+       25
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       15,
+       10,
+       15,
+       null
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Cuando se vuelve a evaluar el mismo oído con un auricular de inserción, los umbrales por vía aérea se acercan a los de la vía ósea.",
+    "La brecha en agudos desaparece, así que la brecha de la primera medición se debía al colapso.",
+    "En este ejemplo, la audición del paciente está dentro de los límites normales.",
+    "La forma más eficaz de evitar el colapso es usar auriculares de inserción.",
+    "Sin auriculares de inserción, también se han descrito métodos como recolocar el auricular o poner un tubo corto de soporte en el conducto.",
+    "El método utilizado se indica en el informe."
+   ]
+  },
+  {
+   "id": "supra_yer",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Colocación de auriculares",
+   "baslik": "*Colocar* auriculares supraaurales",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "kulaklik",
+     "metin": "rojo derecho, azul izquierdo",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Diafragma frente a la entrada del conducto",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Banda sobre la cabeza",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Sin cabello, aretes ni lentes en medio",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "kulaklik",
+     "cumle": 1,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Con auriculares supraaurales, el lado rojo va en el oído derecho y el azul en el oído izquierdo.",
+    "El diafragma del auricular, el centro por donde sale el sonido, debe quedar justo sobre la entrada del conducto auditivo.",
+    "Si el centro se desplaza, los umbrales pueden salir peores de lo que son, sobre todo en los agudos.",
+    "La banda se ajusta para que quede sobre la cabeza, y las almohadillas se apoyan en los pabellones con igual presión.",
+    "No debe quedar cabello, aretes ni patillas de lentes entre la almohadilla y el oído.",
+    "El evaluador coloca los auriculares, y se pide al paciente que no los toque durante la prueba."
+   ]
+  },
+  {
+   "id": "insert_yer",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Colocación de auriculares",
+   "baslik": "*Introducir* la punta de espuma",
+   "adimlar": [
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Elegir la punta",
+     "metin": "Punta de espuma del tamaño correcto",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Comprimir",
+     "metin": "Rodar la espuma hasta afinarla",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Enderezar el conducto",
+     "metin": "Pabellón arriba y atrás",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Introducir y sostener",
+     "metin": "Rápido, sostener hasta que se expanda",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Verificar",
+     "metin": "Cara externa en la entrada del conducto",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Con auriculares de inserción, elijan primero una punta de espuma adecuada al conducto; casi todos los fabricantes ofrecen tamaño estándar y pequeño."
+    },
+    "La espuma se hace rodar entre los dedos para afinarla y comprimirla.",
+    "En los adultos, el conducto se endereza traccionando el pabellón hacia arriba y hacia atrás.",
+    "La punta comprimida se introduce en el conducto auditivo sin demora.",
+    "La punta se sostiene con un dedo hasta que la espuma se expanda y llene el conducto.",
+    "Bien colocada, la cara externa de la espuma queda a ras de la entrada del conducto o apenas por dentro."
+   ]
+  },
+  {
+   "id": "insert_hata",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Colocación de auriculares",
+   "baslik": "*Errores* de colocación",
+   "maddeler": [
+    {
+     "metin": "Inserción superficial: la AI _disminuye_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "El efecto de oclusión _aumenta_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "La punta no debe _presionar_ la pared",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "El tubo no debe _doblarse_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Una punta _nueva_ por paciente",
+     "cumle": 4,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "vurgula": [
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 2.0
+    }
+   },
+   "cumleler": [
+    "Si la punta no se introduce lo suficiente, la atenuación interaural disminuye y aumenta el riesgo de audición cruzada.",
+    "La inserción superficial también aumenta el efecto de oclusión cuando se cubre el oído no evaluado durante la vía ósea.",
+    "Si la punta presiona la pared del conducto o la espuma no se expande del todo, puede perderse parte del sonido.",
+    "Un tubo doblado o aplastado reduce el sonido que llega al oído; el tubo debe colgar libremente.",
+    "Las puntas de espuma son desechables, y se usa una nueva con cada paciente."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Colocación de auriculares",
+   "baslik": "Consejo clínico",
+   "metin": "Tras colocar los auriculares, presentar un tono breve bien audible en cada oído y preguntar qué oído lo oyó. Así se detectan lados invertidos antes de empezar la prueba.",
+   "cumleler": [
+    "Un consejo clínico: después de colocar los auriculares, hagan una verificación rápida de los lados antes de empezar la prueba.",
+    "Presenten un tono bien audible primero en el oído derecho y luego en el izquierdo, y pregunten al paciente qué oído lo oyó.",
+    "Esta verificación sencilla detecta auriculares puestos al revés, o el canal equivocado, antes de empezar la prueba.",
+    "Si un auricular invertido pasa inadvertido, los resultados de los dos oídos se confunden."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Sala silenciosa, _otoscopia_, objetos retirados",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Instrucciones _antes de los auriculares_, cara a cara",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Colapso: una brecha _falsa_ en agudos",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Punta de inserción: _a ras de la entrada_",
+     "cumle": 3,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "cumleler": [
+    "La prueba empieza en una sala silenciosa, tras la anamnesis y la otoscopia, y sin objetos que dificulten la colocación de los auriculares.",
+    "Las instrucciones se dan antes de colocar los auriculares, cara a cara y en lenguaje sencillo, y se verifica la comprensión.",
+    "El colapso del conducto auditivo puede crear una falsa brecha aéreo-ósea en los agudos, sobre todo en adultos mayores.",
+    "La cara externa de la punta de inserción debe quedar a ras de la entrada del conducto o apenas por dentro."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Paciente mayor, auriculares supraaurales, brecha aéreo-ósea solo en agudos. ¿Qué se sospecha primero?",
+   "secenekler": [
+    "Otosclerosis",
+    "Colapso del conducto auditivo",
+    "Líquido en el oído medio",
+    "Disrupción de la cadena osicular"
+   ],
+   "dogru": 1,
+   "aciklama": "El colapso crea una _brecha falsa_ en agudos; se vuelve a medir la vía aérea con inserción.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: un paciente mayor evaluado con auriculares supraaurales tiene brecha aéreo-ósea solo en agudos. ¿Qué sospechas primero?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: el colapso del conducto auditivo."
+    },
+    "Una nueva medición con auriculares de inserción muestra si la brecha desaparece."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Umbrales por vía aérea: el método *Hughson-Westlake*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo hallar el umbral por vía aérea con el método de Hughson-Westlake modificado.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

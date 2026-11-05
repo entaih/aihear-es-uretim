@@ -1,0 +1,978 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D099_Speech_In_Noise_Tests_ES",
+ "kapak": {
+  "ust": "LECCIÓN 99",
+  "baslik": "Pruebas de<br>*habla en ruido*",
+  "alt": "QuickSIN, HINT y pruebas de matriz",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -6,
+    "max": 24,
+    "adim": 6,
+    "ad": "SNR (dB)"
+   },
+   "y": {
+    "min": 0,
+    "max": 100,
+    "adim": 25,
+    "ad": "Aciertos (%)"
+   },
+   "seriler": [
+    {
+     "ad": "normal",
+     "noktalar": [
+      [
+       -6,
+       2
+      ],
+      [
+       -2,
+       15
+      ],
+      [
+       0,
+       30
+      ],
+      [
+       2,
+       50
+      ],
+      [
+       4,
+       70
+      ],
+      [
+       6,
+       85
+      ],
+      [
+       10,
+       97
+      ],
+      [
+       24,
+       100
+      ]
+     ],
+     "renk": "yesil",
+     "yumusak": true
+    },
+    {
+     "ad": "kayip",
+     "noktalar": [
+      [
+       2,
+       2
+      ],
+      [
+       6,
+       15
+      ],
+      [
+       8,
+       30
+      ],
+      [
+       10,
+       50
+      ],
+      [
+       12,
+       70
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       18,
+       97
+      ],
+      [
+       24,
+       100
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true,
+     "kesik": true
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Pruebas de habla en ruido: QuickSIN, HINT y Matrix | Lección 99 | AIHEAR Academia de Audiología",
+  "aciklama": "La queja más frecuente de las personas con pérdida auditiva es entender el habla en ruido, y una puntuación de palabras en silencio no lo muestra del todo. En esta lección vemos la relación señal-ruido y la pérdida de SNR, cómo están construidos el QuickSIN, el HINT y las pruebas de matriz, cómo interpretar sus resultados y cómo usarlos en la orientación sobre audífonos.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Killion et al. (2004), Development of a quick speech-in-noise test, Journal of the Acoustical Society of America; Nilsson, Soli y Sullivan (1994), Development of the Hearing in Noise Test, Journal of the Acoustical Society of America; Kollmeier et al. (2015), The multilingual matrix test, International Journal of Audiology; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "hablaenruido",
+   "audifonos"
+  ],
+  "etiketler": [
+   "pruebas de habla en ruido",
+   "QuickSIN",
+   "HINT",
+   "test de matriz",
+   "pérdida de SNR",
+   "relación señal-ruido",
+   "SRT50",
+   "orientación sobre audífonos",
+   "logoaudiometría",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 99",
+   "baslik": "Pruebas de *habla en ruido*: QuickSIN, HINT y Matrix",
+   "alt": "QuickSIN, HINT y pruebas de matriz",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos las pruebas de habla en ruido y el concepto de pérdida de SNR que miden.",
+    {
+     "yazi": "Veremos cómo se aplican el QuickSIN, el HINT y las pruebas de matriz, y cómo se usan sus resultados en la orientación."
+    }
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué el ruido?",
+   "baslik": "Oigo, pero *no entiendo*",
+   "maddeler": [
+    {
+     "metin": "Queja más frecuente: _lugares concurridos_",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "La puntuación en silencio no _predice_ el ruido",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Mismo audiograma, rendimiento en ruido _distinto_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "La medida: _relación señal-ruido_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ENTORNO",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "sessizlik",
+      "baslik": "Cabina silenciosa",
+      "metin": "La puntuación puede ser alta",
+      "cumle": 1
+     },
+     {
+      "ikon": "kalabalik",
+      "baslik": "Sala concurrida",
+      "metin": "La comprensión cae claramente",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "La queja más frecuente de las personas con pérdida auditiva es no poder entender el habla en lugares concurridos y ruidosos.",
+    "Un porcentaje de reconocimiento de palabras medido en una cabina silenciosa no predice de forma confiable el rendimiento en ruido.",
+    "Dos personas con audiogramas casi idénticos pueden entender el habla en ruido en niveles muy distintos.",
+    "Por eso, las pruebas de habla en ruido se suman a las pruebas tonales y de habla en silencio.",
+    "La medida clave en estas pruebas es la diferencia entre el nivel del habla y el nivel del ruido.",
+    "Esta diferencia se llama relación señal-ruido (SNR) y se expresa en decibeles."
+   ]
+  },
+  {
+   "id": "snr",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué el ruido?",
+   "baslik": "La *relación* señal-ruido",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "SNR positiva",
+     "metin": "Habla más fuerte que el ruido",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "SNR cero",
+     "metin": "Ambos al mismo nivel",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "SNR negativa",
+     "metin": "Ruido más fuerte que el habla",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Calcular la SNR es sencillo: al nivel del habla se le resta el nivel del ruido.",
+    "Si el habla está en sesenta y cinco y el ruido en sesenta decibeles, la SNR es de más cinco decibeles; el habla es más fuerte que el ruido.",
+    "Si ambos son iguales, la SNR es cero.",
+    "Si el ruido es más fuerte que el habla, la SNR es negativa; los adultos jóvenes con audición normal aún entienden en parte las frases en esta condición.",
+    "Las pruebas de habla en ruido miden cuánta SNR necesita una persona para entender la mitad del habla."
+   ]
+  },
+  {
+   "id": "snr_kaybi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué el ruido?",
+   "baslik": "*Pérdida de SNR*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -6,
+     "max": 24,
+     "adim": 6,
+     "ad": "Relación señal-ruido (dB)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Palabras correctas (%)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        -6,
+        2
+       ],
+       [
+        -2,
+        15
+       ],
+       [
+        0,
+        30
+       ],
+       [
+        2,
+        50
+       ],
+       [
+        4,
+        70
+       ],
+       [
+        6,
+        85
+       ],
+       [
+        10,
+        97
+       ],
+       [
+        24,
+        100
+       ]
+      ],
+      "renk": "yesil",
+      "yumusak": true,
+      "etiket": "audición normal",
+      "etiket_konum": [
+       10,
+       97
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "hasta",
+      "noktalar": [
+       [
+        2,
+        2
+       ],
+       [
+        6,
+        15
+       ],
+       [
+        8,
+        30
+       ],
+       [
+        10,
+        50
+       ],
+       [
+        12,
+        70
+       ],
+       [
+        14,
+        85
+       ],
+       [
+        18,
+        97
+       ],
+       [
+        24,
+        100
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "paciente de ejemplo",
+      "etiket_konum": [
+       18,
+       80
+      ],
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "snr_kaybi",
+      "x": [
+       2,
+       10
+      ],
+      "y": 50,
+      "etiket": "Pérdida de SNR: 8 dB",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "SNR necesaria para la mitad: SNR-50",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Diferencia con lo normal: pérdida de SNR",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Subir el volumen no ayuda",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "En el gráfico, la curva verde muestra cómo cambia el porcentaje de palabras correctas con la SNR en personas con audición normal.",
+    "La curva roja es de un paciente de ejemplo con dificultad en ruido; necesita una SNR más alta para llegar al mismo porcentaje.",
+    "La diferencia entre los puntos de cincuenta por ciento de ambas curvas se llama pérdida de SNR; en este ejemplo, ocho decibeles.",
+    "Es decir, este paciente necesita que el habla esté ocho decibeles por encima del ruido para entender tanto como un oyente normal.",
+    "El punto clave: subir juntos el habla y el ruido no cambia la SNR, así que no compensa la pérdida de SNR.",
+    "Reducir la pérdida de SNR requiere soluciones que separen el habla del ruido, como los micrófonos direccionales o los micrófonos remotos."
+   ]
+  },
+  {
+   "id": "yontem",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 2",
+   "bolum": "Las pruebas",
+   "baslik": "¿SNR fija o *adaptativa*?",
+   "sol": {
+    "ust": "SNR fija",
+    "maddeler": [
+     {
+      "metin": "Cada frase a una SNR _predefinida_",
+      "cumle": 0
+     },
+     {
+      "metin": "Resultado: porcentaje de aciertos o un cálculo",
+      "cumle": 1
+     },
+     {
+      "metin": "Ejemplo: los pasos del _QuickSIN_",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Adaptativa",
+    "maddeler": [
+     {
+      "metin": "La SNR _cambia_ según las respuestas",
+      "cumle": 3
+     },
+     {
+      "metin": "Más difícil si acierta, más fácil si falla",
+      "cumle": 4
+     },
+     {
+      "metin": "Resultado: _SRT50_, en dB SNR",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "En el método de SNR fija, las frases se presentan con valores de SNR predefinidos.",
+    "El resultado es el porcentaje de palabras repetidas correctamente, o un cálculo basado en esos conteos.",
+    {
+     "yazi": "En el QuickSIN, que veremos en breve, la SNR baja en pasos predefinidos con cada frase; también es un esquema fijo."
+    },
+    "En el método adaptativo, la SNR de la frase siguiente se ajusta según la respuesta anterior del paciente.",
+    "Si el paciente acierta, la prueba se hace más difícil; si falla, más fácil; así oscila alrededor del punto de cincuenta por ciento.",
+    {
+     "yazi": "El resultado se da en decibeles como la SNR con la que se entiende el cincuenta por ciento del habla, el SRT50."
+    }
+   ]
+  },
+  {
+   "id": "quicksin",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Las pruebas",
+   "baslik": "El QuickSIN *paso a paso*",
+   "adimlar": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Ruido de multitud",
+     "metin": "Cuatro hablantes a la vez",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Seis frases",
+     "metin": "5 palabras clave cada una",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "La SNR baja",
+     "metin": "De 25 a 0, pasos de 5 dB",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Contar aciertos",
+     "metin": "Máximo 30 palabras",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Calcular",
+     "metin": "25,5 menos el total de aciertos",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La prueba rápida de habla en ruido, o QuickSIN, fue publicada por Killion y colaboradores en 2004."
+    },
+    "Las frases las lee una voz femenina y se presentan en un ruido de multitud de cuatro personas hablando a la vez.",
+    "Una lista tiene seis frases, y en cada frase se puntúan cinco palabras clave.",
+    "La primera frase está a más veinticinco decibeles de SNR; la SNR baja cinco decibeles con cada frase, y la última está a SNR cero.",
+    "Se cuentan las palabras clave que el paciente repite correctamente; el total máximo es treinta.",
+    {
+     "yazi": "La pérdida de SNR se obtiene restando el total de aciertos a veinticinco coma cinco."
+    },
+    "Si el umbral promedio es de hasta cuarenta y cinco decibeles HL, la prueba se hace a setenta decibeles HL; si es peor, a un nivel fuerte pero cómodo."
+   ]
+  },
+  {
+   "id": "quicksin_yorum",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Las pruebas",
+   "baslik": "Interpretación del *QuickSIN*",
+   "sutunlar": [
+    "Pérdida de SNR (dB)",
+    "Interpretación"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "0 a 3",
+      "Normal o casi normal"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "3 a 7",
+      "Pérdida de SNR leve"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "7 a 15",
+      "Pérdida de SNR moderada"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Más de 15",
+      "Pérdida de SNR severa"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Según el manual de la prueba, una pérdida de SNR de cero a tres decibeles se considera normal o casi normal.",
+    "De tres a siete decibeles es una pérdida de SNR leve.",
+    "De siete a quince decibeles es una pérdida de SNR moderada, y por encima de quince, una pérdida de SNR severa.",
+    "En este último grupo, entender el habla en ruido es muy difícil, incluso con audífonos.",
+    "Un ejemplo: el paciente repitió bien veinte de treinta palabras clave; veinticinco coma cinco menos veinte da cinco coma cinco decibeles.",
+    "Este paciente tiene una pérdida de SNR leve."
+   ]
+  },
+  {
+   "id": "hint",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "HINT y matriz",
+   "baslik": "*HINT*: la prueba de audición en ruido",
+   "maddeler": [
+    {
+     "metin": "Frases cotidianas cortas; se puntúa _la frase completa_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ruido _fijo_, el nivel del habla varía",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Primero pasos grandes, luego _pequeños_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ruido de frente, derecha o izquierda",
+     "cumle": 5,
+     "ikon": "hoparlor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "RESULTADO",
+    "metin": "La *SNR* con la que se entiende la mitad de las frases, en dB",
+    "cumle": 4
+   },
+   "cumleler": [
+    {
+     "yazi": "La prueba de audición en ruido, o HINT, fue publicada en 1994 por Nilsson, Soli y Sullivan."
+    },
+    "La prueba usa frases cortas y cotidianas; una frase cuenta como correcta solo si se repiten bien todas sus palabras.",
+    "Se presenta un ruido con espectro de habla a nivel fijo, y el nivel de la frase sube o baja según la respuesta del paciente.",
+    "En las primeras frases se usan pasos de cuatro decibeles, y luego pasos de dos decibeles.",
+    "El resultado se da en decibeles como la SNR con la que se entiende correctamente la mitad de las frases.",
+    "En campo libre, el ruido puede venir de frente o de los lados, para evaluar el beneficio de oír con dos oídos.",
+    {
+     "yazi": "También existe un HINT en turco, con una versión para niños."
+    }
+   ]
+  },
+  {
+   "id": "matris",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "HINT y matriz",
+   "baslik": "Medición *adaptativa* en una prueba de matriz",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1,
+     "max": 20,
+     "adim": 5,
+     "isaretler": [
+      1,
+      5,
+      10,
+      15,
+      20
+     ],
+     "ad": "Número de frase"
+    },
+    "y": {
+     "min": -12,
+     "max": 2,
+     "adim": 2,
+     "ad": "SNR (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "iz",
+      "noktalar": [
+       [
+        1,
+        0
+       ],
+       [
+        2,
+        -2
+       ],
+       [
+        3,
+        -4
+       ],
+       [
+        4,
+        -6
+       ],
+       [
+        5,
+        -8
+       ],
+       [
+        6,
+        -6.5
+       ],
+       [
+        7,
+        -7.5
+       ],
+       [
+        8,
+        -8.5
+       ],
+       [
+        9,
+        -7
+       ],
+       [
+        10,
+        -7.5
+       ],
+       [
+        11,
+        -6.5
+       ],
+       [
+        12,
+        -7.5
+       ],
+       [
+        13,
+        -7
+       ],
+       [
+        14,
+        -8
+       ],
+       [
+        15,
+        -7
+       ],
+       [
+        16,
+        -7.5
+       ],
+       [
+        17,
+        -6.8
+       ],
+       [
+        18,
+        -7.4
+       ],
+       [
+        19,
+        -7
+       ],
+       [
+        20,
+        -7.2
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "r": 6,
+      "sure": 3,
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "srt50",
+      "x": 20,
+      "y": -7.2,
+      "cizgi": "yatay",
+      "nokta": false,
+      "renk": "yesil",
+      "etiket": "SRT50",
+      "hiza": "end",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Frases de cinco palabras, impredecibles",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "SNR ajustada a las respuestas",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Efecto de aprendizaje en la primera lista",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La primera prueba de matriz se creó para el sueco; hoy existen versiones comparables en alemán, turco y muchos otros idiomas.",
+    "Las frases siguen un patrón fijo de cinco palabras, elegidas al azar de una tabla de diez opciones, así que no pueden predecirse.",
+    "El gráfico muestra el recorrido de una medición: la SNR baja cuando el paciente acierta y sube tras los errores.",
+    "El siguiente paso de SNR depende del número de palabras repetidas correctamente en cada frase.",
+    {
+     "yazi": "Tras veinte frases, el recorrido se estabiliza en el punto de cincuenta por ciento; este punto se informa como SRT50."
+    },
+    "Como la puntuación mejora a medida que el paciente aprende el conjunto de palabras, se da una lista de práctica antes de la medición."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso clínico",
+   "baslik": "*Expectativas* según la pérdida de SNR",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Casi normal",
+     "metin": "Cerca de los oyentes normales en ruido",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Leve",
+     "metin": "Casi normal con micrófonos direccionales",
+     "cumle": 2
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Moderada",
+     "metin": "Los micrófonos direccionales ayudan claramente",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Severa",
+     "metin": "Considerar un sistema de micrófono remoto",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La pérdida de SNR se usa en la orientación sobre audífonos para fijar expectativas realistas con el paciente.",
+    "Si la pérdida de SNR es casi normal, la persona entiende el habla en ruido de forma cercana a los oyentes con audición normal.",
+    "Con una pérdida de SNR leve, puede esperarse un rendimiento casi normal en ruido con un audífono con micrófonos direccionales.",
+    "Con una pérdida de SNR moderada, los micrófonos direccionales ayudan claramente, pero pueden no bastar por sí solos.",
+    "Una pérdida de SNR severa requiere la mayor mejora de SNR; se consideran sistemas de micrófono remoto colocados cerca de quien habla.",
+    "Estas sugerencias son un marco general; la decisión se toma según las necesidades, el audiograma y las preferencias del paciente."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso clínico",
+   "baslik": "Mismo audiograma, rendimiento en ruido *distinto*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Audiograma_: similar en ambos pacientes",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Paciente A_: pérdida de SNR de 2 dB",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "sag",
+     "metin": "_Paciente B_: pérdida de SNR de 12 dB",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       30,
+       45,
+       55,
+       60
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, los audiogramas de los dos pacientes son casi idénticos: una pérdida leve a moderada que desciende hacia las frecuencias altas.",
+    "Sus porcentajes de reconocimiento de palabras en silencio también son parecidos.",
+    "El paciente A tiene una pérdida de SNR de dos decibeles y un rendimiento casi normal en ruido.",
+    "El paciente B tiene una pérdida de SNR de doce decibeles y una dificultad moderada en ruido.",
+    "Incluso con el mismo audífono, estos dos pacientes tendrán experiencias muy distintas en ruido.",
+    "Una prueba de habla en ruido hace medible esta diferencia y permite una orientación personalizada."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Una sola lista del QuickSIN tiene una incertidumbre de unos ±2,7 dB. Promedien al menos dos listas antes de tomar una decisión.",
+   "cumleler": [
+    "Las pruebas cortas tienen una confiabilidad limitada; ténganlo en cuenta.",
+    {
+     "yazi": "Sus autores indican que una sola lista del QuickSIN tiene una incertidumbre de unos más o menos dos coma siete decibeles al noventa y cinco por ciento."
+    },
+    "Por eso, promediar al menos dos listas antes de tomar una decisión refuerza el resultado.",
+    "Al comparar el rendimiento sin y con audífono, usen listas distintas pero equivalentes en cada condición."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso clínico",
+   "baslik": "Puntos a *vigilar* en la interpretación",
+   "maddeler": [
+    {
+     "metin": "Importan el idioma y el _vocabulario_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "La _memoria_ y la atención influyen",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "El resultado depende del _nivel de presentación_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Normas: _mismo idioma y versión_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "test_kabini",
+    "vurgula": [
+     {
+      "parca": "hoparlor",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Las pruebas de frases dependen del idioma; la lengua y el vocabulario del paciente influyen en el resultado.",
+    "Retener las frases exige memoria de trabajo y atención, y en pacientes mayores esto también se refleja en el resultado.",
+    "El resultado depende de si se midió con auriculares o en campo libre, a qué nivel y con qué ruido.",
+    "Por eso, cada prueba se compara solo con normas de su propio idioma y de su propia versión.",
+    "El informe debe indicar con claridad el nombre de la prueba, la lista, el tipo de ruido, el nivel y la condición de escucha."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "En silencio _no se ve_ el rendimiento en ruido",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Pérdida de SNR: SNR _extra necesaria_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "QuickSIN: _25,5 menos aciertos_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "HINT y matriz: SRT50 _adaptativo_",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Una puntuación de palabras en silencio no muestra de forma confiable qué tan bien entiende una persona el habla en ruido.",
+    "La pérdida de SNR indica cuánta SNR más que los oyentes normales necesita una persona para entender el habla.",
+    {
+     "yazi": "En el QuickSIN, la pérdida de SNR se calcula restando el total de palabras correctas a veinticinco coma cinco."
+    },
+    {
+     "yazi": "El HINT y las pruebas de matriz usan un método adaptativo para hallar el punto de cincuenta por ciento, el SRT50."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Un total de 16 palabras correctas en el QuickSIN. ¿Cuál es la pérdida de SNR?",
+   "secenekler": [
+    "6,5 dB, leve",
+    "9,5 dB, moderada",
+    "16 dB, severa",
+    "2 dB, normal"
+   ],
+   "dogru": 1,
+   "aciklama": "25,5 menos 16 es _9,5 dB_; de 7 a 15 dB es una pérdida de SNR moderada.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en una lista del QuickSIN, el paciente repitió bien dieciséis palabras clave en total. ¿Cuál es la pérdida de SNR?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: nueve coma cinco decibeles, una pérdida de SNR moderada.",
+    "Veinticinco coma cinco menos dieciséis es nueve coma cinco; este valor está entre siete y quince."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Enmascaramiento* en logoaudiometría",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cuándo hace falta enmascarar en las pruebas de habla y cómo calcular el nivel de ruido.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

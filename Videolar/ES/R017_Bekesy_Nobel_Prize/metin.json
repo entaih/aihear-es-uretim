@@ -1,0 +1,106 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R017_Bekesy_Nobel_Prize_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #17",
+  "baslik": "Una onda *ganadora del Nobel*",
+  "alt": "Bekesy y la onda viajera",
+  "cizim": "koklea_acik",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Qué descubrimiento sobre el oído ganó un Premio Nobel? #shorts",
+  "aciklama": "Georg von Bekesy observó que la membrana basilar vibra con una onda viajera que avanza desde la base hacia el ápice. Por sus trabajos sobre la mecánica coclear, recibió el Premio Nobel de Fisiología o Medicina de 1961.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "coclea",
+   "ciencia"
+  ],
+  "etiketler": [
+   "Bekesy",
+   "onda viajera",
+   "Premio Nobel",
+   "membrana basilar",
+   "cóclea",
+   "mecánica coclear",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Qué descubrimiento sobre el oído ganó un Premio Nobel?",
+  "bilgiler": [
+   "Bekesy observó el movimiento de la membrana basilar en cócleas de cadáveres.",
+   "Vio una onda que avanzaba de la base al ápice: la onda viajera.",
+   "Sus trabajos sobre mecánica coclear ganaron el Premio Nobel de 1961."
+  ],
+  "hashtag": [
+   "audiologia",
+   "coclea",
+   "ciencia"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #17",
+   "metin": "¿Qué hallazgo sobre el oído ganó *un Nobel?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Qué descubrimiento sobre el oído ganó un Premio Nobel?"
+   ]
+  },
+  {
+   "id": "dalga",
+   "tur": "zincir",
+   "baslik": "La *onda viajera*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Base",
+     "cumle": 1,
+     "tr": "la onda empieza"
+    },
+    {
+     "ad": "Pico",
+     "cumle": 2,
+     "tr": "amplitud máxima"
+    },
+    {
+     "ad": "Se apaga",
+     "cumle": 2,
+     "gecikme": 1.2,
+     "tr": "cae rápidamente"
+    }
+   ],
+   "alt": "Georg von Bekesy, _Nobel de 1961_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Bekesy observó la membrana basilar en cócleas de cadáveres.",
+    "Vio una onda viajera que avanzaba desde la base hacia el ápice.",
+    "La onda crece, alcanza su pico en un lugar determinado y luego se apaga.",
+    {
+     "yazi": "Sus trabajos sobre mecánica coclear ganaron el Premio Nobel de 1961."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D030",
+ "kaynak_baslik": "La membrana basilar y la onda viajera"
+}

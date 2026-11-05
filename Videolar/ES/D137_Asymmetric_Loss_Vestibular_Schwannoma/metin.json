@@ -1,0 +1,862 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D137_Asymmetric_Loss_Vestibular_Schwannoma_ES",
+ "kapak": {
+  "ust": "LECCIÓN 137",
+  "baslik": "Asimetría y<br>*schwannoma*",
+  "alt": "Derivación en la pérdida asimétrica",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      20,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      20,
+      30,
+      45,
+      55,
+      60
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Hipoacusia asimétrica y schwannoma vestibular | Lección 137 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos los criterios de hipoacusia neurosensorial asimétrica, los síntomas y el perfil audiológico del schwannoma vestibular, y cómo el audiólogo confirma los hallazgos y deriva al médico. Con ejemplos, vemos el equilibrio entre sensibilidad y especificidad de los criterios de asimetría, el papel de la resonancia magnética y de los potenciales evocados auditivos de tronco cerebral, y el lenguaje de la orientación.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses; Saliba et al. (2009), Rule 3000 study in asymmetric sensorineural hearing loss; AAO-HNSF, Clinical Practice Guideline: Sudden Hearing Loss (Update), 2019.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "schwannoma",
+   "audicion"
+  ],
+  "etiketler": [
+   "hipoacusia asimétrica",
+   "hipoacusia neurosensorial asimétrica",
+   "schwannoma vestibular",
+   "neurinoma del acústico",
+   "ángulo pontocerebeloso",
+   "regla 3000",
+   "resonancia magnética",
+   "retrococlear",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 137",
+   "baslik": "Asimetría y *schwannoma*",
+   "alt": "El abordaje del audiólogo ante la pérdida asimétrica",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    {
+     "yazi": "En esta lección veremos la pérdida neurosensorial asimétrica y el abordaje del audiólogo ante la sospecha de un schwannoma vestibular."
+    },
+    "Paso a paso, veremos los criterios de asimetría, los signos de alarma que la acompañan y el proceso de derivación."
+   ]
+  },
+  {
+   "id": "asimetri",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 1",
+   "bolum": "Asimetría",
+   "baslik": "Pérdida *neurosensorial* asimétrica",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Vía aérea derecha",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Vía aérea izquierda",
+     "cumle": 2
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "Vía ósea izquierda, enmascarada",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Diferencia de _30 dB_ en 4000 Hz",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       20,
+       25,
+       30
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       30,
+       45,
+       55,
+       60
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       15,
+       20,
+       30,
+       45,
+       55
+      ],
+      "cumle": 2
+     }
+    ],
+    "aralik": {
+     "konum": [
+      4,
+      25,
+      55
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "La hipoacusia neurosensorial asimétrica es una pérdida con una diferencia clara de umbrales entre ambos oídos."
+    },
+    "En este ejemplo, el oído derecho muestra una leve caída en las frecuencias agudas que podría considerarse acorde con la edad.",
+    {
+     "yazi": "En el oído izquierdo hay una pérdida que aumenta claramente por encima de 1000 Hz; la vía ósea se superpone con la vía aérea."
+    },
+    {
+     "yazi": "En 4000 Hz, la diferencia entre los oídos es de 30 decibeles; en 2000 y 8000 Hz también es de 20 decibeles o más."
+    },
+    "La pérdida relacionada con la edad y la mayoría de las pérdidas inducidas por ruido suelen ser parecidas en ambos oídos, es decir, simétricas.",
+    "Por eso, una asimetría sin explicación es un hallazgo cuya causa debe investigarse.",
+    "Cuando se encuentra una asimetría, la primera pregunta es si una causa conocida puede explicar la diferencia."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 1",
+   "bolum": "Asimetría",
+   "baslik": "*Criterios* de asimetría",
+   "sutunlar": [
+    "Criterio de ejemplo",
+    "Diferencia de umbrales",
+    "Nota"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Dos frecuencias adyacentes",
+      "15 dB o más",
+      "Muy usado"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Regla 3000",
+      "15 dB, 3000 Hz",
+      "Saliba, 2009"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Una sola frecuencia",
+      "20 dB o más",
+      "Algunos protocolos"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "No existe un criterio universal único sobre cuán grande debe ser una asimetría para considerarse significativa.",
+    {
+     "yazi": "Un enfoque muy usado considera significativa una diferencia de 15 decibeles o más en dos frecuencias adyacentes."
+    },
+    {
+     "yazi": "El criterio conocido como regla 3000 considera solo una diferencia de 15 decibeles o más en 3000 Hz."
+    },
+    {
+     "yazi": "Algunos protocolos consideran suficiente una diferencia de 20 decibeles o más en una sola frecuencia."
+    },
+    "Como los criterios difieren, el mismo audiograma puede ser significativo en un protocolo y limítrofe en otro.",
+    "Cada institución fija su propio protocolo; el audiólogo debe conocer el criterio de su centro e indicar en el informe cuál utilizó."
+   ]
+  },
+  {
+   "id": "denge",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Asimetría",
+   "baslik": "Sensibilidad y *especificidad*",
+   "maddeler": [
+    {
+     "metin": "Criterio laxo: _más_ resonancias",
+     "cumle": 0,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Criterio estricto: _pueden pasarse por alto_ tumores",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tumor en _una pequeña parte_ de los estudios",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tinnitus o desequilibrio _aumentan la probabilidad_",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EQUILIBRIO",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "tarama",
+      "baslik": "Sensibilidad",
+      "metin": "No pasar por alto un tumor",
+      "cumle": 0
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Especificidad",
+      "metin": "Evitar estudios innecesarios",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Con un criterio laxo se detecta la mayoría de los tumores, pero se envía a muchas personas a estudios de imagen sin necesidad.",
+    "Con un criterio estricto disminuyen los estudios innecesarios, pero aumenta la probabilidad de pasar por alto algunos tumores.",
+    "La resonancia magnética (RM) es el método de imagen más utilizado.",
+    {
+     "yazi": "En la mayoría de los estudios, solo una pequeña parte de las personas estudiadas por pérdida asimétrica, cerca del 1 al 3 por ciento, tiene un tumor."
+    },
+    "Esta baja proporción explica por qué se debaten los criterios; pero el costo de pasar por alto un tumor también es alto.",
+    "Se ha descrito que la probabilidad de un hallazgo significativo aumenta cuando la asimetría se acompaña de tinnitus unilateral o mareo."
+   ]
+  },
+  {
+   "id": "konusma_asim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Asimetría",
+   "baslik": "Asimetría en el *habla*",
+   "maddeler": [
+    {
+     "metin": "Puntajes de palabras comparados _entre oídos_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Evaluar_ con niveles de sensación similares",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Diferencia clara de puntaje: _alarma adicional_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Diferencia de puntaje _mayor_ que la de umbrales",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 2,
+    "ayar": {
+     "x": {
+      "min": 0.4,
+      "max": 2.6,
+      "ad": "Oído",
+      "isaretler": [
+       1,
+       2
+      ],
+      "yazilar": {
+       "1": "Right",
+       "2": "Left",
+       "1": "Derecho",
+       "2": "Izquierdo"
+      }
+     },
+     "y": {
+      "min": 0,
+      "max": 100,
+      "adim": 20,
+      "ad": "Puntaje de palabras (%)"
+     },
+     "seriler": [
+      {
+       "ad": "skor",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         1,
+         92
+        ],
+        [
+         2,
+         60
+        ]
+       ],
+       "renk": "mavi",
+       "genislik": 0.5,
+       "cumle": 2
+      }
+     ],
+     "araliklar": [
+      {
+       "ad": "skor_farki",
+       "y": [
+        60,
+        92
+       ],
+       "xk": 2.35,
+       "etiket": "32 puntos",
+       "cumle": 3
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "La asimetría no solo se busca en los umbrales, sino también en los puntajes de habla.",
+    "Se comparan los porcentajes de reconocimiento de palabras de ambos oídos, medidos con niveles de sensación similares y preferiblemente con material grabado.",
+    "En este ejemplo, el puntaje es del noventa y dos por ciento en el oído derecho y del sesenta por ciento en el izquierdo.",
+    "Una diferencia de puntaje claramente mayor que la que puede explicar la diferencia de umbrales es un signo de alarma adicional de un sitio retrococlear.",
+    "Algunos protocolos también incluyen entre sus criterios de derivación una diferencia clara de puntaje entre los oídos."
+   ]
+  },
+  {
+   "id": "schwannom",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Schwannoma vestibular",
+   "baslik": "¿Qué es el *schwannoma* vestibular?",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 1,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "Nervio vestibular",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Nervio coclear",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "metin": "Conducto auditivo interno",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Benigno, _crece lentamente_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Puede _extenderse_ al ángulo pontocerebeloso",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El schwannoma vestibular es un tumor que se origina en las células de Schwann que envuelven la porción del equilibrio del octavo par craneal."
+    },
+    "Suele comenzar en el nervio vestibular, dentro del conducto auditivo interno; su nombre antiguo es neurinoma del acústico.",
+    "Es benigno y suele crecer lentamente; algunos mantienen el mismo tamaño durante años.",
+    "A medida que crece, afecta la audición al comprimir el nervio coclear vecino y la irrigación de la cóclea.",
+    {
+     "yazi": "Los tumores más grandes pueden extenderse desde el conducto auditivo interno hacia el tronco cerebral, hasta el ángulo pontocerebeloso."
+    },
+    "Suele ser unilateral; los tumores bilaterales sugieren una condición genética distinta, que se tratará en una lección posterior."
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Schwannoma vestibular",
+   "baslik": "*Síntomas* frecuentes",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Pérdida unilateral",
+     "metin": "Por lo general, lentamente progresiva",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitus",
+     "metin": "En el mismo oído",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Desequilibrio",
+     "metin": "El vértigo es menos frecuente",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Pérdida súbita",
+     "metin": "Primer signo en algunos",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Plenitud",
+     "metin": "Presión en el oído",
+     "cumle": 4
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Signos faciales",
+     "metin": "En tumores grandes",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El síntoma más frecuente es una pérdida unilateral, a menudo lentamente progresiva; la persona puede notarla al pasar el teléfono al otro oído.",
+    "El tinnitus en el mismo oído es frecuente y a veces es la primera queja.",
+    "Como el nervio del equilibrio se afecta lentamente, el cerebro se adapta; por eso, un desequilibrio leve es más frecuente que un vértigo marcado.",
+    "En algunas personas, el primer síntoma es una pérdida auditiva súbita; por eso también se recomienda una evaluación retrococlear en la pérdida súbita.",
+    "También puede describirse una sensación de plenitud o presión en el oído.",
+    "El adormecimiento o la debilidad facial suelen verse con tumores grandes y deben comunicarse al médico sin demora.",
+    "Como los síntomas avanzan lentamente, la persona puede no consultar durante años, y la pérdida puede descubrirse en un audiograma casual."
+   ]
+  },
+  {
+   "id": "profil",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Schwannoma vestibular",
+   "baslik": "*Perfil* audiológico",
+   "maddeler": [
+    {
+     "metin": "A menudo, asimetría en _frecuencias agudas_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Pero _cualquier configuración_ es posible",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Puntaje de habla _desproporcionadamente bajo_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Reflejos y PEATC orientan a lo _retrococlear_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 3,
+    "ayar": {
+     "i_v_uzama": 0.7
+    },
+    "vurgula": [
+     {
+      "parca": "latans_I_V",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "El hallazgo audiométrico más frecuente es una pérdida neurosensorial unilateral más marcada en las frecuencias agudas.",
+    "Pero también pueden darse pérdidas planas, en graves o con muesca; ni siquiera un audiograma normal descarta un tumor.",
+    "El porcentaje de reconocimiento de palabras puede ser menor de lo esperado para el grado de pérdida, pero en muchas personas concuerda con la pérdida.",
+    {
+     "yazi": "Los reflejos acústicos pueden estar ausentes o elevados; en los potenciales evocados auditivos de tronco cerebral (PEATC), el intervalo I-V puede prolongarse."
+    },
+    "Ninguno de estos hallazgos está presente en todas las personas; el perfil refuerza una posibilidad, pero no resuelve nada por sí solo."
+   ]
+  },
+  {
+   "id": "aciklama",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Schwannoma vestibular",
+   "baslik": "*Otras* causas de asimetría",
+   "maddeler": [
+    {
+     "metin": "Ruido unilateral, p. ej., _tiro deportivo_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Enfermedad o _cirugía_ previa del oído",
+     "cumle": 1,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Ménière, antecedente de _pérdida súbita_",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Sin explicación: _derivar_",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ANAMNESIS",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Preguntar",
+      "metin": "¿Desde cuándo?",
+      "cumle": 0
+     },
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Registrar",
+      "metin": "Ruido, cirugías, crisis",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "La asimetría también tiene causas conocidas: por ejemplo, en alguien que dispara con rifle, el oído más cercano a la boca del cañón puede afectarse más.",
+    "Una enfermedad crónica del oído o una cirugía de oído previas también pueden causar más pérdida en un oído.",
+    "La enfermedad de Ménière o una pérdida auditiva súbita previa también pueden dejar una pérdida neurosensorial unilateral.",
+    "Por eso, en la anamnesis se registra en detalle hacia qué lado se concentró la exposición al ruido, las enfermedades previas y las posibles crisis.",
+    "Aun así, hallar una causa conocida no siempre cambia la decisión; si la explicación es insuficiente, igualmente se deriva."
+   ]
+  },
+  {
+   "id": "surec",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Derivación",
+   "baslik": "El *proceso* de derivación",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Confirmar",
+     "metin": "Enmascaramiento, repetición",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Completar la batería",
+     "metin": "Habla, reflejos, PEATC si corresponde",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Informar",
+     "metin": "Criterio y hallazgos",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Derivar al médico",
+     "metin": "Evaluación de ORL",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "El médico decide",
+     "metin": "Imágenes o seguimiento",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El primer paso es confirmar la asimetría: ¿se enmascaró correctamente, y los umbrales se mantienen al repetir la prueba?",
+    "Luego se completan las pruebas de habla y los reflejos acústicos; pueden añadirse los PEATC según el protocolo del centro.",
+    "El informe incluye claramente el criterio de asimetría utilizado, los síntomas acompañantes y los hallazgos de las pruebas.",
+    "El paciente se deriva, con los hallazgos, a un médico otorrinolaringólogo (ORL).",
+    "El médico decide si se hace un estudio de imagen y qué método se elige.",
+    "La responsabilidad del audiólogo es notar el hallazgo, confirmarlo y comunicarlo a la persona adecuada sin demora."
+   ]
+  },
+  {
+   "id": "mr",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Derivación",
+   "baslik": "RM y *PEATC*",
+   "maddeler": [
+    {
+     "metin": "Patrón de oro: _RM_",
+     "cumle": 0,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "_Muestra_ tumores de pocos milímetros",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Si no es posible la RM: opción _PEATC_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "PEATC normales _no descartan_ tumores pequeños",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "ic_kulak_yolu_dibi",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "ust_vestibuler_sinir",
+      "cumle": 1
+     },
+     {
+      "parca": "alt_vestibuler_sinir",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "El patrón de oro para demostrar un schwannoma vestibular es la RM con contraste o con secuencias especiales."
+    },
+    "La RM puede mostrar incluso tumores de pocos milímetros dentro del conducto auditivo interno.",
+    "En personas que no pueden hacerse una RM, por ejemplo por tener un marcapasos, los PEATC pueden usarse como opción de tamizaje funcional.",
+    "Como vimos en lecciones anteriores, los PEATC pueden ser normales con tumores pequeños; este límite debe explicarse al paciente y al médico.",
+    "La elección del método siempre depende de la evaluación del médico."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "No menciones la posibilidad de un tumor de forma alarmante. Explica con calma y claridad por qué el hallazgo requiere más evaluación; recuerda que la mayoría de estos tumores son benignos.",
+   "cumleler": [
+    "Un consejo clínico: al derivar, hablen sin asustar a la persona, pero sin restar importancia al hallazgo.",
+    "Por ejemplo, pueden decir que la diferencia entre sus oídos es mayor de lo esperado y que la evaluación de un médico ayudará a explicar por qué.",
+    "Hacer un diagnóstico o dar porcentajes de probabilidad no es función del audiólogo.",
+    "Verificar si la persona acudió al médico y programar una cita de control también forman parte del proceso."
+   ]
+  },
+  {
+   "id": "sonra",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Derivación",
+   "baslik": "El *audiólogo* después",
+   "maddeler": [
+    {
+     "metin": "Si la RM es normal: _audiogramas de control_",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Si hay tumor: decide _el equipo médico_",
+     "cumle": 1,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Audiogramas seriados y _puntajes de habla_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Apoyo auditivo y _orientación_",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SEGUIMIENTO",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "odyogram",
+      "baslik": "Pruebas seriadas",
+      "metin": "Documentan el cambio",
+      "cumle": 2
+     },
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Rehabilitación",
+      "metin": "Audífonos, opciones CROS",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Si la RM es normal, la persona puede seguir en control audiológico a intervalos definidos para ver si la pérdida progresa.",
+    "Si se encuentra un tumor, el equipo médico considera opciones como la observación, la cirugía o la radioterapia.",
+    "Durante este proceso, el audiólogo documenta la evolución de la audición con audiogramas seriados y puntajes de habla.",
+    "Estas mediciones ayudan al equipo a tomar decisiones y a la persona a comprender su estado auditivo.",
+    "Según la audición restante, pueden conversarse opciones como los audífonos o los sistemas CROS, que envían el sonido al otro lado.",
+    "En los controles también se pregunta por el tinnitus unilateral y el desequilibrio, y se deriva a las evaluaciones correspondientes si es necesario."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Los criterios de asimetría varían _según la institución_",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Schwannoma: _benigno_, síntomas unilaterales",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "PEATC o audiograma normal _no lo descartan_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "El audiólogo confirma y _deriva al médico_",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "No existe un criterio universal único de pérdida neurosensorial asimétrica; 15 decibeles en dos frecuencias adyacentes es un ejemplo frecuente."
+    },
+    {
+     "yazi": "El schwannoma vestibular es un tumor benigno que suele manifestarse con pérdida auditiva unilateral, tinnitus y desequilibrio."
+    },
+    "Un audiograma normal o unos PEATC normales no descartan un tumor pequeño; el patrón de oro es la RM.",
+    "El papel del audiólogo es confirmar la asimetría, informar los hallazgos y derivar a la persona al médico."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "En la pérdida asimétrica, ¿quién decide los estudios de imagen?",
+   "secenekler": [
+    "El audiólogo",
+    "El médico",
+    "Un familiar"
+   ],
+   "dogru": 1,
+   "aciklama": "El audiólogo _confirma e informa_ los hallazgos; la decisión sobre imágenes y tratamiento corresponde al médico.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en la pérdida neurosensorial asimétrica, ¿quién decide si se hace una RM?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: el médico.",
+    "El papel del audiólogo es confirmar la asimetría, informar los hallazgos y derivar a la persona al médico sin demora."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cómo redactar un informe *audiológico* claro",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección aprenderemos a convertir nuestros hallazgos en un informe audiológico claro y comprensible.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

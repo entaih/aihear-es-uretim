@@ -1,0 +1,898 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D065_Extended_High_Frequency_Audiometry_ES",
+ "kapak": {
+  "ust": "LECCIÓN 65",
+  "baslik": "Alta frecuencia<br>*extendida*",
+  "alt": "Audiometría de 8 a 16 kHz",
+  "cizim": "odyometre",
+  "vurgula": [
+   "kulaklik"
+  ]
+ },
+ "youtube": {
+  "baslik": "Audiometría de alta frecuencia extendida (8 a 16 kHz) | Lección 65 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Por qué y cómo evaluamos las frecuencias por encima de ocho mil hertz? En esta lección vemos la base coclear de la audiometría de alta frecuencia extendida, la necesidad de auriculares circumaurales y de la calibración según ISO 389-5, el efecto de la edad y los límites de los datos normativos, su papel en el monitoreo de la ototoxicidad y del ruido, y el protocolo de la prueba.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: ISO 389-5, Acoustics: Reference zero for the calibration of audiometric equipment, Part 5: Reference equivalent threshold sound pressure levels for pure tones in the frequency range 8 kHz to 16 kHz; Stelmachowicz et al. (1989), Normative thresholds in the 8- to 20-kHz range as a function of age, Journal of the Acoustical Society of America; ASHA (1994), Guidelines for the audiologic management of individuals receiving cochleotoxic drug therapy; American Academy of Audiology (2009), Position Statement and Clinical Practice Guidelines: Ototoxicity Monitoring; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audiometria",
+   "ototoxicidad"
+  ],
+  "etiketler": [
+   "audiometría de alta frecuencia extendida",
+   "audiometría de altas frecuencias",
+   "monitoreo de ototoxicidad",
+   "auricular circumaural",
+   "ISO 389-5",
+   "audiometría tonal",
+   "pérdida auditiva en agudos",
+   "cisplatino",
+   "pérdida auditiva oculta",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 65",
+   "baslik": "Alta frecuencia *extendida*",
+   "alt": "Medir umbrales de 8 a 16 kHz",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos la audiometría de alta frecuencia extendida, que mide las frecuencias por encima de ocho mil hertz.",
+    "Veremos por qué es importante, qué auriculares y qué calibración requiere, sus límites y dónde se usa en la clínica."
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué más allá de 8 kHz?",
+   "baslik": "La región *fuera* del audiograma",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 20,
+     "max": 20000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      20,
+      125,
+      250,
+      1000,
+      4000,
+      8000,
+      16000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": ""
+    },
+    "bolgeler": [
+     {
+      "ad": "isitme_alani",
+      "x": [
+       20,
+       20000
+      ],
+      "renk": "gri",
+      "etiket": "rango auditivo de un oído joven",
+      "cumle": 1,
+      "opak": 0.06
+     },
+     {
+      "ad": "standart",
+      "x": [
+       250,
+       8000
+      ],
+      "renk": "mavi",
+      "etiket": "audiograma estándar",
+      "cumle": 0,
+      "opak": 0.14
+     },
+     {
+      "ad": "ehf",
+      "x": [
+       8000,
+       16000
+      ],
+      "renk": "sari",
+      "etiket": "extendida",
+      "cumle": 2,
+      "opak": 0.3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "test_frekanslari",
+      "x": [
+       9000,
+       16000
+      ],
+      "y": 3,
+      "etiket": "9 a 16 kHz",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ehf",
+     "cumle": 2
+    },
+    {
+     "parca": "test_frekanslari",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La audiometría tonal estándar suele evaluar de doscientos cincuenta a ocho mil hertz.",
+    "Sin embargo, un oído joven y sano puede oír desde unos veinte hertz hasta veinte kilohertz.",
+    "Evaluar por encima de ocho mil hertz se llama audiometría de alta frecuencia extendida.",
+    {
+     "yazi": "Las clínicas suelen evaluar 9; 10; 11,2; 12,5; 14 y 16 kilohertz.",
+     "ses": "Las clínicas suelen evaluar nueve, diez, once coma dos, doce coma cinco, catorce y dieciséis kilohertz."
+    },
+    "Algunos equipos llegan hasta veinte kilohertz, pero en estas frecuencias los adultos a menudo no responden.",
+    "Estas frecuencias se procesan en la base misma de la cóclea, en la región más cercana a la ventana oval."
+   ]
+  },
+  {
+   "id": "taban",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué más allá de 8 kHz?",
+   "baslik": "La zona de *alerta temprana* de la cóclea",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 8000
+   },
+   "yakinlastir": [
+    {
+     "parca": "taban",
+     "cumle": 0,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 0
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "Base: frecuencias más altas",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Fármacos, ruido, edad: _primero la base_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Cambia _antes que el audiograma_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Ayuda_ a oír en ruido",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "La base de la cóclea es por donde pasa primero la onda viajera, y está sintonizada con las frecuencias más altas.",
+    "Esta región es la más sensible a muchos tipos de daño; los fármacos ototóxicos, el ruido y el envejecimiento suelen afectarla primero.",
+    "Como el daño suele avanzar de la base al ápice, los primeros cambios pueden aparecer por encima de ocho kilohertz antes de que cambie el audiograma estándar.",
+    "Por eso, las frecuencias altas extendidas pueden considerarse la zona de alerta temprana de la cóclea.",
+    "Esta región no es la más crítica para entender el habla, pero se ha descrito que ayuda a comprender el habla en ruido.",
+    "Las muescas espectrales del pabellón auricular, que llevan claves de dirección, también están sobre todo por encima de seis kilohertz."
+   ]
+  },
+  {
+   "id": "kulaklik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Requisitos técnicos",
+   "baslik": "*Auriculares* y calibración especiales",
+   "maddeler": [
+    {
+     "metin": "Onda corta: _ondas estacionarias_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Pequeño desplazamiento, _gran_ diferencia",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Auriculares _circumaurales_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Calibración: _ISO 389-5_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Solo _vía aérea_",
+     "cumle": 6,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulaklik_yerlesimi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "ikisi",
+     "ustu_cumle": 0,
+     "cevreleyen_cumle": 3
+    },
+    "etiketler": [
+     {
+      "parca": "yastik",
+      "metin": "almohadilla alrededor del pabellón",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kulak_cevreleyen",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Las frecuencias altas extendidas no pueden medirse de forma confiable con auriculares supraaurales comunes.",
+    "En estas frecuencias, la longitud de onda baja a unos pocos centímetros y se forman ondas estacionarias en el conducto auditivo.",
+    "Incluso un pequeño desplazamiento del auricular puede cambiar claramente la presión sonora que llega al tímpano.",
+    "Por eso se usan sobre todo auriculares circumaurales de diseño especial, que rodean por completo el pabellón auricular.",
+    "El audiómetro debe poder generar estas frecuencias y estar calibrado para ellas con ese auricular.",
+    {
+     "yazi": "Los valores umbral de referencia figuran en la norma ISO 389-5 para determinados auriculares circumaurales y de inserción.",
+     "ses": "Los valores umbral de referencia figuran en la norma ISO trescientos ochenta y nueve, parte cinco, para determinados auriculares circumaurales y de inserción."
+    },
+    "En estas frecuencias no se mide la vía ósea de rutina; la prueba se hace por vía aérea."
+   ]
+  },
+  {
+   "id": "referans",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Requisitos técnicos",
+   "baslik": "Cero decibeles HL, *¿respecto de qué?*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Según el auricular",
+     "metin": "Una referencia para cada tipo",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "La referencia sube",
+     "metin": "Más presión sonora al subir la frecuencia",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "A veces dB SPL",
+     "metin": "Verificar la unidad",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Misma configuración",
+     "metin": "Necesaria para comparar",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En las frecuencias altas extendidas, los umbrales se siguen expresando en decibeles HL, pero el cero decibeles HL se define para cada auricular.",
+    "Para cada tipo de auricular, la norma da la presión sonora que corresponde al umbral promedio de adultos jóvenes con audición normal.",
+    "Estos valores de referencia aumentan con la frecuencia; así, en dieciséis kilohertz, cero decibeles HL es una presión sonora bastante alta.",
+    "Algunos estudios dan los umbrales directamente en decibeles SPL; al comparar fuentes, hay que verificar la unidad.",
+    "En resumen, estos umbrales solo pueden compararse si se midieron con el mismo auricular y la misma referencia."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Requisitos técnicos",
+   "baslik": "El *fuerte* efecto de la edad",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 8000,
+     "max": 16000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      8000,
+      10000,
+      12500,
+      16000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 10,
+     "ad": "Nivel de audición (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "genc",
+      "noktalar": [
+       [
+        8000,
+        5
+       ],
+       [
+        10000,
+        8
+       ],
+       [
+        11200,
+        10
+       ],
+       [
+        12500,
+        13
+       ],
+       [
+        14000,
+        20
+       ],
+       [
+        16000,
+        30
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 2,
+      "etiket": "20 a 29 años",
+      "etiket_konum": [
+       16000,
+       30
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -16,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "orta",
+      "noktalar": [
+       [
+        8000,
+        15
+       ],
+       [
+        10000,
+        25
+       ],
+       [
+        11200,
+        32
+       ],
+       [
+        12500,
+        40
+       ],
+       [
+        14000,
+        55
+       ],
+       [
+        16000,
+        70
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "cumle": 3,
+      "etiket": "40 a 49 años",
+      "etiket_konum": [
+       16000,
+       70
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -16,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "ileri",
+      "noktalar": [
+       [
+        8000,
+        35
+       ],
+       [
+        10000,
+        50
+       ],
+       [
+        11200,
+        60
+       ],
+       [
+        12500,
+        72
+       ],
+       [
+        14000,
+        85
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "cumle": 4,
+      "etiket": "más de 60",
+      "etiket_konum": [
+       10000,
+       50
+      ],
+      "etiket_dx": -14,
+      "etiket_dy": 30,
+      "etiket_hiza": "end"
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yanit_yok",
+      "x": 16000,
+      "y": 95,
+      "etiket": "sin respuesta",
+      "dx": -40,
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yayilim",
+      "x": [
+       12500,
+       16000
+      ],
+      "renk": "sari",
+      "etiket": "grandes diferencias entre personas",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "yayilim",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Los umbrales en las frecuencias altas extendidas cambian muy claramente con la edad.",
+    "Las curvas del gráfico son ilustrativas; muestran cómo cambian los umbrales promedio en distintos grupos de edad.",
+    "En los adultos jóvenes, los umbrales pueden mantenerse bastante buenos hasta dieciséis kilohertz.",
+    "A partir de los treinta y cuarenta años, los umbrales suben rápidamente en las frecuencias más altas.",
+    "Después de los sesenta años, la mayoría de las personas no responde en las frecuencias más altas, ni siquiera en el límite del equipo.",
+    "Incluso dentro del mismo grupo de edad, las diferencias entre personas son muy grandes; son habituales diferencias de veinte o treinta decibeles.",
+    "Por eso los datos normativos son limitados, y es difícil clasificar una sola medición como normal o anormal."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Requisitos técnicos",
+   "baslik": "*Límites* del método",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Salida baja",
+     "metin": "Sin respuesta con pérdida moderada",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Diferencia test-retest",
+     "metin": "Mayor que en frecuencias estándar",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Diferencias de auriculares",
+     "metin": "No comparables directamente",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Factores individuales",
+     "metin": "Conducto auditivo, colocación",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Verdadera fortaleza",
+     "metin": "Cambio en el tiempo",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La audiometría de alta frecuencia extendida tiene algunos límites.",
+    "La salida máxima del audiómetro en estas frecuencias es baja; incluso con una pérdida moderada, puede no haber respuesta.",
+    "La diferencia entre dos pruebas el mismo día suele ser mayor que en las frecuencias estándar.",
+    "Los resultados obtenidos con distintos auriculares y normas no pueden compararse directamente.",
+    "Factores individuales como el tamaño del conducto auditivo y la colocación del auricular también pueden cambiar el resultado.",
+    "Por eso, la verdadera fortaleza del método es seguir el cambio en el tiempo en una misma persona."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Uso clínico",
+   "baslik": "¿*Dónde* se usa?",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Ototoxicidad",
+     "metin": "El uso más consolidado",
+     "cumle": 0
+    },
+    {
+     "ikon": "fabrika",
+     "baslik": "Ruido",
+     "metin": "Efectos tempranos en estudio",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitus",
+     "metin": "Pérdida con audiograma normal",
+     "cumle": 4
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Audición en ruido",
+     "metin": "Puede explicar la queja",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El uso más consolidado de la audiometría de alta frecuencia extendida es el monitoreo de la ototoxicidad.",
+    "Los efectos de fármacos como el cisplatino y los aminoglucósidos suelen aparecer primero en las frecuencias más altas.",
+    "Detectar un cambio temprano da información al equipo tratante antes de que se afecten las frecuencias del habla.",
+    "También se han descrito cambios de umbral en estas frecuencias en personas expuestas al ruido, pero los hallazgos no son consistentes.",
+    "Algunos pacientes con tinnitus y audiograma estándar normal pueden tener pérdida en las frecuencias altas extendidas.",
+    "También se ha descrito pérdida en estas frecuencias en personas a las que les cuesta entender el habla en ruido pese a un audiograma normal.",
+    "En estos campos, el método por sí solo no establece un diagnóstico, pero ayuda a explicar la queja y a planificar el seguimiento."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Uso clínico",
+   "baslik": "Audiograma normal, pérdida *oculta*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 16000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000,
+      16000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 10,
+     "ad": "Nivel de audición (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        8000,
+        20
+       ],
+       [
+        10000,
+        35
+       ],
+       [
+        11200,
+        45
+       ],
+       [
+        12500,
+        55
+       ],
+       [
+        14000,
+        70
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "normal",
+      "y": [
+       -10,
+       25
+      ],
+      "renk": "yesil",
+      "etiket": "normal",
+      "cumle": 1,
+      "opak": 0.1
+     },
+     {
+      "ad": "ehf",
+      "x": [
+       8000,
+       16000
+      ],
+      "renk": "sari",
+      "etiket": "extendida",
+      "cumle": 2,
+      "opak": 0.2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yanit_yok",
+      "x": 16000,
+      "y": 90,
+      "etiket": "sin respuesta",
+      "dx": -40,
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ehf",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Veamos un ejemplo; los valores son didácticos.",
+    "Los umbrales de esta persona de doscientos cincuenta a ocho mil hertz están dentro de los límites normales.",
+    "Pero a partir de diez kilohertz los umbrales suben claramente, y no hay respuesta en dieciséis kilohertz.",
+    "Con un audiograma estándar este oído se informaría como normal; la prueba extendida muestra un cambio en la región basal.",
+    "Qué tan esperable es este hallazgo para la edad de la persona se interpreta con cuidado, con datos adecuados a la edad."
+   ]
+  },
+  {
+   "id": "protokol",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Uso clínico",
+   "baslik": "*Pasos* de la prueba",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Control previo",
+     "metin": "Otoscopia, timpanometría",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Colocación",
+     "metin": "Rodear toda la oreja",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Puente en 8 kHz",
+     "metin": "Medir con ambos auriculares",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Umbral",
+     "metin": "Tono pulsado, pasos de 5 dB",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registro",
+     "metin": "Auricular y casos sin respuesta",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La prueba de alta frecuencia extendida sigue los mismos principios que la audiometría tonal estándar.",
+    "Primero se hacen otoscopia y timpanometría; el cerumen o un problema de oído medio también pueden afectar los umbrales agudos.",
+    "El auricular circumaural se coloca de modo que rodee por completo la oreja, sin obstáculos como el cabello o los anteojos.",
+    "En muchos protocolos, ocho mil hertz se mide con el auricular estándar y con el extendido, lo que vincula ambas mediciones.",
+    "El umbral se busca con el método habitual en pasos de cinco decibeles; un tono pulsado reduce la confusión con el tinnitus.",
+    "Si no hay respuesta en el límite del equipo, se registra con el símbolo adecuado y el nivel máximo presentado.",
+    "El informe indica el tipo de auricular y el equipo; durante el seguimiento se usa siempre la misma configuración."
+   ]
+  },
+  {
+   "id": "cocuk",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Uso clínico",
+   "baslik": "*Seguimiento* en niños",
+   "maddeler": [
+    {
+     "metin": "_Valiosa_ en el seguimiento oncológico",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Umbrales en general _mejores_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Primero las frecuencias _más importantes_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Si hace falta, seguir con _OEAPD_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "oae",
+    "cumle": 3,
+    "ayar": {
+     "tur": "DPOAE"
+    }
+   },
+   "cumleler": [
+    "La prueba de alta frecuencia extendida también puede hacerse en niños; es especialmente valiosa para seguir a niños en tratamiento oncológico.",
+    "Los niños suelen tener mejores umbrales que los adultos en estas frecuencias; aún no ha empezado el deterioro por la edad.",
+    "Pero la prueba puede ser larga y la atención se dispersa rápido, por eso se evalúan primero las frecuencias más importantes para el seguimiento.",
+    "Si las respuestas conductuales no son confiables, puede seguirse la función de las células ciliadas externas con otoemisiones acústicas producto de distorsión (OEAPD).",
+    "Sea cual sea el método elegido, una medición basal antes del tratamiento es la base del seguimiento."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Cuidado en la clínica",
+   "metin": "Si ves un cambio, recoloca el auricular y repite la medición. Si no hay respuesta en el límite, no dejes la casilla vacía; registra el nivel máximo y la ausencia de respuesta.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo de la práctica: las diferencias test-retest son grandes en las frecuencias altas extendidas.",
+    "Cuando vean un cambio, retiren y vuelvan a colocar el auricular y midan de nuevo esas frecuencias.",
+    "Si el cambio persiste en la segunda medición, regístrenlo; no saquen conclusiones de una sola medición.",
+    "Si no hay respuesta en el límite del equipo, no dejen la frecuencia en blanco; registren con claridad el nivel máximo y la ausencia de respuesta."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Rango evaluado: unos _9 a 16 kHz_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Auriculares circumaurales, _ISO 389-5_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Fuerte efecto de la edad, _normas limitadas_",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Fortaleza: el _seguimiento_, sobre todo de ototoxicidad",
+     "cumle": 3,
+     "ikon": "ilac"
+    }
+   ],
+   "cumleler": [
+    "La audiometría de alta frecuencia extendida evalúa por encima de ocho mil hertz, en general hasta dieciséis kilohertz.",
+    "Esta prueba requiere auriculares circumaurales especiales y una calibración hecha para estas frecuencias.",
+    "Los umbrales empeoran claramente con la edad y varían mucho entre personas, por eso los datos normativos son limitados.",
+    "La verdadera fortaleza del método es detectar a tiempo el cambio en una misma persona, sobre todo en el monitoreo de la ototoxicidad."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Qué auricular se prefiere para esta prueba?",
+   "secenekler": [
+    "Auricular circumaural",
+    "Auricular supraaural",
+    "Vibrador óseo",
+    "Altavoz de campo libre"
+   ],
+   "dogru": 0,
+   "aciklama": "Con longitudes de onda cortas, los errores de colocación aumentan; un auricular _circumaural_ es más confiable.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué tipo de auricular se prefiere en la audiometría de alta frecuencia extendida?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: el auricular circumaural.",
+    "En estas frecuencias las longitudes de onda son muy cortas; un auricular que rodea toda la oreja reduce los errores de colocación y el efecto de las ondas estacionarias."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Oído *externo*: cerumen, otitis externa y exostosis",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos a los trastornos del oído externo: el tapón de cerumen, la otitis externa y la exostosis.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R317_Hearing_Loss_and_Falls_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #317",
+  "baslik": "10 dB, *1,4 veces*",
+  "alt": "Pérdida auditiva y riesgo de caídas",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      35,
+      55,
+      65
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      20,
+      20,
+      40,
+      55,
+      70
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿La pérdida auditiva se relaciona con el riesgo de caídas? #shorts",
+  "aciklama": "En un análisis de datos de los Estados Unidos, cada 10 decibeles de pérdida auditiva se asoció con unas 1,4 veces más posibilidades (odds) de caer. Una explicación es que se vuelve más difícil orientarse por los sonidos del entorno y advertir los sonidos de alerta; otra es la carga cognitiva, ya que el esfuerzo auditivo puede restar atención al equilibrio. Estos estudios son transversales, y aún no se sabe con certeza si el uso de audífonos reduce las caídas.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audicion",
+   "equilibrio"
+  ],
+  "etiketler": [
+   "pérdida auditiva",
+   "riesgo de caídas",
+   "carga cognitiva",
+   "equilibrio en adultos mayores",
+   "audífonos",
+   "estudio transversal",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿La pérdida auditiva se relaciona con el riesgo de caídas?",
+  "bilgiler": [
+   "Cada 10 dB de pérdida se asoció con unas 1,4 veces más posibilidades de caer.",
+   "El esfuerzo auditivo puede restar atención al equilibrio.",
+   "Aún no se sabe si los audífonos reducen las caídas."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audicion",
+   "equilibrio"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #317",
+   "metin": "¿Audición y *caídas?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿La pérdida auditiva se relaciona con el riesgo de caídas?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Posibilidad de caer *por cada 10 dB*",
+   "sayi": "1.4",
+   "birim": "x",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "La pérdida auditiva también se relaciona con el riesgo de caídas.",
+    {
+     "yazi": "Por cada 10 dB de pérdida: unas 1,4 veces más posibilidades de caer.",
+     "ses": "Por cada diez decibeles de pérdida: unas uno coma cuatro veces más posibilidades de caer."
+    },
+    "Una explicación: se vuelve más difícil orientarse por el sonido y advertir las señales de alerta.",
+    "Otra es la carga cognitiva: el esfuerzo auditivo puede restar atención al equilibrio.",
+    "Los estudios son transversales; aún no está claro si los audífonos reducen las caídas."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D212",
+ "kaynak_baslik": "Equilibrio y riesgo de caídas en adultos mayores"
+}

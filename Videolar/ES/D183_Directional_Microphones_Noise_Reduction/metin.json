@@ -1,0 +1,1418 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D183_Directional_Microphones_Noise_Reduction_ES",
+ "kapak": {
+  "ust": "LECCIÓN 183",
+  "baslik": "Micrófonos direccionales,<br>reducción de *ruido*",
+  "alt": "Patrones polares, DNR, beneficio real",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Micrófonos direccionales y reducción de ruido | Lección 183 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué puede hacer un audífono para ayudar a una persona a entender el habla en el ruido? En esta lección vemos cómo funcionan los micrófonos direccionales, los patrones polares, la direccionalidad fija y adaptativa, la reducción digital de ruido y el efecto real de estas funciones en la vida diaria.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Dillon, Hearing Aids; Ricketts, Bentler y Mueller, Essentials of Modern Hearing Aids; Bentler, Wu, Kettel y Hurtig, Digital noise reduction: outcomes from laboratory and field studies, International Journal of Audiology (2008); Stelmachowicz y cols., Effects of digital noise reduction on speech perception for children with hearing loss, Ear and Hearing (2010); Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "ruido"
+  ],
+  "etiketler": [
+   "micrófono direccional",
+   "patrón polar",
+   "reducción digital de ruido",
+   "DNR",
+   "direccionalidad adaptativa",
+   "pérdida de SNR",
+   "habla en ruido",
+   "micrófono remoto",
+   "audífonos",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 183",
+   "baslik": "Micrófonos direccionales y *reducción de ruido*",
+   "alt": "Entender el habla en el ruido",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo funcionan los micrófonos direccionales de los audífonos y cómo se leen los patrones polares.",
+    "Luego hablaremos de la reducción digital de ruido y del efecto real de estas tecnologías en la percepción del habla en el ruido."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El problema del ruido",
+   "baslik": "¿Por qué el ruido es *tan difícil?*",
+   "maddeler": [
+    {
+     "metin": "La pérdida auditiva exige mejor SNR",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "La ganancia también amplifica el ruido",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "La única solución: mejorar la SNR",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Direccionalidad, micrófono remoto, organización del entorno",
+     "cumle": 5,
+     "ikon": "mikrofon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 0,
+    "ayar": {
+     "mod": "golge"
+    },
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 4
+     },
+     {
+      "parca": "gurultu",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Las personas con pérdida neurosensorial necesitan una mejor relación señal-ruido que los normoyentes para entender igual en el ruido.",
+    "Esta diferencia se llama pérdida de relación señal-ruido, o pérdida de SNR, y se mide con pruebas de habla en ruido.",
+    "Un audífono amplifica el habla, pero también amplifica el ruido que llega desde la misma dirección y en las mismas frecuencias.",
+    "Por eso, la ganancia por sí sola no resuelve la comprensión en el ruido.",
+    "Un beneficio real exige mejorar la relación entre el habla y el ruido que llegan al oído.",
+    "Las principales formas de lograrlo son los micrófonos direccionales, los sistemas de micrófono remoto y la organización del entorno de escucha.",
+    "La reducción digital de ruido, como veremos enseguida, contribuye sobre todo al confort auditivo."
+   ]
+  },
+  {
+   "id": "iki_mik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Micrófonos direccionales",
+   "baslik": "Dos micrófonos, *un retardo*",
+   "cizim": "isitme_cihazi",
+   "ayar": {
+    "tip": "RIC"
+   },
+   "etiketler": [
+    {
+     "parca": "mikrofon",
+     "metin": "dos entradas de micrófono",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "mikrofon",
+     "cumle": 1
+    },
+    {
+     "parca": "islemci",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "La señal trasera se retrasa",
+     "cumle": 4,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "El sonido posterior se cancela",
+     "cumle": 5,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Se conserva el habla frontal",
+     "cumle": 6,
+     "ikon": "konusma"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "mikrofon",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Un micrófono omnidireccional capta el sonido de todas las direcciones con una sensibilidad aproximadamente igual.",
+    "Un sistema direccional usa dos micrófonos en el audífono, separados por alrededor de un centímetro.",
+    "El sonido que viene de adelante llega primero al micrófono delantero y, un instante después, al trasero.",
+    "En el sonido que viene de atrás, el orden se invierte: llega primero al micrófono trasero.",
+    "El procesador retrasa brevemente la señal del micrófono trasero y la resta de la señal del micrófono delantero.",
+    "Si el retardo se elige bien, el sonido de atrás está presente en ambas señales en el mismo instante y se cancela.",
+    "El sonido de adelante no se cancela, así que el interlocutor que está al frente destaca sobre el ruido de atrás.",
+    "Esta disposición requiere que los dos micrófonos estén alineados de adelante hacia atrás en el audífono.",
+    "Por eso, un micrófono direccional no siempre cabe en los audífonos intraauriculares muy pequeños."
+   ]
+  },
+  {
+   "id": "polar",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Micrófonos direccionales",
+   "baslik": "Patrones *polares*",
+   "cizim": "polar_desen",
+   "ayar": {
+    "desenler": [
+     {
+      "tip": "cok_yonlu",
+      "cumle": 2
+     },
+     {
+      "tip": "kardiyoid",
+      "cumle": 3
+     },
+     {
+      "tip": "hiperkardiyoid",
+      "cumle": 4
+     }
+    ],
+    "sifir_cumle": 3,
+    "grafik": {
+     "x": {
+      "min": 0,
+      "max": 360,
+      "isaretler": [
+       0,
+       90,
+       180,
+       270,
+       360
+      ],
+      "ad": "Ángulo de incidencia (grados)"
+     },
+     "y": {
+      "min": -30,
+      "max": 5,
+      "adim": 10,
+      "ad": "Sensibilidad relativa (dB)"
+     },
+     "seriler": [
+      {
+       "ad": "cok_yonlu",
+       "noktalar": [
+        [
+         0,
+         0
+        ],
+        [
+         360,
+         0
+        ]
+       ],
+       "renk": "gri",
+       "kesik": true,
+       "cumle": 2,
+       "etiket": "omnidireccional",
+       "etiket_konum": [
+        10,
+        0
+       ],
+       "etiket_dy": -12
+      },
+      {
+       "ad": "kardiyoid",
+       "noktalar": [
+        [
+         0,
+         0.0
+        ],
+        [
+         5,
+         -0.02
+        ],
+        [
+         10,
+         -0.07
+        ],
+        [
+         15,
+         -0.15
+        ],
+        [
+         20,
+         -0.27
+        ],
+        [
+         25,
+         -0.42
+        ],
+        [
+         30,
+         -0.6
+        ],
+        [
+         35,
+         -0.82
+        ],
+        [
+         40,
+         -1.08
+        ],
+        [
+         45,
+         -1.38
+        ],
+        [
+         50,
+         -1.71
+        ],
+        [
+         55,
+         -2.08
+        ],
+        [
+         60,
+         -2.5
+        ],
+        [
+         65,
+         -2.96
+        ],
+        [
+         70,
+         -3.47
+        ],
+        [
+         75,
+         -4.02
+        ],
+        [
+         80,
+         -4.63
+        ],
+        [
+         85,
+         -5.29
+        ],
+        [
+         90,
+         -6.02
+        ],
+        [
+         95,
+         -6.81
+        ],
+        [
+         100,
+         -7.68
+        ],
+        [
+         105,
+         -8.62
+        ],
+        [
+         110,
+         -9.66
+        ],
+        [
+         115,
+         -10.79
+        ],
+        [
+         120,
+         -12.04
+        ],
+        [
+         125,
+         -13.42
+        ],
+        [
+         130,
+         -14.96
+        ],
+        [
+         135,
+         -16.69
+        ],
+        [
+         140,
+         -18.64
+        ],
+        [
+         145,
+         -20.87
+        ],
+        [
+         150,
+         -23.48
+        ],
+        [
+         155,
+         -26.59
+        ],
+        [
+         160,
+         -30.0
+        ],
+        [
+         165,
+         -30.0
+        ],
+        [
+         170,
+         -30.0
+        ],
+        [
+         175,
+         -30.0
+        ],
+        [
+         180,
+         -30.0
+        ],
+        [
+         185,
+         -30.0
+        ],
+        [
+         190,
+         -30.0
+        ],
+        [
+         195,
+         -30.0
+        ],
+        [
+         200,
+         -30.0
+        ],
+        [
+         205,
+         -26.59
+        ],
+        [
+         210,
+         -23.48
+        ],
+        [
+         215,
+         -20.87
+        ],
+        [
+         220,
+         -18.64
+        ],
+        [
+         225,
+         -16.69
+        ],
+        [
+         230,
+         -14.96
+        ],
+        [
+         235,
+         -13.42
+        ],
+        [
+         240,
+         -12.04
+        ],
+        [
+         245,
+         -10.79
+        ],
+        [
+         250,
+         -9.66
+        ],
+        [
+         255,
+         -8.62
+        ],
+        [
+         260,
+         -7.68
+        ],
+        [
+         265,
+         -6.81
+        ],
+        [
+         270,
+         -6.02
+        ],
+        [
+         275,
+         -5.29
+        ],
+        [
+         280,
+         -4.63
+        ],
+        [
+         285,
+         -4.02
+        ],
+        [
+         290,
+         -3.47
+        ],
+        [
+         295,
+         -2.96
+        ],
+        [
+         300,
+         -2.5
+        ],
+        [
+         305,
+         -2.08
+        ],
+        [
+         310,
+         -1.71
+        ],
+        [
+         315,
+         -1.38
+        ],
+        [
+         320,
+         -1.08
+        ],
+        [
+         325,
+         -0.82
+        ],
+        [
+         330,
+         -0.6
+        ],
+        [
+         335,
+         -0.42
+        ],
+        [
+         340,
+         -0.27
+        ],
+        [
+         345,
+         -0.15
+        ],
+        [
+         350,
+         -0.07
+        ],
+        [
+         355,
+         -0.02
+        ],
+        [
+         360,
+         0.0
+        ]
+       ],
+       "renk": "mavi",
+       "cumle": 3,
+       "etiket": "cardioide",
+       "etiket_konum": [
+        150,
+        -15
+       ],
+       "etiket_dx": -110
+      },
+      {
+       "ad": "hiperkardiyoid",
+       "noktalar": [
+        [
+         0,
+         0.0
+        ],
+        [
+         5,
+         -0.02
+        ],
+        [
+         10,
+         -0.1
+        ],
+        [
+         15,
+         -0.22
+        ],
+        [
+         20,
+         -0.4
+        ],
+        [
+         25,
+         -0.63
+        ],
+        [
+         30,
+         -0.92
+        ],
+        [
+         35,
+         -1.27
+        ],
+        [
+         40,
+         -1.68
+        ],
+        [
+         45,
+         -2.15
+        ],
+        [
+         50,
+         -2.71
+        ],
+        [
+         55,
+         -3.35
+        ],
+        [
+         60,
+         -4.08
+        ],
+        [
+         65,
+         -4.93
+        ],
+        [
+         70,
+         -5.91
+        ],
+        [
+         75,
+         -7.05
+        ],
+        [
+         80,
+         -8.4
+        ],
+        [
+         85,
+         -10.02
+        ],
+        [
+         90,
+         -12.04
+        ],
+        [
+         95,
+         -14.67
+        ],
+        [
+         100,
+         -18.43
+        ],
+        [
+         105,
+         -25.05
+        ],
+        [
+         110,
+         -30.0
+        ],
+        [
+         115,
+         -23.48
+        ],
+        [
+         120,
+         -18.06
+        ],
+        [
+         125,
+         -14.89
+        ],
+        [
+         130,
+         -12.69
+        ],
+        [
+         135,
+         -11.05
+        ],
+        [
+         140,
+         -9.77
+        ],
+        [
+         145,
+         -8.77
+        ],
+        [
+         150,
+         -7.97
+        ],
+        [
+         155,
+         -7.34
+        ],
+        [
+         160,
+         -6.84
+        ],
+        [
+         165,
+         -6.48
+        ],
+        [
+         170,
+         -6.22
+        ],
+        [
+         175,
+         -6.07
+        ],
+        [
+         180,
+         -6.02
+        ],
+        [
+         185,
+         -6.07
+        ],
+        [
+         190,
+         -6.22
+        ],
+        [
+         195,
+         -6.48
+        ],
+        [
+         200,
+         -6.84
+        ],
+        [
+         205,
+         -7.34
+        ],
+        [
+         210,
+         -7.97
+        ],
+        [
+         215,
+         -8.77
+        ],
+        [
+         220,
+         -9.77
+        ],
+        [
+         225,
+         -11.05
+        ],
+        [
+         230,
+         -12.69
+        ],
+        [
+         235,
+         -14.89
+        ],
+        [
+         240,
+         -18.06
+        ],
+        [
+         245,
+         -23.48
+        ],
+        [
+         250,
+         -30.0
+        ],
+        [
+         255,
+         -25.05
+        ],
+        [
+         260,
+         -18.43
+        ],
+        [
+         265,
+         -14.67
+        ],
+        [
+         270,
+         -12.04
+        ],
+        [
+         275,
+         -10.02
+        ],
+        [
+         280,
+         -8.4
+        ],
+        [
+         285,
+         -7.05
+        ],
+        [
+         290,
+         -5.91
+        ],
+        [
+         295,
+         -4.93
+        ],
+        [
+         300,
+         -4.08
+        ],
+        [
+         305,
+         -3.35
+        ],
+        [
+         310,
+         -2.71
+        ],
+        [
+         315,
+         -2.15
+        ],
+        [
+         320,
+         -1.68
+        ],
+        [
+         325,
+         -1.27
+        ],
+        [
+         330,
+         -0.92
+        ],
+        [
+         335,
+         -0.63
+        ],
+        [
+         340,
+         -0.4
+        ],
+        [
+         345,
+         -0.22
+        ],
+        [
+         350,
+         -0.1
+        ],
+        [
+         355,
+         -0.02
+        ],
+        [
+         360,
+         0.0
+        ]
+       ],
+       "renk": "kirmizi",
+       "cumle": 4,
+       "etiket": "hipercardioide",
+       "etiket_konum": [
+        210,
+        -9.5
+       ],
+       "etiket_dx": 14
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "arka",
+       "x": 180,
+       "y": -30,
+       "etiket": "justo detrás",
+       "dy": -16,
+       "renk": "lacivert",
+       "cumle": 3,
+       "nokta": false
+      }
+     ]
+    }
+   },
+   "vurgula": [
+    {
+     "parca": "kardiyoid",
+     "cumle": 3
+    },
+    {
+     "parca": "hiperkardiyoid",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La sensibilidad de un micrófono según la dirección se representa con un patrón polar.",
+    "Aquí desplegamos el patrón en un gráfico plano: el eje horizontal es el ángulo, con cero grados al frente y 180 justo detrás.",
+    "El patrón omnidireccional es plano; el sonido de cualquier ángulo se capta con la misma sensibilidad.",
+    "En el patrón cardioide, la sensibilidad cae hacia atrás y llega a su punto más bajo justo detrás; ese punto se llama nulo.",
+    "En el patrón hipercardioide, los nulos están en unos 110 y 250 grados, por lo que atenúa sobre todo el sonido de los costados traseros.",
+    "El índice de directividad es la relación, en decibeles, entre la sensibilidad al sonido frontal y la sensibilidad al sonido de todas las direcciones.",
+    {
+     "yazi": "En teoría es de unos 4,8 decibeles para un cardioide y de unos 6 decibeles para un hipercardioide.",
+     "ses": "En teoría es de unos cuatro coma ocho decibeles para un cardioide y de unos seis decibeles para un hipercardioide."
+    },
+    "Con el audífono puesto, la cabeza y el pabellón modifican el patrón; los valores reales suelen ser menores."
+   ]
+  },
+  {
+   "id": "dusuk",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Micrófonos direccionales",
+   "baslik": "Caída en las *frecuencias graves*",
+   "maddeler": [
+    {
+     "metin": "Los sistemas direccionales debilitan los graves",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La ganancia compensatoria aumenta el ruido interno",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "En silencio conviene más el omnidireccional",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Sensibles al ruido del viento",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 0,
+    "ayar": {
+     "x": {
+      "min": 125,
+      "max": 8000,
+      "log": true,
+      "hz": true,
+      "ad": "Frecuencia (Hz)",
+      "isaretler": [
+       125,
+       500,
+       2000,
+       8000
+      ]
+     },
+     "y": {
+      "min": -30,
+      "max": 5,
+      "adim": 10,
+      "ad": "Sensibilidad (dB)"
+     },
+     "seriler": [
+      {
+       "ad": "cok_yonlu",
+       "noktalar": [
+        [
+         125,
+         0
+        ],
+        [
+         8000,
+         0
+        ]
+       ],
+       "renk": "gri",
+       "kesik": true,
+       "cumle": 0
+      },
+      {
+       "ad": "yonlu",
+       "noktalar": [
+        [
+         125,
+         -24
+        ],
+        [
+         250,
+         -18
+        ],
+        [
+         500,
+         -12
+        ],
+        [
+         1000,
+         -6
+        ],
+        [
+         2000,
+         -1.5
+        ],
+        [
+         4000,
+         0
+        ],
+        [
+         8000,
+         0
+        ]
+       ],
+       "renk": "mavi",
+       "cumle": 0
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "yonlu",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Un sistema direccional formado restando dos micrófonos pierde sensibilidad en las frecuencias graves.",
+    "Esta caída aumenta unos 6 decibeles cada vez que la frecuencia se reduce a la mitad.",
+    "El audífono suele compensarla con ganancia adicional, pero esto también eleva el ruido interno del micrófono.",
+    "En un entorno silencioso, este ruido puede oírse como un siseo, y allí la direccionalidad no aporta el beneficio esperado.",
+    "Por eso, en entornos silenciosos se suele preferir el modo omnidireccional.",
+    "Los sistemas direccionales también son más sensibles al ruido del viento, por lo que los audífonos incluyen un manejo del ruido del viento."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Fija y adaptativa",
+   "baslik": "Tipos de *direccionalidad*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Omnidireccional",
+     "cumle": 0,
+     "metin": "Todas las direcciones por igual"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Direccional fija",
+     "cumle": 1,
+     "metin": "El patrón no cambia"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Adaptativa",
+     "cumle": 3,
+     "metin": "El nulo sigue al ruido"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Cambio automático",
+     "cumle": 5,
+     "metin": "Modo según el entorno"
+    }
+   ],
+   "cumleler": [
+    "El modo omnidireccional es la referencia, con la direccionalidad desactivada.",
+    "En el modo direccional fijo, el patrón está predefinido; por ejemplo, siempre funciona como cardioide o como hipercardioide.",
+    "En este modo, el mejor resultado se obtiene cuando la fuente de ruido cae en el nulo del patrón.",
+    "Con la direccionalidad adaptativa, el audífono estima de forma continua la dirección del ruido más intenso en la mitad posterior.",
+    "Luego orienta el nulo hacia esa dirección; cuando la fuente de ruido se mueve, el patrón también cambia.",
+    "Los sistemas automáticos clasifican el sonido del entorno y pasan a omnidireccional en silencio y a direccional cuando hay habla en ruido.",
+    "Algunos audífonos también pueden combinar de forma inalámbrica los micrófonos de ambos oídos para lograr una direccionalidad más estrecha.",
+    "Qué modo se activa y cuándo puede verse y ajustarse en el software del audífono."
+   ]
+  },
+  {
+   "id": "kim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Fija y adaptativa",
+   "baslik": "¿Quién se *beneficia* de la direccionalidad?",
+   "maddeler": [
+    {
+     "metin": "Interlocutor _al frente_ y cerca",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ruido detrás o a los costados",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Más eficaz con poca reverberación",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Beneficio menor fuera del laboratorio",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Uso cuidadoso en niños pequeños",
+     "cumle": 6,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "oda_plani",
+    "cumle": 0,
+    "ayar": {
+     "mod": "kritik_mesafe",
+     "kritik_mesafe_m": 1.5,
+     "oda": [
+      9,
+      7
+     ],
+     "halka_cumle": 3
+    },
+    "vurgula": [
+     {
+      "parca": "dogrudan_alan",
+      "cumle": 3
+     },
+     {
+      "parca": "yankilanan_alan",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "El beneficio de un micrófono direccional es máximo cuando la persona mira hacia el interlocutor y este se encuentra relativamente cerca.",
+    "El ruido debe estar detrás o a los costados; si viene de la misma dirección que el interlocutor, la direccionalidad no puede ayudar.",
+    "En una sala reverberante, los sonidos se reflejan desde todas las direcciones, por lo que el efecto de la direccionalidad disminuye.",
+    "Si el interlocutor se aleja más allá de la distancia crítica, llega al oído más sonido reflejado, y el beneficio se reduce.",
+    "En el laboratorio, la direccionalidad muestra con facilidad un beneficio de algunos decibeles para la comprensión en el ruido.",
+    "En la vida real, sin embargo, el beneficio que perciben los usuarios suele ser menor.",
+    "Los niños pequeños no siempre miran al interlocutor y además aprenden el lenguaje escuchando de forma incidental, así que con ellos se usa con cuidado."
+   ]
+  },
+  {
+   "id": "dnr",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Reducción de ruido",
+   "baslik": "¿Cómo *funciona* la reducción de ruido?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Canal (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -12,
+     "max": 2,
+     "adim": 4,
+     "ad": "Cambio de ganancia (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "gurultu_kanallari",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        250,
+        -8
+       ],
+       [
+        500,
+        -6
+       ],
+       [
+        6000,
+        -3
+       ]
+      ],
+      "renk": "kirmizi",
+      "genislik": 0.6,
+      "taban": 0,
+      "cumle": 4,
+      "etiket": "predomina el ruido",
+      "etiket_konum": [
+       250,
+       -8
+      ],
+      "etiket_dy": 26,
+      "etiket_hiza": "start",
+      "etiket_dx": -20
+     },
+     {
+      "ad": "konusma_kanallari",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1000,
+        -1
+       ],
+       [
+        2000,
+        -0.5
+       ],
+       [
+        3000,
+        -1
+       ]
+      ],
+      "renk": "mavi",
+      "genislik": 0.6,
+      "taban": 0,
+      "cumle": 4,
+      "etiket": "predomina el habla",
+      "etiket_konum": [
+       2000,
+       -1
+      ],
+      "etiket_dy": 26,
+      "etiket_hiza": "middle",
+      "etiket_dx": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sifir",
+      "x": 7000,
+      "y": 0,
+      "cizgi": "yatay",
+      "nokta": false,
+      "etiket": "sin cambio",
+      "dy": -10,
+      "cumle": 0,
+      "renk": "gri"
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "gurultu_kanallari",
+     "cumle": 5
+    },
+    {
+     "parca": "konusma_kanallari",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "La reducción digital de ruido, o DNR, estima en cada canal si la señal se parece al habla o al ruido.",
+    "El nivel del habla sube y baja varias veces por segundo con el ritmo de las sílabas, alrededor de 4 hertz.",
+    "El nivel de un ruido estable, como el de un aire acondicionado o el zumbido de un motor, casi no fluctúa.",
+    "Observando la profundidad y la velocidad de esta fluctuación, el audífono estima la relación señal-ruido en cada canal.",
+    "La ganancia se reduce en los canales donde predomina el ruido; los canales donde predomina el habla se protegen.",
+    "En este ejemplo, la ganancia se ha reducido algunos decibeles en los canales graves, donde el zumbido es más intenso.",
+    "Pero el habla y el ruido presentes en el mismo canal al mismo tiempo no se pueden separar; si baja la ganancia, bajan ambos.",
+    "Por eso, la DNR no puede cambiar la relación señal-ruido dentro de un canal."
+   ]
+  },
+  {
+   "id": "etki",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Reducción de ruido",
+   "baslik": "El *efecto real* de la DNR",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Confort auditivo",
+     "cumle": 0,
+     "metin": "Mejora en la mayoría de los estudios"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Esfuerzo auditivo",
+     "cumle": 2,
+     "metin": "Disminuye en algunos estudios"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Inteligibilidad",
+     "cumle": 3,
+     "metin": "Por lo general, sin cambio claro"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Niños",
+     "cumle": 5,
+     "metin": "Sin efecto negativo demostrado"
+    }
+   ],
+   "cumleler": [
+    "Las investigaciones muestran que la DNR mejora el confort auditivo y la tolerancia al ruido en entornos ruidosos.",
+    {
+     "yazi": "En el estudio de 2008 de Bentler y sus colegas, los usuarios también encontraron más fácil escuchar con la DNR activada."
+    },
+    "Algunos estudios sugieren que la DNR puede reducir el esfuerzo auditivo.",
+    "Por otro lado, en general no se ha demostrado una mejora clara de la inteligibilidad del habla en el ruido.",
+    "En otras palabras, la DNR no hace el habla más inteligible; hace el entorno más tolerable.",
+    "Los estudios con niños no han informado evidencia clara de que la DNR perjudique la percepción del habla.",
+    "Esta información es importante para ajustar de forma realista las expectativas del usuario."
+   ]
+  },
+  {
+   "id": "yollar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Reducción de ruido",
+   "baslik": "Formas de *mejorar la SNR*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Micrófono remoto",
+     "cumle": 0,
+     "metin": "La mayor mejora de SNR"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Micrófono direccional",
+     "cumle": 2,
+     "metin": "Algunos decibeles"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Cercanía y orientación",
+     "cumle": 3,
+     "metin": "Reducir la distancia"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Organización del espacio",
+     "cumle": 4,
+     "metin": "Alejarse del ruido"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "DNR",
+     "cumle": 5,
+     "metin": "Confort, no inteligibilidad"
+    }
+   ],
+   "cumleler": [
+    "La forma más eficaz de entender el habla en el ruido es un sistema de micrófono remoto, que acerca el micrófono a la boca del interlocutor.",
+    "Un micrófono remoto elimina en gran parte la pérdida causada por la distancia y la reverberación.",
+    "Los micrófonos direccionales aportan una mejora de algunos decibeles en condiciones adecuadas.",
+    "Acercarse al interlocutor y mirarlo de frente mejora tanto la relación señal-ruido como la lectura labial.",
+    "En un restaurante, sentarse de espaldas a la fuente de ruido o elegir un rincón tranquilo también son estrategias sencillas pero eficaces.",
+    "La DNR no reemplaza estos métodos; los acompaña para dar confort.",
+    "En la orientación, explicar estas estrategias junto con la tecnología mejora el éxito del usuario en la vida real."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Explica a los usuarios que la direccionalidad solo funciona si miran hacia el interlocutor. Usa una prueba de habla en ruido para ajustar las expectativas de antemano.",
+   "cumleler": [
+    "Un consejo de la práctica: los micrófonos direccionales y la reducción de ruido son las funciones que más expectativas equivocadas generan en los usuarios.",
+    "Explica claramente al usuario que la direccionalidad solo funciona cuando se gira para mirar al interlocutor.",
+    "Una prueba de habla en ruido antes de la adaptación muestra la pérdida de SNR de la persona y qué se puede esperar de forma realista.",
+    "Con las personas que tienen una gran pérdida de SNR, plantea pronto los sistemas de micrófono remoto.",
+    "En la cita de control, revisa en el software a qué modo pasa el audífono en cada entorno."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Direccionalidad: dos micrófonos y un retardo",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Patrones polares: cardioide, hipercardioide",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Beneficio: interlocutor al frente, poca reverberación",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "La DNR da confort, no inteligibilidad",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que un micrófono direccional usa la diferencia de tiempo entre dos micrófonos para atenuar el sonido que viene de atrás.",
+    "Un patrón polar muestra la sensibilidad según la dirección; el nulo del cardioide está justo detrás, y los del hipercardioide, a los costados traseros.",
+    "El beneficio de la direccionalidad es máximo cuando el interlocutor está al frente, el ruido detrás y la reverberación es baja.",
+    "La reducción digital de ruido mejora el confort auditivo, pero en general no cambia claramente la inteligibilidad del habla en el ruido."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Dónde está el nulo de un patrón cardioide?",
+   "secenekler": [
+    "Justo al frente",
+    "A los costados, 90 grados",
+    "Justo detrás, 180 grados",
+    "El patrón no tiene nulo"
+   ],
+   "dogru": 2,
+   "aciklama": "Un patrón cardioide atenúa sobre todo el sonido que llega justo desde _atrás_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en un patrón polar cardioide, ¿en qué dirección está el nulo, el punto de menor sensibilidad?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: justo detrás, a 180 grados.",
+    "En un patrón hipercardioide, los nulos están en unos 110 y 250 grados, es decir, en los costados traseros."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Retroalimentación *acústica* y efecto de oclusión",
+   "cikis": 2.5,
+   "cumleler": [
+    "A continuación veremos la retroalimentación acústica, que causa silbidos, y el efecto de oclusión, que hace que la propia voz suene retumbante.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R470_Not_Every_Difference_Is_Fluctuation_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #470",
+  "baslik": "No toda *diferencia*",
+  "alt": "Comparar audiogramas seriados",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      45,
+      45,
+      35,
+      25,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      40,
+      40,
+      30,
+      25,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Toda diferencia entre dos audiogramas es una fluctuación? #shorts",
+  "aciklama": "Las mediciones repetidas en una misma persona suelen diferir en cinco decibeles o menos; diferencias tan pequeñas no cuentan como fluctuación. Los cambios repetidos de diez decibeles o más, en la misma dirección y en frecuencias contiguas, apuntan con más fuerza a una fluctuación real; que la vía ósea cambie en la misma dirección que la vía aérea confirma que el cambio es neurosensorial. Las mediciones seriadas se hacen con el mismo audiómetro, los mismos auriculares y el mismo método, y se registra el momento de cada medición en relación con una crisis.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "meniere",
+   "audiograma"
+  ],
+  "etiketler": [
+   "audiogramas seriados",
+   "hipoacusia fluctuante",
+   "enfermedad de Ménière",
+   "diferencia test-retest",
+   "vía ósea",
+   "caso clínico",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Toda diferencia entre dos audiogramas es una fluctuación?",
+  "bilgiler": [
+   "Las mediciones repetidas suelen diferir en 5 dB o menos.",
+   "Pesan más los cambios de 10 dB o más, en igual dirección y frecuencias contiguas.",
+   "Se registra el momento de cada prueba respecto de una crisis."
+  ],
+  "hashtag": [
+   "audiologia",
+   "meniere",
+   "audiograma"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #470",
+   "metin": "¿Toda diferencia *es fluctuación?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Toda diferencia entre dos audiogramas es una fluctuación?"
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "zincir",
+   "baslik": "Fluctuación *real*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Hasta 5 dB",
+     "tr": "no es fluctuación",
+     "cumle": 0
+    },
+    {
+     "ad": "10 dB o más",
+     "tr": "frecuencias contiguas",
+     "cumle": 1
+    },
+    {
+     "ad": "Vía ósea",
+     "tr": "misma dirección",
+     "cumle": 2
+    }
+   ],
+   "alt": "Mismo audiómetro, _mismo método_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Las mediciones repetidas en una persona suelen diferir en cinco decibeles o menos.",
+    "Pesan más los cambios de diez decibeles o más, en la misma dirección y en frecuencias contiguas.",
+    "Si la vía ósea cambia en igual sentido, se confirma que el cambio es neurosensorial.",
+    "También se registra el momento de cada prueba en relación con una crisis."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D275",
+ "kaynak_baslik": "Caso: hipoacusia fluctuante en graves y Ménière"
+}

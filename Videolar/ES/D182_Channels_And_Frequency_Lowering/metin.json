@@ -1,0 +1,875 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D182_Channels_And_Frequency_Lowering_ES",
+ "kapak": {
+  "ust": "LECCIÓN 182",
+  "baslik": "Canales y<br>*reducción de frecuencias*",
+  "alt": "Canal, banda, compresión, transposición",
+  "cizim": "koklea_acik",
+  "ayar": {
+   "frekans": 4000
+  }
+ },
+ "youtube": {
+  "baslik": "Canales, bandas y reducción de frecuencias | Lección 182 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué diferencia hay entre un canal y una banda en un audífono, y cómo se pueden trasladar las frecuencias agudas que no se oyen? En esta lección vemos el procesamiento multicanal, la pérdida en pendiente pronunciada y las zonas muertas cocleares, la compresión y la transposición de frecuencias, los candidatos y la verificación.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Dillon, Hearing Aids; Moore, Dead regions in the cochlea: conceptual foundations, diagnosis, and clinical applications, Ear and Hearing (2004); Vickers, Moore y Baer, Effects of low-pass filtering on the intelligibility of speech in quiet for people with and without dead regions at high frequencies, Journal of the Acoustical Society of America (2001); Glista y cols., Evaluation of nonlinear frequency compression: clinical outcomes, International Journal of Audiology (2009); Bor, Souza y Wright, Multichannel compression: effects of reduced spectral contrast on vowel identification, Journal of Speech, Language, and Hearing Research (2008).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "reducciondefrecuencias"
+  ],
+  "etiketler": [
+   "canales de audífonos",
+   "bandas de audífonos",
+   "compresión multicanal",
+   "reducción de frecuencias",
+   "compresión de frecuencias",
+   "transposición de frecuencias",
+   "zonas muertas cocleares",
+   "pérdida auditiva en pendiente",
+   "audífonos",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 182",
+   "baslik": "Canales y *reducción de frecuencias*",
+   "alt": "Canales, bandas, compresión y transposición de frecuencias",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos la diferencia entre canales y bandas en los audífonos, y qué significa el número de canales.",
+    "Luego revisaremos los métodos de reducción de frecuencias, que trasladan las frecuencias agudas difíciles de oír a regiones más graves."
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Canales y bandas",
+   "baslik": "¿Canal o *banda?*",
+   "ogeler": [
+    {
+     "ikon": "tablo",
+     "baslik": "Canal",
+     "cumle": 1,
+     "metin": "Región con su propia compresión"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Banda",
+     "cumle": 3,
+     "metin": "Región con ganancia ajustable"
+    }
+   ],
+   "cumleler": [
+    "Un audífono digital divide el sonido en una serie de regiones de frecuencia mediante bancos de filtros.",
+    "Un canal es una región de frecuencia con su propio umbral de compresión, relación de compresión y constantes de tiempo.",
+    "Así, en cada canal la ganancia cambia de forma independiente según el nivel de entrada de ese canal.",
+    "Una banda es una región de frecuencia cuya ganancia se puede ajustar por separado; los controles de la pantalla de ajuste fino suelen ser bandas.",
+    "Un audífono puede tener, por ejemplo, 20 bandas y 8 canales; varias bandas comparten los ajustes de compresión de un mismo canal.",
+    "Los fabricantes no siempre usan estos términos de la misma manera, así que conviene revisar la definición en la documentación del producto.",
+    "Lo que importa en la clínica es con qué detalle se puede modelar la ganancia y en cuántas regiones se puede ajustar la compresión por separado."
+   ]
+  },
+  {
+   "id": "kanallar",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Canales y bandas",
+   "baslik": "Procesamiento *multicanal*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 50,
+     "adim": 10,
+     "ad": "Ganancia (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "kazanc",
+      "noktalar": [
+       [
+        200,
+        6
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        18
+       ],
+       [
+        1500,
+        25
+       ],
+       [
+        2000,
+        32
+       ],
+       [
+        3000,
+        38
+       ],
+       [
+        4000,
+        40
+       ],
+       [
+        6000,
+        36
+       ],
+       [
+        8000,
+        28
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": 6,
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "kanal_1",
+      "x": [
+       200,
+       750
+      ],
+      "renk": "mavi",
+      "etiket": "1",
+      "cumle": 0
+     },
+     {
+      "ad": "kanal_2",
+      "x": [
+       750,
+       1500
+      ],
+      "renk": "sari",
+      "etiket": "2",
+      "cumle": 0
+     },
+     {
+      "ad": "kanal_3",
+      "x": [
+       1500,
+       3000
+      ],
+      "renk": "mavi",
+      "etiket": "3",
+      "cumle": 0
+     },
+     {
+      "ad": "kanal_4",
+      "x": [
+       3000,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "4",
+      "cumle": 0
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kanal_1",
+     "cumle": 1
+    },
+    {
+     "parca": "kanal_2",
+     "cumle": 2
+    },
+    {
+     "parca": "kanal_3",
+     "cumle": 2
+    },
+    {
+     "parca": "kanal_4",
+     "cumle": 3
+    },
+    {
+     "parca": "kanal_1",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En este ejemplo, el rango de frecuencias del audífono se divide en cuatro canales.",
+    "En el primer canal, el de frecuencias graves, la pérdida es pequeña, por lo que la ganancia también es pequeña.",
+    "En el segundo y el tercer canal, en las frecuencias medias, la ganancia aumenta de forma gradual.",
+    "En el cuarto canal, el de frecuencias agudas, la pérdida es mayor y en esta región se necesita la mayor ganancia.",
+    "Como cada canal responde a su propio nivel de entrada, un ruido intenso de frecuencia grave reduce solo la ganancia del primer canal.",
+    "Así, los sonidos agudos del habla que llegan al mismo tiempo no se atenúan innecesariamente.",
+    "El número y los límites de los canales se definen en el software del audífono y en algunos equipos se pueden modificar."
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Canales y bandas",
+   "baslik": "Número de *canales*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Modelado fino",
+     "cumle": 0,
+     "metin": "Mejor ajuste al audiograma"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Procesamiento local",
+     "cumle": 2,
+     "metin": "Ruido y retroalimentación"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Difuminación espectral",
+     "cumle": 4,
+     "metin": "Las claves vocálicas pueden debilitarse"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Rendimiento decreciente",
+     "cumle": 6,
+     "metin": "Más no siempre es mejor"
+    }
+   ],
+   "cumleler": [
+    "Más canales permiten ajustar la ganancia y la compresión con mayor precisión a la forma del audiograma.",
+    "Esto es especialmente útil en las pérdidas en pendiente pronunciada o con muesca.",
+    "La reducción de ruido y el manejo de la retroalimentación también pueden actuar solo en los canales problemáticos y dejar intactas las demás regiones.",
+    "Pero una compresión rápida e independiente en cada canal puede reducir las diferencias de nivel entre frecuencias.",
+    "Este aplanamiento espectral puede hacer menos nítidos los picos de los formantes que nos ayudan a distinguir las vocales.",
+    "En algunos diseños, el retardo de procesamiento también puede aumentar a medida que crece el número de canales.",
+    "Las investigaciones sugieren que, más allá de cierto número de canales, el beneficio adicional para la inteligibilidad del habla se reduce.",
+    "Por eso, el número de canales por sí solo no es una medida de la calidad de un audífono."
+   ]
+  },
+  {
+   "id": "dik",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "El problema de las frecuencias agudas",
+   "baslik": "Ejemplo: pérdida *en pendiente pronunciada*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: pérdida aguda severa",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: forma similar",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Graves casi normales",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       30,
+       70,
+       95,
+       100
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       35,
+       75,
+       95,
+       110
+      ],
+      "yanitsiz": [
+       5
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "Este audiograma de ejemplo muestra graves casi normales en ambos oídos y una pérdida que cae de forma pronunciada a partir de 1000 Hz.",
+    "La audición es buena hasta mil hertz; aquí se oyen con facilidad las vocales y el tono de voz del habla.",
+    "En cambio, a partir de cuatro mil hertz los umbrales son severos a profundos.",
+    "Con frecuencia no es posible hacer audible esta región con la ganancia convencional.",
+    "La ganancia tan alta que se necesita puede superar la potencia del receptor y provocar retroalimentación acústica.",
+    "Además, en una región con una pérdida tan severa, es posible que la propia cóclea no pueda procesar el sonido lo bastante bien.",
+    "Como resultado, consonantes agudas como la s, la sh y la f pueden no oírse ni siquiera con audífono."
+   ]
+  },
+  {
+   "id": "olu",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El problema de las frecuencias agudas",
+   "baslik": "Zona *muerta* coclear",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "base: frecuencias agudas",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "ápice: frecuencias graves",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Pérdida de células ciliadas internas o nervio",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Escucha a través de una región vecina",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Hasta unas 1,7 veces el borde",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "En algunas pérdidas severas, las células ciliadas internas o las fibras nerviosas de una región de la cóclea no funcionan; esto se llama zona muerta.",
+    "Como las frecuencias agudas se procesan en la base de la cóclea, en las pérdidas en pendiente pronunciada la zona muerta suele estar en la base.",
+    "El sonido que cae en esta región es captado por células de una región sana cercana; esto se llama escucha fuera de frecuencia.",
+    "Una zona muerta puede investigarse con la prueba del ruido igualador de umbral, o TEN; vimos los detalles en la lección sobre zonas muertas.",
+    {
+     "yazi": "Moore y sus colegas mostraron que dar ganancia hasta unas 1,7 veces la frecuencia del borde de la zona muerta puede ser útil.",
+     "ses": "Moore y sus colegas mostraron que dar ganancia hasta unas uno coma siete veces la frecuencia del borde de la zona muerta puede ser útil."
+    },
+    "Sin embargo, dar ganancia muy adentro de la zona muerta puede no mejorar la inteligibilidad, e incluso empeorarla en algunas personas.",
+    "En ese caso, se considera como opción trasladar la información de frecuencias agudas a una región sana."
+   ]
+  },
+  {
+   "id": "sikistirma",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Reducción de frecuencias",
+   "baslik": "Compresión de *frecuencias*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1000,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia de entrada (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 1000,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia de salida (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "seriler": [
+     {
+      "ad": "dogal",
+      "noktalar": [
+       [
+        1000,
+        1000
+       ],
+       [
+        10000,
+        10000
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "cumle": 2,
+      "etiket": "sin procesamiento",
+      "etiket_konum": [
+       6000,
+       6000
+      ],
+      "etiket_dx": -90,
+      "etiket_dy": -10
+     },
+     {
+      "ad": "sikistirma",
+      "noktalar": [
+       [
+        1000,
+        1000
+       ],
+       [
+        2500,
+        2500
+       ],
+       [
+        4000,
+        3162
+       ],
+       [
+        6000,
+        3873
+       ],
+       [
+        8000,
+        4472
+       ],
+       [
+        10000,
+        5000
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 6,
+      "cumle": 4,
+      "etiket": "compresión",
+      "etiket_konum": [
+       8000,
+       4472
+      ],
+      "etiket_dx": -40,
+      "etiket_dy": 30
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kesim",
+      "x": 2500,
+      "y": 2500,
+      "dus": "x",
+      "etiket": "frecuencia de corte",
+      "renk": "kirmizi",
+      "cumle": 3
+     },
+     {
+      "ad": "son",
+      "x": 10000,
+      "y": 5000,
+      "dus": "y",
+      "etiket": "de 10 kHz a 5 kHz",
+      "renk": "lacivert",
+      "cumle": 5,
+      "dx": -60
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kesim",
+     "cumle": 3
+    },
+    {
+     "parca": "sikistirma",
+     "cumle": 4
+    },
+    {
+     "parca": "son",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Una de las formas más comunes de reducción de frecuencias es la compresión no lineal de frecuencias.",
+    "En el gráfico, el eje horizontal muestra la frecuencia del sonido que entra, y el eje vertical, la frecuencia que entrega el audífono.",
+    "La línea discontinua muestra que, sin procesamiento, las frecuencias no cambian.",
+    "Los sonidos por debajo de la frecuencia de corte no se modifican; en este ejemplo, la frecuencia de corte es de 2500 Hz.",
+    "La región por encima de la frecuencia de corte se comprime en un rango más estrecho.",
+    "En este ejemplo, la información que llega hasta 10 kilohertz se acomoda por debajo de 5 kilohertz.",
+    "Como las frecuencias graves se conservan, las vocales y la calidad de la voz cambian poco.",
+    "A medida que aumenta la relación de compresión y baja la frecuencia de corte, la s se oye con más facilidad, pero la calidad del sonido cambia más."
+   ]
+  },
+  {
+   "id": "aktarma",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Reducción de frecuencias",
+   "baslik": "Transposición de *frecuencias*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 500,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 60,
+     "adim": 20,
+     "ad": "Nivel relativo (dB)"
+    },
+    "bolgeler": [
+     {
+      "ad": "kaynak",
+      "x": [
+       4000,
+       8000
+      ],
+      "renk": "kirmizi",
+      "etiket": "región inaudible",
+      "cumle": 1
+     },
+     {
+      "ad": "hedef",
+      "x": [
+       2000,
+       4000
+      ],
+      "renk": "mavi",
+      "etiket": "región de destino",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kayma",
+      "x": [
+       2800,
+       5600
+      ],
+      "y": 30,
+      "etiket": "una octava más abajo",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kaynak",
+     "cumle": 1
+    },
+    {
+     "parca": "kayma",
+     "cumle": 2
+    },
+    {
+     "parca": "hedef",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El segundo enfoque es la transposición de frecuencias.",
+    "Aquí se selecciona la energía de la región aguda inaudible.",
+    "Esta región se desplaza, por lo general alrededor de una octava hacia abajo, a una región vecina donde la audición es mejor.",
+    "El sonido desplazado se mezcla con el sonido natural de esa región.",
+    "A diferencia de la compresión, las relaciones entre frecuencias se conservan, pero el sonido desplazado se superpone a la región más grave.",
+    "Un tercer enfoque copia la información de frecuencias agudas y la añade a una región más grave; también se le llama traslación de frecuencias.",
+    "El objetivo de todos los métodos es el mismo: llevar la información que la persona no oye a una región que sí puede oír.",
+    "Los detalles y los nombres de estos métodos varían de un fabricante a otro."
+   ]
+  },
+  {
+   "id": "yontemler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Reducción de frecuencias",
+   "baslik": "Tres *enfoques*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Compresión",
+     "cumle": 0,
+     "metin": "Se estrecha la región superior"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Transposición",
+     "cumle": 2,
+     "metin": "La región se desplaza hacia abajo"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Copiar y añadir",
+     "cumle": 4,
+     "metin": "Información añadida más abajo"
+    }
+   ],
+   "cumleler": [
+    "En resumen, en la compresión de frecuencias se estrecha la región por encima del corte y se conserva la región grave.",
+    "En este enfoque, la información de frecuencias agudas mantiene su orden, pero cambian las relaciones de frecuencia entre los componentes.",
+    "En la transposición de frecuencias, la región seleccionada se desplaza hacia abajo y se mezcla con el sonido natural que hay allí.",
+    "Este enfoque conserva las relaciones, pero añade un sonido nuevo a la región grave.",
+    "En el enfoque de copiar y añadir, la información de frecuencias agudas se queda en su lugar mientras se añade una copia más abajo.",
+    "No se ha demostrado que ningún método sea claramente superior para todos; la elección se hace según cada persona y cada equipo."
+   ]
+  },
+  {
+   "id": "aday",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "¿Para quién y cómo?",
+   "baslik": "¿Quién es *candidato?*",
+   "maddeler": [
+    {
+     "metin": "Pérdida aguda severa en pendiente pronunciada",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Región aguda inaudible pese a la ganancia",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Audibilidad de s y sh en niños",
+     "cumle": 3,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "No es para todos; decisión individual",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "cumle": 0,
+    "ayar": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        15,
+        20,
+        30,
+        70,
+        95,
+        100
+       ],
+       "cumle": 0
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "La reducción de frecuencias se considera sobre todo en personas con una pérdida aguda en pendiente pronunciada, severa o profunda.",
+    "La condición previa es que la información de frecuencias agudas no pueda hacerse lo bastante audible con la amplificación convencional.",
+    "La sospecha de una zona muerta, o una región que no puede recibir ganancia por la retroalimentación, también respalda esta decisión.",
+    "En los niños, oír sonidos como la s y la sh es importante para aprender las terminaciones del plural y la gramática.",
+    {
+     "yazi": "En un estudio de 2009 de Glista y sus colegas, los niños se beneficiaron de la compresión de frecuencias más claramente que los adultos."
+    },
+    "Pero en las pérdidas leves y moderadas, o en personas cuyas frecuencias agudas ya pueden hacerse audibles, el beneficio no está claro.",
+    "Un ajuste demasiado fuerte puede hacer que la s y la sh se confundan y degradar la calidad del sonido."
+   ]
+  },
+  {
+   "id": "dogrulama",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "¿Para quién y cómo?",
+   "baslik": "Ajuste y *verificación*",
+   "adimlar": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Primero, el ancho de banda",
+     "cumle": 0,
+     "metin": "Ganancia convencional"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Medir la audibilidad",
+     "cumle": 1,
+     "metin": "Mapeo del habla"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Ajuste más suave",
+     "cumle": 3,
+     "metin": "Aumentar de forma gradual"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Verificar la s",
+     "cumle": 4,
+     "metin": "Señal de prueba especial"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Control conductual",
+     "cumle": 5,
+     "metin": "Contraste entre s y sh"
+    }
+   ],
+   "cumleler": [
+    "El primer paso, antes de activar la reducción de frecuencias, es lograr el mayor ancho de banda posible con la ganancia convencional.",
+    "Luego, el mapeo del habla en oído real mide cuánta información de frecuencias agudas es audible.",
+    "Si no es suficiente, se considera la reducción de frecuencias.",
+    "Por lo general se empieza con el ajuste más suave que brinde audibilidad y, si hace falta, se intensifica paso a paso.",
+    "Para la verificación se usan señales de prueba especiales parecidas a la s, para comprobar si el sonido reducido supera el umbral en el oído.",
+    "La discriminación también se comprueba de forma conductual con la prueba de los sonidos de Ling o con palabras que contienen s y sh.",
+    "También se hace seguimiento de la calidad del sonido y de la opinión de la persona; los niños, en particular, se reevalúan al cabo de un tiempo."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "No actives la reducción de frecuencias en su ajuste más fuerte como recurso de emergencia. Prueba primero el ancho de banda, luego el ajuste eficaz más suave, y verifícalo.",
+   "cumleler": [
+    "Un consejo de la práctica: no uses la reducción de frecuencias como atajo para compensar la ganancia aguda que falta.",
+    "Primero comprueba, con una medición en oído real, hasta dónde puedes llegar con la ganancia convencional.",
+    "Si se necesita reducción de frecuencias, busca el ajuste más suave que haga audible la s.",
+    "Explica a la persona o a la familia que al principio los sonidos pueden parecer distintos y que el cerebro puede tardar en adaptarse.",
+    "En la cita de control, vuelve a evaluar el contraste entre la s y la sh y la calidad del sonido."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Canal: compresión; banda: ajuste de ganancia",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Más canales no siempre es mejor",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Dar ganancia en zonas muertas ayuda poco",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Reducción: compresión y transposición",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que un canal es una región de frecuencia con sus propios ajustes de compresión, y una banda, una con ganancia ajustable.",
+    "Más canales facilitan el ajuste fino, pero más allá de cierto número el beneficio adicional disminuye.",
+    "En las pérdidas en pendiente pronunciada y en las zonas muertas, hacer audibles las frecuencias agudas con ganancia tiene límites.",
+    "La compresión y la transposición de frecuencias llevan esta información a una región audible; se ajustan con cuidado y se verifican."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué región tiene sus propios ajustes de compresión?",
+   "secenekler": [
+    "Banda",
+    "Canal",
+    "Frecuencia de corte",
+    "Zona muerta"
+   ],
+   "dogru": 1,
+   "aciklama": "Un _canal_ es una región de frecuencia con su propio umbral y relación de compresión.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en un audífono, ¿cómo se llama una región de frecuencia con su propio umbral y relación de compresión?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: un canal.",
+    "Una banda es una región cuya ganancia se ajusta por separado; varias bandas pueden compartir los ajustes de compresión de un mismo canal."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Micrófonos direccionales y *reducción de ruido*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos los micrófonos direccionales y la reducción digital de ruido, que ayudan a entender el habla en el ruido.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

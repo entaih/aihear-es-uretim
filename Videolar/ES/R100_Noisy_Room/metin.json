@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R100_Noisy_Room_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #100",
+  "baslik": "Una sala ruidosa *engaña*",
+  "alt": "El ruido ambiental eleva los umbrales en frecuencias bajas",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Una sala ruidosa puede alterar una prueba auditiva? #shorts",
+  "aciklama": "La mayor parte de la energía del ruido ambiental está en las frecuencias bajas; enmascara los tonos de prueba y hace que los umbrales parezcan peores de lo que son. Al repetir la prueba en una cabina adecuada, la misma persona puede tener umbrales dentro de límites normales.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audiometria",
+   "pruebaauditiva"
+  ],
+  "etiketler": [
+   "cabina sonoamortiguada",
+   "ruido ambiental",
+   "audiometría",
+   "prueba auditiva",
+   "umbral auditivo",
+   "clínica de audiología",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Una sala ruidosa puede alterar una prueba auditiva?",
+  "bilgiler": [
+   "La mayor parte de la energía del ruido ambiental está en frecuencias bajas.",
+   "El ruido enmascara los tonos de prueba; los umbrales parecen peores.",
+   "En una cabina adecuada, la misma persona puede tener umbrales normales."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audiometria",
+   "pruebaauditiva"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #100",
+   "metin": "¿Una sala ruidosa puede *alterar la prueba?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Una sala ruidosa puede alterar una prueba auditiva?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Ruido *ambiental*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Ruido",
+     "tr": "energía de baja frecuencia",
+     "cumle": 0
+    },
+    {
+     "ad": "Enmascara",
+     "tr": "tonos de prueba",
+     "cumle": 1
+    },
+    {
+     "ad": "Umbral",
+     "tr": "parece peor",
+     "cumle": 1,
+     "gecikme": 1.4
+    }
+   ],
+   "alt": "En una cabina adecuada, el resultado puede ser _normal_.",
+   "alt_cumle": 2,
+   "cumleler": [
+    "La mayor parte de la energía del ruido ambiental está en las frecuencias bajas.",
+    "Este ruido enmascara los tonos de prueba, así que los umbrales parecen peores de lo que son.",
+    "En una cabina adecuada, la misma persona puede tener umbrales dentro de límites normales.",
+    "El corazón de la evaluación audiológica es la cabina sonoamortiguada."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D007",
+ "kaynak_baslik": "Dentro de una clínica de audiología: cabina y equipos"
+}

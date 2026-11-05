@@ -1,0 +1,737 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D070_Otosclerosis_ES",
+ "kapak": {
+  "ust": "LECCIÓN 70",
+  "baslik": "*Otosclerosis*<br>y muesca de Carhart",
+  "alt": "Fijación del estribo y hallazgos audiométricos",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      45,
+      45,
+      40,
+      45
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      10,
+      15,
+      30,
+      15
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Otosclerosis: fijación del estribo y muesca de Carhart | Lección 70 | AIHEAR Academia de Audiología",
+  "aciklama": "La otosclerosis fija la platina del estribo en la ventana oval y causa una hipoacusia conductiva progresiva. En esta lección, con datos de ejemplo, vemos el cuadro clínico de la otosclerosis, su audiograma típico, la muesca de Carhart, los hallazgos de la timpanometría y del reflejo acústico, y las opciones quirúrgicas y de audífonos.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin and Clark, Introduction to Audiology; Cummings Otolaryngology: Head and Neck Surgery.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "otosclerosis",
+   "audicion"
+  ],
+  "etiketler": [
+   "otosclerosis",
+   "muesca de Carhart",
+   "fijación del estribo",
+   "estapedotomía",
+   "platina del estribo",
+   "hipoacusia conductiva",
+   "brecha aéreo-ósea",
+   "reflejo acústico",
+   "timpanograma",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 70",
+   "baslik": "*Otosclerosis*: fijación del estribo y muesca de Carhart",
+   "alt": "Fijación del estribo, hallazgos audiométricos y opciones de tratamiento",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección estudiamos la otosclerosis, una enfermedad en la que el estribo pierde su capacidad de moverse.",
+    "También hablaremos de la muesca de Carhart en el audiograma, de otros hallazgos de las pruebas y de las opciones de tratamiento."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Naturaleza de la enfermedad",
+   "baslik": "¿Qué es la *otosclerosis?*",
+   "maddeler": [
+    {
+     "metin": "Formación ósea _anormal_ en la cápsula ótica",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sitio más frecuente: delante de la _ventana oval_",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "La platina del estribo se _fija_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Resultado: pérdida _conductiva_ progresiva",
+     "cumle": 5,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Compromiso coclear: pérdida _mixta_",
+     "cumle": 6,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "oval_pencere",
+      "cumle": 2
+     },
+     {
+      "parca": "stapes",
+      "cumle": 3
+     },
+     {
+      "parca": "koklea",
+      "cumle": 6
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "oval_pencere",
+      "metin": "Ventana oval",
+      "cumle": 2
+     },
+     {
+      "parca": "stapes",
+      "metin": "Platina del estribo",
+      "cumle": 3
+     },
+     {
+      "parca": "koklea",
+      "metin": "Cóclea",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "La otosclerosis es una enfermedad de remodelación ósea de la cápsula ótica, el hueso que rodea el oído interno.",
+    "En este hueso duro, que normalmente se renueva muy poco, se forman focos de hueso nuevo esponjoso.",
+    "Los focos suelen comenzar justo delante de la ventana oval, en una pequeña zona llamada fissula ante fenestram.",
+    "Este hueso nuevo fija a la ventana oval la base del estribo, la parte llamada platina.",
+    "Normalmente, el estribo se mueve hacia dentro y hacia fuera como un pistón y transmite la vibración a los líquidos del oído interno.",
+    "Un estribo fijo no puede hacer este movimiento, por lo que aparece una hipoacusia conductiva que progresa con el tiempo.",
+    "Si los focos se extienden a la cóclea, se suma un componente neurosensorial y la pérdida puede volverse mixta."
+   ]
+  },
+  {
+   "id": "sema",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Naturaleza de la enfermedad",
+   "baslik": "El estribo y la *ventana oval*",
+   "cizim": "orta_kulak",
+   "vurgula": [
+    {
+     "parca": "stapes",
+     "cumle": 0
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "stapes",
+     "metin": "estribo",
+     "cumle": 0
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "ventana oval",
+     "cumle": 1
+    },
+    {
+     "parca": "malleus",
+     "metin": "martillo",
+     "cumle": 2
+    },
+    {
+     "parca": "incus",
+     "metin": "yunque",
+     "cumle": 2
+    },
+    {
+     "parca": "stapedius",
+     "metin": "músculo estapedio",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Una platina fija debilita la vibración",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Membrana timpánica generalmente normal",
+     "cumle": 5,
+     "ikon": "otoskop"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "oval_pencere",
+     "cumle": 1,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 2
+    },
+    {
+     "parca": "stapes",
+     "cumle": 3,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El esquema muestra el oído medio; el huesecillo resaltado es el estribo.",
+    "La platina del estribo se aloja en la ventana oval y está sostenida de forma flexible por el ligamento anular.",
+    "El sonido llega al estribo desde la membrana timpánica a través del martillo y el yunque.",
+    "En la otosclerosis se forma hueso alrededor de este ligamento, y la platina se inmoviliza gradualmente.",
+    "El músculo estapedio también se inserta en el estribo, por lo que el reflejo acústico también se afecta; volveremos a esto en breve.",
+    "La membrana timpánica, en cambio, suele verse normal; la otoscopia a menudo no muestra alteraciones."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Cuadro clínico",
+   "baslik": "¿A quién afecta y *cómo?*",
+   "maddeler": [
+    {
+     "metin": "Sobre todo entre _20 y 40 años_",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Cerca del _doble de frecuente_ en mujeres",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Ambos oídos_ en la mayoría",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Antecedentes familiares y _tinnitus_ frecuentes",
+     "cumle": 3,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Mejor comprensión en ruido",
+     "cumle": 5,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "La otosclerosis suele dar síntomas en la adultez temprana, entre los veinte y los cuarenta años.",
+    "Se describe cerca del doble de veces en mujeres que en hombres, y la pérdida puede progresar durante el embarazo.",
+    "En la mayoría de los pacientes se afectan ambos oídos, pero la pérdida puede no avanzar al mismo ritmo en los dos lados.",
+    "Son frecuentes los antecedentes familiares de una pérdida auditiva similar, y muchos pacientes tienen tinnitus, o zumbido en los oídos.",
+    "La enfermedad es indolora y no hay secreción del oído; esto ayuda a diferenciarla de la enfermedad crónica del oído medio.",
+    {
+     "yazi": "Algunos pacientes dicen que entienden mejor el habla en lugares ruidosos; esto se llama paracusia de Willis.",
+     "ses": "Algunos pacientes dicen que entienden mejor el habla en lugares ruidosos; esto se llama paracusia de Uílis."
+    },
+    "Esto se debe a que el interlocutor eleva la voz en el ruido, mientras que el ruido llega al paciente atenuado por la pérdida conductiva.",
+    {
+     "yazi": "En la fase activa, a veces se ve un tinte rosado detrás del tímpano; se llama signo de Schwartze.",
+     "ses": "En la fase activa, a veces se ve un tinte rosado detrás del tímpano; se llama signo de Shuártse."
+    }
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos en el audiograma",
+   "baslik": "Un *audiograma* típico",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Vía aérea_: oído derecho",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Vía ósea enmascarada_: oído derecho",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       45,
+       45,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       15,
+       30,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      50
+     ],
+     "etiket": "40 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, los umbrales por vía aérea del oído derecho están entre cuarenta y cincuenta decibeles.",
+    "Los umbrales por vía ósea, medidos con el oído contrario enmascarado, están en gran parte dentro del rango normal.",
+    "En las frecuencias bajas, la brecha aéreo-ósea es de unos cuarenta decibeles; aquí la pérdida es más marcada.",
+    "La causa es el aumento de la rigidez; la rigidez reduce sobre todo la transmisión de las frecuencias bajas.",
+    "Por eso, la otosclerosis inicial suele mostrar una pérdida conductiva ascendente, más marcada en las frecuencias bajas.",
+    "A medida que avanza la enfermedad, la pérdida se aplana, y la brecha aéreo-ósea puede llegar como máximo a unos sesenta decibeles."
+   ]
+  },
+  {
+   "id": "carhart",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos en el audiograma",
+   "baslik": "La muesca de *Carhart*",
+   "lejant": [
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Vía ósea_: caída en 2000 Hz",
+     "cumle": 0
+    },
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Vía aérea: pérdida _conductiva_",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       45,
+       45,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       15,
+       30,
+       15
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Ahora veamos con más detalle los umbrales por vía ósea; en dos mil hertz, el umbral cae a treinta decibeles.",
+    "Esta caída se llama muesca de Carhart, por Raymond Carhart, que la describió en mil novecientos cincuenta.",
+    "La muesca es más marcada alrededor de dos mil hertz, donde la vía ósea suele empeorar unos quince decibeles.",
+    "El punto clave es este: la caída no es una verdadera pérdida coclear, sino un efecto mecánico.",
+    "Parte de la audición por vía ósea proviene de un componente del oído medio que depende de la inercia de la cadena osicular.",
+    "Cuando la cadena está fija, este componente se pierde, y se afecta más la región de dos mil hertz, cercana a la resonancia de la cadena.",
+    "Lo confirma el hecho de que los umbrales por vía ósea en esta región suelen mejorar tras una cirugía del estribo exitosa.",
+    "Por eso, la muesca de Carhart por sí sola no debe interpretarse como una pérdida neurosensorial."
+   ]
+  },
+  {
+   "id": "mikst",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Hallazgos en el audiograma",
+   "baslik": "Etapa avanzada: pérdida *mixta*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Vía aérea_: 60 a 70 dB HL",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Vía ósea_: bajo lo normal",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       65,
+       65,
+       60,
+       60,
+       65,
+       70
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       30,
+       30,
+       35,
+       45,
+       40
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      30,
+      65
+     ],
+     "etiket": "35 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Cuando la enfermedad avanza y afecta también la cóclea, el cuadro puede cambiar.",
+    "En este ejemplo, los umbrales por vía aérea están entre sesenta y setenta decibeles.",
+    "Los umbrales por vía ósea enmascarada también han descendido por debajo del rango normal, a entre treinta y cuarenta y cinco decibeles.",
+    "La brecha aéreo-ósea persiste, así que se trata de una pérdida mixta con un componente conductivo y otro neurosensorial.",
+    "Un cuadro así puede verse en la otosclerosis coclear, en la que los focos afectan también la cóclea.",
+    "Si el descenso de la vía ósea no se limita a dos mil hertz, no puede explicarse adecuadamente por la muesca de Carhart."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Batería de pruebas",
+   "baslik": "Otros *hallazgos* de las pruebas",
+   "ogeler": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia",
+     "metin": "Generalmente normal",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanograma",
+     "metin": "A o As",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Reflejo acústico",
+     "metin": "Generalmente _ausente_",
+     "cumle": 3
+    },
+    {
+     "ikon": "diyapazon",
+     "baslik": "Rinne (512 Hz)",
+     "metin": "Negativo",
+     "cumle": 5
+    },
+    {
+     "ikon": "diyapazon",
+     "baslik": "Weber",
+     "metin": "Hacia el peor oído",
+     "cumle": 6
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Reconocimiento de palabras",
+     "metin": "Generalmente bueno",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "Ante la sospecha de otosclerosis, no miramos una sola prueba, sino cómo encajan los hallazgos entre sí.",
+    {
+     "yazi": "El timpanograma suele ser tipo A; si el pico se mantiene bajo por la rigidez, puede verse un tipo As."
+    },
+    "Por eso, un timpanograma de aspecto normal no descarta la otosclerosis en un paciente con brecha aéreo-ósea.",
+    "El reflejo acústico suele estar ausente en el oído afectado: al contraerse el músculo, la cadena fija no produce un cambio medible de admitancia.",
+    "En las fases iniciales pueden verse breves deflexiones en sentido opuesto al inicio y al final del reflejo.",
+    "En las pruebas con diapasón, si hay una brecha aéreo-ósea clara, la prueba de Rinne es negativa.",
+    "En la prueba de Weber, el sonido se lateraliza hacia el oído con mayor pérdida conductiva.",
+    "Mientras la cóclea no esté afectada, los puntajes de reconocimiento de palabras suelen ser buenos."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Si una brecha aéreo-ósea se acompaña de un timpanograma tipo A, evalúa siempre el reflejo acústico. Si el reflejo está presente, considera también las condiciones de tercera ventana.",
+   "cumleler": [
+    "Este es un consejo útil en la clínica.",
+    "En un paciente con brecha aéreo-ósea pero timpanograma tipo A, evalúa siempre el reflejo acústico.",
+    "En la otosclerosis, el reflejo medido en el oído afectado suele estar ausente.",
+    "Si hay reflejo, deben considerarse también las condiciones de tercera ventana del oído interno, como la dehiscencia del canal semicircular superior.",
+    "Esta distinción es información valiosa para la decisión del médico sobre estudios adicionales."
+   ]
+  },
+  {
+   "id": "tedavi",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 5",
+   "bolum": "Opciones de tratamiento",
+   "baslik": "¿Cirugía o *audífonos?*",
+   "sol": {
+    "ust": "Cirugía del estribo",
+    "maddeler": [
+     {
+      "metin": "Estapedotomía: pequeño orificio en la platina",
+      "cumle": 1
+     },
+     {
+      "metin": "Se coloca una prótesis de pistón",
+      "cumle": 2
+     },
+     {
+      "metin": "La brecha suele cerrarse",
+      "cumle": 4
+     },
+     {
+      "metin": "Rara vez, pérdida neurosensorial",
+      "cumle": 5
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Opciones de dispositivos",
+    "maddeler": [
+     {
+      "metin": "Sin riesgo quirúrgico",
+      "cumle": 6
+     },
+     {
+      "metin": "Buen beneficio en pérdida conductiva",
+      "cumle": 6
+     },
+     {
+      "metin": "Implante coclear en pérdida avanzada",
+      "cumle": 7
+     }
+    ]
+   },
+   "cumleler": [
+    "La decisión de tratamiento corresponde al médico; el audiólogo aporta las mediciones necesarias para esa decisión.",
+    "En cirugía, la estapedotomía es hoy el procedimiento más frecuente; se hace un pequeño orificio en la platina del estribo.",
+    "En este orificio se coloca una delgada prótesis de pistón colgada del yunque, y la vibración vuelve a llegar al oído interno.",
+    "El procedimiento más antiguo, en el que se retira la mayor parte de la platina, se llama estapedectomía.",
+    "En manos expertas, la brecha aéreo-ósea se cierra notablemente en la gran mayoría de los pacientes.",
+    "Pero un pequeño número de pacientes puede presentar una pérdida neurosensorial permanente; este riesgo se aborda abiertamente en la orientación.",
+    "Si el paciente no quiere o no es candidato a cirugía, el audífono es una buena opción, porque la ganancia se aprovecha bien en la pérdida conductiva.",
+    "Si la pérdida se ha vuelto muy severa, también puede considerarse un implante coclear."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Opciones de tratamiento",
+   "baslik": "El *papel* del audiólogo",
+   "maddeler": [
+    {
+     "metin": "La vía ósea _enmascarada_ es esencial",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Pérdida bilateral: el _dilema de enmascaramiento_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "_Registro basal_ preoperatorio",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Después, vigilar la _vía ósea_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "MEDIDA DE ÉXITO",
+    "metin": "Brecha aéreo-ósea posoperatoria de *10 dB* o menos",
+    "cumle": 5
+   },
+   "cumleler": [
+    "En la otosclerosis es muy importante un umbral por vía ósea preciso, por eso la vía ósea se mide con el oído contrario enmascarado.",
+    "La magnitud de la brecha aéreo-ósea es el principal indicador de la ganancia que puede esperarse de la cirugía.",
+    "Si ambos oídos tienen una pérdida conductiva grande, puede surgir un dilema de enmascaramiento; lo veremos en las lecciones de enmascaramiento.",
+    "El audiograma preoperatorio es el registro basal para comparar con los resultados posoperatorios.",
+    "En los controles posoperatorios miramos tanto el cierre de la brecha aéreo-ósea como la conservación de la vía ósea.",
+    "Una brecha aéreo-ósea de diez decibeles o menos es una medida de éxito muy utilizada.",
+    "Si el paciente refiere una caída súbita de la audición o mareo tras la cirugía, se deriva al médico sin demora."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "La otosclerosis fija la _platina del estribo_",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Pérdida _conductiva_ con predominio en graves",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Muesca de Carhart_: caída mecánica de vía ósea",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Reflejo ausente, timpanograma _A o As_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "En la otosclerosis, el hueso nuevo de la cápsula ótica fija la platina del estribo a la ventana oval.",
+    "El resultado es una pérdida conductiva progresiva, más marcada en las frecuencias bajas en la etapa inicial.",
+    "La muesca de Carhart es una caída mecánica de la vía ósea alrededor de dos mil hertz que a menudo mejora con la cirugía.",
+    {
+     "yazi": "Un reflejo acústico ausente y un timpanograma tipo A o As completan el cuadro."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Qué refleja la muesca de Carhart?",
+   "secenekler": [
+    "Pérdida de células ciliadas",
+    "Un efecto mecánico del oído medio",
+    "Daño del nervio auditivo",
+    "Un error de medición"
+   ],
+   "dogru": 1,
+   "aciklama": "Cuando la cadena está fija, se pierde el _componente de oído medio_ de la vía ósea; la muesca suele mejorar tras una cirugía exitosa.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué refleja la muesca de Carhart en la otosclerosis?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: refleja un efecto mecánico del oído medio.",
+    "Cuando la cadena está fija, se pierde el componente de oído medio de la vía ósea; por eso la muesca suele mejorar tras una cirugía exitosa."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Disrupción* osicular y trauma del oído medio",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección estudiaremos la disrupción de la cadena osicular y el trauma del oído medio.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

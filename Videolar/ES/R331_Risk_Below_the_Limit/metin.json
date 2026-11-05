@@ -1,0 +1,132 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R331_Risk_Below_the_Limit_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #331",
+  "baslik": "Riesgo *bajo el límite*",
+  "alt": "La estimación de riesgo de NIOSH",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      30,
+      50,
+      40,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      35,
+      55,
+      45,
+      25
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Mantenerse bajo el límite de ruido elimina el riesgo? #shorts",
+  "aciklama": "Ningún valor límite lleva el riesgo a cero; solo lo reduce a un nivel aceptable. Según el documento de criterios de NIOSH de 1998, a lo largo de una vida laboral de 40 años el exceso de riesgo de pérdida auditiva es de cerca del 8 por ciento incluso a 85 dB(A), y de cerca del 25 por ciento a 90 dB(A).",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "ruido",
+   "saludocupacional"
+  ],
+  "etiketler": [
+   "NIOSH",
+   "exposición al ruido",
+   "límite de exposición",
+   "hipoacusia inducida por ruido",
+   "control audiométrico",
+   "salud ocupacional",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Mantenerse bajo el límite de ruido elimina el riesgo?",
+  "bilgiler": [
+   "Ningún valor límite lleva el riesgo a cero.",
+   "NIOSH: en 40 años, el exceso de riesgo a 85 dB(A) es de cerca del 8 %.",
+   "A 90 dB(A), sube a cerca del 25 %."
+  ],
+  "hashtag": [
+   "audiologia",
+   "ruido",
+   "saludocupacional"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #331",
+   "metin": "¿Riesgo *cero?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Mantenerse bajo el límite de ruido elimina el riesgo?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Exceso de riesgo *en 40 años*",
+   "sayi": "8",
+   "birim": "%",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Ningún valor límite lleva el riesgo a cero, solo a un nivel aceptable.",
+    "NIOSH, una agencia de investigación de Estados Unidos, estimó el riesgo en una vida laboral de 40 años.",
+    "Incluso a 85 decibeles A, el exceso de riesgo es de cerca del 8 por ciento.",
+    "A 90 decibeles A, sube a cerca del 25 por ciento.",
+    "Por eso, el seguimiento y la capacitación importan incluso por debajo de los valores de acción."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D222",
+ "kaynak_baslik": "Límites de exposición al ruido: 80, 85 y 87 dB(A)"
+}

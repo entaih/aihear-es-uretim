@@ -1,0 +1,1544 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D118_Biostatistics_Basics_ES",
+ "kapak": {
+  "ust": "LECCIÓN 118",
+  "baslik": "Media y<br>*desviación estándar*",
+  "alt": "Introducción a la bioestadística",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 4.8,
+    "max": 6.4,
+    "ad": "Latencia de la onda V (ms)",
+    "isaretler": [
+     5.0,
+     5.2,
+     5.4,
+     5.6,
+     5.8,
+     6.0,
+     6.2
+    ],
+    "ond": 1
+   },
+   "y": {
+    "min": 0,
+    "max": 1.15,
+    "adim": 0.5,
+    "yazisiz": true,
+    "ad": "Número de personas (relativo)"
+   },
+   "seriler": [
+    {
+     "ad": "egri",
+     "noktalar": [
+      [
+       4.8,
+       0.0003
+      ],
+      [
+       4.82,
+       0.0005
+      ],
+      [
+       4.84,
+       0.0007
+      ],
+      [
+       4.86,
+       0.0011
+      ],
+      [
+       4.88,
+       0.0015
+      ],
+      [
+       4.9,
+       0.0022
+      ],
+      [
+       4.92,
+       0.0031
+      ],
+      [
+       4.94,
+       0.0043
+      ],
+      [
+       4.96,
+       0.006
+      ],
+      [
+       4.98,
+       0.0082
+      ],
+      [
+       5.0,
+       0.0111
+      ],
+      [
+       5.02,
+       0.0149
+      ],
+      [
+       5.04,
+       0.0198
+      ],
+      [
+       5.06,
+       0.0261
+      ],
+      [
+       5.08,
+       0.034
+      ],
+      [
+       5.1,
+       0.0439
+      ],
+      [
+       5.12,
+       0.0561
+      ],
+      [
+       5.14,
+       0.071
+      ],
+      [
+       5.16,
+       0.0889
+      ],
+      [
+       5.18,
+       0.1103
+      ],
+      [
+       5.2,
+       0.1353
+      ],
+      [
+       5.22,
+       0.1645
+      ],
+      [
+       5.24,
+       0.1979
+      ],
+      [
+       5.26,
+       0.2357
+      ],
+      [
+       5.28,
+       0.278
+      ],
+      [
+       5.3,
+       0.3247
+      ],
+      [
+       5.32,
+       0.3753
+      ],
+      [
+       5.34,
+       0.4296
+      ],
+      [
+       5.36,
+       0.4868
+      ],
+      [
+       5.38,
+       0.5461
+      ],
+      [
+       5.4,
+       0.6065
+      ],
+      [
+       5.42,
+       0.667
+      ],
+      [
+       5.44,
+       0.7261
+      ],
+      [
+       5.46,
+       0.7827
+      ],
+      [
+       5.48,
+       0.8353
+      ],
+      [
+       5.5,
+       0.8825
+      ],
+      [
+       5.52,
+       0.9231
+      ],
+      [
+       5.54,
+       0.956
+      ],
+      [
+       5.56,
+       0.9802
+      ],
+      [
+       5.58,
+       0.995
+      ],
+      [
+       5.6,
+       1.0
+      ],
+      [
+       5.62,
+       0.995
+      ],
+      [
+       5.64,
+       0.9802
+      ],
+      [
+       5.66,
+       0.956
+      ],
+      [
+       5.68,
+       0.9231
+      ],
+      [
+       5.7,
+       0.8825
+      ],
+      [
+       5.72,
+       0.8353
+      ],
+      [
+       5.74,
+       0.7827
+      ],
+      [
+       5.76,
+       0.7261
+      ],
+      [
+       5.78,
+       0.667
+      ],
+      [
+       5.8,
+       0.6065
+      ],
+      [
+       5.82,
+       0.5461
+      ],
+      [
+       5.84,
+       0.4868
+      ],
+      [
+       5.86,
+       0.4296
+      ],
+      [
+       5.88,
+       0.3753
+      ],
+      [
+       5.9,
+       0.3247
+      ],
+      [
+       5.92,
+       0.278
+      ],
+      [
+       5.94,
+       0.2357
+      ],
+      [
+       5.96,
+       0.1979
+      ],
+      [
+       5.98,
+       0.1645
+      ],
+      [
+       6.0,
+       0.1353
+      ],
+      [
+       6.02,
+       0.1103
+      ],
+      [
+       6.04,
+       0.0889
+      ],
+      [
+       6.06,
+       0.071
+      ],
+      [
+       6.08,
+       0.0561
+      ],
+      [
+       6.1,
+       0.0439
+      ],
+      [
+       6.12,
+       0.034
+      ],
+      [
+       6.14,
+       0.0261
+      ],
+      [
+       6.16,
+       0.0198
+      ],
+      [
+       6.18,
+       0.0149
+      ],
+      [
+       6.2,
+       0.0111
+      ],
+      [
+       6.22,
+       0.0082
+      ],
+      [
+       6.24,
+       0.006
+      ],
+      [
+       6.26,
+       0.0043
+      ],
+      [
+       6.28,
+       0.0031
+      ],
+      [
+       6.3,
+       0.0022
+      ],
+      [
+       6.32,
+       0.0015
+      ],
+      [
+       6.34,
+       0.0011
+      ],
+      [
+       6.36,
+       0.0007
+      ],
+      [
+       6.38,
+       0.0005
+      ],
+      [
+       6.4,
+       0.0003
+      ]
+     ],
+     "renk": "mavi",
+     "yumusak": true,
+     "dolgu": true,
+     "cumle": 1
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "ortalama",
+     "x": 5.6,
+     "y": 1.08,
+     "cizgi": "dikey",
+     "etiket": "media 5,6",
+     "cumle": 2
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "bir_sd",
+     "x": [
+      5.4,
+      5.8
+     ],
+     "renk": "sari",
+     "etiket": "±1 DE: 68 %",
+     "cumle": 4
+    },
+    {
+     "ad": "iki_sd",
+     "x": [
+      5.2,
+      6.0
+     ],
+     "renk": "gri",
+     "etiket": "±2 DE: 95 %",
+     "cumle": 5
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Bioestadística básica: media, DE y curva normal | Lección 118 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo leemos los números de un artículo de audiología? En esta lección vemos los tipos de datos, la media y la mediana, cómo se calcula la desviación estándar, la distribución normal, los datos normativos y la puntuación z, los percentiles y los intervalos de confianza, con ejemplos de audiología como la latencia de los PEATC.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Altman, Practical Statistics for Medical Research; Petrie and Sabin, Medical Statistics at a Glance; Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "bioestadistica",
+   "investigacion"
+  ],
+  "etiketler": [
+   "bioestadística",
+   "media",
+   "mediana",
+   "desviación estándar",
+   "distribución normal",
+   "puntuación z",
+   "datos normativos",
+   "intervalo de confianza",
+   "error estándar",
+   "percentil",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 118",
+   "baslik": "Bioestadística *básica*",
+   "alt": "Media, desviación estándar, distribución normal",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprenderemos los conceptos estadísticos básicos que se necesitan para leer la sección de resultados de un artículo.",
+    "Con ejemplos de audiología, veremos la media, la mediana, la desviación estándar, la curva normal, las normas, los percentiles y los intervalos de confianza."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conocer los datos",
+   "baslik": "Tres tipos de *datos*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Categóricos",
+     "metin": "Oído, sexo, resultado del tamizaje",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Ordinales",
+     "metin": "Pérdida leve, moderada, severa",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Continuos",
+     "metin": "Latencia, umbral, puntaje",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El primer paso en estadística es saber qué tipo de datos tenemos, porque eso decide qué resumen y qué prueba usar.",
+    "Los datos categóricos son nombres: por ejemplo, el oído evaluado, el sexo o el resultado pasa o no pasa de un tamizaje.",
+    "Estos datos se resumen con frecuencias y porcentajes; no se pueden promediar.",
+    "En los datos ordinales las categorías tienen un orden, como la pérdida auditiva leve, moderada y severa, pero los intervalos no son iguales.",
+    "Los datos continuos vienen de mediciones: latencia de los potenciales de tronco cerebral en milisegundos, umbral en decibeles, puntaje de palabras en porcentaje.",
+    "Los umbrales del audiograma se miden en pasos de cinco decibeles, pero la mayoría de los análisis los tratan como datos continuos.",
+    "Los datos continuos se resumen con medidas como la media, la mediana y la desviación estándar, que veremos enseguida."
+   ]
+  },
+  {
+   "id": "merkez",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conocer los datos",
+   "baslik": "¿Media o *mediana*?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 42,
+     "ad": "Duración del tinnitus (años)",
+     "isaretler": [
+      0,
+      10,
+      20,
+      30,
+      40
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 3,
+     "adim": 1,
+     "ad": "Número de personas"
+    },
+    "seriler": [
+     {
+      "ad": "veri",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        1
+       ],
+       [
+        3,
+        2
+       ],
+       [
+        4,
+        1
+       ],
+       [
+        5,
+        1
+       ],
+       [
+        6,
+        1
+       ],
+       [
+        40,
+        1
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "7 personas",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "medyan",
+      "x": 4,
+      "y": 2.6,
+      "cizgi": "dikey",
+      "etiket": "mediana 4",
+      "cumle": 3
+     },
+     {
+      "ad": "ortalama",
+      "x": 9,
+      "y": 2.6,
+      "cizgi": "dikey",
+      "etiket": "media 9",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Media: 63 / 7 = 9",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Mediana: 4 años",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Un valor atípico arrastra la media",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Describimos el centro de un conjunto de datos con tres medidas: la media, la mediana y la moda.",
+    "Como ejemplo, tomemos cuánto tiempo llevan siete personas con tinnitus: dos, tres, tres, cuatro, cinco, seis y cuarenta años.",
+    "La media es la suma de los valores dividida entre el número de personas; aquí sesenta y tres entre siete, es decir, nueve años.",
+    "La mediana es el valor que queda justo en el medio cuando se ordenan los valores; aquí el cuarto valor, cuatro años.",
+    "La moda es el valor más frecuente; aquí, tres años.",
+    "Un solo valor extremo, cuarenta años, elevó la media hasta nueve; la mediana representa mucho mejor al grupo.",
+    "Por eso, en las distribuciones asimétricas, que se alargan hacia un lado, se prefiere la mediana.",
+    "En una distribución simétrica, la media y la mediana resultan muy cercanas entre sí."
+   ]
+  },
+  {
+   "id": "sd",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Dispersión",
+   "baslik": "La desviación estándar *paso a paso*",
+   "adimlar": [
+    {
+     "ikon": "tablo",
+     "baslik": "Calcular diferencias",
+     "metin": "Cada valor menos la media",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Elevar al cuadrado",
+     "metin": "Los negativos desaparecen",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Sumar y dividir",
+     "metin": "Dividir entre n - 1",
+     "cumle": 4
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Raíz cuadrada",
+     "metin": "Desviación estándar",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "El centro por sí solo no basta; también necesitamos saber cuánto se dispersan los valores alrededor de la media.",
+    "Como ejemplo, tomemos las latencias de la onda V de cinco personas en los potenciales evocados auditivos de tronco cerebral, o PEATC, que veremos más adelante.",
+    "Los valores van de cinco coma cuatro a cinco coma ocho milisegundos en pasos de cero coma uno; la media es cinco coma seis.",
+    "Calculamos la diferencia de cada valor con la media y la elevamos al cuadrado; la suma de cuadrados es cero coma uno cero.",
+    "Esta suma se divide entre n menos uno, aquí cuatro; el resultado, cero coma cero dos cinco, se llama varianza.",
+    "La unidad de la varianza es el milisegundo al cuadrado, lo que dificulta su interpretación.",
+    "Por eso sacamos su raíz cuadrada, unos cero coma uno seis milisegundos; esta es la desviación estándar, o DE.",
+    "Cuanto mayor es la desviación estándar, más alejados de la media están los valores."
+   ]
+  },
+  {
+   "id": "yayilim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Dispersión",
+   "baslik": "Otras medidas de *dispersión*",
+   "maddeler": [
+    {
+     "metin": "Rango: el mayor menos el menor",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Rango intercuartílico: el 50 % central",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Media ± DE: para datos simétricos",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Mediana y cuartiles: para datos asimétricos",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "CONSEJO",
+    "metin": "Si la DE es grande en relación con la media, los datos pueden ser *asimétricos*",
+    "cumle": 4
+   },
+   "cumleler": [
+    "La medida de dispersión más sencilla es el rango: el valor mayor menos el menor.",
+    "El rango se ve muy afectado por un solo valor extremo; en nuestro ejemplo del tinnitus es de treinta y ocho años.",
+    "El rango intercuartílico abarca el cincuenta por ciento central de los valores y casi no se ve afectado por los valores extremos.",
+    "En los artículos, los datos simétricos suelen informarse como la media más o menos la desviación estándar.",
+    "Los datos asimétricos se informan con la mediana y el rango intercuartílico.",
+    "Al leer un artículo, fijarse en qué resumen se usa da una primera pista sobre la forma de los datos."
+   ]
+  },
+  {
+   "id": "normal",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "La distribución normal",
+   "baslik": "La distribución *normal*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 4.8,
+     "max": 6.4,
+     "ad": "Latencia de la onda V (ms)",
+     "isaretler": [
+      5.0,
+      5.2,
+      5.4,
+      5.6,
+      5.8,
+      6.0,
+      6.2
+     ],
+     "ond": 1
+    },
+    "y": {
+     "min": 0,
+     "max": 1.15,
+     "adim": 0.5,
+     "yazisiz": true,
+     "ad": "Número de personas (relativo)"
+    },
+    "seriler": [
+     {
+      "ad": "egri",
+      "noktalar": [
+       [
+        4.8,
+        0.0003
+       ],
+       [
+        4.82,
+        0.0005
+       ],
+       [
+        4.84,
+        0.0007
+       ],
+       [
+        4.86,
+        0.0011
+       ],
+       [
+        4.88,
+        0.0015
+       ],
+       [
+        4.9,
+        0.0022
+       ],
+       [
+        4.92,
+        0.0031
+       ],
+       [
+        4.94,
+        0.0043
+       ],
+       [
+        4.96,
+        0.006
+       ],
+       [
+        4.98,
+        0.0082
+       ],
+       [
+        5.0,
+        0.0111
+       ],
+       [
+        5.02,
+        0.0149
+       ],
+       [
+        5.04,
+        0.0198
+       ],
+       [
+        5.06,
+        0.0261
+       ],
+       [
+        5.08,
+        0.034
+       ],
+       [
+        5.1,
+        0.0439
+       ],
+       [
+        5.12,
+        0.0561
+       ],
+       [
+        5.14,
+        0.071
+       ],
+       [
+        5.16,
+        0.0889
+       ],
+       [
+        5.18,
+        0.1103
+       ],
+       [
+        5.2,
+        0.1353
+       ],
+       [
+        5.22,
+        0.1645
+       ],
+       [
+        5.24,
+        0.1979
+       ],
+       [
+        5.26,
+        0.2357
+       ],
+       [
+        5.28,
+        0.278
+       ],
+       [
+        5.3,
+        0.3247
+       ],
+       [
+        5.32,
+        0.3753
+       ],
+       [
+        5.34,
+        0.4296
+       ],
+       [
+        5.36,
+        0.4868
+       ],
+       [
+        5.38,
+        0.5461
+       ],
+       [
+        5.4,
+        0.6065
+       ],
+       [
+        5.42,
+        0.667
+       ],
+       [
+        5.44,
+        0.7261
+       ],
+       [
+        5.46,
+        0.7827
+       ],
+       [
+        5.48,
+        0.8353
+       ],
+       [
+        5.5,
+        0.8825
+       ],
+       [
+        5.52,
+        0.9231
+       ],
+       [
+        5.54,
+        0.956
+       ],
+       [
+        5.56,
+        0.9802
+       ],
+       [
+        5.58,
+        0.995
+       ],
+       [
+        5.6,
+        1.0
+       ],
+       [
+        5.62,
+        0.995
+       ],
+       [
+        5.64,
+        0.9802
+       ],
+       [
+        5.66,
+        0.956
+       ],
+       [
+        5.68,
+        0.9231
+       ],
+       [
+        5.7,
+        0.8825
+       ],
+       [
+        5.72,
+        0.8353
+       ],
+       [
+        5.74,
+        0.7827
+       ],
+       [
+        5.76,
+        0.7261
+       ],
+       [
+        5.78,
+        0.667
+       ],
+       [
+        5.8,
+        0.6065
+       ],
+       [
+        5.82,
+        0.5461
+       ],
+       [
+        5.84,
+        0.4868
+       ],
+       [
+        5.86,
+        0.4296
+       ],
+       [
+        5.88,
+        0.3753
+       ],
+       [
+        5.9,
+        0.3247
+       ],
+       [
+        5.92,
+        0.278
+       ],
+       [
+        5.94,
+        0.2357
+       ],
+       [
+        5.96,
+        0.1979
+       ],
+       [
+        5.98,
+        0.1645
+       ],
+       [
+        6.0,
+        0.1353
+       ],
+       [
+        6.02,
+        0.1103
+       ],
+       [
+        6.04,
+        0.0889
+       ],
+       [
+        6.06,
+        0.071
+       ],
+       [
+        6.08,
+        0.0561
+       ],
+       [
+        6.1,
+        0.0439
+       ],
+       [
+        6.12,
+        0.034
+       ],
+       [
+        6.14,
+        0.0261
+       ],
+       [
+        6.16,
+        0.0198
+       ],
+       [
+        6.18,
+        0.0149
+       ],
+       [
+        6.2,
+        0.0111
+       ],
+       [
+        6.22,
+        0.0082
+       ],
+       [
+        6.24,
+        0.006
+       ],
+       [
+        6.26,
+        0.0043
+       ],
+       [
+        6.28,
+        0.0031
+       ],
+       [
+        6.3,
+        0.0022
+       ],
+       [
+        6.32,
+        0.0015
+       ],
+       [
+        6.34,
+        0.0011
+       ],
+       [
+        6.36,
+        0.0007
+       ],
+       [
+        6.38,
+        0.0005
+       ],
+       [
+        6.4,
+        0.0003
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "dolgu": true,
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "ortalama",
+      "x": 5.6,
+      "y": 1.08,
+      "cizgi": "dikey",
+      "etiket": "media 5,6",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "bir_sd",
+      "x": [
+       5.4,
+       5.8
+      ],
+      "renk": "sari",
+      "etiket": "±1 DE: 68 %",
+      "cumle": 4
+     },
+     {
+      "ad": "iki_sd",
+      "x": [
+       5.2,
+       6.0
+      ],
+      "renk": "gri",
+      "etiket": "±2 DE: 95 %",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "±1 DE: cerca del 68 %",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "±2 DE: cerca del 95 %",
+     "cumle": 5,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "±3 DE: cerca del 99,7 %",
+     "cumle": 6,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Muchas medidas biológicas muestran una distribución simétrica, en forma de campana, alrededor de la media; se llama distribución normal.",
+    "En la pantalla se ve un ejemplo de distribución de latencias de la onda V en adultos con audición normal.",
+    "En este ejemplo, la media es cinco coma seis y la desviación estándar, cero coma dos milisegundos.",
+    "La mayoría de los valores se agrupan cerca de la media; cuanto más lejos de la media, menos personas hay.",
+    "En una distribución normal, cerca del sesenta y ocho por ciento de los valores está a menos de una desviación estándar por debajo o por encima de la media.",
+    "Cerca del noventa y cinco por ciento está dentro de dos desviaciones estándar de la media; el valor exacto es uno coma noventa y seis desviaciones estándar.",
+    "Dentro de tres desviaciones estándar está cerca del noventa y nueve coma siete por ciento de los valores.",
+    "En este ejemplo, cerca del noventa y cinco por ciento de los oyentes normales tiene latencias entre cinco coma dos y seis coma cero milisegundos."
+   ]
+  },
+  {
+   "id": "z",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "La distribución normal",
+   "baslik": "Datos normativos y *puntuación z*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Datos normativos",
+     "metin": "Media y DE del grupo normal",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Puntuación z",
+     "metin": "Diferencia dividida entre la DE",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Límite normal",
+     "metin": "A menudo ±2 DE",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la clínica comparamos el resultado de un paciente con datos normativos de un grupo con audición normal.",
+    "Por ejemplo, supongamos que la latencia de la onda V de un paciente es de seis coma uno milisegundos.",
+    "A cuántas desviaciones estándar está de la media lo indica la puntuación z: el valor menos la media, dividido entre la desviación estándar.",
+    "Aquí seis coma uno menos cinco coma seis es cero coma cinco; al dividir entre cero coma dos se obtiene una puntuación z de dos coma cinco.",
+    "Muchas normas clínicas consideran fuera de los límites normales un valor que se aleja más de dos desviaciones estándar de la media.",
+    "Algunas normas usan en cambio un punto de corte de dos y media o tres desviaciones estándar.",
+    "Recuerden que, según esta definición, cerca del cinco por ciento de las personas normales también queda fuera de los límites normales."
+   ]
+  },
+  {
+   "id": "yuzdelik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "La distribución normal",
+   "baslik": "*Percentiles*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Percentil 50",
+     "metin": "Igual a la mediana",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Percentiles 25 y 75",
+     "metin": "Delimitan la mitad central",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Límite superior",
+     "metin": "Percentil 90 o 95",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Si los datos no tienen una distribución normal, los límites normales se definen con percentiles.",
+    "Un valor en el percentil cincuenta significa que la mitad del grupo está por debajo; el percentil cincuenta es la mediana.",
+    "Los percentiles veinticinco y setenta y cinco delimitan la mitad central de los valores.",
+    "En audiología, el percentil noventa o noventa y cinco se usa a menudo como límite superior.",
+    "En lecciones anteriores vimos que las normas del reflejo acústico también usan valores del percentil noventa.",
+    "Los percentiles se pueden leer directamente sea cual sea la forma de la distribución, por eso se usan mucho en las tablas normativas.",
+    "Esa es exactamente la lógica de las curvas de crecimiento de talla y peso de los niños."
+   ]
+  },
+  {
+   "id": "ga",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "El intervalo de confianza",
+   "baslik": "Intervalos de confianza y *n*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 110,
+     "ad": "Tamaño de la muestra (n)",
+     "isaretler": [
+      10,
+      25,
+      50,
+      100
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 0.15,
+     "adim": 0.05,
+     "ad": "Semiamplitud del IC 95 % (ms)",
+     "ond": 2
+    },
+    "seriler": [
+     {
+      "ad": "genislik",
+      "noktalar": [
+       [
+        10,
+        0.124
+       ],
+       [
+        12,
+        0.1132
+       ],
+       [
+        14,
+        0.1048
+       ],
+       [
+        16,
+        0.098
+       ],
+       [
+        18,
+        0.0924
+       ],
+       [
+        20,
+        0.0877
+       ],
+       [
+        22,
+        0.0836
+       ],
+       [
+        24,
+        0.08
+       ],
+       [
+        26,
+        0.0769
+       ],
+       [
+        28,
+        0.0741
+       ],
+       [
+        30,
+        0.0716
+       ],
+       [
+        32,
+        0.0693
+       ],
+       [
+        34,
+        0.0672
+       ],
+       [
+        36,
+        0.0653
+       ],
+       [
+        38,
+        0.0636
+       ],
+       [
+        40,
+        0.062
+       ],
+       [
+        42,
+        0.0605
+       ],
+       [
+        44,
+        0.0591
+       ],
+       [
+        46,
+        0.0578
+       ],
+       [
+        48,
+        0.0566
+       ],
+       [
+        50,
+        0.0554
+       ],
+       [
+        52,
+        0.0544
+       ],
+       [
+        54,
+        0.0533
+       ],
+       [
+        56,
+        0.0524
+       ],
+       [
+        58,
+        0.0515
+       ],
+       [
+        60,
+        0.0506
+       ],
+       [
+        62,
+        0.0498
+       ],
+       [
+        64,
+        0.049
+       ],
+       [
+        66,
+        0.0483
+       ],
+       [
+        68,
+        0.0475
+       ],
+       [
+        70,
+        0.0469
+       ],
+       [
+        72,
+        0.0462
+       ],
+       [
+        74,
+        0.0456
+       ],
+       [
+        76,
+        0.045
+       ],
+       [
+        78,
+        0.0444
+       ],
+       [
+        80,
+        0.0438
+       ],
+       [
+        82,
+        0.0433
+       ],
+       [
+        84,
+        0.0428
+       ],
+       [
+        86,
+        0.0423
+       ],
+       [
+        88,
+        0.0418
+       ],
+       [
+        90,
+        0.0413
+       ],
+       [
+        92,
+        0.0409
+       ],
+       [
+        94,
+        0.0404
+       ],
+       [
+        96,
+        0.04
+       ],
+       [
+        98,
+        0.0396
+       ],
+       [
+        100,
+        0.0392
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "cumle": 5
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "n25",
+      "x": 25,
+      "y": 0.078,
+      "etiket": "±0,08",
+      "dus": "x",
+      "cumle": 4
+     },
+     {
+      "ad": "n100",
+      "x": 100,
+      "y": 0.039,
+      "etiket": "±0,04",
+      "dus": "x",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "EE = DE / √n",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "IC 95 % = media ± 1,96 EE",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Más n, intervalo más estrecho",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "La media obtenida en un estudio pertenece solo a esa muestra; lo que realmente queremos conocer es la media verdadera de toda la población.",
+    "Qué tan precisa es la estimación de la media lo indica el error estándar: la desviación estándar dividida entre la raíz cuadrada de n.",
+    "Si la desviación estándar es cero coma dos y n es veinticinco, el error estándar es cero coma dos entre cinco, es decir, cero coma cero cuatro.",
+    "En una muestra grande, el intervalo de confianza del noventa y cinco por ciento es aproximadamente la media más o menos uno coma noventa y seis errores estándar.",
+    "Aquí el intervalo es de unos más o menos cero coma cero ocho, de cinco coma cinco dos a cinco coma seis ocho milisegundos.",
+    "A medida que n crece, el intervalo se estrecha: más o menos cero coma cero ocho con veinticinco personas, y cero coma cero cuatro con cien.",
+    "Un intervalo estrecho significa una estimación más precisa; en muestras pequeñas se usa un valor t algo mayor en lugar de uno coma noventa y seis.",
+    "En los artículos, el intervalo de confianza suele aparecer entre corchetes justo después de la media."
+   ]
+  },
+  {
+   "id": "karistirma",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "El intervalo de confianza",
+   "baslik": "Dos intervalos que no hay que *confundir*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Rango normal",
+     "metin": "95 % de las personas: 5,2 a 6,0",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Intervalo de confianza",
+     "metin": "La media: 5,52 a 5,68",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Pongamos lado a lado dos intervalos que los estudiantes suelen confundir.",
+    "El rango normal muestra dónde caen los valores de cada persona; en nuestro ejemplo, de cinco coma dos a seis coma cero milisegundos.",
+    "Este es el rango que usamos al interpretar el resultado de un paciente.",
+    "El intervalo de confianza solo indica qué tan precisa es la media; en nuestro ejemplo, de cinco coma cinco dos a cinco coma seis ocho milisegundos.",
+    "El intervalo de confianza se estrecha al crecer la muestra; el rango normal no, porque la variación natural entre personas sigue siendo la misma.",
+    "El valor de un paciente no es anormal solo porque quede fuera del intervalo de confianza.",
+    "Conocer esta diferencia es una de las claves para leer correctamente las tablas de los artículos."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de usar una norma, verifica que el grupo de edad, el equipo y el protocolo coincidan con los tuyos.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la clínica: los valores normativos de un artículo o de un equipo solo se aplican en las condiciones de ese estudio.",
+    "Si cambian el grupo de edad, el tipo de estímulo, la tasa de estimulación o el auricular, la media y la desviación estándar también pueden cambiar.",
+    "Por ejemplo, las latencias de los PEATC de los lactantes no pueden juzgarse con normas de adultos.",
+    "Si es posible, comprueben si las normas se ajustan evaluando a un pequeño grupo normal en su clínica, con su propio equipo y protocolo."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "El tipo de dato define resumen y prueba",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Mediana_ si es asimétrico, media si es simétrico",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Distribución normal: ±2 DE, cerca del 95 %",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Intervalo de confianza: la _precisión_ de la media",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Los datos categóricos, ordinales y continuos se resumen de maneras diferentes.",
+    "Los datos simétricos usan la media y la desviación estándar; los asimétricos, la mediana y el rango intercuartílico.",
+    "En la distribución normal, cerca del noventa y cinco por ciento de los valores está a menos de dos desviaciones estándar de la media; de ahí los límites normales.",
+    "El intervalo de confianza muestra con qué precisión se estima la media, y se estrecha a medida que crece la muestra."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Media 5,6 ms, DE 0,2 ms: ¿rango normal del 95 %?",
+   "secenekler": [
+    "5,4 a 5,8 ms",
+    "5,2 a 6,0 ms",
+    "5,52 a 5,68 ms",
+    "5,0 a 6,2 ms"
+   ],
+   "dogru": 1,
+   "aciklama": "El rango normal es aproximadamente _media ± 2 DE_: 5,6 ± 0,4.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si la media es cinco coma seis y la DE, cero coma dos milisegundos, ¿dónde se ubica el noventa y cinco por ciento de las personas?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: de cinco coma dos a seis coma cero milisegundos.",
+    "Bajamos y subimos dos desviaciones estándar desde la media; la opción C es el intervalo de confianza de la media, no el rango de las personas."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Pruebas de hipótesis y *valor p* en audiología",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos las pruebas de hipótesis y el valor p, que se preguntan si una diferencia entre grupos podría deberse al azar.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

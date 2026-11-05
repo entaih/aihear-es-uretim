@@ -1,0 +1,1693 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D125_Auditory_Evoked_Potentials_ES",
+ "kapak": {
+  "ust": "LECCIÓN 125",
+  "baslik": "Potenciales<br>*evocados*",
+  "alt": "Promediación, filtrado y clasificación",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "Introducción a los potenciales evocados auditivos | Lección 125 | AIHEAR Academia de Audiología",
+  "aciklama": "Los potenciales evocados auditivos son pequeñas respuestas eléctricas al sonido que se registran desde el nervio auditivo, el tronco cerebral y la corteza. En esta lección vemos cómo se extrae la respuesta del EEG mediante la promediación de la señal, el filtrado y el rechazo de artefactos, qué son la latencia y la amplitud, cuáles son las respuestas tempranas, medias y tardías, y cuáles son sus usos clínicos.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Hall JW, New Handbook of Auditory Evoked Responses; Burkard RF, Don M, Eggermont JJ, Auditory Evoked Potentials: Basic Principles and Clinical Application; Katz, Handbook of Clinical Audiology; Berger H (1929), Über das Elektrenkephalogramm des Menschen, Archiv für Psychiatrie und Nervenkrankheiten; Davis PA (1939), Effects of acoustic stimuli on the waking human brain, Journal of Neurophysiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "electrofisiologia",
+   "potencialesevocados"
+  ],
+  "etiketler": [
+   "potenciales evocados auditivos",
+   "PEA",
+   "promediación de la señal",
+   "latencia",
+   "amplitud",
+   "PEATC",
+   "potenciales de latencia media",
+   "potenciales corticales",
+   "electrofisiología auditiva",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 125",
+   "baslik": "Introducción a los potenciales *evocados* auditivos",
+   "alt": "Promediación de la señal, filtrado y clasificación",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos qué son los potenciales evocados auditivos y cómo se registran desde el cuero cabelludo.",
+    "Hablaremos de la promediación y el filtrado, que extraen la respuesta de la actividad cerebral, de la clasificación por latencia y de sus usos."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos básicos",
+   "baslik": "¿Qué es un *potencial* evocado?",
+   "maddeler": [
+    {
+     "metin": "_PEA_: una respuesta eléctrica al sonido",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Origen: _del nervio a la corteza_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Se registran con _electrodos_ de superficie",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Sincronizados_ con el estímulo",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "La mayoría _no requiere respuesta_ del paciente",
+     "cumle": 5,
+     "ikon": "bebek"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "isitme_siniri",
+      "cumle": 1
+     },
+     {
+      "parca": "inferior_kollikulus",
+      "cumle": 1
+     },
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Los potenciales evocados auditivos, o PEA, son respuestas eléctricas que se generan a lo largo de la vía auditiva en respuesta al sonido.",
+    "Estas respuestas surgen en distintos niveles, desde la cóclea y el nervio auditivo hasta el tronco cerebral y la corteza.",
+    "El registro se hace con electrodos de superficie colocados en el cuero cabelludo; no se necesitan agujas ni procedimientos invasivos.",
+    "Las respuestas están sincronizadas en el tiempo con el estímulo; es decir, siempre aparecen con el mismo retardo después de cada estímulo.",
+    "Esta propiedad nos permite separar la respuesta de la actividad cerebral de fondo, que es aleatoria.",
+    "La mayoría de los PEA no requieren que el paciente presione un botón ni responda, así que se cuentan entre las pruebas objetivas.",
+    "Por eso son tan valiosos en los lactantes, en los pacientes que no pueden colaborar y en la evaluación del sistema nervioso."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos básicos",
+   "baslik": "Un poco de *historia*",
+   "adimlar": [
+    {
+     "ikon": "beyin",
+     "baslik": "1929: EEG",
+     "metin": "Berger, el EEG humano",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "1939: Respuesta al sonido",
+     "metin": "En el cerebro en vigilia",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Promediación",
+     "metin": "Visible gracias a la computadora",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Años 70: PEATC",
+     "metin": "La respuesta del tronco cerebral",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En 1929, Hans Berger publicó su registro de la actividad eléctrica del cerebro humano, tomado desde el cuero cabelludo."
+    },
+    "Este registro se llama electroencefalografía, o EEG.",
+    {
+     "yazi": "En 1939, Pauline Davis describió la respuesta al sonido que aparece en el EEG de una persona despierta."
+    },
+    "El verdadero avance que hizo visibles las respuestas pequeñas fue la difusión de los métodos de promediación por computadora en los años sesenta.",
+    "Con la descripción de la respuesta del tronco cerebral en humanos a comienzos de los años setenta, la electrofisiología clínica creció rápidamente."
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Principios del registro",
+   "baslik": "La *cadena* de registro",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Estímulo",
+     "metin": "Auricular o de inserción",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Electrodos",
+     "metin": "En el cuero cabelludo",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Amplificador",
+     "metin": "Amplifica la diferencia",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Filtrar y promediar",
+     "metin": "Lo procesa la computadora",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Forma de onda",
+     "metin": "La respuesta en pantalla",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En un sistema de PEA, la cadena comienza con el estímulo: el sonido se presenta mediante un auricular o un auricular de inserción.",
+    "Los electrodos colocados en el cuero cabelludo captan la actividad cerebral.",
+    "Un amplificador diferencial amplifica mucho la diferencia entre dos electrodos, mientras que el ruido común a ambos se cancela en gran parte.",
+    "La computadora digitaliza, filtra y promedia la señal.",
+    "El resultado es una forma de onda que se grafica en la pantalla en función del tiempo."
+   ]
+  },
+  {
+   "id": "saman",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Principios del registro",
+   "baslik": "Una aguja en un *pajar*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Tiempo (ms)"
+    },
+    "y": {
+     "min": -25,
+     "max": 25,
+     "adim": 10,
+     "ad": "Voltaje (µV)"
+    },
+    "seriler": [
+     {
+      "ad": "tek_kayit",
+      "noktalar": [
+       [
+        0.0,
+        2.43
+       ],
+       [
+        0.1,
+        7.02
+       ],
+       [
+        0.2,
+        6.37
+       ],
+       [
+        0.3,
+        9.35
+       ],
+       [
+        0.4,
+        9.77
+       ],
+       [
+        0.5,
+        3.96
+       ],
+       [
+        0.6,
+        2.9
+       ],
+       [
+        0.7,
+        10.37
+       ],
+       [
+        0.8,
+        3.69
+       ],
+       [
+        0.9,
+        2.53
+       ],
+       [
+        1.0,
+        9.33
+       ],
+       [
+        1.1,
+        3.48
+       ],
+       [
+        1.2,
+        6.84
+       ],
+       [
+        1.3,
+        3.3
+       ],
+       [
+        1.4,
+        5.38
+       ],
+       [
+        1.5,
+        1.34
+       ],
+       [
+        1.6,
+        7.39
+       ],
+       [
+        1.7,
+        11.23
+       ],
+       [
+        1.8,
+        9.5
+       ],
+       [
+        1.9,
+        13.5
+       ],
+       [
+        2.0,
+        14.61
+       ],
+       [
+        2.1,
+        10.2
+       ],
+       [
+        2.2,
+        18.56
+       ],
+       [
+        2.3,
+        17.95
+       ],
+       [
+        2.4,
+        15.68
+       ],
+       [
+        2.5,
+        13.13
+       ],
+       [
+        2.6,
+        21.11
+       ],
+       [
+        2.7,
+        16.34
+       ],
+       [
+        2.8,
+        17.52
+       ],
+       [
+        2.9,
+        17.46
+       ],
+       [
+        3.0,
+        13.9
+       ],
+       [
+        3.1,
+        13.9
+       ],
+       [
+        3.2,
+        6.54
+       ],
+       [
+        3.3,
+        8.59
+       ],
+       [
+        3.4,
+        3.22
+       ],
+       [
+        3.5,
+        6.63
+       ],
+       [
+        3.6,
+        4.92
+       ],
+       [
+        3.7,
+        -3.63
+       ],
+       [
+        3.8,
+        -3.57
+       ],
+       [
+        3.9,
+        -2.69
+       ],
+       [
+        4.0,
+        5.18
+       ],
+       [
+        4.1,
+        0.52
+       ],
+       [
+        4.2,
+        3.21
+       ],
+       [
+        4.3,
+        0.76
+       ],
+       [
+        4.4,
+        3.54
+       ],
+       [
+        4.5,
+        2.85
+       ],
+       [
+        4.6,
+        2.72
+       ],
+       [
+        4.7,
+        4.92
+       ],
+       [
+        4.8,
+        4.35
+       ],
+       [
+        4.9,
+        6.55
+       ],
+       [
+        5.0,
+        2.92
+       ],
+       [
+        5.1,
+        3.61
+       ],
+       [
+        5.2,
+        0.82
+       ],
+       [
+        5.3,
+        -0.09
+       ],
+       [
+        5.4,
+        -5.6
+       ],
+       [
+        5.5,
+        -12.95
+       ],
+       [
+        5.6,
+        -8.07
+       ],
+       [
+        5.7,
+        -8.83
+       ],
+       [
+        5.8,
+        -10.85
+       ],
+       [
+        5.9,
+        -15.18
+       ],
+       [
+        6.0,
+        -14.22
+       ],
+       [
+        6.1,
+        -19.23
+       ],
+       [
+        6.2,
+        -12.56
+       ],
+       [
+        6.3,
+        -14.26
+       ],
+       [
+        6.4,
+        -15.94
+       ],
+       [
+        6.5,
+        -16.74
+       ],
+       [
+        6.6,
+        -7.32
+       ],
+       [
+        6.7,
+        -4.47
+       ],
+       [
+        6.8,
+        -12.12
+       ],
+       [
+        6.9,
+        -3.88
+       ],
+       [
+        7.0,
+        -6.98
+       ],
+       [
+        7.1,
+        -9.14
+       ],
+       [
+        7.2,
+        -7.66
+       ],
+       [
+        7.3,
+        -3.24
+       ],
+       [
+        7.4,
+        -2.86
+       ],
+       [
+        7.5,
+        -12.06
+       ],
+       [
+        7.6,
+        -7.44
+       ],
+       [
+        7.7,
+        -14.27
+       ],
+       [
+        7.8,
+        -8.6
+       ],
+       [
+        7.9,
+        -13.37
+       ],
+       [
+        8.0,
+        -8.46
+       ],
+       [
+        8.1,
+        -7.69
+       ],
+       [
+        8.2,
+        -12.23
+       ],
+       [
+        8.3,
+        -6.61
+       ],
+       [
+        8.4,
+        -12.34
+       ],
+       [
+        8.5,
+        -13.08
+       ],
+       [
+        8.6,
+        -5.89
+       ],
+       [
+        8.7,
+        -9.33
+       ],
+       [
+        8.8,
+        -5.25
+       ],
+       [
+        8.9,
+        -0.68
+       ],
+       [
+        9.0,
+        3.73
+       ],
+       [
+        9.1,
+        1.39
+       ],
+       [
+        9.2,
+        2.14
+       ],
+       [
+        9.3,
+        11.91
+       ],
+       [
+        9.4,
+        7.44
+       ],
+       [
+        9.5,
+        14.51
+       ],
+       [
+        9.6,
+        14.05
+       ],
+       [
+        9.7,
+        8.61
+       ],
+       [
+        9.8,
+        8.85
+       ],
+       [
+        9.9,
+        8.62
+       ],
+       [
+        10.0,
+        8.89
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "registro único",
+      "etiket_konum": [
+       8.2,
+       21
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "yanit",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.1,
+        0.0
+       ],
+       [
+        0.2,
+        0.0
+       ],
+       [
+        0.3,
+        0.0
+       ],
+       [
+        0.4,
+        0.0
+       ],
+       [
+        0.5,
+        0.0
+       ],
+       [
+        0.6,
+        0.0
+       ],
+       [
+        0.7,
+        0.0
+       ],
+       [
+        0.8,
+        0.0
+       ],
+       [
+        0.9,
+        0.0
+       ],
+       [
+        1.0,
+        0.0
+       ],
+       [
+        1.1,
+        0.002
+       ],
+       [
+        1.2,
+        0.012
+       ],
+       [
+        1.3,
+        0.05
+       ],
+       [
+        1.4,
+        0.135
+       ],
+       [
+        1.5,
+        0.246
+       ],
+       [
+        1.6,
+        0.3
+       ],
+       [
+        1.7,
+        0.246
+       ],
+       [
+        1.8,
+        0.135
+       ],
+       [
+        1.9,
+        0.05
+       ],
+       [
+        2.0,
+        0.012
+       ],
+       [
+        2.1,
+        0.002
+       ],
+       [
+        2.2,
+        0.0
+       ],
+       [
+        2.3,
+        0.0
+       ],
+       [
+        2.4,
+        0.0
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.6,
+        0.0
+       ],
+       [
+        2.7,
+        0.0
+       ],
+       [
+        2.8,
+        0.0
+       ],
+       [
+        2.9,
+        0.0
+       ],
+       [
+        3.0,
+        0.001
+       ],
+       [
+        3.1,
+        0.004
+       ],
+       [
+        3.2,
+        0.015
+       ],
+       [
+        3.3,
+        0.047
+       ],
+       [
+        3.4,
+        0.114
+       ],
+       [
+        3.5,
+        0.212
+       ],
+       [
+        3.6,
+        0.309
+       ],
+       [
+        3.7,
+        0.35
+       ],
+       [
+        3.8,
+        0.309
+       ],
+       [
+        3.9,
+        0.212
+       ],
+       [
+        4.0,
+        0.114
+       ],
+       [
+        4.1,
+        0.047
+       ],
+       [
+        4.2,
+        0.015
+       ],
+       [
+        4.3,
+        0.004
+       ],
+       [
+        4.4,
+        0.001
+       ],
+       [
+        4.5,
+        0.0
+       ],
+       [
+        4.6,
+        0.0
+       ],
+       [
+        4.7,
+        0.001
+       ],
+       [
+        4.8,
+        0.002
+       ],
+       [
+        4.9,
+        0.008
+       ],
+       [
+        5.0,
+        0.025
+       ],
+       [
+        5.1,
+        0.062
+       ],
+       [
+        5.2,
+        0.132
+       ],
+       [
+        5.3,
+        0.236
+       ],
+       [
+        5.4,
+        0.358
+       ],
+       [
+        5.5,
+        0.46
+       ],
+       [
+        5.6,
+        0.5
+       ],
+       [
+        5.7,
+        0.46
+       ],
+       [
+        5.8,
+        0.358
+       ],
+       [
+        5.9,
+        0.236
+       ],
+       [
+        6.0,
+        0.132
+       ],
+       [
+        6.1,
+        0.062
+       ],
+       [
+        6.2,
+        0.025
+       ],
+       [
+        6.3,
+        0.008
+       ],
+       [
+        6.4,
+        0.002
+       ],
+       [
+        6.5,
+        0.001
+       ],
+       [
+        6.6,
+        0.0
+       ],
+       [
+        6.7,
+        0.0
+       ],
+       [
+        6.8,
+        0.0
+       ],
+       [
+        6.9,
+        0.0
+       ],
+       [
+        7.0,
+        0.0
+       ],
+       [
+        7.1,
+        0.0
+       ],
+       [
+        7.2,
+        0.0
+       ],
+       [
+        7.3,
+        0.0
+       ],
+       [
+        7.4,
+        0.0
+       ],
+       [
+        7.5,
+        0.0
+       ],
+       [
+        7.6,
+        0.0
+       ],
+       [
+        7.7,
+        0.0
+       ],
+       [
+        7.8,
+        0.0
+       ],
+       [
+        7.9,
+        0.0
+       ],
+       [
+        8.0,
+        0.0
+       ],
+       [
+        8.1,
+        0.0
+       ],
+       [
+        8.2,
+        0.0
+       ],
+       [
+        8.3,
+        0.0
+       ],
+       [
+        8.4,
+        0.0
+       ],
+       [
+        8.5,
+        0.0
+       ],
+       [
+        8.6,
+        0.0
+       ],
+       [
+        8.7,
+        0.0
+       ],
+       [
+        8.8,
+        0.0
+       ],
+       [
+        8.9,
+        0.0
+       ],
+       [
+        9.0,
+        0.0
+       ],
+       [
+        9.1,
+        0.0
+       ],
+       [
+        9.2,
+        0.0
+       ],
+       [
+        9.3,
+        0.0
+       ],
+       [
+        9.4,
+        0.0
+       ],
+       [
+        9.5,
+        0.0
+       ],
+       [
+        9.6,
+        0.0
+       ],
+       [
+        9.7,
+        0.0
+       ],
+       [
+        9.8,
+        0.0
+       ],
+       [
+        9.9,
+        0.0
+       ],
+       [
+        10.0,
+        0.0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "etiket": "respuesta real",
+      "etiket_konum": [
+       6.5,
+       -6
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "EEG: decenas de microvoltios",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "PEATC: menos de 1 microvoltio",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "La respuesta se pierde en el ruido",
+     "cumle": 3,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "El problema básico es que la respuesta evocada es muy pequeña.",
+    "La actividad de fondo del EEG y la tensión muscular que se registran desde el cuero cabelludo suelen ser del orden de decenas de microvoltios.",
+    "Los potenciales evocados auditivos de tronco cerebral, o PEATC (en inglés, ABR), suelen estar por debajo de un microvoltio.",
+    "En la pantalla, la línea gris es un registro único y la azul, la respuesta en sí a la misma escala; la respuesta se pierde en el ruido.",
+    "Por eso, ver la respuesta en un solo registro es como buscar una aguja en un pajar.",
+    "La solución se basa en dos herramientas básicas: la promediación de la señal y el filtrado."
+   ]
+  },
+  {
+   "id": "ortalama",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Principios del registro",
+   "baslik": "*Promediación* de la señal",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1,
+     "max": 4000,
+     "log": true,
+     "isaretler": [
+      1,
+      10,
+      100,
+      1000,
+      4000
+     ],
+     "ad": "Número de repeticiones"
+    },
+    "y": {
+     "min": 0,
+     "max": 20,
+     "adim": 5,
+     "ad": "Ruido residual (µV)"
+    },
+    "seriler": [
+     {
+      "ad": "kalan_gurultu",
+      "noktalar": [
+       [
+        1,
+        20.0
+       ],
+       [
+        2,
+        14.14
+       ],
+       [
+        5,
+        8.94
+       ],
+       [
+        10,
+        6.32
+       ],
+       [
+        20,
+        4.47
+       ],
+       [
+        50,
+        2.83
+       ],
+       [
+        100,
+        2.0
+       ],
+       [
+        200,
+        1.41
+       ],
+       [
+        500,
+        0.89
+       ],
+       [
+        1000,
+        0.63
+       ],
+       [
+        2000,
+        0.45
+       ],
+       [
+        4000,
+        0.32
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "ruido residual",
+      "cumle": 3
+     },
+     {
+      "ad": "yanit_genligi",
+      "noktalar": [
+       [
+        1,
+        0.5
+       ],
+       [
+        4000,
+        0.5
+       ]
+      ],
+      "renk": "kirmizi",
+      "kesik": true,
+      "etiket": "amplitud de la respuesta",
+      "etiket_konum": [
+       3,
+       1.6
+      ],
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "iki_bin",
+      "x": 2000,
+      "y": 0.45,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "2000 repeticiones",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "La respuesta queda, el ruido se desvanece",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "4 veces más barridos: mitad de ruido",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "PEATC: 1000 a 2000 barridos",
+     "cumle": 6,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "El principio de la promediación de la señal es sencillo: el mismo estímulo se presenta cientos o miles de veces.",
+    "El breve registro que sigue a cada estímulo, llamado barrido, se alinea con el inicio del estímulo, y los barridos se promedian.",
+    "Como la respuesta aparece en el mismo momento y en la misma dirección en cada barrido, se conserva en el promedio.",
+    "El ruido aleatorio, en cambio, a veces es positivo y a veces negativo, así que se va cancelando en el promedio.",
+    "El ruido residual disminuye con la raíz cuadrada del número de barridos: con cuatro veces más barridos, el ruido baja a la mitad.",
+    "Por ejemplo, con dos mil barridos el ruido se vuelve unas cuarenta y cinco veces menor que en un solo registro.",
+    "Por eso, en los registros de PEATC suelen promediarse entre mil y dos mil barridos."
+   ]
+  },
+  {
+   "id": "filtre",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Principios del registro",
+   "baslik": "*Filtrado* y rechazo de artefactos",
+   "maddeler": [
+    {
+     "metin": "Filtro _pasa banda_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "PEATC: _de 100 a 3000 Hz aprox._",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Corticales: _de 1 a 30 Hz aprox._",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Rechazo de artefactos_: se descartan barridos grandes",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Un paciente cómodo y _relajado_",
+     "cumle": 6,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "NORMAS",
+    "metin": "Comparar con los mismos *ajustes de filtro*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "La segunda herramienta es el filtrado: cada respuesta tiene su energía en un rango de frecuencias determinado.",
+    "Un filtro pasa banda elimina del registro las derivas lentas y el ruido muy rápido que quedan fuera de ese rango.",
+    "Por ejemplo, para los PEATC se usan unos cien a tres mil hertz, y para las respuestas corticales lentas, de uno a treinta hertz aproximadamente.",
+    "Los ajustes del filtro pueden cambiar la forma y la latencia de la respuesta, por eso las normas se comparan con los mismos ajustes.",
+    "La tercera protección es el rechazo de artefactos: los barridos que superan un voltaje establecido quedan fuera del promedio.",
+    "Así, las perturbaciones grandes, como el movimiento del paciente o la contracción muscular, no arruinan el registro.",
+    "Un paciente cómodo y relajado es la forma más sencilla de mejorar la calidad del registro."
+   ]
+  },
+  {
+   "id": "latans",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Medidas y clasificación",
+   "baslik": "*Latencia* y amplitud",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0,
+    "i_v_uzama": 0
+   },
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 1
+    },
+    {
+     "parca": "latans_I_V",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "Pico de la onda V",
+     "cumle": 1
+    },
+    {
+     "parca": "latans_I_V",
+     "metin": "Intervalo interpico",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Latencia: milisegundos",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Amplitud: microvoltios",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La latencia es más confiable",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Describimos una respuesta evocada con dos medidas básicas: la latencia y la amplitud.",
+    "La latencia es el tiempo desde el inicio del estímulo hasta el pico de una onda, y se mide en milisegundos.",
+    "La amplitud es el tamaño de la onda, medido en microvoltios; a menudo se toma como la diferencia entre un pico y el valle que le sigue.",
+    "La latencia refleja qué tan rápido viaja la respuesta por la vía; la amplitud, cuántas fibras nerviosas participan y con qué sincronía.",
+    "En la clínica, la latencia es más confiable; la amplitud varía más de una persona a otra.",
+    "Las ondas y latencias del ejemplo de PEATC que vemos en la pantalla las leeremos en detalle en lecciones posteriores."
+   ]
+  },
+  {
+   "id": "siniflama",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Medidas y clasificación",
+   "baslik": "*Clasificación* por latencia",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1,
+     "max": 500,
+     "log": true,
+     "isaretler": [
+      1,
+      10,
+      50,
+      100,
+      300,
+      500
+     ],
+     "ad": "Tiempo tras el estímulo (ms, log)"
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "yazisiz": true,
+     "ad": ""
+    },
+    "bolgeler": [
+     {
+      "ad": "erken",
+      "x": [
+       1,
+       10
+      ],
+      "renk": "mavi",
+      "etiket": "tempranas: ECochG, PEATC",
+      "cumle": 1
+     },
+     {
+      "ad": "orta",
+      "x": [
+       10,
+       50
+      ],
+      "renk": "sari",
+      "etiket": "medias: PEALM",
+      "cumle": 3
+     },
+     {
+      "ad": "gec",
+      "x": [
+       50,
+       500
+      ],
+      "renk": "yesil",
+      "etiket": "tardías: corticales, P300",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Tempranas: cóclea, nervio, tronco cerebral",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Medias: tálamo y corteza",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Tardías: corteza y discriminación",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Los PEA se clasifican con más frecuencia según el momento en que aparecen tras el estímulo, es decir, según su latencia.",
+    {
+     "yazi": "Las respuestas tempranas aparecen en los primeros diez milisegundos, aproximadamente; a este grupo pertenecen la electrococleografía, o ECochG, y los PEATC."
+    },
+    "Estas respuestas provienen de la cóclea, del nervio auditivo y del tronco cerebral.",
+    "Los potenciales evocados auditivos de latencia media, o PEALM, aparecen entre unos diez y cincuenta milisegundos y reflejan el tálamo y la corteza.",
+    "Las respuestas tardías, o corticales, aparecen después de unos cincuenta milisegundos y se originan en la corteza auditiva.",
+    {
+     "yazi": "Respuestas como el P300 y la negatividad de disparidad, o MMN, se relacionan con la discriminación de los sonidos."
+    },
+    "Como regla general, cuanto mayor es la latencia, más arriba en la vía auditiva está la fuente."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Medidas y clasificación",
+   "baslik": "La *familia* de los PEA",
+   "sutunlar": [
+    "Respuesta",
+    "Latencia",
+    "Origen"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "ECochG",
+      "Primeros ms",
+      "Cóclea, nervio auditivo"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "PEATC",
+      "1 a 10 ms",
+      "Nervio y tronco cerebral"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "PEAEE",
+      "Respuesta continua",
+      "Tronco cerebral y corteza"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "PEALM",
+      "10 a 50 ms",
+      "Tálamo, corteza"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Corticales (P1-N1-P2)",
+      "50 a 300 ms",
+      "Corteza auditiva"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "P300, MMN",
+      "Más tardías",
+      "Discriminación, atención"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La electrococleografía registra las respuestas de la cóclea y del nervio auditivo en los primeros milisegundos.",
+    "Los PEATC muestran ondas del nervio auditivo y del tronco cerebral en unos diez milisegundos.",
+    "Los potenciales evocados auditivos de estado estable, o PEAEE (en inglés, ASSR), son una respuesta rítmica a un sonido modulado de forma continua.",
+    "Los PEALM contienen ondas del tálamo y de la corteza entre diez y cincuenta milisegundos.",
+    {
+     "yazi": "Las respuestas corticales están formadas por las ondas P1, N1 y P2, y muestran que el sonido llegó a la corteza."
+    },
+    {
+     "yazi": "El P300 y la MMN reflejan procesos de nivel superior relacionados con la discriminación de los sonidos."
+    }
+   ]
+  },
+  {
+   "id": "ekzojen",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 3",
+   "bolum": "Medidas y clasificación",
+   "baslik": "Respuestas exógenas y *endógenas*",
+   "sol": {
+    "ust": "Exógenas (dependen del estímulo)",
+    "maddeler": [
+     {
+      "metin": "Dependen de las propiedades físicas del estímulo",
+      "cumle": 0
+     },
+     {
+      "metin": "Poco afectadas por el sueño y la sedación",
+      "cumle": 1
+     },
+     {
+      "metin": "PEATC, ECochG",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Endógenas (cognitivas)",
+    "maddeler": [
+     {
+      "metin": "Dependen de la atención y la tarea",
+      "cumle": 3
+     },
+     {
+      "metin": "Paciente despierto y colaborador",
+      "cumle": 4
+     },
+     {
+      "metin": "P300, MMN",
+      "cumle": 4
+     },
+     {
+      "metin": "Las corticales cambian con el sueño",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Las respuestas tempranas son exógenas; su forma depende sobre todo de propiedades físicas del estímulo, como la intensidad, la frecuencia y la tasa.",
+    "Estas respuestas se ven poco afectadas por el sueño y la sedación, así que pueden medirse mientras los lactantes duermen.",
+    "Los PEATC y la electrococleografía son ejemplos típicos de este grupo.",
+    "Las respuestas más tardías son cada vez más endógenas; la atención, el estado de alerta y la tarea de la persona modifican la respuesta.",
+    {
+     "yazi": "Por eso, respuestas como el P300 requieren un paciente despierto que pueda colaborar."
+    },
+    "Los PEALM y las respuestas corticales también pueden verse claramente afectados por el sueño y la sedación."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Uso clínico",
+   "baslik": "¿*Dónde* se usan?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Estimación del umbral",
+     "metin": "Lactantes y niños",
+     "cumle": 0
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Tamizaje",
+     "metin": "PEATC automatizados",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Neurológico",
+     "metin": "Sospecha retrococlear",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Monitorización quirúrgica",
+     "metin": "Seguimiento de la función nerviosa",
+     "cumle": 3
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Implantes",
+     "metin": "Candidatura y programación",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Neuropatía",
+     "metin": "Junto con las OEA",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El uso clínico más frecuente es estimar los umbrales auditivos en lactantes y niños que no pueden realizar pruebas conductuales.",
+    "Los equipos de PEATC automatizados se usan en el tamizaje auditivo neonatal, sobre todo en los bebés de cuidados intensivos.",
+    "Las mediciones de latencia ayudan a evaluar problemas del nervio auditivo y del tronco cerebral.",
+    "En algunas cirugías, el registro continúa durante toda la operación para proteger la función del nervio auditivo.",
+    "Ayudan a evaluar a los candidatos a implante coclear y, en algunos casos, a programar el dispositivo con respuestas evocadas eléctricamente.",
+    "Junto con las otoemisiones acústicas, permiten reconocer el trastorno del espectro de la neuropatía auditiva.",
+    "Las respuestas corticales también se usan para mostrar si el sonido que entrega un dispositivo llega a la corteza."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "La clave de un buen registro es un paciente relajado. Relaja al paciente y revisa primero la impedancia de los electrodos; aumentar el número de barridos no basta.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo de la práctica: no intenten arreglar un registro ruidoso solo aumentando el número de barridos.",
+    "La tensión de los músculos del cuello y el movimiento aumentan mucho el ruido; primero asegúrense de que el paciente esté cómodo y relajado.",
+    "En los adultos, lo mejor es apoyar la cabeza y cerrar los ojos; en los lactantes, el sueño natural es lo más eficaz.",
+    "También es esencial una impedancia de electrodos baja y equilibrada; lo veremos en detalle en la próxima lección."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "_PEA_: respuesta sincronizada con el sonido",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Visibles gracias a la _promediación_ y el filtrado",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Respuestas tempranas, medias y _tardías_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Umbral, tamizaje, uso _neurológico_",
+     "cumle": 3,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "Los potenciales evocados auditivos son pequeñas respuestas eléctricas sincronizadas en el tiempo con el sonido.",
+    "La respuesta se extrae del EEG promediando miles de barridos, filtrando y rechazando artefactos.",
+    "Según la latencia se distinguen respuestas tempranas, medias y tardías; cuanto mayor es la latencia, más arriba en la vía está la fuente.",
+    "Los usos principales son la estimación del umbral, el tamizaje neonatal, la evaluación neurológica y la monitorización quirúrgica."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Si los barridos pasan de 1000 a 4000, ¿qué pasa con el ruido residual?",
+   "secenekler": [
+    "No cambia",
+    "Baja más o menos a la mitad",
+    "Baja a la cuarta parte",
+    "Se duplica"
+   ],
+   "dogru": 1,
+   "aciklama": "El ruido disminuye con la _raíz cuadrada_ del número de barridos: con cuatro veces más barridos, el ruido baja a la mitad.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si el número de barridos sube de mil a cuatro mil, ¿cómo cambia el ruido residual?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: baja más o menos a la mitad.",
+    "El ruido disminuye con la raíz cuadrada del número de barridos; la raíz cuadrada de cuatro es dos, así que el ruido se reduce a la mitad."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Montaje de electrodos y el sistema *10-20*",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "En la próxima lección veremos dónde se colocan los electrodos en el cuero cabelludo y el sistema 10-20.",
+     "ses": "En la próxima lección veremos dónde se colocan los electrodos en el cuero cabelludo y el sistema diez veinte."
+    },
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

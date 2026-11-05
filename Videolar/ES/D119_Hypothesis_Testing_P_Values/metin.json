@@ -1,0 +1,3485 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D119_Hypothesis_Testing_P_Values_ES",
+ "kapak": {
+  "ust": "LECCIÓN 119",
+  "baslik": "¿Qué dice el<br>*valor p*?",
+  "alt": "Con ejemplos de audiología",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -4,
+    "max": 4,
+    "adim": 1,
+    "ad": "Estadístico de prueba (z)"
+   },
+   "y": {
+    "min": 0,
+    "max": 1.15,
+    "adim": 0.5,
+    "yazisiz": true,
+    "ad": "Probabilidad (relativa)"
+   },
+   "seriler": [
+    {
+     "ad": "sifir_dagilimi",
+     "noktalar": [
+      [
+       -4.0,
+       0.0003
+      ],
+      [
+       -3.95,
+       0.0004
+      ],
+      [
+       -3.9,
+       0.0005
+      ],
+      [
+       -3.85,
+       0.0006
+      ],
+      [
+       -3.8,
+       0.0007
+      ],
+      [
+       -3.75,
+       0.0009
+      ],
+      [
+       -3.7,
+       0.0011
+      ],
+      [
+       -3.65,
+       0.0013
+      ],
+      [
+       -3.6,
+       0.0015
+      ],
+      [
+       -3.55,
+       0.0018
+      ],
+      [
+       -3.5,
+       0.0022
+      ],
+      [
+       -3.45,
+       0.0026
+      ],
+      [
+       -3.4,
+       0.0031
+      ],
+      [
+       -3.35,
+       0.0037
+      ],
+      [
+       -3.3,
+       0.0043
+      ],
+      [
+       -3.25,
+       0.0051
+      ],
+      [
+       -3.2,
+       0.006
+      ],
+      [
+       -3.15,
+       0.007
+      ],
+      [
+       -3.1,
+       0.0082
+      ],
+      [
+       -3.05,
+       0.0095
+      ],
+      [
+       -3.0,
+       0.0111
+      ],
+      [
+       -2.95,
+       0.0129
+      ],
+      [
+       -2.9,
+       0.0149
+      ],
+      [
+       -2.85,
+       0.0172
+      ],
+      [
+       -2.8,
+       0.0198
+      ],
+      [
+       -2.75,
+       0.0228
+      ],
+      [
+       -2.7,
+       0.0261
+      ],
+      [
+       -2.65,
+       0.0299
+      ],
+      [
+       -2.6,
+       0.034
+      ],
+      [
+       -2.55,
+       0.0387
+      ],
+      [
+       -2.5,
+       0.0439
+      ],
+      [
+       -2.45,
+       0.0497
+      ],
+      [
+       -2.4,
+       0.0561
+      ],
+      [
+       -2.35,
+       0.0632
+      ],
+      [
+       -2.3,
+       0.071
+      ],
+      [
+       -2.25,
+       0.0796
+      ],
+      [
+       -2.2,
+       0.0889
+      ],
+      [
+       -2.15,
+       0.0991
+      ],
+      [
+       -2.1,
+       0.1103
+      ],
+      [
+       -2.05,
+       0.1223
+      ],
+      [
+       -2.0,
+       0.1353
+      ],
+      [
+       -1.95,
+       0.1494
+      ],
+      [
+       -1.9,
+       0.1645
+      ],
+      [
+       -1.85,
+       0.1806
+      ],
+      [
+       -1.8,
+       0.1979
+      ],
+      [
+       -1.75,
+       0.2163
+      ],
+      [
+       -1.7,
+       0.2357
+      ],
+      [
+       -1.65,
+       0.2563
+      ],
+      [
+       -1.6,
+       0.278
+      ],
+      [
+       -1.55,
+       0.3008
+      ],
+      [
+       -1.5,
+       0.3247
+      ],
+      [
+       -1.45,
+       0.3495
+      ],
+      [
+       -1.4,
+       0.3753
+      ],
+      [
+       -1.35,
+       0.402
+      ],
+      [
+       -1.3,
+       0.4296
+      ],
+      [
+       -1.25,
+       0.4578
+      ],
+      [
+       -1.2,
+       0.4868
+      ],
+      [
+       -1.15,
+       0.5162
+      ],
+      [
+       -1.1,
+       0.5461
+      ],
+      [
+       -1.05,
+       0.5762
+      ],
+      [
+       -1.0,
+       0.6065
+      ],
+      [
+       -0.95,
+       0.6368
+      ],
+      [
+       -0.9,
+       0.667
+      ],
+      [
+       -0.85,
+       0.6968
+      ],
+      [
+       -0.8,
+       0.7261
+      ],
+      [
+       -0.75,
+       0.7548
+      ],
+      [
+       -0.7,
+       0.7827
+      ],
+      [
+       -0.65,
+       0.8096
+      ],
+      [
+       -0.6,
+       0.8353
+      ],
+      [
+       -0.55,
+       0.8596
+      ],
+      [
+       -0.5,
+       0.8825
+      ],
+      [
+       -0.45,
+       0.9037
+      ],
+      [
+       -0.4,
+       0.9231
+      ],
+      [
+       -0.35,
+       0.9406
+      ],
+      [
+       -0.3,
+       0.956
+      ],
+      [
+       -0.25,
+       0.9692
+      ],
+      [
+       -0.2,
+       0.9802
+      ],
+      [
+       -0.15,
+       0.9888
+      ],
+      [
+       -0.1,
+       0.995
+      ],
+      [
+       -0.05,
+       0.9988
+      ],
+      [
+       0.0,
+       1.0
+      ],
+      [
+       0.05,
+       0.9988
+      ],
+      [
+       0.1,
+       0.995
+      ],
+      [
+       0.15,
+       0.9888
+      ],
+      [
+       0.2,
+       0.9802
+      ],
+      [
+       0.25,
+       0.9692
+      ],
+      [
+       0.3,
+       0.956
+      ],
+      [
+       0.35,
+       0.9406
+      ],
+      [
+       0.4,
+       0.9231
+      ],
+      [
+       0.45,
+       0.9037
+      ],
+      [
+       0.5,
+       0.8825
+      ],
+      [
+       0.55,
+       0.8596
+      ],
+      [
+       0.6,
+       0.8353
+      ],
+      [
+       0.65,
+       0.8096
+      ],
+      [
+       0.7,
+       0.7827
+      ],
+      [
+       0.75,
+       0.7548
+      ],
+      [
+       0.8,
+       0.7261
+      ],
+      [
+       0.85,
+       0.6968
+      ],
+      [
+       0.9,
+       0.667
+      ],
+      [
+       0.95,
+       0.6368
+      ],
+      [
+       1.0,
+       0.6065
+      ],
+      [
+       1.05,
+       0.5762
+      ],
+      [
+       1.1,
+       0.5461
+      ],
+      [
+       1.15,
+       0.5162
+      ],
+      [
+       1.2,
+       0.4868
+      ],
+      [
+       1.25,
+       0.4578
+      ],
+      [
+       1.3,
+       0.4296
+      ],
+      [
+       1.35,
+       0.402
+      ],
+      [
+       1.4,
+       0.3753
+      ],
+      [
+       1.45,
+       0.3495
+      ],
+      [
+       1.5,
+       0.3247
+      ],
+      [
+       1.55,
+       0.3008
+      ],
+      [
+       1.6,
+       0.278
+      ],
+      [
+       1.65,
+       0.2563
+      ],
+      [
+       1.7,
+       0.2357
+      ],
+      [
+       1.75,
+       0.2163
+      ],
+      [
+       1.8,
+       0.1979
+      ],
+      [
+       1.85,
+       0.1806
+      ],
+      [
+       1.9,
+       0.1645
+      ],
+      [
+       1.95,
+       0.1494
+      ],
+      [
+       2.0,
+       0.1353
+      ],
+      [
+       2.05,
+       0.1223
+      ],
+      [
+       2.1,
+       0.1103
+      ],
+      [
+       2.15,
+       0.0991
+      ],
+      [
+       2.2,
+       0.0889
+      ],
+      [
+       2.25,
+       0.0796
+      ],
+      [
+       2.3,
+       0.071
+      ],
+      [
+       2.35,
+       0.0632
+      ],
+      [
+       2.4,
+       0.0561
+      ],
+      [
+       2.45,
+       0.0497
+      ],
+      [
+       2.5,
+       0.0439
+      ],
+      [
+       2.55,
+       0.0387
+      ],
+      [
+       2.6,
+       0.034
+      ],
+      [
+       2.65,
+       0.0299
+      ],
+      [
+       2.7,
+       0.0261
+      ],
+      [
+       2.75,
+       0.0228
+      ],
+      [
+       2.8,
+       0.0198
+      ],
+      [
+       2.85,
+       0.0172
+      ],
+      [
+       2.9,
+       0.0149
+      ],
+      [
+       2.95,
+       0.0129
+      ],
+      [
+       3.0,
+       0.0111
+      ],
+      [
+       3.05,
+       0.0095
+      ],
+      [
+       3.1,
+       0.0082
+      ],
+      [
+       3.15,
+       0.007
+      ],
+      [
+       3.2,
+       0.006
+      ],
+      [
+       3.25,
+       0.0051
+      ],
+      [
+       3.3,
+       0.0043
+      ],
+      [
+       3.35,
+       0.0037
+      ],
+      [
+       3.4,
+       0.0031
+      ],
+      [
+       3.45,
+       0.0026
+      ],
+      [
+       3.5,
+       0.0022
+      ],
+      [
+       3.55,
+       0.0018
+      ],
+      [
+       3.6,
+       0.0015
+      ],
+      [
+       3.65,
+       0.0013
+      ],
+      [
+       3.7,
+       0.0011
+      ],
+      [
+       3.75,
+       0.0009
+      ],
+      [
+       3.8,
+       0.0007
+      ],
+      [
+       3.85,
+       0.0006
+      ],
+      [
+       3.9,
+       0.0005
+      ],
+      [
+       3.95,
+       0.0004
+      ],
+      [
+       4.0,
+       0.0003
+      ]
+     ],
+     "renk": "mavi",
+     "yumusak": true,
+     "dolgu": true,
+     "etiket": "si H0 es verdadera",
+     "etiket_konum": [
+      -2.6,
+      0.9
+     ],
+     "cumle": 1
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "gozlenen",
+     "x": 2.2,
+     "y": 1.05,
+     "cizgi": "dikey",
+     "etiket": "z observado = 2,2",
+     "cumle": 2
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "sag_kuyruk",
+     "x": [
+      2.2,
+      4
+     ],
+     "renk": "kirmizi",
+     "etiket": "1,4 %",
+     "cumle": 3
+    },
+    {
+     "ad": "sol_kuyruk",
+     "x": [
+      -4,
+      -2.2
+     ],
+     "renk": "kirmizi",
+     "etiket": "1,4 %",
+     "cumle": 4
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Pruebas de hipótesis y valor p en audiología | Lección 119 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué nos dice realmente un valor p? En esta lección vemos la hipótesis nula, la interpretación correcta del valor p, los errores tipo I y tipo II, la potencia estadística, la elección entre pruebas paramétricas y no paramétricas, el tamaño del efecto y la diferencia entre significación estadística y relevancia clínica, con ejemplos de audiología.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Wasserstein and Lazar, The ASA Statement on p-Values (The American Statistician, 2016); Cohen, Statistical Power Analysis for the Behavioral Sciences; Altman, Practical Statistics for Medical Research; Petrie and Sabin, Medical Statistics at a Glance.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "estadistica",
+   "investigacion"
+  ],
+  "etiketler": [
+   "prueba de hipótesis",
+   "hipótesis nula",
+   "valor p",
+   "significación estadística",
+   "relevancia clínica",
+   "error tipo I",
+   "potencia estadística",
+   "tamaño del efecto",
+   "prueba t",
+   "U de Mann-Whitney",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 119",
+   "baslik": "Pruebas de hipótesis y *valor p*",
+   "alt": "Decisiones estadísticas con ejemplos de audiología",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos las pruebas de hipótesis y el valor p, que se preguntan si una diferencia hallada en un estudio podría deberse al azar.",
+    "Con ejemplos de audiología, veremos la elección de la prueba, los tipos de error, el tamaño del efecto y la significación estadística frente a la clínica."
+   ]
+  },
+  {
+   "id": "mantik",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "Hipótesis y valor p",
+   "baslik": "La *lógica* de la prueba de hipótesis",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Pregunta",
+     "metin": "¿Los grupos difieren?",
+     "cumle": 0
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Hipótesis nula",
+     "metin": "No hay diferencia",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Datos y prueba",
+     "metin": "Estadístico de prueba",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Valor p",
+     "metin": "¿Tanta diferencia por azar?",
+     "cumle": 4
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Decisión",
+     "metin": "Rechazar o no rechazar",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Empecemos con un ejemplo: ¿difieren en sus umbrales de cuatro kilohertz los trabajadores de un lugar de trabajo ruidoso y los de uno silencioso?",
+    {
+     "yazi": "La prueba de hipótesis supone primero que no hay diferencia; esto se llama hipótesis nula, o H0.",
+     "ses": "La prueba de hipótesis supone primero que no hay diferencia; esto se llama hipótesis nula, o hache cero."
+    },
+    "La hipótesis alternativa plantea que existe una diferencia real entre los grupos.",
+    "Se recogen los datos y se calcula un estadístico de prueba, que muestra qué tan grande es la diferencia en relación con la dispersión de los grupos.",
+    "Luego nos preguntamos: si la hipótesis nula fuera cierta, ¿qué tan probable sería ver una diferencia al menos así de grande?",
+    "Si esta probabilidad es pequeña, se rechaza la hipótesis nula; si es grande, no se rechaza.",
+    "Tengan en cuenta que no rechazar la hipótesis nula no demuestra que no haya diferencia."
+   ]
+  },
+  {
+   "id": "p",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Hipótesis y valor p",
+   "baslik": "¿*Qué* es un valor p?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -4,
+     "max": 4,
+     "adim": 1,
+     "ad": "Estadístico de prueba (z)"
+    },
+    "y": {
+     "min": 0,
+     "max": 1.15,
+     "adim": 0.5,
+     "yazisiz": true,
+     "ad": "Probabilidad (relativa)"
+    },
+    "seriler": [
+     {
+      "ad": "sifir_dagilimi",
+      "noktalar": [
+       [
+        -4.0,
+        0.0003
+       ],
+       [
+        -3.95,
+        0.0004
+       ],
+       [
+        -3.9,
+        0.0005
+       ],
+       [
+        -3.85,
+        0.0006
+       ],
+       [
+        -3.8,
+        0.0007
+       ],
+       [
+        -3.75,
+        0.0009
+       ],
+       [
+        -3.7,
+        0.0011
+       ],
+       [
+        -3.65,
+        0.0013
+       ],
+       [
+        -3.6,
+        0.0015
+       ],
+       [
+        -3.55,
+        0.0018
+       ],
+       [
+        -3.5,
+        0.0022
+       ],
+       [
+        -3.45,
+        0.0026
+       ],
+       [
+        -3.4,
+        0.0031
+       ],
+       [
+        -3.35,
+        0.0037
+       ],
+       [
+        -3.3,
+        0.0043
+       ],
+       [
+        -3.25,
+        0.0051
+       ],
+       [
+        -3.2,
+        0.006
+       ],
+       [
+        -3.15,
+        0.007
+       ],
+       [
+        -3.1,
+        0.0082
+       ],
+       [
+        -3.05,
+        0.0095
+       ],
+       [
+        -3.0,
+        0.0111
+       ],
+       [
+        -2.95,
+        0.0129
+       ],
+       [
+        -2.9,
+        0.0149
+       ],
+       [
+        -2.85,
+        0.0172
+       ],
+       [
+        -2.8,
+        0.0198
+       ],
+       [
+        -2.75,
+        0.0228
+       ],
+       [
+        -2.7,
+        0.0261
+       ],
+       [
+        -2.65,
+        0.0299
+       ],
+       [
+        -2.6,
+        0.034
+       ],
+       [
+        -2.55,
+        0.0387
+       ],
+       [
+        -2.5,
+        0.0439
+       ],
+       [
+        -2.45,
+        0.0497
+       ],
+       [
+        -2.4,
+        0.0561
+       ],
+       [
+        -2.35,
+        0.0632
+       ],
+       [
+        -2.3,
+        0.071
+       ],
+       [
+        -2.25,
+        0.0796
+       ],
+       [
+        -2.2,
+        0.0889
+       ],
+       [
+        -2.15,
+        0.0991
+       ],
+       [
+        -2.1,
+        0.1103
+       ],
+       [
+        -2.05,
+        0.1223
+       ],
+       [
+        -2.0,
+        0.1353
+       ],
+       [
+        -1.95,
+        0.1494
+       ],
+       [
+        -1.9,
+        0.1645
+       ],
+       [
+        -1.85,
+        0.1806
+       ],
+       [
+        -1.8,
+        0.1979
+       ],
+       [
+        -1.75,
+        0.2163
+       ],
+       [
+        -1.7,
+        0.2357
+       ],
+       [
+        -1.65,
+        0.2563
+       ],
+       [
+        -1.6,
+        0.278
+       ],
+       [
+        -1.55,
+        0.3008
+       ],
+       [
+        -1.5,
+        0.3247
+       ],
+       [
+        -1.45,
+        0.3495
+       ],
+       [
+        -1.4,
+        0.3753
+       ],
+       [
+        -1.35,
+        0.402
+       ],
+       [
+        -1.3,
+        0.4296
+       ],
+       [
+        -1.25,
+        0.4578
+       ],
+       [
+        -1.2,
+        0.4868
+       ],
+       [
+        -1.15,
+        0.5162
+       ],
+       [
+        -1.1,
+        0.5461
+       ],
+       [
+        -1.05,
+        0.5762
+       ],
+       [
+        -1.0,
+        0.6065
+       ],
+       [
+        -0.95,
+        0.6368
+       ],
+       [
+        -0.9,
+        0.667
+       ],
+       [
+        -0.85,
+        0.6968
+       ],
+       [
+        -0.8,
+        0.7261
+       ],
+       [
+        -0.75,
+        0.7548
+       ],
+       [
+        -0.7,
+        0.7827
+       ],
+       [
+        -0.65,
+        0.8096
+       ],
+       [
+        -0.6,
+        0.8353
+       ],
+       [
+        -0.55,
+        0.8596
+       ],
+       [
+        -0.5,
+        0.8825
+       ],
+       [
+        -0.45,
+        0.9037
+       ],
+       [
+        -0.4,
+        0.9231
+       ],
+       [
+        -0.35,
+        0.9406
+       ],
+       [
+        -0.3,
+        0.956
+       ],
+       [
+        -0.25,
+        0.9692
+       ],
+       [
+        -0.2,
+        0.9802
+       ],
+       [
+        -0.15,
+        0.9888
+       ],
+       [
+        -0.1,
+        0.995
+       ],
+       [
+        -0.05,
+        0.9988
+       ],
+       [
+        0.0,
+        1.0
+       ],
+       [
+        0.05,
+        0.9988
+       ],
+       [
+        0.1,
+        0.995
+       ],
+       [
+        0.15,
+        0.9888
+       ],
+       [
+        0.2,
+        0.9802
+       ],
+       [
+        0.25,
+        0.9692
+       ],
+       [
+        0.3,
+        0.956
+       ],
+       [
+        0.35,
+        0.9406
+       ],
+       [
+        0.4,
+        0.9231
+       ],
+       [
+        0.45,
+        0.9037
+       ],
+       [
+        0.5,
+        0.8825
+       ],
+       [
+        0.55,
+        0.8596
+       ],
+       [
+        0.6,
+        0.8353
+       ],
+       [
+        0.65,
+        0.8096
+       ],
+       [
+        0.7,
+        0.7827
+       ],
+       [
+        0.75,
+        0.7548
+       ],
+       [
+        0.8,
+        0.7261
+       ],
+       [
+        0.85,
+        0.6968
+       ],
+       [
+        0.9,
+        0.667
+       ],
+       [
+        0.95,
+        0.6368
+       ],
+       [
+        1.0,
+        0.6065
+       ],
+       [
+        1.05,
+        0.5762
+       ],
+       [
+        1.1,
+        0.5461
+       ],
+       [
+        1.15,
+        0.5162
+       ],
+       [
+        1.2,
+        0.4868
+       ],
+       [
+        1.25,
+        0.4578
+       ],
+       [
+        1.3,
+        0.4296
+       ],
+       [
+        1.35,
+        0.402
+       ],
+       [
+        1.4,
+        0.3753
+       ],
+       [
+        1.45,
+        0.3495
+       ],
+       [
+        1.5,
+        0.3247
+       ],
+       [
+        1.55,
+        0.3008
+       ],
+       [
+        1.6,
+        0.278
+       ],
+       [
+        1.65,
+        0.2563
+       ],
+       [
+        1.7,
+        0.2357
+       ],
+       [
+        1.75,
+        0.2163
+       ],
+       [
+        1.8,
+        0.1979
+       ],
+       [
+        1.85,
+        0.1806
+       ],
+       [
+        1.9,
+        0.1645
+       ],
+       [
+        1.95,
+        0.1494
+       ],
+       [
+        2.0,
+        0.1353
+       ],
+       [
+        2.05,
+        0.1223
+       ],
+       [
+        2.1,
+        0.1103
+       ],
+       [
+        2.15,
+        0.0991
+       ],
+       [
+        2.2,
+        0.0889
+       ],
+       [
+        2.25,
+        0.0796
+       ],
+       [
+        2.3,
+        0.071
+       ],
+       [
+        2.35,
+        0.0632
+       ],
+       [
+        2.4,
+        0.0561
+       ],
+       [
+        2.45,
+        0.0497
+       ],
+       [
+        2.5,
+        0.0439
+       ],
+       [
+        2.55,
+        0.0387
+       ],
+       [
+        2.6,
+        0.034
+       ],
+       [
+        2.65,
+        0.0299
+       ],
+       [
+        2.7,
+        0.0261
+       ],
+       [
+        2.75,
+        0.0228
+       ],
+       [
+        2.8,
+        0.0198
+       ],
+       [
+        2.85,
+        0.0172
+       ],
+       [
+        2.9,
+        0.0149
+       ],
+       [
+        2.95,
+        0.0129
+       ],
+       [
+        3.0,
+        0.0111
+       ],
+       [
+        3.05,
+        0.0095
+       ],
+       [
+        3.1,
+        0.0082
+       ],
+       [
+        3.15,
+        0.007
+       ],
+       [
+        3.2,
+        0.006
+       ],
+       [
+        3.25,
+        0.0051
+       ],
+       [
+        3.3,
+        0.0043
+       ],
+       [
+        3.35,
+        0.0037
+       ],
+       [
+        3.4,
+        0.0031
+       ],
+       [
+        3.45,
+        0.0026
+       ],
+       [
+        3.5,
+        0.0022
+       ],
+       [
+        3.55,
+        0.0018
+       ],
+       [
+        3.6,
+        0.0015
+       ],
+       [
+        3.65,
+        0.0013
+       ],
+       [
+        3.7,
+        0.0011
+       ],
+       [
+        3.75,
+        0.0009
+       ],
+       [
+        3.8,
+        0.0007
+       ],
+       [
+        3.85,
+        0.0006
+       ],
+       [
+        3.9,
+        0.0005
+       ],
+       [
+        3.95,
+        0.0004
+       ],
+       [
+        4.0,
+        0.0003
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "dolgu": true,
+      "etiket": "si H0 es verdadera",
+      "etiket_konum": [
+       -2.6,
+       0.9
+      ],
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "gozlenen",
+      "x": 2.2,
+      "y": 1.05,
+      "cizgi": "dikey",
+      "etiket": "z observado = 2,2",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "sag_kuyruk",
+      "x": [
+       2.2,
+       4
+      ],
+      "renk": "kirmizi",
+      "etiket": "1,4 %",
+      "cumle": 3
+     },
+     {
+      "ad": "sol_kuyruk",
+      "x": [
+       -4,
+       -2.2
+      ],
+      "renk": "kirmizi",
+      "etiket": "1,4 %",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "z observado = 2,2",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "A dos colas: p ≈ 0,03",
+     "cumle": 4,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "p < 0,05: significativo",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "El valor p es la probabilidad de obtener un resultado tan extremo como el observado, o más, cuando la hipótesis nula es cierta.",
+    "La curva de campana en la pantalla muestra los valores que puede tomar el estadístico de prueba cuando en realidad no hay diferencia.",
+    "Supongamos que el estadístico de prueba de nuestro estudio es dos coma dos.",
+    "El área de la curva a la derecha de este valor es de alrededor del uno coma cuatro por ciento.",
+    "Una diferencia podría ir en cualquier dirección, así que se suma el área igual de la otra cola; el valor p a dos colas es de unos cero coma cero tres.",
+    "El nivel de significación fijado de antemano, llamado alfa, es de cero coma cero cinco en la mayoría de los estudios.",
+    "Como p está por debajo de este punto de corte, el resultado es estadísticamente significativo y se rechaza la hipótesis nula."
+   ]
+  },
+  {
+   "id": "degil",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Hipótesis y valor p",
+   "baslik": "Lo que el valor p *no* es",
+   "maddeler": [
+    {
+     "metin": "No indica si la hipótesis es cierta",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "No muestra el tamaño del efecto",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "0,05 no es una línea mágica",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Informarlo con el intervalo de confianza",
+     "cumle": 6,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "RECUERDA",
+    "metin": "p pequeño: el azar es una explicación *poco probable*, pero el efecto puede ser pequeño",
+    "cumle": 2
+   },
+   "cumleler": [
+    "El valor p no es la probabilidad de que la hipótesis nula sea cierta; se calcula suponiendo que la hipótesis nula es cierta.",
+    "Por ejemplo, un p igual a cero coma cero tres no significa que haya un noventa y siete por ciento de probabilidad de que la diferencia sea real.",
+    "Tampoco muestra qué tan grande o importante es un efecto; en muestras muy grandes, incluso diferencias mínimas resultan significativas.",
+    "La naturaleza no traza una línea nítida entre cero coma cero cuatro y cero coma cero seis; el punto de corte es una convención.",
+    {
+     "yazi": "En 2016, la Asociación Estadounidense de Estadística publicó una declaración sobre los valores p."
+    },
+    "La declaración subrayó que las decisiones científicas no deben basarse solo en si un valor p supera un umbral.",
+    "Por eso, un buen artículo informa el tamaño de la diferencia y su intervalo de confianza junto con el valor p."
+   ]
+  },
+  {
+   "id": "hata",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Errores y potencia",
+   "baslik": "Dos tipos de *error*",
+   "sutunlar": [
+    "Decisión",
+    "Sin diferencia real",
+    "Diferencia real"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "H0 rechazada",
+      "Error tipo I (α)",
+      "Decisión correcta"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "H0 no rechazada",
+      "Decisión correcta",
+      "Error tipo II (β)"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Objetivo habitual",
+      "α = 0,05",
+      "Potencia = 0,80"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Una decisión estadística puede equivocarse de dos maneras.",
+    "Si rechazamos la hipótesis nula cuando en realidad no hay diferencia, cometemos un error tipo uno: una falsa alarma.",
+    "Su probabilidad es alfa; si alfa es cero coma cero cinco, se espera una falsa alarma por cada veinte comparaciones sin diferencia real.",
+    "Si no detectamos una diferencia que sí existe, cometemos un error tipo dos: una omisión.",
+    "La probabilidad de un error tipo dos se llama beta; uno menos beta es la potencia de la prueba, la probabilidad de detectar una diferencia real.",
+    "Los estudios suelen planificarse con un alfa de cero coma cero cinco y una potencia objetivo del ochenta por ciento.",
+    "Esta tabla se parece a la tabla de dos por dos de la próxima lección; es el equivalente estadístico de los falsos positivos y los falsos negativos."
+   ]
+  },
+  {
+   "id": "guc",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Errores y potencia",
+   "baslik": "¿De qué *depende* la potencia?",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Tamaño de la muestra",
+     "metin": "Más muestra, más potencia",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Tamaño del efecto",
+     "metin": "Diferencias grandes, fáciles de detectar",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Dispersión",
+     "metin": "Menos variabilidad, más potencia",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Alfa",
+     "metin": "Alfa más laxo, más potencia",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La potencia de un estudio depende de cuatro factores.",
+    "La potencia aumenta a medida que crece la muestra; los estudios pequeños a menudo pasan por alto diferencias reales.",
+    "Cuanto mayor es la diferencia que se busca, más fácil es detectarla.",
+    "La potencia aumenta cuando disminuye la dispersión de las mediciones, la desviación estándar; aquí también vale la pena medir con cuidado.",
+    "Hacer más laxo el alfa aumenta la potencia, pero también aumenta el riesgo de una falsa alarma.",
+    "Por eso, un buen estudio calcula antes de empezar el número necesario de participantes con un análisis de potencia, y lo informa en los métodos."
+   ]
+  },
+  {
+   "id": "secim",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Elegir la prueba",
+   "baslik": "¿Qué prueba para *cada* pregunta?",
+   "sutunlar": [
+    "Pregunta y datos",
+    "Paramétrica",
+    "No paramétrica"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Dos grupos independientes",
+      "Prueba t independiente",
+      "U de Mann-Whitney"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Dos medidas, mismas personas",
+      "Prueba t pareada",
+      "Prueba de Wilcoxon"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Tres o más grupos",
+      "ANOVA",
+      "Kruskal-Wallis"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Dos variables continuas",
+      "Correlación de Pearson",
+      "Correlación de Spearman"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Proporciones categóricas",
+      "-",
+      "Chi cuadrado, Fisher"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La prueba que se elige depende de la estructura de la pregunta y del tipo de datos.",
+    "Para comparar las medias de dos grupos independientes se usa la prueba t independiente, o la U de Mann-Whitney si no se cumplen los supuestos.",
+    "Con dos mediciones en las mismas personas, como los puntajes sin y con audífono, se elige la prueba t pareada o la prueba de Wilcoxon.",
+    "Para tres o más grupos se usa el análisis de varianza, o ANOVA, o la prueba de Kruskal-Wallis.",
+    "La relación entre dos medidas continuas, como la edad y el umbral, se examina con la correlación de Pearson o la de Spearman.",
+    "Los datos categóricos, como las tasas de pasa y no pasa, se comparan con la prueba de chi cuadrado, o con la exacta de Fisher si las frecuencias esperadas son pequeñas."
+   ]
+  },
+  {
+   "id": "parametrik",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Elegir la prueba",
+   "baslik": "¿Paramétrica *o no*?",
+   "adimlar": [
+    {
+     "ikon": "tablo",
+     "baslik": "Tipo de dato",
+     "metin": "¿Continuo?",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Distribución",
+     "metin": "¿Cercana a la normal?",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Muestra",
+     "metin": "¿Suficientemente grande?",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Elección",
+     "metin": "Aplicar la prueba adecuada",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Las pruebas paramétricas suponen que los datos son continuos y tienen una distribución aproximadamente normal.",
+    "La distribución se inspecciona visualmente con un histograma y, si hace falta, se verifica con una prueba de normalidad como la de Shapiro-Wilk.",
+    "Los datos ordinales, como una escala de satisfacción de cinco puntos, suelen analizarse con pruebas no paramétricas.",
+    "En muestras muy pequeñas, la forma de la distribución no puede juzgarse con fiabilidad; en ese caso, las pruebas no paramétricas son más seguras.",
+    "Las pruebas no paramétricas usan los rangos de los valores y no los valores mismos, por eso se ven menos afectadas por los valores extremos.",
+    "Cuando se cumplen los supuestos, las pruebas paramétricas tienen algo más de potencia; el motivo de la elección debe indicarse en los métodos."
+   ]
+  },
+  {
+   "id": "eslesik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Elegir la prueba",
+   "baslik": "La *potencia* del diseño pareado",
+   "maddeler": [
+    {
+     "metin": "Cada persona es su propio control",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Se eliminan las diferencias entre personas",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "El cambio en cada persona es consistente",
+     "cumle": 4,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Potencia suficiente con menos personas",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 0.6,
+      "max": 2.4,
+      "adim": 1,
+      "yazilar": {
+       "1": "unaided",
+       "2": "aided",
+       "1": "sin audífono",
+       "2": "con audífono"
+      },
+      "ad": "Condición"
+     },
+     "y": {
+      "min": 30,
+      "max": 80,
+      "adim": 10,
+      "ad": "Puntaje (%)"
+     },
+     "seriler": [
+      {
+       "ad": "h0",
+       "noktalar": [
+        [
+         1,
+         40
+        ],
+        [
+         2,
+         64
+        ]
+       ],
+       "renk": "mavi",
+       "isaretli": true,
+       "cumle": 1
+      },
+      {
+       "ad": "h1",
+       "noktalar": [
+        [
+         1,
+         52
+        ],
+        [
+         2,
+         70
+        ]
+       ],
+       "renk": "mavi",
+       "isaretli": true,
+       "cumle": 1
+      },
+      {
+       "ad": "h2",
+       "noktalar": [
+        [
+         1,
+         36
+        ],
+        [
+         2,
+         60
+        ]
+       ],
+       "renk": "mavi",
+       "isaretli": true,
+       "cumle": 1
+      },
+      {
+       "ad": "h3",
+       "noktalar": [
+        [
+         1,
+         60
+        ],
+        [
+         2,
+         76
+        ]
+       ],
+       "renk": "mavi",
+       "isaretli": true,
+       "cumle": 1
+      },
+      {
+       "ad": "h4",
+       "noktalar": [
+        [
+         1,
+         48
+        ],
+        [
+         2,
+         68
+        ]
+       ],
+       "renk": "mavi",
+       "isaretli": true,
+       "cumle": 1
+      },
+      {
+       "ad": "h5",
+       "noktalar": [
+        [
+         1,
+         44
+        ],
+        [
+         2,
+         72
+        ]
+       ],
+       "renk": "mavi",
+       "isaretli": true,
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Veamos con un gráfico de ejemplo por qué el diseño pareado es potente; los valores tienen fines didácticos.",
+    "Se midieron los puntajes de reconocimiento de palabras de seis pacientes, primero sin audífono y luego con audífono; cada línea es un paciente.",
+    "Los puntajes sin audífono van del treinta y seis al sesenta por ciento, así que los pacientes difieren bastante entre sí.",
+    "Si tratáramos los dos conjuntos como grupos independientes, esta dispersión entre personas ocultaría la diferencia.",
+    "Sin embargo, en todos los pacientes el puntaje subió en la misma dirección, entre unos dieciséis y veintiocho puntos.",
+    "Una prueba pareada solo mira los cambios dentro de cada persona, así que capta esta consistencia y tiene más potencia con la misma muestra.",
+    "Por eso, darse cuenta de que los datos de antes y después son pareados es el primer paso para elegir la prueba correcta."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Significación y efecto",
+   "baslik": "Significación estadística y *clínica*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 40,
+     "adim": 10,
+     "ad": "Umbral en 4000 Hz (dB HL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 1.15,
+     "adim": 0.5,
+     "yazisiz": true,
+     "ad": "Número de personas (relativo)"
+    },
+    "seriler": [
+     {
+      "ad": "a_grubu",
+      "noktalar": [
+       [
+        0.0,
+        0.0796
+       ],
+       [
+        0.25,
+        0.0853
+       ],
+       [
+        0.5,
+        0.0914
+       ],
+       [
+        0.75,
+        0.0978
+       ],
+       [
+        1.0,
+        0.1046
+       ],
+       [
+        1.25,
+        0.1117
+       ],
+       [
+        1.5,
+        0.1192
+       ],
+       [
+        1.75,
+        0.1271
+       ],
+       [
+        2.0,
+        0.1353
+       ],
+       [
+        2.25,
+        0.144
+       ],
+       [
+        2.5,
+        0.1531
+       ],
+       [
+        2.75,
+        0.1625
+       ],
+       [
+        3.0,
+        0.1724
+       ],
+       [
+        3.25,
+        0.1827
+       ],
+       [
+        3.5,
+        0.1935
+       ],
+       [
+        3.75,
+        0.2047
+       ],
+       [
+        4.0,
+        0.2163
+       ],
+       [
+        4.25,
+        0.2283
+       ],
+       [
+        4.5,
+        0.2408
+       ],
+       [
+        4.75,
+        0.2537
+       ],
+       [
+        5.0,
+        0.2671
+       ],
+       [
+        5.25,
+        0.2808
+       ],
+       [
+        5.5,
+        0.295
+       ],
+       [
+        5.75,
+        0.3096
+       ],
+       [
+        6.0,
+        0.3247
+       ],
+       [
+        6.25,
+        0.3401
+       ],
+       [
+        6.5,
+        0.3559
+       ],
+       [
+        6.75,
+        0.372
+       ],
+       [
+        7.0,
+        0.3886
+       ],
+       [
+        7.25,
+        0.4054
+       ],
+       [
+        7.5,
+        0.4226
+       ],
+       [
+        7.75,
+        0.4401
+       ],
+       [
+        8.0,
+        0.4578
+       ],
+       [
+        8.25,
+        0.4758
+       ],
+       [
+        8.5,
+        0.4941
+       ],
+       [
+        8.75,
+        0.5125
+       ],
+       [
+        9.0,
+        0.5311
+       ],
+       [
+        9.25,
+        0.5498
+       ],
+       [
+        9.5,
+        0.5687
+       ],
+       [
+        9.75,
+        0.5876
+       ],
+       [
+        10.0,
+        0.6065
+       ],
+       [
+        10.25,
+        0.6255
+       ],
+       [
+        10.5,
+        0.6444
+       ],
+       [
+        10.75,
+        0.6632
+       ],
+       [
+        11.0,
+        0.6819
+       ],
+       [
+        11.25,
+        0.7005
+       ],
+       [
+        11.5,
+        0.7189
+       ],
+       [
+        11.75,
+        0.737
+       ],
+       [
+        12.0,
+        0.7548
+       ],
+       [
+        12.25,
+        0.7724
+       ],
+       [
+        12.5,
+        0.7895
+       ],
+       [
+        12.75,
+        0.8063
+       ],
+       [
+        13.0,
+        0.8226
+       ],
+       [
+        13.25,
+        0.8384
+       ],
+       [
+        13.5,
+        0.8537
+       ],
+       [
+        13.75,
+        0.8684
+       ],
+       [
+        14.0,
+        0.8825
+       ],
+       [
+        14.25,
+        0.896
+       ],
+       [
+        14.5,
+        0.9087
+       ],
+       [
+        14.75,
+        0.9208
+       ],
+       [
+        15.0,
+        0.9321
+       ],
+       [
+        15.25,
+        0.9426
+       ],
+       [
+        15.5,
+        0.9523
+       ],
+       [
+        15.75,
+        0.9612
+       ],
+       [
+        16.0,
+        0.9692
+       ],
+       [
+        16.25,
+        0.9764
+       ],
+       [
+        16.5,
+        0.9826
+       ],
+       [
+        16.75,
+        0.9879
+       ],
+       [
+        17.0,
+        0.9922
+       ],
+       [
+        17.25,
+        0.9956
+       ],
+       [
+        17.5,
+        0.998
+       ],
+       [
+        17.75,
+        0.9995
+       ],
+       [
+        18.0,
+        1.0
+       ],
+       [
+        18.25,
+        0.9995
+       ],
+       [
+        18.5,
+        0.998
+       ],
+       [
+        18.75,
+        0.9956
+       ],
+       [
+        19.0,
+        0.9922
+       ],
+       [
+        19.25,
+        0.9879
+       ],
+       [
+        19.5,
+        0.9826
+       ],
+       [
+        19.75,
+        0.9764
+       ],
+       [
+        20.0,
+        0.9692
+       ],
+       [
+        20.25,
+        0.9612
+       ],
+       [
+        20.5,
+        0.9523
+       ],
+       [
+        20.75,
+        0.9426
+       ],
+       [
+        21.0,
+        0.9321
+       ],
+       [
+        21.25,
+        0.9208
+       ],
+       [
+        21.5,
+        0.9087
+       ],
+       [
+        21.75,
+        0.896
+       ],
+       [
+        22.0,
+        0.8825
+       ],
+       [
+        22.25,
+        0.8684
+       ],
+       [
+        22.5,
+        0.8537
+       ],
+       [
+        22.75,
+        0.8384
+       ],
+       [
+        23.0,
+        0.8226
+       ],
+       [
+        23.25,
+        0.8063
+       ],
+       [
+        23.5,
+        0.7895
+       ],
+       [
+        23.75,
+        0.7724
+       ],
+       [
+        24.0,
+        0.7548
+       ],
+       [
+        24.25,
+        0.737
+       ],
+       [
+        24.5,
+        0.7189
+       ],
+       [
+        24.75,
+        0.7005
+       ],
+       [
+        25.0,
+        0.6819
+       ],
+       [
+        25.25,
+        0.6632
+       ],
+       [
+        25.5,
+        0.6444
+       ],
+       [
+        25.75,
+        0.6255
+       ],
+       [
+        26.0,
+        0.6065
+       ],
+       [
+        26.25,
+        0.5876
+       ],
+       [
+        26.5,
+        0.5687
+       ],
+       [
+        26.75,
+        0.5498
+       ],
+       [
+        27.0,
+        0.5311
+       ],
+       [
+        27.25,
+        0.5125
+       ],
+       [
+        27.5,
+        0.4941
+       ],
+       [
+        27.75,
+        0.4758
+       ],
+       [
+        28.0,
+        0.4578
+       ],
+       [
+        28.25,
+        0.4401
+       ],
+       [
+        28.5,
+        0.4226
+       ],
+       [
+        28.75,
+        0.4054
+       ],
+       [
+        29.0,
+        0.3886
+       ],
+       [
+        29.25,
+        0.372
+       ],
+       [
+        29.5,
+        0.3559
+       ],
+       [
+        29.75,
+        0.3401
+       ],
+       [
+        30.0,
+        0.3247
+       ],
+       [
+        30.25,
+        0.3096
+       ],
+       [
+        30.5,
+        0.295
+       ],
+       [
+        30.75,
+        0.2808
+       ],
+       [
+        31.0,
+        0.2671
+       ],
+       [
+        31.25,
+        0.2537
+       ],
+       [
+        31.5,
+        0.2408
+       ],
+       [
+        31.75,
+        0.2283
+       ],
+       [
+        32.0,
+        0.2163
+       ],
+       [
+        32.25,
+        0.2047
+       ],
+       [
+        32.5,
+        0.1935
+       ],
+       [
+        32.75,
+        0.1827
+       ],
+       [
+        33.0,
+        0.1724
+       ],
+       [
+        33.25,
+        0.1625
+       ],
+       [
+        33.5,
+        0.1531
+       ],
+       [
+        33.75,
+        0.144
+       ],
+       [
+        34.0,
+        0.1353
+       ],
+       [
+        34.25,
+        0.1271
+       ],
+       [
+        34.5,
+        0.1192
+       ],
+       [
+        34.75,
+        0.1117
+       ],
+       [
+        35.0,
+        0.1046
+       ],
+       [
+        35.25,
+        0.0978
+       ],
+       [
+        35.5,
+        0.0914
+       ],
+       [
+        35.75,
+        0.0853
+       ],
+       [
+        36.0,
+        0.0796
+       ],
+       [
+        36.25,
+        0.0741
+       ],
+       [
+        36.5,
+        0.069
+       ],
+       [
+        36.75,
+        0.0641
+       ],
+       [
+        37.0,
+        0.0596
+       ],
+       [
+        37.25,
+        0.0553
+       ],
+       [
+        37.5,
+        0.0513
+       ],
+       [
+        37.75,
+        0.0475
+       ],
+       [
+        38.0,
+        0.0439
+       ],
+       [
+        38.25,
+        0.0406
+       ],
+       [
+        38.5,
+        0.0375
+       ],
+       [
+        38.75,
+        0.0346
+       ],
+       [
+        39.0,
+        0.0319
+       ],
+       [
+        39.25,
+        0.0294
+       ],
+       [
+        39.5,
+        0.027
+       ],
+       [
+        39.75,
+        0.0248
+       ],
+       [
+        40.0,
+        0.0228
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "dolgu": true,
+      "etiket": "grupo A",
+      "etiket_konum": [
+       6,
+       1.0
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "b_grubu",
+      "noktalar": [
+       [
+        0.0,
+        0.0439
+       ],
+       [
+        0.25,
+        0.0475
+       ],
+       [
+        0.5,
+        0.0513
+       ],
+       [
+        0.75,
+        0.0553
+       ],
+       [
+        1.0,
+        0.0596
+       ],
+       [
+        1.25,
+        0.0641
+       ],
+       [
+        1.5,
+        0.069
+       ],
+       [
+        1.75,
+        0.0741
+       ],
+       [
+        2.0,
+        0.0796
+       ],
+       [
+        2.25,
+        0.0853
+       ],
+       [
+        2.5,
+        0.0914
+       ],
+       [
+        2.75,
+        0.0978
+       ],
+       [
+        3.0,
+        0.1046
+       ],
+       [
+        3.25,
+        0.1117
+       ],
+       [
+        3.5,
+        0.1192
+       ],
+       [
+        3.75,
+        0.1271
+       ],
+       [
+        4.0,
+        0.1353
+       ],
+       [
+        4.25,
+        0.144
+       ],
+       [
+        4.5,
+        0.1531
+       ],
+       [
+        4.75,
+        0.1625
+       ],
+       [
+        5.0,
+        0.1724
+       ],
+       [
+        5.25,
+        0.1827
+       ],
+       [
+        5.5,
+        0.1935
+       ],
+       [
+        5.75,
+        0.2047
+       ],
+       [
+        6.0,
+        0.2163
+       ],
+       [
+        6.25,
+        0.2283
+       ],
+       [
+        6.5,
+        0.2408
+       ],
+       [
+        6.75,
+        0.2537
+       ],
+       [
+        7.0,
+        0.2671
+       ],
+       [
+        7.25,
+        0.2808
+       ],
+       [
+        7.5,
+        0.295
+       ],
+       [
+        7.75,
+        0.3096
+       ],
+       [
+        8.0,
+        0.3247
+       ],
+       [
+        8.25,
+        0.3401
+       ],
+       [
+        8.5,
+        0.3559
+       ],
+       [
+        8.75,
+        0.372
+       ],
+       [
+        9.0,
+        0.3886
+       ],
+       [
+        9.25,
+        0.4054
+       ],
+       [
+        9.5,
+        0.4226
+       ],
+       [
+        9.75,
+        0.4401
+       ],
+       [
+        10.0,
+        0.4578
+       ],
+       [
+        10.25,
+        0.4758
+       ],
+       [
+        10.5,
+        0.4941
+       ],
+       [
+        10.75,
+        0.5125
+       ],
+       [
+        11.0,
+        0.5311
+       ],
+       [
+        11.25,
+        0.5498
+       ],
+       [
+        11.5,
+        0.5687
+       ],
+       [
+        11.75,
+        0.5876
+       ],
+       [
+        12.0,
+        0.6065
+       ],
+       [
+        12.25,
+        0.6255
+       ],
+       [
+        12.5,
+        0.6444
+       ],
+       [
+        12.75,
+        0.6632
+       ],
+       [
+        13.0,
+        0.6819
+       ],
+       [
+        13.25,
+        0.7005
+       ],
+       [
+        13.5,
+        0.7189
+       ],
+       [
+        13.75,
+        0.737
+       ],
+       [
+        14.0,
+        0.7548
+       ],
+       [
+        14.25,
+        0.7724
+       ],
+       [
+        14.5,
+        0.7895
+       ],
+       [
+        14.75,
+        0.8063
+       ],
+       [
+        15.0,
+        0.8226
+       ],
+       [
+        15.25,
+        0.8384
+       ],
+       [
+        15.5,
+        0.8537
+       ],
+       [
+        15.75,
+        0.8684
+       ],
+       [
+        16.0,
+        0.8825
+       ],
+       [
+        16.25,
+        0.896
+       ],
+       [
+        16.5,
+        0.9087
+       ],
+       [
+        16.75,
+        0.9208
+       ],
+       [
+        17.0,
+        0.9321
+       ],
+       [
+        17.25,
+        0.9426
+       ],
+       [
+        17.5,
+        0.9523
+       ],
+       [
+        17.75,
+        0.9612
+       ],
+       [
+        18.0,
+        0.9692
+       ],
+       [
+        18.25,
+        0.9764
+       ],
+       [
+        18.5,
+        0.9826
+       ],
+       [
+        18.75,
+        0.9879
+       ],
+       [
+        19.0,
+        0.9922
+       ],
+       [
+        19.25,
+        0.9956
+       ],
+       [
+        19.5,
+        0.998
+       ],
+       [
+        19.75,
+        0.9995
+       ],
+       [
+        20.0,
+        1.0
+       ],
+       [
+        20.25,
+        0.9995
+       ],
+       [
+        20.5,
+        0.998
+       ],
+       [
+        20.75,
+        0.9956
+       ],
+       [
+        21.0,
+        0.9922
+       ],
+       [
+        21.25,
+        0.9879
+       ],
+       [
+        21.5,
+        0.9826
+       ],
+       [
+        21.75,
+        0.9764
+       ],
+       [
+        22.0,
+        0.9692
+       ],
+       [
+        22.25,
+        0.9612
+       ],
+       [
+        22.5,
+        0.9523
+       ],
+       [
+        22.75,
+        0.9426
+       ],
+       [
+        23.0,
+        0.9321
+       ],
+       [
+        23.25,
+        0.9208
+       ],
+       [
+        23.5,
+        0.9087
+       ],
+       [
+        23.75,
+        0.896
+       ],
+       [
+        24.0,
+        0.8825
+       ],
+       [
+        24.25,
+        0.8684
+       ],
+       [
+        24.5,
+        0.8537
+       ],
+       [
+        24.75,
+        0.8384
+       ],
+       [
+        25.0,
+        0.8226
+       ],
+       [
+        25.25,
+        0.8063
+       ],
+       [
+        25.5,
+        0.7895
+       ],
+       [
+        25.75,
+        0.7724
+       ],
+       [
+        26.0,
+        0.7548
+       ],
+       [
+        26.25,
+        0.737
+       ],
+       [
+        26.5,
+        0.7189
+       ],
+       [
+        26.75,
+        0.7005
+       ],
+       [
+        27.0,
+        0.6819
+       ],
+       [
+        27.25,
+        0.6632
+       ],
+       [
+        27.5,
+        0.6444
+       ],
+       [
+        27.75,
+        0.6255
+       ],
+       [
+        28.0,
+        0.6065
+       ],
+       [
+        28.25,
+        0.5876
+       ],
+       [
+        28.5,
+        0.5687
+       ],
+       [
+        28.75,
+        0.5498
+       ],
+       [
+        29.0,
+        0.5311
+       ],
+       [
+        29.25,
+        0.5125
+       ],
+       [
+        29.5,
+        0.4941
+       ],
+       [
+        29.75,
+        0.4758
+       ],
+       [
+        30.0,
+        0.4578
+       ],
+       [
+        30.25,
+        0.4401
+       ],
+       [
+        30.5,
+        0.4226
+       ],
+       [
+        30.75,
+        0.4054
+       ],
+       [
+        31.0,
+        0.3886
+       ],
+       [
+        31.25,
+        0.372
+       ],
+       [
+        31.5,
+        0.3559
+       ],
+       [
+        31.75,
+        0.3401
+       ],
+       [
+        32.0,
+        0.3247
+       ],
+       [
+        32.25,
+        0.3096
+       ],
+       [
+        32.5,
+        0.295
+       ],
+       [
+        32.75,
+        0.2808
+       ],
+       [
+        33.0,
+        0.2671
+       ],
+       [
+        33.25,
+        0.2537
+       ],
+       [
+        33.5,
+        0.2408
+       ],
+       [
+        33.75,
+        0.2283
+       ],
+       [
+        34.0,
+        0.2163
+       ],
+       [
+        34.25,
+        0.2047
+       ],
+       [
+        34.5,
+        0.1935
+       ],
+       [
+        34.75,
+        0.1827
+       ],
+       [
+        35.0,
+        0.1724
+       ],
+       [
+        35.25,
+        0.1625
+       ],
+       [
+        35.5,
+        0.1531
+       ],
+       [
+        35.75,
+        0.144
+       ],
+       [
+        36.0,
+        0.1353
+       ],
+       [
+        36.25,
+        0.1271
+       ],
+       [
+        36.5,
+        0.1192
+       ],
+       [
+        36.75,
+        0.1117
+       ],
+       [
+        37.0,
+        0.1046
+       ],
+       [
+        37.25,
+        0.0978
+       ],
+       [
+        37.5,
+        0.0914
+       ],
+       [
+        37.75,
+        0.0853
+       ],
+       [
+        38.0,
+        0.0796
+       ],
+       [
+        38.25,
+        0.0741
+       ],
+       [
+        38.5,
+        0.069
+       ],
+       [
+        38.75,
+        0.0641
+       ],
+       [
+        39.0,
+        0.0596
+       ],
+       [
+        39.25,
+        0.0553
+       ],
+       [
+        39.5,
+        0.0513
+       ],
+       [
+        39.75,
+        0.0475
+       ],
+       [
+        40.0,
+        0.0439
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "dolgu": true,
+      "etiket": "grupo B",
+      "etiket_konum": [
+       32,
+       1.0
+      ],
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "x": [
+       18,
+       20
+      ],
+      "y": 1.08,
+      "etiket": "2 dB",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "p < 0,001",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Diferencia: solo 2 dB",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Quizá sin importancia para la persona",
+     "cumle": 6,
+     "ikon": "hasta"
+    }
+   ],
+   "cumleler": [
+    "Volvamos ahora a nuestro ejemplo inicial; los números son un ejemplo didáctico.",
+    "Se evaluó a cuatrocientos trabajadores en cada lugar de trabajo; la desviación estándar de los umbrales en cuatro kilohertz es de ocho decibeles en ambos grupos.",
+    "La diferencia media entre los grupos es de solo dos decibeles.",
+    "Con muestras de este tamaño, el estadístico t resulta de unos tres coma cinco, y el valor p es menor que cero coma cero cero uno.",
+    "Así que la diferencia es estadísticamente muy significativa, pero en el gráfico las dos distribuciones se superponen casi por completo.",
+    "Además, dos decibeles son menos que el paso de cinco decibeles de la audiometría y que la diferencia test-retest.",
+    "Esta diferencia no significa nada al evaluar a un solo paciente, pero a nivel poblacional puede señalar una tendencia temprana.",
+    "La relevancia clínica se pregunta si una diferencia es lo bastante grande como para producir un cambio real para el paciente.",
+    "En los cuestionarios, este límite suele llamarse diferencia mínima importante; lo veremos con las escalas de mareo y de tinnitus."
+   ]
+  },
+  {
+   "id": "etki",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Significación y efecto",
+   "baslik": "Tamaño del *efecto*",
+   "ogeler": [
+    {
+     "ikon": "tablo",
+     "baslik": "d de Cohen",
+     "metin": "Diferencia dividida entre la DE",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "0,2: pequeño",
+     "metin": "Nuestro ejemplo: 0,25",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "0,5: mediano",
+     "metin": "Visible a simple vista",
+     "cumle": 4
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "0,8: grande",
+     "metin": "Una diferencia marcada",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Para expresar el tamaño de una diferencia con independencia del tamaño de la muestra, usamos el tamaño del efecto.",
+    "Una medida habitual para dos medias es la d de Cohen: la diferencia entre las medias dividida entre la desviación estándar.",
+    "En nuestro ejemplo, dos dividido entre ocho da cero coma dos cinco.",
+    "Según los criterios de Cohen, muy usados, cero coma dos es un efecto pequeño; nuestro ejemplo está justo por encima de ese punto de corte.",
+    "Cero coma cinco se interpreta como un efecto mediano, y cero coma ocho o más como un efecto grande.",
+    "Estos puntos de corte son una guía aproximada; en la clínica, la verdadera pregunta es qué significa la diferencia para el paciente."
+   ]
+  },
+  {
+   "id": "coklu",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Significación y efecto",
+   "baslik": "La trampa de las *comparaciones* múltiples",
+   "maddeler": [
+    {
+     "metin": "20 pruebas, 1 falsa alarma esperada",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Bonferroni: alfa entre el número de pruebas",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Resultado principal fijado de antemano",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Hallazgos en subgrupos requieren confirmación",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "Si un estudio hace muchas comparaciones, también aumenta el número de resultados que salen significativos por azar.",
+    "Si alfa es cero coma cero cinco y en verdad no hay diferencia, se espera en promedio una falsa alarma en veinte pruebas separadas.",
+    "Por ejemplo, analizar cada frecuencia y cada oído por separado aumenta rápidamente este riesgo.",
+    "Una solución sencilla es el método de Bonferroni: alfa se divide entre el número de pruebas; con diez pruebas, el punto de corte es cero coma cero cero cinco.",
+    "Los buenos estudios definen y registran el resultado principal, la pregunta central, antes de comenzar.",
+    "Las diferencias en subgrupos halladas después pueden ser interesantes, pero deben leerse como pistas que nuevos estudios tienen que confirmar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En los resultados, mira tres cosas: qué tan grande es la diferencia, qué tan estrecho es el intervalo de confianza y cuál es el valor p.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la clínica: en la sección de resultados de un artículo, no se queden en el valor p.",
+    "Primero busquen la diferencia en sí, en decibeles, porcentaje o puntos, y piensen si es clínicamente relevante.",
+    "Luego miren el intervalo de confianza: ¿es estrecho?, ¿incluye también un valor sin importancia clínica?",
+    "El valor p complementa estos dos datos, pero no los reemplaza."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "H0: sin diferencia; p: tanta diferencia por azar",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Tipo I: falsa alarma; tipo II: omisión",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Elección de prueba: tipo de dato y diseño",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Significativo no significa _clínicamente importante_",
+     "cumle": 3,
+     "ikon": "hasta"
+    }
+   ],
+   "cumleler": [
+    "La prueba de hipótesis supone que no hay diferencia; el valor p es la probabilidad de un resultado al menos tan extremo como el observado bajo ese supuesto.",
+    "Un error tipo uno es una falsa alarma y un error tipo dos, una omisión; la potencia es la probabilidad de detectar una diferencia real.",
+    "El diseño independiente o pareado, el número de grupos y la distribución determinan la elección de la prueba.",
+    "En muestras grandes, diferencias pequeñas pueden ser significativas; el tamaño del efecto y el significado clínico se evalúan aparte."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Puntajes sin y con audífono en los mismos pacientes?",
+   "secenekler": [
+    "Prueba t independiente",
+    "Prueba t pareada",
+    "Prueba de chi cuadrado",
+    "Correlación de Pearson"
+   ],
+   "dogru": 1,
+   "aciklama": "Dos mediciones en la misma persona son datos _pareados_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: se comparan los puntajes de palabras sin y con audífono en los mismos veinte pacientes, y los datos son normales. ¿Qué prueba usas?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: la prueba t pareada.",
+    "Cada paciente es su propio control; si los datos no tuvieran distribución normal, se elegiría la prueba de Wilcoxon."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Sensibilidad*, especificidad y valores predictivos",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la sensibilidad, la especificidad y los valores predictivos, que muestran qué tan bien una prueba separa a los grupos.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

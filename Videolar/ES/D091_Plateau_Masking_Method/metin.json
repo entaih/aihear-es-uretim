@@ -1,0 +1,931 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D091_Plateau_Masking_Method_ES",
+ "kapak": {
+  "ust": "LECCIÓN 91",
+  "baslik": "Método de<br>la *meseta*",
+  "alt": "Hallar el umbral real con enmascaramiento",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      15
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      50,
+      55,
+      60,
+      60
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava_maskeli",
+     "degerler": [
+      65,
+      65,
+      70,
+      70,
+      75,
+      75
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "El método de la meseta paso a paso | Lección 91 | AIHEAR Academia de Audiología",
+  "aciklama": "El método de la meseta es la forma básica de ajustar el nivel del ruido en el enmascaramiento clínico y de hallar el umbral real del oído evaluado. En esta lección trabajamos paso a paso, con una medición de ejemplo, el nivel inicial de enmascaramiento, los incrementos de ruido de 5 dB, el criterio de meseta y cómo evitar el sobreenmascaramiento.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Hood JD (1960), The principles and practice of bone conduction audiometry, Laryngoscope; BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "enmascaramiento",
+   "audiometria"
+  ],
+  "etiketler": [
+   "método de la meseta",
+   "enmascaramiento clínico",
+   "nivel inicial de enmascaramiento",
+   "enmascaramiento efectivo",
+   "sobreenmascaramiento",
+   "subenmascaramiento",
+   "meseta de Hood",
+   "audiometría tonal",
+   "umbral enmascarado",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 91",
+   "baslik": "El método de la *meseta*, paso a paso",
+   "alt": "Nivel inicial, incrementos de ruido y umbral real",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprenderemos, paso a paso, el método de la meseta, que se usa para ajustar el nivel del ruido enmascarante.",
+    "Con un ejemplo, trabajaremos el nivel inicial, los incrementos de ruido y la decisión sobre el umbral real."
+   ]
+  },
+  {
+   "id": "fikir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La idea básica",
+   "baslik": "¿Cuánto *ruido?*",
+   "maddeler": [
+    {
+     "metin": "Poco ruido: _subenmascaramiento_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Demasiado ruido: _sobreenmascaramiento_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Umbral estable entre ambos: _meseta_",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Descrito por: _Hood_",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Una vez que decidimos que hace falta enmascarar, surge una nueva pregunta: ¿cuánto ruido debemos dar al oído opuesto?",
+    "Si el ruido es muy poco, el oído opuesto sigue oyendo el tono; esto se llama subenmascaramiento.",
+    "Si el ruido es excesivo, cruza al oído evaluado y eleva su umbral; esto se llama sobreenmascaramiento.",
+    "Entre ambos hay un rango en el que el umbral del oído evaluado se mantiene igual aunque aumente el ruido.",
+    "Este rango se llama meseta, y el método de la meseta se basa en encontrarlo.",
+    "El método lo describió Hood, y sigue siendo hoy la base del enmascaramiento clínico.",
+    "Su fortaleza es que basa el nivel de enmascaramiento en las respuestas del propio paciente y no en una estimación."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "karsi_kulak",
+      "cumle": 1
+     },
+     {
+      "parca": "test_kulagi",
+      "cumle": 2
+     },
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "bolgeler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La idea básica",
+   "baslik": "Las tres *zonas* del enmascaramiento",
+   "cumleler": [
+    "Imaginemos que subimos el ruido paso a paso y volvemos a medir el umbral en cada paso.",
+    "En la primera zona el umbral sube con el ruido, porque en realidad el tono lo oye el oído no evaluado, o NTE.",
+    "En la segunda zona el umbral se mantiene igual aunque subamos el ruido; esta es la meseta.",
+    "En la meseta el NTE no oye el tono y el oído evaluado, o TE, no se ve afectado por el ruido; este es el umbral real del TE.",
+    "En la tercera zona el ruido llega a la cóclea del TE pese a perder la atenuación interaural, o AI, y el umbral vuelve a subir.",
+    "Nuestro objetivo es siempre tomar la decisión en la segunda zona, en la meseta."
+   ],
+   "cizim": "plato_grafigi",
+   "ayar": {
+    "esik": 45,
+    "plato": [
+     35,
+     75
+    ],
+    "bolge_cumleleri": [
+     1,
+     2,
+     4
+    ],
+    "esik_cumle": 3,
+    "cumle": 0
+   },
+   "vurgula": [
+    {
+     "parca": "yetersiz_maskeleme",
+     "cumle": 1
+    },
+    {
+     "parca": "plato",
+     "cumle": 2
+    },
+    {
+     "parca": "gercek_esik",
+     "cumle": 3
+    },
+    {
+     "parca": "asiri_maskeleme",
+     "cumle": 4
+    },
+    {
+     "parca": "plato",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Subenmascaramiento: el umbral sube _con el ruido_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Meseta: _umbral real_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sobreenmascaramiento: el ruido _llega al TE_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Preparación",
+   "baslik": "Antes de *empezar*",
+   "maddeler": [
+    {
+     "metin": "_Registrar_ los umbrales sin enmascarar",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Dar al paciente _instrucciones_ claras",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ruido: _banda estrecha_, en dB EM",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Ruido al _NTE_, tono al TE",
+     "cumle": 6,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Antes de empezar con el método de la meseta, ya deben estar registrados los umbrales sin enmascarar de ambos oídos.",
+    "Le explicamos al paciente que oirá un ruido continuo en un oído y que debe ignorarlo.",
+    "Le pedimos que responda solo cuando oiga el tono, el pitido, por débil que sea.",
+    {
+     "yazi": "Para los tonos puros usamos ruido de banda estrecha centrado en la frecuencia de prueba, y su nivel se da en enmascaramiento efectivo, o dB EM."
+    },
+    {
+     "yazi": "El dB EM es una calibración basada en cuánto eleva el ruido el umbral."
+    },
+    {
+     "yazi": "Por ejemplo, un ruido de treinta dB EM eleva un umbral normal en esa frecuencia a unos treinta dB HL."
+    },
+    "El ruido va al NTE y el tono al TE; asegúrense de que los auriculares estén del lado correcto."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 3
+     },
+     {
+      "parca": "kulaklik",
+      "cumle": 6
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "hasta_butonu",
+      "metin": "responder solo al tono",
+      "cumle": 2
+     },
+     {
+      "parca": "kulaklik",
+      "metin": "ruido al NTE, tono al TE",
+      "cumle": 6
+     }
+    ]
+   }
+  },
+  {
+   "id": "baslangic",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Preparación",
+   "baslik": "*Nivel* inicial de enmascaramiento",
+   "maddeler": [
+    {
+     "metin": "Vía aérea: umbral VA del NTE _+10 dB_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "10 dB: _factor de seguridad_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Vía ósea: sumar el _efecto de oclusión_",
+     "cumle": 4,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Efecto de oclusión: _frecuencias graves_",
+     "cumle": 5,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EJEMPLO",
+    "metin": "Umbral del NTE 10 dB HL, ruido inicial *20 dB EM*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "El primer paso es fijar el nivel inicial de enmascaramiento.",
+    "En la vía aérea, el nivel inicial está diez decibeles por encima del umbral por vía aérea del NTE en esa frecuencia.",
+    "Estos diez decibeles son un factor de seguridad que se suma para cubrir las diferencias entre personas.",
+    {
+     "yazi": "Por ejemplo, si el umbral del NTE en mil hertz es de diez decibeles, el ruido inicial es de veinte dB EM."
+    },
+    "En el enmascaramiento de la vía ósea el NTE está tapado con un auricular, así que se produce un efecto de oclusión que se suma al nivel inicial.",
+    "El efecto de oclusión importa entre doscientos cincuenta y mil hertz, y no se suma si el NTE tiene una pérdida conductiva.",
+    "Esta corrección es mayor con auriculares supraaurales y menor con auriculares de inserción colocados en profundidad."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Paso a paso",
+   "baslik": "El método de la meseta: *pasos*",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido al NTE",
+     "metin": "Continuo, al nivel inicial",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Umbral del TE",
+     "metin": "Se busca de nuevo con ruido",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Si lo oye",
+     "metin": "Ruido +5 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Si no lo oye",
+     "metin": "Tono +5 dB",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Meseta",
+     "metin": "Estable en tres incrementos",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Paso uno: presentamos el ruido de forma continua al NTE, al nivel inicial.",
+    "Paso dos: con el ruido encendido, buscamos de nuevo el umbral del TE, partiendo del umbral sin enmascarar.",
+    "Si el paciente oye el tono, subimos el ruido cinco decibeles sin cambiar el nivel del tono y volvemos a presentar el tono.",
+    "Si no lo oye, subimos el tono en pasos de cinco decibeles hasta que responda, y luego volvemos a subir el ruido.",
+    "Este ciclo continúa hasta que el umbral se mantiene igual pese a los incrementos de ruido.",
+    "Si el umbral no cambia en tres incrementos sucesivos de ruido, quince decibeles en total, se ha encontrado la meseta.",
+    "Este umbral estable se registra como el umbral enmascarado del TE.",
+    "Algunas clínicas buscan una meseta de veinte decibeles, mientras que la guía de la Sociedad Británica de Audiología sube el ruido en pasos de diez decibeles."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Paso a paso",
+   "baslik": "Ejemplo: el cuadro *sin enmascarar*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_ (NTE): normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_ (TE): vía aérea sin enmascarar",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       10
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       50,
+       55,
+       60,
+       60
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      50
+     ],
+     "etiket": "40 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Veamos un ejemplo: aquí el oído derecho es normal, con umbrales por vía aérea y por vía ósea de diez decibeles en mil hertz.",
+    "El umbral por vía aérea sin enmascarar del oído izquierdo en mil hertz es de cincuenta decibeles.",
+    "Con auriculares supraaurales la diferencia es de cuarenta decibeles, así que el umbral por vía aérea izquierdo debe confirmarse con enmascaramiento.",
+    {
+     "yazi": "El oído izquierdo es el TE y el derecho el NTE; el ruido inicial es diez más diez, es decir, veinte dB EM."
+    },
+    "Ahora aplicaremos el método de la meseta para hallar el umbral real del oído izquierdo en esta frecuencia."
+   ]
+  },
+  {
+   "id": "tablo",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Paso a paso",
+   "baslik": "Paso a paso en *1000 Hz*",
+   "sutunlar": [
+    "Ruido (dB EM)",
+    "Umbral TE (dB HL)",
+    "Interpretación"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "20",
+      "60",
+      "El umbral subió"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "25",
+      "65",
+      "El umbral subió"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "30",
+      "70",
+      "El umbral subió"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "35",
+      "70",
+      "Estable"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "40",
+      "70",
+      "Estable"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "45",
+      "70",
+      "Meseta: 70 dB HL"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Cuando buscamos de nuevo el umbral izquierdo con veinte dB EM de ruido, sube de cincuenta a sesenta decibeles."
+    },
+    "Al subir el ruido a veinticinco, el umbral sube a sesenta y cinco; el umbral se desplaza con el ruido.",
+    {
+     "yazi": "Con treinta dB EM el umbral sube a setenta decibeles."
+    },
+    {
+     "yazi": "Con treinta y cinco dB EM el umbral sigue en setenta decibeles; por primera vez no cambió."
+    },
+    {
+     "yazi": "Con cuarenta dB EM el umbral también se mantiene en setenta decibeles."
+    },
+    {
+     "yazi": "Con cuarenta y cinco dB EM vuelve a ser setenta; el ruido subió quince decibeles, de treinta a cuarenta y cinco, y el umbral se mantuvo."
+    },
+    "Encontramos la meseta: el umbral enmascarado del oído izquierdo en mil hertz es de setenta decibeles HL.",
+    "Los cincuenta decibeles sin enmascarar eran en realidad una respuesta sombra oída por el oído derecho."
+   ]
+  },
+  {
+   "id": "sonuc",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Paso a paso",
+   "baslik": "Los umbrales *reales* enmascarados",
+   "lejant": [
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sin enmascarar_: respuestas sombra",
+     "cumle": 1
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Enmascarados_: umbrales reales",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       50,
+       55,
+       60,
+       60
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       65,
+       65,
+       70,
+       70,
+       75,
+       75
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Al repetir el mismo procedimiento en cada frecuencia que requiere enmascaramiento, aparece el cuadro real.",
+    "Las cruces azules muestran las respuestas sin enmascarar, las respuestas sombra oídas por el oído derecho.",
+    "Los cuadrados azules son los umbrales reales, enmascarados, obtenidos con el método de la meseta.",
+    "En este ejemplo, la pérdida del oído izquierdo es unos quince a veinte decibeles mayor de lo que sugería la prueba sin enmascarar.",
+    "Sin enmascarar, el grado de pérdida de este oído se habría informado como más leve de lo que realmente es."
+   ]
+  },
+  {
+   "id": "kaymazsa",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Paso a paso",
+   "baslik": "Si el umbral nunca se *desplaza*",
+   "maddeler": [
+    {
+     "metin": "Primera prueba enmascarada: _mismo umbral_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "_Estable_ en los tres incrementos",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "El umbral sin enmascarar era _real_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Registrar igual con _símbolo enmascarado_",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "A veces el umbral medido con el ruido inicial es igual al umbral sin enmascarar.",
+    "Si el umbral sigue sin cambiar al subir el ruido tres veces, la meseta estaba ahí desde el principio.",
+    "Esto muestra que el umbral sin enmascarar ya pertenecía al TE; en otras palabras, no había audición cruzada.",
+    "También en este caso el umbral se registra con el símbolo enmascarado, porque se confirmó con enmascaramiento."
+   ]
+  },
+  {
+   "id": "asiri",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Límites",
+   "baslik": "Cómo evitar el *sobreenmascaramiento*",
+   "maddeler": [
+    {
+     "metin": "El ruido también cruza, atenuado _por la AI_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Si alcanza la VO del TE: _sobreenmascaramiento_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Límite superior: _VO del TE + AI - 5_",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Sin meseta: _dilema de enmascaramiento_",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "El ruido dado al NTE también puede atravesar el cráneo hasta el TE, perdiendo más o menos la AI en el camino.",
+    "Si el ruido que llega al TE alcanza su umbral por vía ósea, también enmascara el TE; esto es el sobreenmascaramiento.",
+    "Por eso, el nivel de ruido seguro más alto está cinco decibeles por debajo de la suma del umbral por vía ósea del TE y la AI.",
+    "El sobreenmascaramiento hace que el umbral real parezca peor y que el umbral vuelva a subir después de la meseta.",
+    "Si el TE tiene una pérdida conductiva, es decir, una buena vía ósea, este límite superior es más bajo.",
+    "Si ambos oídos tienen una pérdida conductiva importante, puede que no se encuentre ninguna meseta; esto se llama dilema de enmascaramiento.",
+    "Por eso, al subir el ruido, calculen en cada paso cuánto se acercan a este límite superior."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulaklar_arasi_zayiflama",
+      "cumle": 0
+     },
+     {
+      "parca": "test_kulagi",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "genislik",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 4",
+   "bolum": "Límites",
+   "baslik": "*Ancho* de la meseta",
+   "sol": {
+    "ust": "Meseta amplia",
+    "maddeler": [
+     {
+      "metin": "Vía ósea del TE peor",
+      "cumle": 1
+     },
+     {
+      "metin": "Conducción normal en el NTE",
+      "cumle": 2
+     },
+     {
+      "metin": "Auriculares de inserción",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Meseta estrecha",
+    "maddeler": [
+     {
+      "metin": "Pérdida conductiva en el TE",
+      "cumle": 4
+     },
+     {
+      "metin": "Pérdida conductiva en el NTE",
+      "cumle": 5
+     },
+     {
+      "metin": "Ambas juntas: dilema",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "El ancho de la meseta depende de la distancia entre el ruido mínimo necesario y el ruido máximo seguro.",
+    "Cuanto peor es el umbral por vía ósea del TE, más tarde aparece el sobreenmascaramiento y más alto es el límite superior.",
+    "Si la conducción del NTE es normal, el ruido llega a su cóclea sin pérdida y el límite inferior se mantiene bajo.",
+    "Los auriculares de inserción elevan la AI, así que suben el límite superior y amplían la meseta.",
+    "Si el TE tiene una pérdida conductiva, su vía ósea es buena, así que el límite superior es más bajo.",
+    "Si el NTE tiene una pérdida conductiva, el ruido también debe superar esa barrera, así que el límite inferior sube.",
+    "Cuando ambas cosas ocurren a la vez, la meseta puede desaparecer por completo; es el dilema de enmascaramiento."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "No registrar un umbral enmascarado sin haber visto una meseta. Los pequeños desplazamientos de unos 5 dB con ruido en el oído opuesto pueden deberse al enmascaramiento central.",
+   "cumleler": [
+    "Señalemos dos errores frecuentes con el método de la meseta.",
+    "El primero es detenerse cuando el umbral no cambia en la primera prueba enmascarada; hay que subir el ruido tres veces para ver una meseta.",
+    "El segundo es confundir pequeños desplazamientos de unos pocos decibeles con subenmascaramiento.",
+    "Aun cuando el ruido se da al oído opuesto, el umbral puede desplazarse unos cinco decibeles; esto se llama enmascaramiento central.",
+    "Este pequeño desplazamiento no significa que la meseta se haya roto."
+   ]
+  },
+  {
+   "id": "kemik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Límites",
+   "baslik": "Una *meseta* en la vía ósea",
+   "maddeler": [
+    {
+     "metin": "Vibrador en la _mastoides del TE_",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Ruido al NTE, _TE descubierto_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Inicio: +10 dB y corrección por _oclusión_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Mismos pasos y _criterio de meseta_",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "En la vía ósea se usa el mismo método; el vibrador se coloca en la mastoides del oído evaluado.",
+    "El ruido se da al NTE con un auricular supraaural o de inserción, y el TE se deja descubierto.",
+    "El nivel inicial es el umbral por vía aérea del NTE, más un factor de seguridad de diez decibeles y la corrección por efecto de oclusión, si corresponde.",
+    "Los incrementos de ruido y el criterio de meseta son los mismos que en la vía aérea.",
+    "Como en la vía ósea la AI es cercana a cero, casi siempre hace falta enmascarar en un oído con brecha aéreo-ósea.",
+    "También en el enmascaramiento de la vía ósea, un umbral no es definitivo hasta haber visto una meseta."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kemik_vibratoru",
+      "cumle": 0
+     },
+     {
+      "parca": "kulaklik",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Límites",
+   "baslik": "Registro e *informe*",
+   "maddeler": [
+    {
+     "metin": "Marcar con el _símbolo enmascarado_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Anotar el _nivel de ruido_ de la meseta",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Sin meseta: _indicarlo_ en el informe",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Sin respuesta: _flecha hacia abajo_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "El umbral obtenido con la meseta se marca en el audiograma con el símbolo enmascarado correspondiente.",
+    "En el formulario también se anota el nivel de ruido con el que se obtuvo la meseta.",
+    "Así, quien lea el audiograma más adelante puede juzgar si el enmascaramiento fue adecuado.",
+    "Si no se encontró una meseta, el umbral no es definitivo, y esto se indica con claridad en el informe.",
+    "Si no hay respuesta ni siquiera al nivel máximo del audiómetro, se añade una flecha hacia abajo bajo el símbolo.",
+    "Estos registros también permiten comparar pruebas posteriores del mismo paciente en las mismas condiciones."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Inicio: umbral del NTE _+10 dB_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Lo oye: subir ruido; no: subir _tono_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Estable en _15 a 20 dB_: meseta",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Vigilar el límite de _sobreenmascaramiento_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "En la vía aérea, el ruido inicial está diez decibeles por encima del umbral por vía aérea del NTE.",
+    "Si el paciente oye el tono, el ruido se sube cinco decibeles; si no lo oye, se sube el tono.",
+    "Si el umbral no cambia mientras el ruido sube de quince a veinte decibeles, se encontró la meseta y ese es el umbral real.",
+    "Si el ruido supera la vía ósea del TE más la AI, menos cinco decibeles, hay riesgo de sobreenmascaramiento."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "El ruido pasó de 30 a 45 dB EM; el umbral siguió en 70 dB. ¿Resultado?",
+   "secenekler": [
+    "Subenmascaramiento",
+    "Meseta: umbral real 70 dB",
+    "Sobreenmascaramiento"
+   ],
+   "dogru": 1,
+   "aciklama": "El ruido subió 15 dB pero el umbral no cambió; el valor pertenece al _oído evaluado_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: el ruido se subió de treinta a cuarenta y cinco dB EM y el umbral siguió en setenta decibeles. ¿Cuál es el resultado?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: se encontró la meseta, y el umbral real es de setenta decibeles.",
+    "El ruido subió quince decibeles pero el umbral no cambió, así que el valor medido pertenece al oído evaluado."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "El *dilema* de enmascaramiento en la pérdida conductiva",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos el dilema de enmascaramiento que aparece en la hipoacusia conductiva bilateral.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

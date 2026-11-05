@@ -1,0 +1,477 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R384_Five_Percent_of_Normals_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #384",
+  "baslik": "Normal, pero *fuera de los límites*",
+  "alt": "La regla de las dos desviaciones estándar",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 4.8,
+    "max": 6.4,
+    "ad": "Latencia de la onda V (ms)",
+    "isaretler": [
+     5.0,
+     5.2,
+     5.4,
+     5.6,
+     5.8,
+     6.0,
+     6.2
+    ],
+    "ond": 1
+   },
+   "y": {
+    "min": 0,
+    "max": 1.15,
+    "adim": 0.5,
+    "yazisiz": true,
+    "ad": "Número de personas (relativo)"
+   },
+   "seriler": [
+    {
+     "ad": "egri",
+     "noktalar": [
+      [
+       4.8,
+       0.0003
+      ],
+      [
+       4.82,
+       0.0005
+      ],
+      [
+       4.84,
+       0.0007
+      ],
+      [
+       4.86,
+       0.0011
+      ],
+      [
+       4.88,
+       0.0015
+      ],
+      [
+       4.9,
+       0.0022
+      ],
+      [
+       4.92,
+       0.0031
+      ],
+      [
+       4.94,
+       0.0043
+      ],
+      [
+       4.96,
+       0.006
+      ],
+      [
+       4.98,
+       0.0082
+      ],
+      [
+       5.0,
+       0.0111
+      ],
+      [
+       5.02,
+       0.0149
+      ],
+      [
+       5.04,
+       0.0198
+      ],
+      [
+       5.06,
+       0.0261
+      ],
+      [
+       5.08,
+       0.034
+      ],
+      [
+       5.1,
+       0.0439
+      ],
+      [
+       5.12,
+       0.0561
+      ],
+      [
+       5.14,
+       0.071
+      ],
+      [
+       5.16,
+       0.0889
+      ],
+      [
+       5.18,
+       0.1103
+      ],
+      [
+       5.2,
+       0.1353
+      ],
+      [
+       5.22,
+       0.1645
+      ],
+      [
+       5.24,
+       0.1979
+      ],
+      [
+       5.26,
+       0.2357
+      ],
+      [
+       5.28,
+       0.278
+      ],
+      [
+       5.3,
+       0.3247
+      ],
+      [
+       5.32,
+       0.3753
+      ],
+      [
+       5.34,
+       0.4296
+      ],
+      [
+       5.36,
+       0.4868
+      ],
+      [
+       5.38,
+       0.5461
+      ],
+      [
+       5.4,
+       0.6065
+      ],
+      [
+       5.42,
+       0.667
+      ],
+      [
+       5.44,
+       0.7261
+      ],
+      [
+       5.46,
+       0.7827
+      ],
+      [
+       5.48,
+       0.8353
+      ],
+      [
+       5.5,
+       0.8825
+      ],
+      [
+       5.52,
+       0.9231
+      ],
+      [
+       5.54,
+       0.956
+      ],
+      [
+       5.56,
+       0.9802
+      ],
+      [
+       5.58,
+       0.995
+      ],
+      [
+       5.6,
+       1.0
+      ],
+      [
+       5.62,
+       0.995
+      ],
+      [
+       5.64,
+       0.9802
+      ],
+      [
+       5.66,
+       0.956
+      ],
+      [
+       5.68,
+       0.9231
+      ],
+      [
+       5.7,
+       0.8825
+      ],
+      [
+       5.72,
+       0.8353
+      ],
+      [
+       5.74,
+       0.7827
+      ],
+      [
+       5.76,
+       0.7261
+      ],
+      [
+       5.78,
+       0.667
+      ],
+      [
+       5.8,
+       0.6065
+      ],
+      [
+       5.82,
+       0.5461
+      ],
+      [
+       5.84,
+       0.4868
+      ],
+      [
+       5.86,
+       0.4296
+      ],
+      [
+       5.88,
+       0.3753
+      ],
+      [
+       5.9,
+       0.3247
+      ],
+      [
+       5.92,
+       0.278
+      ],
+      [
+       5.94,
+       0.2357
+      ],
+      [
+       5.96,
+       0.1979
+      ],
+      [
+       5.98,
+       0.1645
+      ],
+      [
+       6.0,
+       0.1353
+      ],
+      [
+       6.02,
+       0.1103
+      ],
+      [
+       6.04,
+       0.0889
+      ],
+      [
+       6.06,
+       0.071
+      ],
+      [
+       6.08,
+       0.0561
+      ],
+      [
+       6.1,
+       0.0439
+      ],
+      [
+       6.12,
+       0.034
+      ],
+      [
+       6.14,
+       0.0261
+      ],
+      [
+       6.16,
+       0.0198
+      ],
+      [
+       6.18,
+       0.0149
+      ],
+      [
+       6.2,
+       0.0111
+      ],
+      [
+       6.22,
+       0.0082
+      ],
+      [
+       6.24,
+       0.006
+      ],
+      [
+       6.26,
+       0.0043
+      ],
+      [
+       6.28,
+       0.0031
+      ],
+      [
+       6.3,
+       0.0022
+      ],
+      [
+       6.32,
+       0.0015
+      ],
+      [
+       6.34,
+       0.0011
+      ],
+      [
+       6.36,
+       0.0007
+      ],
+      [
+       6.38,
+       0.0005
+      ],
+      [
+       6.4,
+       0.0003
+      ]
+     ],
+     "renk": "mavi",
+     "yumusak": true,
+     "dolgu": true,
+     "cumle": 1
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "ortalama",
+     "x": 5.6,
+     "y": 1.08,
+     "cizgi": "dikey",
+     "etiket": "media 5,6",
+     "cumle": 2
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "bir_sd",
+     "x": [
+      5.4,
+      5.8
+     ],
+     "renk": "sari",
+     "etiket": "±1 DE: 68 %",
+     "cumle": 4
+    },
+    {
+     "ad": "iki_sd",
+     "x": [
+      5.2,
+      6.0
+     ],
+     "renk": "gri",
+     "etiket": "±2 DE: 95 %",
+     "cumle": 5
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Alguien con audición normal puede quedar fuera de los límites normales? #shorts",
+  "aciklama": "Muchas normas clínicas consideran fuera de los límites normales un valor que se aleja más de dos desviaciones estándar de la media. En una distribución normal, alrededor del 95 por ciento de los valores está dentro de este rango, así que, según esta definición, alrededor del 5 por ciento de las personas normales también queda fuera de los límites normales. Algunas normas usan en cambio un corte de dos y media o tres desviaciones estándar.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "estadistica",
+   "normas"
+  ],
+  "etiketler": [
+   "desviación estándar",
+   "distribución normal",
+   "datos normativos",
+   "límites normales",
+   "puntuación z",
+   "bioestadística",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Alguien con audición normal puede quedar fuera de los límites normales?",
+  "bilgiler": [
+   "Muchas normas usan dos desviaciones estándar como límite.",
+   "Alrededor del 95 por ciento de los valores está dentro de este rango.",
+   "Alrededor del 5 por ciento de las personas normales queda fuera."
+  ],
+  "hashtag": [
+   "audiologia",
+   "estadistica",
+   "normas"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #384",
+   "metin": "Normal, *¿pero fuera?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Alguien con audición normal puede quedar fuera de los límites normales?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Normales *fuera de los límites*",
+   "sayi": "5",
+   "birim": "%",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Muchas normas consideran fuera de los límites normales los valores a más de dos desviaciones estándar.",
+    "En una distribución normal, alrededor del noventa y cinco por ciento queda dentro de este rango.",
+    "Según esta definición, alrededor del cinco por ciento de las personas normales queda fuera.",
+    "Algunas normas usan en cambio dos y media o tres desviaciones estándar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D118",
+ "kaynak_baslik": "Bioestadística básica: media, DE y curva normal"
+}

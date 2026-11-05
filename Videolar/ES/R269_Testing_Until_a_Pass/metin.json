@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R269_Testing_Until_a_Pass_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #269",
+  "baslik": "Repetir hasta que *pase*",
+  "alt": "Por qué se limitan los intentos de tamizaje",
+  "cizim": "oae",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Por qué es un problema repetir el tamizaje hasta que el bebé pase? #shorts",
+  "aciklama": "Repetir la prueba una y otra vez en una misma sesión hasta obtener un «pasa» aumenta la probabilidad de un «pasa» falso por azar, por eso los programas limitan el número de intentos por sesión. Un «no pasa» en un solo oído sigue siendo un resultado «no pasa» y no es algo menor.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "neonatal",
+   "tamizaje"
+  ],
+  "etiketler": [
+   "tamizaje auditivo neonatal",
+   "protocolo de tamizaje",
+   "OEA",
+   "PEATC-A",
+   "falso pasa",
+   "no pasa unilateral",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Por qué es un problema repetir el tamizaje hasta que el bebé pase?",
+  "bilgiler": [
+   "Cada intento adicional aumenta la probabilidad de un «pasa» falso.",
+   "Los programas limitan el número de intentos por sesión.",
+   "Un «no pasa» en un solo oído sigue siendo un «no pasa»."
+  ],
+  "hashtag": [
+   "audiologia",
+   "neonatal",
+   "tamizaje"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #269",
+   "metin": "¿Solo *un intento más?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Por qué es un problema repetir el tamizaje hasta que el bebé pase?"
+   ]
+  },
+  {
+   "id": "deneme",
+   "tur": "zincir",
+   "baslik": "Probar *una y otra vez*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Intento",
+     "tr": "no pasa",
+     "cumle": 0
+    },
+    {
+     "ad": "Repetición",
+     "tr": "más falsos «pasa»",
+     "cumle": 1
+    },
+    {
+     "ad": "Límite",
+     "tr": "intentos limitados",
+     "cumle": 2
+    }
+   ],
+   "alt": "Un oído: _sigue siendo «no pasa»_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Repetir la prueba a un bebé una y otra vez hasta que pase da un resultado engañoso.",
+    "Cada intento aumenta la probabilidad de un «pasa» falso por azar.",
+    "Por eso, los programas limitan el número de intentos por sesión.",
+    "Se registran la fecha, el método y el resultado de cada intento.",
+    "Un «no pasa» en un solo oído sigue siendo un «no pasa»; no es algo menor."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D173",
+ "kaynak_baslik": "Protocolos de tamizaje: OEA, PEATC-A y dos etapas"
+}

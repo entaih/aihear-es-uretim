@@ -1,0 +1,134 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R033_Hearing_Better_in_Noise_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #33",
+  "baslik": "Mejor *en el ruido*",
+  "alt": "La paracusia de Willis en la otosclerosis",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      45,
+      45,
+      40,
+      45
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      10,
+      15,
+      30,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Hay pacientes que entienden mejor el habla en el ruido? #shorts",
+  "aciklama": "En la otosclerosis, algunos pacientes dicen que entienden mejor el habla en lugares ruidosos; esto se llama paracusia de Willis. En el ruido, el interlocutor levanta la voz, mientras que el ruido llega al paciente atenuado por la pérdida conductiva.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "oido",
+   "audicion"
+  ],
+  "etiketler": [
+   "otosclerosis",
+   "paracusia de Willis",
+   "hipoacusia conductiva",
+   "estribo",
+   "habla en ruido",
+   "audiología",
+   "audición",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Hay pacientes que entienden mejor el habla en el ruido?",
+  "bilgiler": [
+   "En la otosclerosis, la platina del estribo se fija en la ventana oval.",
+   "En el ruido, el interlocutor habla más fuerte; el ruido llega atenuado al paciente.",
+   "Por eso algunos pacientes entienden mejor el habla en el ruido."
+  ],
+  "hashtag": [
+   "audiologia",
+   "oido",
+   "audicion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #33",
+   "metin": "¿Hay pacientes que oyen *mejor en el ruido?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Hay pacientes que entienden mejor el habla en el ruido?"
+   ]
+  },
+  {
+   "id": "paracusis",
+   "tur": "zincir",
+   "baslik": "Entender mejor *en el ruido*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Ruido",
+     "cumle": 1,
+     "tr": "de fondo"
+    },
+    {
+     "ad": "Interlocutor",
+     "cumle": 1,
+     "gecikme": 0.9,
+     "tr": "habla más fuerte"
+    },
+    {
+     "ad": "Paciente",
+     "cumle": 3,
+     "tr": "entiende mejor"
+    }
+   ],
+   "alt": "Esto se llama _paracusia de Willis_.",
+   "alt_cumle": 3,
+   "cumleler": [
+    "En la otosclerosis, la platina del estribo se fija en la ventana oval.",
+    "En un lugar ruidoso, la otra persona levanta la voz.",
+    "El ruido, en cambio, llega al paciente atenuado por la pérdida conductiva.",
+    "Por eso algunos pacientes entienden mejor el habla en el ruido."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D070",
+ "kaynak_baslik": "Otosclerosis: fijación del estribo y muesca de Carhart"
+}

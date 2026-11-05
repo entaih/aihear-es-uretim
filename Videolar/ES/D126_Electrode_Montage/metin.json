@@ -1,0 +1,1233 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D126_Electrode_Montage_ES",
+ "kapak": {
+  "ust": "LECCIÓN 126",
+  "baslik": "Electrodos y<br>sistema *10-20*",
+  "alt": "El primer paso de un registro de PEATC",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "Montaje de electrodos y el sistema 10-20 | Lección 126 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos dónde se colocan los electrodos para registrar los potenciales evocados auditivos de tronco cerebral (PEATC) según el sistema 10-20, las funciones de los electrodos activo, de referencia y de tierra, y los montajes más usados. También vemos la preparación de la piel, el objetivo de una impedancia baja y equilibrada, por debajo de 5 kΩ, y la colocación de electrodos en bebés.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Jasper (1958), The ten-twenty electrode system of the International Federation; BSA, Recommended Procedure: Auditory Brainstem Response Testing in Babies.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "PEATC",
+   "electrofisiologia"
+  ],
+  "etiketler": [
+   "PEATC",
+   "sistema 10-20",
+   "montaje de electrodos",
+   "impedancia de electrodos",
+   "potenciales evocados auditivos de tronco cerebral",
+   "vértex",
+   "rechazo en modo común",
+   "preparación de la piel",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 126",
+   "baslik": "Colocación de electrodos y el *10-20*",
+   "alt": "Cz, Fz, M1 y M2; impedancia y montaje",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos dónde y cómo se colocan los electrodos para registrar los potenciales evocados auditivos de tronco cerebral (PEATC, en inglés ABR).",
+    {
+     "yazi": "Paso a paso, veremos el sistema 10-20, las funciones de los electrodos activo, de referencia y de tierra, y el control de la impedancia.",
+     "ses": "Paso a paso, veremos el sistema diez veinte, las funciones de los electrodos activo, de referencia y de tierra, y el control de la impedancia."
+    }
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué electrodos?",
+   "baslik": "La respuesta se capta en el *cuero cabelludo*",
+   "maddeler": [
+    {
+     "metin": "Origen: tronco cerebral; electrodo: _cuero cabelludo_",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Registro de campo lejano: respuesta _diminuta_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "El EEG está siempre _de fondo_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "El sitio cambia la _forma_ de la respuesta",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 4
+     },
+     {
+      "parca": "dalga_V",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "El nervio auditivo y el tronco cerebral, que generan los PEATC, se encuentran varios centímetros por debajo de los electrodos.",
+    "Por eso los PEATC son un registro de campo lejano; al llegar al cuero cabelludo, la respuesta suele ser menor de un microvoltio.",
+    "Al mismo tiempo, la actividad eléctrica continua del cerebro, llamada electroencefalografía o EEG, también entra en el registro.",
+    "La promediación que vimos en la lección anterior separa esta pequeña respuesta del EEG y de la actividad muscular.",
+    "Pero para que la promediación funcione, la señal primero debe captarse en los puntos correctos y de forma limpia.",
+    "La ubicación de los electrodos determina qué ondas destacan y cuánto ruido tendrá el registro."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué electrodos?",
+   "baslik": "El *recorrido* de la señal",
+   "adimlar": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Electrodos",
+     "metin": "Voltaje del cuero cabelludo",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Amplificador",
+     "metin": "Amplifica la diferencia",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Filtro",
+     "metin": "Elimina frecuencias no deseadas",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Promediación",
+     "metin": "Se suman miles de barridos",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Pantalla",
+     "metin": "Aparecen las ondas",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los electrodos captan pequeños cambios de voltaje en el cuero cabelludo.",
+    "El amplificador multiplica la diferencia entre dos electrodos unas cien mil veces.",
+    "El filtro elimina los cambios muy lentos y muy rápidos que los PEATC no necesitan.",
+    "Luego se suman y promedian las breves ventanas de registro que siguen a cada estímulo.",
+    "Como el electrodo es el primer eslabón de esta cadena, un error aquí no puede corregirse del todo en ningún paso posterior."
+   ]
+  },
+  {
+   "id": "sistem",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El sistema 10-20",
+   "baslik": "Puntos *medidos* en la cabeza",
+   "cizim": "elektrot_yerlesimi",
+   "ayar": {
+    "mod": "1020",
+    "goster": {
+     "nasion": 1,
+     "inion": 1,
+     "yuzde": 2,
+     "pz": 2,
+     "oz": 2,
+     "fpz": 3,
+     "fz": 3,
+     "cz": 4,
+     "sol_preaurikuler": 4,
+     "sag_preaurikuler": 4,
+     "m1": 6,
+     "m2": 6,
+     "a1": 6,
+     "a2": 6
+    },
+    "roller": {
+     "cz": "aktif",
+     "fz": "aktif",
+     "m1": "referans",
+     "m2": "referans",
+     "a1": "referans",
+     "a2": "referans",
+     "fpz": "toprak"
+    },
+    "roller_cumle": 6
+   },
+   "notlar": [
+    {
+     "metin": "Estándar internacional: _1958_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Tramos del _10 y el 20 por ciento_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cz: el vértex",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La ubicación de los electrodos está estandarizada por el sistema internacional 10-20, descrito por Jasper en 1958.",
+     "ses": "La ubicación de los electrodos está estandarizada por el sistema internacional diez veinte, descrito por Jasper en 1958."
+    },
+    {
+     "yazi": "La medición parte de la distancia entre el nasion, en la raíz de la nariz, y el inion, la protuberancia de la parte posterior de la cabeza."
+    },
+    "Esta distancia se divide en tramos del diez y del veinte por ciento; el sistema recibe su nombre de estas proporciones.",
+    {
+     "yazi": "Fpz se ubica un diez por ciento por encima del nasion, y Fz, un veinte por ciento más arriba."
+    },
+    {
+     "yazi": "El punto medio exacto entre nasion e inion, donde se cruza con la línea que une los dos puntos preauriculares, es Cz, el vértex."
+    },
+    "Como se usan proporciones, el sistema da puntos equivalentes tanto en la cabeza pequeña de un bebé como en la de un adulto.",
+    "En los PEATC clínicos no siempre se mide con cinta, pero conocer bien estos puntos es la base de un registro consistente."
+   ]
+  },
+  {
+   "id": "adlar",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "El sistema 10-20",
+   "baslik": "¿Qué *significan* letras y números?",
+   "sutunlar": [
+    "Símbolo",
+    "Significado",
+    "Ejemplo en PEATC"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "F, C",
+      "Región frontal, central",
+      "Fz, Cz"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "z",
+      "Línea media",
+      "Cz, Fpz"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Número impar",
+      "Lado izquierdo",
+      "M1, A1"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Número par",
+      "Lado derecho",
+      "M2, A2"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "M",
+      "Mastoides",
+      "M1, M2"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "A",
+      "Lóbulo de la oreja",
+      "A1, A2"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Las letras indican la región: la F significa frontal, la zona de la frente, y la C, central, la zona de la parte superior de la cabeza."
+    },
+    {
+     "yazi": "La zeta minúscula significa cero e indica que el punto está exactamente en la línea media."
+    },
+    "Los números impares indican el lado izquierdo de la cabeza, y los números pares, el lado derecho.",
+    {
+     "yazi": "La letra M significa mastoides; M1 es la mastoides izquierda y M2, la mastoides derecha."
+    },
+    {
+     "yazi": "El lóbulo de la oreja se marca con la letra A; algunos centros usan los puntos A1 y A2 en lugar de las mastoides."
+    },
+    "Para no confundir derecha e izquierda, basta recordar: los números impares son izquierda y los pares, derecha."
+   ]
+  },
+  {
+   "id": "uc_elektrot",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Funciones de los electrodos",
+   "baslik": "*Tres* electrodos, tres funciones",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Activo (+)",
+     "metin": "Cz o Fz",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Referencia (-)",
+     "metin": "Mastoides del lado estimulado",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Tierra",
+     "metin": "Fpz o mastoides opuesta",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En cada canal de PEATC trabajan juntos tres electrodos.",
+    {
+     "yazi": "El electrodo activo, la entrada no inversora o positiva, suele colocarse en Cz o en Fz."
+    },
+    "El electrodo de referencia, la entrada inversora o negativa, suele ir en la mastoides o el lóbulo de la oreja del lado estimulado.",
+    {
+     "yazi": "El electrodo de tierra no mide; es el punto común del amplificador y suele ubicarse en la frente, en Fpz."
+    },
+    "Algunos equipos y fuentes llaman de otra forma a estas tres entradas; lo importante es saber qué entrada va en cada sitio."
+   ]
+  },
+  {
+   "id": "referans",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Funciones de los electrodos",
+   "baslik": "La referencia no es *silenciosa*",
+   "maddeler": [
+    {
+     "metin": "El electrodo mastoideo está _cerca de la cóclea_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Capta la onda I _de cerca_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "La resta _agranda_ la onda I",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Por eso importa el _lado correcto_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dalga_I",
+      "metin": "onda I: aporte mastoideo",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Aunque se llama de referencia, el electrodo de la mastoides está muy cerca de la porción del nervio auditivo próxima a la cóclea.",
+    {
+     "yazi": "Este electrodo capta de cerca, y con polaridad opuesta, la actividad nerviosa que forma la onda I."
+    },
+    {
+     "yazi": "Como el amplificador toma la diferencia entre los dos electrodos, este aporte invertido hace que la onda I se vea más grande."
+    },
+    "Es decir, la forma de onda clásica de los PEATC surge de la diferencia entre el vértex y la mastoides.",
+    {
+     "yazi": "Si el electrodo de referencia se conecta del lado equivocado, la onda I se reduce y el registro puede interpretarse mal."
+    },
+    "Por eso, al evaluar el oído derecho, la referencia debe ir en la mastoides derecha, y para el oído izquierdo, en la mastoides izquierda."
+   ]
+  },
+  {
+   "id": "diferansiyel",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Funciones de los electrodos",
+   "baslik": "El *amplificador* diferencial",
+   "maddeler": [
+    {
+     "metin": "Se amplifica la _diferencia_ entre dos electrodos",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "El ruido común a ambos _se cancela_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Condición: impedancia _equilibrada_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Con desequilibrio, _se cuela_ la interferencia",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "RUIDO COMÚN",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "gurultu",
+      "baslik": "Igual en ambas entradas",
+      "metin": "Se pierde en la resta",
+      "cumle": 1
+     },
+     {
+      "ikon": "noron",
+      "baslik": "La respuesta difiere",
+      "metin": "Se amplifica la diferencia",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "El amplificador de los PEATC es diferencial; es decir, amplifica la diferencia de voltaje entre dos electrodos.",
+    "Las señales que llegan por igual a ambos electrodos, como la interferencia de la red eléctrica, se cancelan en gran parte con esta resta.",
+    {
+     "yazi": "Esta propiedad se llama rechazo en modo común, y permite registrar PEATC incluso en salas con mucho ruido eléctrico."
+    },
+    "Sin embargo, el rechazo en modo común solo funciona bien cuando las impedancias de los electrodos son parecidas entre sí.",
+    "Si un electrodo tiene una impedancia mucho mayor que los demás, la interferencia no llega por igual a ambas entradas y se filtra en el registro."
+   ]
+  },
+  {
+   "id": "montaj",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Montajes",
+   "baslik": "*Montajes* habituales",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Canal ipsilateral",
+     "metin": "Cz a mastoides estimulada",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Canal contralateral",
+     "metin": "Cz a mastoides opuesta",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Canal horizontal",
+     "metin": "De mastoides a mastoides",
+     "cumle": 3
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Bebé",
+     "metin": "Fz o frente alta",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La elección de los puntos entre los que se conectan los electrodos activo y de referencia se llama montaje."
+    },
+    {
+     "yazi": "En el montaje más habitual, el ipsilateral, el canal va entre Cz y la mastoides del lado estimulado."
+    },
+    {
+     "yazi": "En el montaje contralateral, Cz se combina con la mastoides del lado no estimulado."
+    },
+    {
+     "yazi": "Un montaje horizontal entre las dos mastoides puede hacer que la onda I destaque todavía más."
+    },
+    {
+     "yazi": "En bebés, el electrodo activo suele colocarse en Fz o en la parte alta de la frente en lugar de Cz; esta zona es más fácil de preparar."
+    }
+   ]
+  },
+  {
+   "id": "iki_kanal",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Montajes",
+   "baslik": "Dos canales, *dos vistas*",
+   "maddeler": [
+    {
+     "metin": "Ipsilateral: onda I _destacada_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Contralateral: onda I _pequeña o ausente_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Ondas IV y V _se separan_ en contralateral",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Pista del oído_ en PEATC por vía ósea",
+     "cumle": 4,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 2
+     },
+     {
+      "parca": "dalga_V",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Muchas clínicas registran al mismo tiempo un canal ipsilateral y uno contralateral.",
+    {
+     "yazi": "En el canal ipsilateral, la onda I es prominente, porque el electrodo de referencia está cerca de la cóclea estimulada."
+    },
+    {
+     "yazi": "En el canal contralateral, la onda I suele ser muy pequeña o no verse en absoluto."
+    },
+    {
+     "yazi": "En cambio, las ondas IV y V a menudo se separan mejor en el canal contralateral, lo que ayuda a marcar la onda V."
+    },
+    "La diferencia entre canales también ayuda a mostrar qué cóclea responde en los PEATC por vía ósea, que veremos en una lección posterior."
+   ]
+  },
+  {
+   "id": "empedans",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 5",
+   "bolum": "Impedancia",
+   "baslik": "*Impedancia* de electrodo",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 4.6,
+     "ad": "Electrodo",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "yazilar": {
+      "1": "Cz",
+      "2": "M1",
+      "3": "M2",
+      "4": "Fpz",
+      "1": "Cz",
+      "2": "M1",
+      "3": "M2",
+      "4": "Fpz"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Impedancia (kΩ)"
+    },
+    "seriler": [
+     {
+      "ad": "olcum",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        3.1
+       ],
+       [
+        2,
+        3.4
+       ],
+       [
+        3,
+        7.8
+       ],
+       [
+        4,
+        2.6
+       ]
+      ],
+      "renk": "mavi",
+      "genislik": 0.5,
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinir",
+      "x": 4.5,
+      "y": 5,
+      "cizgi": "yatay",
+      "renk": "kirmizi",
+      "etiket": "5 kΩ",
+      "nokta": false,
+      "cumle": 1,
+      "dx": -10,
+      "dy": -14
+     },
+     {
+      "ad": "yuksek",
+      "x": 3,
+      "y": 7.8,
+      "renk": "kirmizi",
+      "etiket": "M2 alta",
+      "cumle": 3,
+      "dy": -24
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Objetivo: _menos de 5 kΩ_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Diferencia _pequeña_ entre electrodos",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Medir antes y _durante_ el registro",
+     "cumle": 5,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La impedancia de electrodo puede entenderse como la resistencia al paso de corriente entre la piel y el electrodo."
+    },
+    {
+     "yazi": "Muchas fuentes recomiendan que la impedancia de cada electrodo sea menor de 5 kΩ.",
+     "ses": "Muchas fuentes recomiendan que la impedancia de cada electrodo sea menor de cinco kiloohmios."
+    },
+    {
+     "yazi": "En esta medición de ejemplo, Cz, M1 y Fpz aparecen por debajo de ese límite."
+    },
+    {
+     "yazi": "M2, en cambio, supera el límite con unos 8 kΩ; este electrodo debe prepararse de nuevo.",
+     "ses": "M2, en cambio, supera el límite con unos ocho kiloohmios; este electrodo debe prepararse de nuevo."
+    },
+    {
+     "yazi": "También importa que los valores sean parecidos; la diferencia entre electrodos, en general, no debería superar unos 2 kΩ.",
+     "ses": "También importa que los valores sean parecidos; la diferencia entre electrodos, en general, no debería superar unos dos kiloohmios."
+    },
+    "La impedancia se mide antes del registro y se vuelve a controlar si el ruido aumenta durante el registro."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "Impedancia",
+   "baslik": "Preparación de la piel *paso a paso*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Ubicar el sitio",
+     "metin": "Cz, mastoides, frente",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Limpiar",
+     "metin": "Con gel abrasivo",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Colocar el electrodo",
+     "metin": "Gel o pasta conductora",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Medir la impedancia",
+     "metin": "Si es alta, preparar de nuevo",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Fijar",
+     "metin": "Sin tirones de los cables",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Primero se ubican los sitios de los electrodos; en el cuero cabelludo, el cabello se separa con cuidado.",
+    "La piel se frota suavemente con un gel abrasivo para eliminar la grasa y las células muertas.",
+    "Luego se coloca un electrodo desechable o un electrodo recubierto con pasta conductora.",
+    "Se mide la impedancia; si un electrodo da un valor alto, se retira y se prepara de nuevo el mismo sitio.",
+    "Por último, los electrodos se fijan con cinta y los cables se acomodan para que no tiren."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Trenzar los cables de los electrodos y alejarlos del cable del auricular; si un electrodo da alto, preparar de nuevo solo ese.",
+   "cumleler": [
+    "Un consejo clínico: conviene trenzar los cables de los electrodos en lugar de dejarlos sueltos.",
+    "Con los cables trenzados, la interferencia eléctrica de la sala llega de forma parecida a ambas entradas y se refuerza el rechazo en modo común.",
+    "El cable del auricular o del vibrador óseo debe mantenerse lo más lejos posible de los cables de los electrodos.",
+    "Si solo un electrodo tiene impedancia alta, no hace falta retirar todos los electrodos; basta con preparar de nuevo ese sitio."
+   ]
+  },
+  {
+   "id": "bebek",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 6",
+   "bolum": "En la práctica",
+   "baslik": "Colocación en *bebés*",
+   "maddeler": [
+    {
+     "metin": "Activo: _Fz o frente alta_",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Trabajar _sin presionar_ la fontanela",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Preparación _suave_ de la piel delicada",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Electrodos colocados _antes del sueño_",
+     "cumle": 3,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 0,
+    "ayar": {
+     "x": {
+      "min": -11,
+      "max": 11,
+      "ad": "Oído izquierdo  |  Oído derecho",
+      "isaretler": []
+     },
+     "y": {
+      "min": -10,
+      "max": 11,
+      "ad": "Atrás  |  Adelante",
+      "isaretler": []
+     },
+     "seriler": [
+      {
+       "ad": "kafa",
+       "noktalar": [
+        [
+         0.0,
+         8.0
+        ],
+        [
+         1.39,
+         7.88
+        ],
+        [
+         2.74,
+         7.52
+        ],
+        [
+         4.0,
+         6.93
+        ],
+        [
+         5.14,
+         6.13
+        ],
+        [
+         6.13,
+         5.14
+        ],
+        [
+         6.93,
+         4.0
+        ],
+        [
+         7.52,
+         2.74
+        ],
+        [
+         7.88,
+         1.39
+        ],
+        [
+         8.0,
+         0.0
+        ],
+        [
+         7.88,
+         -1.39
+        ],
+        [
+         7.52,
+         -2.74
+        ],
+        [
+         6.93,
+         -4.0
+        ],
+        [
+         6.13,
+         -5.14
+        ],
+        [
+         5.14,
+         -6.13
+        ],
+        [
+         4.0,
+         -6.93
+        ],
+        [
+         2.74,
+         -7.52
+        ],
+        [
+         1.39,
+         -7.88
+        ],
+        [
+         0.0,
+         -8.0
+        ],
+        [
+         -1.39,
+         -7.88
+        ],
+        [
+         -2.74,
+         -7.52
+        ],
+        [
+         -4.0,
+         -6.93
+        ],
+        [
+         -5.14,
+         -6.13
+        ],
+        [
+         -6.13,
+         -5.14
+        ],
+        [
+         -6.93,
+         -4.0
+        ],
+        [
+         -7.52,
+         -2.74
+        ],
+        [
+         -7.88,
+         -1.39
+        ],
+        [
+         -8.0,
+         -0.0
+        ],
+        [
+         -7.88,
+         1.39
+        ],
+        [
+         -7.52,
+         2.74
+        ],
+        [
+         -6.93,
+         4.0
+        ],
+        [
+         -6.13,
+         5.14
+        ],
+        [
+         -5.14,
+         6.13
+        ],
+        [
+         -4.0,
+         6.93
+        ],
+        [
+         -2.74,
+         7.52
+        ],
+        [
+         -1.39,
+         7.88
+        ],
+        [
+         -0.0,
+         8.0
+        ]
+       ],
+       "renk": "lacivert",
+       "yumusak": true,
+       "kalin": 4,
+       "cumle": 0
+      },
+      {
+       "ad": "burun",
+       "noktalar": [
+        [
+         -1.3,
+         7.9
+        ],
+        [
+         0,
+         9.7
+        ],
+        [
+         1.3,
+         7.9
+        ]
+       ],
+       "renk": "lacivert",
+       "kalin": 4,
+       "cumle": 0
+      },
+      {
+       "ad": "sol_kulak",
+       "noktalar": [
+        [
+         -7.9,
+         1.6
+        ],
+        [
+         -9.3,
+         1.1
+        ],
+        [
+         -9.6,
+         0
+        ],
+        [
+         -9.3,
+         -1.1
+        ],
+        [
+         -7.9,
+         -1.6
+        ]
+       ],
+       "renk": "sol",
+       "yumusak": true,
+       "kalin": 4,
+       "cumle": 0
+      },
+      {
+       "ad": "sag_kulak",
+       "noktalar": [
+        [
+         7.9,
+         1.6
+        ],
+        [
+         9.3,
+         1.1
+        ],
+        [
+         9.6,
+         0
+        ],
+        [
+         9.3,
+         -1.1
+        ],
+        [
+         7.9,
+         -1.6
+        ]
+       ],
+       "renk": "sag",
+       "yumusak": true,
+       "kalin": 4,
+       "cumle": 0
+      },
+      {
+       "ad": "orta_hat",
+       "noktalar": [
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         -8
+        ]
+       ],
+       "renk": "gri",
+       "kesik": true,
+       "kalin": 2,
+       "cumle": 0
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "fz",
+       "x": 0,
+       "y": 3.6,
+       "etiket": "Fz",
+       "cumle": 0,
+       "renk": "mavi",
+       "dolu": true,
+       "r": 11
+      },
+      {
+       "ad": "m1",
+       "x": -8.3,
+       "y": -2.9,
+       "etiket": "M1",
+       "cumle": 0,
+       "renk": "sol",
+       "dolu": true,
+       "r": 11
+      },
+      {
+       "ad": "m2",
+       "x": 8.3,
+       "y": -2.9,
+       "etiket": "M2",
+       "cumle": 0,
+       "renk": "sag",
+       "dolu": true,
+       "r": 11
+      },
+      {
+       "ad": "fpz",
+       "x": 0,
+       "y": 7.2,
+       "etiket": "Fpz",
+       "cumle": 1,
+       "renk": "gri",
+       "dolu": true,
+       "r": 11
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "En bebés, el electrodo activo suele colocarse en Fz o en la parte alta de la frente."
+    },
+    "Se evita presionar la zona blanda, la fontanela anterior.",
+    "Como la piel del bebé es delicada, la abrasión es muy leve y se usan electrodos pequeños adecuados para bebés.",
+    "Los electrodos se colocan antes de que el bebé se duerma, mientras está en el regazo de su madre o padre.",
+    "Así, el tiempo de registro largo y tranquilo que exige la estimación del umbral no se pierde por problemas con los electrodos."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 6",
+   "bolum": "En la práctica",
+   "baslik": "*Errores* frecuentes",
+   "maddeler": [
+    {
+     "metin": "Puente de gel: dos electrodos _se unen_",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Referencia _del lado equivocado_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Electrodo flojo, cable _roto_",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Cable del auricular _cerca_ de electrodos",
+     "cumle": 3,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "REVISAR",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "yanlis",
+      "baslik": "Registro plano",
+      "metin": "Puente o rotura",
+      "cumle": 0
+     },
+     {
+      "ikon": "gurultu",
+      "baslik": "Mucho ruido",
+      "metin": "Impedancia o mal contacto",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Si el gel conductor se extiende entre dos electrodos, se forma un puente y el registro sale casi plano.",
+    {
+     "yazi": "Conectar el electrodo de referencia del lado equivocado puede hacer desaparecer la onda I y llevar a una mala interpretación."
+    },
+    "Un electrodo flojo o un cable roto provoca saltos bruscos y mucho ruido en el registro.",
+    "Si el cable del auricular está demasiado cerca de los cables de los electrodos, aumenta el artefacto del estímulo.",
+    "Si un registro se ve inesperado, revisen los electrodos y los cables antes de pasar a la interpretación."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "10-20: _puntos estándar_ por proporciones",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Activo Cz o Fz, referencia _mastoides_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Impedancia menor de 5 kΩ y _equilibrada_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Bebés: Fz, preparación suave",
+     "cumle": 3,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El sistema 10-20 estandariza los puntos de los electrodos en la cabeza mediante proporciones del diez y del veinte por ciento.",
+     "ses": "El sistema diez veinte estandariza los puntos de los electrodos en la cabeza mediante proporciones del diez y del veinte por ciento."
+    },
+    {
+     "yazi": "El electrodo activo suele ir en Cz o Fz, la referencia en la mastoides del lado estimulado y la tierra en la frente."
+    },
+    {
+     "yazi": "La impedancia debe ser menor de 5 kΩ en cada electrodo y estar equilibrada entre los electrodos.",
+     "ses": "La impedancia debe ser menor de cinco kiloohmios en cada electrodo y estar equilibrada entre los electrodos."
+    },
+    {
+     "yazi": "En bebés se usa Fz o la parte alta de la frente, y la preparación es suave y se hace antes del sueño."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "En unos PEATC del oído derecho, ¿dónde va el electrodo de referencia?",
+   "secenekler": [
+    "Mastoides izquierda (M1)",
+    "Mastoides derecha (M2)",
+    "Vértex (Cz)",
+    "Frente (Fpz)"
+   ],
+   "dogru": 1,
+   "aciklama": "La referencia va en la mastoides _del lado estimulado_; los números pares indican el lado derecho.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: al evaluar el oído derecho, ¿dónde va el electrodo de referencia en el canal ipsilateral?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: la mastoides derecha, M2."
+    },
+    "Los números pares indican el lado derecho de la cabeza, y la referencia va en la mastoides del lado estimulado."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Ondas I a V de los PEATC: generadores y *latencias*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos los generadores y las latencias normales de las ondas de los PEATC que registramos con estos electrodos.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

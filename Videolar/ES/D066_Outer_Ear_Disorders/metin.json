@@ -1,0 +1,807 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D066_Outer_Ear_Disorders_ES",
+ "kapak": {
+  "ust": "LECCIÓN 66",
+  "baslik": "Trastornos del<br>*oído externo*",
+  "alt": "Cerumen, otitis externa, exostosis",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "dis_kulak_yolu"
+  ]
+ },
+ "youtube": {
+  "baslik": "Oído externo: cerumen, otitis externa y exostosis | Lección 66 | AIHEAR Academia de Audiología",
+  "aciklama": "En esta lección vemos los trastornos frecuentes del conducto auditivo: el tapón de cerumen y su efecto en la audición, la otitis externa (oído de nadador) y la otomicosis, y la exostosis (oído de surfista) y el osteoma. Para cada uno comentamos qué debe vigilar el audiólogo, qué pruebas conviene posponer y cuándo derivar al médico.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Schwartz et al. (2017), Clinical Practice Guideline (Update): Earwax (Cerumen Impaction), Otolaryngology Head and Neck Surgery; Rosenfeld et al. (2014), Clinical Practice Guideline: Acute Otitis Externa; Roeser, Lai and Clark (2005), Effect of ear canal occlusion on pure-tone threshold sensitivity, Journal of the American Academy of Audiology; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "cerumen",
+   "otitisexterna"
+  ],
+  "etiketler": [
+   "tapón de cerumen",
+   "cerumen impactado",
+   "otitis externa",
+   "oído de nadador",
+   "otomicosis",
+   "exostosis",
+   "oído de surfista",
+   "osteoma del conducto auditivo",
+   "enfermedades del oído externo",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 66",
+   "baslik": "Trastornos del *oído externo*",
+   "alt": "Tapón de cerumen, otitis externa, otomicosis, exostosis",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos los trastornos frecuentes del conducto auditivo y cómo afectan la audición.",
+    "Veremos el tapón de cerumen, la otitis externa, la otomicosis, la exostosis y el osteoma desde el punto de vista del audiólogo."
+   ]
+  },
+  {
+   "id": "kanal",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El conducto auditivo",
+   "baslik": "El *conducto* auditivo",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 1.9
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 3,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "conducto auditivo",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "membrana timpánica",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tercio externo cartilaginoso: _glándulas ceruminosas_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Dos tercios internos óseos: _piel fina_",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Migración de la piel: _autolimpieza_",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "El conducto auditivo va del pabellón auricular a la membrana timpánica y mide unos dos centímetros y medio en los adultos.",
+    "El tercio externo es cartilaginoso; las glándulas ceruminosas y los pelos se encuentran solo en esta parte.",
+    "Los dos tercios internos son óseos y están cubiertos por una piel fina y sensible.",
+    "La piel del conducto migra lentamente hacia afuera desde el centro del tímpano y arrastra el cerumen; así se limpia el oído solo.",
+    "La forma curva del conducto y su estrecha porción ósea facilitan que el cerumen y los cuerpos extraños queden atrapados allí.",
+    "La mayoría de los trastornos de esta lección aparecen cuando este sistema falla o cuando el conducto se estrecha."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "El conducto auditivo",
+   "baslik": "Cuatro *temas*",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Tapón de cerumen",
+     "cumle": 1,
+     "metin": "Cerumen acumulado"
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Otitis externa",
+     "cumle": 2,
+     "metin": "Inflamación de la piel del conducto"
+    },
+    {
+     "ikon": "virus",
+     "baslik": "Otomicosis",
+     "cumle": 3,
+     "metin": "Infección del conducto por hongos"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Exostosis, osteoma",
+     "cumle": 4,
+     "metin": "Crecimiento benigno en el conducto óseo"
+    }
+   ],
+   "cumleler": [
+    "En esta lección agrupamos los trastornos del conducto auditivo en cuatro temas.",
+    "El primero es el tapón de cerumen, o cerumen impactado, en el que el cerumen se acumula y obstruye el conducto.",
+    "El segundo es la otitis externa, una inflamación del conducto auditivo.",
+    "El tercero es la otomicosis, una infección del conducto auditivo por hongos.",
+    "El cuarto son la exostosis y el osteoma, crecimientos óseos benignos en la porción ósea del conducto."
+   ]
+  },
+  {
+   "id": "buson",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tapón de cerumen",
+   "baslik": "El cerumen y el *tapón*",
+   "maddeler": [
+    {
+     "metin": "El cerumen es una secreción _protectora_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Tapón: da síntomas o _impide ver_",
+     "cumle": 2,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Riesgo: audífonos, _edad avanzada_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Los hisopos _empujan el cerumen_ más adentro",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 2,
+    "yakinlastir": {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    "vurgula": [
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "aquí se acumula el cerumen",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "El cerumen, o cera del oído, es una secreción natural que mantiene húmeda la piel del conducto y la protege de gérmenes e insectos.",
+    "Normalmente, la migración de la piel y el movimiento de la mandíbula lo sacan del conducto por sí solos.",
+    "La guía de la Academia Estadounidense de Otorrinolaringología define el tapón como una acumulación de cerumen que da síntomas o impide examinar el oído.",
+    "Es más frecuente en usuarios de audífonos y de auriculares intraauriculares, adultos mayores, niños pequeños y personas con problemas cognitivos.",
+    "Un conducto estrecho o curvo y el exceso de pelo en el conducto también dificultan la salida del cerumen.",
+    "Los hisopos a menudo empujan el cerumen más adentro en lugar de sacarlo y lo compactan en la porción ósea.",
+    "La misma guía desaconseja también las velas o conos para los oídos; no tienen efecto comprobado y conllevan riesgos como quemaduras."
+   ]
+  },
+  {
+   "id": "buson_odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tapón de cerumen",
+   "baslik": "Ejemplo: obstrucción *completa*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Vía aérea_: 35 a 50 dB HL",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Vía ósea enmascarada_: normal",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       35,
+       35,
+       40,
+       45,
+       50
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       5,
+       5,
+       10,
+       10
+      ],
+      "cumle": 2,
+      "cizgi": false
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    },
+    "aralik": {
+     "konum": [
+      3,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Cuando el cerumen obstruye el conducto en parte, a menudo la audición no se afecta de forma clara.",
+    "En este ejemplo, en cambio, el conducto derecho está totalmente obstruido; los umbrales por vía aérea están entre treinta y cinco y cincuenta decibeles HL.",
+    "Los umbrales por vía ósea son normales, por lo tanto la pérdida es conductiva.",
+    "En un estudio de Roeser y colaboradores con cinco personas, la oclusión parcial elevó los umbrales agudos unos diez a diecisiete decibeles.",
+    "Con la oclusión completa también se afectaron las frecuencias graves, y la pérdida promedio llegó a unos treinta a cuarenta y cinco decibeles.",
+    "Por eso la persona suele notar la pérdida de repente, cuando el cerumen se hincha después de una ducha o de nadar y cierra del todo el conducto."
+   ]
+  },
+  {
+   "id": "buson_akis",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tapón de cerumen",
+   "baslik": "Cómo proceder ante un *tapón*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia",
+     "cumle": 0,
+     "metin": "Se ve el cerumen"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registro",
+     "cumle": 1,
+     "metin": "Se anota el hallazgo"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Derivación",
+     "cumle": 2,
+     "metin": "Para la extracción"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Nuevo control",
+     "cumle": 3,
+     "metin": "Conducto y tímpano"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Prueba",
+     "cumle": 4,
+     "metin": "Con el oído limpio"
+    }
+   ],
+   "cumleler": [
+    "El tapón de cerumen suele detectarse primero en la otoscopia previa a las pruebas.",
+    "Se registra el hallazgo; si el conducto está totalmente obstruido, no se hacen timpanometría, otoemisiones acústicas ni impresiones de oído.",
+    "Para la extracción, se deriva a un médico o profesional autorizado; las guías describen gotas, lavado y extracción manual.",
+    "Tras la extracción, se examinan de nuevo el conducto y el tímpano en busca de una perforación o de irritación del conducto.",
+    "La prueba auditiva se hace con el oído limpio, para no confundir una pérdida temporal por cerumen con una pérdida real."
+   ]
+  },
+  {
+   "id": "buson_cihaz",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tapón de cerumen",
+   "baslik": "Cerumen y *audífonos*",
+   "maddeler": [
+    {
+     "metin": "El molde impide que el cerumen _salga_",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Receptor y salida de sonido _se tapan_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Puede aumentar el _silbido_ por acople",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Otoscopia_ en cada consulta",
+     "cumle": 3,
+     "ikon": "otoskop"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "RIC"
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "alici",
+      "cumle": 1
+     },
+     {
+      "parca": "kalip",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "alici",
+      "metin": "receptor",
+      "cumle": 1
+     },
+     {
+      "parca": "kalip",
+      "metin": "domo o molde",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "El molde o el domo del audífono cierra el conducto, por eso impide que el cerumen salga.",
+    "El cerumen puede tapar el receptor y la salida de sonido, y hacer que el audífono suene más bajo o deje de sonar.",
+    "El cerumen en el conducto también puede reflejar el sonido y aumentar la retroalimentación acústica, el silbido del audífono.",
+    "Por eso la guía recomienda hacer otoscopia en cada consulta a las personas que usan audífonos.",
+    "En lugar de usar hisopos, se enseña a los usuarios a cambiar el filtro de cerumen con regularidad y a limpiar la salida de sonido."
+   ]
+  },
+  {
+   "id": "oe",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Otitis externa",
+   "baslik": "Signos de la *otitis externa*",
+   "ogeler": [
+    {
+     "ikon": "agri",
+     "baslik": "Dolor",
+     "cumle": 1,
+     "metin": "Empeora al presionar el trago"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Picazón",
+     "cumle": 2,
+     "metin": "A menudo el primer signo"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Secreción",
+     "cumle": 2,
+     "metin": "Edema y detritos en el conducto"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Plenitud",
+     "cumle": 3,
+     "metin": "El edema estrecha el conducto"
+    }
+   ],
+   "cumleler": [
+    "La otitis externa es una inflamación de la piel del conducto auditivo; es frecuente en nadadores, por eso también se llama oído de nadador.",
+    "El signo más típico es el dolor que empeora al presionar el trago o al traccionar el pabellón auricular.",
+    "También son frecuentes la picazón, la secreción y el enrojecimiento y la hinchazón de la piel del conducto.",
+    "Si el edema y los detritos estrechan el conducto, se suman una sensación de oído tapado y una pérdida auditiva conductiva.",
+    "Las causas más frecuentes son las bacterias Pseudomonas aeruginosa y Staphylococcus aureus.",
+    "La humedad, la limpieza que irrita el conducto, las enfermedades de la piel y los dispositivos que cierran el conducto aumentan el riesgo."
+   ]
+  },
+  {
+   "id": "oe_odyolog",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Otitis externa",
+   "baslik": "El *audiólogo* ante la otitis externa",
+   "maddeler": [
+    {
+     "metin": "Sin sonda ni inserto en _oídos dolorosos_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Las impresiones de oído se _posponen_",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Uso del audífono _acordado_ con el médico",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Alertas: diabetes, dolor intenso, _parálisis facial_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DERIVAR AL MÉDICO",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kan_damari",
+      "baslik": "Diabetes, edad avanzada",
+      "cumle": 3,
+      "metin": "Riesgo de forma necrosante"
+     },
+     {
+      "ikon": "agri",
+      "baslik": "Dolor nocturno",
+      "cumle": 3,
+      "metin": "Dolor intenso que persiste"
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Parálisis facial",
+      "cumle": 4,
+      "metin": "Evaluación urgente"
+     }
+    ]
+   },
+   "cumleler": [
+    "En un oído inflamado y doloroso no se coloca ningún auricular de inserción, sonda ni material de impresión.",
+    "Las impresiones de oído y las pruebas de rutina suelen posponerse hasta la curación; si hace falta, la vía aérea puede evaluarse con auriculares supraaurales.",
+    "El tratamiento corresponde al médico; si se usa el audífono durante el tratamiento también se decide con el médico.",
+    "En una persona mayor, diabética o inmunodeprimida, un dolor intenso y persistente puede ser señal de alerta de una otitis externa necrosante.",
+    "Esta infección grave puede extenderse a la base del cráneo y causar parálisis facial; un caso así se deriva al médico sin demora."
+   ]
+  },
+  {
+   "id": "mikoz",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Otitis externa",
+   "baslik": "Otomicosis: infección por *hongos*",
+   "maddeler": [
+    {
+     "metin": "La picazón es _predominante_",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "_Aspecto_ algodonoso y punteado",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Gotas prolongadas y _humedad_",
+     "cumle": 3,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Tratamiento y limpieza _a cargo del médico_",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ASPECTO",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "virus",
+      "baslik": "Aspergillus",
+      "cumle": 2,
+      "metin": "Puntos negros o grises"
+     },
+     {
+      "ikon": "virus",
+      "baslik": "Candida",
+      "cumle": 2,
+      "metin": "Masa blanca y cremosa"
+     }
+    ]
+   },
+   "cumleler": [
+    "La otomicosis, a veces llamada simplemente hongos en el oído, es una infección del conducto auditivo por hongos.",
+    "Frente a la otitis externa bacteriana, predominan la picazón y la sensación de oído tapado, y el dolor suele ser más leve.",
+    "Las especies de Aspergillus pueden formar puntos negros o grises, y Candida, una masa algodonosa blanca o color crema.",
+    "El uso prolongado de gotas antibióticas, un clima húmedo y mojarse el oído con frecuencia aumentan el riesgo.",
+    "El diagnóstico, la limpieza y el tratamiento corresponden al médico; si una masa de hongos obstruye el conducto, puede aparecer una pérdida conductiva."
+   ]
+  },
+  {
+   "id": "ekzostoz",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Exostosis y osteoma",
+   "baslik": "Exostosis y *osteoma*",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "ekzostoz",
+     "cumle": 0,
+     "olcek": 2.4
+    },
+    {
+     "parca": "osteom",
+     "cumle": 3,
+     "olcek": 2.4
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ekzostoz",
+     "cumle": 1
+    },
+    {
+     "parca": "osteom",
+     "cumle": 3
+    },
+    {
+     "parca": "kemik_kikirdak_birlesimi",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ekzostoz",
+     "metin": "exostosis: cerca del tímpano, base ancha",
+     "cumle": 0
+    },
+    {
+     "parca": "osteom",
+     "metin": "osteoma: único, pediculado",
+     "cumle": 3
+    },
+    {
+     "parca": "kemik_kikirdak_birlesimi",
+     "metin": "unión osteocartilaginosa",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Exostosis: múltiples, _bilaterales_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Agua fría: _oído de surfista_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Osteoma: único, _pediculado_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Una exostosis es un crecimiento óseo benigno en la porción ósea del conducto auditivo, ubicado cerca del tímpano.",
+    "Las exostosis suelen ser múltiples y de base ancha, y a menudo aparecen en ambos oídos.",
+    "Se asocian a la exposición repetida al agua fría y son frecuentes en surfistas, nadadores y buceadores, por eso también se llaman oído de surfista.",
+    "Un osteoma, en cambio, suele ser una masa ósea única y unilateral, unida por un pedículo estrecho.",
+    "El osteoma suele ubicarse más afuera, cerca de la unión entre la porción ósea y la cartilaginosa.",
+    "Ambos son benignos y a menudo no dan síntomas, salvo que el conducto se estreche mucho."
+   ],
+   "ayar": {
+    "ekzostoz": true,
+    "ekzostoz_cumle": 0,
+    "osteom": true,
+    "osteom_cumle": 3
+   }
+  },
+  {
+   "id": "ekzostoz_etki",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Exostosis y osteoma",
+   "baslik": "Efecto en la audición y las *pruebas*",
+   "maddeler": [
+    {
+     "metin": "La audición suele ser _normal_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Cerumen y agua quedan _atrapados_",
+     "cumle": 1,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "_Otitis externa_ recurrente",
+     "cumle": 2,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "Sonda e impresiones _difíciles_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        5,
+        10,
+        15,
+        15
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        15,
+        10,
+        10,
+        10,
+        15,
+        20
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Salvo que el conducto esté claramente estrechado, la audición suele ser normal.",
+    "Sin embargo, en un conducto estrecho el cerumen y el agua quedan atrapados con facilidad; cuando se obstruye, aparece una pérdida conductiva.",
+    "El agua y el cerumen atrapados favorecen la otitis externa recurrente.",
+    "Un conducto estrecho dificulta colocar la sonda y tomar impresiones; el material de impresión puede quedar atrapado detrás de los crecimientos.",
+    "Cuando los crecimientos estrechan mucho el conducto, la decisión quirúrgica corresponde al otorrinolaringólogo."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si ves cerumen, inflamación, hongos o un crecimiento óseo en el conducto, no coloques sonda, auricular de inserción ni material de impresión. Registra el hallazgo y deriva.",
+   "cumleler": [
+    "Un consejo de la práctica: la otoscopia es el último control de seguridad antes de introducir algo en el oído.",
+    "Si ven cerumen, inflamación, hongos o un crecimiento óseo en el conducto, no coloquen sonda, auricular de inserción ni material de impresión.",
+    "Sobre todo en las impresiones de oído, el material puede quedar atrapado en un conducto estrecho o irregular, y retirarlo puede requerir cirugía.",
+    "Registren el hallazgo, deriven al médico y programen la prueba para un momento adecuado."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Cerumen: pérdida _conductiva_ si obstruye todo",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Otitis externa: _dolor_, edema, secreción",
+     "cumle": 1,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Otomicosis: _picazón_, aspecto algodonoso",
+     "cumle": 2,
+     "ikon": "virus"
+    },
+    {
+     "metin": "Exostosis múltiples, osteoma _único_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "El cerumen causa una pérdida conductiva cuando obstruye todo el conducto; la oclusión parcial afecta sobre todo a los agudos.",
+    "La otitis externa es una inflamación de la piel del conducto; es típico el dolor que aumenta al presionar el trago.",
+    "En la otomicosis predomina la picazón, y puede formarse un aspecto algodonoso y punteado.",
+    "Las exostosis se asocian al agua fría y son múltiples y bilaterales; el osteoma suele ser único y pediculado."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Si el cerumen obstruye el conducto en parte, ¿qué frecuencias se afectan más?",
+   "secenekler": [
+    "Frecuencias graves",
+    "Frecuencias agudas",
+    "Solo 1000 Hz",
+    "Ninguna"
+   ],
+   "dogru": 1,
+   "aciklama": "Con una oclusión parcial, la pérdida está sobre todo en las frecuencias _agudas_; las graves se afectan claramente solo con oclusión completa.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si el cerumen obstruye el conducto en parte, ¿qué frecuencias se afectan más?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: las frecuencias agudas.",
+    "Las frecuencias graves se afectan claramente solo cuando el conducto está totalmente obstruido, por eso la persona suele notar la pérdida de repente."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tipos de *otitis media*: aguda, con efusión y crónica",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos detrás de la membrana timpánica para ver los tipos de otitis media: aguda, con efusión y crónica.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

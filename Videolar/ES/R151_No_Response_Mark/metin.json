@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R151_No_Response_Mark_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #151",
+  "baslik": "Qué significa *sin respuesta*",
+  "alt": "NR marca el límite del audiómetro",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Una marca de sin respuesta significa que no hay audición? #shorts",
+  "aciklama": "Si no hay respuesta ni siquiera con la salida máxima del audiómetro, se registra como sin respuesta, o NR. Sin respuesta no significa que no haya audición; solo muestra que el umbral es peor de lo que el audiómetro puede medir.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audiograma",
+   "audiometria"
+  ],
+  "etiketler": [
+   "sin respuesta",
+   "NR",
+   "símbolos del audiograma",
+   "audiómetro",
+   "audiometría tonal",
+   "cómo leer un audiograma",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Una marca de sin respuesta significa que no hay audición?",
+  "bilgiler": [
+   "Si no hay respuesta a la salida máxima, se registra NR.",
+   "En vía aérea, el símbolo va en el límite del equipo con una flecha hacia afuera.",
+   "Sin respuesta no significa que no haya ninguna audición."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audiograma",
+   "audiometria"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #151",
+   "metin": "¿*Sin respuesta* significa que no oye?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Una marca de sin respuesta significa que no hay audición?"
+   ]
+  },
+  {
+   "id": "nr",
+   "tur": "zincir",
+   "baslik": "La marca de *sin respuesta*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Límite del equipo",
+     "tr": "salida máxima",
+     "cumle": 0
+    },
+    {
+     "ad": "Flecha oblicua",
+     "tr": "apunta hacia afuera",
+     "cumle": 1
+    },
+    {
+     "ad": "Sin línea",
+     "tr": "nunca se une",
+     "cumle": 2
+    }
+   ],
+   "alt": "Umbral _más allá del límite del equipo_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Si ni siquiera la salida máxima obtiene respuesta, se marca NR.",
+    "En vía aérea, el símbolo se coloca en el límite, con una flecha oblicua hacia afuera.",
+    "Los símbolos de sin respuesta nunca se unen con líneas.",
+    "Sin respuesta no significa que no haya ninguna audición.",
+    "Muestra que el umbral es peor de lo que el equipo puede medir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D062",
+ "kaynak_baslik": "Símbolos del audiograma y normas de registro"
+}

@@ -1,0 +1,105 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R035_Can_a_Dead_Ear_Hear_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #35",
+  "baslik": "¿Puede *responder* un oído sordo?",
+  "alt": "Audición cruzada y enmascaramiento clínico",
+  "cizim": "maskeleme",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Cómo puede responder en una prueba un oído que no oye? #shorts",
+  "aciklama": "Un tono de prueba intenso puede atravesar el cráneo hasta la cóclea contraria; esto se llama audición cruzada. Si pasa inadvertida, un oído sin audición puede registrarse como si tuviera una pérdida moderada; para evitarlo, se presenta ruido enmascarante en el otro oído.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "enmascaramiento",
+   "audicion"
+  ],
+  "etiketler": [
+   "audición cruzada",
+   "enmascaramiento",
+   "enmascaramiento clínico",
+   "curva sombra",
+   "atenuación interaural",
+   "audiología",
+   "prueba de audición",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Cómo puede responder en una prueba un oído que no oye?",
+  "bilgiler": [
+   "Un tono de prueba intenso puede cruzar el cráneo hasta la otra cóclea: audición cruzada.",
+   "Un oído sin audición puede parecer una pérdida moderada.",
+   "Para evitarlo, se presenta ruido en el otro oído: enmascaramiento clínico."
+  ],
+  "hashtag": [
+   "audiologia",
+   "enmascaramiento",
+   "audicion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #35",
+   "metin": "¿Cómo puede *responder* un oído que no oye?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Cómo puede responder en una prueba un oído que no oye?"
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "zincir",
+   "baslik": "*Audición cruzada*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Tono de prueba",
+     "cumle": 0,
+     "tr": "oído peor"
+    },
+    {
+     "ad": "Cráneo",
+     "cumle": 0,
+     "gecikme": 0.9,
+     "tr": "vibración"
+    },
+    {
+     "ad": "Oído mejor",
+     "cumle": 1,
+     "tr": "cóclea contraria"
+    }
+   ],
+   "alt": "La solución: _enmascaramiento clínico_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Un tono de prueba intenso también hace vibrar el cráneo a través del auricular.",
+    "La vibración llega a la cóclea contraria y se oye allí.",
+    "Esto se llama audición cruzada.",
+    "Así, un oído sin audición puede parecer una pérdida moderada.",
+    "Para evitarlo, se presenta ruido en el otro oído: enmascaramiento clínico."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D087",
+ "kaynak_baslik": "¿Por qué enmascarar? La atenuación interaural"
+}

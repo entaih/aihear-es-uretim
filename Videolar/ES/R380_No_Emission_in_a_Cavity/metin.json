@@ -1,0 +1,107 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R380_No_Emission_in_a_Cavity_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #380",
+  "baslik": "Verificación de *la sonda de OEA*",
+  "alt": "Sin otoemisión en la cavidad",
+  "cizim": "oae",
+  "ayar": {
+   "tur": "DPOAE"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Puede una cavidad de prueba sin oído producir una otoemisión? #shorts",
+  "aciklama": "En la verificación de la sonda de otoemisiones acústicas (OEA), la sonda se coloca en una pequeña cavidad de prueba que provee el fabricante. En la cavidad no hay oído, así que no debería haber otoemisión; una respuesta en la cavidad es distorsión del propio sistema y puede confundirse con una otoemisión real. El problema más común en la prueba de OEA viene de la punta de la sonda: si el cerumen o la humedad obstruyen los canales de la sonda, el estímulo no llega al oído y la otoemisión parece ausente.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "otoemisiones",
+   "calibracion"
+  ],
+  "etiketler": [
+   "otoemisiones acústicas",
+   "verificación de la sonda",
+   "calibración",
+   "OEAPD",
+   "control diario",
+   "punta de la sonda",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Puede una cavidad de prueba sin oído producir una otoemisión?",
+  "bilgiler": [
+   "En la cavidad no hay oído, así que no debería aparecer otoemisión.",
+   "Una respuesta en la cavidad es distorsión del sistema.",
+   "Una punta de sonda obstruida hace que la otoemisión parezca ausente."
+  ],
+  "hashtag": [
+   "audiologia",
+   "otoemisiones",
+   "calibracion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #380",
+   "metin": "¿Una otoemisión *sin oído?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Puede una cavidad de prueba sin oído producir una otoemisión?"
+   ]
+  },
+  {
+   "id": "prob",
+   "tur": "zincir",
+   "baslik": "Verificación de *la sonda de OEA*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Cavidad",
+     "tr": "sin oído",
+     "cumle": 0
+    },
+    {
+     "ad": "Otoemisión",
+     "tr": "no debe haber",
+     "cumle": 1
+    },
+    {
+     "ad": "Punta de la sonda",
+     "tr": "cerumen y humedad",
+     "cumle": 3
+    }
+   ],
+   "alt": "_Verifica la sonda_ cada día",
+   "alt_cumle": 4,
+   "cumleler": [
+    "La sonda se coloca en una pequeña cavidad de prueba del fabricante.",
+    "Sin oído en la cavidad, no debería haber otoemisión.",
+    "Una respuesta ahí es distorsión del sistema y puede pasar por una otoemisión.",
+    "El problema más común es una punta obstruida por cerumen o humedad.",
+    "Entonces el estímulo no llega al oído, y la otoemisión parece ausente."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D116",
+ "kaynak_baslik": "Calibración de equipos de inmitancia, OEA y PEATC"
+}

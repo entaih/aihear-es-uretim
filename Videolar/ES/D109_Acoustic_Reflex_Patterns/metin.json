@@ -1,0 +1,971 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D109_Acoustic_Reflex_Patterns_ES",
+ "kapak": {
+  "ust": "LECCIÓN 109",
+  "baslik": "Patrones<br>*del reflejo*",
+  "alt": "Sitio de lesión y prueba de Metz",
+  "cizim": "akustik_refleks_arki"
+ },
+ "youtube": {
+  "baslik": "Patrones del reflejo acústico y sitio de lesión | Lección 109 | AIHEAR Academia de Audiología",
+  "aciklama": "Cuando se leen en conjunto los hallazgos del reflejo acústico ipsilateral y contralateral, aparecen patrones conductivos, cocleares, retrococleares, de tronco cerebral y del nervio facial. En esta lección interpretamos paso a paso la tabla de cuatro mediciones del reflejo, la prueba de Metz y algunos patrones de ejemplo.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Jerger S, Jerger J (1977), Diagnostic value of crossed versus uncrossed acoustic reflexes: eighth nerve and brain stem disorders, Archives of Otolaryngology; Metz O (1952), Threshold of reflex contractions of muscles of middle ear and recruitment of loudness, Archives of Otolaryngology; Gelfand SA, Schwander T, Silman S (1990), Acoustic reflex thresholds in normal and cochlear-impaired ears, Journal of Speech and Hearing Disorders; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; BSA, Recommended Procedure: Tympanometry and Acoustic Reflex Thresholds.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "reflejoacustico",
+   "inmitancia"
+  ],
+  "etiketler": [
+   "reflejo acústico",
+   "patrones del reflejo",
+   "sitio de lesión",
+   "prueba de Metz",
+   "retrococlear",
+   "reflejo ipsilateral",
+   "reflejo contralateral",
+   "impedanciometría",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 109",
+   "baslik": "*Patrones* del reflejo acústico y sitio de lesión",
+   "alt": "Estimar el sitio de lesión con el reflejo acústico",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo los patrones que forman los hallazgos del reflejo acústico nos ayudan a estimar dónde está un problema.",
+    "Con tablas de ejemplo veremos los patrones conductivo, coclear, retrococlear, de tronco cerebral y del nervio facial, y la prueba de Metz."
+   ]
+  },
+  {
+   "id": "mantik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La lógica de la lectura",
+   "baslik": "Cuatro mediciones, *dos preguntas*",
+   "maddeler": [
+    {
+     "metin": "Ipsi derecho: estímulo y sonda _derechos_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Contra derecho: estímulo derecho, _sonda izquierda_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "En total, _cuatro mediciones_",
+     "cumle": 4,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "¿Lado del estímulo o _lado de la sonda?_",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "akustik_refleks_arki",
+    "ayar": {
+     "uyarilan": "sag",
+     "ipsi_cumle": 2,
+     "kontra_cumle": 3
+    },
+    "cumle": 0
+   },
+   "cumleler": [
+    "Para leer los patrones del reflejo, aclaremos primero las cuatro mediciones que se hacen en cada paciente.",
+    "En esta lección nombramos cada medición según el oído que recibe el estímulo; es una convención habitual.",
+    "En la medición ipsilateral derecha, tanto el estímulo como la sonda están en el oído derecho.",
+    "En la medición contralateral derecha, el estímulo llega al oído derecho y el reflejo se mide con la sonda en el oído izquierdo.",
+    "Las mismas dos mediciones se repiten para el oído izquierdo, lo que da una tabla de cuatro mediciones.",
+    "Para cada hallazgo nos hacemos dos preguntas: ¿el problema está del lado del estímulo o del lado de la sonda?",
+    "El lado del estímulo refleja la rama sensorial del arco; el lado de la sonda refleja el oído medio y el nervio facial de ese oído."
+   ]
+  },
+  {
+   "id": "kollar",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La lógica de la lectura",
+   "baslik": "Las *dos ramas* del arco",
+   "cizim": "akustik_refleks_arki",
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 1,
+    "kontra_cumle": 5
+   },
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "stapedius",
+     "cumle": 3
+    },
+    {
+     "parca": "kontralateral_yol",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "VIII par: rama sensorial",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "VII par: rama motora",
+     "cumle": 3
+    },
+    {
+     "parca": "kontralateral_yol",
+     "metin": "Vía cruzada",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Lado del estímulo: rama sensorial",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Lado de sonda: oído medio y VII par",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Contra: cruce en el tronco cerebral",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Dividir el arco reflejo en dos ramas facilita entender los patrones.",
+    "La rama sensorial, o aferente, está formada por la cóclea y el nervio auditivo del oído estimulado.",
+    "Si hay un problema en esta rama, un estímulo en ese oído afecta tanto el reflejo ipsilateral como el contralateral.",
+    "La rama motora, o eferente, es el nervio facial con el músculo estapedio; se mide con la sonda en el oído de ese lado.",
+    "Si hay un problema en esta rama, o en el oído medio donde está la sonda, se afectan las mediciones con la sonda en ese oído.",
+    "Las vías que cruzan en el tronco cerebral son lo que tienen en común las dos mediciones contralaterales."
+   ]
+  },
+  {
+   "id": "iletim",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Patrones periféricos",
+   "baslik": "Patrón 1: pérdida *conductiva*",
+   "sutunlar": [
+    "Medición",
+    "Estímulo",
+    "Sonda",
+    "Reflejo"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Ipsi derecho",
+      "Derecho",
+      "Derecho",
+      "Ausente"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Contra izquierdo",
+      "Izquierdo",
+      "Derecho",
+      "Ausente"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Contra derecho",
+      "Derecho",
+      "Izquierdo",
+      "Elevado o ausente"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Ipsi izquierdo",
+      "Izquierdo",
+      "Izquierdo",
+      "Normal"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Primer ejemplo: el oído derecho tiene una hipoacusia conductiva moderada y el oído izquierdo es normal.",
+    "En la medición ipsilateral derecha, la sonda está en el oído derecho y no se registra reflejo.",
+    "En la medición contralateral izquierda la sonda también está a la derecha; aunque el oído izquierdo es normal, de nuevo no hay reflejo.",
+    "En la medición contralateral derecha, el estímulo va al oído conductivo; el umbral sube aproximadamente lo que mide la brecha aéreo-ósea, o se pierde.",
+    "La medición ipsilateral izquierda es normal, porque tanto el estímulo como la sonda están en el oído sano.",
+    "Incluso una pequeña brecha aéreo-ósea en el oído de la sonda suele impedir que se mida el reflejo.",
+    "Con una hipoacusia conductiva bilateral, el reflejo suele estar ausente en las cuatro mediciones."
+   ]
+  },
+  {
+   "id": "koklear",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Patrones periféricos",
+   "baslik": "Patrón 2: pérdida *coclear*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 90,
+     "adim": 10,
+     "ad": "Umbral tonal (dB HL)"
+    },
+    "y": {
+     "min": 60,
+     "max": 120,
+     "adim": 10,
+     "ad": "Umbral del reflejo (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "art",
+      "noktalar": [
+       [
+        0,
+        85
+       ],
+       [
+        10,
+        85
+       ],
+       [
+        20,
+        85
+       ],
+       [
+        30,
+        85
+       ],
+       [
+        40,
+        86
+       ],
+       [
+        50,
+        88
+       ],
+       [
+        60,
+        93
+       ],
+       [
+        70,
+        100
+       ],
+       [
+        80,
+        108
+       ],
+       [
+        90,
+        116
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "umbral del reflejo típico",
+      "etiket_konum": [
+       5,
+       90
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yok",
+      "y": [
+       105,
+       120
+      ],
+      "renk": "sari",
+      "etiket": "a menudo sin respuesta",
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kirilma",
+      "x": 50,
+      "y": 88,
+      "dus": "x",
+      "etiket": "unos 50 dB HL",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Pérdida leve a moderada: umbral normal",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Más de 50 a 60 dB HL: sube",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Pérdida severa: a menudo ausente",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Segundo ejemplo: una hipoacusia neurosensorial de origen coclear.",
+    "En las pérdidas cocleares leves y moderadas, los umbrales del reflejo suelen mantenerse dentro de lo normal, alrededor de ochenta y cinco dB HL.",
+    "Por eso, el reflejo aparece a un nivel de sensación más bajo que en un oído normal.",
+    "Cuando la pérdida supera unos cincuenta a sesenta dB HL, el umbral del reflejo empieza a subir.",
+    "En las pérdidas más severas, el reflejo suele estar ausente hasta el límite seguro de la prueba.",
+    {
+     "yazi": "Este gráfico es esquemático; en la clínica se usan normas de muestras grandes, como los percentiles noventa de Gelfand y colaboradores.",
+     "ses": "Este gráfico es esquemático; en la clínica se usan normas de muestras grandes, como los percentiles noventa de Guélfand y colaboradores."
+    },
+    "En una pérdida coclear, las dos mediciones con el estímulo en el oído afectado se alteran de la misma forma; el lado de la sonda no causa problemas."
+   ]
+  },
+  {
+   "id": "metz",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Patrones periféricos",
+   "baslik": "La prueba de *Metz*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 350,
+     "max": 2800,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      500,
+      1000,
+      2000
+     ],
+     "ad": "Frecuencia (Hz)"
+    },
+    "y": {
+     "min": 0,
+     "max": 110,
+     "adim": 10,
+     "ters": true,
+     "ad": "Nivel de audición (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        500,
+        55
+       ],
+       [
+        1000,
+        60
+       ],
+       [
+        2000,
+        65
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "umbral auditivo",
+      "cumle": 4
+     },
+     {
+      "ad": "refleks",
+      "noktalar": [
+       [
+        500,
+        95
+       ],
+       [
+        1000,
+        100
+       ],
+       [
+        2000,
+        105
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "umbral del reflejo",
+      "cumle": 4
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       60,
+       100
+      ],
+      "xk": 1000,
+      "etiket": "40 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Diferencia normal: 70 a 100 dB",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "60 dB o menos: reclutamiento",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "No concluyente por sí sola",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El método clásico que usa la diferencia entre el umbral del reflejo y el umbral auditivo se llama prueba de reclutamiento de Metz."
+    },
+    {
+     "yazi": "La prueba lleva el nombre del investigador danés Otto Metz."
+    },
+    "En un oído con audición normal, el reflejo aparece unos setenta a cien decibeles por encima del umbral auditivo.",
+    "Si la diferencia es de sesenta decibeles o menos, el hallazgo sugiere que la sonoridad crece rápido por encima del umbral, es decir, reclutamiento.",
+    "En este ejemplo, en mil hertz el umbral auditivo es de sesenta y el umbral del reflejo de cien dB HL; la diferencia es de solo cuarenta.",
+    "Este hallazgo es compatible con una pérdida auditiva de origen coclear.",
+    {
+     "yazi": "Sin embargo, la prueba de Metz por sí sola no distingue el origen coclear del retrococlear; un hallazgo similar puede darse con una lesión retrococlear."
+    },
+    "Por eso, hoy el hallazgo se valora junto con los demás patrones y la batería de pruebas."
+   ]
+  },
+  {
+   "id": "retro",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Patrones retrococleares",
+   "baslik": "Patrón 3: lesión *retrococlear*",
+   "sutunlar": [
+    "Medición",
+    "Estímulo",
+    "Sonda",
+    "Reflejo"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Ipsi derecho",
+      "Derecho",
+      "Derecho",
+      "Ausente o elevado"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Contra derecho",
+      "Derecho",
+      "Izquierdo",
+      "Ausente o elevado"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Ipsi izquierdo",
+      "Izquierdo",
+      "Izquierdo",
+      "Normal"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Contra izquierdo",
+      "Izquierdo",
+      "Derecho",
+      "Normal"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Tercer ejemplo: una lesión que afecta el nervio auditivo derecho, es decir, una lesión retrococlear.",
+    "Aquí, en las dos mediciones con el estímulo en el oído derecho, el reflejo está ausente o claramente elevado.",
+    "La clave es que el hallazgo del reflejo es desproporcionado respecto del grado de pérdida auditiva.",
+    "Las mediciones con el estímulo en el oído izquierdo son normales, porque el nervio facial derecho y el oído medio derecho están intactos.",
+    "Por ejemplo, llama la atención un reflejo totalmente ausente en un oído cuyo umbral es de solo treinta dB HL.",
+    "Un hallazgo así hace pensar en lesiones del nervio auditivo, como el schwannoma vestibular, y requiere una evaluación adicional.",
+    "En el mismo oído también puede evaluarse el deterioro del reflejo; lo veremos en la próxima lección."
+   ]
+  },
+  {
+   "id": "vaka",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Patrones retrococleares",
+   "baslik": "Ejemplo: un hallazgo *desproporcionado*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: pérdida leve",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "A",
+     "renk": "yesil",
+     "metin": "Timpanograma: _tipo A en ambos oídos_",
+     "cumle": 1
+    },
+    {
+     "isaret": "!",
+     "renk": "sag",
+     "metin": "Estímulo derecho: _sin reflejo_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       30,
+       30,
+       35,
+       35,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Veamos un audiograma de ejemplo que encaja con este patrón: pérdida auditiva leve en el oído derecho y audición normal en el izquierdo.",
+    "Ambos timpanogramas son tipo A, así que los dos oídos medios parecen normales.",
+    "Con el estímulo en el oído derecho, no se registra reflejo hasta el nivel seguro más alto probado.",
+    "En una pérdida leve se espera que el umbral del reflejo esté dentro de lo normal, así que el hallazgo es desproporcionado.",
+    "Este cuadro requiere derivar para una evaluación adicional; el ejemplo es didáctico."
+   ]
+  },
+  {
+   "id": "beyinsapi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Patrones retrococleares",
+   "baslik": "Patrón 4: lesión del *tronco cerebral*",
+   "cizim": "akustik_refleks_arki",
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 2,
+    "kontra_cumle": 1
+   },
+   "vurgula": [
+    {
+     "parca": "beyin_sapi",
+     "cumle": 0
+    },
+    {
+     "parca": "kontralateral_yol",
+     "cumle": 1
+    },
+    {
+     "parca": "ipsilateral_yol",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kontralateral_yol",
+     "metin": "Vía cruzada: afectada",
+     "cumle": 1
+    },
+    {
+     "parca": "ipsilateral_yol",
+     "metin": "Vía del mismo lado: intacta",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ambos contra ausentes o elevados",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Ipsilaterales normales",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "La audición puede ser normal",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "El cuarto ejemplo es una lesión en la línea media del tronco cerebral que afecta las vías cruzadas.",
+    "Aquí, en las dos mediciones contralaterales, el reflejo está ausente o claramente elevado.",
+    "Las mediciones ipsilaterales pueden mantenerse normales, porque la vía del mismo lado se completa sin cruzar.",
+    "Los umbrales auditivos pueden ser normales o casi normales, lo que hace el hallazgo aún más significativo.",
+    "Este patrón puede verse en enfermedades que afectan el tronco cerebral, como la esclerosis múltiple, o con masas.",
+    "Aquí vemos con claridad por qué las mediciones ipsilaterales y contralaterales deben hacerse juntas."
+   ]
+  },
+  {
+   "id": "fasiyal",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Nervio facial",
+   "baslik": "Patrón 5: *nervio facial*",
+   "sutunlar": [
+    "Medición",
+    "Estímulo",
+    "Sonda",
+    "Reflejo"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Ipsi derecho",
+      "Derecho",
+      "Derecho",
+      "Ausente"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Contra izquierdo",
+      "Izquierdo",
+      "Derecho",
+      "Ausente"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Contra derecho",
+      "Derecho",
+      "Izquierdo",
+      "Normal"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Ipsi izquierdo",
+      "Izquierdo",
+      "Izquierdo",
+      "Normal"
+     ],
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Quinto ejemplo: el nervio facial derecho está afectado antes del punto donde sale su rama para el estapedio.",
+    "En las dos mediciones con la sonda en el oído derecho, el reflejo está ausente, porque el estapedio derecho no puede contraerse.",
+    "Las mediciones con la sonda en el oído izquierdo son normales.",
+    "Este patrón se parece al de una pérdida conductiva en el oído de la sonda; el timpanograma y el audiograma permiten distinguirlos.",
+    "Con un problema del nervio facial, la audición y el timpanograma suelen ser normales.",
+    {
+     "yazi": "En la parálisis de Bell, un reflejo presente puede sugerir que la lesión está en posición distal al origen de la rama del estapedio."
+    },
+    "La reaparición del reflejo con el tiempo también puede seguirse como signo de recuperación."
+   ]
+  },
+  {
+   "id": "hepsi",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Nervio facial",
+   "baslik": "Los patrones *juntos*",
+   "sutunlar": [
+    "Cuadro",
+    "Mediciones afectadas"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Conductiva (oído sonda)",
+      "Sonda de ese lado"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Coclear severa",
+      "Estímulo de ese lado"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "VIII par",
+      "Estímulo de ese lado"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Tronco cerebral, línea media",
+      "Ambas contralaterales"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "VII par",
+      "Sonda de ese lado"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Con una pérdida conductiva o un problema del nervio facial, se alteran las mediciones con la sonda en el oído afectado.",
+    "Con una pérdida coclear severa, el reflejo sube o desaparece cuando el estímulo va al oído afectado.",
+    "Con una lesión del nervio auditivo también se afecta el lado del estímulo, pero el hallazgo es desproporcionado respecto del grado de pérdida.",
+    "Con una lesión en la línea media del tronco cerebral, se alteran las dos mediciones contralaterales y se conservan las ipsilaterales.",
+    "En un problema del nervio facial, lo que permite distinguirlo es un timpanograma normal y un audiograma normal.",
+    "En lugar de memorizar esta tabla, pensar en las dos ramas del arco lleva a la respuesta correcta en cada caso nuevo."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "Interpretación",
+   "baslik": "El *orden* para leer un patrón",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanograma",
+     "metin": "¿Oído medio íntegro?",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiograma",
+     "metin": "¿Qué grado de pérdida?",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Cuatro mediciones",
+     "metin": "¿Cuáles son anormales?",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Lado común",
+     "metin": "¿Estímulo o sonda?",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Integrar",
+     "metin": "Interpretar con la batería",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Al interpretar una tabla de reflejos, mira primero los timpanogramas de ambos oídos.",
+    "Luego anota el grado de pérdida de cada oído según el audiograma, porque el umbral del reflejo esperado depende de él.",
+    "Después, marca cuáles de las cuatro mediciones están ausentes o elevadas.",
+    "Busca lo que comparten las mediciones anormales: ¿el mismo oído estimulado, el mismo oído de la sonda o las dos contralaterales?",
+    "Si el hallazgo no puede explicarse por el grado de pérdida, indícalo con claridad en el informe.",
+    "Por último, integra el resultado con pruebas como la logoaudiometría y los potenciales evocados auditivos de tronco cerebral, y con la valoración médica."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de interpretar un reflejo ausente, revisa el timpanograma del oído de la sonda. Un pequeño problema conductivo en ese oído puede cambiar todo el patrón.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo práctico: cuando veas un patrón en una tabla de reflejos, cuestiona primero el oído de la sonda.",
+    "Una presión claramente negativa o una efusión en el oído de la sonda pueden abolir por sí solas los reflejos y crear un patrón falso.",
+    "Ante la duda, repite la medición con la presión fijada en la presión del pico y revisa la colocación de la sonda.",
+    "Un patrón neural o de tronco cerebral verdadero se sigue viendo de forma constante después de estas comprobaciones."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Interpretación",
+   "baslik": "*Límites* de los patrones",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Reflejo normal",
+     "metin": "No descarta una lesión",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Pérdida severa",
+     "metin": "Más difícil de distinguir",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Variación normal",
+     "metin": "A veces el reflejo falta",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Decisión",
+     "metin": "Batería de pruebas y médico",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Los patrones del reflejo son una herramienta poderosa, pero tienen algunas limitaciones.",
+    "Unos reflejos normales no descartan una lesión retrococlear; pueden ser normales, sobre todo con tumores pequeños.",
+    "En un oído con pérdida auditiva severa, un reflejo ausente dificulta distinguir un problema neural de una pérdida coclear.",
+    "En una pequeña proporción de personas con audición normal, el reflejo puede faltar, sobre todo en las frecuencias altas.",
+    "Por eso los hallazgos del reflejo no hacen un diagnóstico por sí solos; refuerzan o debilitan una posibilidad.",
+    "La decisión sobre si hacen falta estudios de imagen corresponde siempre al médico."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Lado del _estímulo_: rama sensorial",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Lado de _sonda_: oído medio y VII par",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Ambos _contra_ anormales: tronco cerebral",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Metz_: diferencia de 60 dB o menos",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Los resultados anormales ligados al oído estimulado sugieren la rama sensorial del arco, es decir, la cóclea y el nervio auditivo.",
+    "Los resultados anormales ligados al oído de la sonda sugieren un problema conductivo en ese oído, o el nervio facial.",
+    "Cuando las dos mediciones contralaterales están alteradas a la vez, se piensa en un problema en la línea media del tronco cerebral.",
+    {
+     "yazi": "En la prueba de Metz, una diferencia de sesenta decibeles o menos entre el umbral del reflejo y el auditivo sugiere reclutamiento."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Oído derecho 30 dB HL, timpanograma normal, sin reflejo con estímulo derecho. ¿Qué se sospecha?",
+   "secenekler": [
+    "Pérdida conductiva derecha",
+    "Lesión retrococlear derecha",
+    "Problema del nervio facial izquierdo",
+    "Hallazgo normal"
+   ],
+   "dogru": 1,
+   "aciklama": "Un reflejo ausente _desproporcionado_ para una pérdida leve hace pensar en el nervio auditivo del lado del estímulo.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: el oído derecho está en treinta dB HL, el timpanograma es normal y el estímulo derecho no da reflejo. ¿Qué se sospecha?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: una posible lesión retrococlear derecha.",
+    "Un reflejo ausente desproporcionado para una pérdida leve cuestiona el nervio auditivo del lado del estímulo y requiere una evaluación adicional."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Prueba de *deterioro* (decay) del reflejo acústico",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la prueba de deterioro del reflejo, que mide si el reflejo se debilita durante un sonido sostenido.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

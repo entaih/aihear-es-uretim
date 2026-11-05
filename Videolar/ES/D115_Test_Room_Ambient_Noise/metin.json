@@ -1,0 +1,982 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D115_Test_Room_Ambient_Noise_ES",
+ "kapak": {
+  "ust": "LECCIÓN 115",
+  "baslik": "Ruido ambiental<br>*en la sala de pruebas*",
+  "alt": "Niveles máximos permitidos",
+  "cizim": "test_kabini"
+ },
+ "youtube": {
+  "baslik": "Normas de la sala de pruebas: ruido ambiental máximo | Lección 115 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cuánto ruido ambiental es aceptable en una sala de pruebas audiométricas? En esta lección vemos el concepto de MPANL, los límites de ANSI S3.1 e ISO 8253-1, los distintos valores para auriculares supraaurales, auriculares de inserción y oídos descubiertos, y cómo medir el ruido en bandas de octava.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: ANSI/ASA S3.1-1999 (R2018), Maximum Permissible Ambient Noise Levels for Audiometric Test Rooms; ISO 8253-1, Acoustics: Audiometric test methods, Part 1; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "calibracion",
+   "audiometria"
+  ],
+  "etiketler": [
+   "ruido ambiental",
+   "MPANL",
+   "nivel máximo permitido de ruido ambiental",
+   "ANSI S3.1",
+   "ISO 8253-1",
+   "banda de octava",
+   "cabina audiométrica",
+   "auriculares de inserción",
+   "vía ósea",
+   "sonómetro",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 115",
+   "baslik": "La sala de pruebas y el *ruido ambiental*",
+   "alt": "Niveles máximos de ruido permitidos",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos los niveles máximos permitidos de ruido ambiental en una sala de pruebas y cómo se miden.",
+    "Paso a paso, veremos los límites de las normas ANSI e ISO, cómo varían según el tipo de auricular y la medición por bandas de octava."
+   ]
+  },
+  {
+   "id": "kabin",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué importa?",
+   "baslik": "¿*Por qué* una sala silenciosa?",
+   "cizim": "test_kabini",
+   "etiketler": [
+    {
+     "parca": "cift_duvar",
+     "metin": "doble pared",
+     "cumle": 1
+    },
+    {
+     "parca": "havalandirma",
+     "metin": "ventilación",
+     "cumle": 1
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "auriculares",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta",
+     "metin": "paciente",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "test_odasi",
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "En lecciones anteriores vimos que la calibración asegura que el audiómetro produzca el sonido correcto, pero ese sonido solo sirve en una sala silenciosa.",
+    "El ruido ambiental es el sonido de fondo no deseado presente en la sala durante la prueba.",
+    "Este ruido enmascara en parte el tono de prueba y hace que el umbral de la persona parezca peor de lo que es.",
+    "Los más afectados son las personas con audición normal, cuyos umbrales están alrededor de cero decibeles HL.",
+    "Esto se debe a que sus umbrales están más cerca del nivel en el que comienza el efecto enmascarante del ruido.",
+    "Por eso las normas definen con números qué nivel de ruido no debe superarse en una sala de pruebas."
+   ]
+  },
+  {
+   "id": "kaynak",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué importa?",
+   "baslik": "¿De *dónde* viene el ruido?",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Ventilación",
+     "metin": "Zumbido constante y grave",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Ventiladores de equipos",
+     "metin": "Computadora y audiómetro",
+     "cumle": 2
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Edificio y tráfico",
+     "metin": "Pasillo, ascensor, calle",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Conversaciones",
+     "metin": "Sala de control, sala de espera",
+     "cumle": 4
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Iluminación",
+     "metin": "Zumbido de algunas lámparas",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Las fuentes de ruido en una sala de pruebas suelen ser sonidos cotidianos difíciles de notar.",
+    "Primero están los sistemas de ventilación y de aire acondicionado; su zumbido es constante y sobre todo grave.",
+    "Los ventiladores de la computadora y de los equipos de la sala de control también generan un ruido bajo pero constante.",
+    "Los pasos en el pasillo, el ascensor, las puertas y el tráfico exterior llegan a la sala a través del edificio.",
+    "Las conversaciones de la sala de espera o de la sala de control pueden filtrarse a la cabina si la puerta no cierra bien.",
+    "El zumbido de algunas lámparas y las superficies que vibran también hacen aportes pequeños pero medibles."
+   ]
+  },
+  {
+   "id": "mpanl",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Límites de las normas",
+   "baslik": "¿Qué es el *MPANL*?",
+   "maddeler": [
+    {
+     "metin": "Máximo nivel de ruido aceptable",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "En bandas de octava o tercio",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Para evaluar hasta 0 dB HL",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Desplazamiento del umbral limitado a _2 dB_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "NORMAS",
+    "metin": "ANSI S3.1 e *ISO 8253-1*",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Nuestro concepto clave es el nivel máximo permitido de ruido ambiental, o MPANL.",
+    "El MPANL es el nivel de ruido más alto que puede haber en la sala durante la prueba sin cambiar de forma significativa el umbral.",
+    "Los valores no son un solo número; se dividen en bandas de frecuencia y se dan como niveles por banda de octava o de tercio de octava.",
+    "Las tablas suponen que los umbrales pueden medirse hasta cero decibeles HL.",
+    "Los límites de ANSI son los niveles en los que el ruido ambiental enmascara el tono de prueba en no más de unos dos decibeles.",
+    "Así, en una sala por debajo de los límites, el efecto del ruido sobre el umbral queda muy por debajo de nuestro paso de prueba de cinco decibeles."
+   ]
+  },
+  {
+   "id": "kosul",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Límites de las normas",
+   "baslik": "Tres *condiciones de prueba* distintas",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Supraaurales",
+     "metin": "La almohadilla reduce algo de ruido",
+     "cumle": 1
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "De inserción",
+     "metin": "Mayor atenuación",
+     "cumle": 3
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Oídos descubiertos",
+     "metin": "Vía ósea, campo libre",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los límites dependen de la condición de prueba, porque el ruido que llega al oído depende de lo que cubre el oído.",
+    "La almohadilla de un auricular supraaural reduce en cierta medida el ruido exterior.",
+    "Esta reducción es débil en las frecuencias bajas y más marcada en las frecuencias altas.",
+    "La punta de espuma de un auricular de inserción sella el conducto auditivo, por lo que bloquea mucho mejor el ruido exterior, sobre todo en los graves.",
+    "En las pruebas por vía ósea y en campo libre, los oídos están descubiertos, y el ruido llega al oído sin ninguna reducción.",
+    "Por eso los límites más estrictos se aplican a la condición de oídos descubiertos."
+   ]
+  },
+  {
+   "id": "egriler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Límites de las normas",
+   "baslik": "*Límites* según el tipo de auricular",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 100,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia central de la banda de octava (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 70,
+     "adim": 10,
+     "ad": "Nivel permitido (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "insert",
+      "noktalar": [
+       [
+        125,
+        59
+       ],
+       [
+        250,
+        53
+       ],
+       [
+        500,
+        50
+       ],
+       [
+        1000,
+        47
+       ],
+       [
+        2000,
+        49
+       ],
+       [
+        4000,
+        50
+       ],
+       [
+        8000,
+        56
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "auriculares de inserción",
+      "cumle": 2
+     },
+     {
+      "ad": "supra",
+      "noktalar": [
+       [
+        125,
+        35
+       ],
+       [
+        250,
+        25
+       ],
+       [
+        500,
+        21
+       ],
+       [
+        1000,
+        26
+       ],
+       [
+        2000,
+        34
+       ],
+       [
+        4000,
+        37
+       ],
+       [
+        8000,
+        37
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "auriculares supraaurales",
+      "cumle": 3
+     },
+     {
+      "ad": "acik",
+      "noktalar": [
+       [
+        125,
+        29
+       ],
+       [
+        250,
+        21
+       ],
+       [
+        500,
+        16
+       ],
+       [
+        1000,
+        13
+       ],
+       [
+        2000,
+        14
+       ],
+       [
+        4000,
+        11
+       ],
+       [
+        8000,
+        14
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "oídos descubiertos",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Inserción: mayor tolerancia",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Supraaural: estricto en bandas bajas",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Oídos descubiertos: el más estricto",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Este gráfico muestra los límites por banda de octava de ANSI S3.1 para evaluar desde ciento veinticinco hasta ocho mil hertz.",
+     "ses": "Este gráfico muestra los límites por banda de octava de ansi ese tres punto uno para evaluar desde ciento veinticinco hasta ocho mil hertz."
+    },
+    "El eje horizontal muestra las frecuencias centrales de las bandas de octava, y el eje vertical el nivel permitido en decibeles SPL.",
+    "La línea azul de arriba corresponde a la prueba con auriculares de inserción; aquí el ruido permitido es el más alto.",
+    "La línea azul marino del medio corresponde a los auriculares supraaurales; en las bandas bajas el límite baja claramente.",
+    "La línea roja de abajo corresponde a los oídos descubiertos; de uno a cuatro kilohertz el límite es de once a catorce decibeles SPL.",
+    "Con los oídos descubiertos, el límite es más bajo en la región de frecuencias medias y altas, donde nuestros oídos son más sensibles.",
+    "La diferencia entre los dos auriculares es mayor en las bandas de doscientos cincuenta y quinientos hertz, en la región grave."
+   ]
+  },
+  {
+   "id": "tablo",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Límites de las normas",
+   "baslik": "Límites de ANSI S3.1 por *banda de octava*",
+   "sutunlar": [
+    "Banda (Hz)",
+    "Supraaural",
+    "Inserción",
+    "Oídos descubiertos"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "125",
+      "35",
+      "59",
+      "29"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "250",
+      "25",
+      "53",
+      "21"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "500",
+      "21",
+      "50",
+      "16"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "1000",
+      "26",
+      "47",
+      "13"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "2000",
+      "34",
+      "49",
+      "14"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "4000",
+      "37",
+      "50",
+      "11"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "8000",
+      "37",
+      "56",
+      "14"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Veamos los mismos valores en una tabla; todos son niveles por banda de octava en decibeles SPL.",
+    "En la banda de ciento veinticinco hertz, el límite es de treinta y cinco con supraaurales, cincuenta y nueve con inserción y veintinueve sin cubrir.",
+    "En la banda de doscientos cincuenta hertz, estos valores son veinticinco, cincuenta y tres y veintiún decibeles.",
+    "En la banda de quinientos hertz, los límites son veintiuno, cincuenta y dieciséis decibeles.",
+    "En la banda de un kilohertz, el límite es de veintiséis para los auriculares supraaurales y de solo trece decibeles para los oídos descubiertos.",
+    "En las bandas de dos, cuatro y ocho kilohertz, el límite para los oídos descubiertos se mantiene entre once y catorce decibeles.",
+    "Estos valores son para evaluar hasta cero decibeles HL, a partir de ciento veinticinco hertz.",
+    "Si la prueba empieza en quinientos hertz, la norma permite niveles más altos en las bandas de ciento veinticinco y doscientos cincuenta hertz."
+   ]
+  },
+  {
+   "id": "ansi_iso",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Límites de las normas",
+   "baslik": "El enfoque de ANSI y de *ISO*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "ANSI S3.1",
+     "metin": "Norma de EE. UU., bandas de octava",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Tres rangos",
+     "metin": "Desde 125, 250 o 500 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "ISO 8253-1",
+     "metin": "Método de prueba internacional",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Incertidumbre",
+     "metin": "Como máximo +2 dB por ruido",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "ANSI S3.1 es la norma que se usa en Estados Unidos; da límites por bandas de octava y de tercio de octava.",
+     "ses": "Ansi ese tres punto uno es la norma que se usa en Estados Unidos; da límites por bandas de octava y de tercio de octava."
+    },
+    "Tiene tablas para tres rangos, para pruebas que empiezan en ciento veinticinco, doscientos cincuenta o quinientos hertz.",
+    {
+     "yazi": "La ISO 8253-1 es la norma internacional que define el método de la audiometría tonal; también fija límites para el entorno de prueba.",
+     "ses": "La iso ochenta y dos cincuenta y tres, parte uno, es la norma internacional que define el método de la audiometría tonal; también fija límites para el entorno de prueba."
+    },
+    "En el enfoque de ISO, el objetivo es que el ruido ambiental no añada más de dos decibeles de incertidumbre a cero decibeles HL.",
+    "Las tablas de ambas normas no son idénticas; el informe de medición debe indicar qué norma se utilizó."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Medición",
+   "baslik": "¿*Cómo* se mide el ruido ambiental?",
+   "adimlar": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Preparar el sonómetro",
+     "metin": "Precisión, filtros de octava",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "El lugar correcto",
+     "metin": "Posición de la cabeza del paciente",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Condiciones reales",
+     "metin": "Ventiladores y ventilación encendidos",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Banda por banda",
+     "metin": "De 125 a 8000 Hz",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Comparar, registrar",
+     "metin": "Frente a la tabla de la norma",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La medición usa un sonómetro de clase de alta exactitud con filtros de octava o de tercio de octava.",
+    "El propio sonómetro se verifica con un calibrador acústico antes de la medición.",
+    "El micrófono se coloca donde estará la cabeza del paciente durante la prueba, a la altura del oído.",
+    "La medición debe reflejar las condiciones reales de prueba: puerta cerrada y con la ventilación, las luces y las computadoras funcionando.",
+    "Luego se lee por separado el nivel de cada banda de octava, desde ciento veinticinco hertz hasta ocho kilohertz.",
+    "Cada valor por banda se compara con el límite de la condición de prueba utilizada, y los resultados se registran con la fecha y los datos del equipo."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Medición",
+   "baslik": "Ejemplo: las *bandas bajas* superan el límite",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 100,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia central de la banda de octava (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 60,
+     "adim": 10,
+     "ad": "Nivel por banda de octava (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "olculen",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        125,
+        42
+       ],
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        22
+       ],
+       [
+        1000,
+        18
+       ],
+       [
+        2000,
+        15
+       ],
+       [
+        4000,
+        12
+       ],
+       [
+        8000,
+        10
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "ruido medido",
+      "cumle": 1
+     },
+     {
+      "ad": "supra",
+      "noktalar": [
+       [
+        125,
+        35
+       ],
+       [
+        250,
+        25
+       ],
+       [
+        500,
+        21
+       ],
+       [
+        1000,
+        26
+       ],
+       [
+        2000,
+        34
+       ],
+       [
+        4000,
+        37
+       ],
+       [
+        8000,
+        37
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "límite supraaural",
+      "cumle": 2
+     },
+     {
+      "ad": "insert",
+      "noktalar": [
+       [
+        125,
+        59
+       ],
+       [
+        250,
+        53
+       ],
+       [
+        500,
+        50
+       ],
+       [
+        1000,
+        47
+       ],
+       [
+        2000,
+        49
+       ],
+       [
+        4000,
+        50
+       ],
+       [
+        8000,
+        56
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "etiket": "límite de inserción",
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "asim",
+      "x": [
+       110,
+       600
+      ],
+      "renk": "sari",
+      "etiket": "límite superado",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Supraaural: bandas bajas superan el límite",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Inserción: aceptable en todas las bandas",
+     "cumle": 4,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Vía ósea: no aceptable",
+     "cumle": 5,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Ahora examinemos los resultados de una sala de pruebas totalmente hipotética.",
+    "Las barras grises muestran el nivel de ruido medido en cada banda de octava; la energía se concentra en las bandas bajas.",
+    "La línea azul marino es el límite supraaural; en las bandas desde un kilohertz hacia arriba, los valores medidos quedan claramente por debajo.",
+    "Pero en las bandas de ciento veinticinco, doscientos cincuenta y quinientos hertz, el ruido medido supera el límite.",
+    "La línea azul discontinua es el límite para auriculares de inserción; la misma sala es aceptable para ellos en todas las bandas.",
+    "En cambio, para la prueba por vía ósea con los oídos descubiertos, esta sala no cumple en muchas bandas; esos límites son mucho más bajos."
+   ]
+  },
+  {
+   "id": "dikkat",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Medición",
+   "baslik": "*Puntos a cuidar* al medir",
+   "maddeler": [
+    {
+     "metin": "Cada banda se evalúa _por separado_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Medir también en horas de mayor actividad",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Cada año y tras cada cambio",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Niveles de prueba más altos, límites mayores",
+     "cumle": 3,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "test_kabini",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "havalandirma",
+      "cumle": 1
+     },
+     {
+      "parca": "kapi",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Un solo valor en decibeles con ponderación A no basta para esta evaluación, porque los límites se fijan por separado para cada banda.",
+    "El ruido puede cambiar durante el día; repetir la medición en las horas de mayor actividad de la clínica da una imagen realista.",
+    "Suele repetirse con los controles anuales y después de cualquier cambio, como una ventilación nueva, una obra o una mudanza.",
+    "Las tablas son para evaluar hasta cero decibeles HL; si solo se hace tamizaje a niveles más altos, los límites pueden subir en la misma medida."
+   ]
+  },
+  {
+   "id": "asim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Si se supera el límite",
+   "baslik": "¿Y si se *supera* el límite?",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Buscar la fuente",
+     "metin": "Ventilador, ventilación, puerta",
+     "cumle": 0
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Usar auriculares de inserción",
+     "metin": "Fuerte atenuación en graves",
+     "cumle": 2
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Mejorar el aislamiento",
+     "metin": "Sellos de puerta, doble pared",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Anotar en el informe",
+     "metin": "Frecuencias que podrían verse afectadas",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Cuando se supera el límite, primero hay que buscar la fuente; a menudo es un ventilador, una salida de ventilación o una puerta que no cierra bien.",
+    "Bajar la ventilación durante la prueba o alejar los equipos de la cabina a veces resuelve el problema por sí solo.",
+    "En las pruebas con auriculares, usar auriculares de inserción reduce mucho el efecto del ruido en las bandas bajas.",
+    "Para una solución duradera, se cambian los sellos de la puerta, se traslada la cabina a un lugar más silencioso o se instala una cabina de doble pared.",
+    "Si se sigue evaluando antes de la solución, el informe indica con claridad la condición de prueba y las frecuencias que podrían verse afectadas."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Si se supera el límite",
+   "baslik": "La huella del ruido en el *audiograma*",
+   "maddeler": [
+    {
+     "metin": "Umbrales en graves, peores de lo esperado",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "La brecha aéreo-ósea puede parecer menor",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Umbrales que varían al repetir",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 1,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        25,
+        20,
+        10,
+        5,
+        5,
+        10
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25,
+      "etiket": "Normal"
+     }
+    }
+   },
+   "cumleler": [
+    "La huella del ruido ambiental en el audiograma forma un patrón reconocible.",
+    "Aquí, una persona con audición normal tiene umbrales inesperadamente peores en doscientos cincuenta y quinientos hertz que en las frecuencias altas.",
+    "La vía ósea se mide con los oídos descubiertos, así que se ve más afectada; esto puede hacer que la brecha aéreo-ósea parezca menor de lo que es.",
+    "Si los umbrales de una misma persona no son consistentes en distintos momentos del día, hay que pensar en el ruido ambiental.",
+    "Cuando vean un patrón así, revisen primero el ruido de la sala y la colocación de los auriculares."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si los umbrales en frecuencias bajas son inesperadamente peores, repitan la prueba con auriculares de inserción; si los umbrales mejoran, hagan medir el ruido de la cabina.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la clínica: incluso sin sonómetro, pueden hacer un control sencillo.",
+    "Midan los umbrales de un colega con audición normal, primero con auriculares supraaurales y luego con auriculares de inserción.",
+    "Si los umbrales en frecuencias bajas mejoran claramente con los de inserción, es posible que un ruido grave en la sala supere el límite.",
+    "Esta observación sencilla no reemplaza la medición, pero indica cuándo hace falta una medición por bandas de octava."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "MPANL: ruido _máximo_ sin alterar el umbral",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Los límites varían según el auricular",
+     "cumle": 1,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Límites _más estrictos_ con oídos descubiertos",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Medido por octavas, en posición de la cabeza",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "El MPANL es el nivel de ruido ambiental más alto que no cambia de forma significativa los umbrales a cero decibeles HL.",
+    "Los auriculares de inserción permiten la mayor tolerancia y los supraaurales una menor; la diferencia es mayor en las bandas bajas.",
+    "En las pruebas por vía ósea y en campo libre los oídos están descubiertos, por lo que los límites son los más bajos.",
+    "El ruido se mide con un sonómetro de precisión, por bandas de octava, en la posición de la cabeza del paciente, y el resultado se registra."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿En qué condición son más estrictos los límites?",
+   "secenekler": [
+    "Prueba con auriculares supraaurales",
+    "Prueba con auriculares de inserción",
+    "Oídos descubiertos",
+    "Igual en todas"
+   ],
+   "dogru": 2,
+   "aciklama": "Con los oídos descubiertos, el ruido llega al oído _sin ninguna reducción_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿en qué condición de prueba son más bajos los límites permitidos de ruido ambiental?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: la condición de oídos descubiertos.",
+    "En las pruebas por vía ósea y en campo libre ningún auricular cubre el oído, así que el mismo ruido altera el umbral con mucha más facilidad."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Calibración de equipos de *inmitancia*, OEA y PEATC",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo se calibran los equipos de inmitancia, de otoemisiones acústicas y de potenciales evocados auditivos de tronco cerebral.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

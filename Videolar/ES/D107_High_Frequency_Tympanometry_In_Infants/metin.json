@@ -1,0 +1,844 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D107_High_Frequency_Tympanometry_In_Infants_ES",
+ "kapak": {
+  "ust": "LECCIÓN 107",
+  "baslik": "Bebés:<br>*1000 Hz*",
+  "alt": "Timpanometría antes de los seis meses",
+  "cizim": "timpanogram",
+  "ayar": {
+   "egriler": [
+    {
+     "tip": "A"
+    },
+    {
+     "tip": "B"
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Timpanometría de alta frecuencia (1000 Hz) en bebés | Lección 107 | AIHEAR Academia de Audiología",
+  "aciklama": "En bebés menores de seis meses, un timpanograma de 226 Hz puede verse normal aunque haya líquido en el oído medio. En esta lección vemos con ejemplos las características del conducto auditivo del recién nacido, la medición con un tono de sonda de 1000 Hz y la interpretación basada en la presencia de un pico positivo.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: BSA, Recommended Procedure: Tympanometry (2013); Baldwin M (2006), Choice of probe tone and classification of trace patterns in tympanometry undertaken in early infancy, International Journal of Audiology; Paradise JL, Smith CG, Bluestone CD (1976), Tympanometric detection of middle ear effusion in infants and young children, Pediatrics; Hunter LL, Shahnaz N, Acoustic Immittance Measures: Basic and Advanced Practice; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "timpanometria",
+   "audiologiainfantil"
+  ],
+  "etiketler": [
+   "timpanometría de 1000 Hz",
+   "timpanometría en bebés",
+   "timpanometría de alta frecuencia",
+   "tono de sonda",
+   "conducto auditivo del recién nacido",
+   "efusión del oído medio",
+   "inmitancia",
+   "audiología pediátrica",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 107",
+   "baslik": "Timpanometría de *alta frecuencia* (1000 Hz) en bebés",
+   "alt": "Medición del oído medio en bebés menores de seis meses",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos por qué un timpanograma de doscientos veintiséis hertz puede ser engañoso en bebés menores de seis meses.",
+    "Hablaremos de la medición con un tono de sonda de mil hertz, de cómo interpretarla y de las características del conducto auditivo del recién nacido."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El problema",
+   "baslik": "¿Por qué *engaña* 226 Hz?",
+   "maddeler": [
+    {
+     "metin": "Tono de sonda habitual: _226 Hz_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Antes de 6 meses: _poco fiable_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Con líquido: posible _curva con pico_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Resultado: un _falso negativo_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "A",
+       "cumle": 2
+      }
+     ]
+    },
+    "cumle": 2
+   },
+   "cumleler": [
+    "En lecciones anteriores vimos que la timpanometría de rutina en adultos usa un tono de sonda de doscientos veintiséis hertz.",
+    "Sin embargo, en bebés menores de seis meses, los resultados obtenidos con este tono de sonda no son fiables.",
+    "El problema principal es que puede registrarse un timpanograma con pico, de aspecto normal, aunque haya líquido en el oído medio.",
+    "Así la efusión pasa inadvertida, lo que significa un resultado falso negativo.",
+    {
+     "yazi": "Paradise y sus colaboradores, en 1976, fueron de los primeros en mostrar este problema en bebés pequeños."
+    },
+    "En ese estudio, la capacidad del timpanograma para detectar la efusión fue baja, sobre todo en bebés menores de siete meses."
+   ]
+  },
+  {
+   "id": "yenidogan",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El oído del recién nacido",
+   "baslik": "El *conducto auditivo* del recién nacido",
+   "cizim": "yenidogan_kulak_yolu",
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 5
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Conducto de paredes blandas",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Membrana timpánica",
+     "cumle": 5
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Oído medio",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Conducto corto y estrecho",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Paredes blandas que se mueven con la presión",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tímpano más horizontal, cavidad pequeña",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "El problema se debe a que el conducto auditivo y el oído medio del recién nacido tienen una estructura distinta de la del adulto.",
+    "En el recién nacido, el conducto auditivo es corto y estrecho, y sus paredes son sobre todo de tejido blando.",
+    "La porción ósea del conducto auditivo se desarrolla después del nacimiento, y este desarrollo continúa durante los primeros años.",
+    "Las paredes blandas pueden expandirse y contraerse con los cambios de presión de la timpanometría.",
+    "A doscientos veintiséis hertz, este movimiento se suma a la admitancia medida y puede crear un pico que parece venir del oído medio.",
+    "Además, la membrana timpánica está más horizontal que en el adulto, y la caja del tímpano es más pequeña.",
+    "En los primeros días también puede haber en el oído medio líquido o restos de tejido del parto."
+   ],
+   "ayar": {
+    "basinc_cumle": 3,
+    "aci_cumle": 5,
+    "sivi_cumle": 6
+   }
+  },
+  {
+   "id": "neden1000",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "El oído del recién nacido",
+   "baslik": "¿Por qué *1000 Hz?*",
+   "maddeler": [
+    {
+     "metin": "A 226 Hz interfiere la _pared del conducto_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Bebés: mayor aporte de la _masa_",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "1000 Hz: más sensible al _oído medio_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "BSA: _1000 Hz_ antes de 6 meses",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "TONO DE SONDA",
+    "metin": "*1000 Hz* en bebés menores de 6 meses",
+    "cumle": 4
+   },
+   "cumleler": [
+    "En el oído del bebé, las propiedades mecánicas de la pared del conducto auditivo y del oído medio son distintas de las del adulto.",
+    "Como vimos en lecciones anteriores, a doscientos veintiséis hertz en el oído medio adulto predomina la rigidez.",
+    "En el recién nacido, la masa y la fricción tienen un papel mayor en el sistema.",
+    "Un tono de sonda más alto se afecta menos por el movimiento de la pared del conducto y es más sensible a los cambios del oído medio.",
+    "Por eso, en bebés menores de seis meses, un tono de sonda de mil hertz detecta la efusión con más precisión.",
+    "La British Society of Audiology (BSA) también recomienda un tono de sonda de mil hertz para este grupo de edad."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "El oído del recién nacido",
+   "baslik": "¿Qué tono a *qué edad?*",
+   "sutunlar": [
+    "Edad corregida",
+    "Tono de sonda",
+    "Nota"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "0 a 6 meses",
+      "1000 Hz",
+      "Preferido"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "3 a 9 meses",
+      "Ambos juntos",
+      "Período de transición"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Más de 6 meses",
+      "226 Hz",
+      "Medición de rutina"
+     ],
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Para el límite de edad se usa la edad corregida; en un bebé prematuro, se resta a la edad cronológica el tiempo que se adelantó el nacimiento.",
+    "La timpanometría de alta frecuencia se prefiere en bebés con una edad corregida menor de seis meses.",
+    "Después de los seis meses, doscientos veintiséis hertz se vuelve fiable de forma gradual y se usa para la medición de rutina.",
+    "Algunos estudios encontraron útil usar ambos tonos de sonda juntos en un período de transición de unos tres a nueve meses.",
+    "El límite de edad que usa tu clínica debe estar claramente escrito en el protocolo."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Medición",
+   "baslik": "Pasos de la *medición* en bebés",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia",
+     "metin": "Conducto auditivo y tímpano",
+     "cumle": 0
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Bebé tranquilo",
+     "metin": "Dormido o alimentándose",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Oliva adecuada",
+     "metin": "Sellado hermético",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Barrido a 1000 Hz",
+     "metin": "De más 200 a menos 400",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Registro",
+     "metin": "Tono de sonda y edad",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Antes de medir, con la otoscopia se examina el conducto auditivo y, si se ve, la membrana timpánica.",
+    "Lo más fácil es hacer la prueba mientras el bebé duerme o se alimenta con calma.",
+    "El llanto y los movimientos fuertes de succión producen deflexiones irregulares en la curva.",
+    "Se elige una oliva pequeña que se adapte al conducto auditivo del bebé y se coloca de modo que no haya fugas de aire.",
+    {
+     "yazi": "Se selecciona un tono de sonda de mil hertz; la presión suele barrerse de más doscientos a menos cuatrocientos decapascales."
+    },
+    "La verificación diaria del equipo a mil hertz se hace con una cavidad de prueba de tamaño adecuado.",
+    "El informe debe indicar el tono de sonda, la edad corregida del bebé y su estado durante la prueba."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación",
+   "baslik": "¿Hay pico *o no?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Presión (daPa)"
+    },
+    "y": {
+     "min": 0.4,
+     "max": 1.6,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Admitancia (mmho)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        -400,
+        0.7
+       ],
+       [
+        -300,
+        0.75
+       ],
+       [
+        -200,
+        0.82
+       ],
+       [
+        -150,
+        0.9
+       ],
+       [
+        -100,
+        1.05
+       ],
+       [
+        -60,
+        1.25
+       ],
+       [
+        -30,
+        1.38
+       ],
+       [
+        0,
+        1.4
+       ],
+       [
+        30,
+        1.32
+       ],
+       [
+        60,
+        1.15
+       ],
+       [
+        100,
+        1.0
+       ],
+       [
+        150,
+        0.95
+       ],
+       [
+        200,
+        0.93
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "pico positivo",
+      "etiket_konum": [
+       40,
+       1.42
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "taban",
+      "noktalar": [
+       [
+        -400,
+        0.7
+       ],
+       [
+        200,
+        0.93
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "línea de base",
+      "etiket_konum": [
+       -330,
+       0.82
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "duz",
+      "noktalar": [
+       [
+        -400,
+        0.55
+       ],
+       [
+        -300,
+        0.57
+       ],
+       [
+        -200,
+        0.6
+       ],
+       [
+        -100,
+        0.62
+       ],
+       [
+        0,
+        0.65
+       ],
+       [
+        100,
+        0.67
+       ],
+       [
+        200,
+        0.7
+       ]
+      ],
+      "renk": "kirmizi",
+      "kesik": true,
+      "etiket": "curva plana",
+      "etiket_konum": [
+       -330,
+       0.5
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Pico positivo: función normal",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Plana o en valle: posible problema",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Usar normas con su fuente",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Un timpanograma de mil hertz no siempre se parece a las curvas de doscientos veintiséis hertz, por eso los tipos de Jerger no se aplican directamente.",
+    "La pregunta clave para interpretar es sencilla: ¿la curva tiene un pico positivo claro?",
+    "Un pico claro que sube por encima de la línea de base trazada entre los dos extremos de la curva es compatible con una función normal del oído medio.",
+    "Una curva plana, o un valle que baja por debajo de la línea de base, sugiere un problema del oído medio como la efusión.",
+    {
+     "yazi": "En el estudio de Baldwin de 2006, este enfoque detectó la efusión con alta sensibilidad y buena especificidad."
+    },
+    "También pueden verse curvas complejas o con muescas; en ese caso, los hallazgos de otras pruebas ayudan a interpretar.",
+    "Las normas numéricas varían entre estudios y equipos, así que conoce la fuente de las normas que usas."
+   ]
+  },
+  {
+   "id": "karsilastir",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación",
+   "baslik": "226 Hz frente a *1000 Hz*",
+   "sol": {
+    "ust": "226 Hz (más de 6 meses)",
+    "maddeler": [
+     {
+      "metin": "Oído medio dominado por la rigidez",
+      "cumle": 0
+     },
+     {
+      "metin": "Se aplican los tipos de Jerger",
+      "cumle": 1
+     },
+     {
+      "metin": "ml y mmho son equivalentes",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "1000 Hz (menos de 6 meses)",
+    "maddeler": [
+     {
+      "metin": "Menos afectada por la pared",
+      "cumle": 3
+     },
+     {
+      "metin": "¿Hay un pico positivo?",
+      "cumle": 4
+     },
+     {
+      "metin": "Resultados en mmho",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Comparemos los dos tonos de sonda: a doscientos veintiséis hertz, en el oído medio predomina la rigidez.",
+    "Por eso, en bebés mayores de seis meses se usan la clasificación de Jerger y las normas que conocemos.",
+    "Solo a esta frecuencia un mililitro de volumen de aire equivale a un milimho.",
+    "En cambio, la medición a mil hertz se afecta menos por el movimiento de la pared blanda del conducto auditivo.",
+    "La interpretación se basa en la presencia de un pico positivo y no en un tipo con letra.",
+    "A mil hertz, los resultados se leen en milimhos y no se comparan con las normas de adultos."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación",
+   "baslik": "Ejemplo: *dos tonos*, dos resultados",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Presión (daPa)"
+    },
+    "y": {
+     "min": 0.2,
+     "max": 1.4,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Admitancia (mmho)"
+    },
+    "seriler": [
+     {
+      "ad": "t226",
+      "noktalar": [
+       [
+        -400,
+        0.45
+       ],
+       [
+        -300,
+        0.5
+       ],
+       [
+        -200,
+        0.6
+       ],
+       [
+        -120,
+        0.8
+       ],
+       [
+        -60,
+        1.05
+       ],
+       [
+        -20,
+        1.18
+       ],
+       [
+        0,
+        1.2
+       ],
+       [
+        30,
+        1.12
+       ],
+       [
+        80,
+        0.85
+       ],
+       [
+        140,
+        0.65
+       ],
+       [
+        200,
+        0.55
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "226 Hz: con pico",
+      "etiket_konum": [
+       40,
+       1.25
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "t1000",
+      "noktalar": [
+       [
+        -400,
+        0.4
+       ],
+       [
+        -200,
+        0.42
+       ],
+       [
+        0,
+        0.44
+       ],
+       [
+        200,
+        0.46
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": 5,
+      "etiket": "1000 Hz: plana",
+      "etiket_konum": [
+       -330,
+       0.3
+      ],
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Un pico a 226 Hz puede engañar",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "1000 Hz: sin pico",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "A esta edad, vale 1000 Hz",
+     "cumle": 3,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "Veamos un ejemplo: un bebé de tres meses llega para una evaluación diagnóstica después del tamizaje auditivo neonatal.",
+    "En el mismo oído, la medición a doscientos veintiséis hertz muestra una curva con pico, de aspecto normal.",
+    "Sin embargo, la medición a mil hertz muestra una curva plana, sin un pico positivo claro.",
+    "A esta edad, el resultado que vale es el de mil hertz; el hallazgo es compatible con posible líquido en el oído medio.",
+    "Este hallazgo también influye directamente en cómo se interpreta el resultado de las otoemisiones acústicas (OEA).",
+    "El ejemplo es didáctico; las decisiones de evaluación y seguimiento se toman con el médico y con la batería de pruebas completa."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Batería de pruebas",
+   "baslik": "Su lugar en la *batería*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "OEA",
+     "metin": "Los problemas del oído medio las anulan",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "PEATC",
+     "metin": "Lo conductivo retrasa las ondas",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Reflejo acústico",
+     "metin": "Con sonda de 1000 Hz",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Derivación",
+     "metin": "A ORL si el hallazgo persiste",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La timpanometría de mil hertz es una parte pequeña pero importante de la batería de pruebas en bebés.",
+    "Cuando las OEA están ausentes, ayuda a distinguir si la causa está en el oído medio o en la cóclea.",
+    "En los potenciales evocados auditivos de tronco cerebral (PEATC), un problema conductivo puede retrasar las ondas; el timpanograma apoya esta lectura.",
+    "En bebés, el reflejo acústico también se registra con más frecuencia con un tono de sonda de mil hertz.",
+    "Así, la timpanometría, los reflejos, las OEA y los PEATC forman juntos un cuadro más coherente.",
+    "Si el hallazgo del oído medio persiste en mediciones repetidas, el bebé se deriva a una evaluación de otorrinolaringología."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Batería de pruebas",
+   "baslik": "Límites de la *medición*",
+   "maddeler": [
+    {
+     "metin": "Artefactos por _movimiento_ y succión",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Vérnix o restos: _sonda obstruida_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "_Repetir_ la medición si es necesario",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Medidas de banda ancha: _información adicional_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "RECUERDA",
+    "metin": "Una medición no es una decisión *definitiva*",
+    "cumle": 4
+   },
+   "cumleler": [
+    "La timpanometría de mil hertz tampoco es perfecta; los artefactos por movimiento y succión pueden distorsionar el resultado.",
+    "Si hay vérnix caseosa o restos de líquido en el conducto auditivo, la sonda puede obstruirse y una curva plana puede malinterpretarse.",
+    "En lugar de una sola medición, repetirla después de un tiempo, cuando hace falta, da una información más fiable.",
+    "Métodos más nuevos, como la timpanometría de banda ancha, aportan información en el oído del bebé; los veremos en una próxima lección.",
+    "En todos los casos, el resultado se interpreta junto con la otoscopia, las OEA y los PEATC."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En un bebé menor de seis meses, no te confíes por una curva con pico a 226 Hz. Basa tu decisión en la medición a 1000 Hz e informa el tono de sonda.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo de la práctica: si el equipo empieza por defecto en doscientos veintiséis hertz, revisa el tono de sonda antes de evaluar a un bebé.",
+    "En un bebé menor de seis meses, una curva con pico a doscientos veintiséis hertz no demuestra que el oído medio sea normal.",
+    "Basa tu decisión en la medición a mil hertz, y escribe en el informe qué tono de sonda usaste.",
+    "Este pequeño detalle evita que un bebé con efusión quede registrado como normal por error."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Antes de 6 meses, _226 Hz_ engaña",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Interfiere la _pared blanda_ del conducto",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "A esta edad: tono de _1000 Hz_",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "¿Hay un _pico positivo?_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "En bebés menores de seis meses, un timpanograma de doscientos veintiséis hertz puede verse normal aunque haya líquido.",
+    "Las razones principales son la pared blanda del conducto auditivo del recién nacido y la mecánica distinta de su oído medio.",
+    "En este grupo de edad se usa un tono de sonda de mil hertz y el resultado se lee en milimhos.",
+    "La interpretación se basa en un pico positivo claro; una curva plana o un valle sugieren un problema."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Bebé de 3 meses: pico a 226 Hz, plana a 1000 Hz. ¿Qué vale?",
+   "secenekler": [
+    "El resultado de 226 Hz",
+    "El resultado de 1000 Hz",
+    "El promedio de ambos",
+    "Ninguno"
+   ],
+   "dogru": 1,
+   "aciklama": "Antes de los seis meses, _1000 Hz_ es fiable; la curva de 226 Hz puede ocultar líquido.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: un bebé de tres meses tiene una curva con pico a doscientos veintiséis hertz y plana a mil. ¿Cuál vale?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: la medición a mil hertz.",
+    "A esta edad, un pico a doscientos veintiséis hertz puede venir de la pared blanda del conducto auditivo y ocultar líquido."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "El *reflejo acústico*: vía y umbrales normales",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección conoceremos el reflejo acústico, el arco reflejo y los umbrales normales del reflejo.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

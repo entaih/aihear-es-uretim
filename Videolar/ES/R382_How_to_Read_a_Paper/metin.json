@@ -1,0 +1,158 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R382_How_to_Read_a_Paper_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #382",
+  "baslik": "Cómo *leer un artículo*",
+  "alt": "Resumen, tablas, métodos, discusión",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0.5,
+    "max": 5.5,
+    "adim": 1,
+    "yazilar": {
+     "1": "1",
+     "2": "2",
+     "3": "3",
+     "4": "4",
+     "5": "5",
+     "1": "1",
+     "2": "2",
+     "3": "3",
+     "4": "4",
+     "5": "5"
+    },
+    "ad": "Nivel de evidencia"
+   },
+   "y": {
+    "min": 0,
+    "max": 5,
+    "adim": 1,
+    "ad": "Solidez"
+   },
+   "seriler": [
+    {
+     "ad": "guc",
+     "tur": "cubuk",
+     "noktalar": [
+      [
+       1,
+       5
+      ],
+      [
+       2,
+       4
+      ],
+      [
+       3,
+       3
+      ],
+      [
+       4,
+       2
+      ],
+      [
+       5,
+       1
+      ]
+     ],
+     "renk": "mavi"
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿En qué orden leen un artículo los lectores con experiencia? #shorts",
+  "aciklama": "Los lectores con experiencia no leen un artículo de corrido. Primero revisan el resumen y deciden si el artículo responde a su pregunta; luego examinan las tablas y figuras, porque el núcleo de los hallazgos suele estar ahí. Después leen con atención los métodos, y la discusión se lee al final, porque la interpretación de los autores no siempre coincide con lo que realmente muestran los datos.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "investigacion",
+   "evidencia"
+  ],
+  "etiketler": [
+   "lectura de artículos científicos",
+   "práctica basada en la evidencia",
+   "IMRyD",
+   "métodos",
+   "lectura crítica",
+   "investigación",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿En qué orden leen un artículo los lectores con experiencia?",
+  "bilgiler": [
+   "Primero el resumen: ¿el artículo responde a tu pregunta?",
+   "Luego tablas y métodos: hallazgos centrales y confiabilidad.",
+   "La discusión se lee al final."
+  ],
+  "hashtag": [
+   "audiologia",
+   "investigacion",
+   "evidencia"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #382",
+   "metin": "¿De *corrido?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿En qué orden leen un artículo los lectores con experiencia?"
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "zincir",
+   "baslik": "El *orden de lectura*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Resumen",
+     "tr": "¿responde?",
+     "cumle": 0
+    },
+    {
+     "ad": "Tablas",
+     "tr": "hallazgos centrales",
+     "cumle": 1
+    },
+    {
+     "ad": "Métodos",
+     "tr": "confiabilidad",
+     "cumle": 2
+    }
+   ],
+   "alt": "La discusión, _al final_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Primero revisan el resumen y deciden si responde a su pregunta.",
+    "Luego vienen las tablas y figuras; ahí suelen estar los hallazgos centrales.",
+    "Después leen los métodos con atención; de ellos depende la confiabilidad.",
+    "La discusión va al final; la visión de los autores puede diferir de los datos."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D117",
+ "kaynak_baslik": "Cómo leer un artículo científico de audiología"
+}

@@ -1,0 +1,2289 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D128_ABR_Stimuli_ES",
+ "kapak": {
+  "ust": "LECCIÓN 128",
+  "baslik": "Clics, tone bursts,<br>*chirps*",
+  "alt": "Conociendo los estímulos de los PEATC",
+  "cizim": "koklea_acik"
+ },
+ "youtube": {
+  "baslik": "Estímulos para PEATC: clics, tone bursts y chirps | Lección 128 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos la estructura y el contenido frecuencial de los estímulos clic, tone burst y chirp que se usan en los potenciales evocados auditivos de tronco cerebral (PEATC), y cuándo se elige cada uno. También vemos detalles que modifican el registro, como la polaridad del estímulo (rarefacción, condensación, alternante), la tasa de estimulación y el retardo de los auriculares de inserción.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Elberling and Don, studies on the chirp stimulus; BSA, Recommended Procedure: Auditory Brainstem Response Testing in Babies.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "PEATC",
+   "electrofisiologia"
+  ],
+  "etiketler": [
+   "PEATC",
+   "clic",
+   "tone burst",
+   "chirp",
+   "CE-Chirp",
+   "polaridad del estímulo",
+   "tasa de estimulación",
+   "potenciales evocados auditivos de tronco cerebral",
+   "PEATC de frecuencia específica",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 128",
+   "baslik": "Clics, tone bursts y *chirps*",
+   "alt": "Estímulos, polaridad y tasa de estimulación",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    {
+     "yazi": "En esta lección veremos los tres estímulos de los potenciales evocados auditivos de tronco cerebral (PEATC, en inglés ABR): el clic, el tone burst y el chirp."
+    },
+    "También veremos cuándo se prefiere cada uno, y cómo la polaridad y la tasa de estimulación afectan el registro."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El principio básico",
+   "baslik": "¿Por qué un estímulo *breve*?",
+   "maddeler": [
+    {
+     "metin": "Los PEATC requieren fibras que descarguen _juntas_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Un inicio abrupto _aumenta la sincronía_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Sonido corto: contenido frecuencial _amplio_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sonido largo: frecuencia _estrecha_, PEATC débiles",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "COMPROMISO",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "kronometre",
+      "baslik": "Estímulo breve",
+      "metin": "Fuerte pero de banda ancha",
+      "cumle": 3
+     },
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Estímulo más largo",
+      "metin": "Específico en frecuencia pero débil",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Los PEATC son una respuesta de inicio producida por miles de fibras del nervio auditivo que descargan al mismo tiempo.",
+    "Para lograr esta sincronía, el estímulo tiene que comenzar muy rápido.",
+    "Sin embargo, existe un compromiso inevitable entre tiempo y frecuencia.",
+    "Cuanto más corto es un sonido, más amplia es la región de frecuencias por la que se reparte su energía.",
+    "Cuanto más largo es un sonido, más clara es su frecuencia, pero al hacerse más lento su inicio, los PEATC se debilitan.",
+    "Los tres tipos de estímulo se ubican en distintos puntos de este compromiso."
+   ]
+  },
+  {
+   "id": "klik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El clic",
+   "baslik": "Clic: un pulso de *100 microsegundos*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -0.5,
+     "max": 2,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Tiempo (ms)"
+    },
+    "y": {
+     "min": -0.4,
+     "max": 1.3,
+     "ad": "Voltaje (relativo)",
+     "isaretler": []
+    },
+    "seriler": [
+     {
+      "ad": "klik",
+      "noktalar": [
+       [
+        -0.5,
+        0
+       ],
+       [
+        0.4,
+        0
+       ],
+       [
+        0.4,
+        1
+       ],
+       [
+        0.5,
+        1
+       ],
+       [
+        0.5,
+        0
+       ],
+       [
+        2,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "cumle": 0
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "sure",
+      "x": [
+       0.4,
+       0.5
+      ],
+      "y": 1.15,
+      "etiket": "0,1 ms",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Pulso eléctrico rectangular",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Estimula una amplia región de la membrana basilar",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Onda V_ fuerte y clara",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Un clic es un pulso eléctrico rectangular y breve que se envía al transductor."
+    },
+    {
+     "yazi": "El pulso suele durar 100 microsegundos, es decir, 0,1 milisegundos.",
+     "ses": "El pulso suele durar cien microsegundos, es decir, cero coma uno milisegundos."
+    },
+    "El auricular convierte este pulso en un sonido muy corto de inicio abrupto.",
+    "Por su inicio abrupto, se estimula casi al mismo tiempo una amplia porción de la membrana basilar.",
+    {
+     "yazi": "El resultado son unos PEATC fuertes y reproducibles; a menudo se identifican con claridad las ondas I, III y V."
+    },
+    "Por eso el clic es el estímulo estándar de los PEATC neurodiagnósticos."
+   ]
+  },
+  {
+   "id": "klik_spektrum",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El clic",
+   "baslik": "*Contenido* frecuencial del clic",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)"
+    },
+    "y": {
+     "min": -40,
+     "max": 10,
+     "adim": 10,
+     "ad": "Nivel relativo (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "spektrum",
+      "noktalar": [
+       [
+        125,
+        -18
+       ],
+       [
+        250,
+        -10
+       ],
+       [
+        500,
+        -4
+       ],
+       [
+        1000,
+        -1
+       ],
+       [
+        2000,
+        0
+       ],
+       [
+        3000,
+        1
+       ],
+       [
+        4000,
+        -2
+       ],
+       [
+        6000,
+        -14
+       ],
+       [
+        8000,
+        -26
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "dolgu": true,
+      "etiket": "clic de ejemplo",
+      "cumle": 0,
+      "etiket_konum": [
+       500,
+       -4
+      ]
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "katki",
+      "x": [
+       2000,
+       4000
+      ],
+      "renk": "sari",
+      "etiket": "mayor aporte a los PEATC",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Energía en una banda _amplia_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "El auricular _limita_ los agudos",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Respuesta sobre todo de _2000 a 4000 Hz_",
+     "cumle": 2,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "En este gráfico de ejemplo vemos que la energía del clic se reparte en una banda de frecuencias amplia.",
+    "Por las propiedades del propio auricular, la energía cae rápidamente en las frecuencias agudas, por lo general por encima de unos pocos kilohertz.",
+    {
+     "yazi": "Aun así, los PEATC con clic reflejan sobre todo la audición en la región de unos 2000 a 4000 Hz."
+    },
+    "Esto se debe a que las regiones de la base de la cóclea responden más rápido y de forma más sincrónica.",
+    "Así, el clic es de banda ancha, pero el origen de la respuesta no se reparte por igual entre todas las frecuencias."
+   ]
+  },
+  {
+   "id": "klik_sinir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "El clic",
+   "baslik": "El *límite* del clic",
+   "maddeler": [
+    {
+     "metin": "_Sin_ información específica por frecuencia",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "La pérdida en graves _puede pasar inadvertida_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "PEATC con clic normales _no_ significan audiograma normal",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Adecuado_ para la evaluación neurodiagnóstica",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 1,
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        55,
+        50,
+        35,
+        20,
+        15,
+        15
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "El límite más importante del clic es que no da información específica por frecuencia.",
+    "Este audiograma de ejemplo muestra una pérdida moderada en las frecuencias graves y audición normal en las agudas.",
+    "En un oído así, el umbral de PEATC con clic puede salir normal o casi normal.",
+    "Por eso, un resultado normal de PEATC con clic no significa que el audiograma sea normal en todas las frecuencias.",
+    "El clic es adecuado para los PEATC neurodiagnósticos, que evalúan la conducción del tronco cerebral; para estimar umbrales, no basta por sí solo."
+   ]
+  },
+  {
+   "id": "tonburst",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "El tone burst",
+   "baslik": "Tone burst: un fragmento *breve* de tono",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -0.3,
+     "max": 2.9,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Tiempo (ms)"
+    },
+    "y": {
+     "min": -1.3,
+     "max": 1.5,
+     "ad": "Presión (relativa)",
+     "isaretler": []
+    },
+    "seriler": [
+     {
+      "ad": "ton",
+      "noktalar": [
+       [
+        -0.3,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0.01,
+        0.001
+       ],
+       [
+        0.02,
+        0.005
+       ],
+       [
+        0.03,
+        0.011
+       ],
+       [
+        0.04,
+        0.019
+       ],
+       [
+        0.05,
+        0.029
+       ],
+       [
+        0.06,
+        0.041
+       ],
+       [
+        0.07,
+        0.054
+       ],
+       [
+        0.08,
+        0.068
+       ],
+       [
+        0.09,
+        0.081
+       ],
+       [
+        0.1,
+        0.095
+       ],
+       [
+        0.11,
+        0.108
+       ],
+       [
+        0.12,
+        0.12
+       ],
+       [
+        0.13,
+        0.13
+       ],
+       [
+        0.14,
+        0.138
+       ],
+       [
+        0.15,
+        0.143
+       ],
+       [
+        0.16,
+        0.145
+       ],
+       [
+        0.17,
+        0.144
+       ],
+       [
+        0.18,
+        0.139
+       ],
+       [
+        0.19,
+        0.13
+       ],
+       [
+        0.2,
+        0.118
+       ],
+       [
+        0.21,
+        0.101
+       ],
+       [
+        0.22,
+        0.081
+       ],
+       [
+        0.23,
+        0.057
+       ],
+       [
+        0.24,
+        0.03
+       ],
+       [
+        0.25,
+        -0.0
+       ],
+       [
+        0.26,
+        -0.033
+       ],
+       [
+        0.27,
+        -0.067
+       ],
+       [
+        0.28,
+        -0.103
+       ],
+       [
+        0.29,
+        -0.14
+       ],
+       [
+        0.3,
+        -0.176
+       ],
+       [
+        0.31,
+        -0.212
+       ],
+       [
+        0.32,
+        -0.247
+       ],
+       [
+        0.33,
+        -0.279
+       ],
+       [
+        0.34,
+        -0.308
+       ],
+       [
+        0.35,
+        -0.333
+       ],
+       [
+        0.36,
+        -0.354
+       ],
+       [
+        0.37,
+        -0.369
+       ],
+       [
+        0.38,
+        -0.379
+       ],
+       [
+        0.39,
+        -0.383
+       ],
+       [
+        0.4,
+        -0.38
+       ],
+       [
+        0.41,
+        -0.371
+       ],
+       [
+        0.42,
+        -0.355
+       ],
+       [
+        0.43,
+        -0.331
+       ],
+       [
+        0.44,
+        -0.301
+       ],
+       [
+        0.45,
+        -0.265
+       ],
+       [
+        0.46,
+        -0.222
+       ],
+       [
+        0.47,
+        -0.173
+       ],
+       [
+        0.48,
+        -0.119
+       ],
+       [
+        0.49,
+        -0.061
+       ],
+       [
+        0.5,
+        0.0
+       ],
+       [
+        0.51,
+        0.064
+       ],
+       [
+        0.52,
+        0.129
+       ],
+       [
+        0.53,
+        0.195
+       ],
+       [
+        0.54,
+        0.26
+       ],
+       [
+        0.55,
+        0.323
+       ],
+       [
+        0.56,
+        0.383
+       ],
+       [
+        0.57,
+        0.439
+       ],
+       [
+        0.58,
+        0.49
+       ],
+       [
+        0.59,
+        0.534
+       ],
+       [
+        0.6,
+        0.571
+       ],
+       [
+        0.61,
+        0.599
+       ],
+       [
+        0.62,
+        0.619
+       ],
+       [
+        0.63,
+        0.629
+       ],
+       [
+        0.64,
+        0.629
+       ],
+       [
+        0.65,
+        0.618
+       ],
+       [
+        0.66,
+        0.597
+       ],
+       [
+        0.67,
+        0.566
+       ],
+       [
+        0.68,
+        0.524
+       ],
+       [
+        0.69,
+        0.472
+       ],
+       [
+        0.7,
+        0.411
+       ],
+       [
+        0.71,
+        0.342
+       ],
+       [
+        0.72,
+        0.265
+       ],
+       [
+        0.73,
+        0.182
+       ],
+       [
+        0.74,
+        0.093
+       ],
+       [
+        0.75,
+        -0.0
+       ],
+       [
+        0.76,
+        -0.095
+       ],
+       [
+        0.77,
+        -0.191
+       ],
+       [
+        0.78,
+        -0.287
+       ],
+       [
+        0.79,
+        -0.381
+       ],
+       [
+        0.8,
+        -0.47
+       ],
+       [
+        0.81,
+        -0.554
+       ],
+       [
+        0.82,
+        -0.632
+       ],
+       [
+        0.83,
+        -0.701
+       ],
+       [
+        0.84,
+        -0.76
+       ],
+       [
+        0.85,
+        -0.808
+       ],
+       [
+        0.86,
+        -0.845
+       ],
+       [
+        0.87,
+        -0.868
+       ],
+       [
+        0.88,
+        -0.878
+       ],
+       [
+        0.89,
+        -0.874
+       ],
+       [
+        0.9,
+        -0.856
+       ],
+       [
+        0.91,
+        -0.823
+       ],
+       [
+        0.92,
+        -0.777
+       ],
+       [
+        0.93,
+        -0.717
+       ],
+       [
+        0.94,
+        -0.643
+       ],
+       [
+        0.95,
+        -0.558
+       ],
+       [
+        0.96,
+        -0.462
+       ],
+       [
+        0.97,
+        -0.357
+       ],
+       [
+        0.98,
+        -0.244
+       ],
+       [
+        0.99,
+        -0.124
+       ],
+       [
+        1.0,
+        0.0
+       ],
+       [
+        1.01,
+        0.125
+       ],
+       [
+        1.02,
+        0.249
+       ],
+       [
+        1.03,
+        0.368
+       ],
+       [
+        1.04,
+        0.482
+       ],
+       [
+        1.05,
+        0.588
+       ],
+       [
+        1.06,
+        0.685
+       ],
+       [
+        1.07,
+        0.771
+       ],
+       [
+        1.08,
+        0.844
+       ],
+       [
+        1.09,
+        0.905
+       ],
+       [
+        1.1,
+        0.951
+       ],
+       [
+        1.11,
+        0.982
+       ],
+       [
+        1.12,
+        0.998
+       ],
+       [
+        1.13,
+        0.998
+       ],
+       [
+        1.14,
+        0.982
+       ],
+       [
+        1.15,
+        0.951
+       ],
+       [
+        1.16,
+        0.905
+       ],
+       [
+        1.17,
+        0.844
+       ],
+       [
+        1.18,
+        0.771
+       ],
+       [
+        1.19,
+        0.685
+       ],
+       [
+        1.2,
+        0.588
+       ],
+       [
+        1.21,
+        0.482
+       ],
+       [
+        1.22,
+        0.368
+       ],
+       [
+        1.23,
+        0.249
+       ],
+       [
+        1.24,
+        0.125
+       ],
+       [
+        1.25,
+        -0.0
+       ],
+       [
+        1.26,
+        -0.125
+       ],
+       [
+        1.27,
+        -0.249
+       ],
+       [
+        1.28,
+        -0.368
+       ],
+       [
+        1.29,
+        -0.482
+       ],
+       [
+        1.3,
+        -0.588
+       ],
+       [
+        1.31,
+        -0.685
+       ],
+       [
+        1.32,
+        -0.771
+       ],
+       [
+        1.33,
+        -0.844
+       ],
+       [
+        1.34,
+        -0.905
+       ],
+       [
+        1.35,
+        -0.951
+       ],
+       [
+        1.36,
+        -0.982
+       ],
+       [
+        1.37,
+        -0.998
+       ],
+       [
+        1.38,
+        -0.998
+       ],
+       [
+        1.39,
+        -0.982
+       ],
+       [
+        1.4,
+        -0.951
+       ],
+       [
+        1.41,
+        -0.905
+       ],
+       [
+        1.42,
+        -0.844
+       ],
+       [
+        1.43,
+        -0.771
+       ],
+       [
+        1.44,
+        -0.685
+       ],
+       [
+        1.45,
+        -0.588
+       ],
+       [
+        1.46,
+        -0.482
+       ],
+       [
+        1.47,
+        -0.368
+       ],
+       [
+        1.48,
+        -0.249
+       ],
+       [
+        1.49,
+        -0.125
+       ],
+       [
+        1.5,
+        0.0
+       ],
+       [
+        1.51,
+        0.124
+       ],
+       [
+        1.52,
+        0.244
+       ],
+       [
+        1.53,
+        0.357
+       ],
+       [
+        1.54,
+        0.462
+       ],
+       [
+        1.55,
+        0.558
+       ],
+       [
+        1.56,
+        0.643
+       ],
+       [
+        1.57,
+        0.717
+       ],
+       [
+        1.58,
+        0.777
+       ],
+       [
+        1.59,
+        0.823
+       ],
+       [
+        1.6,
+        0.856
+       ],
+       [
+        1.61,
+        0.874
+       ],
+       [
+        1.62,
+        0.878
+       ],
+       [
+        1.63,
+        0.868
+       ],
+       [
+        1.64,
+        0.845
+       ],
+       [
+        1.65,
+        0.808
+       ],
+       [
+        1.66,
+        0.76
+       ],
+       [
+        1.67,
+        0.701
+       ],
+       [
+        1.68,
+        0.632
+       ],
+       [
+        1.69,
+        0.554
+       ],
+       [
+        1.7,
+        0.47
+       ],
+       [
+        1.71,
+        0.381
+       ],
+       [
+        1.72,
+        0.287
+       ],
+       [
+        1.73,
+        0.191
+       ],
+       [
+        1.74,
+        0.095
+       ],
+       [
+        1.75,
+        -0.0
+       ],
+       [
+        1.76,
+        -0.093
+       ],
+       [
+        1.77,
+        -0.182
+       ],
+       [
+        1.78,
+        -0.265
+       ],
+       [
+        1.79,
+        -0.342
+       ],
+       [
+        1.8,
+        -0.411
+       ],
+       [
+        1.81,
+        -0.472
+       ],
+       [
+        1.82,
+        -0.524
+       ],
+       [
+        1.83,
+        -0.566
+       ],
+       [
+        1.84,
+        -0.597
+       ],
+       [
+        1.85,
+        -0.618
+       ],
+       [
+        1.86,
+        -0.629
+       ],
+       [
+        1.87,
+        -0.629
+       ],
+       [
+        1.88,
+        -0.619
+       ],
+       [
+        1.89,
+        -0.599
+       ],
+       [
+        1.9,
+        -0.571
+       ],
+       [
+        1.91,
+        -0.534
+       ],
+       [
+        1.92,
+        -0.49
+       ],
+       [
+        1.93,
+        -0.439
+       ],
+       [
+        1.94,
+        -0.383
+       ],
+       [
+        1.95,
+        -0.323
+       ],
+       [
+        1.96,
+        -0.26
+       ],
+       [
+        1.97,
+        -0.195
+       ],
+       [
+        1.98,
+        -0.129
+       ],
+       [
+        1.99,
+        -0.064
+       ],
+       [
+        2.0,
+        0.0
+       ],
+       [
+        2.01,
+        0.061
+       ],
+       [
+        2.02,
+        0.119
+       ],
+       [
+        2.03,
+        0.173
+       ],
+       [
+        2.04,
+        0.222
+       ],
+       [
+        2.05,
+        0.265
+       ],
+       [
+        2.06,
+        0.301
+       ],
+       [
+        2.07,
+        0.331
+       ],
+       [
+        2.08,
+        0.355
+       ],
+       [
+        2.09,
+        0.371
+       ],
+       [
+        2.1,
+        0.38
+       ],
+       [
+        2.11,
+        0.383
+       ],
+       [
+        2.12,
+        0.379
+       ],
+       [
+        2.13,
+        0.369
+       ],
+       [
+        2.14,
+        0.354
+       ],
+       [
+        2.15,
+        0.333
+       ],
+       [
+        2.16,
+        0.308
+       ],
+       [
+        2.17,
+        0.279
+       ],
+       [
+        2.18,
+        0.247
+       ],
+       [
+        2.19,
+        0.212
+       ],
+       [
+        2.2,
+        0.176
+       ],
+       [
+        2.21,
+        0.14
+       ],
+       [
+        2.22,
+        0.103
+       ],
+       [
+        2.23,
+        0.067
+       ],
+       [
+        2.24,
+        0.033
+       ],
+       [
+        2.25,
+        0.0
+       ],
+       [
+        2.26,
+        -0.03
+       ],
+       [
+        2.27,
+        -0.057
+       ],
+       [
+        2.28,
+        -0.081
+       ],
+       [
+        2.29,
+        -0.101
+       ],
+       [
+        2.3,
+        -0.118
+       ],
+       [
+        2.31,
+        -0.13
+       ],
+       [
+        2.32,
+        -0.139
+       ],
+       [
+        2.33,
+        -0.144
+       ],
+       [
+        2.34,
+        -0.145
+       ],
+       [
+        2.35,
+        -0.143
+       ],
+       [
+        2.36,
+        -0.138
+       ],
+       [
+        2.37,
+        -0.13
+       ],
+       [
+        2.38,
+        -0.12
+       ],
+       [
+        2.39,
+        -0.108
+       ],
+       [
+        2.4,
+        -0.095
+       ],
+       [
+        2.41,
+        -0.081
+       ],
+       [
+        2.42,
+        -0.068
+       ],
+       [
+        2.43,
+        -0.054
+       ],
+       [
+        2.44,
+        -0.041
+       ],
+       [
+        2.45,
+        -0.029
+       ],
+       [
+        2.46,
+        -0.019
+       ],
+       [
+        2.47,
+        -0.011
+       ],
+       [
+        2.48,
+        -0.005
+       ],
+       [
+        2.49,
+        -0.001
+       ],
+       [
+        2.5,
+        -0.0
+       ],
+       [
+        2.5,
+        0
+       ],
+       [
+        2.9,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 3,
+      "sure": 2.2,
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yukselme",
+      "x": [
+       0,
+       1.0
+      ],
+      "renk": "sari",
+      "etiket": "2 ciclos",
+      "cumle": 2
+     },
+     {
+      "ad": "plato",
+      "x": [
+       1.0,
+       1.5
+      ],
+      "renk": "yesil",
+      "etiket": "1",
+      "cumle": 2
+     },
+     {
+      "ad": "dusus",
+      "x": [
+       1.5,
+       2.5
+      ],
+      "renk": "sari",
+      "etiket": "2 ciclos",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Ejemplo: tone burst de _2000 Hz_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Subida, meseta, bajada: _2-1-2_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La duración _depende_ del período",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Un tone burst es un fragmento breve de tono puro que dura unos pocos ciclos."
+    },
+    {
+     "yazi": "El ejemplo en pantalla es un tone burst de 2000 Hz."
+    },
+    {
+     "yazi": "En un diseño habitual, el sonido sube durante 2 ciclos, se mantiene estable 1 ciclo y baja durante 2 ciclos; esto se llama 2-1-2.",
+     "ses": "En un diseño habitual, el sonido sube durante dos ciclos, se mantiene estable un ciclo y baja durante dos ciclos; esto se llama dos uno dos."
+    },
+    "Así, el sonido comienza de forma abrupta, pero su energía se concentra alrededor de la frecuencia elegida.",
+    "Como la duración se define por el número de ciclos, los tone bursts son más largos en las frecuencias graves y más cortos en las agudas.",
+    "Este enfoque busca dar una especificidad frecuencial similar en todas las frecuencias."
+   ]
+  },
+  {
+   "id": "sureler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "El tone burst",
+   "baslik": "*Duraciones* del tone burst 2-1-2",
+   "sutunlar": [
+    "Frecuencia",
+    "Un ciclo",
+    "Duración total"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "2 ms",
+      "10 ms"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "1 ms",
+      "5 ms"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "0,5 ms",
+      "2,5 ms"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "0,25 ms",
+      "1,25 ms"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Cuando el número de ciclos es fijo, la duración total es fácil de calcular.",
+    {
+     "yazi": "A 500 Hz, un ciclo dura 2 milisegundos; un tone burst de cinco ciclos dura 10 milisegundos."
+    },
+    {
+     "yazi": "A 1000 Hz, un ciclo dura 1 milisegundo, y la duración total es de 5 milisegundos."
+    },
+    {
+     "yazi": "A 2000 y 4000 Hz, la duración total baja a 2,5 y 1,25 milisegundos.",
+     "ses": "A dos mil y cuatro mil hertz, la duración total baja a dos coma cinco y uno coma veinticinco milisegundos."
+    },
+    {
+     "yazi": "El inicio más largo y lento de los tone bursts graves es una de las razones por las que la respuesta a 500 Hz es más ancha y tardía."
+    }
+   ]
+  },
+  {
+   "id": "pencere",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "El tone burst",
+   "baslik": "Rampas y *ventanas*",
+   "maddeler": [
+    {
+     "metin": "Un borde abrupto _dispersa la energía_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Rampa lineal: _simple_ y habitual",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ventana de Blackman: _lóbulos laterales bajos_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "La especificidad _baja_ a alta intensidad",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 500,
+      "max": 8000,
+      "log": true,
+      "hz": true,
+      "ad": "Frecuencia (Hz)"
+     },
+     "y": {
+      "min": -60,
+      "max": 5,
+      "adim": 20,
+      "ad": "dB"
+     },
+     "seriler": [
+      {
+       "ad": "dogrusal",
+       "noktalar": [
+        [
+         500,
+         -30
+        ],
+        [
+         700,
+         -36
+        ],
+        [
+         900,
+         -26
+        ],
+        [
+         1300,
+         -14
+        ],
+        [
+         1600,
+         -5
+        ],
+        [
+         2000,
+         0
+        ],
+        [
+         2500,
+         -5
+        ],
+        [
+         3100,
+         -14
+        ],
+        [
+         3800,
+         -26
+        ],
+        [
+         4500,
+         -34
+        ],
+        [
+         5500,
+         -28
+        ],
+        [
+         8000,
+         -34
+        ]
+       ],
+       "renk": "lacivert",
+       "kesik": true,
+       "yumusak": true,
+       "etiket": "lineal",
+       "cumle": 1,
+       "etiket_konum": [
+        5500,
+        -28
+       ]
+      },
+      {
+       "ad": "blackman",
+       "noktalar": [
+        [
+         500,
+         -60
+        ],
+        [
+         1000,
+         -45
+        ],
+        [
+         1300,
+         -24
+        ],
+        [
+         1600,
+         -8
+        ],
+        [
+         2000,
+         0
+        ],
+        [
+         2500,
+         -8
+        ],
+        [
+         3100,
+         -24
+        ],
+        [
+         4000,
+         -45
+        ],
+        [
+         6000,
+         -58
+        ]
+       ],
+       "renk": "mavi",
+       "yumusak": true,
+       "etiket": "Blackman",
+       "cumle": 2,
+       "etiket_konum": [
+        1000,
+        -45
+       ]
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Cuanto más abruptos son el inicio y el final de un sonido, más se dispersa su energía a ambos lados de la frecuencia principal.",
+    "Una rampa lineal hace que el sonido suba y baje siguiendo una línea recta; es una opción simple y habitual.",
+    {
+     "yazi": "Las envolventes de curva suave, como la ventana de Blackman, reducen claramente los lóbulos laterales fuera de la frecuencia principal."
+    },
+    "Las curvas del gráfico son solo ejemplos; el objetivo es mantener la energía alrededor de la frecuencia elegida.",
+    "Recuerden también que, a alta intensidad, la excitación se extiende por la membrana basilar, por lo que disminuye la especificidad frecuencial.",
+    "Por eso, la información más valiosa de los PEATC con tone burst proviene de las intensidades bajas, cerca del umbral."
+   ]
+  },
+  {
+   "id": "chirp_ilke",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "El chirp",
+   "baslik": "Chirp: compensar el *retardo*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 500
+   },
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "cumle": 2
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "base: agudos, temprano",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "ápice: graves, tarde",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Primero los graves, luego los agudos",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Todas las regiones responden _a la vez_",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Resultado: una _onda V_ mayor",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "El clic también tiene un problema: la onda viajera avanza desde la base de la cóclea hacia el ápice.",
+    "La región de frecuencias agudas, en la base de la cóclea, es la primera en responder al estímulo.",
+    "La onda llega a la región de frecuencias graves, en el ápice, unos milisegundos después, y esto reduce la sincronía.",
+    {
+     "yazi": "El estímulo chirp está diseñado para compensar este retardo; los componentes graves llegan primero y los agudos, después."
+    },
+    "Así, las respuestas de distintas regiones de frecuencia se suman de forma más sincrónica en el nervio auditivo.",
+    {
+     "yazi": "El resultado es una onda V mayor que con el clic, sobre todo a intensidades bajas y moderadas."
+    }
+   ]
+  },
+  {
+   "id": "chirp_tur",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "El chirp",
+   "baslik": "Tipos de *chirp*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "De banda ancha",
+     "metin": "Sustituye al clic, p. ej. CE-Chirp",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Específico de nivel",
+     "metin": "Adaptado a la intensidad",
+     "cumle": 2
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "De banda estrecha",
+     "metin": "500 a 4000 Hz",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Un chirp de banda ancha puede usarse en lugar del clic; un ejemplo comercial se conoce como CE-Chirp."
+    },
+    {
+     "yazi": "Como el retardo coclear cambia con la intensidad, la forma óptima del chirp también depende de la intensidad."
+    },
+    {
+     "yazi": "Un chirp específico de nivel tiene en cuenta este cambio y adapta su forma a cada intensidad."
+    },
+    {
+     "yazi": "Un chirp de banda estrecha se centra en una banda de octava concreta y, como el tone burst, se usa para estimar umbrales por frecuencia."
+    },
+    "Estos estímulos se han generalizado, sobre todo en el tamizaje neonatal y en la estimación de umbrales en bebés."
+   ]
+  },
+  {
+   "id": "chirp_dikkat",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "El chirp",
+   "baslik": "Chirp: *ventajas* y precauciones",
+   "maddeler": [
+    {
+     "metin": "Onda V por lo general _mayor_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La respuesta aparece _antes_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Normas de latencia _distintas_ a las del clic",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "La ventaja _se reduce_ a alta intensidad",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "REGLA",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "tablo",
+      "baslik": "Normas propias",
+      "metin": "Normas según el estímulo",
+      "cumle": 2
+     },
+     {
+      "ikon": "dikkat",
+      "baslik": "No mezclar",
+      "metin": "Nunca usar normas del clic",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En los estudios, la amplitud de la onda V con chirp ha sido por lo general claramente mayor que con clic a intensidades bajas y moderadas."
+    },
+    "Como la respuesta se separa antes del ruido, la búsqueda de umbrales puede acortarse, un ahorro de tiempo valioso en un bebé dormido.",
+    {
+     "yazi": "Sin embargo, las latencias medidas con chirp difieren de los valores con clic, según la temporización del estímulo."
+    },
+    {
+     "yazi": "Por eso, los registros con chirp deben interpretarse con normas obtenidas con el mismo estímulo y el mismo equipo."
+    },
+    {
+     "yazi": "A intensidades altas, la excitación en la cóclea se extiende, por lo que la diferencia entre chirp y clic se reduce."
+    }
+   ]
+  },
+  {
+   "id": "polarite",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Polaridad",
+   "baslik": "*Polaridad* del estímulo",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Rarefacción",
+     "metin": "El diafragma retrocede primero",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Condensación",
+     "metin": "El diafragma avanza primero",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Alternante",
+     "metin": "Las dos se turnan",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La polaridad del estímulo indica si el sonido primero baja o sube la presión en el conducto auditivo."
+    },
+    {
+     "yazi": "Con polaridad de rarefacción, el diafragma del auricular primero retrocede y la presión en el conducto baja primero."
+    },
+    {
+     "yazi": "Con polaridad de condensación, el diafragma primero avanza y la presión sube primero."
+    },
+    {
+     "yazi": "Con polaridad alternante, estas dos formas se turnan en estímulos sucesivos."
+    },
+    "Como la rarefacción estimula las células ciliadas un poco antes, en muchas personas puede hacer que las ondas sean algo más tempranas y claras.",
+    "Pero esta diferencia varía de una persona a otra; en algunas, el mejor registro se obtiene con polaridad de condensación."
+   ]
+  },
+  {
+   "id": "polarite_secim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Polaridad",
+   "baslik": "¿Qué polaridad y *cuándo*?",
+   "maddeler": [
+    {
+     "metin": "Alternante: _reduce_ el artefacto del estímulo",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Alternante: _cancela_ el microfónico coclear",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Si las latencias difieren, las ondas _se desdibujan_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sospecha de neuropatía: polaridades _por separado_",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 2,
+    "ayar": {
+     "latans_kayma": 0.3
+    },
+    "etiketler": [
+     {
+      "parca": "dalga_V",
+      "metin": "puede desplazarse con la polaridad",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Con polaridad alternante, el artefacto eléctrico del estímulo tiene signo opuesto en las dos polaridades, por lo que se cancela en gran parte en el promedio.",
+    "Por la misma razón, el microfónico coclear (MC), que sigue la forma de onda del estímulo, también se cancela en un registro alternante.",
+    "Sin embargo, en algunas personas, sobre todo con pérdida auditiva en agudos, las latencias de las ondas difieren claramente entre las dos polaridades.",
+    "En ese caso, las dos respuestas se superponen en el registro alternante, y las ondas se ensanchan y se desdibujan.",
+    "Cuando se sospecha una neuropatía auditiva, se obtienen por separado registros con rarefacción y con condensación, y se superponen para compararlos."
+   ]
+  },
+  {
+   "id": "hiz",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 6",
+   "bolum": "Tasa de estimulación",
+   "baslik": "*Tasa* de estimulación",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 90,
+     "adim": 10,
+     "ad": "Tasa de estimulación (por segundo)"
+    },
+    "y": {
+     "min": -0.2,
+     "max": 1.2,
+     "ad": "Cambio relativo",
+     "isaretler": []
+    },
+    "seriler": [
+     {
+      "ad": "latans",
+      "noktalar": [
+       [
+        10,
+        0
+       ],
+       [
+        20,
+        0.08
+       ],
+       [
+        40,
+        0.25
+       ],
+       [
+        60,
+        0.45
+       ],
+       [
+        80,
+        0.62
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "latencia de la onda V",
+      "cumle": 1,
+      "etiket_konum": [
+       80,
+       0.62
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -18,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "genlik",
+      "noktalar": [
+       [
+        10,
+        1
+       ],
+       [
+        20,
+        0.95
+       ],
+       [
+        40,
+        0.8
+       ],
+       [
+        60,
+        0.66
+       ],
+       [
+        80,
+        0.55
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "etiket": "amplitud de ondas tempranas",
+      "cumle": 2,
+      "etiket_konum": [
+       10,
+       1
+      ],
+      "etiket_dy": -16
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "noro",
+      "x": [
+       11,
+       21
+      ],
+      "renk": "sari",
+      "etiket": "neurodiagnóstico",
+      "cumle": 3
+     },
+     {
+      "ad": "esik",
+      "x": [
+       30,
+       40
+      ],
+      "renk": "yesil",
+      "etiket": "umbral",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Mayor tasa, _mayor latencia_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Tasa no entera: como _21,1_",
+     "cumle": 5,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La tasa de estimulación es el número de estímulos que se presentan por segundo, y determina directamente la duración de la prueba."
+    },
+    {
+     "yazi": "Al aumentar la tasa, las fibras nerviosas tienen menos tiempo para recuperarse, y la latencia de la onda V se alarga un poco."
+    },
+    {
+     "yazi": "Al mismo tiempo, disminuye la amplitud de las ondas tempranas, sobre todo de la onda I; el gráfico muestra esta tendencia como ejemplo."
+    },
+    {
+     "yazi": "Por eso, en los PEATC neurodiagnósticos se usan por lo general unos 11 a 21 estímulos por segundo, para que las ondas se vean con claridad."
+    },
+    {
+     "yazi": "En la búsqueda de umbrales, el objetivo principal es la onda V, por lo que la tasa suele subirse a unos 30 a 40 por segundo."
+    },
+    {
+     "yazi": "Se elige una tasa no entera, como 21,1, para que la interferencia de la red eléctrica de 50 Hz no se sincronice con el estímulo y se cancele en el promedio.",
+     "ses": "Se elige una tasa no entera, como veintiuno coma uno, para que la interferencia de la red eléctrica de cincuenta hertz no se sincronice con el estímulo y se cancele en el promedio."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Con auriculares de inserción, el tubo añade unos 0,8 a 0,9 ms de retardo; verificar si el equipo lo corrige y si las normas usaron el mismo ajuste.",
+   "cumleler": [
+    "Un consejo clínico: con auriculares de inserción, el sonido viaja por un tubo desde el transductor hasta el oído.",
+    {
+     "yazi": "Este tubo añade un retardo de unos 0,8 a 0,9 milisegundos.",
+     "ses": "Este tubo añade un retardo de unos cero coma ocho a cero coma nueve milisegundos."
+    },
+    "Algunos equipos restan automáticamente este retardo de las latencias, y otros no.",
+    "Asegúrense de que sus normas se obtuvieron con el mismo auricular y el mismo ajuste de corrección; si no, todas las latencias pueden leerse mal."
+   ]
+  },
+  {
+   "id": "siddet",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 6",
+   "bolum": "Tasa de estimulación",
+   "baslik": "Intensidad y *transductor*",
+   "maddeler": [
+    {
+     "metin": "Intensidad: expresada en _dB nHL_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Calibración: SPL _de pico equivalente_",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Auriculares de inserción: atenuación interaural _alta_",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Vibrador óseo: intensidad máxima _limitada_",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TRANSDUCTOR",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "insert_kulaklik",
+      "baslik": "De inserción",
+      "metin": "La opción más habitual",
+      "cumle": 2
+     },
+     {
+      "ikon": "kemik_vibratoru",
+      "baslik": "Vibrador óseo",
+      "metin": "PEATC por vía ósea",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "La intensidad de los estímulos de los PEATC suele expresarse en dB nHL, es decir, en nivel de audición normalizado."
+    },
+    {
+     "yazi": "Para calibrar el equipo, en los sonidos breves se usa el nivel de presión sonora de pico equivalente, o peSPL."
+    },
+    "Los auriculares de inserción son el transductor más usado, porque su atenuación interaural es alta y evitan el colapso del conducto auditivo.",
+    "Los PEATC también pueden registrarse con un vibrador óseo, pero su intensidad máxima es limitada; lo veremos en detalle en una lección posterior."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Clic: respuesta fuerte, _sin especificidad frecuencial_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tone burst: umbral _específico por frecuencia_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Chirp: compensa el retardo, _onda V mayor_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Polaridad y tasa _modifican_ el registro",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El clic produce unos PEATC fuertes y claros, pero refleja sobre todo la región de 2000 a 4000 Hz y no es específico por frecuencia."
+    },
+    "El tone burst es un fragmento breve de tono definido por su número de ciclos, y se usa para estimar umbrales por frecuencia.",
+    {
+     "yazi": "El chirp compensa el retardo de la onda viajera en la cóclea y por lo general produce una onda V mayor."
+    },
+    "La polaridad y la tasa de estimulación afectan la forma de onda y la latencia; se eligen según el objetivo de la prueba."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Unos PEATC con clic normales descartan una pérdida en graves?",
+   "secenekler": [
+    "Sí, siempre",
+    "No, puede pasar inadvertida",
+    "Solo en bebés"
+   ],
+   "dogru": 1,
+   "aciklama": "La respuesta al clic refleja sobre todo la región de _2000 a 4000 Hz_; las frecuencias graves requieren tone bursts.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿un umbral normal de PEATC con clic descarta una pérdida auditiva en las frecuencias graves?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: no, una pérdida en graves puede pasar inadvertida.",
+    {
+     "yazi": "La respuesta al clic refleja sobre todo las frecuencias agudas, por lo que las graves se evalúan por separado con tone bursts o chirps de banda estrecha."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "PEATC neurodiagnósticos: lesiones *retrococleares*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo usamos los PEATC con clic para investigar problemas retrococleares.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1375 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D086_Dead_Regions_TEN_Test_ES",
+ "kapak": {
+  "ust": "LECCIÓN 86",
+  "baslik": "Zonas muertas<br>*cocleares*",
+  "alt": "La prueba TEN y la adaptación de audífonos",
+  "cizim": "corti",
+  "vurgula": [
+   "ic_tuy_hucresi"
+  ]
+ },
+ "youtube": {
+  "baslik": "Zonas muertas cocleares y la prueba TEN | Lección 86 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué ocurre cuando las células ciliadas internas dejan de funcionar? En esta lección vemos el concepto de zona muerta coclear, la escucha fuera de frecuencia, las pistas del audiograma, la lógica, el procedimiento y los criterios de la prueba TEN(HL), las curvas de sintonía psicofísicas y por qué las zonas muertas importan en la adaptación de audífonos.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Moore et al. (2000), A test for the diagnosis of dead regions in the cochlea, British Journal of Audiology; Moore, Glasberg and Stone (2004), New version of the TEN test with calibrations in dB HL, Ear and Hearing; Moore (2004), Dead regions in the cochlea: conceptual foundations, diagnosis, and clinical applications, Ear and Hearing; Vickers, Moore and Baer (2001), Effects of low-pass filtering on the intelligibility of speech in quiet for people with and without dead regions at high frequencies, Journal of the Acoustical Society of America; Cox et al. (2011), Cochlear dead regions in typical hearing aid candidates: prevalence and implications for use of high-frequency speech cues, Ear and Hearing.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "psicoacustica",
+   "pruebaTEN"
+  ],
+  "etiketler": [
+   "zona muerta coclear",
+   "zonas muertas cocleares",
+   "prueba TEN",
+   "ruido igualador de umbral",
+   "escucha fuera de frecuencia",
+   "células ciliadas internas",
+   "frecuencia de borde",
+   "curva de sintonía psicofísica",
+   "adaptación de audífonos",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 86",
+   "baslik": "Zonas muertas cocleares y la prueba *TEN*",
+   "alt": "Cómo detectar la pérdida de células ciliadas internas",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos las regiones donde las células ciliadas internas no funcionan, llamadas zonas muertas cocleares.",
+    "Veremos la escucha fuera de frecuencia, la prueba del ruido igualador de umbral, o TEN, y sus efectos en los audífonos."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es una zona muerta?",
+   "baslik": "Pérdida de células *ciliadas internas*",
+   "cizim": "corti",
+   "yakinlastir": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "Célula ciliada interna",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Fibras nerviosas aferentes",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Hay vibración, _no hay transmisión_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "La definición es _funcional_",
+     "cumle": 4,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Límite: la _frecuencia de borde_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "En la lección anterior vimos cómo el daño de las células ciliadas externas cambia la percepción; en esta nos centramos en las internas.",
+    "Las células ciliadas internas son las verdaderas células sensoriales que convierten la vibración de la membrana basilar en señal nerviosa.",
+    "Si en una región no funcionan las células ciliadas internas o sus fibras nerviosas, esa región se llama zona muerta coclear.",
+    "En esta región, aunque la membrana basilar vibre, la información no puede transmitirse al nervio.",
+    "La definición es funcional; no hace falta que la región esté vacía de células, basta con que la transmisión sea insuficiente.",
+    "La frecuencia del límite donde comienza una zona muerta se llama frecuencia de borde.",
+    "El concepto de zona muerta y la prueba TEN se deben en gran parte al trabajo de Brian Moore y sus colaboradores."
+   ]
+  },
+  {
+   "id": "frekans_disi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es una zona muerta?",
+   "baslik": "Escucha *fuera de frecuencia*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 3
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "Zona muerta: 4 kHz",
+     "cumle": 3
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "La región vecina sana lo detecta",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "El sonido fuerte también hace vibrar _la región vecina_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Umbral de _la región vecina_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "El tono suena _distorsionado o ruidoso_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Entonces, ¿un sonido que cae en una zona muerta nunca se oye? Por lo general sí se oye, pero desde otro lugar.",
+    "Un sonido lo bastante fuerte hace vibrar no solo su propia región de la membrana basilar, sino también las regiones vecinas.",
+    "Las células ciliadas internas de la región vecina sana detectan esa vibración; esto se llama escucha fuera de frecuencia.",
+    "Por ejemplo, si la región de cuatro kilohertz está muerta, un tono de cuatro kilohertz puede detectarse en una región más baja y sana.",
+    "Así, en el audiograma se mide un umbral en la frecuencia muerta, pero ese umbral pertenece a la región vecina, no a esa región.",
+    "Los pacientes suelen decir que no oyen este tono como un tono puro, sino ruidoso, distorsionado o con otra altura.",
+    "En otras palabras, el audiograma por sí solo no revela una zona muerta."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es una zona muerta?",
+   "baslik": "*Pistas* en el audiograma",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Vía aérea_: oído derecho",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Vía ósea_: oído derecho",
+     "cumle": 1
+    },
+    {
+     "isaret": "!",
+     "renk": "sag",
+     "metin": "_Pendiente abrupta_: mayor probabilidad",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       30,
+       75,
+       90,
+       95
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       15,
+       25,
+       25,
+       70,
+       70
+      ],
+      "cumle": 1,
+      "yanitsiz": [
+       4
+      ]
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Algunas pistas del audiograma hacen sospechar una zona muerta; este ejemplo es didáctico.",
+    "Aquí la pérdida es leve en las frecuencias graves, aumenta de forma muy abrupta por encima de un kilohertz y la vía ósea sigue a la vía aérea.",
+    "Las pendientes abruptas, cercanas a cincuenta decibeles por octava, aumentan la probabilidad de una zona muerta.",
+    "La probabilidad también sube claramente en las frecuencias con umbrales de unos setenta decibeles HL o peores.",
+    "Pero estas pistas solo indican probabilidad; el mismo audiograma puede tener o no una zona muerta.",
+    "Para demostrar una zona muerta hace falta una prueba especial; la más usada en la clínica es la prueba TEN."
+   ]
+  },
+  {
+   "id": "mantik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "La prueba TEN",
+   "baslik": "Ruido igualador de *umbral*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Oído normal",
+     "metin": "Umbral enmascarado cerca del ruido",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Pérdida coclear",
+     "metin": "Sigue cerca del ruido",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Zona muerta",
+     "metin": "Muy por encima del ruido",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "La prueba TEN debe su nombre al ruido igualador de umbral, en inglés threshold equalizing noise.",
+    "El espectro de este ruido está diseñado para producir el mismo umbral enmascarado en todas las frecuencias en un oído con audición normal.",
+    "En un oído normal, el umbral enmascarado de un tono resulta más o menos igual al nivel del ruido.",
+    "En una pérdida coclear sin zona muerta, si el ruido está por encima del umbral de la persona, el umbral enmascarado también queda cerca del nivel del ruido.",
+    "En una zona muerta la situación es distinta; el tono solo puede detectarse en la región vecina sana.",
+    "Pero como el ruido es de banda ancha, también enmascara esa región vecina; el tono solo se oye a un nivel mucho más alto.",
+    "Como resultado, en una zona muerta el umbral enmascarado sube claramente por encima del nivel del ruido."
+   ]
+  },
+  {
+   "id": "surum",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "La prueba TEN",
+   "baslik": "TEN(SPL) y *TEN(HL)*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "2000: TEN(SPL)",
+     "metin": "Niveles en dB SPL",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "2004: TEN(HL)",
+     "metin": "Niveles en dB HL",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Frecuencias",
+     "metin": "De 500 a 4000 Hz",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Nivel del ruido",
+     "metin": "dB HL por filtro",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La primera versión de la prueba, la TEN(SPL), se publicó en 2000 y daba los niveles en decibeles SPL."
+    },
+    {
+     "yazi": "En la versión TEN(HL), publicada en 2004, los niveles se dan en decibeles HL, como estamos acostumbrados en el audiómetro."
+    },
+    {
+     "yazi": "La prueba TEN(HL) se realiza en las frecuencias de quinientos a cuatro mil hertz."
+    },
+    "El nivel del ruido se define en decibeles HL por ancho de filtro auditivo, es decir, el nivel que cae dentro de un solo filtro del oído.",
+    "La prueba se aplica desde una grabación conectada al audiómetro o, en algunos audiómetros, con un programa incorporado.",
+    {
+     "yazi": "En esta lección describimos la versión TEN(HL), que es la más usada en la clínica."
+    }
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "La prueba TEN",
+   "baslik": "*Pasos* de la prueba",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Umbral en silencio",
+     "metin": "Mismo auricular y método",
+     "cumle": 1
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Nivel del ruido",
+     "metin": "10 dB sobre el umbral",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Umbral enmascarado",
+     "metin": "En pasos de 2 dB",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Comodidad, otro oído",
+     "metin": "Molestia, audición cruzada",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La prueba se realiza en pocos pasos.",
+    "Primero se miden los umbrales en silencio en las frecuencias de prueba, con el mismo auricular y el mismo método.",
+    "Luego se elige el nivel del ruido; si es posible, el ruido debe estar al menos diez decibeles por encima del umbral en la frecuencia de prueba.",
+    "El ruido y el tono se presentan juntos en el mismo oído, y se busca el umbral enmascarado del tono.",
+    "Cerca del umbral se usan pasos de dos decibeles en lugar de cinco; esto importa porque los criterios dependen de diferencias pequeñas.",
+    "Como el ruido puede ser fuerte, se pregunta al paciente si le molesta; no se usan niveles molestos.",
+    "Si hace falta, también se enmascara el otro oído; que el tono se oiga en el otro oído puede arruinar el resultado."
+   ]
+  },
+  {
+   "id": "olcut",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "La prueba TEN",
+   "baslik": "*Interpretación* del resultado",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 400,
+     "max": 5000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      1500,
+      2000,
+      3000,
+      4000
+     ]
+    },
+    "y": {
+     "min": 10,
+     "max": 110,
+     "adim": 10,
+     "ad": "Nivel (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "sessiz_esik",
+      "noktalar": [
+       [
+        500,
+        20
+       ],
+       [
+        1000,
+        25
+       ],
+       [
+        1500,
+        30
+       ],
+       [
+        2000,
+        50
+       ],
+       [
+        3000,
+        65
+       ],
+       [
+        4000,
+        70
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "cumle": 0,
+      "etiket": "umbral en silencio",
+      "etiket_konum": [
+       500,
+       20
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -14
+     },
+     {
+      "ad": "maskeli_esik",
+      "noktalar": [
+       [
+        500,
+        81
+       ],
+       [
+        1000,
+        80
+       ],
+       [
+        1500,
+        82
+       ],
+       [
+        2000,
+        83
+       ],
+       [
+        3000,
+        95
+       ],
+       [
+        4000,
+        99
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "isaretli": true,
+      "cumle": 4,
+      "etiket": "umbral enmascarado en TEN",
+      "etiket_konum": [
+       500,
+       81
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": 30
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "ten_duzeyi",
+      "x": 450,
+      "y": 80,
+      "cizgi": "yatay",
+      "renk": "gri",
+      "nokta": false,
+      "etiket": "TEN: 80 dB HL",
+      "dx": 60,
+      "dy": -10,
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "olu_bolge",
+      "x": [
+       2500,
+       5000
+      ],
+      "renk": "sari",
+      "etiket": "zona muerta",
+      "cumle": 6,
+      "opak": 0.22
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "xk": 3000,
+      "y": [
+       80,
+       95
+      ],
+      "etiket": "15 dB",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ten_duzeyi",
+     "cumle": 1
+    },
+    {
+     "parca": "sessiz_esik",
+     "cumle": 2
+    },
+    {
+     "parca": "fark",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Para interpretar el resultado se usan dos criterios a la vez.",
+    "Primer criterio: el umbral enmascarado debe estar al menos diez decibeles por encima del nivel del ruido.",
+    "Segundo criterio: también debe estar al menos diez decibeles por encima del umbral en silencio, lo que demuestra que el ruido realmente enmascara.",
+    "Si se cumplen ambos criterios, se sospecha una zona muerta en esa frecuencia.",
+    "En este ejemplo el ruido es de ochenta decibeles HL; de quinientos a dos mil hertz, los umbrales enmascarados están muy cerca del ruido.",
+    "En tres y cuatro kilohertz, los umbrales enmascarados superan al ruido en quince y diecinueve decibeles, y a los umbrales en silencio en más de veinte.",
+    "Así, en este ejemplo la zona muerta comienza en unos tres kilohertz; la frecuencia de borde puede estar entre dos y tres kilohertz.",
+    "Si el umbral enmascarado no supera en diez decibeles al umbral en silencio, el resultado no es concluyente; si hace falta, se repite con un ruido más fuerte."
+   ]
+  },
+  {
+   "id": "ptc",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "La prueba TEN",
+   "baslik": "*Curva de sintonía* psicofísica",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1000,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia del enmascarador (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      3000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": 20,
+     "max": 100,
+     "adim": 20,
+     "ad": "Nivel de enmascarador necesario (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        1226.5,
+        99.0
+       ],
+       [
+        1254.6,
+        96.6
+       ],
+       [
+        1283.4,
+        94.2
+       ],
+       [
+        1312.8,
+        91.8
+       ],
+       [
+        1342.9,
+        89.5
+       ],
+       [
+        1373.7,
+        87.3
+       ],
+       [
+        1405.2,
+        85.1
+       ],
+       [
+        1437.5,
+        83.0
+       ],
+       [
+        1470.5,
+        80.9
+       ],
+       [
+        1504.2,
+        78.8
+       ],
+       [
+        1538.7,
+        76.8
+       ],
+       [
+        1574.0,
+        74.8
+       ],
+       [
+        1610.1,
+        72.9
+       ],
+       [
+        1647.0,
+        71.1
+       ],
+       [
+        1684.8,
+        69.2
+       ],
+       [
+        1723.5,
+        67.5
+       ],
+       [
+        1763.0,
+        65.7
+       ],
+       [
+        1803.4,
+        64.1
+       ],
+       [
+        1844.8,
+        62.4
+       ],
+       [
+        1887.1,
+        60.8
+       ],
+       [
+        1930.4,
+        59.3
+       ],
+       [
+        1974.7,
+        57.8
+       ],
+       [
+        2020.0,
+        56.4
+       ],
+       [
+        2066.3,
+        55.0
+       ],
+       [
+        2113.7,
+        53.6
+       ],
+       [
+        2162.2,
+        52.3
+       ],
+       [
+        2211.8,
+        51.1
+       ],
+       [
+        2262.6,
+        49.9
+       ],
+       [
+        2314.5,
+        48.7
+       ],
+       [
+        2367.6,
+        47.6
+       ],
+       [
+        2421.9,
+        46.5
+       ],
+       [
+        2477.4,
+        45.5
+       ],
+       [
+        2534.3,
+        44.5
+       ],
+       [
+        2592.4,
+        43.6
+       ],
+       [
+        2651.9,
+        42.7
+       ],
+       [
+        2712.7,
+        41.9
+       ],
+       [
+        2774.9,
+        41.1
+       ],
+       [
+        2838.6,
+        40.4
+       ],
+       [
+        2903.7,
+        39.7
+       ],
+       [
+        2970.3,
+        39.1
+       ],
+       [
+        3038.4,
+        38.5
+       ],
+       [
+        3108.1,
+        37.9
+       ],
+       [
+        3179.4,
+        37.4
+       ],
+       [
+        3252.4,
+        37.0
+       ],
+       [
+        3327.0,
+        36.6
+       ],
+       [
+        3403.3,
+        36.2
+       ],
+       [
+        3481.4,
+        35.9
+       ],
+       [
+        3561.2,
+        35.6
+       ],
+       [
+        3642.9,
+        35.4
+       ],
+       [
+        3726.5,
+        35.2
+       ],
+       [
+        3812.0,
+        35.1
+       ],
+       [
+        3899.4,
+        35.0
+       ],
+       [
+        3988.9,
+        35.0
+       ],
+       [
+        4080.4,
+        36.6
+       ],
+       [
+        4174.0,
+        39.3
+       ],
+       [
+        4269.7,
+        42.4
+       ],
+       [
+        4367.7,
+        45.9
+       ],
+       [
+        4467.9,
+        49.7
+       ],
+       [
+        4570.4,
+        53.8
+       ],
+       [
+        4675.2,
+        58.0
+       ],
+       [
+        4782.5,
+        62.5
+       ],
+       [
+        4892.2,
+        67.1
+       ],
+       [
+        5004.4,
+        71.8
+       ],
+       [
+        5119.2,
+        76.8
+       ],
+       [
+        5236.6,
+        81.8
+       ],
+       [
+        5356.7,
+        87.0
+       ],
+       [
+        5479.6,
+        92.3
+       ],
+       [
+        5605.3,
+        97.8
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "cumle": 2,
+      "etiket": "normal: punta en la señal",
+      "etiket_konum": [
+       4000,
+       35
+      ],
+      "etiket_dx": -14,
+      "etiket_dy": 30,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "kaymis",
+      "noktalar": [
+       [
+        1000.0,
+        94.5
+       ],
+       [
+        1022.9,
+        93.3
+       ],
+       [
+        1046.4,
+        92.1
+       ],
+       [
+        1070.4,
+        91.0
+       ],
+       [
+        1095.0,
+        89.9
+       ],
+       [
+        1120.1,
+        88.8
+       ],
+       [
+        1145.8,
+        87.7
+       ],
+       [
+        1172.1,
+        86.7
+       ],
+       [
+        1198.9,
+        85.7
+       ],
+       [
+        1226.5,
+        84.8
+       ],
+       [
+        1254.6,
+        83.9
+       ],
+       [
+        1283.4,
+        83.0
+       ],
+       [
+        1312.8,
+        82.1
+       ],
+       [
+        1342.9,
+        81.3
+       ],
+       [
+        1373.7,
+        80.4
+       ],
+       [
+        1405.2,
+        79.7
+       ],
+       [
+        1437.5,
+        78.9
+       ],
+       [
+        1470.5,
+        78.2
+       ],
+       [
+        1504.2,
+        77.5
+       ],
+       [
+        1538.7,
+        76.9
+       ],
+       [
+        1574.0,
+        76.2
+       ],
+       [
+        1610.1,
+        75.6
+       ],
+       [
+        1647.0,
+        75.1
+       ],
+       [
+        1684.8,
+        74.5
+       ],
+       [
+        1723.5,
+        74.0
+       ],
+       [
+        1763.0,
+        73.6
+       ],
+       [
+        1803.4,
+        73.1
+       ],
+       [
+        1844.8,
+        72.7
+       ],
+       [
+        1887.1,
+        72.3
+       ],
+       [
+        1930.4,
+        71.9
+       ],
+       [
+        1974.7,
+        71.6
+       ],
+       [
+        2020.0,
+        71.3
+       ],
+       [
+        2066.3,
+        71.1
+       ],
+       [
+        2113.7,
+        70.8
+       ],
+       [
+        2162.2,
+        70.6
+       ],
+       [
+        2211.8,
+        70.4
+       ],
+       [
+        2262.6,
+        70.3
+       ],
+       [
+        2314.5,
+        70.2
+       ],
+       [
+        2367.6,
+        70.1
+       ],
+       [
+        2421.9,
+        70.0
+       ],
+       [
+        2477.4,
+        70.0
+       ],
+       [
+        2534.3,
+        70.4
+       ],
+       [
+        2592.4,
+        71.3
+       ],
+       [
+        2651.9,
+        72.4
+       ],
+       [
+        2712.7,
+        73.7
+       ],
+       [
+        2774.9,
+        75.1
+       ],
+       [
+        2838.6,
+        76.6
+       ],
+       [
+        2903.7,
+        78.2
+       ],
+       [
+        2970.3,
+        79.8
+       ],
+       [
+        3038.4,
+        81.5
+       ],
+       [
+        3108.1,
+        83.3
+       ],
+       [
+        3179.4,
+        85.1
+       ],
+       [
+        3252.4,
+        87.0
+       ],
+       [
+        3327.0,
+        89.0
+       ],
+       [
+        3403.3,
+        90.9
+       ],
+       [
+        3481.4,
+        93.0
+       ],
+       [
+        3561.2,
+        95.0
+       ],
+       [
+        3642.9,
+        97.1
+       ],
+       [
+        3726.5,
+        99.3
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 3,
+      "etiket": "zona muerta: punta desplazada",
+      "etiket_konum": [
+       2500,
+       70
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": 30,
+      "etiket_hiza": "end"
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinyal",
+      "x": 4000,
+      "y": 25,
+      "cizgi": "dikey",
+      "renk": "kirmizi",
+      "nokta": false,
+      "etiket": "señal: 4 kHz",
+      "dx": 10,
+      "dy": 0,
+      "hiza": "start",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "sinyal",
+     "cumle": 1
+    },
+    {
+     "parca": "kaymis",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Una forma más detallada de demostrar una zona muerta es la curva de sintonía psicofísica.",
+    "Se mide el nivel de ruido necesario en cada frecuencia para enmascarar una señal fija y suave.",
+    "Normalmente, la punta de la curva, es decir, la frecuencia en la que basta el menor ruido, está en la frecuencia de la señal.",
+    "En una zona muerta la punta se aleja de la frecuencia de la señal; señala la región sana donde la señal se detecta en realidad.",
+    "Este desplazamiento también ayuda a estimar la frecuencia de borde; las curvas del gráfico son representativas.",
+    "Aunque se han desarrollado métodos rápidos, en la clínica esta prueba es más larga y exigente que la prueba TEN."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Importancia clínica",
+   "baslik": "Zonas muertas y *ganancia* del audífono",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": ""
+    },
+    "bolgeler": [
+     {
+      "ad": "yararli",
+      "x": [
+       250,
+       3400
+      ],
+      "renk": "mavi",
+      "etiket": "ganancia: hasta 1,7 veces el borde",
+      "cumle": 1,
+      "opak": 0.15
+     },
+     {
+      "ad": "olu",
+      "x": [
+       2000,
+       8000
+      ],
+      "renk": "kirmizi",
+      "etiket": "zona muerta",
+      "cumle": 0,
+      "opak": 0.1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kenar",
+      "x": 2000,
+      "y": 5,
+      "cizgi": "dikey",
+      "etiket": "borde: 2 kHz",
+      "dx": -10,
+      "dy": 40,
+      "hiza": "end",
+      "cumle": 0
+     },
+     {
+      "ad": "ust_sinir",
+      "x": 3400,
+      "y": 5,
+      "cizgi": "dikey",
+      "renk": "lacivert",
+      "etiket": "3,4 kHz",
+      "dx": 10,
+      "dy": 70,
+      "hiza": "start",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "yararli",
+     "cumle": 1
+    },
+    {
+     "parca": "olu",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Saber que hay una zona muerta puede orientar la adaptación de audífonos.",
+    "En personas con zonas muertas en agudos, se ha demostrado útil dar ganancia hasta aproximadamente uno coma siete veces la frecuencia de borde.",
+    "La ganancia aplicada más adentro de la zona muerta puede no mejorar la inteligibilidad en algunas personas, e incluso distorsionar el sonido.",
+    "Sin embargo, algunos estudios indican que los usuarios de audífonos con zonas muertas aún pueden beneficiarse de la ganancia en las frecuencias agudas.",
+    "Por eso, la ganancia no se recorta solo por el resultado de la prueba TEN; la decisión depende de la respuesta de la persona y de la verificación.",
+    "En zonas muertas amplias pueden considerarse opciones como la reducción de frecuencias; lo veremos más adelante en las lecciones sobre audífonos.",
+    "Conocer la zona muerta también es valioso en la orientación, para mantener realistas las expectativas del paciente."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Importancia clínica",
+   "baslik": "*Otros aspectos* que conviene saber",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Zona muerta en graves",
+     "metin": "Descrita en audiogramas ascendentes",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Niños",
+     "metin": "Confiabilidad limitada",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Interpretación conjunta",
+     "metin": "Audiograma, habla, quejas",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Las zonas muertas no se ven solo en las frecuencias agudas.",
+    "También se han descrito zonas muertas en las frecuencias graves con pérdidas en graves, por ejemplo en audiogramas ascendentes.",
+    "En este caso, los sonidos graves se detectan en una región más alta y sana.",
+    "La prueba de zonas muertas puede no ser confiable en niños o en personas que no pueden mantener la atención por mucho tiempo.",
+    "Los hallazgos de la prueba siempre se interpretan junto con el audiograma, las pruebas de habla y las quejas del paciente."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Considerar la prueba TEN cuando un paciente con audiograma de pendiente abrupta oye los tonos agudos distorsionados o como un siseo. Usar pasos de 2 dB y un ruido cómodo.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo de la clínica: presten atención al paciente que dice que un tono agudo no le suena como un silbido, sino como un siseo, o distorsionado.",
+    "Si estas quejas se acompañan de un audiograma de pendiente abrupta, consideren hacer una prueba TEN.",
+    "En la prueba, recuerden los pasos de dos decibeles y mantengan el ruido por debajo del nivel de molestia.",
+    "Anoten el resultado en el informe con una estimación de la frecuencia de borde; esto ayuda en la adaptación de audífonos y en el seguimiento."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Zona muerta: pérdida de _células ciliadas internas_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "El tono se oye en _una región vecina_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "TEN: criterio de _10 dB_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La ganancia se decide _individualmente_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "Una zona muerta coclear es una región donde las células ciliadas internas o las fibras nerviosas no funcionan.",
+    "Un tono en una zona muerta se detecta en una región vecina sana por escucha fuera de frecuencia; el audiograma no lo muestra.",
+    {
+     "yazi": "En la prueba TEN(HL), se sospecha una zona muerta si el umbral enmascarado supera en diez decibeles tanto al ruido como al umbral en silencio."
+    },
+    "En las zonas muertas en agudos, ha sido útil dar ganancia hasta aproximadamente uno coma siete veces la frecuencia de borde; la decisión es individual."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "TEN 80, silencio 70, umbral enmascarado 94 dB HL: ¿resultado?",
+   "secenekler": [
+    "Sugiere una zona muerta",
+    "No hay zona muerta",
+    "No concluyente"
+   ],
+   "dogru": 0,
+   "aciklama": "El umbral enmascarado está _14 dB_ sobre el ruido y _24 dB_ sobre el umbral en silencio.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: si el ruido es de 80, el umbral en silencio de 70 y el umbral enmascarado de 94 decibeles HL, ¿cuál es el resultado?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: sugiere una zona muerta.",
+    "El umbral enmascarado está catorce decibeles por encima del ruido y veinticuatro por encima del umbral en silencio, así que se cumplen ambos criterios."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "¿Por qué *enmascarar*? La atenuación interaural",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos al enmascaramiento clínico y conoceremos la atenuación interaural.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

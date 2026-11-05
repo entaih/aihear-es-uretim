@@ -1,0 +1,734 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D168_Objective_Test_Battery_ES",
+ "kapak": {
+  "ust": "LECCIÓN 168",
+  "baslik": "La *batería*<br>objetiva",
+  "alt": "Estimación de umbrales en bebés y niños",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "La batería de pruebas objetivas en bebés y niños | Lección 168 | AIHEAR Academia de Audiología",
+  "aciklama": "Esta lección trata la batería de pruebas objetivas en bebés y niños pequeños: timpanometría de 1000 Hz y reflejo acústico, otoemisiones acústicas, PEATC por frecuencia y potenciales evocados auditivos de estado estable. También explicamos cómo interpretar los hallazgos en conjunto, la planificación de la sesión, el sueño natural y la sedación, y la confirmación conductual.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Joint Committee on Infant Hearing, Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; ASHA, Guidelines for the Audiologic Assessment of Children From Birth to 5 Years of Age (2004); Hall, eHandbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audiologiapediatrica",
+   "PEATC"
+  ],
+  "etiketler": [
+   "batería de pruebas objetivas",
+   "timpanometría 1000 Hz",
+   "otoemisiones acústicas",
+   "PEATC",
+   "potenciales de estado estable",
+   "umbral por frecuencia",
+   "sedación",
+   "neuropatía auditiva",
+   "evaluación auditiva del bebé",
+   "audiología pediátrica",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 168",
+   "baslik": "La *batería* de pruebas objetivas",
+   "alt": "Inmitancia, OEA, PEATC y PEAEE en bebés y niños",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos la batería de pruebas objetivas que se usa con bebés y niños pequeños.",
+    {
+     "yazi": "Veremos el papel de la timpanometría de 1000 Hz, el reflejo acústico, las otoemisiones y los potenciales de tronco cerebral y de estado estable."
+    }
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué objetivas?",
+   "baslik": "¿Por qué pruebas *objetivas*?",
+   "maddeler": [
+    {
+     "metin": "El niño no necesita _responder_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_Estimación de umbrales_ antes de 6 meses",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Cuando la prueba conductual _no es posible_",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Miden la _función_, no la audición",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Bebé pequeño",
+      "metin": "Menor de 6 meses",
+      "cumle": 1
+     },
+     {
+      "ikon": "cocuk",
+      "baslik": "Difícil de evaluar",
+      "metin": "Respuestas inconsistentes",
+      "cumle": 2
+     }
+    ],
+    "ust": "¿PARA QUIÉN?"
+   },
+   "cumleler": [
+    "Las pruebas objetivas son medidas fisiológicas que no requieren que el niño responda con una conducta.",
+    "En bebés con una edad de desarrollo menor de seis meses, estas pruebas permiten estimar umbrales por oído y por frecuencia.",
+    "También en niños mayores se usa la batería objetiva si la prueba conductual no es posible o sus resultados son inconsistentes.",
+    "Estas pruebas son especialmente valiosas, por ejemplo, en niños con retraso del desarrollo o con discapacidad múltiple.",
+    "Sin embargo, las pruebas objetivas no miden la percepción auditiva, sino la función de ciertas partes del sistema auditivo.",
+    "Por eso, cada prueba se ve como una pieza que muestra una parte distinta del sistema, y todas se interpretan en conjunto."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Por qué objetivas?",
+   "baslik": "*Partes* de la batería",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Inmitancia",
+     "metin": "Timpanometría de 1000 Hz, reflejo: oído medio",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "OEA",
+     "metin": "Células ciliadas externas",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "PEATC",
+     "metin": "Nervio y tronco cerebral, umbral",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "PEAEE",
+     "metin": "Por frecuencia, niveles altos",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La batería de pruebas objetivas tiene cuatro partes principales.",
+    "Las medidas de inmitancia, es decir, la timpanometría y el reflejo acústico, muestran el estado del oído medio y la vía refleja.",
+    "Las otoemisiones acústicas, u OEA, reflejan la función de las células ciliadas externas de la cóclea.",
+    "Los potenciales evocados auditivos de tronco cerebral, o PEATC, evalúan el nervio auditivo y la vía del tronco, y estiman umbrales por frecuencia.",
+    "Los potenciales evocados auditivos de estado estable, o PEAEE, también estiman umbrales por frecuencia, con detección automática de la respuesta.",
+    "Ninguna prueba basta por sí sola; aquí también se aplica el principio de verificación cruzada."
+   ]
+  },
+  {
+   "id": "immitans",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Oído medio y cóclea",
+   "baslik": "Timpanometría de *1000 Hz* y reflejo",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 2
+     },
+     {
+      "tip": "B",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Menores de 6 meses: sonda de _1000 Hz_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Un pico a 226 Hz _puede engañar_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sin reflejo: _atención_",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "En bebés menores de seis meses, el oído medio se evalúa con un tono de sonda de mil hertz.",
+    "A esta edad, un timpanograma de doscientos veintiséis hertz puede verse con pico y normal aunque haya líquido en el oído medio.",
+    "A mil hertz, un pico claro sugiere un oído medio probablemente sano, mientras que una curva plana sugiere líquido u otro problema conductivo.",
+    "En los bebés, el reflejo acústico también se registra con más frecuencia con un tono de sonda de mil hertz.",
+    "Un reflejo ausente con un timpanograma normal obliga a prestar atención a una posible pérdida auditiva o a un problema de la vía neural.",
+    "En niños mayores de seis meses se usa la timpanometría habitual de doscientos veintiséis hertz."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Oído medio y cóclea",
+   "baslik": "¿Qué nos dicen las *OEA*?",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "Emisión",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Ruido",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Presentes: _células ciliadas externas_ funcionan",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Ausentes: cóclea _u_ oído medio",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "_No muestran_ la vía neural",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La presencia de otoemisiones acústicas muestra que las células ciliadas externas funcionan en la región de frecuencias evaluada.",
+    "Cuando la pérdida coclear supera unos treinta a cuarenta decibeles HL, las emisiones suelen estar ausentes.",
+    "Pero la ausencia de emisiones no siempre significa pérdida coclear; el líquido en el oído medio y los restos en el conducto también las bloquean.",
+    "Las OEA no evalúan el nervio auditivo ni el tronco cerebral.",
+    "Por eso, en el trastorno del espectro de la neuropatía auditiva, la audición puede estar alterada aunque haya emisiones.",
+    "La prueba es rápida y puede completarse en pocos minutos mientras el bebé está tranquilo o dormido.",
+    "En la batería, las OEA ayudan a distinguir si un resultado de PEATC se relaciona con un problema coclear o neural."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Estimación de umbrales",
+   "baslik": "*PEATC*: vía neural y umbral",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0,
+    "i_v_uzama": 0
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Onda I",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Onda V: se sigue hasta el umbral",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Clic: _vía neural_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tone burst: umbral _por frecuencia_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "PEATC por vía ósea: _tipo de pérdida_",
+     "cumle": 4,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "cumleler": [
+    "Los PEATC registrados con clics de alta intensidad muestran la integridad del nervio auditivo y de la vía del tronco cerebral.",
+    "La presencia y las latencias de las ondas I, III y V nos indican si la vía funciona con normalidad.",
+    "Para estimar umbrales se usan PEATC por frecuencia con tone burst; se busca el nivel más bajo en el que puede seguirse la onda V.",
+    "Los umbrales en nivel de audición normalizado, o nHL, se convierten a nivel de audición estimado con las correcciones de lecciones anteriores.",
+    "Si los umbrales por vía aérea están elevados, los PEATC por vía ósea muestran si la pérdida es conductiva o neurosensorial.",
+    "Muchas guías aceptan los PEATC por frecuencia como la base de la estimación de umbrales en bebés."
+   ]
+  },
+  {
+   "id": "assr",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Estimación de umbrales",
+   "baslik": "*PEAEE*",
+   "maddeler": [
+    {
+     "metin": "Respuesta _rítmica_ a un sonido modulado",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Respuesta detectada _estadísticamente_",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Varias frecuencias _a la vez_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Información a _niveles altos_ en pérdidas severas",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "No se usan _solos_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Fortaleza",
+      "metin": "Información en pérdidas severas",
+      "cumle": 3
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Precaución",
+      "metin": "Precisión en pérdidas leves",
+      "cumle": 4
+     }
+    ],
+    "ust": "PEAEE"
+   },
+   "cumleler": [
+    "Los PEAEE son la respuesta rítmica del cerebro a un sonido continuo cuya amplitud o frecuencia cambia con regularidad, es decir, está modulado.",
+    "La presencia de una respuesta no se decide por juicio visual, sino mediante un cálculo estadístico.",
+    "Algunos equipos pueden evaluar varias frecuencias y ambos oídos al mismo tiempo, lo que puede ahorrar tiempo.",
+    "Como los PEAEE alcanzan niveles altos que los PEATC con tone burst no alcanzan, aportan información en las pérdidas severas y profundas.",
+    "En cambio, las estimaciones pueden ser menos precisas con audición normal o pérdida leve, y pueden engañar en la neuropatía auditiva.",
+    "Por eso, los PEAEE no suelen usarse solos, sino junto con los PEATC, como una parte complementaria de la batería."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Estimación de umbrales",
+   "baslik": "*Integrar* los hallazgos",
+   "sutunlar": [
+    "Timpanometría",
+    "OEA",
+    "PEATC",
+    "Patrón"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal",
+      "Presentes",
+      "Umbral normal",
+      "Audición probablemente normal"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Plana",
+      "Ausentes",
+      "Vía ósea normal",
+      "Conductiva"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Normal",
+      "Ausentes",
+      "Umbral elevado",
+      "Neurosensorial"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Normal",
+      "Presentes",
+      "Ausentes o anormales",
+      "Sospecha de TENA"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Veamos ahora cómo se interpretan los hallazgos en conjunto; estos patrones son una guía.",
+    "Un timpanograma normal, OEA presentes y umbrales de PEATC normales concuerdan con audición normal en las frecuencias evaluadas.",
+    "Un timpanograma plano, OEA ausentes y PEATC con umbrales por vía aérea elevados pero por vía ósea normales sugieren una pérdida conductiva.",
+    "Un timpanograma normal, OEA ausentes y umbrales de PEATC elevados sugieren una pérdida neurosensorial.",
+    "OEA presentes con PEATC ausentes o claramente anormales son importantes para el trastorno del espectro de la neuropatía auditiva, o TENA.",
+    "En este último caso, también se evalúa el microfónico coclear, y el proceso diagnóstico se lleva a cabo con el médico y el equipo."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Aplicar la batería",
+   "baslik": "*Planificar* la sesión",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Preparación",
+     "metin": "Anamnesis y otoscopia",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "OEA",
+     "metin": "Rápidas con el bebé tranquilo",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "PEATC",
+     "metin": "Durante el sueño, prioridad",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Inmitancia",
+     "metin": "A menudo al final",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Informe",
+     "metin": "Hallazgos en conjunto",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La sesión comienza con la anamnesis y la otoscopia; los restos en el conducto auditivo pueden afectar las OEA y los PEATC.",
+    "Las OEA son rápidas y pueden hacerse primero, mientras el bebé está tranquilo.",
+    "Cuando el bebé se duerme, el tiempo más valioso se dedica a los PEATC; primero se obtienen las frecuencias más críticas en cada oído.",
+    "Si el sueño continúa, se completan las frecuencias y, si es necesario, se agregan PEATC por vía ósea o PEAEE.",
+    "Como la timpanometría genera cambios de presión en el oído y puede despertar al bebé, muchos centros la dejan para el final.",
+    "El orden puede variar según el protocolo del centro; lo importante es obtener la información más crítica antes de que el bebé despierte."
+   ]
+  },
+  {
+   "id": "uyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Aplicar la batería",
+   "baslik": "Sueño natural y *sedación*",
+   "maddeler": [
+    {
+     "metin": "_Sueño natural_ en los primeros meses",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Cita ajustada al _sueño_",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Más adelante puede requerirse _sedación_",
+     "cumle": 2,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Sedación: decisión _médica_",
+     "cumle": 3,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Plan listo _con antelación_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Antes de una sesión con sedación, prepara por escrito el orden de las pruebas; el tiempo de sueño es limitado y cada minuto cuenta.",
+    "cumle": 4
+   },
+   "cumleler": [
+    "En los primeros meses de vida, los PEATC y los PEAEE a menudo pueden hacerse en sueño natural, es decir, sin medicación.",
+    "La cita se fija según los horarios habituales de sueño y alimentación del bebé, y se aconseja a la familia traerlo cansado.",
+    "A medida que el bebé crece, por lo general después de los seis meses, puede necesitarse sedación para un registro largo y tranquilo.",
+    "Si la sedación es necesaria y cómo se administra son decisión y responsabilidad del médico.",
+    "La tarea del audiólogo es preparar con antelación un plan de pruebas que aproveche al máximo el tiempo de sedación.",
+    "En algunos niños, las pruebas también pueden hacerse durante una anestesia general programada por otro motivo."
+   ]
+  },
+  {
+   "id": "davranissal",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Aplicar la batería",
+   "baslik": "*Confirmación* conductual",
+   "maddeler": [
+    {
+     "metin": "Un umbral objetivo es una _estimación_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Confirmar con _VRA_ cuando sea posible",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "La adaptación parte de umbrales _estimados_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "TENA: umbrales _conductuales_ imprescindibles",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vra_odasi",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "odul_kutusu",
+      "metin": "Confirmación con VRA",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "cocuk",
+      "cumle": 1
+     },
+     {
+      "parca": "odul_kutusu",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Los umbrales obtenidos con pruebas objetivas son estimaciones, no valores exactos que reemplacen a los umbrales conductuales.",
+    "Cuando el bebé está listo, por lo general después de los seis meses, los umbrales se confirman con audiometría por refuerzo visual, o VRA.",
+    "Si los resultados conductuales y objetivos concuerdan, aumenta la confianza; si no, se investiga la causa.",
+    "Si se considera necesario, la adaptación del audífono puede comenzar sin esperar, a partir de los umbrales estimados por frecuencia.",
+    "Más adelante, la adaptación se actualiza con los hallazgos conductuales.",
+    "En el trastorno del espectro de la neuropatía auditiva, los PEATC no permiten estimar umbrales; los umbrales conductuales se miden lo antes posible.",
+    "Todo el proceso se comparte con la familia, y las citas de seguimiento se planifican en conjunto."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Aplicar la batería",
+   "baslik": "¿*Qué* debe incluir el informe?",
+   "maddeler": [
+    {
+     "metin": "_Estímulo_ y tono de sonda de cada prueba",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "nHL y _eHL_ por separado",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Sueño, sedación y _calidad del registro_",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Frecuencias faltantes y _plan de seguimiento_",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        null,
+        35,
+        40,
+        50,
+        55,
+        null
+       ],
+       "cumle": 3
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        null,
+        30,
+        40,
+        45,
+        55,
+        null
+       ],
+       "cumle": 3
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25,
+      "etiket": "Normal"
+     }
+    }
+   },
+   "cumleler": [
+    "El informe indica claramente el estímulo, el tono de sonda y las frecuencias evaluadas en cada prueba.",
+    "Los umbrales de PEATC y PEAEE se dan tanto en la unidad en que se midieron como en el nivel de audición estimado calculado.",
+    "También se indican el estado de sueño del bebé, si se usó sedación y la calidad del registro.",
+    "Los umbrales estimados pueden mostrarse en un audiograma estimado, como en el ejemplo de la derecha.",
+    "Se anotan las frecuencias que no pudieron completarse y el paso siguiente, como una cita para confirmar con VRA.",
+    "Un informe así permite que otro centro y la familia entiendan correctamente el resultado."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Unas OEA presentes no significan por sí solas audición normal. No dejes sin evaluar la vía neural con PEATC, sobre todo en bebés con antecedente de cuidados intensivos.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: no concluyas que la audición de un bebé es normal solo porque las OEA están presentes.",
+    "Las OEA muestran solo las células ciliadas externas; si la vía neural está alterada, puede haber un problema auditivo grave aunque haya emisiones.",
+    "Agrega siempre los PEATC a la batería, sobre todo en bebés con factores de riesgo como antecedente de cuidados intensivos o prematurez.",
+    "Si los hallazgos no concuerdan, indícalo claramente en el informe y comunícalo al equipo."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Antes de 6 meses: timpanometría de _1000 Hz_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "OEA: células ciliadas externas, _no vía neural_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Umbrales: _PEATC con tone burst_, PEAEE complementan",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Hallazgos interpretados _en conjunto_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "En bebés menores de seis meses, el oído medio se evalúa con un tono de sonda de mil hertz, que además registra el reflejo con más frecuencia.",
+    "Las OEA muestran la función de las células ciliadas externas, pero no evalúan la vía neural.",
+    "Los PEATC con tone burst son la base de la estimación de umbrales por frecuencia; los PEAEE aportan información, sobre todo en pérdidas severas.",
+    "Las pruebas se interpretan en conjunto según el principio de verificación cruzada y se confirman con pruebas conductuales."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "OEA presentes, PEATC ausentes: ¿qué se sospecha?",
+   "secenekler": [
+    "Hipoacusia conductiva",
+    "Trastorno del espectro de la neuropatía auditiva",
+    "Audición normal"
+   ],
+   "dogru": 1,
+   "aciklama": "Las OEA muestran las células ciliadas externas; unos PEATC ausentes indican un problema de la _vía neural_, es decir, TENA.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: un bebé con timpanograma normal tiene OEA, pero no tiene ninguna respuesta en los PEATC. ¿Qué se sospecha?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: el trastorno del espectro de la neuropatía auditiva.",
+    "En este caso se evalúa el microfónico coclear, y el proceso diagnóstico se lleva a cabo con el equipo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Por qué importa la pérdida unilateral o *leve* en niños",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos por qué importan la pérdida auditiva unilateral y la pérdida leve en los niños.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

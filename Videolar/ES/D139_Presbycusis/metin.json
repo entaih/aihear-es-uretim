@@ -1,0 +1,757 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D139_Presbycusis_ES",
+ "kapak": {
+  "ust": "LECCIÓN 139",
+  "baslik": "*Presbiacusia*",
+  "alt": "Pérdida auditiva relacionada con la edad",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      35,
+      55,
+      65
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      20,
+      20,
+      40,
+      55,
+      70
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Presbiacusia: pérdida auditiva relacionada con la edad | Lección 139 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos la pérdida auditiva relacionada con la edad (presbiacusia) a través de los tipos de Schuknecht, el audiograma típico y los signos de advertencia. También vemos cómo la pérdida en frecuencias agudas afecta la comprensión del habla y cómo se relaciona la pérdida auditiva con la comunicación y la salud cognitiva.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Schuknecht y Gacek, Cochlear Pathology in Presbycusis (1993); OMS, World Report on Hearing (2021); Lancet Commission on Dementia Prevention, Intervention, and Care.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "presbiacusia",
+   "perdidaauditiva"
+  ],
+  "etiketler": [
+   "presbiacusia",
+   "pérdida auditiva relacionada con la edad",
+   "pérdida auditiva en adultos mayores",
+   "tipos de Schuknecht",
+   "estría vascular",
+   "audiograma",
+   "pérdida auditiva y demencia",
+   "audición en la vejez",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 139",
+   "baslik": "*Presbiacusia*",
+   "alt": "Pérdida auditiva relacionada con la edad",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos la pérdida auditiva relacionada con la edad, o presbiacusia.",
+    "Veremos los tipos de Schuknecht, el audiograma típico y los efectos de la pérdida auditiva en la comunicación y la salud cognitiva."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definición y prevalencia",
+   "baslik": "¿Qué es la *presbiacusia?*",
+   "maddeler": [
+    {
+     "metin": "Pérdida _neurosensorial_ que llega con la edad",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "_Bilateral_ y simétrica",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Primero las _frecuencias agudas_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Progresión lenta y _gradual_",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "DEFINICIÓN",
+    "metin": "Pérdida auditiva relacionada con la edad: la que llega *con los años*",
+    "cumle": 0
+   },
+   "cumleler": [
+    "La presbiacusia, o pérdida auditiva relacionada con la edad, en inglés ARHL, es una pérdida neurosensorial que acompaña al envejecimiento.",
+    "Por lo general se desarrolla en ambos oídos a la vez y de forma parecida, es decir, simétrica.",
+    "La pérdida comienza en las frecuencias agudas y con el tiempo se extiende hacia las frecuencias más graves.",
+    "No hay una edad fija de inicio, pero los cambios suelen hacerse notorios entre los cincuenta y los sesenta años.",
+    "Como avanza lentamente, la persona a menudo no nota su pérdida durante mucho tiempo; quienes la rodean la notan primero.",
+    "No hay una causa única; junto con el envejecimiento, influyen la susceptibilidad genética, los antecedentes de ruido y la salud general."
+   ]
+  },
+  {
+   "id": "siklik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definición y prevalencia",
+   "baslik": "¿Qué tan *frecuente* es?",
+   "maddeler": [
+    {
+     "metin": "Aumento _marcado_ con la edad",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Mayores de 60: _más de una cuarta parte_",
+     "cumle": 1,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "_Algo_ más temprana en los hombres",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Asociada: ruido, _diabetes_, tabaquismo",
+     "cumle": 4,
+     "ikon": "kalp"
+    }
+   ],
+   "cumleler": [
+    "La pérdida auditiva relacionada con la edad es uno de los problemas sensoriales más frecuentes en los adultos, y su prevalencia aumenta marcadamente con la edad.",
+    "Según la Organización Mundial de la Salud, más de una cuarta parte de las personas mayores de sesenta años tiene una pérdida auditiva discapacitante.",
+    "A medida que la población envejece, se espera que esta cifra aumente aún más en las próximas décadas.",
+    "Tiende a aparecer algo antes y de forma más marcada en los hombres; las diferencias en la exposición al ruido también influyen.",
+    "El ruido, el tabaquismo, la diabetes y las enfermedades cardiovasculares se han asociado con un desarrollo más temprano y rápido de la pérdida."
+   ]
+  },
+  {
+   "id": "koklea",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definición y prevalencia",
+   "baslik": "¿Por qué primero los *agudos*?",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "tepe",
+     "metin": "Ápice: sonidos graves",
+     "cumle": 0
+    },
+    {
+     "parca": "taban",
+     "metin": "Base: sonidos agudos",
+     "cumle": 0
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "Todo sonido pasa por la base",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Primer cambio: de 4000 a 8000 Hz",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Si imaginamos la cóclea desenrollada, el ápice responde a los sonidos graves y la base, a los sonidos agudos.",
+    "Los cambios relacionados con la edad suelen afectar primero a las células ciliadas de la base de la cóclea.",
+    "Una explicación: la onda pasa por la base en todas las frecuencias; además, las células basales tienen más carga metabólica y son propensas al daño oxidativo.",
+    "Por eso, en el audiograma, el primer cambio suele verse en la región de cuatro mil a ocho mil hertz.",
+    "Cuando la pérdida avanza hasta los dos mil hertz y por debajo, también empieza a afectarse la comprensión del habla."
+   ]
+  },
+  {
+   "id": "tipler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tipos de Schuknecht",
+   "baslik": "*Tipos* de Schuknecht",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Sensorial",
+     "metin": "Células ciliadas basales; caída abrupta en agudos",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Neural",
+     "metin": "Ganglio espiral; discriminación desproporcionadamente baja",
+     "cumle": 2
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Metabólica",
+     "metin": "Estría vascular; audiograma plano",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Mecánica",
+     "metin": "Rigidez de la membrana basilar; descenso gradual",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "A partir de estudios de huesos temporales humanos, Harold Schuknecht clasificó la presbiacusia en cuatro tipos principales.",
+    "En el tipo sensorial se pierden células ciliadas de la base de la cóclea, y el audiograma muestra una caída abrupta en las frecuencias agudas.",
+    "En el tipo neural disminuyen las neuronas del ganglio espiral; la discriminación del habla es desproporcionadamente baja para el audiograma.",
+    "En el tipo metabólico, o estrial, se debilita la estría vascular; el audiograma es plano o levemente descendente y la discriminación suele ser buena.",
+    "En el tipo mecánico se piensa que la membrana basilar se vuelve más rígida, y el audiograma desciende suavemente hacia las frecuencias agudas.",
+    "Más tarde, Schuknecht añadió los tipos mixto e indeterminado, porque muchas personas no encajaban en un solo tipo."
+   ]
+  },
+  {
+   "id": "stria",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tipos de Schuknecht",
+   "baslik": "La estría *vascular*",
+   "cizim": "koklea_kesit",
+   "vurgula": [
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "stria_vaskularis",
+     "metin": "Estría vascular",
+     "cumle": 0
+    },
+    {
+     "parca": "scala_media",
+     "metin": "Rampa media: endolinfa",
+     "cumle": 1
+    },
+    {
+     "parca": "corti_organi",
+     "metin": "Órgano de Corti",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Potencial endococlear: cerca de +80 mV",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Menor potencial, menor ganancia",
+     "cumle": 2,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La estría vascular es un tejido rico en vasos sanguíneos situado en la pared lateral del conducto coclear.",
+    "Su función es regular la endolinfa de la rampa media y generar el potencial endococlear, de unos más ochenta milivoltios.",
+    "Este potencial actúa como una batería para las células ciliadas; cuando disminuye, la amplificación coclear se debilita en un amplio rango de frecuencias.",
+    "Los estudios en animales han mostrado que los cambios estriales tienen un papel importante en el envejecimiento.",
+    "Por eso, en el tipo metabólico, la pérdida afecta a muchas frecuencias a la vez y no a una sola región, lo que da un audiograma plano."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 1
+    }
+   ]
+  },
+  {
+   "id": "bakis",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Tipos de Schuknecht",
+   "baslik": "La *visión* actual",
+   "maddeler": [
+    {
+     "metin": "Tipos puros _raros_, cuadros mixtos frecuentes",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Ruido y envejecimiento _entrelazados_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Pérdida temprana de _sinapsis_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_Envejecimiento_ auditivo central",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Hoy se acepta que los tipos puros son raros y que la mayoría de las personas tiene varios mecanismos a la vez.",
+    "A menudo es imposible separar el efecto del envejecimiento del daño por ruido acumulado a lo largo de la vida.",
+    "Los estudios en animales han mostrado que las sinapsis entre las células ciliadas internas y las fibras nerviosas pueden perderse antes que las células ciliadas.",
+    "Los cambios relacionados con la edad en el tronco cerebral y la corteza también afectan sobre todo la comprensión en ruido y el procesamiento temporal.",
+    "Por eso, aunque dos personas tengan audiogramas parecidos, sus dificultades en la vida diaria pueden ser muy distintas."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "corti",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "tuy_hucreleri",
+      "cumle": 1
+     },
+     {
+      "parca": "sinir_lifleri",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "ic_tuy_hucresi",
+      "metin": "célula ciliada interna",
+      "cumle": 2
+     },
+     {
+      "parca": "sinir_lifleri",
+      "metin": "sinapsis y fibras nerviosas",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "El audiograma típico",
+   "baslik": "Un audiograma típico de *presbiacusia*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: vía aérea",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Vía ósea_: oído derecho",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       35,
+       55,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       20,
+       40,
+       55,
+       70
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       15,
+       15,
+       20,
+       35,
+       50
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, los graves del oído derecho están dentro de lo normal; por encima de dos mil hertz los umbrales empeoran progresivamente.",
+    "El oído izquierdo se ve casi igual, así que la pérdida es bilateral y simétrica.",
+    "Los umbrales de vía ósea se superponen con la vía aérea; no hay brecha aéreo-ósea, y la pérdida es neurosensorial.",
+    "Esta pendiente descendente hacia las frecuencias agudas es el cuadro más típico de la pérdida auditiva relacionada con la edad.",
+    "La persona oye los sonidos en silencio, pero puede tener dificultad para entender el habla con claridad, porque se pierden las consonantes agudas."
+   ]
+  },
+  {
+   "id": "uyari",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "El audiograma típico",
+   "baslik": "¿Lo esperado, o un signo de *advertencia*?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Compatible con presbiacusia",
+     "metin": "Simétrica, lenta, sin brecha aéreo-ósea",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Derivar al médico",
+     "metin": "Asimetría, empeoramiento rápido, brecha aéreo-ósea",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "No toda pérdida auditiva en una persona mayor es presbiacusia.",
+    "Una pérdida bilateral, simétrica, de progresión lenta y sin brecha aéreo-ósea es compatible con la pérdida relacionada con la edad.",
+    "En cambio, una asimetría clara entre los oídos puede requerir una evaluación adicional en busca de causas retrococleares.",
+    "Un empeoramiento súbito o rápido, el tinnitus unilateral o el mareo también son hallazgos que requieren derivación al médico.",
+    "Si hay una brecha aéreo-ósea, además de la edad debe considerarse un problema del oído externo o medio.",
+    "Por eso, la presbiacusia es un diagnóstico de exclusión; las otras causas se descartan con la evaluación de un médico."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En adultos mayores, haz primero una otoscopia. El cerumen o el colapso del conducto con auriculares supraaurales pueden simular una pérdida; ante la duda, usa auriculares de inserción.",
+   "cumleler": [
+    "Un consejo clínico: en los adultos mayores, hagan siempre una otoscopia antes de comenzar la prueba.",
+    "El tapón de cerumen es frecuente en este grupo de edad y puede hacer que los umbrales parezcan peores de lo que son.",
+    "Además, un conducto auditivo cuya elasticidad cambió con la edad puede colapsarse bajo la presión de los auriculares supraaurales.",
+    "El colapso del conducto puede crear una falsa brecha aéreo-ósea, sobre todo en las frecuencias agudas; ante la duda, repitan la prueba con auriculares de inserción."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Habla y comunicación",
+   "baslik": "*Comprender* el habla",
+   "maddeler": [
+    {
+     "metin": "Se pierden _consonantes agudas_: s, f, ch, k",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Se oyen las vocales, baja la _claridad_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Dificultad _marcada_ en ruido",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Habla rápida: falla el _procesamiento temporal_",
+     "cumle": 4,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Mayor _esfuerzo auditivo_",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Con una pérdida en frecuencias agudas, consonantes como la s, la ch, la f, la t y la k son las partes del habla que más fácilmente se pierden.",
+     "ses": "Con una pérdida en frecuencias agudas, consonantes como la ese, la che, la efe, la te y la ka son las partes del habla que más fácilmente se pierden."
+    },
+    "Las vocales, cuya energía está sobre todo en las frecuencias graves, se siguen oyendo, así que la persona oye el habla, pero no distingue bien las palabras.",
+    "Por eso la queja \"oigo, pero no entiendo\" es tan típica de la presbiacusia.",
+    "La dificultad aumenta claramente en lugares ruidosos y cuando hablan varias personas.",
+    "También se vuelve más difícil seguir el habla rápida, porque el procesamiento temporal se enlentece con la edad.",
+    "Escuchar con esfuerzo constante, es decir, un mayor esfuerzo auditivo, produce un cansancio marcado al final del día."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "konusma_muzu",
+    "cumle": 0,
+    "ayar": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        15,
+        15,
+        20,
+        35,
+        55,
+        65
+       ]
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 0
+     },
+     {
+      "parca": "unluler",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "degerlendirme",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Habla y comunicación",
+   "baslik": "¿*Qué* incluye la evaluación?",
+   "maddeler": [
+    {
+     "metin": "Audiometría tonal y _logoaudiometría_",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Prueba de habla _en ruido_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "_Quejas_ de la persona y la familia",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Necesidades de escucha y _objetivos_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "La evaluación comienza con la audiometría tonal y la logoaudiometría.",
+    "Si es posible, también se hace una prueba de habla en ruido, porque refleja mejor la dificultad diaria que la prueba en silencio.",
+    "Se registran las quejas de la propia persona y las observaciones de la familia, junto con cuestionarios estandarizados.",
+    "Dónde tiene dificultades la persona y qué quiere lograr son la base del plan de rehabilitación.",
+    "Si se planifica un tamizaje cognitivo, recuerden que la pérdida auditiva puede bajar el rendimiento en las pruebas verbales.",
+    "El audiólogo convierte esta información, junto con la evaluación del médico, en un plan integral."
+   ]
+  },
+  {
+   "id": "bilissel",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Salud cognitiva",
+   "baslik": "Comunicación y salud *cognitiva*",
+   "maddeler": [
+    {
+     "metin": "_Aislamiento_ social y soledad",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Asociación con síntomas _depresivos_",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Factor de riesgo _modificable_ de demencia",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Asociación fuerte, _causalidad_ en estudio",
+     "cumle": 6,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "A medida que la comunicación se dificulta, la persona puede alejarse de los lugares concurridos y de las actividades sociales, lo que aumenta la soledad.",
+    "Muchos estudios han mostrado una asociación entre la pérdida auditiva relacionada con la edad y los síntomas depresivos.",
+    "La Comisión Lancet sobre demencia incluyó la pérdida auditiva en la mediana edad entre los principales factores de riesgo modificables de la demencia.",
+    "Las posibles explicaciones incluyen la adaptación del cerebro a una menor entrada auditiva, la mayor carga de escucha y el aislamiento social.",
+    "En un gran ensayo aleatorizado, la intervención auditiva no frenó significativamente el deterioro cognitivo en el conjunto de los participantes.",
+    "Pero el deterioro pareció frenarse en un subgrupo de mayor riesgo; este hallazgo debe confirmarse con nuevos estudios.",
+    "Por eso, aún no se sabe del todo en qué medida la relación entre la pérdida auditiva y la demencia es de causa y efecto."
+   ]
+  },
+  {
+   "id": "rehabilitasyon",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Salud cognitiva",
+   "baslik": "Rehabilitación *auditiva*",
+   "ogeler": [
+    {
+     "ikon": "tarama",
+     "baslik": "Detección temprana",
+     "metin": "Tamizaje auditivo periódico",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Audífonos",
+     "metin": "Opción principal en personas adecuadas",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Estrategias de comunicación",
+     "metin": "Cara a cara, menos ruido",
+     "cumle": 3
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Participación familiar",
+     "metin": "Mejora la adaptación y el beneficio",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El tamizaje auditivo periódico en los adultos permite detectar a tiempo la pérdida auditiva.",
+    "En las personas adecuadas, los audífonos son una de las principales opciones para apoyar la audición.",
+    "Sin embargo, muchas personas esperan años antes de buscar ayuda, y las tasas de uso de audífonos siguen siendo bajas.",
+    "Estrategias como hablar cara a cara, reducir el ruido de fondo y pedir que se repita facilitan la comunicación.",
+    "La participación de los familiares mejora tanto la adaptación como el beneficio en la vida diaria.",
+    "El abordaje adecuado para cada persona se decide en conjunto tras la evaluación audiológica y médica."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Bilateral, simétrica, _descendente hacia agudos_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Schuknecht: sensorial, neural, _metabólica_, mecánica",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Advertencia: _asimetría_ y empeoramiento rápido",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Asociada a la comunicación y la salud _cognitiva_",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "La presbiacusia suele ser una pérdida neurosensorial bilateral y simétrica, descendente hacia las frecuencias agudas.",
+    "Schuknecht describió cuatro tipos básicos: sensorial, neural, metabólico y mecánico.",
+    "La asimetría, el empeoramiento súbito o rápido y la brecha aéreo-ósea sugieren otras causas.",
+    "La pérdida auditiva puede afectar la comunicación, la vida social y la salud cognitiva."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué tipo de Schuknecht corresponde a la atrofia de la estría vascular?",
+   "secenekler": [
+    "Tipo sensorial",
+    "Tipo neural",
+    "Tipo metabólico",
+    "Tipo mecánico"
+   ],
+   "dogru": 2,
+   "aciklama": "El potencial endococlear disminuye; el audiograma suele ser _plano_ o levemente descendente.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en la clasificación de Schuknecht, ¿qué tipo se debe a la atrofia de la estría vascular?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: el tipo metabólico, o estrial.",
+    "Como el potencial endococlear disminuye, el audiograma suele ser plano o levemente descendente."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Hipoacusia inducida por ruido y la muesca en *4 kHz*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la hipoacusia inducida por ruido y la muesca de cuatro mil hertz en el audiograma.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

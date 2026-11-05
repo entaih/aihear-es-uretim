@@ -1,0 +1,717 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D082_Masking_Critical_Band_ES",
+ "kapak": {
+  "ust": "LECCIÓN 82",
+  "baslik": "Enmascaramiento y<br>*bandas críticas*",
+  "alt": "¿Cómo tapa un sonido a otro?",
+  "cizim": "koklea_acik",
+  "ayar": {
+   "frekans": 500
+  }
+ },
+ "youtube": {
+  "baslik": "El enmascaramiento y la banda crítica | Lección 82 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Por qué el ruido hace inaudible un sonido? En esta lección vemos el enmascaramiento psicoacústico, el experimento de la banda crítica de Fletcher, los filtros auditivos, por qué los sonidos graves enmascaran más a los agudos, lo que se conoce como propagación ascendente del enmascaramiento, el enmascaramiento hacia adelante y hacia atrás, y el enmascaramiento informacional.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Fletcher (1940), Auditory patterns, Reviews of Modern Physics; Glasberg y Moore (1990), Derivation of auditory filter shapes from notched-noise data, Hearing Research; Moore, An Introduction to the Psychology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "psicoacustica",
+   "enmascaramiento"
+  ],
+  "etiketler": [
+   "enmascaramiento",
+   "banda crítica",
+   "filtro auditivo",
+   "ancho de banda rectangular equivalente",
+   "propagación ascendente del enmascaramiento",
+   "enmascaramiento hacia adelante",
+   "enmascaramiento hacia atrás",
+   "enmascaramiento informacional",
+   "ruido con muesca",
+   "psicoacústica",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 82",
+   "baslik": "El enmascaramiento y la *banda crítica*",
+   "alt": "¿Cómo tapa un sonido a otro?",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo un sonido hace inaudible a otro, es decir, el enmascaramiento psicoacústico.",
+    "Paso a paso, veremos la banda crítica, los filtros auditivos, la propagación ascendente del enmascaramiento y el enmascaramiento temporal."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es el enmascaramiento?",
+   "baslik": "*Definición* de enmascaramiento",
+   "maddeler": [
+    {
+     "metin": "Un sonido _eleva el umbral_ de otro",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "El sonido que tapa: _enmascarador_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "El sonido tapado: _señal_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Cantidad: _umbral enmascarado menos umbral en silencio_",
+     "cumle": 2,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EJEMPLO",
+    "metin": "10 dB en silencio, 40 dB en ruido: *30 dB* de enmascaramiento",
+    "cumle": 3
+   },
+   "cumleler": [
+    "El enmascaramiento es la elevación del umbral auditivo de un sonido en presencia de otro sonido.",
+    "El sonido que tapa se llama enmascarador, y el sonido que se vuelve más difícil de oír se llama señal.",
+    "La cantidad de enmascaramiento se obtiene restando el umbral de la señal en silencio de su umbral medido en presencia del enmascarador.",
+    "Por ejemplo, si un tono se oye a diez decibeles en silencio y a cuarenta decibeles en ruido, la cantidad de enmascaramiento es de treinta decibeles.",
+    "En la vida diaria, esta es la principal razón por la que nos cuesta seguir el habla en un café ruidoso.",
+    "En el enmascaramiento clínico usamos a propósito el mismo principio, manteniendo ocupado con ruido el oído contrario."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es el enmascaramiento?",
+   "baslik": "Tipos de enmascaramiento en el *tiempo*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Simultáneo",
+     "metin": "Señal y ruido a la vez",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Hacia adelante",
+     "metin": "Primero ruido, luego señal",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Hacia atrás",
+     "metin": "Primero señal, luego ruido",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Dividimos el enmascaramiento en tres tipos según la relación temporal entre el enmascarador y la señal.",
+    "En el enmascaramiento simultáneo, la señal y el enmascarador están presentes a la vez; es el tipo más fuerte y más estudiado.",
+    "En el enmascaramiento hacia adelante, una señal que llega poco después de que termina el enmascarador se oye con más dificultad.",
+    "En el enmascaramiento hacia atrás, la señal llega poco antes del enmascarador y aun así se ve afectada.",
+    "El enmascaramiento hacia adelante y hacia atrás, en conjunto, se llama enmascaramiento temporal.",
+    "Empecemos por el enmascaramiento simultáneo, porque allí nació el concepto de banda crítica."
+   ]
+  },
+  {
+   "id": "fletcher",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "La banda crítica",
+   "baslik": "El experimento de *ensanchamiento de banda* de Fletcher",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tono fijo",
+     "metin": "Por ejemplo, 1000 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido estrecho",
+     "metin": "Alrededor del tono",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Se ensancha la banda",
+     "metin": "Sube el umbral",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Banda crítica",
+     "metin": "Luego el umbral se estabiliza",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El concepto de banda crítica se basa en experimentos que Harvey Fletcher publicó en 1940."
+    },
+    "En el experimento se mide en ruido el umbral de un tono de frecuencia fija, por ejemplo de mil hertz.",
+    "Al principio, el ruido se presenta como una banda estrecha alrededor del tono; el nivel de ruido por hertz se mantiene constante.",
+    "A medida que la banda se ensancha, la energía total del ruido aumenta y el umbral del tono también sube.",
+    "Pero cuando la banda supera cierto ancho, el umbral deja de subir, aunque el ruido siga aumentando.",
+    "Este ancho límite se llama banda crítica; solo el ruido que cae dentro de esta banda enmascara el tono."
+   ]
+  },
+  {
+   "id": "filtre",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "La banda crítica",
+   "baslik": "La cóclea es un *banco de filtros*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 0
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "Base: agudos",
+     "cumle": 0
+    },
+    {
+     "parca": "tepe",
+     "metin": "Ápice: graves",
+     "cumle": 0
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "Región de 1000 Hz",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Cada región es un _filtro pasa banda_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Banda crítica: el _ancho_ del filtro",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Este hallazgo se apoya en la cóclea: la base de la membrana basilar responde a las frecuencias agudas y el ápice a las graves.",
+    "Un tono de mil hertz estimula con más fuerza su propia región, donde la onda viajera alcanza su pico.",
+    "Cada región se comporta como un filtro que deja pasar solo cierto rango de frecuencias; esto se llama filtro auditivo.",
+    "La banda crítica es el ancho efectivo de este filtro auditivo.",
+    "Al oír un tono, el oído escucha la salida del filtro centrado en ese tono; el ruido fuera del filtro aporta poco a esa salida.",
+    "Por eso, el ruido que enmascara un tono con más eficiencia es una banda estrecha alrededor de ese tono."
+   ]
+  },
+  {
+   "id": "genislik",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "La banda crítica",
+   "baslik": "¿*Qué tan* ancho es el filtro auditivo?",
+   "sutunlar": [
+    "Frecuencia central",
+    "ERB (aprox.)",
+    "Respecto del centro"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "250 Hz",
+      "52 Hz",
+      "21 %"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "79 Hz",
+      "16 %"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "133 Hz",
+      "13 %"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "241 Hz",
+      "12 %"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "456 Hz",
+      "11 %"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El ancho del filtro aumenta con la frecuencia; hoy se expresa sobre todo como ancho de banda rectangular equivalente (ERB)."
+    },
+    {
+     "yazi": "La tabla muestra valores aproximados para adultos jóvenes con audición normal, según la fórmula de Glasberg y Moore de 1990."
+    },
+    "Aunque el filtro parece estrecho en las frecuencias graves, es más ancho en relación con la frecuencia central.",
+    {
+     "yazi": "En mil hertz, el ERB es de unos ciento treinta y tres hertz, alrededor del trece por ciento de la frecuencia central."
+    },
+    "En las frecuencias agudas, el ancho llega a cientos de hertz, pero la proporción se mantiene en torno al once o doce por ciento.",
+    {
+     "yazi": "La escala clásica de bandas críticas de Zwicker da valores algo más anchos y divide el rango auditivo en unas veinticuatro bandas."
+    }
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "La banda crítica",
+   "baslik": "¿*Cómo* se mide el filtro?",
+   "maddeler": [
+    {
+     "metin": "Ruido con muesca: _sin ruido alrededor del tono_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Muesca más ancha: _umbral más bajo_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "En niveles moderados, _casi simétrico_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Curva de sintonía: selectividad _en V_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "MÉTODOS",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "gurultu",
+      "baslik": "Ruido con muesca",
+      "metin": "Forma del filtro",
+      "cumle": 0
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Curva de sintonía",
+      "metin": "Selectividad frecuencial",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Hoy la forma del filtro auditivo suele medirse con el método del ruido con muesca; la zona alrededor del tono se deja sin ruido.",
+    "A medida que la muesca se ensancha, cae menos ruido dentro del filtro y el umbral del tono baja.",
+    "A partir de cómo cambia el umbral con el ancho de la muesca se calculan el ancho y la forma del filtro.",
+    "En niveles moderados el filtro es casi simétrico; en niveles altos, su lado de frecuencias graves se ensancha.",
+    "Otro método es la curva de sintonía psicofísica, que grafica el nivel de enmascarador necesario en cada frecuencia para enmascarar un tono fijo y suave.",
+    "En un oído normal esta curva es aguda y tiene forma de ve, y muestra la selectividad frecuencial del oído."
+   ]
+  },
+  {
+   "id": "klinik_bant",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "La banda crítica",
+   "baslik": "La banda crítica *en la clínica*",
+   "maddeler": [
+    {
+     "metin": "Enmascarar tonos puros: _ruido de banda estrecha_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "La energía fuera de la banda _solo molesta_",
+     "cumle": 1,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Filtros más anchos: enmascaramiento _más fácil_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "cumle": 0,
+    "ayar": {
+     "ia_db": 40
+    },
+    "vurgula": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "metin": "Ruido de banda estrecha",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Por eso, en la audiometría tonal, enmascaramos el oído contrario con ruido de banda estrecha centrado en la frecuencia de prueba.",
+    "La energía que cae fuera de la banda crítica no suma enmascaramiento; solo hace que el sonido sea más fuerte y más molesto.",
+    "El ruido de banda estrecha produce el mismo efecto enmascarante con una sonoridad total menor.",
+    "El ruido de banda estrecha de los audiómetros se mantiene algo más ancho que la banda crítica para cubrir las diferencias entre personas.",
+    "En el daño coclear, los filtros auditivos se ensanchan, así que el mismo ruido enmascara la señal con más facilidad en el oído dañado.",
+    "Volveremos a esto en la lección sobre cómo el daño coclear cambia la percepción."
+   ]
+  },
+  {
+   "id": "yayilim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Propagación del enmascaramiento",
+   "baslik": "Los graves enmascaran a los *agudos*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 500
+   },
+   "yakinlastir": [
+    {
+     "parca": "taban",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    },
+    {
+     "parca": "taban",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "Onda de 500 Hz",
+     "cumle": 1
+    },
+    {
+     "parca": "taban",
+     "metin": "Atraviesa la región aguda",
+     "cumle": 2
+    },
+    {
+     "parca": "tepe",
+     "metin": "Regiones más graves: poco efecto",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El enmascaramiento no es simétrico: un sonido grave enmascara a uno agudo con mucha más fuerza que a la inversa.",
+    "La razón es la estructura de la onda viajera; la onda siempre avanza desde la base de la cóclea hacia el ápice.",
+    "Un sonido de quinientos hertz atraviesa las regiones de frecuencias agudas de la base antes de llegar a su propia región, y también las hace vibrar.",
+    "Después de su pico, la onda se extingue rápidamente, así que casi no se extiende a las regiones de frecuencias más graves.",
+    "En consecuencia, el efecto de un enmascarador grave se extiende hacia las frecuencias agudas; esto se llama propagación ascendente del enmascaramiento.",
+    {
+     "yazi": "Esta asimetría se demostró por primera vez en 1924, en los experimentos con dos tonos de Wegel y Lane."
+    }
+   ]
+  },
+  {
+   "id": "pes_tiz",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 3",
+   "bolum": "Propagación del enmascaramiento",
+   "baslik": "Enmascarador grave, enmascarador *agudo*",
+   "sol": {
+    "ust": "Enmascarador grave",
+    "maddeler": [
+     {
+      "metin": "El efecto se extiende _hacia los agudos_",
+      "cumle": 0
+     },
+     {
+      "metin": "La propagación _crece_ con el nivel",
+      "cumle": 1
+     },
+     {
+      "metin": "Ejemplos: motores, aire acondicionado, multitudes",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Enmascarador agudo",
+    "maddeler": [
+     {
+      "metin": "El efecto queda en una zona _estrecha_",
+      "cumle": 3
+     },
+     {
+      "metin": "_Apenas afecta_ a los sonidos graves",
+      "cumle": 4
+     },
+     {
+      "metin": "Ejemplos: silbidos, siseos",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "El efecto de un enmascarador grave se extiende por una zona amplia por encima de su propia frecuencia.",
+    "A medida que sube el nivel del enmascarador, esta propagación crece de forma desproporcionada, porque el lado grave del filtro se ensancha en niveles altos.",
+    "Por eso, los sonidos ricos en graves, como el ruido de motores, el zumbido del aire acondicionado o el de una multitud, son enmascaradores muy eficaces.",
+    "El efecto de un enmascarador agudo, en cambio, queda en una zona estrecha alrededor de su propia frecuencia.",
+    "Un enmascarador agudo cambia muy poco el umbral de los sonidos más graves.",
+    "Los sonidos agudos como los silbidos o los siseos pueden ser molestos, pero casi no tapan las partes graves del habla."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Propagación del enmascaramiento",
+   "baslik": "Propagación ascendente y *habla*",
+   "maddeler": [
+    {
+     "metin": "Las vocales fuertes enmascaran _consonantes débiles_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "El ruido grave borra las _consonantes agudas_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Demasiada ganancia grave en audífonos _perjudica_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "konusma_muzu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "unluler",
+      "cumle": 0
+     },
+     {
+      "parca": "unsuzler",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "En el habla, las vocales fuertes y graves pueden enmascarar en parte las consonantes débiles y agudas que les siguen inmediatamente.",
+    "En un lugar ruidoso, el ruido grave tapa las consonantes agudas, que son las que aportan la inteligibilidad del habla.",
+    "Esto explica por qué el habla en ruido se deteriora primero en las consonantes.",
+    "En los audífonos, demasiada ganancia en las frecuencias graves en lugares ruidosos puede tapar la información aguda por el mismo mecanismo.",
+    "Por eso, muchos audífonos ofrecen programas y ajustes que reducen la ganancia en las frecuencias graves cuando hay ruido.",
+    "En el daño coclear los filtros se ensanchan, así que la propagación ascendente se vuelve aún más marcada."
+   ]
+  },
+  {
+   "id": "zamansal",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Enmascaramiento temporal e informacional",
+   "baslik": "El *enmascaramiento* en el eje del tiempo",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Hacia atrás",
+     "metin": "Unas decenas de ms antes",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Enmascarador",
+     "metin": "Efecto simultáneo más fuerte",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Hacia adelante",
+     "metin": "Unos 100 a 200 ms",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Pensemos el enmascaramiento temporal en una línea de tiempo; el efecto más fuerte se ve mientras el enmascarador está presente.",
+    "El efecto del enmascarador no desaparece cuando termina; el enmascaramiento hacia adelante se desvanece en unos cien a doscientos milisegundos.",
+    "Cuanto más cerca está la señal del final del enmascarador, y cuanto más fuerte es este, mayor es el enmascaramiento hacia adelante.",
+    "El enmascaramiento hacia atrás ocurre en un intervalo mucho más corto, de apenas unas decenas de milisegundos, y su cantidad es menor.",
+    "El enmascaramiento hacia atrás disminuye claramente con la práctica, por lo que se relaciona más con el procesamiento central.",
+    "El enmascaramiento hacia adelante, en cambio, refleja en parte el tiempo de recuperación de la cóclea y del nervio auditivo tras un estímulo."
+   ]
+  },
+  {
+   "id": "bilgisel",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Enmascaramiento temporal e informacional",
+   "baslik": "¿Energético o *informacional*?",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Energético",
+     "metin": "La energía se superpone en un filtro",
+     "cumle": 0
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Informacional",
+     "metin": "Sonidos parecidos se mezclan",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Proceso central",
+     "metin": "Atención y segregación",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Más vulnerables",
+     "metin": "Niños y adultos mayores",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El enmascaramiento que describimos hasta ahora se debe a energía que se superpone en los mismos filtros auditivos; se llama enmascaramiento energético.",
+    "Pero a veces una señal no puede entenderse aunque esté claramente representada en la cóclea.",
+    "Por ejemplo, cuando dos personas hablan a la vez, las palabras del segundo hablante se mezclan con el habla objetivo; es el enmascaramiento informacional.",
+    "El enmascaramiento informacional se relaciona con procesos centrales como la atención, la segregación y la incertidumbre.",
+    "Disminuye cuando el objetivo y el enmascarador llegan desde direcciones distintas, o cuando sus voces son claramente diferentes.",
+    "Los niños y los adultos mayores suelen verse más afectados por el enmascaramiento informacional."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si los umbrales graves salen inesperadamente altos, piensen en el ruido ambiental. El ruido de la cabina es sobre todo grave y enmascara más las frecuencias graves.",
+   "cumleler": [
+    "Un consejo clínico: si en un audiograma solo los umbrales graves salen inesperadamente peores, piensen en el ruido ambiental.",
+    "Los ruidos ambientales, como la ventilación, los ventiladores de los equipos y el tránsito, suelen ser ricos en frecuencias graves.",
+    "Este ruido enmascara simultáneamente el tono de prueba y eleva los umbrales, sobre todo en doscientos cincuenta y quinientos hertz.",
+    "Asegúrense de que la puerta de la cabina esté cerrada; ante la duda, los auriculares de inserción atenúan mejor el ruido exterior.",
+    "El ruido de la sala de pruebas debe medirse con regularidad para asegurarse de que no supere los niveles máximos permitidos por las normas."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Enmascaramiento: un sonido _eleva el umbral_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Solo el ruido de la _banda crítica_ enmascara",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Los graves enmascaran agudos: _propagación ascendente_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Hacia adelante dura _100 a 200 ms_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "El enmascaramiento es la elevación del umbral de un sonido en presencia de otro; su cantidad se mide en decibeles.",
+    "Solo el ruido dentro del filtro auditivo, la banda crítica, enmascara un tono; por eso en la clínica se usa ruido de banda estrecha.",
+    "Por la estructura de la onda viajera, los sonidos graves enmascaran más a los agudos; esto se llama propagación ascendente del enmascaramiento.",
+    "El enmascaramiento hacia adelante dura unos cien a doscientos milisegundos; el enmascaramiento hacia atrás es mucho más corto y débil."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿En qué caso es mayor el enmascaramiento?",
+   "secenekler": [
+    "Ruido de 4000 Hz, tono de 500 Hz",
+    "Ruido de 500 Hz, tono de 4000 Hz",
+    "Igual en ambos sentidos"
+   ],
+   "dogru": 1,
+   "aciklama": "La onda viajera avanza de la base al ápice; un enmascarador grave _también hace vibrar la región aguda_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: al mismo nivel, ¿en qué caso es mayor el enmascaramiento?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: un ruido de quinientos hertz enmascara más a un tono de cuatro mil hertz.",
+    "La onda viajera de un sonido grave atraviesa las regiones agudas antes de llegar a la suya; esta es la propagación ascendente del enmascaramiento."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Procesamiento temporal: *gaps* e integración",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo procesa el oído el tiempo: la detección de silencios y la integración temporal.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

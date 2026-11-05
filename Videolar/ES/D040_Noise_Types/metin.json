@@ -1,0 +1,667 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D040_Noise_Types_ES",
+ "kapak": {
+  "ust": "LECCIÓN 40",
+  "baslik": "Blanco, rosa,<br>*banda estrecha*",
+  "alt": "Tipos de ruido en audiología",
+  "cizim": "maskeleme",
+  "ayar": {
+   "ia_db": 40,
+   "test_kulak": "sag"
+  }
+ },
+ "youtube": {
+  "baslik": "Tipos de ruido: blanco, rosa y de banda estrecha | Lección 40 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué diferencia hay entre el ruido blanco y el ruido rosa, y por qué usamos ruido de banda estrecha para enmascarar? En esta lección vemos el espectro del ruido, la energía igual por hertz y por octava, la banda crítica, el ruido de banda estrecha y el ruido de habla.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: ANSI S3.6, Specification for Audiometers; IEC 60645-1, Electroacoustics: Audiometric equipment; Fletcher H, Auditory patterns (Reviews of Modern Physics, 1940); Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "acustica",
+   "enmascaramiento"
+  ],
+  "etiketler": [
+   "ruido blanco",
+   "ruido rosa",
+   "ruido de banda estrecha",
+   "NBN",
+   "ruido de habla",
+   "banda crítica",
+   "enmascaramiento efectivo",
+   "enmascaramiento clínico",
+   "espectro del ruido",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 40",
+   "baslik": "Tipos de *ruido*",
+   "alt": "Blanco, rosa, de banda estrecha y de habla",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos los tipos de ruido que se usan en audiología: blanco, rosa, de banda estrecha y de habla.",
+    "Veremos cómo se reparte la energía de cada uno entre las frecuencias y por qué elegimos ruidos distintos para enmascarar."
+   ]
+  },
+  {
+   "id": "ton_gurultu",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es el ruido?",
+   "baslik": "Tono puro y *ruido*",
+   "cizim": "dalga_bicimi",
+   "ayar": {
+    "seriler": [
+     "ton",
+     "gurultu"
+    ],
+    "cumleler": [
+     0,
+     1
+    ],
+    "frekans_hz": 500
+   },
+   "vurgula": [
+    {
+     "parca": "ton",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tono puro: una _sola_ frecuencia",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ruido: _aleatorio_ e irregular",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Espectro: energía según la _frecuencia_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ton",
+     "metin": "Tono puro: onda sinusoidal",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Ruido: onda aleatoria",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Un tono puro es una onda sinusoidal que se repite con regularidad en una sola frecuencia.",
+    "El ruido, en cambio, es un sonido con una forma de onda aleatoria e irregular que nunca se repite.",
+    "La energía de un ruido no se concentra en una frecuencia; se reparte en un amplio rango de frecuencias.",
+    {
+     "yazi": "El gráfico que muestra cómo se reparte esta energía entre las frecuencias se llama espectro."
+    },
+    "Los ruidos se nombran según la forma de este espectro, y de ahí vienen los nombres de colores."
+   ]
+  },
+  {
+   "id": "oktav",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es el ruido?",
+   "baslik": "Cada octava es el *doble* de ancha",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "250-500 Hz",
+     "metin": "Ancho 250 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "500-1000 Hz",
+     "metin": "Ancho 500 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "1000-2000 Hz",
+     "metin": "Ancho 1000 Hz",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "2000-4000 Hz",
+     "metin": "Ancho 2000 Hz",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "4000-8000 Hz",
+     "metin": "Ancho 4000 Hz",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Para entender los tipos de ruido, recordemos primero la octava: una octava es una duplicación de la frecuencia.",
+    "La octava de doscientos cincuenta a quinientos hertz tiene solo doscientos cincuenta hertz de ancho.",
+    "La octava de mil a dos mil hertz, en cambio, tiene mil hertz de ancho.",
+    "La octava de cuatro mil a ocho mil hertz tiene cuatro mil hertz de ancho.",
+    "Así, cada octava es el doble de ancha que la anterior; este simple hecho es la clave de la diferencia entre el ruido blanco y el rosa."
+   ]
+  },
+  {
+   "id": "beyaz",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ruido blanco y rosa",
+   "baslik": "Ruido *blanco*",
+   "maddeler": [
+    {
+     "metin": "Energía _igual_ en cada hertz",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "La energía por octava _se duplica_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sube _3 dB_ por octava",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Agudo, como un _siseo_",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "gurultu_spektrumu",
+    "cumle": 0,
+    "ayar": {
+     "tur": "beyaz",
+     "hz_cumle": 0,
+     "oktav_cumle": 2
+    },
+    "vurgula": [
+     {
+      "parca": "hz_cizgisi",
+      "cumle": 0
+     },
+     {
+      "parca": "oktav_bantlari",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "El ruido blanco tiene igual energía en cada franja de un hertz; su espectro es una línea plana.",
+    "Su nombre viene de la luz blanca, que contiene todos los colores por igual.",
+    "Pero como cada octava es el doble de ancha que la anterior, la energía total de cada octava también se duplica.",
+    "Duplicar la energía equivale a un aumento de tres decibeles, así que el ruido blanco sube tres decibeles por octava.",
+    "Por eso suena agudo, como un siseo intenso.",
+    "El ruido blanco es un ruido de banda ancha, y es la base del ruido de banda ancha de los audiómetros."
+   ]
+  },
+  {
+   "id": "pembe",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ruido blanco y rosa",
+   "baslik": "Ruido *rosa*",
+   "maddeler": [
+    {
+     "metin": "Energía igual en cada _octava_",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "La energía por hertz _disminuye_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Suena más _equilibrado_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Mediciones_ de salas y sistemas de sonido",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "gurultu_spektrumu",
+    "cumle": 0,
+    "ayar": {
+     "tur": "pembe",
+     "hz_cumle": 1,
+     "oktav_cumle": 0
+    },
+    "vurgula": [
+     {
+      "parca": "oktav_bantlari",
+      "cumle": 0
+     },
+     {
+      "parca": "hz_cizgisi",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "El ruido rosa tiene igual energía en cada octava."
+    },
+    "Para lograrlo, la energía por hertz se reduce a la mitad, es decir, baja tres decibeles, cada vez que la frecuencia se duplica.",
+    "Como nuestro oído percibe las frecuencias más o menos por octavas, el ruido rosa suena más equilibrado y menos agudo.",
+    "Por eso se usa a menudo en mediciones de acústica de salas, de altavoces y de sistemas de sonido.",
+    "Un ruido aún más grave, cuya energía por hertz baja seis decibeles por octava, se llama ruido marrón."
+   ]
+  },
+  {
+   "id": "beyaz_pembe",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ruido blanco y rosa",
+   "baslik": "Blanco y *rosa*, lado a lado",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Ruido blanco",
+     "metin": "Igual por hertz, +3 dB por octava",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Agudo",
+     "metin": "La energía se oye cargada a los agudos",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ruido rosa",
+     "metin": "Igual por octava, baja por hertz",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Equilibrado",
+     "metin": "Energía similar en cada región",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Pongamos los dos lado a lado: en el ruido blanco la energía por hertz es constante, y en bandas de octava sube tres decibeles por octava.",
+    "Por eso la energía del ruido blanco se oye como si estuviera concentrada en las frecuencias agudas.",
+    "En el ruido rosa, la energía por octava es constante, y la energía por hertz baja tres decibeles por octava.",
+    "Como resultado, el ruido rosa entrega una cantidad de energía similar a nuestro sistema auditivo en cada región de frecuencias."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ruido blanco y rosa",
+   "baslik": "El *ruido* en la vida diaria",
+   "maddeler": [
+    {
+     "metin": "_Aplicaciones_ para dormir y concentrarse",
+     "cumle": 0,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Cuarto del bebé: cuidar _nivel_ y distancia",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "_Generadores de sonido_ para el tinnitus",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Sistemas de _enmascaramiento sonoro_ en oficinas",
+     "cumle": 4,
+     "ikon": "is_yeri"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "vurgula": [
+     {
+      "parca": "fisilti",
+      "cumle": 2
+     },
+     {
+      "parca": "trafik",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "El ruido blanco y el rosa también se usan en dispositivos y aplicaciones pensados para ayudar a dormir o a concentrarse.",
+    "Algunas máquinas de ruido blanco usadas en el cuarto del bebé pueden alcanzar niveles altos si funcionan al máximo y muy cerca.",
+    "Por eso, usarlas a un nivel bajo y lejos del bebé es una recomendación general de seguridad.",
+    "Algunos generadores de sonido usados para el tinnitus también producen ruido de banda ancha.",
+    "En oficinas abiertas, los sistemas de enmascaramiento sonoro emiten ruido filtrado especialmente para reducir la inteligibilidad del habla cercana."
+   ]
+  },
+  {
+   "id": "kritik_bant",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Ruido de banda estrecha y enmascaramiento",
+   "baslik": "¿Por qué *banda estrecha*?",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Las frecuencias _cercanas_ enmascaran un tono",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "La banda crítica",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Energía fuera de banda: solo _molestia_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "región del tono: banda crítica",
+     "cumle": 2
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Al enmascarar el oído no evaluado en la audiometría tonal, debemos pensar qué ruido cubre un tono con mayor eficiencia.",
+    "Lo que enmascara un tono es solo la parte del ruido que cae en una región estrecha de frecuencias alrededor de ese tono.",
+    {
+     "yazi": "Esta región se llama banda crítica; el concepto se remonta al estudio de Fletcher de 1940."
+    },
+    "El ruido fuera de la banda crítica no aporta nada al enmascaramiento; solo hace el sonido más fuerte y más molesto.",
+    "Por eso, para enmascarar tonos puros se usa ruido de banda estrecha centrado en la frecuencia de prueba."
+   ]
+  },
+  {
+   "id": "nbn",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Ruido de banda estrecha y enmascaramiento",
+   "baslik": "Ruido de *banda estrecha*",
+   "maddeler": [
+    {
+     "metin": "Frecuencia de prueba en el _centro_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ancho: entre _un tercio y media_ octava",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Mismo efecto_ a menor nivel",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Nivel: _dB EM_",
+     "cumle": 3,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "También sirve como _estímulo_ en campo libre",
+     "cumle": 4,
+     "ikon": "hoparlor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "maskeleme",
+    "ayar": {
+     "ia_db": 40,
+     "test_kulak": "sag"
+    },
+    "vurgula": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "El ruido de banda estrecha (NBN) se obtiene filtrando ruido blanco alrededor de la frecuencia de prueba.",
+    "Su ancho de banda suele estar entre un tercio y media octava; los límites se definen en las normas de audiómetros.",
+    "Produce el mismo efecto enmascarante a un nivel global menor, por lo que es más cómodo para el paciente.",
+    {
+     "yazi": "En los audiómetros, el nivel del ruido de banda estrecha se fija en decibeles de enmascaramiento efectivo (dB EM)."
+    },
+    "En campo libre hay dos estímulos válidos, los tonos modulados en frecuencia y el ruido de banda estrecha; ambos reducen las ondas estacionarias."
+   ]
+  },
+  {
+   "id": "konusma_gurultusu",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ruido de habla",
+   "baslik": "Ruido de *habla*",
+   "cizim": "konusma_muzu",
+   "vurgula": [
+    {
+     "parca": "muz",
+     "cumle": 0
+    },
+    {
+     "parca": "unluler",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "El espectro _promedio_ del habla",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Plano hasta 1000 Hz, luego _desciende_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Enmascaramiento_ en pruebas de habla",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "unluler",
+     "metin": "graves y medios: más energía",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "El ruido de habla es un ruido filtrado para que su espectro se parezca al espectro promedio del habla a largo plazo.",
+    "En el habla, la energía se concentra en graves y medios; este ruido también es plano hasta unos mil hertz y luego desciende.",
+    "Se usa para enmascarar el oído no evaluado en logoaudiometría, por ejemplo en el umbral de recepción de la palabra y el reconocimiento de palabras.",
+    "El ruido que enmascara el habla con mayor eficiencia es el que tiene energía en la misma región de frecuencias que el habla.",
+    "Algunas clínicas también usan ruido de banda ancha en las pruebas de habla; ambos enfoques son válidos, y lo importante es ajustar bien el nivel."
+   ]
+  },
+  {
+   "id": "bir_arada",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ruido de habla",
+   "baslik": "Los ruidos, *juntos*",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Blanco",
+     "metin": "Igual por hertz; banda ancha",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Rosa",
+     "metin": "Igual por octava; mediciones acústicas",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Banda estrecha (NBN)",
+     "metin": "Enmascaramiento de tonos puros",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Ruido de habla",
+     "metin": "Enmascaramiento en pruebas de habla",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Ruido de multitud",
+     "metin": "Pruebas de habla en ruido",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El ruido blanco tiene igual energía por hertz y puede usarse para enmascaramiento de banda ancha.",
+    "El ruido rosa tiene igual energía por octava y se usa sobre todo en mediciones acústicas.",
+    "El ruido de banda estrecha se concentra alrededor de la frecuencia de prueba y es el ruido estándar para enmascarar tonos puros.",
+    "El ruido de habla imita el espectro del habla y se usa para enmascarar en las pruebas de habla.",
+    {
+     "yazi": "El ruido de multitud, formado por varias personas hablando a la vez, imita la vida real en las pruebas de habla en ruido."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ruido de habla",
+   "baslik": "Consejo clínico",
+   "metin": "Antes de enmascarar, pidan al paciente que ignore el siseo y responda solo a los tonos. En el audiómetro, verifiquen banda estrecha para tonos y ruido de habla para habla.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo de la clínica: antes de empezar a enmascarar, avisen al paciente que escuchará un sonido de siseo en un oído.",
+    "Pídanle que ignore ese sonido y responda solo a los pitidos, es decir, a los tonos.",
+    "Sin esta instrucción, el paciente puede responder también al ruido, y los umbrales pueden confundirse.",
+    "Antes de evaluar, comprueben que el audiómetro tenga el ruido correcto: banda estrecha para tonos, ruido de habla para el habla."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Blanco: energía igual _por hertz_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Rosa: energía igual _por octava_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Enmascarar tonos: _banda estrecha_",
+     "cumle": 2,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Pruebas de habla: _ruido de habla_",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "El ruido blanco tiene igual energía por hertz y sube tres decibeles por octava.",
+    "El ruido rosa tiene igual energía por octava y suena más equilibrado.",
+    "Como solo el ruido dentro de la banda crítica enmascara un tono, para enmascarar tonos puros se usa ruido de banda estrecha.",
+    "En las pruebas de habla se usa ruido de habla, que se parece al espectro del habla."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Cuál es el ruido estándar para enmascarar el oído no evaluado en la audiometría tonal?",
+   "secenekler": [
+    "Ruido blanco",
+    "Ruido rosa",
+    "Ruido de banda estrecha",
+    "Ruido de multitud"
+   ],
+   "dogru": 2,
+   "aciklama": "Solo el ruido dentro de la _banda crítica_ enmascara un tono; la banda estrecha logra el mismo efecto a menor nivel.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál es el ruido estándar para enmascarar el oído no evaluado en la audiometría tonal?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la C: ruido de banda estrecha."
+    },
+    "Solo el ruido dentro de la banda crítica enmascara un tono; el ruido de banda estrecha logra el mismo efecto a un nivel global menor."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Resonancia, *filtros* y bandas de octava",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la resonancia, los filtros y las bandas de octava, la acústica que hay detrás del ruido de banda estrecha.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

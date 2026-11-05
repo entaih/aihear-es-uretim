@@ -1,0 +1,1089 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D123_DPOAE_ES",
+ "kapak": {
+  "ust": "LECCIÓN 123",
+  "baslik": "Las *OEAPD*<br>y el DP-grama",
+  "alt": "Dos tonos, 2f1-f2 y el piso de ruido",
+  "cizim": "oae",
+  "ayar": {
+   "tur": "DPOAE"
+  }
+ },
+ "youtube": {
+  "baslik": "Otoemisiones acústicas producto de distorsión (OEAPD) | Lección 123 | AIHEAR Academia de Audiología",
+  "aciklama": "En la medición de OEAPD se presentan dos tonos primarios y se registra el producto 2f1-f2 que genera la cóclea. En esta lección vemos el protocolo con f2/f1 = 1,22 y L1/L2 = 65/55 dB SPL, dónde se genera el producto en la cóclea, cómo leer el DP-grama junto con el piso de ruido y cómo se comparan las OEAPD con las OEAT.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Gorga MP et al. (1997), From laboratory to clinic: a large scale study of distortion product otoacoustic emissions in ears with normal hearing and ears with hearing loss, Ear and Hearing; Shera CA, Guinan JJ (1999), Evoked otoacoustic emissions arise by two fundamentally different mechanisms, Journal of the Acoustical Society of America; Hall JW, Handbook of Otoacoustic Emissions; Dhar S, Hall JW, Otoacoustic Emissions: Principles, Procedures, and Protocols; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "otoemisiones",
+   "OEAPD"
+  ],
+  "etiketler": [
+   "OEAPD",
+   "otoemisiones acústicas producto de distorsión",
+   "DP-grama",
+   "tonos primarios",
+   "2f1-f2",
+   "piso de ruido",
+   "otoemisiones acústicas",
+   "ototoxicidad",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 123",
+   "baslik": "Otoemisiones acústicas *producto de distorsión* (OEAPD)",
+   "alt": "Dos tonos, 2f1-f2 y el DP-grama",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos la medición de las otoemisiones acústicas producto de distorsión.",
+    {
+     "yazi": "Veremos cómo se eligen los dos tonos primarios, el producto dos f1 menos f2 y cómo leer el DP-grama.",
+     "ses": "Veremos cómo se eligen los dos tonos primarios, el producto dos efe uno menos efe dos y cómo leer el DP-grama."
+    }
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Principio",
+   "baslik": "Dos tonos, un sonido *nuevo*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "vurgula": [
+    {
+     "parca": "uyaran",
+     "cumle": 0
+    },
+    {
+     "parca": "yanit",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "f1 y f2",
+     "cumle": 2
+    },
+    {
+     "parca": "yanit",
+     "metin": "producto 2f1-f2",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tonos primarios: f1 y f2",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Producto medido: 2f1-f2",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Fuente: células ciliadas externas",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "En la medición de otoemisiones acústicas producto de distorsión, u OEAPD, se presentan a la vez dos tonos puros en el conducto auditivo.",
+    "Estos tonos se llaman tonos primarios.",
+    {
+     "yazi": "El tono de frecuencia más baja se llama f1, y el de frecuencia más alta, f2.",
+     "ses": "El tono de frecuencia más baja se llama efe uno, y el de frecuencia más alta, efe dos."
+    },
+    "Una cóclea sana no es lineal, así que al procesar los dos tonos produce sonidos en frecuencias nuevas, llamados productos de distorsión.",
+    {
+     "yazi": "En los seres humanos, el mayor producto está en la frecuencia dos f1 menos f2, y es el que se mide en la clínica.",
+     "ses": "En los seres humanos, el mayor producto está en la frecuencia dos efe uno menos efe dos, y es el que se mide en la clínica."
+    },
+    "Esta no linealidad depende de la función activa de las células ciliadas externas; cuando están dañadas, el producto se reduce o desaparece.",
+    "El producto es mucho más débil que los tonos primarios; en un oído normal suele estar unos cincuenta a sesenta decibeles por debajo."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Principio",
+   "baslik": "Un *ejemplo* resuelto",
+   "maddeler": [
+    {
+     "metin": "f2: _2000 Hz_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "f1: _unos 1640 Hz_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "2f1-f2: _unos 1280 Hz_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Se grafica según la frecuencia _f2_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 0,
+    "ayar": {
+     "x": {
+      "min": 1000,
+      "max": 2400,
+      "log": true,
+      "hz": true,
+      "isaretler": [
+       1000,
+       1500,
+       2000
+      ],
+      "ad": "Frecuencia (Hz)"
+     },
+     "y": {
+      "min": -10,
+      "max": 70,
+      "adim": 20,
+      "ad": "Nivel (dB SPL)"
+     },
+     "seriler": [
+      {
+       "ad": "f1",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         1640,
+         65
+        ]
+       ],
+       "renk": "mavi",
+       "etiket": "f1",
+       "cumle": 1
+      },
+      {
+       "ad": "f2",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         2000,
+         55
+        ]
+       ],
+       "renk": "lacivert",
+       "etiket": "f2",
+       "cumle": 0
+      },
+      {
+       "ad": "dp",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         1280,
+         5
+        ]
+       ],
+       "renk": "kirmizi",
+       "etiket": "2f1-f2",
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Veamos un ejemplo: f2 se fija en dos mil hertz.",
+     "ses": "Veamos un ejemplo: efe dos se fija en dos mil hertz."
+    },
+    {
+     "yazi": "Si la razón entre f2 y f1 es uno coma dos dos, f1 queda en unos mil seiscientos cuarenta hertz.",
+     "ses": "Si la razón entre efe dos y efe uno es uno coma dos dos, efe uno queda en unos mil seiscientos cuarenta hertz."
+    },
+    {
+     "yazi": "Dos f1 menos f2 da entonces unos mil doscientos ochenta hertz; el producto se busca en esta frecuencia.",
+     "ses": "Dos efe uno menos efe dos da entonces unos mil doscientos ochenta hertz; el producto se busca en esta frecuencia."
+    },
+    "Así, el producto aparece por debajo de ambos tonos primarios, en una frecuencia más baja.",
+    {
+     "yazi": "Sin embargo, el resultado no suele graficarse según la frecuencia del producto, sino según la frecuencia f2.",
+     "ses": "Sin embargo, el resultado no suele graficarse según la frecuencia del producto, sino según la frecuencia efe dos."
+    },
+    {
+     "yazi": "Esto se debe a que el principal sitio de generación está cerca de la zona de f2 en la cóclea, donde se superponen las vibraciones de los dos tonos.",
+     "ses": "Esto se debe a que el principal sitio de generación está cerca de la zona de efe dos en la cóclea, donde se superponen las vibraciones de los dos tonos."
+    }
+   ]
+  },
+  {
+   "id": "kaynak",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Principio",
+   "baslik": "¿*Dónde* se genera el producto?",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 2000
+   },
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 0
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "Base: agudos",
+     "cumle": 0
+    },
+    {
+     "parca": "tepe",
+     "metin": "Ápice: graves",
+     "cumle": 0
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "Zona de f2: superposición",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Se genera cerca de la zona de f2",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Un segundo componente: estructura fina",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cada punto: la región de f2",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Los dos tonos crean dos ondas viajeras en la cóclea; el pico de f2 está cerca de la base, y el de f1, un poco más cerca del ápice.",
+     "ses": "Los dos tonos crean dos ondas viajeras en la cóclea; el pico de efe dos está cerca de la base, y el de efe uno, un poco más cerca del ápice."
+    },
+    {
+     "yazi": "La región donde se superponen las dos ondas está justo al lado de la zona de f2, y el producto se genera principalmente allí.",
+     "ses": "La región donde se superponen las dos ondas está justo al lado de la zona de efe dos, y el producto se genera principalmente allí."
+    },
+    "El producto también viaja hacia la zona de su propia frecuencia en la cóclea, y desde allí puede reflejarse un segundo componente.",
+    {
+     "yazi": "Esta estructura de dos fuentes a veces produce en el DP-grama una estructura fina que ondula con la frecuencia."
+    },
+    {
+     "yazi": "Para la interpretación clínica, la regla práctica es sencilla: cada punto del DP-grama refleja aproximadamente las células ciliadas externas de la región de f2.",
+     "ses": "Para la interpretación clínica, la regla práctica es sencilla: cada punto del DP-grama refleja aproximadamente las células ciliadas externas de la región de efe dos."
+    },
+    {
+     "yazi": "Así, el DP-grama puede leerse como un mapa de la función coclear por frecuencias."
+    }
+   ]
+  },
+  {
+   "id": "protokol",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Protocolo",
+   "baslik": "El *protocolo* estándar",
+   "sutunlar": [
+    "Parámetro",
+    "Valor habitual"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Razón f2 / f1",
+      "1,22"
+     ],
+     "cumle": 0,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "L1 / L2",
+      "65/55 dB SPL"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Rango de f2",
+      "1 a 8 kHz"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "Puntos de prueba",
+      "Varios por octava"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "Unidad de nivel",
+      "dB SPL"
+     ],
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En el protocolo más usado, la razón entre f2 y f1 se fija en uno coma dos dos.",
+     "ses": "En el protocolo más usado, la razón entre efe dos y efe uno se fija en uno coma dos dos."
+    },
+    "Esta razón se hizo habitual porque, a niveles moderados en el oído humano, suele dar el mayor producto.",
+    {
+     "yazi": "Los niveles de los tonos primarios se escriben L1 y L2; la elección más común es L1 a sesenta y cinco y L2 a cincuenta y cinco dB SPL.",
+     "ses": "Los niveles de los tonos primarios se escriben ele uno y ele dos; la elección más común es ele uno a sesenta y cinco y ele dos a cincuenta y cinco dB SPL."
+    },
+    {
+     "yazi": "Es decir, el tono de frecuencia más baja, f1, se presenta diez decibeles más fuerte que f2.",
+     "ses": "Es decir, el tono de frecuencia más baja, efe uno, se presenta diez decibeles más fuerte que efe dos."
+    },
+    {
+     "yazi": "Mantener L1 por encima de L2 da una superposición más equilibrada de los dos tonos en la zona de f2, y un producto mayor.",
+     "ses": "Mantener ele uno por encima de ele dos da una superposición más equilibrada de los dos tonos en la zona de efe dos, y un producto mayor."
+    },
+    {
+     "yazi": "La medición suele hacerse en varios puntos por octava, con f2 entre uno y ocho kilohertz aproximadamente.",
+     "ses": "La medición suele hacerse en varios puntos por octava, con efe dos entre uno y ocho kilohertz aproximadamente."
+    },
+    "Los niveles se expresan en dB SPL, y el equipo los ajusta midiendo en el conducto auditivo."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Protocolo",
+   "baslik": "*Pasos* de la medición",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia",
+     "metin": "¿Conducto despejado?",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Sonda",
+     "metin": "Ajuste hermético",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Calibración en el oído",
+     "metin": "Se verifican los niveles",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Barrido de frecuencias",
+     "metin": "Producto y ruido",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Evaluación",
+     "metin": "Producto, piso, criterio",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Antes de medir, se revisa el conducto auditivo con otoscopia; si es posible, también se hace una timpanometría.",
+    "La sonda contiene dos altavoces separados para los dos tonos primarios y un micrófono; se inserta de modo que no haya fugas de aire.",
+    "El equipo mide primero los niveles de los tonos en el conducto auditivo y los ajusta a los niveles objetivo.",
+    "La medición avanza de frecuencia en frecuencia; muchos equipos empiezan por las altas y registran el producto y el ruido en cada punto.",
+    "Cuando en un punto se alcanza suficiente reducción del ruido, o pasa un tiempo establecido, el equipo pasa a la siguiente frecuencia.",
+    "Al final, el nivel del producto, el piso de ruido y el criterio de pasa se evalúan juntos para cada frecuencia."
+   ]
+  },
+  {
+   "id": "dpgram",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "El DP-grama",
+   "baslik": "Cómo leer un *DP-grama*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 750,
+     "max": 9000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000
+     ],
+     "ad": "Frecuencia f2 (Hz)"
+    },
+    "y": {
+     "min": -20,
+     "max": 30,
+     "adim": 10,
+     "ad": "Nivel (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "dp",
+      "noktalar": [
+       [
+        1000,
+        8
+       ],
+       [
+        1500,
+        10
+       ],
+       [
+        2000,
+        12
+       ],
+       [
+        3000,
+        10
+       ],
+       [
+        4000,
+        8
+       ],
+       [
+        6000,
+        4
+       ],
+       [
+        8000,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "nivel DP",
+      "cumle": 1
+     },
+     {
+      "ad": "gurultu_tabani",
+      "noktalar": [
+       [
+        1000,
+        -2
+       ],
+       [
+        1500,
+        -6
+       ],
+       [
+        2000,
+        -9
+       ],
+       [
+        3000,
+        -10
+       ],
+       [
+        4000,
+        -11
+       ],
+       [
+        6000,
+        -10
+       ],
+       [
+        8000,
+        -8
+       ]
+      ],
+      "renk": "gri",
+      "dolgu": true,
+      "kesik": true,
+      "etiket": "piso de ruido",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       -9,
+       12
+      ],
+      "xk": 2000,
+      "etiket": "21 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Producto al menos 6 dB sobre el piso",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Ruido alto en frecuencias bajas",
+     "cumle": 6,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Los resultados de las OEAPD se muestran en un gráfico llamado DP-grama."
+    },
+    {
+     "yazi": "El eje horizontal muestra la frecuencia f2, y el eje vertical, el nivel del producto en dB SPL.",
+     "ses": "El eje horizontal muestra la frecuencia efe dos, y el eje vertical, el nivel del producto en dB SPL."
+    },
+    "La zona gris muestra el ruido de fondo en la frecuencia del producto para cada punto, es decir, el piso de ruido.",
+    "Cuánto sobresale el producto del piso de ruido determina si la respuesta es real.",
+    "En este ejemplo, en dos kilohertz, el producto está unos veintiún decibeles por encima del ruido.",
+    "Un criterio de uso frecuente es que el producto supere el piso de ruido en al menos seis decibeles.",
+    "En las frecuencias bajas, sobre todo por debajo de mil hertz, el piso de ruido es alto y la medición es menos confiable."
+   ]
+  },
+  {
+   "id": "normatif",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "El DP-grama",
+   "baslik": "¿Presente o *normal*?",
+   "maddeler": [
+    {
+     "metin": "Presente: respecto al _piso de ruido_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Normal: respecto al _rango normal_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Las normas dependen del _protocolo_",
+     "cumle": 4,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Con el audiograma y la _timpanometría_",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "DOS PREGUNTAS",
+    "metin": "¿Hay *respuesta*? ¿Su nivel es normal?",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Un producto por encima del piso de ruido muestra que hay respuesta, pero si su nivel es normal es otra pregunta.",
+    {
+     "yazi": "Por eso, muchos equipos dibujan sobre el DP-grama un rango normal obtenido en personas con audición normal."
+    },
+    "El estudio de gran muestra publicado por Gorga y colaboradores en 1997 es una de las principales fuentes de normas clínicas.",
+    "Si el producto está por debajo del rango normal, puede pensarse en una función reducida de las células ciliadas externas en esa región.",
+    {
+     "yazi": "Las normas dependen del protocolo y del equipo; las normas obtenidas con otros valores de L1 y L2 no son intercambiables.",
+     "ses": "Las normas dependen del protocolo y del equipo; las normas obtenidas con otros valores de ele uno y ele dos no son intercambiables."
+    },
+    "El resultado siempre se interpreta junto con el audiograma y la timpanometría."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Pérdida auditiva",
+   "baslik": "El DP-grama y la pérdida en *frecuencias altas*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 750,
+     "max": 9000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000
+     ],
+     "ad": "Frecuencia f2 (Hz)"
+    },
+    "y": {
+     "min": -20,
+     "max": 30,
+     "adim": 10,
+     "ad": "Nivel (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "dp",
+      "noktalar": [
+       [
+        1000,
+        10
+       ],
+       [
+        1500,
+        11
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        3000,
+        4
+       ],
+       [
+        4000,
+        -9
+       ],
+       [
+        6000,
+        -12
+       ],
+       [
+        8000,
+        -14
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "nivel DP",
+      "cumle": 0
+     },
+     {
+      "ad": "gurultu_tabani",
+      "noktalar": [
+       [
+        1000,
+        -2
+       ],
+       [
+        1500,
+        -6
+       ],
+       [
+        2000,
+        -9
+       ],
+       [
+        3000,
+        -10
+       ],
+       [
+        4000,
+        -11
+       ],
+       [
+        6000,
+        -10
+       ],
+       [
+        8000,
+        -8
+       ]
+      ],
+      "renk": "gri",
+      "dolgu": true,
+      "kesik": true,
+      "etiket": "piso de ruido",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yanit_yok",
+      "x": [
+       3500,
+       8500
+      ],
+      "renk": "sari",
+      "etiket": "sin respuesta",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Sobre 4 kHz: producto en el ruido",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Información específica por frecuencia",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "No es una prueba de umbral",
+     "cumle": 5,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "En este ejemplo, el DP-grama de un adulto muestra una respuesta clara en las frecuencias bajas y medias.",
+    "A partir de tres kilohertz el producto baja, y por encima de cuatro kilohertz cae dentro del piso de ruido.",
+    "El audiograma de la persona también muestra una pérdida moderada en cuatro kilohertz y por encima.",
+    "Las OEAPD pueden registrarse, aunque con niveles bajos, en pérdidas auditivas de hasta unos cuarenta y cinco a cincuenta dB HL.",
+    "Esta información específica por frecuencia hace que las OEAPD sean valiosas para el monitoreo de ototoxicidad y en la hipoacusia inducida por ruido.",
+    "Sin embargo, las OEAPD tampoco son una prueba de umbral; el umbral auditivo no se calcula a partir del nivel del producto."
+   ]
+  },
+  {
+   "id": "io",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Pérdida auditiva",
+   "baslik": "La *función* de entrada y salida",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 20,
+     "max": 75,
+     "adim": 10,
+     "ad": "L2 (dB SPL)"
+    },
+    "y": {
+     "min": -15,
+     "max": 20,
+     "adim": 5,
+     "ad": "Nivel DP (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        25,
+        -8
+       ],
+       [
+        35,
+        -2
+       ],
+       [
+        45,
+        3
+       ],
+       [
+        55,
+        8
+       ],
+       [
+        65,
+        11
+       ],
+       [
+        70,
+        12
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "yumusak": true,
+      "etiket": "normal",
+      "cumle": 2
+     },
+     {
+      "ad": "hasarli",
+      "noktalar": [
+       [
+        45,
+        -10
+       ],
+       [
+        55,
+        -3
+       ],
+       [
+        65,
+        4
+       ],
+       [
+        70,
+        7
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "daño de células ciliadas externas",
+      "cumle": 3
+     },
+     {
+      "ad": "taban",
+      "noktalar": [
+       [
+        20,
+        -11
+       ],
+       [
+        75,
+        -11
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "piso de ruido",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal: aparece pronto y luego se frena",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Con daño: a niveles más altos",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Un DP-grama se mide con un solo nivel de estímulo, pero el producto también puede estudiarse mientras cambia el nivel del estímulo.",
+    {
+     "yazi": "El gráfico obtenido al subir el nivel paso a paso en una frecuencia f2 dada se llama función de entrada y salida de las OEAPD.",
+     "ses": "El gráfico obtenido al subir el nivel paso a paso en una frecuencia efe dos dada se llama función de entrada y salida de las OEAPD."
+    },
+    "En un oído normal, el producto aparece a niveles bajos y su crecimiento se frena a niveles altos; esto refleja la compresión coclear.",
+    "Con daño de las células ciliadas externas, el producto solo aparece a niveles de estímulo más altos.",
+    "Esta medición se usa sobre todo en investigación y en evaluaciones diagnósticas detalladas."
+   ]
+  },
+  {
+   "id": "teoae_dpoae",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 5",
+   "bolum": "En la clínica",
+   "baslik": "¿OEAT u *OEAPD*?",
+   "sol": {
+    "ust": "OEAT",
+    "maddeler": [
+     {
+      "metin": "Clic, banda ancha",
+      "cumle": 0
+     },
+     {
+      "metin": "Entre 1 y 4 kHz aprox.",
+      "cumle": 1
+     },
+     {
+      "metin": "Se pierden con 30 a 40 dB HL",
+      "cumle": 2
+     },
+     {
+      "metin": "Rápidas para el tamizaje",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "OEAPD",
+    "maddeler": [
+     {
+      "metin": "Dos tonos, específicas por frecuencia",
+      "cumle": 4
+     },
+     {
+      "metin": "Llegan a frecuencias altas",
+      "cumle": 5
+     },
+     {
+      "metin": "Hasta 45 a 50 dB HL",
+      "cumle": 6
+     },
+     {
+      "metin": "Elegir según la pregunta clínica",
+      "cumle": 7
+     }
+    ]
+   },
+   "cumleler": [
+    "Las otoemisiones acústicas transitorias, u OEAT, evalúan una región de frecuencias amplia en una sola medición con un estímulo clic.",
+    "La respuesta se registra con más fiabilidad entre uno y cuatro kilohertz aproximadamente.",
+    "Suelen perderse cuando una pérdida coclear supera unos treinta a cuarenta dB HL, lo que muestra su sensibilidad a las pérdidas leves.",
+    "Como son rápidas y sencillas, se usan mucho en el tamizaje neonatal.",
+    {
+     "yazi": "Las OEAPD, en cambio, evalúan en cada medición una región de frecuencia específica, la zona de f2.",
+     "ses": "Las OEAPD, en cambio, evalúan en cada medición una región de frecuencia específica, la zona de efe dos."
+    },
+    "Pueden llegar a frecuencias altas, hasta ocho kilohertz o más.",
+    "También pueden registrarse en pérdidas más severas; se pueden ver respuestas hasta unos cuarenta y cinco a cincuenta dB HL.",
+    "Las dos pruebas no compiten, sino que se complementan; se elige una o ambas según la pregunta clínica."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "En la clínica",
+   "baslik": "¿*Dónde* destacan las OEAPD?",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Ototoxicidad",
+     "metin": "Descenso de las respuestas agudas",
+     "cumle": 1
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Ruido",
+     "metin": "Seguimiento de células ciliadas externas",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Verificación cruzada",
+     "metin": "Si la prueba conductual no es confiable",
+     "cumle": 3
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Tamizaje neonatal",
+     "metin": "Una alternativa a las OEAT",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El carácter específico por frecuencia de las OEAPD las hace destacar en varias áreas clínicas.",
+    "En pacientes que reciben fármacos ototóxicos, un descenso de las respuestas en frecuencias altas puede ser una alerta temprana.",
+    "También se estudian para seguir los efectos sobre las células ciliadas externas en trabajadores expuestos a ruido.",
+    "Ofrecen una verificación cruzada cuando la prueba conductual no es confiable.",
+    "También se usan como alternativa a las OEAT en el tamizaje neonatal; veremos los detalles en la próxima lección."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En un DP-grama, mira el piso de ruido y no solo el producto. Un producto oculto por un piso alto no se informa como ausente, sino como no evaluable.",
+   "cumle": 1,
+   "cumleler": [
+    {
+     "yazi": "Un consejo clínico: en un DP-grama, un producto ausente y un producto que no pudo medirse no son lo mismo."
+    },
+    "Si el piso de ruido es alto, incluso un producto pequeño que sí existe puede quedar por debajo del ruido.",
+    "En ese caso, registren el resultado como no evaluable por ruido en lugar de sin respuesta, y repitan cuando el ambiente esté más silencioso.",
+    "En particular, las respuestas que faltan en las frecuencias bajas suelen deberse al ruido."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Dos tonos, el producto _2f1-f2_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "f2/f1 = 1,22; _L1/L2 = 65/55_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "DP-grama: graficado _según f2_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Producto _al menos 6 dB_ sobre el piso",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En las OEAPD se presentan dos tonos primarios, y el mayor producto se mide en la frecuencia dos f1 menos f2.",
+     "ses": "En las OEAPD se presentan dos tonos primarios, y el mayor producto se mide en la frecuencia dos efe uno menos efe dos."
+    },
+    {
+     "yazi": "En el protocolo habitual, la razón entre f2 y f1 es uno coma dos dos, y los niveles son sesenta y cinco y cincuenta y cinco dB SPL.",
+     "ses": "En el protocolo habitual, la razón entre efe dos y efe uno es uno coma dos dos, y los niveles son sesenta y cinco y cincuenta y cinco dB SPL."
+    },
+    {
+     "yazi": "El DP-grama muestra el nivel del producto según la frecuencia f2, y la respuesta se compara con el piso de ruido.",
+     "ses": "El DP-grama muestra el nivel del producto según la frecuencia efe dos, y la respuesta se compara con el piso de ruido."
+    },
+    "Un criterio de uso frecuente es que el producto supere el piso de ruido en al menos seis decibeles."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "f1 = 1640 Hz, f2 = 2000 Hz. ¿Dónde está el producto 2f1-f2?",
+   "secenekler": [
+    "Unos 360 Hz",
+    "Unos 1280 Hz",
+    "Unos 2360 Hz",
+    "Unos 3640 Hz"
+   ],
+   "dogru": 1,
+   "aciklama": "2 x 1640 = 3280; 3280 - 2000 = _unos 1280 Hz_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: f1 es mil seiscientos cuarenta y f2, dos mil hertz. ¿En qué frecuencia está el producto dos f1 menos f2?",
+     "sonra_bekle": 5,
+     "ses": "Pon a prueba lo aprendido: efe uno es mil seiscientos cuarenta y efe dos, dos mil hertz. ¿En qué frecuencia está el producto dos efe uno menos efe dos?"
+    },
+    "La respuesta correcta es la B: unos mil doscientos ochenta hertz.",
+    {
+     "yazi": "Dos por 1640 es 3280; al restar 2000 se obtienen unos 1280 hertz.",
+     "ses": "Dos por mil seiscientos cuarenta es tres mil doscientos ochenta; al restar dos mil se obtienen unos mil doscientos ochenta hertz."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Las *OEA* en la clínica: usos y errores comunes",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos los usos clínicos de las otoemisiones acústicas, desde el tamizaje hasta el monitoreo de ototoxicidad.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,783 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D003_From_Ear_To_Brain_ES",
+ "kapak": {
+  "ust": "LECCIÓN 3",
+  "baslik": "Del oído<br>al *cerebro*",
+  "alt": "Un primer vistazo a la vía auditiva",
+  "cizim": "isitme_yolu"
+ },
+ "youtube": {
+  "baslik": "Cómo viaja el sonido del oído al cerebro | Lección 03 | AIHEAR Academia de Audiología",
+  "aciklama": "Seguimos un sonido paso a paso, desde el pabellón auricular hasta la corteza auditiva. Explicamos la función del oído externo, medio e interno, cómo la vibración se convierte en una señal nerviosa y qué hacen el tronco cerebral y la corteza.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Gelfand, Essentials of Audiology; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Pickles, An Introduction to the Physiology of Hearing; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audicion",
+   "oido"
+  ],
+  "etiketler": [
+   "vía auditiva",
+   "fisiología de la audición",
+   "oído externo",
+   "oído medio",
+   "oído interno",
+   "cóclea",
+   "nervio auditivo",
+   "corteza auditiva",
+   "cómo oímos",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 3",
+   "baslik": "Cómo viaja el sonido del oído al *cerebro*",
+   "alt": "Oído externo, medio e interno, tronco cerebral y corteza",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección seguimos el camino de un sonido de principio a fin, desde el pabellón auricular hasta el cerebro.",
+    "Veremos la función del oído externo, medio e interno, cómo la vibración se vuelve señal nerviosa y cómo la procesa el cerebro."
+   ]
+  },
+  {
+   "id": "genel",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Panorama general",
+   "baslik": "Las *tres partes* del oído",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak",
+     "metin": "Oído externo (auris externa)",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Oído medio (auris media)",
+     "cumle": 2
+    },
+    {
+     "parca": "ic_kulak",
+     "metin": "Oído interno (auris interna)",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "ic_kulak",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Aire, vibración, líquido, electricidad",
+     "cumle": 5,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Anatómicamente, el oído se divide en tres partes.",
+    "La primera es el oído externo, o auris externa, formado por el pabellón auricular y el conducto auditivo externo.",
+    "La segunda es el oído medio, o auris media, el espacio lleno de aire detrás de la membrana timpánica.",
+    "La tercera es el oído interno, o auris interna, una estructura llena de líquido en lo profundo del hueso temporal.",
+    "El oído interno contiene la cóclea, el órgano de la audición, y el sistema vestibular, el órgano del equilibrio.",
+    "En este viaje, el sonido es primero vibración del aire, luego vibración mecánica, después onda en un líquido y al final señal nerviosa."
+   ]
+  },
+  {
+   "id": "dis_kulak",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Oído externo",
+   "baslik": "Oído externo: *captar y dirigir*",
+   "maddeler": [
+    {
+     "metin": "Pabellón: _capta_ el sonido",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Conducto auditivo: unos _2,5 cm_",
+     "cumle": 1,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Resonancia: ganancia en _2000 a 4000 Hz_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ayuda a la _localización_",
+     "cumle": 4,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Protección: _cerumen_",
+     "cumle": 5,
+     "ikon": "enfeksiyon"
+    }
+   ],
+   "cumleler": [
+    "La onda sonora llega primero al pabellón auricular, que capta el sonido y lo dirige hacia el conducto auditivo.",
+    "El conducto auditivo externo es un canal con forma de S suave, de unos dos coma cinco centímetros de largo.",
+    "Este conducto actúa como un tubo cerrado en un extremo y refuerza los sonidos de entre dos mil y cuatro mil hertz, aproximadamente.",
+    "Juntos, el pabellón y el conducto aportan una ganancia de unos diez a veinte decibeles en esta región.",
+    "Los pliegues del pabellón crean pistas que nos ayudan a saber si un sonido viene de adelante o de atrás.",
+    "El cerumen y la estructura del conducto protegen el oído de cuerpos extraños y de infecciones.",
+    "Muchas consonantes importantes para comprender el habla también están en esta región de frecuencias reforzada."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulak_kepcesi",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "kulak_kepcesi",
+      "metin": "Pabellón auricular (auricula)",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "Conducto auditivo externo",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "orta_kulak",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Oído medio",
+   "baslik": "Oído medio: *transmisión mecánica*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "timpanik_membran",
+     "metin": "Membrana timpánica",
+     "cumle": 0
+    },
+    {
+     "parca": "malleus",
+     "metin": "Martillo",
+     "cumle": 2
+    },
+    {
+     "parca": "incus",
+     "metin": "Yunque",
+     "cumle": 2
+    },
+    {
+     "parca": "stapes",
+     "metin": "Estribo",
+     "cumle": 3
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "Ventana oval",
+     "cumle": 4
+    },
+    {
+     "parca": "ostaki_borusu",
+     "metin": "Trompa de Eustaquio",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Al final del conducto auditivo se encuentra la membrana timpánica, o tímpano.",
+    "Cuando la onda sonora la golpea, la membrana timpánica vibra al ritmo de la frecuencia del sonido.",
+    "Esta vibración la transmiten los huesecillos, los diminutos huesos del oído: primero el martillo y luego el yunque.",
+    "El último eslabón de la cadena es el estribo, el hueso más pequeño del cuerpo humano.",
+    "La platina del estribo se apoya en la ventana oval, la entrada al oído interno, y transmite la vibración al líquido del oído interno.",
+    "El oído medio está lleno de aire y se comunica con la parte posterior de la nariz, la nasofaringe, por la trompa de Eustaquio.",
+    "La trompa de Eustaquio iguala la presión del aire del oído medio con la del ambiente exterior."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "orta_kulak",
+     "cumle": 0,
+     "olcek": 2.3
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 4,
+     "olcek": 3.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kemikcikler",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 4
+    },
+    {
+     "parca": "ostaki_borusu",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "empedans",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Oído medio",
+   "baslik": "¿Por qué *necesitamos* un oído medio?",
+   "maddeler": [
+    {
+     "metin": "_Desajuste de impedancias_ entre aire y líquido",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Relación de áreas: cerca de _17 a 1_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Palanca: cerca de _1,3 a 1_",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Ganancia: unos _25 a 30 dB_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "El oído interno está lleno de líquido, y cuando el sonido pasa del aire al líquido, la mayor parte de su energía se refleja.",
+    "Sin el oído medio, esta reflexión causaría una pérdida de unos treinta decibeles.",
+    "El oído medio lo resuelve de dos maneras; primero, la membrana timpánica es unas diecisiete veces más grande que la platina del estribo.",
+    "Segundo, la cadena osicular funciona como una pequeña palanca y aumenta la fuerza aproximadamente uno coma tres veces.",
+    "Juntos, estos mecanismos aportan una ganancia de unos veinticinco a treinta decibeles; esto se llama adaptación de impedancias.",
+    "Veremos este tema en detalle en las lecciones de fisiología."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 2
+     },
+     {
+      "parca": "stapes",
+      "cumle": 2
+     },
+     {
+      "parca": "kemikcikler",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "timpanik_membran",
+      "metin": "Membrana timpánica",
+      "cumle": 2
+     },
+     {
+      "parca": "stapes",
+      "metin": "Platina del estribo",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "koklea",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Oído interno",
+   "baslik": "Cóclea: la *onda en el líquido*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "oval_pencere",
+     "metin": "Ventana oval",
+     "cumle": 0
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Ventana redonda",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "Membrana basilar",
+     "cumle": 2
+    },
+    {
+     "parca": "taban",
+     "metin": "Base: sonidos agudos",
+     "cumle": 4
+    },
+    {
+     "parca": "tepe",
+     "metin": "Ápice: sonidos graves",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Cuando el estribo empuja la ventana oval hacia dentro y la retira, se forman ondas de presión en el líquido de la cóclea.",
+    "Como el líquido no se puede comprimir, este movimiento se compensa con la ventana redonda de la base, que se abomba en sentido contrario.",
+    "La membrana basilar, que recorre la cóclea a lo largo, empieza a vibrar con este movimiento del líquido.",
+    "La vibración forma una onda viajera que avanza desde la base hacia el ápice.",
+    "Los sonidos agudos producen su máxima vibración cerca de la base de la cóclea.",
+    "Los sonidos graves llegan hasta cerca del ápice; este mapa de frecuencias se llama tonotopía.",
+    "Así, la cóclea descompone el sonido que llega en sus componentes, como un analizador de frecuencias."
+   ]
+  },
+  {
+   "id": "tuy_hucre",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Oído interno",
+   "baslik": "De la vibración a la *señal nerviosa*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "baziler_membran",
+     "metin": "Membrana basilar",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "Célula ciliada interna",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Células ciliadas externas",
+     "cumle": 4
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Fibras nerviosas",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El órgano de Corti se apoya sobre la membrana basilar, y es aquí donde ocurre la verdadera conversión.",
+    "Las células ciliadas internas del órgano de Corti son las verdaderas células sensoriales que pasan la información auditiva al nervio.",
+    "Cuando la membrana vibra, las finas prolongaciones en la parte superior de las células ciliadas, los estereocilios, se inclinan.",
+    "Esta inclinación abre canales iónicos en la célula, y la energía mecánica se convierte en una señal eléctrica.",
+    "Las células ciliadas externas se alargan y se acortan, lo que amplifica los sonidos débiles y afina la selectividad frecuencial.",
+    "Las fibras nerviosas estimuladas por las células ciliadas internas llevan esta señal al nervio auditivo."
+   ]
+  },
+  {
+   "id": "kodlama",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Oído interno",
+   "baslik": "¿Cómo *codifica* el nervio el sonido?",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Código de lugar",
+     "metin": "¿Qué fibra se estimuló?",
+     "cumle": 0
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Código temporal",
+     "metin": "Sincronía con la onda",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Intensidad",
+     "metin": "Tasa de descarga y número de fibras",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El nervio auditivo transmite la frecuencia sobre todo con un código de lugar; cada fibra trae información de una región concreta de la cóclea.",
+    "Así, cada una de sus aproximadamente treinta mil fibras está sintonizada con su propia frecuencia.",
+    "Con los sonidos graves, las fibras también descargan en fases concretas de la onda sonora; esto se llama sincronía de fase.",
+    "Cuando un sonido se vuelve más intenso, aumenta la tasa de descarga de las fibras y se reclutan más fibras.",
+    "A partir de estos códigos, el cerebro descifra tanto el tono como la sonoridad de un sonido."
+   ]
+  },
+  {
+   "id": "kemik_yolu",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Oído interno",
+   "baslik": "Un atajo: la *conducción ósea*",
+   "maddeler": [
+    {
+     "metin": "La vibración craneal llega a la _cóclea_",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Evita _en gran parte_ oído externo y medio",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "En el audiograma: información del _oído interno_",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "El sonido puede llegar a la cóclea no solo por el aire, sino también por la vibración de los huesos del cráneo.",
+    "Esto se llama conducción ósea; por esta vía, el oído externo y el medio se evitan en gran parte.",
+    "Nuestra voz grabada suena distinta, en parte, porque al hablar también nos oímos por conducción ósea.",
+    "En la clínica, la prueba de conducción ósea permite ver el estado de la cóclea y de las vías posteriores, por separado de la conducción aérea.",
+    "Esta diferencia es la base para distinguir los tipos de pérdida auditiva, el tema de la próxima lección."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "temporal_kemik",
+      "cumle": 0
+     },
+     {
+      "parca": "koklea",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "temporal_kemik",
+      "metin": "Hueso temporal",
+      "cumle": 0
+     },
+     {
+      "parca": "koklea",
+      "metin": "Cóclea",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "yol",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 5",
+   "bolum": "El camino al cerebro",
+   "baslik": "La *vía auditiva* central",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "Nervio auditivo (VIII)",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "Núcleo coclear",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "Complejo olivar superior",
+     "cumle": 2
+    },
+    {
+     "parca": "lateral_lemniskus",
+     "metin": "Lemnisco lateral",
+     "cumle": 3
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "Colículo inferior",
+     "cumle": 3
+    },
+    {
+     "parca": "mgb",
+     "metin": "Cuerpo geniculado medial",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "Corteza auditiva",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La señal llega al tronco cerebral por el nervio auditivo, el octavo par craneal.",
+    "La primera parada es el núcleo coclear; las fibras que llegan aquí vienen solo del oído del mismo lado.",
+    "Luego viene el complejo olivar superior, donde se compara por primera vez la información de los dos oídos.",
+    "La señal asciende por el lemnisco lateral y llega al colículo inferior, en el mesencéfalo.",
+    "El cuerpo geniculado medial, en el tálamo, es la última estación de relevo que pasa la señal a la corteza.",
+    "Por último, la señal llega a la corteza auditiva primaria, en el lóbulo temporal.",
+    "En el camino, la mayoría de las fibras cruzan al lado opuesto, por eso cada oído está representado en ambos hemisferios del cerebro."
+   ]
+  },
+  {
+   "id": "beyin_sapi",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "El camino al cerebro",
+   "baslik": "¿Qué *hace* el tronco cerebral?",
+   "maddeler": [
+    {
+     "metin": "Diferencias interaurales de _tiempo e intensidad_",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Hallar la _dirección_ del sonido",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "_Reflejos_: el reflejo acústico",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Ayuda a la _escucha selectiva_ en ruido",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "El tronco cerebral no solo retransmite la señal; también la procesa.",
+    "En el complejo olivar superior se comparan las diferencias de tiempo y de intensidad del sonido que llega a los dos oídos.",
+    "Así podemos saber de qué dirección viene un sonido.",
+    "El reflejo acústico, que contrae el músculo estapedio en el oído medio ante sonidos intensos, también actúa a nivel del tronco cerebral.",
+    "Las fibras que bajan del cerebro al oído actúan sobre las células ciliadas externas y ayudan a escuchar en ruido.",
+    "Los potenciales evocados auditivos de tronco cerebral (PEATC), que veremos más adelante, miden la actividad eléctrica inicial de esta vía."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "superior_oliver",
+      "metin": "Complejo olivar superior",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "korteks",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "El camino al cerebro",
+   "baslik": "La *corteza auditiva* primaria",
+   "maddeler": [
+    {
+     "metin": "_Corteza auditiva primaria_",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Ubicación: lóbulo temporal, _giro de Heschl_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Se conserva el orden _tonotópico_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Significado: con las _áreas de asociación_",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "La última parada de la vía es la corteza auditiva primaria.",
+    "Esta área se encuentra en la cara superior del lóbulo temporal, en una región llamada giro de Heschl.",
+    "El mapa de frecuencias que comenzó en la cóclea se conserva aquí; cada frecuencia se representa en un área distinta de la corteza.",
+    "Reconocer si un sonido es una palabra o música ocurre junto con las áreas de asociación auditiva que la rodean.",
+    "Para comprender el habla, el área de Wernicke del hemisferio izquierdo cumple un papel importante en la mayoría de las personas.",
+    "En resumen, el oído recibe y codifica el sonido, pero es el cerebro el que entiende lo que oímos."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "isitme_korteksi",
+      "metin": "Corteza auditiva primaria",
+      "cumle": 0
+     }
+    ]
+   }
+  },
+  {
+   "id": "tablo",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "El camino al cerebro",
+   "baslik": "El viaje en *resumen*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Oído externo",
+     "metin": "Acústico: captación, resonancia",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Oído medio",
+     "metin": "Mecánico: adaptación de impedancias",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Oído interno",
+     "metin": "Líquido y electricidad: análisis de frecuencias",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Nervio y cerebro",
+     "metin": "Transmisión, interpretación",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ahora reunamos todo el viaje en una sola imagen.",
+    "En el oído externo, el sonido aún es una onda acústica en el aire; el pabellón y el conducto lo captan y lo refuerzan.",
+    "En el oído medio, la energía se convierte en vibración mecánica y se adapta para pasar al líquido.",
+    "En el oído interno, la onda del líquido hace vibrar la membrana basilar, y las células ciliadas la convierten en una señal eléctrica.",
+    "Luego, las vías nerviosas y la corteza transmiten, procesan y dan sentido a esta señal."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Identificar qué parte de la vía mide cada prueba: la timpanometría, el oído medio; las OEA, las células ciliadas externas; los PEATC, el nervio auditivo y el tronco cerebral.",
+   "cumleler": [
+    "Este mapa del recorrido es muy útil en la clínica.",
+    "Al interpretar el resultado de una prueba, piensen qué parte de la vía mide esa prueba.",
+    "La timpanometría evalúa el oído medio, y las otoemisiones acústicas (OEA) evalúan las células ciliadas externas.",
+    "Los PEATC evalúan el nervio auditivo y las vías del tronco cerebral.",
+    "Interpretar estas pruebas en conjunto es la forma más confiable de localizar el problema."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "El oído externo capta y *refuerza*",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "El oído medio logra la *adaptación de impedancias*",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "La cóclea *separa* y convierte las frecuencias",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tronco cerebral y corteza *interpretan*",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "El oído externo capta y dirige el sonido, y refuerza las frecuencias importantes para el habla.",
+    "El oído medio transfiere con eficiencia el sonido del aire al oído interno, lleno de líquido.",
+    "La cóclea descompone el sonido en sus frecuencias, y las células ciliadas convierten la vibración en una señal nerviosa.",
+    "El tronco cerebral procesa el sonido y halla su dirección, y la corteza da sentido a lo que oímos."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Dónde se compara por primera vez la información de los dos oídos?",
+   "secenekler": [
+    "Núcleo coclear",
+    "Complejo olivar superior",
+    "Colículo inferior",
+    "Corteza auditiva"
+   ],
+   "dogru": 1,
+   "aciklama": "El _complejo olivar superior_ es la primera estación donde se unen las señales de ambos oídos; es clave para la localización.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿en qué punto de la vía auditiva se compara por primera vez la información de los dos oídos?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B, el complejo olivar superior. El núcleo coclear recibe señales solo del oído del mismo lado.",
+    "La información de los dos oídos se encuentra por primera vez en el complejo olivar superior y sirve para localizar el sonido."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Hipoacusia conductiva, neurosensorial y *mixta*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos los tipos de pérdida auditiva, según qué parte de esta vía esté afectada.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

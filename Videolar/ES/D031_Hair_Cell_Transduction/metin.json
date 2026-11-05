@@ -1,0 +1,1111 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D031_Hair_Cell_Transduction_ES",
+ "kapak": {
+  "ust": "LECCIÓN 31",
+  "baslik": "Del sonido<br>a la *electricidad*",
+  "alt": "Transducción mecanoeléctrica en las células ciliadas",
+  "cizim": "corti",
+  "vurgula": [
+   "ic_tuy_hucresi"
+  ]
+ },
+ "youtube": {
+  "baslik": "De sonido a señal eléctrica: las células ciliadas | Lección 31 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo se convierte la vibración de la membrana basilar en una señal eléctrica en las células ciliadas? En esta lección recorremos paso a paso la inclinación de los estereocilios, los enlaces de punta, la entrada de potasio y la despolarización, el potencial endococlear de unos +80 mV que genera la estría vascular y la sinapsis de la célula ciliada interna. Como vínculos clínicos, hablamos de la pérdida estrial, la otoferlina y la neuropatía auditiva, la ototoxicidad y el microfónico coclear.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Pickles, An Introduction to the Physiology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "coclea",
+   "fisiologiadelaaudicion"
+  ],
+  "etiketler": [
+   "células ciliadas",
+   "transducción mecanoeléctrica",
+   "enlaces de punta",
+   "potencial endococlear",
+   "estría vascular",
+   "estereocilios",
+   "sinapsis en cinta",
+   "otoferlina",
+   "microfónico coclear",
+   "fisiología de la audición",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 31",
+   "baslik": "Del sonido a la *electricidad*: las células ciliadas",
+   "alt": "Enlaces de punta, potasio y potencial endococlear",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo las células ciliadas convierten la vibración de la membrana basilar en una señal eléctrica.",
+    "Recorreremos paso a paso los enlaces de punta, el flujo de potasio y el potencial endococlear que impulsa ese flujo."
+   ]
+  },
+  {
+   "id": "sahne",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Dónde ocurre la transducción",
+   "baslik": "¿*Dónde* comienza la transducción?",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "baziler_membran",
+     "metin": "membrana basilar",
+     "cumle": 0
+    },
+    {
+     "parca": "tektoryal_membran",
+     "metin": "membrana tectoria",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "células ciliadas externas",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "célula ciliada interna",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 0
+    },
+    {
+     "parca": "tektoryal_membran",
+     "cumle": 2
+    },
+    {
+     "parca": "stereosil",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Cizallamiento_ entre dos membranas",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Los estereocilios _se inclinan_",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Resultado: una señal _eléctrica_",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "stereosil",
+     "cumle": 3,
+     "olcek": 2.0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 4,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Vimos que el movimiento del estribo crea una onda viajera en la cóclea y hace vibrar la membrana basilar.",
+    "Por encima de las células ciliadas del órgano de Corti se encuentra la membrana tectoria.",
+    "Cuando la membrana basilar se mueve, las dos membranas giran sobre puntos distintos y se produce un cizallamiento entre ellas.",
+    "Los estereocilios más altos de las células ciliadas externas están insertados en la membrana tectoria; el cizallamiento los inclina directamente.",
+    "Los estereocilios de las células ciliadas internas, en cambio, se inclinan por el flujo de líquido que genera ese cizallamiento.",
+    "El proceso que convierte esta inclinación mecánica en una señal eléctrica se llama transducción mecanoeléctrica."
+   ]
+  },
+  {
+   "id": "iki_sivi",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Dónde ocurre la transducción",
+   "baslik": "Dos *líquidos* distintos",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_media",
+     "metin": "rampa media: endolinfa",
+     "cumle": 1
+    },
+    {
+     "parca": "scala_vestibuli",
+     "metin": "rampa vestibular: perilinfa",
+     "cumle": 2
+    },
+    {
+     "parca": "scala_tympani",
+     "metin": "rampa timpánica: perilinfa",
+     "cumle": 2
+    },
+    {
+     "parca": "corti_organi",
+     "metin": "órgano de Corti",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "scala_media",
+     "cumle": 1
+    },
+    {
+     "parca": "corti_organi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Endolinfa: mucho _potasio_",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Perilinfa: mucho _sodio_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Ápice celular _en la endolinfa_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "corti_organi",
+     "cumle": 3,
+     "olcek": 2.2
+    }
+   ],
+   "cumleler": [
+    "Para entender la transducción, primero hay que mirar los dos líquidos distintos de la cóclea.",
+    "El compartimento central, la rampa media o conducto coclear, está lleno de endolinfa, rica en potasio.",
+    "La rampa vestibular y la rampa timpánica contienen perilinfa, rica en sodio.",
+    "El ápice de las células ciliadas está en contacto con la endolinfa, y su cuerpo y su base, con un líquido similar a la perilinfa.",
+    "Las dos regiones están separadas por la lámina reticular, formada por la parte superior de las células ciliadas y de las células de sostén."
+   ]
+  },
+  {
+   "id": "iyonlar",
+   "tur": "tablo",
+   "bolum_no": "PARTE 1",
+   "bolum": "Dónde ocurre la transducción",
+   "baslik": "Endolinfa y *perilinfa*",
+   "sutunlar": [
+    "Característica",
+    "Endolinfa",
+    "Perilinfa"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Potasio",
+      "Unos 150 mM",
+      "Unos 5 mM"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Sodio",
+      "Cerca de 1 mM",
+      "Unos 140 mM"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Potencial",
+      "Cerca de +80 mV",
+      "Cerca de 0 mV"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Se parece a",
+      "Líquido intracelular",
+      "Líquido extracelular"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La endolinfa contiene unos ciento cincuenta milimoles de potasio por litro; la perilinfa, solo unos cinco.",
+    "Con el sodio el cuadro se invierte: es alto en la perilinfa y muy bajo en la endolinfa.",
+    "Respecto a la perilinfa, la endolinfa tiene un potencial cercano a más ochenta milivoltios, llamado potencial endococlear.",
+    "Por su contenido iónico, la endolinfa se parece al líquido intracelular, y la perilinfa, al líquido extracelular."
+   ]
+  },
+  {
+   "id": "uc_baglanti",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Enlaces de punta",
+   "baslik": "La escalera y los *enlaces de punta*",
+   "maddeler": [
+    {
+     "metin": "Estereocilios dispuestos como una _escalera_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Puntas unidas por _enlaces de punta_",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Un _canal iónico_ en el extremo",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Proteínas: _cadherina 23_, protocadherina 15",
+     "cumle": 4,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "El ruido los rompe; _pueden regenerarse_",
+     "cumle": 6,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "stereosil_demeti",
+    "cumle": 0,
+    "ayar": {
+     "egilme": 0.6,
+     "egilme_cumle": 3
+    },
+    "etiketler": [
+     {
+      "parca": "stereosil",
+      "metin": "Estereocilios (escalera)",
+      "cumle": 0
+     },
+     {
+      "parca": "uc_baglantisi",
+      "metin": "Enlace de punta",
+      "cumle": 1
+     },
+     {
+      "parca": "iyon_kanali",
+      "metin": "Canal iónico",
+      "cumle": 2
+     },
+     {
+      "parca": "kaderin_23",
+      "metin": "Cadherina 23",
+      "cumle": 4
+     },
+     {
+      "parca": "protokaderin_15",
+      "metin": "Protocadherina 15",
+      "cumle": 4
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "merdiven",
+      "cumle": 0
+     },
+     {
+      "parca": "uc_baglantisi",
+      "cumle": 1
+     },
+     {
+      "parca": "iyon_kanali",
+      "cumle": 2
+     },
+     {
+      "parca": "uc_baglantisi",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "En la parte superior de cada célula ciliada hay filas de estereocilios dispuestos como una escalera, de cortos a largos.",
+    {
+     "yazi": "La punta de un estereocilio corto está unida a su vecino más alto por un filamento muy fino llamado enlace de punta."
+    },
+    "En el extremo inferior del enlace, en la punta del estereocilio corto, hay canales iónicos de apertura mecánica.",
+    "El enlace de punta funciona como un resorte que tira de la compuerta de este canal.",
+    {
+     "yazi": "El enlace está formado por dos proteínas, la cadherina 23 y la protocadherina 15."
+    },
+    {
+     "yazi": "Algunos cambios en los genes de estas proteínas pueden causar el síndrome de Usher, que afecta la audición y la visión."
+    },
+    "Los sonidos muy fuertes pueden romper los enlaces de punta; estos pueden volver a formarse en unas horas.",
+    "Se cree que esta regeneración ayuda a la recuperación del desplazamiento temporal del umbral que se observa tras el ruido."
+   ]
+  },
+  {
+   "id": "egilme_yonu",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Enlaces de punta",
+   "baslik": "El *sentido* de la inclinación importa",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Hacia el más alto",
+     "metin": "Enlace tenso, canal abierto",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Despolarización",
+     "metin": "Entra potasio, interior menos negativo",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Hacia el más corto",
+     "metin": "Enlace flojo, canal cerrado",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Hiperpolarización",
+     "metin": "Interior de la célula más negativo",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Cuando el haz se inclina hacia el estereocilio más alto, los enlaces de punta se tensan y los canales se abren.",
+    "Los iones de potasio, con carga positiva, entran en la célula y su interior se vuelve menos negativo: es la despolarización.",
+    "Cuando el haz se inclina hacia el otro lado, hacia los estereocilios cortos, los enlaces se aflojan y los canales se cierran.",
+    "Entonces el interior de la célula se vuelve más negativo: es la hiperpolarización.",
+    "En reposo, una pequeña parte de los canales ya está abierta, por lo que la célula detecta el movimiento en ambos sentidos.",
+    "La inclinación del haz en ángulo recto respecto a este eje casi no tiene efecto sobre los canales."
+   ]
+  },
+  {
+   "id": "hiz",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Enlaces de punta",
+   "baslik": "Rápida y muy *sensible*",
+   "maddeler": [
+    {
+     "metin": "La fuerza abre el canal _directamente_",
+     "cumle": 0,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Respuesta en _microsegundos_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Movimiento de _nanómetros_ en el umbral",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Adaptación: la sensibilidad _se reajusta_",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ses_dalgasi",
+    "ayar": {
+     "frekans_hz": 4000
+    },
+    "vurgula": [
+     {
+      "parca": "periyot",
+      "cumle": 1
+     }
+    ],
+    "cumle": 1
+   },
+   "cumleler": [
+    "El canal de la célula ciliada se abre directamente por la tracción del enlace de punta, sin ningún mensajero químico de por medio.",
+    "Por eso la transducción ocurre en microsegundos y puede seguir vibraciones de miles de hertz.",
+    "Su sensibilidad también es notable: en el umbral, la punta del haz se mueve apenas un nanómetro.",
+    "Un nanómetro es la milmillonésima parte de un metro, el ancho de apenas unos pocos átomos.",
+    "Ante un empuje sostenido, los canales reajustan su sensibilidad; esto se llama adaptación.",
+    "Gracias a la adaptación, el haz sigue siendo sensible a nuevos movimientos pequeños incluso bajo un empuje constante."
+   ]
+  },
+  {
+   "id": "pil",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "El potasio y la batería",
+   "baslik": "La *batería* de la cóclea",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "stria_vaskularis",
+     "metin": "estría vascular",
+     "cumle": 0
+    },
+    {
+     "parca": "scala_media",
+     "metin": "endolinfa: cerca de +80 mV",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 0
+    },
+    {
+     "parca": "scala_media",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tres capas de células",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Bombea _potasio_ a la endolinfa",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Necesita mucha _energía_ y oxígeno",
+     "cumle": 3,
+     "ikon": "ampul"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 0,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "La energía que impulsa el flujo de potasio proviene de la estría vascular, en la pared externa de la rampa media.",
+    "Este tejido, rico en vasos sanguíneos, está formado por tres capas de células.",
+    "La estría vascular bombea constantemente potasio hacia la endolinfa y genera el potencial endococlear.",
+    "Este trabajo consume energía; la estría vascular es uno de los tejidos de la cóclea que más energía y oxígeno necesitan.",
+    "Por eso el potencial endococlear cae rápidamente cuando disminuye el flujo sanguíneo coclear."
+   ]
+  },
+  {
+   "id": "itici_guc",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "El potasio y la batería",
+   "baslik": "La fuerza impulsora: la *diferencia de potencial*",
+   "sutunlar": [
+    "Región",
+    "Potencial (aprox.)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Endolinfa",
+      "+80 mV"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Perilinfa",
+      "0 mV"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Interior célula interna",
+      "-45 mV"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Interior célula externa",
+      "-70 mV"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "A través del canal",
+      "120 a 150 mV"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Los potenciales muestran por qué el potasio entra con tanta facilidad en la célula: la endolinfa está a unos más ochenta milivoltios.",
+    "El interior de las células ciliadas es negativo: unos menos cuarenta y cinco milivoltios en las internas y unos menos setenta en las externas.",
+    "Esto crea una diferencia de unos ciento veinte a ciento cincuenta milivoltios a través del canal de la parte superior de la célula.",
+    "Cuando el canal se abre, el potasio entra solo en la célula a favor de este gradiente; la célula ciliada no gasta energía en ello.",
+    "Es decir, la energía de la transducción no proviene de la célula ciliada, sino de la estría vascular."
+   ]
+  },
+  {
+   "id": "dongu",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "El potasio y la batería",
+   "baslik": "El *reciclaje* del potasio",
+   "cizim": "koklea_kesit",
+   "vurgula": [
+    {
+     "parca": "k_cikis",
+     "cumle": 0
+    },
+    {
+     "parca": "bosluk_baglantilari",
+     "cumle": 2
+    },
+    {
+     "parca": "ligamentum_spirale",
+     "cumle": 2
+    },
+    {
+     "parca": "stria_pompa",
+     "cumle": 3
+    },
+    {
+     "parca": "k_giris",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sale _por la base_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_Transporte_ por uniones en hendidura",
+     "cumle": 2,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Conexina 26, gen _GJB2_",
+     "cumle": 4,
+     "ikon": "gen_dna"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "k_cikis",
+     "metin": "Célula ciliada: salida por la base",
+     "cumle": 0
+    },
+    {
+     "parca": "ligamentum_spirale",
+     "metin": "Ligamento espiral",
+     "cumle": 2
+    },
+    {
+     "parca": "stria_vaskularis",
+     "metin": "Estría vascular",
+     "cumle": 3
+    },
+    {
+     "parca": "scala_media",
+     "metin": "Endolinfa",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El potasio que entra en la célula no se queda allí; sale por canales situados en la base de la célula ciliada.",
+    "Como el líquido que rodea la base es pobre en potasio, esta salida también ocurre de forma espontánea.",
+    {
+     "yazi": "El potasio se transporta por uniones en hendidura a lo largo de las células de sostén y del ligamento espiral (ligamentum spirale)."
+    },
+    "La estría vascular vuelve a bombear el potasio hacia la endolinfa, y el ciclo se completa.",
+    {
+     "yazi": "Una proteína llamada conexina 26 forma parte de estas uniones; su gen se conoce como GJB2."
+    },
+    {
+     "yazi": "Los cambios en GJB2 están entre las causas más comunes de hipoacusia hereditaria no sindrómica en muchas poblaciones, incluida la de Turquía."
+    }
+   ],
+   "ayar": {
+    "potasyum": true,
+    "potasyum_cumle": 0
+   }
+  },
+  {
+   "id": "sinaps",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Sinapsis y nervio",
+   "baslik": "La señal pasa al *nervio*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "célula ciliada interna",
+     "cumle": 0
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "fibras aferentes tipo I",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 0
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Despolarización: entra _calcio_",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Se libera _glutamato_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "La fibra nerviosa _descarga_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 0,
+     "olcek": 2.0
+    }
+   ],
+   "cumleler": [
+    "Veamos ahora la base de la célula ciliada interna, donde la información pasa al nervio.",
+    "Cuando la célula se despolariza, se abren los canales de calcio dependientes de voltaje de la base y el calcio entra en la célula.",
+    "El calcio hace que las vesículas sinápticas se fusionen con la membrana celular y liberen el neurotransmisor glutamato.",
+    {
+     "yazi": "El glutamato inicia un impulso nervioso, un potencial de acción, en las fibras aferentes tipo I conectadas con la célula ciliada interna."
+    },
+    "En esta sinapsis, las vesículas se alinean alrededor de una estructura especial llamada cinta sináptica.",
+    "La sinapsis en cinta permite una liberación muy rápida y sostenida; de ella depende la precisión temporal de la audición."
+   ]
+  },
+  {
+   "id": "otoferlin",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Sinapsis y nervio",
+   "baslik": "Cuando falla la sinapsis: la *neuropatía*",
+   "maddeler": [
+    {
+     "metin": "_Otoferlina_: un sensor de calcio",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Defecto en OTOF: _falla la liberación_",
+     "cumle": 1,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Las _OEA_ se pueden medir",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_PEATC_ ausentes o muy alterados",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Trastorno del _espectro_ de la neuropatía auditiva",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "oae",
+    "ayar": {
+     "tur": "TEOAE"
+    },
+    "vurgula": [
+     {
+      "parca": "yanit",
+      "cumle": 2
+     }
+    ],
+    "cumle": 2
+   },
+   "cumleler": [
+    "Una de las proteínas que detectan el calcio durante la liberación es la otoferlina.",
+    {
+     "yazi": "Con ciertos cambios en el gen de la otoferlina, OTOF, la célula ciliada funciona, pero la liberación en la sinapsis falla."
+    },
+    "Como las células ciliadas externas están intactas, se pueden medir las otoemisiones acústicas (OEA).",
+    "Sin embargo, los potenciales evocados auditivos de tronco cerebral (PEATC) pueden estar ausentes o muy alterados.",
+    "Este cuadro es una de las causas del trastorno del espectro de la neuropatía auditiva.",
+    {
+     "yazi": "La hipoacusia causada por OTOF es hoy uno de los principales objetivos de la investigación en terapia génica."
+    }
+   ]
+  },
+  {
+   "id": "iki_gorev",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Sinapsis y nervio",
+   "baslik": "La misma transducción, *dos funciones*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "célula ciliada interna: sensorial",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "células ciliadas externas: cambian de longitud",
+     "cumle": 2
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "membrana basilar",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "tuy_hucreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 2
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Interna: _glutamato_, señal al nervio",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Externa: se _acorta_ y se alarga",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Da _fuerza_ a los sonidos débiles",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "La transducción empieza igual en las células ciliadas internas y externas, pero el resultado es distinto.",
+    "En la célula ciliada interna, la despolarización lleva a la liberación de glutamato; por eso las internas son las verdaderas células sensoriales.",
+    "En la célula ciliada externa, la despolarización acorta la célula y la hiperpolarización la alarga.",
+    "Este movimiento refuerza la vibración de la membrana basilar y ayuda sobre todo a detectar los sonidos débiles.",
+    "Estudiaremos este mecanismo, el amplificador coclear, en detalle en la próxima lección."
+   ]
+  },
+  {
+   "id": "pil_zayif",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Vínculos clínicos",
+   "baslik": "Cuando la batería se *agota*",
+   "maddeler": [
+    {
+     "metin": "El potencial endococlear _baja_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La _sensibilidad_ cae en toda la cóclea",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Audiograma: _plano_ o levemente descendente",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Tipo _estrial_ de la pérdida por edad",
+     "cumle": 4,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Algunos diuréticos: caída _temporal_",
+     "cumle": 5,
+     "ikon": "ilac"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        40,
+        40,
+        40,
+        45,
+        50,
+        55
+       ],
+       "cumle": 3
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        40,
+        45,
+        45,
+        45,
+        50,
+        55
+       ],
+       "cumle": 3
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Cuando la estría vascular se debilita, el potencial endococlear baja y disminuye la fuerza impulsora de la transducción.",
+    "Entonces la sensibilidad cae a lo largo de la cóclea, aunque las células ciliadas estén intactas.",
+    "La pérdida auditiva resultante suele dar un audiograma plano o levemente descendente.",
+    "En este ejemplo, ambos oídos muestran una pérdida casi plana de entre cuarenta y cincuenta y cinco decibeles.",
+    "El tipo estrial, o metabólico, de la pérdida auditiva relacionada con la edad se explica por este mecanismo.",
+    "Algunos diuréticos, como la furosemida, también pueden bajar temporalmente el potencial endococlear."
+   ]
+  },
+  {
+   "id": "ototoksik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Vínculos clínicos",
+   "baslik": "Un *peligro* que entra por el canal",
+   "maddeler": [
+    {
+     "metin": "Los aminoglucósidos pueden entrar _por el canal_",
+     "cumle": 1,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "El daño suele empezar _en la base_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "En el seguimiento importan los _agudos_",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_acik",
+    "ayar": {
+     "frekans": 8000
+    },
+    "vurgula": [
+     {
+      "parca": "taban",
+      "cumle": 2
+     }
+    ],
+    "cumle": 2
+   },
+   "cumleler": [
+    "Lamentablemente, el canal de transducción también es una vía de entrada para algunos fármacos.",
+    "Se ha demostrado que antibióticos aminoglucósidos como la gentamicina entran en las células ciliadas en gran parte por estos canales.",
+    "El daño suele comenzar en las células ciliadas externas de la base de la cóclea.",
+    "Por eso, las frecuencias agudas son especialmente importantes al vigilar la audición de personas que reciben fármacos ototóxicos."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Vínculos clínicos",
+   "baslik": "Cómo se *registra* la transducción",
+   "maddeler": [
+    {
+     "metin": "Microfónico coclear: _MC_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Potencial de suma: _PS_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Respuesta del nervio: _onda I_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Registro: _ECochG_ y PEATC",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "abr",
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 3
+     }
+    ],
+    "cumle": 3
+   },
+   "cumleler": [
+    "La respuesta eléctrica que sigue la forma de onda del estímulo se llama microfónico coclear (MC).",
+    "El MC proviene principalmente de las corrientes de transducción de las células ciliadas externas.",
+    "El componente de corriente continua que desplaza la línea de base durante el estímulo se llama potencial de suma (PS).",
+    {
+     "yazi": "La respuesta que forma la descarga sincrónica de las fibras nerviosas corresponde a la onda I de los PEATC."
+    },
+    {
+     "yazi": "Estos potenciales pueden estudiarse con la electrococleografía (ECochG) y en el registro de los PEATC."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 5",
+   "bolum": "Vínculos clínicos",
+   "baslik": "Consejo clínico",
+   "metin": "Si hay OEA pero los PEATC están ausentes o alterados, el problema puede estar más allá de las células externas. Registrar los PEATC en ambas polaridades para identificar el MC.",
+   "cumle": 1,
+   "cumleler": [
+    "Un consejo de la práctica: conocer la cadena de transducción facilita interpretar los resultados de las pruebas.",
+    "Si se pueden medir las OEA pero los PEATC están ausentes o muy alterados, el problema puede estar después de las células externas.",
+    "Esos eslabones son la célula ciliada interna, su sinapsis o el nervio auditivo.",
+    "En un registro así, obtener los PEATC con dos polaridades separadas distingue el MC, que se invierte con la polaridad, de la respuesta neural."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "La inclinación _tensa los enlaces_ y abre canales",
+     "cumle": 0,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Entra potasio, la célula _se despolariza_",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Fuente de energía: potencial endococlear de _+80 mV_",
+     "cumle": 2,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Las células internas liberan _glutamato_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "La inclinación de los estereocilios hacia el más alto tensa los enlaces de punta y abre los canales iónicos.",
+    "El potasio fluye de la endolinfa hacia la célula, y la célula ciliada se despolariza.",
+    "La fuerza impulsora de este flujo es el potencial endococlear de unos más ochenta milivoltios, generado por la estría vascular.",
+    "Con la entrada de calcio, la célula ciliada interna libera glutamato y excita el nervio auditivo."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Qué estructura genera el potencial endococlear?",
+   "secenekler": [
+    "Membrana basilar",
+    "Estría vascular",
+    "Membrana tectoria",
+    "Membrana de Reissner"
+   ],
+   "dogru": 1,
+   "aciklama": "La _estría vascular_ bombea potasio hacia la endolinfa y genera el potencial de unos +80 mV.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué estructura genera el potencial endococlear?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: la estría vascular."
+    },
+    "La estría vascular bombea potasio hacia la endolinfa y genera el potencial endococlear de unos más ochenta milivoltios."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Amplificador* coclear: células ciliadas externas",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo las células ciliadas externas cambian su longitud y cómo contribuye el amplificador coclear a la audición.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

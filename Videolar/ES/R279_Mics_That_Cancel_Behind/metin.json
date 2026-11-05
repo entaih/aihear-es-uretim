@@ -1,0 +1,107 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R279_Mics_That_Cancel_Behind_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #279",
+  "baslik": "Cancelar el sonido *de atrás*",
+  "alt": "Cómo funcionan los micrófonos direccionales",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "BTE"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Cómo suprime un micrófono direccional el sonido que viene de atrás? #shorts",
+  "aciklama": "Un sistema direccional usa dos micrófonos separados por alrededor de un centímetro; el procesador retrasa brevemente la señal del micrófono trasero y la resta de la del delantero, de modo que el sonido que viene de atrás se cancela. El beneficio es mayor cuando el oyente mira a un hablante cercano y el ruido está detrás.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audifonos",
+   "microfonos"
+  ],
+  "etiketler": [
+   "micrófono direccional",
+   "micrófono omnidireccional",
+   "patrón polar",
+   "relación señal-ruido",
+   "habla en ruido",
+   "audífono",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Cómo suprime un micrófono direccional el sonido que viene de atrás?",
+  "bilgiler": [
+   "El audífono tiene dos micrófonos separados por alrededor de un centímetro.",
+   "Retrasar y restar la señal trasera cancela el sonido de atrás.",
+   "El beneficio es mayor de frente al hablante, con el ruido detrás."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "microfonos"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #279",
+   "metin": "¿Adónde va el sonido *de atrás*?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Cómo suprime un micrófono direccional el sonido que viene de atrás?"
+   ]
+  },
+  {
+   "id": "yonlu",
+   "tur": "zincir",
+   "baslik": "*Dos micrófonos*, un retraso",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Micrófono frontal",
+     "tr": "llega primero",
+     "cumle": 0
+    },
+    {
+     "ad": "Retraso",
+     "tr": "señal trasera",
+     "cumle": 1
+    },
+    {
+     "ad": "Resta",
+     "tr": "anula lo trasero",
+     "cumle": 2
+    }
+   ],
+   "alt": "_Mirar_ al hablante",
+   "alt_cumle": 4,
+   "cumleler": [
+    "El audífono tiene dos micrófonos separados por alrededor de un centímetro.",
+    "El procesador retrasa la señal trasera y luego la resta de la delantera.",
+    "Con el retraso adecuado, el sonido de atrás coincide en ambas señales y se cancela.",
+    "El sonido que llega de frente no se cancela; el hablante se destaca.",
+    "El beneficio es mayor cuando se mira al hablante y el ruido está detrás."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D183",
+ "kaynak_baslik": "Micrófonos direccionales y reducción de ruido"
+}

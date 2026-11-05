@@ -1,0 +1,107 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R280_Why_Aids_Whistle_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #280",
+  "baslik": "Por qué *silban* los audífonos",
+  "alt": "El lazo de retroalimentación acústica",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Por qué silba un audífono? #shorts",
+  "aciklama": "La retroalimentación acústica ocurre cuando el sonido del receptor se escapa por la ventilación o por los bordes del molde y vuelve a llegar al micrófono; el audífono lo amplifica otra vez y, a medida que el lazo se alimenta a sí mismo, aparece un silbido. Ante cualquier queja de silbido, el primer paso es mirar el conducto auditivo con un otoscopio; el cerumen es una causa frecuente.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audifonos",
+   "retroalimentacion"
+  ],
+  "etiketler": [
+   "retroalimentación acústica",
+   "silbido del audífono",
+   "ventilación",
+   "molde auricular",
+   "cancelación de la retroalimentación",
+   "otoscopia",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Por qué silba un audífono?",
+  "bilgiler": [
+   "El sonido escapa por la ventilación o los bordes del molde hacia el micrófono.",
+   "El audífono lo amplifica otra vez; al crecer el lazo, aparece el silbido.",
+   "Ante un silbido nuevo, primero hay que mirar el conducto auditivo."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "retroalimentacion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #280",
+   "metin": "¿De dónde sale ese *silbido*?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Por qué silba un audífono?"
+   ]
+  },
+  {
+   "id": "dongu",
+   "tur": "zincir",
+   "baslik": "El *lazo* de retroalimentación",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Receptor",
+     "tr": "entrega el sonido",
+     "cumle": 0
+    },
+    {
+     "ad": "Fuga",
+     "tr": "ventilación y bordes",
+     "cumle": 1
+    },
+    {
+     "ad": "Micrófono",
+     "tr": "amplifica otra vez",
+     "cumle": 2
+    }
+   ],
+   "alt": "Primero, _otoscopia_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "El receptor entrega el sonido amplificado al conducto auditivo.",
+    "Una parte se escapa por la ventilación o por los espacios alrededor del molde.",
+    "El sonido que escapa llega al micrófono, y el audífono lo amplifica otra vez.",
+    "A medida que el lazo se alimenta a sí mismo, aparece un silbido constante.",
+    "Ante un silbido nuevo, primero se revisa el conducto auditivo con un otoscopio."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D184",
+ "kaynak_baslik": "Retroalimentación acústica y efecto de oclusión"
+}

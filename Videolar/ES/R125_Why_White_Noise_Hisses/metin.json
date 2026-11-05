@@ -1,0 +1,106 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R125_Why_White_Noise_Hisses_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #125",
+  "baslik": "Por qué el ruido blanco *sisea*",
+  "alt": "Cada octava es el doble de ancha que la anterior",
+  "cizim": "maskeleme",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Por qué el ruido blanco suena tan agudo? #shorts",
+  "aciklama": "El ruido blanco tiene la misma energía en cada banda de 1 Hz. Como cada octava es el doble de ancha que la anterior, la energía por octava aumenta 3 dB, y por eso el ruido blanco suena como un siseo agudo.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "acustica",
+   "ruido"
+  ],
+  "etiketler": [
+   "ruido blanco",
+   "ruido rosa",
+   "octava",
+   "espectro",
+   "tipos de ruido",
+   "enmascaramiento",
+   "acústica",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Por qué el ruido blanco suena tan agudo?",
+  "bilgiler": [
+   "Cada octava es el doble de ancha que la anterior.",
+   "El ruido blanco tiene igual energía por hertz; sube 3 dB por octava.",
+   "El ruido rosa tiene igual energía por octava y suena más equilibrado."
+  ],
+  "hashtag": [
+   "audiologia",
+   "acustica",
+   "ruido"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #125",
+   "metin": "¿Por qué el ruido blanco suena a *siseo?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Por qué el ruido blanco suena como un siseo agudo?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Cada octava es el *doble* de ancha",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "250-500 Hz",
+     "tr": "250 Hz de ancho",
+     "cumle": 0
+    },
+    {
+     "ad": "1000-2000 Hz",
+     "tr": "1000 Hz de ancho",
+     "cumle": 0,
+     "gecikme": 0.7
+    },
+    {
+     "ad": "4000-8000 Hz",
+     "tr": "4000 Hz de ancho",
+     "cumle": 0,
+     "gecikme": 1.4
+    }
+   ],
+   "alt": "Ruido blanco: _+3 dB por octava_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "Cada octava es el doble de ancha que la anterior.",
+    "El ruido blanco tiene la misma energía en cada banda de un hertz.",
+    "Así, la energía de cada octava se duplica y sube tres decibeles.",
+    "El ruido rosa tiene la misma energía por octava y suena más equilibrado."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D040",
+ "kaynak_baslik": "Tipos de ruido: blanco, rosa y de banda estrecha"
+}

@@ -1,0 +1,131 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R062_Three_Decibel_Rule_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #62",
+  "baslik": "3 dB: *la mitad del tiempo*",
+  "alt": "El principio de igual energía y la dosis de ruido",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      30,
+      50,
+      40,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      35,
+      55,
+      45,
+      25
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Qué cambia cuando el ruido sube solo tres decibeles? #shorts",
+  "aciklama": "Para una jornada laboral de ocho horas, 85 dB(A) es un nivel de referencia importante. Según el principio de igual energía, cada aumento de 3 dB reduce a la mitad el tiempo que produce la misma dosis: unas 4 horas a 88 dB(A) y unas 2 horas a 91 dB(A).",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "ruido",
+   "audicion"
+  ],
+  "etiketler": [
+   "dosis de ruido",
+   "principio de igual energía",
+   "85 dBA",
+   "tasa de intercambio de 3 dB",
+   "salud ocupacional",
+   "hipoacusia inducida por ruido",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Qué cambia cuando el ruido sube solo tres decibeles?",
+  "bilgiler": [
+   "Para una jornada de 8 horas, 85 dB(A) es una referencia importante.",
+   "Cada aumento de 3 dB reduce a la mitad el tiempo para la misma dosis.",
+   "Unas 4 horas a 88 dB(A), unas 2 horas a 91 dB(A)."
+  ],
+  "hashtag": [
+   "audiologia",
+   "ruido",
+   "audicion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #62",
+   "metin": "¿Y si el ruido sube solo *tres decibeles?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Qué cambia cuando el ruido sube solo tres decibeles?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Cada *3 dB*, la mitad del tiempo",
+   "sayi": "3",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Para una jornada laboral de ocho horas, ochenta y cinco decibeles A es una referencia clave.",
+    "Según el principio de igual energía, cada tres decibeles el tiempo se reduce a la mitad.",
+    "A ochenta y ocho decibeles A, el tiempo baja a unas cuatro horas.",
+    "A noventa y un decibeles A, a unas dos horas."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D140",
+ "kaynak_baslik": "Hipoacusia inducida por ruido y la muesca en 4 kHz"
+}

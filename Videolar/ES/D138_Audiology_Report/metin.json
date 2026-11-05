@@ -1,0 +1,867 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D138_Audiology_Report_ES",
+ "kapak": {
+  "ust": "LECCIÓN 138",
+  "baslik": "El informe<br>*audiológico*",
+  "alt": "Hallazgos, interpretación, recomendaciones",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      20,
+      25,
+      30,
+      40,
+      50,
+      55
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      20,
+      25,
+      30,
+      45,
+      50,
+      60
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Cómo redactar un informe audiológico claro | Lección 138 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos cómo convertir los hallazgos de las pruebas en un informe audiológico claro y bien organizado. Con un caso solo de ejemplo, vemos las secciones del informe, las condiciones de la prueba y su confiabilidad, la diferencia entre interpretación y diagnóstico, la redacción de recomendaciones y un lenguaje sencillo para pacientes y médicos.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Preferred Practice Patterns for the Profession of Audiology; Ley n.º 6698 de Protección de Datos Personales (KVKK), Turquía.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "informeaudiologico",
+   "audicion"
+  ],
+  "etiketler": [
+   "informe audiológico",
+   "cómo redactar un informe audiológico",
+   "redacción de informes clínicos",
+   "interpretación del audiograma",
+   "recomendaciones audiológicas",
+   "audiograma",
+   "grado de pérdida auditiva",
+   "documentación clínica",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 138",
+   "baslik": "Cómo redactar el *informe* audiológico",
+   "alt": "Hallazgos, interpretación y recomendaciones",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprenderemos a convertir los hallazgos de las pruebas en un informe audiológico claro, bien organizado y comprensible.",
+    "Con un caso solo de ejemplo, veremos las secciones del informe, la diferencia entre interpretación y diagnóstico, y la redacción de recomendaciones."
+   ]
+  },
+  {
+   "id": "okur",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Propósito del informe",
+   "baslik": "¿*Para quién* es el informe?",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Médico",
+     "metin": "Resumen para decidir",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Paciente y familia",
+     "metin": "Una explicación clara",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Otro audiólogo",
+     "metin": "Detalle para comparar",
+     "cumle": 3
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Instituciones",
+     "metin": "Escuela, empleador, junta médica",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Un informe audiológico es el registro escrito de los resultados de las pruebas, su interpretación y las recomendaciones."
+    },
+    "Quien lee el informe con más frecuencia es el médico, que basará sus decisiones en esta información.",
+    "El paciente y su familia también leen el informe; para ellos importa qué significa el resultado en la vida diaria.",
+    "Otro audiólogo que evalúe a la misma persona años después necesita detalles para comparar.",
+    "Instituciones como escuelas, empleadores o juntas médicas también pueden usar el informe con distintos fines.",
+    "Un buen informe tiene presentes las necesidades de cada uno de estos lectores; es claro, breve, preciso y objetivo."
+   ]
+  },
+  {
+   "id": "bolumler",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Estructura del informe",
+   "baslik": "*Secciones* del informe",
+   "adimlar": [
+    {
+     "ikon": "rapor",
+     "baslik": "Datos y motivo",
+     "metin": "¿Quién, cuándo, por qué?",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Anamnesis",
+     "metin": "Breve y pertinente",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Hallazgos",
+     "metin": "Un resumen ordenado",
+     "cumle": 2
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Interpretación",
+     "metin": "¿Qué dicen los hallazgos?",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Recomendaciones",
+     "metin": "¿Qué hay que hacer?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El informe comienza con los datos de identificación, la fecha de la prueba y el motivo de derivación: ¿quién envió a la persona y con qué pregunta?",
+    "Luego se resumen brevemente las quejas y los antecedentes pertinentes.",
+    "La sección de hallazgos presenta los resultados de las pruebas realizadas en un orden claro y constante.",
+    "La sección de interpretación explica qué dicen los hallazgos tomados en conjunto.",
+    "La sección de recomendaciones indica con claridad qué debe hacerse a continuación.",
+    "Este orden permite que cada lector encuentre rápido la información que busca."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Estructura del informe",
+   "baslik": "Motivo de derivación y *anamnesis*",
+   "maddeler": [
+    {
+     "metin": "Quién deriva y _qué pregunta_",
+     "cumle": 0,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Quejas: _lado, duración, evolución_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Solo antecedentes _pertinentes_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Datos personales: la _confidencialidad_ es esencial",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PREGUNTA DE EJEMPLO",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "hekim",
+      "baslik": "Derivado por",
+      "metin": "Médico otorrinolaringólogo",
+      "cumle": 0
+     },
+     {
+      "ikon": "soru",
+      "baslik": "Pregunta",
+      "metin": "¿Nivel auditivo y tipo de pérdida?",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "El motivo de derivación indica quién derivó a la persona y qué pregunta necesita respuesta.",
+    "Al escribir las quejas, se dan en frases cortas detalles como el lado, el momento de inicio y la evolución.",
+    "La anamnesis incluye solo información que influye en el resultado, como exposición al ruido, cirugías de oído o antecedentes familiares de pérdida auditiva.",
+    "Los datos personales innecesarios no se escriben en el informe.",
+    {
+     "yazi": "En Turquía, la Ley de Protección de Datos Personales, la Ley 6698, protege los datos de salud como una categoría especial de datos personales."
+    },
+    "Por eso, los informes se comparten solo con personas autorizadas y se guardan de forma segura."
+   ]
+  },
+  {
+   "id": "bulgular",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Estructura del informe",
+   "baslik": "Un resumen *ordenado* de los hallazgos",
+   "sutunlar": [
+    "Prueba",
+    "Qué incluye el informe"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Otoscopia",
+      "Conducto y membrana timpánica"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Audiometría tonal",
+      "Tipo, grado, configuración"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Logoaudiometría",
+      "URP, puntaje de palabras"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Inmitancia",
+      "Timpanograma, reflejos"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Otras pruebas",
+      "Como OEA, PEATC"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Confiabilidad",
+      "Buena, regular, mala"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "La sección de hallazgos suele comenzar con la otoscopia: se describe brevemente el aspecto del conducto auditivo y de la membrana timpánica.",
+    "Los resultados tonales se resumen para cada oído según el tipo, el grado y la configuración de la pérdida; el audiograma se adjunta al informe.",
+    "En la logoaudiometría, el umbral de recepción de la palabra (URP) y el porcentaje de reconocimiento de palabras se dan con sus niveles de prueba.",
+    "La sección de inmitancia incluye el tipo de timpanograma, los valores relacionados y los hallazgos del reflejo acústico.",
+    "Si se realizaron, también se añaden los resultados de las otoemisiones acústicas (OEA) y de los potenciales evocados auditivos de tronco cerebral (PEATC).",
+    "Por último, se indica la confiabilidad de la prueba; para el lector es muy importante saber si las respuestas de la persona fueron coherentes."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Estructura del informe",
+   "baslik": "Registrar las *condiciones* de la prueba",
+   "maddeler": [
+    {
+     "metin": "Transductor: _de inserción o supraaural_",
+     "cumle": 0,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Enmascaramiento: ¿_se usó_, y dónde?",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Material de habla: _grabado o en vivo_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Método y _desviaciones_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 0
+     },
+     {
+      "parca": "kemik_vibratoru",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Las condiciones de la prueba se registran brevemente para poder comparar bien los resultados; por ejemplo, el tipo de auricular utilizado.",
+    "Si se usó enmascaramiento, se indica en qué oído y en qué prueba.",
+    "En la logoaudiometría se anota si se usó material grabado o voz viva monitorizada, y qué lista se eligió.",
+    "Si hubo alguna desviación del método estándar, por ejemplo una audiometría por juego con un niño, también se anota.",
+    "Estos detalles garantizan que una prueba posterior en otro centro sea realmente comparable."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Interpretación",
+   "baslik": "*Cómo* redactar la interpretación",
+   "maddeler": [
+    {
+     "metin": "Tipo: conductiva, _neurosensorial_, mixta",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Grado: según la _clasificación_ usada",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Configuración y _simetría_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Comparación_ con pruebas previas",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Hallazgos _concordantes entre sí_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 1,
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        30,
+        40,
+        50,
+        55
+       ],
+       "cumle": 1
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        30,
+        45,
+        50,
+        60
+       ],
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "La interpretación indica primero el tipo de pérdida en cada oído: conductiva, neurosensorial o mixta."
+    },
+    "Luego se escribe el grado según la clasificación que usa el centro; por ejemplo, leve, moderado o severo.",
+    "También se describen la configuración, es decir, descendente, plana o con muesca, y la simetría entre los oídos.",
+    "Si hay una prueba previa, se indica claramente si hubo algún cambio.",
+    "Por último, se señala si los resultados de habla, de inmitancia y de otras pruebas concuerdan con el audiograma.",
+    "La interpretación debe ser breve; el lector debe captar la situación en pocas frases."
+   ]
+  },
+  {
+   "id": "tani_degil",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Interpretación",
+   "baslik": "Interpretar no es *diagnosticar*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Adecuado",
+     "metin": "Hipoacusia neurosensorial moderada, oído izquierdo",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Adecuado",
+     "metin": "Puede ser compatible con un proceso retrococlear",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "No adecuado",
+     "metin": "El paciente tiene un tumor",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Una interpretación audiológica describe la función auditiva; no hace un diagnóstico médico.",
+    "Por ejemplo, hipoacusia neurosensorial moderada en el oído izquierdo es una interpretación audiológica adecuada.",
+    "Si los hallazgos apuntan a una posibilidad, se usa un lenguaje prudente, como puede ser compatible con un proceso retrococlear.",
+    "Frases como el paciente tiene un tumor, o debe usarse este medicamento, exceden los límites de un informe audiológico.",
+    "El diagnóstico médico y las decisiones de tratamiento corresponden al médico; el informe aporta información confiable para esa decisión."
+   ]
+  },
+  {
+   "id": "oneriler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Recomendaciones",
+   "baslik": "Ejemplos de *recomendaciones*",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Derivación médica",
+     "metin": "Indicar el motivo con claridad",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Evaluación de audífonos",
+     "metin": "Si corresponde",
+     "cumle": 1
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Control",
+     "metin": "Indicar el plazo",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Prueba adicional",
+     "metin": "Por ejemplo PEATC, OEA",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Comunicación",
+     "metin": "Estrategias, orientación",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En la sección de recomendaciones se escribe claramente cualquier derivación al médico y su motivo."
+    },
+    "Si la pérdida auditiva lo justifica, se recomienda una evaluación de audífonos.",
+    "Cuando se recomienda un control, se indica su plazo; en lugar de un vago según necesidad, escriban, por ejemplo, en seis meses.",
+    "Si queda una pregunta sin responder, se recomiendan pruebas adicionales como los PEATC o las OEA.",
+    "Las recomendaciones sobre estrategias de comunicación y orientación también contribuyen directamente a la vida diaria de la persona."
+   ]
+  },
+  {
+   "id": "dil",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Recomendaciones",
+   "baslik": "Lenguaje *sencillo*",
+   "maddeler": [
+    {
+     "metin": "_Desarrollar_ las siglas la primera vez",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Frases cortas, _una idea_",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Un resumen en _lenguaje cotidiano_ para el paciente",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Números e interpretación _deben concordar_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "MISMO HALLAZGO",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "hekim",
+      "baslik": "Al médico",
+      "metin": "Hipoacusia neurosensorial bilateral leve a moderada",
+      "cumle": 2
+     },
+     {
+      "ikon": "hasta",
+      "baslik": "Al paciente",
+      "metin": "Le cuesta oír algunos sonidos del habla",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Las siglas se desarrollan la primera vez que aparecen; no se puede esperar que todo lector sepa qué significan URP o PEATC.",
+    "Las frases cortas y los párrafos de una sola idea facilitan la lectura.",
+    "El resumen técnico para el médico puede complementarse con una breve explicación en lenguaje cotidiano para el paciente.",
+    "Por ejemplo, se le puede decir al paciente que su pérdida auditiva le dificulta sobre todo oír los sonidos del habla suaves y agudos.",
+    "Los números del informe y la interpretación no deben contradecirse; una contradicción socava la confianza del lector."
+   ]
+  },
+  {
+   "id": "ornek_odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 5",
+   "bolum": "Informe de ejemplo",
+   "baslik": "Caso de ejemplo: el *audiograma*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Vía aérea derecha",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Vía aérea izquierda",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Vía ósea derecha",
+     "cumle": 2
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "Vía ósea izquierda",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       30,
+       40,
+       50,
+       55
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       30,
+       45,
+       50,
+       60
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       15,
+       25,
+       30,
+       40,
+       50
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       15,
+       25,
+       30,
+       45,
+       50
+      ],
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Redactemos ahora un informe para un caso solo de ejemplo; estos datos no pertenecen a un paciente real.",
+    "Una persona de ejemplo de sesenta y ocho años dice que le cuesta seguir las conversaciones entre mucha gente; los umbrales son similares en ambos oídos.",
+    "Los umbrales de vía ósea se superponen con la vía aérea; es decir, no hay brecha aéreo-ósea.",
+    "La pérdida aumenta hacia las frecuencias agudas, y no hay una asimetría significativa entre los oídos.",
+    {
+     "yazi": "El promedio de tonos puros es de unos 30 a 35 dB HL en ambos oídos; esto corresponde a un grado leve."
+    }
+   ]
+  },
+  {
+   "id": "ornek_rapor",
+   "tur": "tablo",
+   "bolum_no": "PARTE 5",
+   "bolum": "Informe de ejemplo",
+   "baslik": "Informe de ejemplo: *resumen*",
+   "sutunlar": [
+    "Sección",
+    "Redacción de ejemplo"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Motivo de derivación",
+      "Dificultad entre mucha gente"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Audiometría tonal",
+      "Hipoacusia neurosensorial bilateral"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Grado, forma",
+      "Leve a moderada, descendente"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Logoaudiometría",
+      "Acordes con la pérdida"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Inmitancia",
+      "Tipo A, reflejos esperados"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Recomendación 1",
+      "Examen de ORL"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Recomendación 2",
+      "Evaluar audífonos, control"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "En el informe de ejemplo, el motivo de derivación se escribe como dificultad para entender el habla en ambientes concurridos.",
+    "Interpretación: hipoacusia neurosensorial bilateral, simétrica, de leve a moderada, descendente hacia las frecuencias agudas.",
+    "Los porcentajes de reconocimiento de palabras de ambos oídos concuerdan con el grado de pérdida.",
+    "Los timpanogramas son tipo A en ambos oídos, y los reflejos acústicos están presentes en los niveles esperados para la audición.",
+    "La primera recomendación es un examen de otorrinolaringología (ORL); la evaluación médica corresponde al médico.",
+    "Luego se recomiendan una evaluación de audífonos, estrategias de comunicación y un audiograma de control en un año.",
+    "Este ejemplo solo muestra el lenguaje del informe; en un caso real, las recomendaciones se basan en todos los hallazgos de la persona."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Al terminar el informe, léelo como un colega que no estuvo en la prueba: ¿solo con el informe puede entender la situación y qué hacer después?",
+   "cumleler": [
+    "Un consejo clínico: al terminar el informe, vuelvan a leerlo con los ojos de un colega que no estuvo presente en la prueba.",
+    "Solo con el informe, ¿podría entender el estado auditivo de la persona y qué debe hacerse a continuación?",
+    "Si la respuesta es no, lo que falta suele ser la interpretación o una recomendación clara.",
+    "No olviden añadir al informe la fecha, su firma y sus datos de contacto."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Informe de ejemplo",
+   "baslik": "Errores *frecuentes*",
+   "maddeler": [
+    {
+     "metin": "Solo números, _sin interpretación_",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Recomendaciones vagas o _ausentes_",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "_Afirmaciones_ diagnósticas",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sin registrar confiabilidad ni _condiciones_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "REVISIÓN",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Lectura final",
+      "metin": "¿Coherente y completo?",
+      "cumle": 4
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Fecha, firma",
+      "metin": "¿Datos de contacto añadidos?",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "El error más frecuente es un informe que solo enumera números, sin ninguna interpretación.",
+    "Dejar la sección de recomendaciones vacía o vaga también deja al lector sin rumbo.",
+    "Las afirmaciones que hacen un diagnóstico médico exceden los límites profesionales y pueden malinterpretarse.",
+    "No registrar la confiabilidad y las condiciones de la prueba dificulta las comparaciones posteriores.",
+    "Una breve lectura final evita la mayoría de estos errores."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Secciones: motivo, anamnesis, _hallazgos_, interpretación, recomendaciones",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Registrar condiciones y _confiabilidad_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "La interpretación describe la función, _no diagnostica_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Recomendaciones _claras_ y con plazo",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Un buen informe tiene secciones para el motivo de derivación, la anamnesis, los hallazgos, la interpretación y las recomendaciones.",
+    "Las condiciones de la prueba y la confiabilidad de las respuestas se registran para poder comparar bien los resultados.",
+    "Una interpretación audiológica describe la función auditiva; el diagnóstico médico y las decisiones de tratamiento corresponden al médico.",
+    "Las recomendaciones se escriben de forma clara y práctica, con plazos cuando es necesario."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cuál es una interpretación audiológica adecuada?",
+   "secenekler": [
+    "El paciente tiene un tumor",
+    "Hipoacusia neurosensorial moderada",
+    "Se necesita este medicamento"
+   ],
+   "dogru": 1,
+   "aciklama": "Una interpretación audiológica _describe_ la función auditiva; el diagnóstico y el tratamiento corresponden al médico.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál de las siguientes es una interpretación audiológica adecuada?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: hipoacusia neurosensorial moderada.",
+    "Las otras dos afirmaciones entran en el diagnóstico médico y el tratamiento; son responsabilidad del médico."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Presbiacusia: pérdida auditiva relacionada con la *edad*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección conoceremos la pérdida auditiva relacionada con la edad, o presbiacusia.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

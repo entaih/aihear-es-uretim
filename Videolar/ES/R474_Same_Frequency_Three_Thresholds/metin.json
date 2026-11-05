@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R474_Same_Frequency_Three_Thresholds_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #474",
+  "baslik": "Una frecuencia, *tres umbrales*",
+  "alt": "Consistencia en la repetición",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Y si tres mediciones en una frecuencia dan tres umbrales distintos? #shorts",
+  "aciklama": "En el caso de ejemplo, el umbral izquierdo en 1000 hertz fue de 70, 55 y 70 dB en tres mediciones separadas; en una pérdida orgánica, las repeticiones suelen coincidir dentro de cinco decibeles. Esta variación es una señal de alerta, pero no lleva a una conclusión por sí sola; se valora junto con el umbral de recepción de la palabra (URP), los reflejos acústicos, las otoemisiones acústicas (OEA) y las pruebas objetivas. Ante respuestas inconsistentes, no usamos un tono acusatorio; las instrucciones se vuelven a dar con calma y de forma sencilla.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audiograma",
+   "casoclinico"
+  ],
+  "etiketler": [
+   "seudohipoacusia",
+   "confiabilidad test-retest",
+   "respuestas inconsistentes",
+   "audiometría tonal",
+   "caso clínico",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Y si tres mediciones en una frecuencia dan tres umbrales distintos?",
+  "bilgiler": [
+   "En una pérdida orgánica, las repeticiones suelen coincidir dentro de 5 dB.",
+   "En el ejemplo, el mismo umbral dio 70, 55 y 70 dB.",
+   "El hallazgo es una alerta y se valora con las demás pruebas."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audiograma",
+   "casoclinico"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #474",
+   "metin": "¿Tres mediciones, *tres umbrales?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Y si tres mediciones en una frecuencia dan tres umbrales distintos?"
+   ]
+  },
+  {
+   "id": "tekrar",
+   "tur": "zincir",
+   "baslik": "Tres mediciones en *1000 Hz*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Medición 1",
+     "tr": "70 dB",
+     "cumle": 1
+    },
+    {
+     "ad": "Medición 2",
+     "tr": "55 dB",
+     "cumle": 1,
+     "gecikme": 0.5
+    },
+    {
+     "ad": "Medición 3",
+     "tr": "70 dB",
+     "cumle": 1,
+     "gecikme": 1.0
+    }
+   ],
+   "alt": "Lo esperado: _hasta 5 dB_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "El umbral izquierdo en mil hertz se midió tres veces.",
+    "Los resultados fueron setenta, cincuenta y cinco y setenta decibeles.",
+    "En una pérdida orgánica, las repeticiones suelen coincidir dentro de cinco decibeles.",
+    "Esta variación es una alerta, pero no una conclusión por sí sola.",
+    "Las instrucciones se vuelven a dar con calma, sin acusar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D277",
+ "kaynak_baslik": "Caso: respuestas inconsistentes y seudohipoacusia"
+}

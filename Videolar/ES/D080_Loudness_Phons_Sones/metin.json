@@ -1,0 +1,1042 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D080_Loudness_Phons_Sones_ES",
+ "kapak": {
+  "ust": "LECCIÓN 80",
+  "baslik": "*Fones* y sonios",
+  "alt": "Curvas de igual sonoridad",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "Percepción de la sonoridad: fones y sonios | Lección 80 | AIHEAR Academia de Audiología",
+  "aciklama": "La intensidad es física; la sonoridad es perceptiva. En esta lección vemos las curvas de igual sonoridad, las unidades fon y sonio, por qué 40 fones equivalen a 1 sonio, por qué un aumento de unos 10 fones duplica la sonoridad y qué significa esto en la clínica.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: ISO 226:2003, Acoustics: Normal equal-loudness-level contours; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Moore, An Introduction to the Psychology of Hearing; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "psicoacustica",
+   "sonoridad"
+  ],
+  "etiketler": [
+   "sonoridad",
+   "fon",
+   "sonio",
+   "curvas de igual sonoridad",
+   "curvas de Fletcher-Munson",
+   "ley de potencia de Stevens",
+   "escalamiento de sonoridad",
+   "rango dinámico",
+   "umbral de molestia",
+   "psicoacústica",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 80",
+   "baslik": "Sonoridad: *fones y sonios*",
+   "alt": "La intensidad es física, la sonoridad es perceptiva",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos qué tan fuerte se oye un sonido, es decir, la percepción de la sonoridad.",
+    "Conoceremos las curvas de igual sonoridad, las unidades fon y sonio, y lo que significan en la clínica."
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 1",
+   "bolum": "Intensidad y percepción",
+   "baslik": "¿Intensidad o *sonoridad*?",
+   "sol": {
+    "ust": "Intensidad (física)",
+    "maddeler": [
+     {
+      "metin": "Presión sonora o energía",
+      "cumle": 0
+     },
+     {
+      "metin": "La _mide_ un equipo: dB SPL",
+      "cumle": 1
+     },
+     {
+      "metin": "Se define _independientemente_ de la frecuencia",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Sonoridad (perceptiva)",
+    "maddeler": [
+     {
+      "metin": "La magnitud que el oyente _oye_",
+      "cumle": 3
+     },
+     {
+      "metin": "Se mide _preguntando_ al oyente",
+      "cumle": 4
+     },
+     {
+      "metin": "_Depende_ de la frecuencia y la duración",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "La intensidad es la magnitud física de un sonido; se relaciona con la presión sonora o con la energía que transporta el sonido.",
+    "La intensidad se mide con un sonómetro y suele expresarse en decibeles SPL.",
+    "Un mismo valor en decibeles SPL describe la misma magnitud física, sea cual sea la frecuencia.",
+    "La sonoridad, en cambio, es qué tan fuerte percibe el oyente el sonido; es una magnitud perceptiva.",
+    "Ningún equipo puede medir la sonoridad; la medimos preguntándole al oyente, es decir, con métodos psicoacústicos.",
+    "La sonoridad aumenta con la intensidad, pero también depende de la frecuencia, la duración y la estructura del sonido."
+   ]
+  },
+  {
+   "id": "olcek",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Intensidad y percepción",
+   "baslik": "El rango *amplio* del oído",
+   "cizim": "desibel_olcegi",
+   "vurgula": [
+    {
+     "parca": "fisilti",
+     "cumle": 1
+    },
+    {
+     "parca": "konusma",
+     "cumle": 2
+    },
+    {
+     "parca": "agri_esigi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Unos _120 dB_ del umbral al dolor",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La percepción funciona por _proporciones_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "El oído humano funciona en un rango de intensidades muy amplio.",
+    "En las frecuencias más sensibles, el umbral auditivo ronda los cero decibeles SPL; un susurro está un poco por encima.",
+    "El habla cotidiana ronda los sesenta decibeles SPL.",
+    "La sonoridad varía en un rango de unos ciento veinte decibeles, hasta el umbral del dolor.",
+    "Dentro de este rango la percepción no es lineal; duplicar la intensidad no hace que un sonido se oiga el doble de fuerte.",
+    "Para entender esta relación necesitamos dos unidades: el fon y el sonio."
+   ]
+  },
+  {
+   "id": "esitleme",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Igual sonoridad",
+   "baslik": "¿*Cómo* se obtienen las curvas?",
+   "maddeler": [
+    {
+     "metin": "Referencia: un tono de _1000 Hz_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Se _ajusta_ un tono de otra frecuencia",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Se _unen_ los niveles igual de fuertes",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Fletcher y Munson, _1933_",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "ses_dalgasi",
+    "ayar": {
+     "frekans_hz": 1000,
+     "karsilastir": 250
+    },
+    "cumle": 1
+   },
+   "cumleler": [
+    "Averiguamos cómo depende la sonoridad de la frecuencia mediante experimentos de igualación.",
+    "Al oyente se le presenta un tono de mil hertz como referencia.",
+    "Luego se ajusta un tono de otra frecuencia hasta que el oyente lo percibe igual de fuerte que la referencia.",
+    "Al unir estos niveles igual de fuertes, obtenemos una curva de igual sonoridad.",
+    {
+     "yazi": "Fletcher y Munson publicaron las primeras curvas completas en 1933; las curvas actuales figuran en la norma ISO 226."
+    },
+    "Las curvas normalizadas se basan en los juicios promedio de oyentes jóvenes con audición normal en campo libre."
+   ]
+  },
+  {
+   "id": "fon",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Igual sonoridad",
+   "baslik": "*Fon*: el nivel de sonoridad",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Definición",
+     "metin": "dB SPL del tono de 1000 Hz equivalente",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "En 1000 Hz",
+     "metin": "Fones y dB SPL coinciden",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Cada curva",
+     "metin": "Un valor en fones",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El valor en fones de un sonido es el valor en decibeles SPL de un tono de mil hertz que se percibe igual de fuerte.",
+    "Así, el fon es la unidad del nivel de sonoridad, y usa los mil hertz como regla común.",
+    "Por esta definición, fones y decibeles SPL coinciden en mil hertz; cuarenta decibeles SPL son cuarenta fones.",
+    "Cada curva de igual sonoridad se nombra con un valor en fones; por ejemplo, la curva de cuarenta fones.",
+    "Todos los tonos de esa curva se perciben igual de fuertes, aunque sus frecuencias y sus valores en decibeles sean distintos.",
+    "El fon nos dice qué sonidos se perciben iguales, pero no cuántas veces más fuerte es un sonido que otro."
+   ]
+  },
+  {
+   "id": "degerler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Igual sonoridad",
+   "baslik": "Igual sonoridad, decibeles *distintos*",
+   "sutunlar": [
+    "Frecuencia",
+    "40 fones",
+    "90 fones"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "100 Hz",
+      "unos 64 dB SPL",
+      "unos 99 dB SPL"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "unos 43 dB SPL",
+      "unos 90 dB SPL"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "40 dB SPL",
+      "90 dB SPL"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "3150 Hz",
+      "unos 36 dB SPL",
+      "unos 87 dB SPL"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "8000 Hz",
+      "unos 52 dB SPL",
+      "unos 101 dB SPL"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Veamos algunos valores tomados de las curvas de la norma ISO 226."
+    },
+    "Para una sonoridad de cuarenta fones, en cien hertz se necesitan unos sesenta y cuatro decibeles SPL.",
+    "En quinientos hertz, este valor baja a unos cuarenta y tres decibeles SPL.",
+    "En mil hertz, por definición, es de cuarenta decibeles SPL.",
+    "El oído es más sensible entre tres mil y cuatro mil hertz; basta menos intensidad para la misma sonoridad.",
+    "En ocho mil hertz se necesita de nuevo más intensidad.",
+    "A noventa fones, la diferencia entre cien y mil hertz se reduce a unos nueve decibeles, frente a unos veinticuatro a cuarenta fones."
+   ]
+  },
+  {
+   "id": "dersler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Igual sonoridad",
+   "baslik": "*Lecciones* de las curvas",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 31.5,
+     "max": 12500,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      63,
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Nivel (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "fon_20",
+      "noktalar": [
+       [
+        31.5,
+        76
+       ],
+       [
+        63,
+        59
+       ],
+       [
+        125,
+        44
+       ],
+       [
+        250,
+        32
+       ],
+       [
+        500,
+        23
+       ],
+       [
+        1000,
+        20
+       ],
+       [
+        2000,
+        18
+       ],
+       [
+        3150,
+        14
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        5000,
+        19
+       ],
+       [
+        6300,
+        25
+       ],
+       [
+        8000,
+        32
+       ],
+       [
+        10000,
+        34
+       ],
+       [
+        12500,
+        33
+       ]
+      ],
+      "renk": "acik",
+      "yumusak": true,
+      "etiket": "20 fones",
+      "etiket_konum": [
+       1000,
+       20
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -12,
+      "etiket_hiza": "middle",
+      "cumle": 0
+     },
+     {
+      "ad": "fon_40",
+      "noktalar": [
+       [
+        31.5,
+        88
+       ],
+       [
+        63,
+        73
+       ],
+       [
+        125,
+        61
+       ],
+       [
+        250,
+        50
+       ],
+       [
+        500,
+        43
+       ],
+       [
+        1000,
+        40
+       ],
+       [
+        2000,
+        39
+       ],
+       [
+        3150,
+        36
+       ],
+       [
+        4000,
+        37
+       ],
+       [
+        5000,
+        40
+       ],
+       [
+        6300,
+        46
+       ],
+       [
+        8000,
+        52
+       ],
+       [
+        10000,
+        54
+       ],
+       [
+        12500,
+        51
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "40 fones",
+      "etiket_konum": [
+       1000,
+       40
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -12,
+      "etiket_hiza": "middle",
+      "cumle": 0
+     },
+     {
+      "ad": "fon_60",
+      "noktalar": [
+       [
+        31.5,
+        99
+       ],
+       [
+        63,
+        86
+       ],
+       [
+        125,
+        76
+       ],
+       [
+        250,
+        68
+       ],
+       [
+        500,
+        62
+       ],
+       [
+        1000,
+        60
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        3150,
+        56
+       ],
+       [
+        4000,
+        58
+       ],
+       [
+        5000,
+        61
+       ],
+       [
+        6300,
+        66
+       ],
+       [
+        8000,
+        72
+       ],
+       [
+        10000,
+        73
+       ],
+       [
+        12500,
+        69
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "60 fones",
+      "etiket_konum": [
+       1000,
+       60
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -12,
+      "etiket_hiza": "middle",
+      "cumle": 2
+     },
+     {
+      "ad": "fon_80",
+      "noktalar": [
+       [
+        31.5,
+        110
+       ],
+       [
+        63,
+        98
+       ],
+       [
+        125,
+        90
+       ],
+       [
+        250,
+        84
+       ],
+       [
+        500,
+        81
+       ],
+       [
+        1000,
+        80
+       ],
+       [
+        2000,
+        81
+       ],
+       [
+        3150,
+        77
+       ],
+       [
+        4000,
+        78
+       ],
+       [
+        5000,
+        82
+       ],
+       [
+        6300,
+        87
+       ],
+       [
+        8000,
+        91
+       ],
+       [
+        10000,
+        92
+       ],
+       [
+        12500,
+        85
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "80 fones",
+      "etiket_konum": [
+       1000,
+       80
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -12,
+      "etiket_hiza": "middle",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "en_duyarli",
+      "x": [
+       3000,
+       4000
+      ],
+      "renk": "sari",
+      "etiket": "más sensible",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "fon_20",
+     "cumle": 0
+    },
+    {
+     "parca": "en_duyarli",
+     "cumle": 1
+    },
+    {
+     "parca": "fon_80",
+     "cumle": 2
+    },
+    {
+     "parca": "fon_20",
+     "cumle": 3
+    },
+    {
+     "parca": "fon_40",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "A bajo nivel, los _graves_ suenan débiles",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "3 a 4 kHz: región _más sensible_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "A nivel alto, las curvas se _aplanan_",
+     "cumle": 2,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "La primera lección de las curvas: en niveles bajos, el oído es mucho menos sensible a los sonidos graves.",
+    "La región más sensible está entre unos tres mil y cuatro mil hertz; la resonancia del conducto auditivo contribuye a ello.",
+    "A medida que sube el nivel, las curvas se aplanan; la sonoridad de los sonidos graves crece más rápido con la intensidad.",
+    "Por eso, cuando escuchamos música a bajo volumen, los graves parecen desaparecer, y vuelven cuando subimos el volumen.",
+    "La ponderación A de los sonómetros también imita esta sensibilidad del oído en niveles bajos.",
+    "La ponderación A se parece a una curva de cuarenta fones invertida; atenúa las frecuencias graves en la medición."
+   ]
+  },
+  {
+   "id": "odyogram_bag",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Igual sonoridad",
+   "baslik": "¿Por qué el audiograma es *plano*?",
+   "maddeler": [
+    {
+     "metin": "La curva de umbral es _curva_ en SPL",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Los dB HL llevan el umbral a _cero_",
+     "cumle": 1,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Audición normal: una línea _plana_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        5,
+        5,
+        0,
+        5,
+        5,
+        10
+       ],
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "La curva de umbral es como la curva de igual sonoridad más baja; dibujada en decibeles SPL, sube en las frecuencias graves.",
+    "El audiómetro toma como cero decibeles HL el umbral promedio de oyentes normales en cada frecuencia, y así corrige esta curva.",
+    "Por eso, el audiograma de una persona con audición normal no aparece curvo, sino como una línea plana cerca de cero decibeles HL.",
+    "Pero esta corrección solo se aplica al umbral; por encima del umbral, la sonoridad sigue creciendo de forma distinta según la frecuencia."
+   ]
+  },
+  {
+   "id": "son",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "La escala de sonios",
+   "baslik": "*Sonio*: la razón de sonoridad",
+   "sutunlar": [
+    "Fones",
+    "Sonios",
+    "Percepción"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "40",
+      "1",
+      "Referencia"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "50",
+      "2",
+      "El doble de fuerte"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "60",
+      "4",
+      "Cuatro veces"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "70",
+      "8",
+      "Ocho veces"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "80",
+      "16",
+      "Dieciséis veces"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Para decir cuántas veces más fuerte es un sonido que otro usamos el sonio, una unidad propuesta por Stevens."
+    },
+    "Un sonio es la sonoridad de un tono de mil hertz a cuarenta decibeles SPL, es decir, de un sonido de cuarenta fones.",
+    "Un sonido que se percibe el doble de fuerte tiene dos sonios, y uno que se percibe la mitad de fuerte, medio sonio.",
+    "Por encima de cuarenta fones, la sonoridad se duplica aproximadamente cada diez fones: cincuenta fones son dos, sesenta son cuatro y setenta son ocho sonios.",
+    "Un sonido de ochenta fones se percibe dieciséis veces más fuerte que uno de cuarenta fones.",
+    "En resumen, multiplicar la intensidad por diez, es decir, sumar diez decibeles, solo duplica la sonoridad percibida."
+   ]
+  },
+  {
+   "id": "stevens",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "La escala de sonios",
+   "baslik": "La *ley de potencia* de Stevens",
+   "maddeler": [
+    {
+     "metin": "La sonoridad crece como _potencia_ de la intensidad",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Exponente de unos _0,3_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Subir 10 dB: el _doble_ de fuerte",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Cerca del umbral, cambia _rápido_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FÓRMULA",
+    "metin": "Sonios = *2* elevado a (fones menos 40) / 10",
+    "cumle": 3
+   },
+   "cumleler": [
+    {
+     "yazi": "Según la ley de potencia de Stevens, la sonoridad crece en proporción a una potencia de la intensidad."
+    },
+    "Para un tono de mil hertz, este exponente es de unos cero coma tres, expresado respecto de la intensidad.",
+    "Diez decibeles significan multiplicar la intensidad por diez; diez elevado a cero coma tres es aproximadamente dos, así que la sonoridad se duplica.",
+    "Por encima de cuarenta fones, esto permite calcular los sonios como dos elevado a los fones menos cuarenta, divididos entre diez.",
+    "Cerca del umbral, sin embargo, la sonoridad cambia más rápido de lo que predice esta ley.",
+    "Esta regla también es la base para entender cómo crece de forma distinta la sonoridad en un oído con daño coclear."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "La escala de sonios",
+   "baslik": "¿Qué *más* aumenta la sonoridad?",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Ancho de banda",
+     "metin": "Mayor que una banda crítica",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Duración",
+     "metin": "Hasta unos 200 ms",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Dos oídos",
+     "metin": "Suma binaural",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La sonoridad no depende solo de la intensidad y la frecuencia.",
+    "Aunque la intensidad total sea la misma, un sonido se percibe más fuerte si su energía se reparte en un rango más ancho que la banda crítica.",
+    "Esto se llama suma de sonoridad; veremos la banda crítica en detalle en la lección sobre enmascaramiento.",
+    "Los sonidos muy cortos se perciben más suaves; la sonoridad crece con la duración hasta unos doscientos milisegundos.",
+    "Un mismo sonido también se percibe más fuerte con dos oídos que con uno; esto se llama suma binaural."
+   ]
+  },
+  {
+   "id": "olcekleme",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "La sonoridad en la clínica",
+   "baslik": "Escalamiento categórico de la *sonoridad*",
+   "ogeler": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Muy suave",
+     "metin": "Apenas se oye",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Cómodo",
+     "metin": "Fácil de escuchar",
+     "cumle": 2
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Fuerte pero aceptable",
+     "metin": "Todavía tolerable",
+     "cumle": 3
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Incómodamente fuerte",
+     "metin": "No tolerable",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la clínica, la sonoridad suele evaluarse con un escalamiento categórico.",
+    "Al paciente se le da una tarjeta con categorías ordenadas y definidas, que comienzan en muy suave.",
+    "Los sonidos se suben paso a paso, y el paciente indica la categoría de cada uno; así se encuentra el rango cómodo.",
+    {
+     "yazi": "Métodos como la prueba Contour de Cox y colaboradores estandarizan esta medición con siete categorías."
+    },
+    "La categoría superior es incómodamente fuerte; este nivel se registra como umbral de molestia (UCL).",
+    "Así se ve cómo crece la sonoridad desde el umbral hasta la molestia, en la llamada curva de crecimiento de la sonoridad."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "La sonoridad en la clínica",
+   "baslik": "¿*Dónde* es útil?",
+   "maddeler": [
+    {
+     "metin": "Nivel de máximo confort: _MCL_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Umbral de molestia: _UCL_",
+     "cumle": 0,
+     "ikon": "agri"
+    },
+    {
+     "metin": "El rango entre ambos: _rango dinámico_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Limitar_ la salida del audífono",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "CLÍNICA",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Pérdida coclear",
+      "metin": "La sonoridad crece rápido",
+      "cumle": 2
+     },
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Compresión",
+      "metin": "Ajusta el sonido al rango",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "La sonoridad importa sobre todo al medir el MCL, el nivel de máximo confort, y el UCL, el umbral de molestia.",
+    "El rango entre el umbral y el UCL se llama rango dinámico; dentro de él está la audición utilizable.",
+    "En un oído con daño coclear, el umbral sube pero el UCL a menudo cambia poco, así que la sonoridad crece más rápido.",
+    "La salida máxima de un audífono debe ajustarse para que el sonido no supere el UCL.",
+    "La compresión de los audífonos también se usa para que una amplia gama de sonidos quepa en este rango reducido."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Al medir el UCL, aclaren que preguntan por la sonoridad molesta, no por el dolor. Las instrucciones estandarizadas hacen que el resultado sea repetible.",
+   "cumleler": [
+    "Un consejo clínico: las mediciones de sonoridad son muy sensibles a las instrucciones que se dan al paciente.",
+    "Al medir el UCL, aclaren que se refieren a un sonido demasiado molesto para escucharlo mucho tiempo, no a un sonido que causa dolor.",
+    "Si las instrucciones quedan vagas, los resultados en un mismo paciente pueden variar notablemente.",
+    "Usen la tarjeta de categorías y las instrucciones de la misma manera con cada paciente, para que las comparaciones entre visitas sean confiables."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "La sonoridad es una magnitud _perceptiva_",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Fon: nivel _igual de fuerte_ que 1000 Hz",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "40 fones = _1 sonio_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "+10 fones: la sonoridad se _duplica_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "La intensidad es física y la sonoridad es perceptiva; la sonoridad también depende de la frecuencia, la duración y el ancho de banda.",
+    "El fon es el valor en decibeles SPL de un tono de mil hertz igual de fuerte; las curvas de igual sonoridad se nombran en fones.",
+    "El sonio es una escala de razón; un sonido de cuarenta fones se define como un sonio.",
+    "Por encima de cuarenta fones, un aumento de unos diez fones duplica la sonoridad."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Cuántos sonios tiene un sonido de 60 fones?",
+   "secenekler": [
+    "1 sonio",
+    "2 sonios",
+    "4 sonios",
+    "6 sonios"
+   ],
+   "dogru": 2,
+   "aciklama": "40 fones son 1 sonio y se duplica cada 10 fones: 50 fones son 2 sonios y 60 fones, _4 sonios_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuántos sonios tiene un sonido de sesenta fones?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: cuatro sonios.",
+    "Cuarenta fones son un sonio; cincuenta fones son dos y sesenta fones son cuatro sonios, porque cada diez fones se duplica la sonoridad."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Percepción del *tono* y discriminación de frecuencias",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos de la sonoridad al tono y veremos cómo el oído discrimina las frecuencias.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

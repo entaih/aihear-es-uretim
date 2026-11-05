@@ -1,0 +1,695 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D104_Tympanometry_ES",
+ "kapak": {
+  "ust": "LECCIÓN 104",
+  "baslik": "Cómo realizar una<br>*timpanometría*",
+  "alt": "Sonda, barrido de presión y valores básicos",
+  "cizim": "timpanogram"
+ },
+ "youtube": {
+  "baslik": "Cómo realizar una timpanometría | Lección 104 | AIHEAR Academia de Audiología",
+  "aciklama": "La timpanometría mide la admitancia del sistema del oído medio mientras se hace variar la presión en el conducto auditivo. En esta lección vemos la otoscopia y la preparación del paciente, la elección de la oliva de la sonda y el sellado hermético, el barrido de presión de más 200 a menos 400 daPa y los valores básicos que se miden (ECV, admitancia del pico, TPP, TW).\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; BSA, Recommended Procedure: Tympanometry and Acoustic Reflex Thresholds; ASHA, Guidelines for Audiologic Screening.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "timpanometria",
+   "inmitancia"
+  ],
+  "etiketler": [
+   "timpanometría",
+   "cómo hacer una timpanometría",
+   "timpanograma",
+   "impedanciometría",
+   "admitancia",
+   "decapascal",
+   "daPa",
+   "sellado hermético",
+   "volumen del conducto auditivo",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 104",
+   "baslik": "Cómo realizar una *timpanometría*",
+   "alt": "Sonda, sellado hermético, barrido de presión y valores",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos paso a paso cómo se realiza una timpanometría, desde la preparación hasta la pantalla de resultados.",
+    "Hablaremos de la elección de la oliva de la sonda, del sellado hermético y de los valores básicos que se miden."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "El principio básico",
+   "baslik": "¿Qué *mide* la timpanometría?",
+   "maddeler": [
+    {
+     "metin": "_Admitancia_ del sistema del oído medio",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Se varía la _presión_ del conducto",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Tono de sonda de _226 Hz_ en adultos",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Gráfico resultante: el _timpanograma_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "La timpanometría mide la facilidad con que el oído medio transmite el sonido, es decir, su admitancia, mientras varía la presión del conducto auditivo.",
+    "Al cambiar la presión en el conducto auditivo, la membrana timpánica se tensa y transmite el sonido con menos facilidad.",
+    "La transmisión es máxima cuando la presión en el conducto auditivo es igual a la presión del oído medio.",
+    "Se presenta un tono de sonda continuo en el conducto auditivo; en adultos y niños mayores suele ser de doscientos veintiséis hertz.",
+    "En bebés menores de seis meses se prefiere un tono de sonda de mil hertz; lo veremos en otra lección.",
+    "El gráfico de la admitancia en función de la presión se llama timpanograma."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "orta_kulak",
+      "cumle": 0
+     },
+     {
+      "parca": "timpanik_membran",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "timpanik_membran",
+      "metin": "membrana timpánica",
+      "cumle": 1
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "conducto auditivo: presión",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "prob",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El principio básico",
+   "baslik": "La sonda y el *conducto auditivo*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "prob",
+     "cumle": 0
+    },
+    {
+     "parca": "prob_pompa",
+     "cumle": 2
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 3
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4
+    },
+    {
+     "parca": "ostaki_borusu",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Conducto auditivo sellado",
+     "cumle": 0
+    },
+    {
+     "parca": "prob_hoparlor",
+     "metin": "Altavoz",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "Micrófono",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_pompa",
+     "metin": "Canal de la bomba",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Membrana timpánica (tímpano)",
+     "cumle": 3
+    },
+    {
+     "parca": "ostaki_borusu",
+     "metin": "Trompa de Eustaquio",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sonda: altavoz, micrófono y bomba",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Buena transmisión: menos sonido en el conducto",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "La sonda se coloca en la parte externa del conducto auditivo con un sellado hermético, y el conducto se convierte en una cavidad cerrada.",
+    "La sonda tiene tres canales: un altavoz que emite el tono de sonda, un micrófono que mide el sonido en el conducto y un canal de bomba.",
+    "Mientras la bomba cambia la presión, el micrófono mide de forma continua el nivel sonoro que queda en el conducto.",
+    "Si la membrana timpánica, o tímpano, transmite bien el sonido, queda menos sonido en el conducto; si no, queda más.",
+    "A partir de ese nivel sonoro, el equipo calcula la admitancia del sistema del oído medio.",
+    "La presión del oído medio se equilibra a través de la trompa de Eustaquio, por eso la timpanometría también informa indirectamente sobre su función."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 3,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   }
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Preparación",
+   "baslik": "Antes de la *medición*",
+   "maddeler": [
+    {
+     "metin": "Primero, la _otoscopia_",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "_Buscar_ cerumen, secreción o perforación",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Breve _explicación_ al paciente",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Sin_ hablar, tragar ni moverse",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Antes de la timpanometría siempre se hace una otoscopia.",
+    "Buscamos cerumen que obstruya el conducto, secreción, un cuerpo extraño o una perforación.",
+    "Si hay secreción activa, dolor en el conducto auditivo o una cirugía de oído reciente, la prueba no se hace sin la opinión del médico.",
+    "Se le explica al paciente que sentirá una breve presión en el oído y oirá un sonido suave.",
+    "Se le pide que no hable, no trague ni mueva la cabeza durante la prueba, porque esto puede distorsionar la curva.",
+    "En los niños, la prueba se hace cuando el niño está tranquilo y sentado; el llanto puede cambiar los resultados.",
+    "Al comienzo del día, el equipo se verifica con cavidades de prueba de volumen conocido."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ADEMÁS",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "uyari",
+      "baslik": "Secreción, dolor, cirugía",
+      "metin": "Solo con opinión médica",
+      "cumle": 2
+     },
+     {
+      "ikon": "cocuk",
+      "baslik": "En niños",
+      "metin": "Tranquilos y sentados",
+      "cumle": 5
+     },
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Al comenzar el día",
+      "metin": "Verificación con cavidades de prueba",
+      "cumle": 6
+     }
+    ]
+   }
+  },
+  {
+   "id": "sizdirmazlik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Preparación",
+   "baslik": "Oliva de la sonda y *sellado hermético*",
+   "maddeler": [
+    {
+     "metin": "Oliva _según el tamaño_ del conducto",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Pabellón _hacia arriba y atrás_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Sellado hermético_",
+     "cumle": 4,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "La oliva no presiona la _pared_",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La oliva de la sonda se elige algo más grande que la entrada del conducto auditivo.",
+    "Se usan olivas desechables o lavables, según las normas de control de infecciones.",
+    "En adultos, el pabellón auricular se tracciona suavemente hacia arriba y hacia atrás para enderezar el conducto auditivo.",
+    "La oliva se asienta en el conducto con un leve movimiento de giro.",
+    "El objetivo es un sellado hermético; de lo contrario, la bomba no puede generar presión.",
+    "Si hay una fuga, el equipo suele dar un aviso o la presión no alcanza su objetivo; entonces se cambia o se recoloca la oliva.",
+    "Si la oliva presiona la pared del conducto o queda tapada por cerumen, se obtiene una curva plana engañosa con un volumen muy pequeño."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 0
+     },
+     {
+      "parca": "kulak_kepcesi",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "entrada del conducto auditivo",
+      "cumle": 0
+     },
+     {
+      "parca": "kulak_kepcesi",
+      "metin": "pabellón: arriba y atrás",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "tarama",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Medición",
+   "baslik": "El *barrido* de presión",
+   "maddeler": [
+    {
+     "metin": "Unidad: _daPa_ (decapascal)",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Inicio: _+200 daPa_",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Final: por lo general _-400 daPa_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Admitancia registrada _de forma continua_",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La presión se expresa en decapascales, que en pantalla se abrevian daPa.",
+     "ses": "La presión se expresa en decapascales, que en pantalla se abrevian de, a, pe, a."
+    },
+    "Un decapascal equivale a diez pascales y aproximadamente a la presión de un milímetro de agua.",
+    "El barrido suele comenzar en más doscientos decapascales, una presión positiva que tensa la membrana timpánica.",
+    "Luego la presión se reduce hacia menos cuatrocientos decapascales; algunos protocolos llegan hasta menos seiscientos.",
+    "Mientras tanto, la admitancia se registra de forma continua y se dibuja en pantalla como una curva.",
+    "La velocidad de la bomba y la dirección del barrido influyen algo en el resultado, por eso cada clínica usa siempre el mismo protocolo.",
+    "La medición dura unos segundos; si la curva es irregular, se repite."
+   ]
+  },
+  {
+   "id": "egri",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Medición",
+   "baslik": "Un *timpanograma* normal",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Presión del pico: presión del oído medio",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Altura del pico: admitancia",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Extremos: volumen del conducto",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "En un oído medio normal vemos una curva como esta, con un único pico.",
+    "La presión en el pico refleja la presión del oído medio; normalmente está alrededor de cero decapascales.",
+    "La altura del pico muestra con qué facilidad el sistema del oído medio transmite el sonido.",
+    "En los extremos positivo y negativo la membrana timpánica está tensa, así que la admitancia disminuye y la curva desciende.",
+    "El valor medido en estos extremos corresponde sobre todo al aire del conducto auditivo; a partir de él se calcula el volumen del conducto."
+   ]
+  },
+  {
+   "id": "degerler",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Medición",
+   "baslik": "Los *valores* medidos",
+   "sutunlar": [
+    "Parámetro",
+    "Abreviatura",
+    "Unidad"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Volumen del conducto",
+      "ECV",
+      "ml"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Admitancia estática del pico",
+      "Ytm",
+      "mmho o ml"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Presión del pico",
+      "TPP",
+      "daPa"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Ancho timpanométrico",
+      "TW",
+      "daPa"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El equipo calcula varios valores básicos a partir de la curva; el primero es el volumen del conducto auditivo externo (ECV).",
+    "El ECV se calcula a partir de la admitancia medida a más doscientos decapascales y se expresa en mililitros.",
+    "El segundo es la admitancia estática del pico: la admitancia del oído medio que queda al restar el aporte del conducto auditivo.",
+    "A doscientos veintiséis hertz, un mililitro de aire equivale a un milimho de admitancia, así que ambas unidades pueden usarse indistintamente.",
+    "El tercero es la presión del pico timpanométrico (TPP).",
+    "El cuarto es el ancho timpanométrico (TW): el ancho de la curva, en presión, a la mitad de la altura del pico.",
+    "En una próxima lección veremos en detalle los rangos normales de estos valores."
+   ]
+  },
+  {
+   "id": "normlar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Medición",
+   "baslik": "Valores *aproximados* en adultos",
+   "maddeler": [
+    {
+     "metin": "ECV: unos _0,6 a 1,5 ml_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Admitancia del pico: _0,3 a 1,7 mmho_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Presión del pico: alrededor de _cero_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Las normas varían con _edad y equipo_",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "En adultos, el volumen del conducto auditivo es de unos cero coma seis a uno coma cinco mililitros; algunas normas recientes tienen un límite superior más alto.",
+    "La admitancia estática del pico en adultos se considera de unos cero coma tres a uno coma siete milimhos.",
+    "La presión del pico normalmente está alrededor de cero decapascales; valores claramente negativos pueden sugerir un problema de la función tubárica.",
+    "En los niños las normas son distintas porque el conducto auditivo es más pequeño; la referencia es la tabla de normas del equipo y de la clínica."
+   ]
+  },
+  {
+   "id": "artefakt",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Calidad e interpretación",
+   "baslik": "*Artefactos* frecuentes",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Tragar, hablar",
+     "metin": "Saltos bruscos en la curva",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Fuga",
+     "metin": "No se genera presión",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Oliva obstruida",
+     "metin": "Curva plana de volumen pequeño",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Niño que llora",
+     "metin": "Resultados variables",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Tragar, hablar o mover la cabeza pueden causar saltos bruscos en la curva.",
+    "Con una fuga de aire, la presión no alcanza el valor objetivo y la curva no puede completarse.",
+    "Si la oliva está obstruida o apoyada contra la pared, se obtiene una curva plana de volumen pequeño.",
+    "En un niño que llora, la presión y la admitancia del oído medio pueden cambiar temporalmente.",
+    "Ante cualquier curva dudosa, el primer paso es revisar la sonda y repetir la medición."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Ante una curva plana, revisa el ECV y compáralo con la otoscopia antes de interpretar. Un volumen muy pequeño suele indicar oliva obstruida o cerumen.",
+   "cumleler": [
+    "Aquí va un consejo importante de la práctica.",
+    "Cuando veas una curva plana, mira el ECV antes de interpretarla.",
+    "Si el volumen es mucho menor de lo esperado, la oliva puede estar contra la pared del conducto o hundida en cerumen; recoloca la sonda y repite.",
+    "Si el volumen es mucho mayor de lo esperado, piensa en una perforación o en un tubo de ventilación permeable; compáralo con la otoscopia.",
+    "Esta sencilla comprobación evita interpretar erróneamente un tipo B."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Calidad e interpretación",
+   "baslik": "Lo que nos dice, y lo que *no*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Nos dice",
+     "metin": "Presión, movilidad, volumen, posible líquido",
+     "cumle": 0
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "No nos dice",
+     "metin": "Umbral auditivo, cóclea o nervio",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La timpanometría da información directa sobre la presión del oído medio.",
+    "Muestra la movilidad de la membrana timpánica y del sistema osicular.",
+    "A través del volumen del conducto auditivo, permite valorar la posibilidad de una perforación o de una obstrucción.",
+    "Una curva plana con un volumen normal sugiere la posible presencia de líquido en el oído medio.",
+    "Pero la timpanometría no es una prueba de audición; un timpanograma normal no significa audición normal.",
+    "En las pérdidas que se originan en la cóclea o en el nervio auditivo, el timpanograma puede ser completamente normal.",
+    "Por eso la timpanometría siempre se interpreta junto con el audiograma y las demás pruebas."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Calidad e interpretación",
+   "baslik": "*Registro* de los resultados",
+   "maddeler": [
+    {
+     "metin": "Frecuencia del _tono de sonda_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Curva y _valores numéricos_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Nota_ de la otoscopia",
+     "cumle": 2,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "_Condiciones_ de la prueba",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "En el informe siempre se indica la frecuencia del tono de sonda utilizada.",
+    "La curva del timpanograma, el ECV, la admitancia del pico y la presión del pico se registran por separado para cada oído.",
+    "El hallazgo de la otoscopia también se anota junto al resultado de la timpanometría.",
+    "Si el niño lloraba o la medición se repitió, también se deja constancia.",
+    "Usar el mismo equipo y el mismo protocolo en los controles facilita comparar los resultados."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Primero _otoscopia_, luego sonda sellada",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Barrido de +200 a _-400 daPa_",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Tono de 226 Hz, resultado: _timpanograma_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "ECV, admitancia del pico, _TPP_ y TW",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "Antes de la timpanometría se hace una otoscopia y la sonda se coloca con un sellado hermético.",
+    "La presión suele barrerse desde más doscientos hacia menos cuatrocientos decapascales.",
+    "En adultos se usa un tono de sonda de doscientos veintiséis hertz, y la admitancia se grafica en función de la presión como un timpanograma.",
+    "Los valores básicos son el volumen del conducto auditivo, la admitancia estática del pico, la presión del pico y el ancho timpanométrico."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Para calcular qué valor se usa la admitancia medida a +200 daPa?",
+   "secenekler": [
+    "Presión del oído medio",
+    "Volumen del conducto auditivo",
+    "Umbral auditivo"
+   ],
+   "dogru": 1,
+   "aciklama": "A esta presión la membrana timpánica está tensa; el valor corresponde sobre todo al _aire del conducto auditivo_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿para calcular qué valor se usa la admitancia medida a más doscientos decapascales?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: el volumen del conducto auditivo.",
+    "A esta presión la membrana timpánica está tensa, y el valor medido corresponde sobre todo al aire del conducto auditivo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tipos de timpanograma de *Jerger*: A, As, Ad, B y C",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos los tipos de timpanograma de la clasificación de Jerger y lo que sugiere cada uno.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

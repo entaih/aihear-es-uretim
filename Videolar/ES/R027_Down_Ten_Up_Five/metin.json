@@ -1,0 +1,103 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R027_Down_Ten_Up_Five_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #27",
+  "baslik": "Bajar diez, *subir cinco*",
+  "alt": "¿Cómo se obtiene el umbral por vía aérea?",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Cómo se obtiene un umbral auditivo? #shorts",
+  "aciklama": "En el método de Hughson-Westlake modificado, el nivel se baja 10 dB cuando el paciente responde y se sube 5 dB cuando no responde. El umbral es el nivel más bajo con respuesta en al menos la mitad de las presentaciones ascendentes.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "audiometria",
+   "audicion"
+  ],
+  "etiketler": [
+   "Hughson-Westlake",
+   "audiometría tonal",
+   "umbral auditivo",
+   "audiometría",
+   "bajar 10 subir 5",
+   "audiología",
+   "prueba de audición",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Cómo se obtiene un umbral auditivo?",
+  "bilgiler": [
+   "Si hay respuesta: se baja el nivel 10 dB.",
+   "Si no hay respuesta: se sube el nivel 5 dB.",
+   "Umbral: el nivel más bajo con respuesta en al menos la mitad de las presentaciones ascendentes."
+  ],
+  "hashtag": [
+   "audiologia",
+   "audiometria",
+   "audicion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #27",
+   "metin": "¿Cómo se *obtiene* un umbral auditivo?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Cómo se obtiene un umbral auditivo?"
+   ]
+  },
+  {
+   "id": "kural",
+   "tur": "zincir",
+   "baslik": "*Bajar diez*, subir cinco",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Respuesta",
+     "cumle": 0,
+     "tr": "bajar 10 dB"
+    },
+    {
+     "ad": "Sin respuesta",
+     "cumle": 1,
+     "tr": "subir 5 dB"
+    },
+    {
+     "ad": "Umbral",
+     "cumle": 2,
+     "tr": "respuesta en la mitad o más"
+    }
+   ],
+   "alt": "El método de _Hughson-Westlake_ modificado",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Cuando el paciente responde, el nivel baja diez decibeles.",
+    "Cuando no hay respuesta, sube cinco decibeles.",
+    "El umbral es el nivel más bajo que se oye en la mitad de las presentaciones ascendentes.",
+    "En la práctica, por ejemplo, dos respuestas de tres en un mismo nivel."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D060",
+ "kaynak_baslik": "Umbrales por vía aérea: el método Hughson-Westlake"
+}

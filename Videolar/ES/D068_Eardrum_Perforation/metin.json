@@ -1,0 +1,762 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D068_Eardrum_Perforation_ES",
+ "kapak": {
+  "ust": "LECCIÓN 68",
+  "baslik": "Perforación<br>*timpánica*",
+  "alt": "Efecto en la audición y reparación",
+  "cizim": "kulak_zari_otoskopik",
+  "ayar": {
+   "kulak": "sag"
+  }
+ },
+ "youtube": {
+  "baslik": "Perforación timpánica y su efecto en la audición | Lección 68 | AIHEAR Academia de Audiología",
+  "aciklama": "En esta lección estudiamos la perforación de la membrana timpánica: sus causas, los factores que determinan la magnitud de la pérdida auditiva y los hallazgos en el audiograma y la timpanometría. También vemos cómo cicatrizan las perforaciones traumáticas, los conceptos de miringoplastia y timpanoplastia, y el papel del audiólogo antes y después de la cirugía.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Mehta et al. (2006), Determinants of hearing loss in perforations of the tympanic membrane, Otology and Neurotology; Committee on Hearing and Equilibrium (1995), Guidelines for the evaluation of results of treatment of conductive hearing loss; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "timpano",
+   "perforaciontimpanica"
+  ],
+  "etiketler": [
+   "perforación de la membrana timpánica",
+   "perforación timpánica",
+   "tímpano perforado",
+   "miringoplastia",
+   "timpanoplastia",
+   "hipoacusia conductiva",
+   "brecha aéreo-ósea",
+   "timpanograma tipo B",
+   "volumen del conducto auditivo",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 68",
+   "baslik": "Perforación *timpánica*",
+   "alt": "Causas, efecto en la audición y reparación",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos la perforación de la membrana timpánica, es decir, un orificio en el tímpano, y cómo afecta la audición.",
+    "Veremos qué determina la magnitud de la pérdida, los hallazgos timpanométricos y los conceptos de miringoplastia y timpanoplastia."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La perforación",
+   "baslik": "Un orificio en el *tímpano*",
+   "cizim": "kulak_zari_otoskopik",
+   "ayar": {
+    "kulak": "sag",
+    "kadranlar": true,
+    "kadran_cumle": 1,
+    "patoloji": [
+     {
+      "tur": "perforasyon_santral",
+      "cumle": 2,
+      "bitis": 5
+     },
+     {
+      "tur": "perforasyon_marjinal",
+      "cumle": 3,
+      "bitis": 5
+     },
+     {
+      "tur": "perforasyon_atik",
+      "cumle": 4,
+      "bitis": 5
+     },
+     {
+      "tur": "perforasyon_total",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "pars_tensa",
+     "cumle": 0
+    },
+    {
+     "parca": "arka_ust_kadran",
+     "cumle": 1
+    },
+    {
+     "parca": "anulus",
+     "cumle": 3
+    },
+    {
+     "parca": "pars_flaccida",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "anulus",
+     "metin": "anillo timpánico",
+     "cumle": 3
+    },
+    {
+     "parca": "pars_flaccida",
+     "metin": "pars flaccida",
+     "cumle": 4
+    },
+    {
+     "parca": "umbo",
+     "metin": "umbo",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Una perforación de la membrana timpánica es una pérdida de la integridad del tímpano, en otras palabras, un orificio en la membrana.",
+    "Su ubicación se describe en cuatro cuadrantes, divididos por el mango del martillo y una línea perpendicular a él.",
+    "Un orificio rodeado en todo su borde por membrana intacta se llama perforación central.",
+    "Cuando el orificio llega al borde del tímpano, el anillo timpánico, se llama perforación marginal.",
+    "Los orificios de la pars flaccida, en la región del ático, y los marginales se vigilan más de cerca por el riesgo de colesteatoma.",
+    "Un orificio puede ser tan pequeño como una punta de alfiler o abarcar casi toda la membrana; en este caso se llama perforación total."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "La perforación",
+   "baslik": "Causas de *perforación*",
+   "ogeler": [
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Otitis media aguda",
+     "cumle": 1,
+     "metin": "Rotura espontánea por presión"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Otitis media crónica",
+     "cumle": 2,
+     "metin": "Orificio permanente y secreción"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Barotrauma",
+     "cumle": 3,
+     "metin": "Bofetada, explosión, buceo"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Trauma penetrante",
+     "cumle": 4,
+     "metin": "Hisopo, cuerpo extraño"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Tras un tubo",
+     "cumle": 5,
+     "metin": "Orificio del tubo que no cierra"
+    }
+   ],
+   "cumleler": [
+    "Podemos agrupar las causas de perforación en dos grandes grupos: infección y trauma.",
+    "En la otitis media aguda, la presión del líquido infectado en el oído medio puede romper el tímpano por sí sola.",
+    "En la otitis media crónica supurativa hay un orificio permanente con secreción recurrente.",
+    "Una bofetada en el oído, una explosión cercana o los cambios bruscos de presión al bucear o volar pueden desgarrar el tímpano.",
+    "Los objetos que entran en el conducto, como un hisopo, una horquilla o una chispa de soldadura, pueden perforar el tímpano directamente.",
+    "Un orificio que no se cierra después de que se cae un tubo de ventilación es otra causa de perforación."
+   ]
+  },
+  {
+   "id": "belirti",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "La perforación",
+   "baslik": "¿Qué *síntomas* produce?",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Pérdida auditiva",
+     "cumle": 1,
+     "metin": "A menudo leve"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Secreción",
+     "cumle": 2,
+     "metin": "Con infección o entrada de agua"
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Dolor súbito",
+     "cumle": 3,
+     "metin": "En el momento del trauma"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tinnitus",
+     "cumle": 4,
+     "metin": "A veces presente"
+    }
+   ],
+   "cumleler": [
+    "Los síntomas de una perforación dependen de su causa y del tamaño del orificio.",
+    "La queja más frecuente es la pérdida auditiva; con orificios pequeños, la persona puede no notar ninguna pérdida.",
+    "La secreción aparece en los orificios causados por infección o cuando entra agua al oído.",
+    "En los orificios traumáticos hay dolor súbito en el momento del trauma y a veces un leve sangrado.",
+    "También puede haber tinnitus; en algunas personas, el orificio se descubre solo en una otoscopia de rutina."
+   ]
+  },
+  {
+   "id": "etki",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Efecto en la audición",
+   "baslik": "¿Qué *determina* la pérdida?",
+   "maddeler": [
+    {
+     "metin": "Mayor pérdida en _frecuencias bajas_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Orificio mayor, _más pérdida_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Oído medio pequeño: _más_ pérdida",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Ubicación del orificio: _no decisiva_",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 0
+     },
+     {
+      "parca": "yuvarlak_pencere",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "timpanik_membran",
+      "metin": "membrana timpánica",
+      "cumle": 0
+     },
+     {
+      "parca": "yuvarlak_pencere",
+      "metin": "ventana redonda",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "El orificio reduce la diferencia de presión sonora entre ambos lados del tímpano, que es lo que impulsa su vibración.",
+    "El sonido que pasa por el orificio también llega a la ventana redonda, pero los estudios muestran que esto influye menos en la pérdida.",
+    "Según Mehta y colaboradores, en dos mil seis, la pérdida es mayor en las frecuencias bajas y disminuye hacia las altas.",
+    "La pérdida aumenta a medida que la perforación se agranda.",
+    "Si el volumen de aire del oído medio y la mastoides es pequeño, el mismo orificio causa una pérdida mayor.",
+    "Contrariamente a la creencia popular, el mismo estudio encontró que la ubicación del orificio no influía claramente en la magnitud de la pérdida."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Efecto en la audición",
+   "baslik": "Ejemplo: orificio *pequeño* y grande",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: orificio central pequeño",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: orificio grande",
+     "cumle": 2
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía ósea enmascarada",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       25,
+       25,
+       20,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       45,
+       40,
+       35,
+       30,
+       30,
+       35
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10
+      ],
+      "cumle": 2,
+      "cizgi": false
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25
+    },
+    "aralik": {
+     "konum": [
+      0,
+      10,
+      45
+     ],
+     "etiket": "35 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, el oído derecho tiene una perforación central pequeña; los umbrales solo empeoran levemente en las frecuencias bajas.",
+    "La vía ósea es normal en ambos oídos, así que la pérdida es conductiva.",
+    "El oído izquierdo tiene una perforación grande, y sus umbrales por vía aérea son claramente peores.",
+    "La brecha aéreo-ósea es máxima en doscientos cincuenta hertz y se reduce gradualmente hacia las frecuencias altas.",
+    "La brecha causada por un orificio en el tímpano suele ser de leve a moderada.",
+    "Una brecha demasiado grande para explicarse por el tamaño del orificio sugiere que también puede haber un problema en la cadena osicular."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Efecto en la audición",
+   "baslik": "La *perforación* en la timpanometría",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     },
+     {
+      "tip": "B",
+      "cumle": 0
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Tipo B + volumen _grande_",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Orificio pequeño tapado: volumen _quizá normal_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Reflejo acústico _no medible_",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Con una perforación abierta, el timpanograma es plano, es decir, de tipo B.",
+    "El volumen equivalente medido supera claramente lo normal para la edad, porque el tono de sonda también mide el oído medio y la mastoides.",
+    "En este caso, el volumen medido también da una idea aproximada del tamaño del espacio aéreo del oído medio y la mastoides.",
+    "Si un orificio muy pequeño está tapado por secreción, el volumen puede parecer normal; por eso se interpreta siempre junto con la otoscopia.",
+    "En un oído perforado, el reflejo acústico no puede medirse con la sonda, porque no hay un espacio cerrado para un cambio de presión.",
+    "Ante una perforación traumática reciente, la decisión de colocar una sonda y aplicar presión se toma junto con el médico."
+   ]
+  },
+  {
+   "id": "iyilesme",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Perforación traumática",
+   "baslik": "¿Cicatriza un orificio *traumático?*",
+   "maddeler": [
+    {
+     "metin": "La mayoría cierra _espontáneamente_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "El oído se mantiene _seco_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Audiograma _de nuevo_ tras cicatrizar",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Vértigo, pérdida súbita: _urgente_",
+     "cumle": 5,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_zari_otoskopik",
+    "cumle": 0,
+    "ayar": {
+     "kulak": "sag"
+    },
+    "vurgula": [
+     {
+      "parca": "pars_tensa",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "pars_tensa",
+      "metin": "tímpano cicatrizado",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "La mayoría de las perforaciones traumáticas, entre un ochenta y un noventa por ciento según los estudios, se cierran espontáneamente.",
+    "El cierre suele tardar de unas semanas a tres meses, y más en los orificios grandes.",
+    "Es importante evitar que entre agua al oído durante la cicatrización; la infección y la secreción retrasan claramente el cierre.",
+    "Cuando el tímpano se cierra, se mide de nuevo la audición y se compara con el primer audiograma.",
+    "Si persiste una pérdida conductiva después del cierre del tímpano, se sospecha un daño en la cadena osicular.",
+    "Si tras el trauma hay vértigo, pérdida neurosensorial súbita o parálisis facial, la persona se deriva sin demora al médico."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Perforación traumática",
+   "baslik": "*Seguimiento* de un orificio traumático",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia",
+     "cumle": 0,
+     "metin": "Ubicación y tamaño"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Primer audiograma",
+     "cumle": 1,
+     "metin": "Vía aérea y vía ósea"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Oído seco",
+     "cumle": 2,
+     "metin": "Protección contra el agua"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Control",
+     "cumle": 3,
+     "metin": "Se vigila el cierre"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Nuevo audiograma",
+     "cumle": 4,
+     "metin": "Comparado con el primero"
+    }
+   ],
+   "cumleler": [
+    "Ante un orificio traumático, el seguimiento sigue una secuencia sencilla tras la evaluación médica.",
+    "El primer audiograma mide juntas la vía aérea y la vía ósea; la vía ósea muestra si el oído interno está afectado.",
+    "Durante la cicatrización, el oído se mantiene seco y no se introduce nada en él.",
+    "En los controles, el cierre del tímpano se vigila con otoscopia.",
+    "El audiograma tras el cierre se compara con el primero; si persiste una brecha, se requiere una evaluación adicional."
+   ]
+  },
+  {
+   "id": "onarim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Reparación",
+   "baslik": "Conceptos básicos de la *reparación*",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Parche de papel",
+     "cumle": 1,
+     "metin": "Para orificios traumáticos pequeños"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Miringoplastia",
+     "cumle": 2,
+     "metin": "Solo se repara el tímpano"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Timpanoplastia",
+     "cumle": 3,
+     "metin": "Tímpano y oído medio"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Injerto",
+     "cumle": 5,
+     "metin": "Fascia, cartílago, pericondrio"
+    }
+   ],
+   "cumleler": [
+    "En las perforaciones que no cierran, la decisión y el método de reparación son del otorrinolaringólogo; aquí solo vemos los conceptos básicos.",
+    "En los orificios traumáticos pequeños, el cierre puede favorecerse colocando un parche delgado sobre el orificio.",
+    "La miringoplastia es la cirugía que repara solo la membrana timpánica, sin intervenir en el oído medio.",
+    "La timpanoplastia suma a la reparación del tímpano la del oído medio y, si es necesario, la de la cadena osicular.",
+    {
+     "yazi": "La timpanoplastia tipo uno de la clasificación de Wullstein repara solo el tímpano con la cadena intacta y equivale a la miringoplastia."
+    },
+    "El injerto suele ser fascia del músculo temporal, cartílago del oído o la membrana que cubre el cartílago, el pericondrio."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Reparación",
+   "baslik": "El *papel* del audiólogo",
+   "maddeler": [
+    {
+     "metin": "Vía ósea _enmascarada_ antes de cirugía",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Brecha: _500, 1000, 2000, 3000 Hz_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tras la cirugía: ¿se cierra la brecha?",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "¿Se _conserva_ la vía ósea?",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        45,
+        40,
+        35,
+        30,
+        30,
+        35
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        10,
+        10,
+        5,
+        10,
+        10
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava_maskeli",
+       "degerler": [
+        20,
+        20,
+        15,
+        15,
+        20,
+        25
+       ],
+       "cumle": 3
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Antes de la cirugía, la vía ósea enmascarada muestra el estado de la cóclea y la ganancia que puede esperarse de la operación.",
+    "La magnitud de la brecha aéreo-ósea da una idea aproximada del límite superior de audición que la reparación puede recuperar.",
+    "La guía de mil novecientos noventa y cinco de la Academia Estadounidense de Otorrinolaringología expresa la brecha como promedio de quinientos a tres mil hertz.",
+    "En los controles posoperatorios se evalúa la reducción de la brecha aéreo-ósea además del cierre del tímpano.",
+    "En cada control también se compara si los umbrales por vía ósea se conservan."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Reparación",
+   "baslik": "La *vida diaria* con una perforación",
+   "ogeler": [
+    {
+     "ikon": "akinti",
+     "baslik": "Protección contra el agua",
+     "cumle": 0,
+     "metin": "Cuidado al ducharse y nadar"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Audífonos",
+     "cumle": 1,
+     "metin": "Vigilar secreción, ventilar el molde"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Prueba calórica",
+     "cumle": 2,
+     "metin": "Aire en lugar de agua"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Impresiones de oído",
+     "cumle": 3,
+     "metin": "Taponar el conducto con cuidado"
+    }
+   ],
+   "cumleler": [
+    "El agua que entra en un oído perforado puede causar infección del oído medio y secreción; el oído se protege según indique el médico.",
+    "Se pueden usar audífonos, pero la secreción puede aumentar si el molde cierra el oído; por eso importan la ventilación y los controles.",
+    "En un oído perforado no se hace la prueba calórica con agua; si es necesaria, se usa la prueba calórica con aire y se interpreta con cuidado.",
+    "Antes de tomar una impresión de oído, se coloca con cuidado un tapón adecuado en el conducto para que el material no entre al oído medio."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Con una perforación, el timpanograma es plano y el volumen es grande. Si la otoscopia muestra un orificio, acéptalo aunque el volumen sea normal; la secreción puede tapar un orificio pequeño.",
+   "cumleler": [
+    "Un consejo de la práctica: cuando el timpanograma y la otoscopia no coinciden, evalúalos en conjunto.",
+    "Si ves un orificio en la otoscopia pero el volumen es normal, considera que un orificio pequeño puede estar tapado por secreción o una costra.",
+    "Si el volumen es grande pero no ves ningún orificio, busca de nuevo con cuidado un orificio pequeño o un tubo permeable.",
+    "Anotar esta discrepancia en el informe ayuda a la evaluación del médico."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Perforación: un _orificio_ en el tímpano",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Más pérdida en frecuencias _bajas_, orificios grandes",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tipo B y volumen equivalente _grande_",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Miringoplastia: tímpano; timpanoplastia: _oído medio_",
+     "cumle": 3,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    "Una perforación es un orificio en la membrana timpánica causado por infección o trauma.",
+    "La pérdida es conductiva; afecta sobre todo las frecuencias bajas y aumenta con el tamaño del orificio y con un oído medio de menor volumen.",
+    "Con una perforación abierta, el timpanograma es tipo B y el volumen equivalente es grande.",
+    "La miringoplastia repara solo el tímpano, mientras que la timpanoplastia también repara el oído medio."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿En qué frecuencias es mayor la pérdida conductiva de una perforación?",
+   "secenekler": [
+    "En las frecuencias bajas",
+    "En las frecuencias altas",
+    "Solo en 4000 Hz",
+    "Igual en todas las frecuencias"
+   ],
+   "dogru": 0,
+   "aciklama": "Con una perforación, la pérdida es mayor en las frecuencias _bajas_ y disminuye hacia las altas.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿en qué frecuencias es mayor la pérdida conductiva causada por una perforación de la membrana timpánica?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: en las frecuencias bajas.",
+    "La pérdida es mayor en las frecuencias bajas y disminuye hacia las altas; cuanto más grande el orificio, mayor la pérdida."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Colesteatoma*: lo que todo audiólogo debe saber",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección estudiaremos el colesteatoma, una enfermedad que puede asociarse a las perforaciones marginales y del ático.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

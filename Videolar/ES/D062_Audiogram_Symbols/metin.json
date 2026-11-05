@@ -1,0 +1,796 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D062_Audiogram_Symbols_ES",
+ "kapak": {
+  "ust": "LECCIÓN 62",
+  "baslik": "Símbolos del<br>*audiograma*",
+  "alt": "Con y sin enmascaramiento, y sin respuesta",
+  "grafik": {
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      45,
+      45,
+      40,
+      40,
+      45,
+      50
+     ],
+     "cumle": 0
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      15
+     ],
+     "cumle": 0,
+     "cizgi": false
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava_maskeli",
+     "degerler": [
+      60,
+      65,
+      70,
+      70,
+      75,
+      80
+     ],
+     "cumle": 0
+    }
+   ],
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   }
+  }
+ },
+ "youtube": {
+  "baslik": "Símbolos del audiograma y normas de registro | Lección 62 | AIHEAR Academia de Audiología",
+  "aciklama": "En esta lección aprendemos los símbolos audiométricos de la ASHA: los símbolos de vía aérea y vía ósea con y sin enmascaramiento, la marca de sin respuesta y las reglas de color y líneas. Con audiogramas de ejemplo, vemos además la información sobre el transductor, el enmascaramiento y la confiabilidad que debe agregarse al audiograma.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: ASHA (1990), Guidelines for Audiometric Symbols; BSA, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking (2018); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audiograma",
+   "audiometriatonal"
+  ],
+  "etiketler": [
+   "símbolos del audiograma",
+   "símbolos audiométricos",
+   "símbolos ASHA",
+   "umbral enmascarado",
+   "umbral sin enmascaramiento",
+   "sin respuesta audiometría",
+   "vía ósea",
+   "vía aérea",
+   "cómo llenar un audiograma",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 62",
+   "baslik": "Símbolos del *audiograma*",
+   "alt": "Umbrales con y sin enmascaramiento, sin respuesta, normas de registro",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección aprenderemos los símbolos estándar del audiograma y cómo deben registrarse los resultados.",
+    "Veremos las reglas para los umbrales con y sin enmascaramiento, la marca de sin respuesta y el uso del color y las líneas."
+   ]
+  },
+  {
+   "id": "form",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El formulario del audiograma",
+   "baslik": "Un *formulario* estándar",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 10,
+     "ad": "Nivel de audición (dB HL)",
+     "ters": true
+    },
+    "seriler": [],
+    "araliklar": [
+     {
+      "ad": "oktav",
+      "x": [
+       1000,
+       2000
+      ],
+      "y": 30,
+      "etiket": "1 octava",
+      "cumle": 4
+     },
+     {
+      "ad": "yirmi",
+      "y": [
+       40,
+       60
+      ],
+      "xk": 2000,
+      "etiket": "20 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "El eje de frecuencia es _logarítmico_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Los dB HL _aumentan_ hacia abajo",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "1 octava = _20 dB_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "El audiograma es un gráfico estándar que muestra los umbrales según la frecuencia y el nivel de audición.",
+    "La frecuencia está en el eje horizontal, que es logarítmico; cada octava se dibuja con la misma separación.",
+    "El nivel de audición en decibeles HL está en el eje vertical; los valores aumentan hacia abajo, así que más abajo la audición es peor.",
+    "La Asociación Estadounidense del Habla, Lenguaje y Audición, o ASHA, publicó en mil novecientos noventa sus pautas de símbolos audiométricos.",
+    "Según estas pautas y la Sociedad Británica de Audiología, o BSA, una octava de ancho debe equivaler a veinte decibeles de alto.",
+    "Si esta proporción se mantiene fija, la misma pérdida se ve igual de empinada en todos los formularios y los audiogramas pueden compararse entre sí."
+   ]
+  },
+  {
+   "id": "hava_sembol",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Vía aérea",
+   "baslik": "Símbolos de *vía aérea*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "O: derecho",
+     "cumle": 1,
+     "metin": "Vía aérea sin enmascaramiento"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "X: izquierdo",
+     "cumle": 2,
+     "metin": "Vía aérea sin enmascaramiento"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Triángulo: derecho",
+     "cumle": 3,
+     "metin": "Vía aérea con enmascaramiento"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Cuadrado: izquierdo",
+     "cumle": 4,
+     "metin": "Vía aérea con enmascaramiento"
+    }
+   ],
+   "cumleler": [
+    "Hay cuatro símbolos básicos para los umbrales por vía aérea: dos oídos y dos condiciones, sin y con enmascaramiento.",
+    "El umbral por vía aérea sin enmascaramiento del oído derecho se marca con un círculo, la letra O.",
+    "El umbral por vía aérea sin enmascaramiento del oído izquierdo se marca con una equis.",
+    "Un umbral del oído derecho medido con enmascaramiento del oído opuesto se marca con un triángulo.",
+    "Un umbral del oído izquierdo medido con enmascaramiento del oído opuesto se marca con un cuadrado.",
+    "El umbral sin enmascaramiento se obtiene sin ruido en el oído opuesto, y el umbral enmascarado, con ruido."
+   ]
+  },
+  {
+   "id": "hava_ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Vía aérea",
+   "baslik": "Ejemplo: vía aérea *enmascarada*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea sin enmascarar",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea enmascarada",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       60,
+       65,
+       70,
+       70,
+       75,
+       80
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "En este audiograma de ejemplo, los umbrales por vía aérea del oído derecho están dentro de los límites normales y se marcan con círculos.",
+    "En el oído izquierdo hay una pérdida de entre sesenta y ochenta decibeles HL.",
+    "Los umbrales del oído izquierdo se midieron con enmascaramiento del oído opuesto, por eso se registran con cuadrados.",
+    "Cuando hace falta enmascarar, se acepta registrar en el audiograma solo el umbral enmascarado; las pautas de la ASHA lo permiten claramente.",
+    "Los umbrales previos al enmascaramiento a veces se guardan en una hoja de trabajo aparte, pero ambos valores no deben mezclarse en el audiograma final."
+   ]
+  },
+  {
+   "id": "kemik_sembol",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Vía ósea",
+   "baslik": "Símbolos de *vía ósea*",
+   "ogeler": [
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "&lt; mastoides derecha",
+     "cumle": 1,
+     "metin": "Vía ósea sin enmascaramiento"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "&gt; mastoides izquierda",
+     "cumle": 1,
+     "metin": "Vía ósea sin enmascaramiento"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "[ derecho",
+     "cumle": 3,
+     "metin": "Vía ósea con enmascaramiento"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "] izquierdo",
+     "cumle": 3,
+     "metin": "Vía ósea con enmascaramiento"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "V invertida",
+     "cumle": 4,
+     "metin": "Vía ósea, oído no especificado"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "V: frente",
+     "cumle": 5,
+     "metin": "Vía ósea en la frente"
+    }
+   ],
+   "cumleler": [
+    "Los símbolos de vía ósea indican dónde se colocó el vibrador y si se usó enmascaramiento.",
+    "La vía ósea sin enmascaramiento en la mastoides derecha se marca con el signo menor que, y en la mastoides izquierda, con el signo mayor que.",
+    "Estos signos solo indican dónde se colocó el vibrador; en la vía ósea sin enmascaramiento, la respuesta puede venir de la mejor cóclea.",
+    "La vía ósea medida con enmascaramiento del oído opuesto se marca con corchetes: uno de apertura para el derecho y uno de cierre para el izquierdo.",
+    {
+     "yazi": "Las pautas de la ASHA también ofrecen una V invertida como opción para la vía ósea sin enmascaramiento cuando no se sabe qué oído responde.",
+     "ses": "Las pautas de la ASHA también ofrecen una ve invertida como opción para la vía ósea sin enmascaramiento cuando no se sabe qué oído responde."
+    },
+    {
+     "yazi": "Cuando el vibrador se coloca en la frente, el umbral sin enmascaramiento se marca con la letra V.",
+     "ses": "Cuando el vibrador se coloca en la frente, el umbral sin enmascaramiento se marca con la letra ve."
+    }
+   ]
+  },
+  {
+   "id": "kemik_ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Vía ósea",
+   "baslik": "Ejemplo: vía ósea *enmascarada*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Derecho_: vía ósea enmascarada",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       45,
+       45,
+       40,
+       40,
+       45,
+       50
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15
+      ],
+      "cumle": 1,
+      "cizgi": false
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       5,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25
+    },
+    "aralik": {
+     "konum": [
+      2,
+      5,
+      40
+     ],
+     "etiket": "35 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "En este ejemplo, los umbrales por vía aérea del oído derecho están entre cuarenta y cincuenta decibeles HL.",
+    "Los umbrales por vía ósea del oído derecho, medidos con enmascaramiento del izquierdo, son normales y se marcan con corchetes.",
+    "Los umbrales por vía aérea del oído izquierdo están dentro de los límites normales.",
+    "En el oído derecho hay una brecha aéreo-ósea de unos treinta y cinco decibeles; este cuadro es compatible con una pérdida conductiva.",
+    "El corchete no toca la línea de frecuencia: se ubica a la izquierda de la línea para el oído derecho y a la derecha para el izquierdo.",
+    "Una forma de recordarlo es mirar el audiograma como si uno estuviera frente al paciente: la derecha del paciente queda a la izquierda de uno."
+   ]
+  },
+  {
+   "id": "yanit_yok",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Sin respuesta",
+   "baslik": "La marca de *sin respuesta*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Vía aérea_: sin respuesta en el límite",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Vía ósea_: sin respuesta en el límite",
+     "cumle": 3
+    },
+    {
+     "isaret": "↙",
+     "renk": "sag",
+     "metin": "Flecha: _oído derecho_ abajo a la izquierda",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       70,
+       75,
+       85,
+       100,
+       120,
+       110
+      ],
+      "cumle": 1,
+      "yanitsiz": [
+       4,
+       5
+      ]
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       45,
+       65,
+       70,
+       70,
+       70
+      ],
+      "cumle": 3,
+      "yanitsiz": true,
+      "cizgi": false
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25
+    }
+   },
+   "cumleler": [
+    "Si no hay respuesta ni siquiera con la salida máxima del audiómetro, se registra como sin respuesta, o NR.",
+    "En este ejemplo, el oído derecho no respondió en el límite del equipo en cuatro mil y ocho mil hertz.",
+    "El símbolo va en el límite del equipo para esa frecuencia, con una flecha oblicua hacia afuera: abajo a la izquierda en el derecho, abajo a la derecha en el izquierdo.",
+    "En la vía ósea, la marca de sin respuesta también se usa si no hay respuesta en el límite del vibrador, que es mucho más bajo que el de la vía aérea.",
+    "Los símbolos de sin respuesta no se unen con líneas entre sí ni con los umbrales medidos.",
+    "Sin respuesta no significa que no haya ninguna audición; solo indica que el umbral es peor de lo que el equipo puede medir."
+   ]
+  },
+  {
+   "id": "renk_cizgi",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Color y líneas",
+   "baslik": "Reglas de color y *líneas*",
+   "maddeler": [
+    {
+     "metin": "Vía aérea: unida con _línea continua_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Vía ósea: _sin unir_ según la ASHA",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "BSA: vía ósea con _línea discontinua_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Las líneas _no atraviesan_ los símbolos",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "El color ayuda; decide el _símbolo_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        40,
+        45,
+        40,
+        45,
+        50,
+        55
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sag",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        15,
+        15,
+        10,
+        15,
+        20
+       ],
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Los umbrales por vía aérea de un mismo oído se unen con una línea continua.",
+    "En las pautas de la ASHA, los umbrales por vía ósea en general no se unen; puede usarse una línea discontinua si hay brecha aéreo-ósea.",
+    "La BSA recomienda unir los símbolos de vía ósea con una línea discontinua; ambos criterios son habituales, y lo importante es la coherencia en el formulario.",
+    "Las líneas llegan cerca de los símbolos pero no los atraviesan, para que el símbolo siga siendo fácil de leer.",
+    "El rojo para el oído derecho y el azul para el izquierdo es una costumbre frecuente, pero la ASHA no exige usar colores.",
+    "Esto se debe a que el color se pierde en una fotocopia o en una impresión en blanco y negro; el propio símbolo siempre debe indicar el oído."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 5",
+   "bolum": "Registro",
+   "baslik": "Qué *agregar* al audiograma",
+   "ogeler": [
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Transductor",
+     "cumle": 0,
+     "metin": "Supraaural, de inserción o vibrador"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Nivel de enmascaramiento",
+     "cumle": 1,
+     "metin": "Ruido aplicado al oído opuesto"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Campo libre",
+     "cumle": 2,
+     "metin": "Letra S, sin oído especificado"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Nota vibrotáctil",
+     "cumle": 3,
+     "metin": "Posibles respuestas vibrotáctiles"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Confiabilidad",
+     "cumle": 4,
+     "metin": "Consistencia de respuestas y método"
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Equipo",
+     "cumle": 5,
+     "metin": "Audiómetro y fecha de calibración"
+    }
+   ],
+   "cumleler": [
+    "Los símbolos por sí solos no bastan; también se agrega cierta información al audiograma.",
+    "Se anota el transductor usado; los resultados obtenidos con auriculares de inserción y supraaurales pueden interpretarse de forma distinta.",
+    {
+     "yazi": "Si se usó enmascaramiento, el nivel máximo de enmascaramiento efectivo aplicado al oído opuesto puede anotarse en la tabla bajo el audiograma."
+    },
+    {
+     "yazi": "Los umbrales en campo libre, donde no se pueden separar los oídos, se marcan con la letra S sobre la línea de frecuencia."
+    },
+    "Las respuestas que probablemente se sienten en lugar de oírse, llamadas respuestas vibrotáctiles, se anotan aparte; la BSA lo exige claramente.",
+    "La confiabilidad de las respuestas, el método usado, el audiómetro y la fecha de la última calibración también forman parte del registro."
+   ]
+  },
+  {
+   "id": "ust_uste",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "Registro",
+   "baslik": "Cuando los símbolos se *superponen*",
+   "maddeler": [
+    {
+     "metin": "O y X se _superponen_ con igual umbral",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Ósea enmascarada: _al lado_ de la aérea",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Ósea no especificada: _algo más arriba_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Todo formulario tiene una _leyenda_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        20,
+        25,
+        30,
+        40,
+        45
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        20,
+        25,
+        30,
+        40,
+        45
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Si los umbrales por vía aérea de ambos oídos son iguales, la ASHA indica que los símbolos se dibujan uno encima del otro.",
+    "El símbolo de vía ósea enmascarada se coloca al lado del símbolo de vía aérea del mismo nivel, sin tocarlo.",
+    "El símbolo de vía ósea no especificada se coloca un poco por encima del símbolo de vía aérea del mismo nivel.",
+    "Los programas informáticos pueden usar otros símbolos, por eso todo audiograma debe incluir una explicación de los símbolos, llamada leyenda.",
+    "La BSA también acepta símbolos distintos en los programas, siempre que el resultado sea claro y sin ambigüedad."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Un símbolo de vía ósea sin enmascaramiento indica en qué mastoides estaba el vibrador. No prueba que responda esa cóclea; los umbrales de cada oído requieren enmascaramiento.",
+   "cumleler": [
+    "Un consejo de la clínica: cuando vean un signo menor que o mayor que en la vía ósea sin enmascaramiento, no lo lean como la cóclea de ese oído.",
+    "El signo solo indica dónde se colocó el vibrador; en la vía ósea, las dos cócleas se estimulan a un nivel casi igual.",
+    "En un oído con brecha aéreo-ósea, solo una medición enmascarada demuestra que el umbral por vía ósea corresponde a ese oído.",
+    "Antes de firmar el audiograma, verifiquen que el símbolo, el oído y el estado del enmascaramiento coincidan en cada frecuencia."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "O, X: vía aérea _sin enmascarar_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Triángulo, cuadrado: vía aérea _enmascarada_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Corchetes: vía ósea _enmascarada_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Sin respuesta: límite, _flecha oblicua_, sin líneas",
+     "cumle": 2,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "En la vía aérea se usan la O y el triángulo para el oído derecho, y la equis y el cuadrado para el izquierdo; el triángulo y el cuadrado indican enmascaramiento.",
+    "En la vía ósea, los signos menor que y mayor que indican umbrales sin enmascaramiento, y los corchetes, umbrales enmascarados.",
+    "La marca de sin respuesta se coloca en el límite del equipo, lleva una flecha oblicua hacia afuera y no se une con líneas.",
+    "Una octava se dibuja igual a veinte decibeles; el color ayuda, pero el símbolo es lo que define el oído."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Qué símbolo indica un umbral enmascarado por vía aérea del oído izquierdo?",
+   "secenekler": [
+    "X",
+    "Triángulo",
+    "Cuadrado",
+    "Corchete"
+   ],
+   "dogru": 2,
+   "aciklama": "Según la ASHA, la vía aérea izquierda sin enmascarar es una _X_ y la enmascarada, un _cuadrado_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué símbolo indica el umbral por vía aérea enmascarado del oído izquierdo?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la C: un cuadrado."
+    },
+    "En el oído izquierdo, la vía aérea sin enmascarar se marca con una equis y la enmascarada con un cuadrado; en el derecho, con una O y un triángulo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Configuraciones* audiométricas y lo que sugieren",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos la forma del audiograma: configuraciones plana, descendente, con muesca y en galleta mordida.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

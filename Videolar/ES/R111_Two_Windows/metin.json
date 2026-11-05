@@ -1,0 +1,104 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R111_Two_Windows_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #111",
+  "baslik": "Dos *ventanas* del oído interno",
+  "alt": "La ventana oval y la ventana redonda",
+  "cizim": "koklea_acik",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Por qué el oído interno tiene dos ventanas? #shorts",
+  "aciklama": "Los líquidos no se pueden comprimir, así que cuando el estribo empuja la ventana oval hacia dentro, la membrana de la ventana redonda se abomba hacia fuera. Este movimiento de vaivén permite que vibren los líquidos del oído interno y la membrana basilar. Si se forma una tercera abertura en el laberinto óseo, parte de la energía sonora escapa por ella.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "oido",
+   "anatomia"
+  ],
+  "etiketler": [
+   "oído interno",
+   "ventana oval",
+   "ventana redonda",
+   "tercera ventana",
+   "estribo",
+   "laberinto",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Por qué el oído interno tiene dos ventanas?",
+  "bilgiler": [
+   "Los líquidos no se pueden comprimir.",
+   "Cuando el estribo empuja la ventana oval, la ventana redonda se abomba hacia fuera.",
+   "Si se forma una tercera abertura, la energía escapa: el efecto de tercera ventana."
+  ],
+  "hashtag": [
+   "audiologia",
+   "oido",
+   "anatomia"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #111",
+   "metin": "¿Por qué el oído interno tiene *dos ventanas?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Por qué el oído interno tiene dos ventanas?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "El líquido *no se comprime*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Oval",
+     "tr": "se hunde",
+     "cumle": 1
+    },
+    {
+     "ad": "Redonda",
+     "tr": "se abomba",
+     "cumle": 1,
+     "gecikme": 1.6
+    },
+    {
+     "ad": "Vibración",
+     "tr": "membrana basilar",
+     "cumle": 2
+    }
+   ],
+   "alt": "Una tercera abertura: _el efecto de tercera ventana_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Los líquidos del oído interno no se pueden comprimir.",
+    "El estribo empuja la ventana oval hacia dentro; la ventana redonda se abomba hacia fuera.",
+    "Esto permite que vibren los líquidos y la membrana basilar.",
+    "Si se forma una tercera abertura, parte de la energía sonora escapa por ella."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D023",
+ "kaynak_baslik": "El oído interno: laberinto óseo y membranoso"
+}

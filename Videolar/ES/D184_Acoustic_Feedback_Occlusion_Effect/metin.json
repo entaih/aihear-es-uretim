@@ -1,0 +1,1081 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D184_Acoustic_Feedback_Occlusion_Effect_ES",
+ "kapak": {
+  "ust": "LECCIÓN 184",
+  "baslik": "Retroalimentación<br>y *oclusión*",
+  "alt": "Silbidos, ventilaciones y voz propia",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  }
+ },
+ "youtube": {
+  "baslik": "Retroalimentación acústica y efecto de oclusión | Lección 184 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Por qué silba un audífono y por qué algunas personas oyen su propia voz apagada? En esta lección vemos el lazo de retroalimentación acústica, la cancelación adaptativa de la retroalimentación, cómo se mide el efecto de oclusión, los efectos de la ventilación y de la adaptación abierta, y cómo abordar las quejas sobre la propia voz.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Dillon, Hearing Aids; Mueller, Ricketts y Bentler, Modern Hearing Aids; Katz, Handbook of Clinical Audiology; American Academy of Audiology, Guidelines for the Audiologic Management of Adult Hearing Impairment.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audifonos",
+   "oclusion"
+  ],
+  "etiketler": [
+   "retroalimentación acústica",
+   "cancelación de la retroalimentación",
+   "ganancia estable añadida",
+   "efecto de oclusión",
+   "ventilación del molde",
+   "adaptación abierta",
+   "voz propia",
+   "molde auricular",
+   "adaptación de audífonos",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 184",
+   "baslik": "Retroalimentación y *oclusión*",
+   "alt": "Silbidos, ventilaciones y percepción de la propia voz",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos los dos problemas acústicos más frecuentes de los usuarios de audífonos: los silbidos y la propia voz apagada.",
+    "Veremos cómo surge la retroalimentación, cómo se previene y cómo una ventilación reduce el efecto de oclusión."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la retroalimentación?",
+   "baslik": "El recorrido del *silbido*",
+   "cizim": "isitme_cihazi",
+   "ayar": {
+    "tip": "BTE"
+   },
+   "etiketler": [
+    {
+     "parca": "alici",
+     "metin": "receptor: sale el sonido",
+     "cumle": 1
+    },
+    {
+     "parca": "kalip",
+     "metin": "borde del molde: fuga",
+     "cumle": 2
+    },
+    {
+     "parca": "mikrofon",
+     "metin": "micrófono: vuelve el sonido",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "alici",
+     "cumle": 1
+    },
+    {
+     "parca": "kalip",
+     "cumle": 2
+    },
+    {
+     "parca": "mikrofon",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "El sonido se fuga del oído",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "El micrófono capta el sonido fugado",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "El lazo crece: _silbido_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La retroalimentación acústica ocurre cuando el sonido que produce el audífono vuelve a llegar a su propio micrófono.",
+    "El sonido sale del receptor y se entrega al conducto auditivo a través del molde o del domo.",
+    "Parte de este sonido se fuga por pequeñas aberturas en el borde del molde y por la ventilación.",
+    "Si el sonido fugado llega al micrófono, el audífono también lo amplifica y lo vuelve a entregar al oído.",
+    "Como el lazo se alimenta a sí mismo, el sonido crece y aparece el silbido que oyen el usuario o las personas cercanas.",
+    "En resumen, la retroalimentación es un lazo de sonido que se cierra entre el micrófono y el receptor."
+   ]
+  },
+  {
+   "id": "dongu",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la retroalimentación?",
+   "baslik": "Un *lazo* que se alimenta solo",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Receptor",
+     "cumle": 0,
+     "metin": "Entrega el sonido al oído"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Fuga",
+     "cumle": 1,
+     "metin": "Por la ventilación y los bordes"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Micrófono",
+     "cumle": 2,
+     "metin": "Capta el sonido fugado"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Amplificación",
+     "cumle": 3,
+     "metin": "Ganancia otra vez"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Silbido",
+     "cumle": 4,
+     "metin": "El lazo crece"
+    }
+   ],
+   "cumleler": [
+    "Sigamos el lazo paso a paso: el receptor entrega el sonido amplificado al conducto auditivo.",
+    "Parte del sonido escapa por la ventilación o por una abertura en el borde del molde.",
+    "El sonido que escapa llega al micrófono, que está junto al pabellón auricular.",
+    "El audífono procesa este sonido como una nueva entrada y vuelve a amplificarlo.",
+    "Si el sonido se hace un poco más fuerte en cada vuelta, el lazo se vuelve inestable y se oye un silbido continuo."
+   ]
+  },
+  {
+   "id": "dongu_kazanci",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la retroalimentación?",
+   "baslik": "¿Cuándo empieza el *silbido*?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 70,
+     "adim": 10,
+     "ad": "dB"
+    },
+    "seriler": [
+     {
+      "ad": "kazanc",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        15
+       ],
+       [
+        1000,
+        25
+       ],
+       [
+        2000,
+        38
+       ],
+       [
+        3000,
+        45
+       ],
+       [
+        4000,
+        42
+       ],
+       [
+        6000,
+        30
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "ganancia del audífono",
+      "cumle": 1
+     },
+     {
+      "ad": "yol",
+      "noktalar": [
+       [
+        250,
+        66
+       ],
+       [
+        500,
+        60
+       ],
+       [
+        1000,
+        52
+       ],
+       [
+        2000,
+        42
+       ],
+       [
+        3000,
+        38
+       ],
+       [
+        4000,
+        38
+       ],
+       [
+        6000,
+        41
+       ],
+       [
+        8000,
+        46
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "etiket": "atenuación de la vía de retroalimentación",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "risk",
+      "x": [
+       2300,
+       4700
+      ],
+      "renk": "sari",
+      "etiket": "riesgo de silbido",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Dos magnitudes determinan cuándo empezará la retroalimentación.",
+    "La primera es la ganancia que da el audífono en esa frecuencia.",
+    "La segunda es cuánto se debilita el sonido fugado en su camino de vuelta al micrófono; podemos llamarla atenuación de la vía de retroalimentación.",
+    "Cuando la ganancia alcanza esta atenuación, es decir, cuando la ganancia de lazo sube a cero decibeles, el sonido se alimenta a sí mismo.",
+    "Cuando además la fase coincide, empieza el silbido; esto suele verse entre unos 2000 y 5000 Hz.",
+    "Esto se debe a que en esta región se da la mayor ganancia, y los sonidos de longitud de onda corta escapan con facilidad por pequeñas aberturas."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "¿Qué es la retroalimentación?",
+   "baslik": "Qué *aumenta* la retroalimentación",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Molde flojo",
+     "cumle": 1,
+     "metin": "Fuga por el borde"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Cerumen",
+     "cumle": 2,
+     "metin": "Refleja el sonido"
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Superficie cercana",
+     "cumle": 3,
+     "metin": "Mano, sombrero, teléfono"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Movimiento mandibular",
+     "cumle": 4,
+     "metin": "Cambia la forma del conducto"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Ventilación amplia",
+     "cumle": 5,
+     "metin": "Escapa más sonido"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Ganancia alta",
+     "cumle": 5,
+     "metin": "En las frecuencias agudas"
+    }
+   ],
+   "cumleler": [
+    "Reconocer las situaciones que aumentan el riesgo de retroalimentación resuelve gran parte del problema.",
+    "Si el molde queda flojo, o el conducto auditivo cambia de forma después de hacer el molde, se forma una abertura de fuga en el borde.",
+    "El cerumen acumulado en el conducto auditivo puede reflejar el sonido del receptor y facilitar el silbido.",
+    "Cuando un teléfono, un sombrero o una mano durante un abrazo se acercan al oído, el sonido fugado se refleja y llega al micrófono con más facilidad.",
+    "El movimiento de la mandíbula al hablar y al masticar cambia la forma del conducto auditivo y puede desplazar ligeramente el molde.",
+    "Una ventilación amplia y una ganancia alta en los agudos son los dos factores de adaptación que más contribuyen al lazo."
+   ]
+  },
+  {
+   "id": "iptal",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Manejo de la retroalimentación",
+   "baslik": "Cancelación de la *retroalimentación*",
+   "adimlar": [
+    {
+     "ikon": "yazilim",
+     "baslik": "Estimar la vía",
+     "cumle": 1,
+     "metin": "Modelo continuo"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Crear una copia",
+     "cumle": 2,
+     "metin": "Estimación del sonido fugado"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Restar",
+     "cumle": 3,
+     "metin": "De la señal del micrófono"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Actualizar",
+     "cumle": 4,
+     "metin": "Se adapta si el oído cambia"
+    }
+   ],
+   "cumleler": [
+    "En los audífonos actuales, la herramienta más importante es el sistema adaptativo de cancelación de la retroalimentación.",
+    "El sistema estima de forma continua el camino que sigue el sonido desde el receptor de vuelta hasta el micrófono.",
+    "Con esta estimación se calcula una copia del sonido de fuga que se espera que llegue al micrófono.",
+    "La copia se resta de la señal del micrófono, de modo que la fuga se neutraliza en gran parte antes de que el lazo se cierre.",
+    "Cuando un teléfono se acerca al oído la vía cambia, y el sistema intenta adaptarse rápidamente a ese cambio."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Manejo de la retroalimentación",
+   "baslik": "¿Cuánto *ayuda*?",
+   "maddeler": [
+    {
+     "metin": "Ganancia estable añadida: _varía según el equipo_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Diferencias marcadas entre equipos",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Efectos secundarios con sonidos tonales como música",
+     "cumle": 2,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Métodos antiguos: reducir ganancia, filtro de muesca",
+     "cumle": 3,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "No reemplaza un molde bien adaptado",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "etiketler": [
+     {
+      "parca": "islemci",
+      "metin": "cancelación: en el procesador",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "islemci",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "El aumento de ganancia disponible antes del silbido gracias al sistema de cancelación se llama ganancia estable añadida.",
+    "Este aumento varía mucho entre equipos; los valores medidos van desde unos pocos decibeles hasta más de 20 dB.",
+    "El sistema puede confundir sonidos tonales estables, como la música o un timbre, con retroalimentación y distorsionarlos; a veces se oyen breves chirridos.",
+    "Los métodos antiguos consistían en reducir la ganancia en los agudos o colocar un filtro de muesca estrecho en la frecuencia del silbido.",
+    "Ningún algoritmo reemplaza un molde bien adaptado, una buena elección de la ventilación y un conducto auditivo limpio."
+   ]
+  },
+  {
+   "id": "okluzyon",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "El efecto de oclusión",
+   "baslik": "¿Por qué mi voz suena *apagada*?",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "vibra la pared del conducto",
+     "cumle": 2
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "membrana timpánica",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vibración ósea hacia el conducto",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Sonido grave _atrapado_ en el conducto cerrado",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Voz propia apagada y con eco",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Pasemos ahora al segundo problema: el efecto de oclusión.",
+    "Cuando hablamos, nuestra propia voz hace vibrar el cráneo, y esta vibración también llega a la pared del conducto auditivo.",
+    "Sobre todo vibra la pared de la porción cartilaginosa externa, que irradia un sonido principalmente grave hacia el conducto auditivo.",
+    "Cuando el conducto auditivo está abierto, este sonido escapa y pasa inadvertido.",
+    "En cambio, cuando un molde cierra el conducto auditivo, el sonido queda dentro y se dirige hacia la membrana timpánica.",
+    "Como resultado, la persona oye su propia voz apagada, con eco, o como si saliera del interior de su cabeza."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "El efecto de oclusión",
+   "baslik": "Cómo *medir* la oclusión",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000
+     ]
+    },
+    "y": {
+     "min": 50,
+     "max": 100,
+     "adim": 10,
+     "ad": "Nivel en el conducto auditivo (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "acik",
+      "noktalar": [
+       [
+        125,
+        70
+       ],
+       [
+        250,
+        72
+       ],
+       [
+        500,
+        74
+       ],
+       [
+        1000,
+        72
+       ],
+       [
+        2000,
+        68
+       ],
+       [
+        4000,
+        62
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "oído abierto",
+      "cumle": 1
+     },
+     {
+      "ad": "kapali",
+      "noktalar": [
+       [
+        125,
+        92
+       ],
+       [
+        250,
+        95
+       ],
+       [
+        500,
+        86
+       ],
+       [
+        1000,
+        75
+       ],
+       [
+        2000,
+        68
+       ],
+       [
+        4000,
+        61
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "ocluido, audífono silenciado",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       72,
+       95
+      ],
+      "xk": 250,
+      "etiket": "unos 23 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "El efecto de oclusión puede mostrarse de forma objetiva con una medición en oído real con micrófono de sonda.",
+    "Primero, con el conducto auditivo abierto, se pide a la persona que sostenga la vocal i a un nivel estable, y se mide el nivel en el conducto.",
+    "Luego se repite la misma medición con el audífono colocado pero silenciado.",
+    "La diferencia entre las dos curvas da la magnitud del efecto de oclusión en las frecuencias graves.",
+    "En este ejemplo, la diferencia es de unos 23 dB alrededor de 250 Hz, pero de solo unos pocos decibeles a 1000 Hz.",
+    "Con moldes cerrados y poco profundos, esta diferencia puede llegar a 20 a 30 dB por debajo de 500 Hz."
+   ]
+  },
+  {
+   "id": "derinlik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "El efecto de oclusión",
+   "baslik": "Profundidad y *porción ósea*",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "insert": true
+   },
+   "etiketler": [
+    {
+     "parca": "kopuk_uc",
+     "metin": "punta que cierra el conducto",
+     "cumle": 1
+    },
+    {
+     "parca": "temporal_kemik",
+     "metin": "porción ósea",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kopuk_uc",
+     "cumle": 1
+    },
+    {
+     "parca": "temporal_kemik",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sellado superficial: efecto _grande_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sellado en la porción ósea: efecto _pequeño_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Molde profundo: cuidar el confort",
+     "cumle": 4,
+     "ikon": "agri"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La magnitud del efecto de oclusión depende del punto del conducto auditivo donde sella el molde.",
+    "Si el molde cierra solo la porción cartilaginosa externa, la pared que vibra queda dentro del espacio cerrado y el efecto aumenta.",
+    "Si el molde se extiende hasta la porción ósea interna y sella allí, la pared cartilaginosa que vibra queda fuera del espacio cerrado.",
+    "Por eso, el efecto de oclusión es claramente menor con moldes de inserción profunda.",
+    "Sin embargo, la piel de la porción ósea es delgada y sensible; un molde profundo puede causar molestias y requiere una impresión cuidadosa."
+   ]
+  },
+  {
+   "id": "vent",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ventilación y adaptación abierta",
+   "baslik": "El efecto de la *ventilación*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000
+     ]
+    },
+    "y": {
+     "min": -30,
+     "max": 5,
+     "adim": 10,
+     "ad": "Cambio de ganancia (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "v1",
+      "noktalar": [
+       [
+        250,
+        -8
+       ],
+       [
+        500,
+        -4
+       ],
+       [
+        750,
+        -1
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        0
+       ],
+       [
+        4000,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "1 mm",
+      "cumle": 3
+     },
+     {
+      "ad": "v2",
+      "noktalar": [
+       [
+        250,
+        -16
+       ],
+       [
+        500,
+        -9
+       ],
+       [
+        750,
+        -4
+       ],
+       [
+        1000,
+        -2
+       ],
+       [
+        1500,
+        0
+       ],
+       [
+        4000,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "2 mm",
+      "cumle": 4
+     },
+     {
+      "ad": "v3",
+      "noktalar": [
+       [
+        250,
+        -25
+       ],
+       [
+        500,
+        -17
+       ],
+       [
+        750,
+        -10
+       ],
+       [
+        1000,
+        -6
+       ],
+       [
+        1500,
+        -2
+       ],
+       [
+        2000,
+        0
+       ],
+       [
+        4000,
+        0
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "3 mm",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "La forma más común de reducir el efecto de oclusión es perforar en el molde una ventilación, es decir, un conducto de aireación.",
+    "La ventilación crea una vía de salida para el sonido grave atrapado en el conducto auditivo.",
+    "Esa misma vía también deja escapar parte de la ganancia en graves que da el audífono.",
+    "En este ejemplo, una ventilación de 1 mm produce una reducción de unos 8 decibeles a 250 Hz.",
+    "A medida que la ventilación se ensancha, la reducción crece y se extiende a frecuencias más altas; con 3 mm puede superar 20 dB a 250 Hz.",
+    "Una ventilación larga y estrecha tiene menos efecto que una corta y ancha.",
+    "Cuanto mayor es la ventilación, mayor es también el riesgo de retroalimentación; por eso elegirla siempre es un equilibrio."
+   ]
+  },
+  {
+   "id": "acik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ventilación y adaptación abierta",
+   "baslik": "Adaptación abierta: *ventajas y desventajas*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Graves naturales",
+     "cumle": 0,
+     "metin": "El conducto queda abierto"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Voz propia natural",
+     "cumle": 1,
+     "metin": "Muy poca oclusión"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Confort",
+     "cumle": 2,
+     "metin": "Ligera y ventilada"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Poca ganancia en graves",
+     "cumle": 3,
+     "metin": "El sonido escapa"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Riesgo de silbido",
+     "cumle": 4,
+     "metin": "Requiere cancelación de la retroalimentación"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Límites en el ruido",
+     "cumle": 5,
+     "metin": "Se mezcla el sonido directo"
+    }
+   ],
+   "cumleler": [
+    "En una adaptación abierta se usa un domo perforado o una punta con una ventilación muy amplia, y el conducto auditivo queda en gran parte abierto.",
+    "La propia voz de la persona suena casi natural; el efecto de oclusión no suele superar unos pocos decibeles.",
+    "Como el conducto auditivo queda ventilado, la punta es cómoda y ligera; quienes usan audífonos por primera vez suelen adaptarse con facilidad.",
+    "Por otro lado, la mayor parte de la ganancia en graves escapa; es decir, la ganancia en frecuencias graves es limitada.",
+    "Una ganancia alta en los agudos también aumenta el riesgo de retroalimentación, por lo que se necesita un sistema de cancelación eficaz.",
+    "Además, el sonido directo que entra por el conducto abierto debilita en los graves el efecto de los micrófonos direccionales y de la reducción de ruido."
+   ]
+  },
+  {
+   "id": "kime",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Ventilación y adaptación abierta",
+   "baslik": "¿Adaptación abierta *para quién*?",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Vía aérea del oído derecho",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Rango normal",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       25,
+       45,
+       60,
+       65
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "La adaptación abierta conviene a personas con graves casi normales y una pérdida concentrada en las frecuencias agudas.",
+    "En este ejemplo, los umbrales del oído derecho son normales hasta 1000 Hz, con una pérdida moderada a moderadamente severa desde 2000 Hz.",
+    "Esta persona ya oye los sonidos graves de forma natural; cerrar el conducto auditivo solo le traería una queja de oclusión.",
+    "Una persona con una pérdida marcada en los graves puede necesitar una punta cerrada o con poca ventilación; la decisión es individual."
+   ]
+  },
+  {
+   "id": "sikayet",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "La queja sobre la propia voz",
+   "baslik": "La queja *\"mi voz suena rara\"*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Escuchar",
+     "cumle": 0,
+     "metin": "La descripción de la persona"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Silenciar el audífono",
+     "cumle": 1,
+     "metin": "¿Persiste la queja?"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Oclusión",
+     "cumle": 3,
+     "metin": "Ventilación, profundidad"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Exceso de ganancia en graves",
+     "cumle": 4,
+     "metin": "Reducir la ganancia en graves"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Aclimatación",
+     "cumle": 5,
+     "metin": "Dar tiempo"
+    }
+   ],
+   "cumleler": [
+    "La queja sobre la percepción de la propia voz es una de las más frecuentes en los usuarios nuevos.",
+    "Una forma práctica de distinguir las causas es silenciar el audífono mientras está en el oído y pedir a la persona que vuelva a hablar.",
+    "Si la queja persiste con el audífono silenciado, el problema es en gran parte físico; es decir, se trata del efecto de oclusión.",
+    "En ese caso se agranda la ventilación, se prueba una punta abierta o se considera extender el molde hasta la porción ósea.",
+    "Si la queja aparece solo con el audífono encendido, la causa puede ser un exceso de ganancia en graves; se reduce la ganancia en esa región.",
+    "En ambos casos es importante explicar que acostumbrarse a la propia voz puede llevar algunas semanas."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Ante una queja de silbido, mira primero el conducto con un otoscopio; el cerumen y un molde flojo son las causas más comunes que resolver antes de cambiar ajustes.",
+   "cumleler": [
+    "Un consejo de la práctica: en todo usuario que se queja de silbidos, el primer paso es mirar el conducto auditivo con un otoscopio.",
+    "Un tapón de cerumen, o el receptor apoyado contra el cerumen, es una causa frecuente de un silbido nuevo que aparece sin ningún cambio en los ajustes.",
+    "Luego revisa cómo asienta el molde o el domo en el oído; la pérdida de peso y el envejecimiento pueden cambiar la forma del conducto auditivo.",
+    "Eliminar el silbido reduciendo la ganancia es fácil, pero así la persona pierde los sonidos agudos del habla.",
+    "Por eso, antes de tocar los ajustes, lo más seguro es descartar las causas físicas y volver a medir la vía de retroalimentación."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Retroalimentación: lazo de sonido que se fuga",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "La cancelación suma ganancia, pero tiene límites",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Oclusión: voz propia atrapada en el conducto",
+     "cumle": 2,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Ventilación y adaptación abierta reducen la oclusión",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que la retroalimentación acústica es un lazo que se cierra cuando el sonido que se fuga del oído vuelve al micrófono.",
+    "La cancelación adaptativa de la retroalimentación aporta ganancia adicional, pero no reemplaza un buen molde ni un conducto auditivo limpio.",
+    "El efecto de oclusión es el atrapamiento de la parte grave de la propia voz en un conducto auditivo cerrado.",
+    "La ventilación y la adaptación abierta reducen la oclusión, pero limitan la ganancia en graves y aumentan el riesgo de retroalimentación."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Una persona oye su voz apagada incluso con el audífono silenciado. ¿Causa probable?",
+   "secenekler": [
+    "Exceso de ganancia en agudos",
+    "Efecto de oclusión",
+    "Pila débil",
+    "Reducción de ruido"
+   ],
+   "dogru": 1,
+   "aciklama": "Si la queja persiste con el audífono silenciado, el origen es el _cierre físico_: se evalúan la ventilación y la profundidad del molde.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: una persona oye su propia voz apagada incluso con el audífono en el oído pero silenciado. ¿Cuál es la causa probable?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: el efecto de oclusión.",
+    "Si la queja persiste cuando el audífono no emite sonido, el origen es el cierre del conducto; se evalúan la ventilación y la profundidad del molde."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Moldes auriculares: impresiones, materiales y *acústica*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos los moldes auriculares: la toma segura de impresiones, los materiales, las ventilaciones, bocinas y amortiguadores.",
+    "Suscríbete al canal para no perderte ninguna lección. ¡Hasta la próxima!"
+   ]
+  }
+ ]
+}

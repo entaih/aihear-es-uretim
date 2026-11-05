@@ -1,0 +1,892 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D034_Genetics_Basics_ES",
+ "kapak": {
+  "ust": "LECCIÓN 34",
+  "baslik": "Genética<br>*básica*",
+  "alt": "Genes, alelos y patrones de herencia",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0.5,
+    "max": 3.5,
+    "ad": "Para cada hijo",
+    "isaretler": [
+     1,
+     2,
+     3
+    ],
+    "yazilar": {
+     "1": "Affected",
+     "2": "Carrier",
+     "3": "Noncarrier",
+     "1": "Afectado",
+     "2": "Portador",
+     "3": "No portador"
+    }
+   },
+   "y": {
+    "min": 0,
+    "max": 60,
+    "adim": 25,
+    "ad": "Probabilidad (%)"
+   },
+   "seriler": [
+    {
+     "ad": "a",
+     "tur": "cubuk",
+     "genislik": 0.5,
+     "noktalar": [
+      [
+       1,
+       25
+      ]
+     ],
+     "renk": "kirmizi",
+     "etiket": "25 %",
+     "etiket_konum": [
+      1,
+      25
+     ]
+    },
+    {
+     "ad": "b",
+     "tur": "cubuk",
+     "genislik": 0.5,
+     "noktalar": [
+      [
+       2,
+       50
+      ]
+     ],
+     "renk": "sari",
+     "etiket": "50 %",
+     "etiket_konum": [
+      2,
+      50
+     ]
+    },
+    {
+     "ad": "c",
+     "tur": "cubuk",
+     "genislik": 0.5,
+     "noktalar": [
+      [
+       3,
+       25
+      ]
+     ],
+     "renk": "mavi",
+     "etiket": "25 %",
+     "etiket_konum": [
+      3,
+      25
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Genética básica: genes, alelos y patrones de herencia | Lección 34 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos los conceptos básicos necesarios para entender la pérdida auditiva genética: ADN, genes, cromosomas, alelos, genotipo y fenotipo. Con ejemplos, vemos la herencia autosómica recesiva y dominante, ligada al X y mitocondrial, los símbolos del árbol genealógico, la penetrancia y la expresividad variable.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Thompson and Thompson Genetics in Medicine; Toriello y Smith, Hereditary Hearing Loss and Its Syndromes; Katz, Handbook of Clinical Audiology; Bennett RL y cols., Standardized human pedigree nomenclature, Journal of Genetic Counseling (2008); Instituto de Estudios de Población de la Universidad Hacettepe, Turkey Demographic and Health Survey 2018.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "genetica",
+   "herencia"
+  ],
+  "etiketler": [
+   "herencia genética",
+   "genética",
+   "autosómico recesivo",
+   "autosómico dominante",
+   "herencia ligada al X",
+   "herencia mitocondrial",
+   "árbol genealógico",
+   "alelo",
+   "hipoacusia genética",
+   "consanguinidad",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 34",
+   "baslik": "Genética *básica*",
+   "alt": "Genes, alelos y patrones de herencia",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos los conceptos básicos para entender la pérdida auditiva genética: genes, cromosomas y alelos.",
+    "Conoceremos la herencia autosómica dominante y recesiva, la ligada al X y la mitocondrial, y cómo leer un árbol genealógico."
+   ]
+  },
+  {
+   "id": "dna",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos básicos",
+   "baslik": "Del ADN *a la proteína*",
+   "adimlar": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "ADN",
+     "cumle": 1,
+     "metin": "El texto de la herencia"
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Gen",
+     "cumle": 2,
+     "metin": "La receta de una proteína"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Proteína",
+     "cumle": 4,
+     "metin": "Trabaja en la célula"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tejido",
+     "cumle": 5,
+     "metin": "Por ejemplo, la cóclea"
+    }
+   ],
+   "cumleler": [
+    "Para entender la herencia, conozcamos primero algunos conceptos básicos.",
+    "El ADN es la molécula que lleva la información hereditaria en nuestras células; es como un texto larguísimo escrito con solo cuatro letras.",
+    "Un tramo de este texto que codifica una tarea concreta se llama gen; un gen suele llevar la receta para fabricar una proteína.",
+    "El ser humano tiene unos veinte mil genes que codifican proteínas.",
+    "Las proteínas hacen el trabajo de la célula; por ejemplo, algunas proteínas de la cóclea dejan pasar iones de potasio entre las células.",
+    "Si un cambio en un gen altera la estructura o la cantidad de una proteína, pueden surgir problemas en el tejido donde esa proteína trabaja."
+   ]
+  },
+  {
+   "id": "kromozom",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos básicos",
+   "baslik": "46 *cromosomas*",
+   "maddeler": [
+    {
+     "metin": "_23 pares_ de cromosomas",
+     "cumle": 1,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Uno de la madre, otro _del padre_",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "22 pares de _autosomas_",
+     "cumle": 3,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Mujer XX, hombre _XY_",
+     "cumle": 4,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "ADN mitocondrial: _de la madre_",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "CROMOSOMAS",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "gen_dna",
+      "baslik": "Autosomas",
+      "cumle": 3,
+      "metin": "22 pares"
+     },
+     {
+      "ikon": "hasta",
+      "baslik": "Sexuales",
+      "cumle": 4,
+      "metin": "XX o XY"
+     },
+     {
+      "ikon": "laboratuvar",
+      "baslik": "Mitocondrias",
+      "cumle": 5,
+      "metin": "ADN de la madre"
+     }
+    ]
+   },
+   "cumleler": [
+    "En el núcleo celular, el ADN se empaqueta en estructuras llamadas cromosomas.",
+    "El ser humano tiene cuarenta y seis cromosomas, es decir, veintitrés pares.",
+    "Un cromosoma de cada par proviene de la madre y el otro, del padre.",
+    "Veintidós pares son autosomas, que no dependen del sexo; el último par corresponde a los cromosomas sexuales.",
+    "Las mujeres tienen dos cromosomas X, y los hombres, un cromosoma X y uno Y.",
+    "Las mitocondrias, las partes de la célula que producen energía, también tienen su propio ADN pequeño, y este ADN proviene de la madre."
+   ]
+  },
+  {
+   "id": "alel",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos básicos",
+   "baslik": "Alelo, genotipo, *fenotipo*",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Alelo",
+     "cumle": 1,
+     "metin": "Una versión de un gen"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Homocigoto",
+     "cumle": 2,
+     "metin": "Dos copias iguales"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Heterocigoto",
+     "cumle": 2,
+     "metin": "Dos copias distintas"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Fenotipo",
+     "cumle": 4,
+     "metin": "Por ejemplo, el audiograma"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Variante",
+     "cumle": 5,
+     "metin": "Un cambio en un gen"
+    }
+   ],
+   "cumleler": [
+    "Cada gen de los autosomas tiene dos copias, una de la madre y otra del padre.",
+    "Las distintas versiones de un gen se llaman alelos.",
+    "Si las dos copias de una persona son el mismo alelo, la persona es homocigota; si son alelos distintos, heterocigota.",
+    "El genotipo es la combinación de alelos que tiene una persona; el fenotipo es el resultado visible o medible.",
+    "En audiología, el fenotipo suele ser el audiograma: el grado de pérdida, su configuración y su edad de inicio.",
+    "En la literatura genética, los cambios que causan enfermedad se llaman cada vez más variantes patogénicas, en lugar de mutaciones.",
+    "En esta lección, para mayor claridad, usaremos los términos gen alterado y cambio."
+   ]
+  },
+  {
+   "id": "dominant_resesif",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Conceptos básicos",
+   "baslik": "Dominante y *recesivo*",
+   "maddeler": [
+    {
+     "metin": "Dominante: basta _una copia_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Recesivo: se necesitan _dos copias_",
+     "cumle": 2,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Portador: _generalmente no afectado_",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Todos somos _portadores_ de algunos cambios",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PORTADOR",
+    "metin": "Persona con *una copia* de un alelo recesivo, generalmente no afectada",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Que una sola copia de un alelo baste o no para mostrar su efecto determina el patrón de herencia.",
+    "Un alelo que muestra su efecto incluso con una sola copia se llama alelo dominante.",
+    "Un alelo que necesita las dos copias para mostrar su efecto se llama alelo recesivo.",
+    "Una persona que lleva solo una copia de un alelo recesivo se llama portadora; los portadores generalmente no están afectados.",
+    "Todos somos portadores de algunos cambios recesivos; la mayoría nunca lo sabe."
+   ]
+  },
+  {
+   "id": "resesif",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Patrones de herencia",
+   "baslik": "Herencia autosómica *recesiva*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 3.5,
+     "ad": "Para cada hijo",
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "Affected",
+      "2": "Carrier",
+      "3": "Noncarrier",
+      "1": "Afectado",
+      "2": "Portador",
+      "3": "No portador"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 60,
+     "adim": 25,
+     "ad": "Probabilidad (%)"
+    },
+    "seriler": [
+     {
+      "ad": "etkilenmis",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        1,
+        25
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "25 %",
+      "etiket_konum": [
+       1,
+       25
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "tasiyici",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        2,
+        50
+       ]
+      ],
+      "renk": "sari",
+      "etiket": "50 %",
+      "etiket_konum": [
+       2,
+       50
+      ],
+      "cumle": 3
+     },
+     {
+      "ad": "tasimiyor",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        3,
+        25
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "25 %",
+      "etiket_konum": [
+       3,
+       25
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Padre y madre portadores",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "_Igual_ probabilidad en cada embarazo",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "En hermanos: patrón _horizontal_",
+     "cumle": 5,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "En la herencia autosómica recesiva, un hijo debe recibir dos copias alteradas para estar afectado.",
+    "Lo más frecuente es que la madre y el padre sean portadores oyentes; cada uno lleva una copia alterada y una copia funcional.",
+    "Para cada hijo de dos portadores así, la probabilidad de estar afectado es del veinticinco por ciento.",
+    "La probabilidad de que sea portador es del cincuenta por ciento, y la de no llevar ninguna copia alterada, del veinticinco por ciento.",
+    "Estas probabilidades se aplican de nuevo en cada embarazo; tener un hijo afectado no cambia las probabilidades del siguiente.",
+    "En un árbol genealógico, las condiciones recesivas suelen aparecer en hermanos de una misma generación y pueden no verse en las anteriores.",
+    "Niñas y niños se afectan con la misma frecuencia."
+   ]
+  },
+  {
+   "id": "soy_agaci",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Patrones de herencia",
+   "baslik": "Consanguinidad y *riesgo recesivo*",
+   "cizim": "pedigri",
+   "ayar": {
+    "tip": "resesif",
+    "akraba_cumle": 1,
+    "tasiyici_cumle": 2,
+    "etkilenmis_cumle": 3
+   },
+   "notlar": [
+    {
+     "metin": "Cuadrado _hombre_, círculo _mujer_",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Línea doble: _pareja emparentada_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Turquía: cerca del _24 %_",
+     "cumle": 5,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "En pantalla ven un árbol genealógico sencillo; los números romanos indican las generaciones.",
+    "En la primera generación, la línea doble entre la madre y el padre indica que la pareja está emparentada.",
+    "Ambos son portadores del mismo gen alterado, y ambos tienen audición normal.",
+    "En la segunda generación, uno de los cuatro hijos tiene pérdida auditiva; el símbolo relleno indica a la persona afectada.",
+    "Las parejas emparentadas tienen más probabilidad de llevar el mismo gen alterado de un ancestro común, por lo que aumenta el riesgo recesivo.",
+    {
+     "yazi": "En Turquía, según la Encuesta Demográfica y de Salud de Turquía 2018, cerca del veinticuatro por ciento de los matrimonios son consanguíneos."
+    },
+    "Veremos la consanguinidad y el asesoramiento genético en detalle en una lección posterior."
+   ],
+   "etiketler": [
+    {
+     "parca": "tasiyicilar",
+     "metin": "portador",
+     "cumle": 2
+    },
+    {
+     "parca": "etkilenmis",
+     "metin": "afectado",
+     "cumle": 3
+    }
+   ]
+  },
+  {
+   "id": "dominant",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Patrones de herencia",
+   "baslik": "Herencia autosómica *dominante*",
+   "maddeler": [
+    {
+     "metin": "Basta _una copia_",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "_50 %_ para cada hijo",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Transmisión _vertical_ entre generaciones",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "De novo: un cambio _nuevo_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 0.5,
+      "max": 2.5,
+      "ad": "Para cada hijo",
+      "isaretler": [
+       1,
+       2
+      ],
+      "yazilar": {
+       "1": "Affected",
+       "2": "Unaffected",
+       "1": "Afectado",
+       "2": "No afectado"
+      }
+     },
+     "y": {
+      "min": 0,
+      "max": 60,
+      "adim": 25,
+      "ad": "Probabilidad (%)"
+     },
+     "seriler": [
+      {
+       "ad": "etkilenmis",
+       "tur": "cubuk",
+       "genislik": 0.5,
+       "noktalar": [
+        [
+         1,
+         50
+        ]
+       ],
+       "renk": "kirmizi",
+       "etiket": "50 %",
+       "etiket_konum": [
+        1,
+        50
+       ],
+       "cumle": 1
+      },
+      {
+       "ad": "etkilenmemis",
+       "tur": "cubuk",
+       "genislik": 0.5,
+       "noktalar": [
+        [
+         2,
+         50
+        ]
+       ],
+       "renk": "mavi",
+       "etiket": "50 %",
+       "etiket_konum": [
+        2,
+        50
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "En la herencia autosómica dominante, una sola copia alterada basta para estar afectado.",
+    "Cada hijo de un progenitor afectado tiene un cincuenta por ciento de probabilidad de recibir la copia alterada.",
+    "Por eso, en un árbol genealógico, las condiciones dominantes se ven de generación en generación, en línea vertical.",
+    "Mujeres y hombres se afectan con la misma frecuencia, y la condición también puede pasar de padre a hijo varón.",
+    "Las hipoacusias dominantes no sindrómicas suelen comenzar después del nacimiento y progresar con el tiempo.",
+    "A veces no hay ningún antecedente familiar; el cambio apareció por primera vez en el hijo, y esto se llama cambio de novo."
+   ]
+  },
+  {
+   "id": "x_mito",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Patrones de herencia",
+   "baslik": "Ligada al X y *mitocondrial*",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "Ligada al X",
+     "cumle": 1,
+     "metin": "Más hombres afectados"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Madre portadora",
+     "cumle": 3,
+     "metin": "50 % para los hijos varones"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Padre afectado",
+     "cumle": 4,
+     "metin": "Hijas portadoras, hijos no"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Mitocondrial",
+     "cumle": 5,
+     "metin": "Solo de la madre"
+    }
+   ],
+   "cumleler": [
+    "En la herencia ligada al X, el gen alterado está en el cromosoma X.",
+    "Como los hombres tienen un solo cromosoma X, un cambio recesivo ligado al X muestra su efecto directamente en ellos.",
+    "Gracias a la copia funcional de su segundo cromosoma X, las mujeres suelen ser portadoras o estar levemente afectadas.",
+    "Para cada hijo varón de una madre portadora, la probabilidad de estar afectado es del cincuenta por ciento.",
+    "Un padre afectado no puede transmitir el cambio a sus hijos varones, pero todas sus hijas serán portadoras.",
+    "En la herencia mitocondrial, el cambio pasa solo de la madre; todos los hijos de una madre afectada llevan el cambio.",
+    "El ADN mitocondrial del padre no pasa a los hijos; veremos un ejemplo relacionado con fármacos en próximas lecciones de genética."
+   ]
+  },
+  {
+   "id": "semboller",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "El árbol genealógico",
+   "baslik": "Símbolos del *árbol genealógico*",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "Cuadrado, círculo",
+     "cumle": 1,
+     "metin": "Hombre y mujer"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Símbolo relleno",
+     "cumle": 1,
+     "metin": "Persona afectada"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Línea doble",
+     "cumle": 2,
+     "metin": "Pareja emparentada"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Hermanos",
+     "cumle": 3,
+     "metin": "En orden de nacimiento"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Flecha",
+     "cumle": 4,
+     "metin": "Caso índice"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Números romanos",
+     "cumle": 5,
+     "metin": "Generaciones"
+    }
+   ],
+   "cumleler": [
+    "Un árbol genealógico es un dibujo que muestra a las personas de una familia y sus relaciones con símbolos estándar.",
+    "Los cuadrados indican hombres y los círculos, mujeres; un símbolo relleno es una persona afectada.",
+    "La pareja se une con una línea horizontal; entre parejas emparentadas se usa una línea doble.",
+    "Los hijos se indican con una línea vertical que baja de esa línea y se ubican de izquierda a derecha por orden de nacimiento.",
+    "La primera persona que trae a la familia a la consulta, el caso índice o probando, se marca con una flecha.",
+    "Las generaciones se numeran con números romanos, y las personas de cada generación, de izquierda a derecha."
+   ]
+  },
+  {
+   "id": "karmasik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "El árbol genealógico",
+   "baslik": "¿Por qué no siempre es *simple?*",
+   "maddeler": [
+    {
+     "metin": "Penetrancia: _no todo portador se afecta_",
+     "cumle": 1,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Expresividad variable: _distinta gravedad_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Misma pérdida, _genes distintos_",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Los antecedentes _solos no bastan_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EN LA MISMA FAMILIA",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Una persona",
+      "cumle": 3,
+      "metin": "Pérdida auditiva severa"
+     },
+     {
+      "ikon": "hasta",
+      "baslik": "Otra",
+      "cumle": 3,
+      "metin": "Solo un mechón blanco"
+     }
+    ]
+   },
+   "cumleler": [
+    "En las familias reales, la herencia no siempre se ve tan ordenada como en el libro de texto.",
+    "La penetrancia es la proporción de personas con el cambio que realmente se afectan; algunos portadores no muestran ningún signo.",
+    "La expresividad variable significa que personas con el mismo cambio muestran hallazgos de distinta gravedad.",
+    "Por ejemplo, en el síndrome de Waardenburg, una persona de la familia puede tener una pérdida severa y otra, solo un mechón blanco.",
+    "Además, la misma pérdida auditiva puede deberse a genes distintos, y un mismo gen puede mostrar distintos patrones de herencia.",
+    "Por eso los antecedentes familiares por sí solos no dan una respuesta definitiva; se necesitan evaluación y asesoramiento genéticos."
+   ]
+  },
+  {
+   "id": "onem",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Audición y genética",
+   "baslik": "Por qué *importa* en audiología",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "tuy_hucreleri",
+     "metin": "Células ciliadas",
+     "cumle": 3
+    },
+    {
+     "parca": "destek_hucreleri",
+     "metin": "Células de sostén",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Fibras nerviosas",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "tuy_hucreleri",
+     "cumle": 3
+    },
+    {
+     "parca": "destek_hucreleri",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Más de la mitad_ de las pérdidas congénitas",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "_Más de 100_ genes",
+     "cumle": 2,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "_Estimación del riesgo_ familiar",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "La genética es una de las áreas de la audiología que más rápido crece.",
+    "En los países desarrollados, más de la mitad de las pérdidas auditivas congénitas tienen una causa genética.",
+    "Hoy se han identificado más de cien genes relacionados con la pérdida auditiva.",
+    "La mayoría de estos genes actúan en la cóclea: en las células ciliadas, en las estructuras del equilibrio iónico y en las conexiones nerviosas.",
+    "Conocer el patrón de herencia ayuda a estimar el riesgo para otros hijos de la familia.",
+    "Veremos en detalle las pérdidas sindrómicas y no sindrómicas, los genes más comunes y el asesoramiento genético en próximas lecciones."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Dibujen también a los familiares cuya audición se desconoce y márquenlos como desconocidos. Bajo las personas afectadas, anoten la edad de inicio y el uso de dispositivos.",
+   "cumleler": [
+    "Un consejo útil para la anamnesis: al dibujar un árbol genealógico, no omitan a los familiares cuya audición se desconoce.",
+    "Dibújenlos también y anoten que su estado es desconocido; desconocido no es lo mismo que normal.",
+    "Bajo el símbolo de cada persona afectada, anoten la edad de inicio, si la pérdida es de uno o de ambos oídos, y el uso de dispositivos.",
+    "Un árbol genealógico así facilita mucho la evaluación genética."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Genes: _dos copias_, de madre y padre",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Recesiva: dos portadores, _25 %_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Dominante: _50 %_ para cada hijo",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ligada al X: hombres; mitocondrial: _madre_",
+     "cumle": 3,
+     "ikon": "hasta"
+    }
+   ],
+   "cumleler": [
+    "Cada gen tiene dos copias, una de la madre y otra del padre; las distintas versiones de un gen se llaman alelos.",
+    "En la herencia autosómica recesiva, cada hijo de dos padres portadores tiene un veinticinco por ciento de probabilidad de estar afectado.",
+    "En la herencia autosómica dominante, la probabilidad para cada hijo de un progenitor afectado es del cincuenta por ciento.",
+    "En la herencia ligada al X se afectan más los hombres; los cambios mitocondriales pasan solo de la madre."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cuál es el riesgo para cada hijo de dos padres portadores?",
+   "secenekler": [
+    "0 %",
+    "25 %",
+    "50 %",
+    "100 %"
+   ],
+   "dogru": 1,
+   "aciklama": "En la herencia autosómica recesiva, cada hijo de dos portadores tiene un _25 %_ de probabilidad de estar afectado.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en una pérdida autosómica recesiva, ¿qué probabilidad de estar afectado tiene cada hijo de dos padres portadores?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: veinticinco por ciento.",
+    "La probabilidad de que el hijo sea portador es del cincuenta por ciento."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cómo se *desarrolla* el oído: embriología",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo se desarrolla el oído en el útero: la embriología del oído interno, medio y externo.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

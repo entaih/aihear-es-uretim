@@ -1,0 +1,780 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D007_Audiology_Clinic_ES",
+ "kapak": {
+  "ust": "LECCIÓN 7",
+  "baslik": "Dentro de una<br>*clínica* de audiología",
+  "alt": "La cabina de pruebas y los equipos básicos",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Dentro de una clínica de audiología: cabina y equipos | Lección 07 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué hay en una clínica de audiología? En esta lección recorremos la cabina sonoamortiguada y vemos cómo el ruido ambiental afecta los umbrales. También conocemos el audiómetro, el timpanómetro, los equipos de OEA y PEATC, el laboratorio vestibular y la sala de adaptación de audífonos.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: ANSI/ASA S3.1, Maximum Permissible Ambient Noise Levels for Audiometric Test Rooms; ISO 8253-1, Acoustics: Audiometric test methods, Part 1; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "audiometria",
+   "audicion"
+  ],
+  "etiketler": [
+   "clínica de audiología",
+   "cabina audiométrica",
+   "audiómetro",
+   "timpanómetro",
+   "ruido ambiental",
+   "auriculares de inserción",
+   "otoemisiones acústicas",
+   "PEATC",
+   "laboratorio vestibular",
+   "adaptación de audífonos",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 7",
+   "baslik": "Dentro de una *clínica* de audiología",
+   "alt": "La cabina de pruebas y los equipos básicos",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección recorreremos juntos una clínica de audiología y conoceremos la cabina sonoamortiguada y los equipos básicos.",
+    "Veremos qué mide cada equipo y por qué un ambiente silencioso es tan importante."
+   ]
+  },
+  {
+   "id": "kabin",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "La cabina de pruebas",
+   "baslik": "La *cabina* sonoamortiguada",
+   "maddeler": [
+    {
+     "metin": "_Aísla_ el ruido exterior",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Paredes gruesas, puerta pesada y hermética",
+     "cumle": 1,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Superficies interiores _absorbentes_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ventilación e iluminación silenciosas",
+     "cumle": 3,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Contacto: _ventana_ e intercomunicador",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "test_kabini",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "cift_duvar",
+      "metin": "pared doble gruesa",
+      "cumle": 1
+     },
+     {
+      "parca": "ses_emici",
+      "metin": "superficie absorbente",
+      "cumle": 2
+     },
+     {
+      "parca": "pencere",
+      "metin": "ventana e intercomunicador",
+      "cumle": 4
+     },
+     {
+      "parca": "hasta",
+      "metin": "paciente con auriculares",
+      "cumle": 5
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "cift_duvar",
+      "cumle": 1
+     },
+     {
+      "parca": "ses_emici",
+      "cumle": 2
+     },
+     {
+      "parca": "havalandirma",
+      "cumle": 3
+     },
+     {
+      "parca": "pencere",
+      "cumle": 4
+     },
+     {
+      "parca": "interkom",
+      "cumle": 4
+     },
+     {
+      "parca": "hasta_butonu",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "El corazón de la evaluación audiológica es la cabina sonoamortiguada."
+    },
+    "Sus paredes son gruesas y de varias capas, y su puerta es pesada y cierra herméticamente; el objetivo es dejar fuera el ruido exterior.",
+    "Las superficies interiores están cubiertas con material absorbente, que también reduce las reflexiones dentro de la cabina.",
+    "Incluso la ventilación y la iluminación se eligen silenciosas, porque un pequeño zumbido en la cabina puede afectar la medición.",
+    "El evaluador se comunica con el paciente a través de una ventana y de un sistema de habla bidireccional, el intercomunicador.",
+    "Dentro de la cabina, el paciente usa auriculares y presiona un botón de mano cuando oye el sonido."
+   ]
+  },
+  {
+   "id": "duzen",
+   "bolum_no": "PARTE 1",
+   "bolum": "La cabina de pruebas",
+   "baslik": "Una sala o *dos salas*",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "Una sala",
+     "metin": "Paciente y evaluador en la misma sala",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Fácil con niños",
+     "metin": "Cuidado con pistas de manos y equipos",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Dos salas",
+     "metin": "Sala de control separada por una ventana",
+     "cumle": 3
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Campo libre",
+     "metin": "Menos pistas; apta para altavoces",
+     "cumle": 4
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "En Turquía",
+     "metin": "Evaluador fuera, observando por la ventana",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Las clínicas usan dos diseños básicos de cabina, y ambos pueden construirse según las normas.",
+    "En el diseño de una sala, el paciente y el evaluador están en la misma sala sonoamortiguada.",
+    "Este diseño facilita el trabajo con niños pequeños, pero el paciente no debe notar los movimientos de manos del evaluador ni los sonidos del equipo.",
+    "En el diseño de dos salas, el evaluador trabaja desde una sala de control separada de la sala de prueba por una ventana.",
+    "Este diseño reduce al mínimo las pistas visuales y auditivas, y además es adecuado para las pruebas en campo libre con altavoces.",
+    "En Turquía, muchas clínicas sientan al paciente en la cabina mientras el evaluador trabaja desde afuera, observando por la ventana."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 1",
+   "bolum": "La cabina de pruebas",
+   "baslik": "El ruido ambiental *altera* los umbrales",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Umbrales medidos en una _sala ruidosa_",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 4
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       30,
+       20,
+       10,
+       10,
+       10
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 4
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "El ruido ambiental es el sonido de fondo no deseado que hay en la cabina durante la prueba."
+    },
+    "Este ruido enmascara los tonos de prueba y hace que los umbrales parezcan peores de lo que realmente son.",
+    "En este ejemplo vemos umbrales del oído derecho medidos en una sala ruidosa; los umbrales en graves están elevados.",
+    "La mayor parte de la energía del ruido ambiental está en las frecuencias graves, y ahí los auriculares supraaurales aíslan menos.",
+    "Si la misma persona se evalúa de nuevo en una cabina adecuada, los umbrales pueden resultar dentro de los límites normales.",
+    "En las pruebas de conducción ósea y de campo libre, los oídos quedan descubiertos, así que son aún más sensibles al ruido ambiental."
+   ]
+  },
+  {
+   "id": "odyometre",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "El audiómetro",
+   "baslik": "El *audiómetro*: el equipo básico",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "cihaz",
+     "metin": "Audiómetro",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "Auriculares: conducción aérea",
+     "cumle": 2
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "Vibrador óseo: conducción ósea",
+     "cumle": 3
+    },
+    {
+     "parca": "hasta_butonu",
+     "metin": "Botón de respuesta",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 2
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 3
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ajusta frecuencia e _intensidad_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Resultado: el _audiograma_",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El equipo más básico de la cabina es el audiómetro."
+    },
+    "El audiómetro produce tonos puros de frecuencias e intensidades definidas y los envía al oído.",
+    "En la prueba de conducción aérea, el sonido se envía con auriculares supraaurales o de inserción.",
+    "En la prueba de conducción ósea, en cambio, se usa un vibrador óseo colocado sobre el hueso detrás de la oreja.",
+    "El paciente presiona el botón cuando oye el tono, y el audiólogo sigue las respuestas para hallar los umbrales.",
+    "Los umbrales se marcan en el audiograma; cero decibeles HL corresponde al umbral promedio de oídos jóvenes y sanos."
+   ]
+  },
+  {
+   "id": "tanisal",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "El audiómetro",
+   "baslik": "Lo que *ofrece* un audiómetro diagnóstico",
+   "maddeler": [
+    {
+     "metin": "_Dos canales_: tono y enmascaramiento",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Conducción aérea y _ósea_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Pruebas de _habla_: micrófono, grabaciones",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "_Altavoces_ para campo libre",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Audiómetro de tamizaje: _más sencillo_",
+     "cumle": 4,
+     "ikon": "tarama"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "maskeleme",
+    "ayar": {
+     "ia_db": 40,
+     "test_kulak": "sag"
+    },
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "metin": "Ruido enmascarante",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Los audiómetros diagnósticos suelen tener dos canales; uno envía el tono de prueba y el otro, el ruido enmascarante.",
+    "Los umbrales de conducción aérea y ósea se miden con el mismo equipo.",
+    "Para las pruebas de habla, se conecta al audiómetro un micrófono o material de habla grabado.",
+    "Los altavoces de la cabina permiten la presentación en campo libre para evaluar a niños y para mediciones con audífonos.",
+    "Los audiómetros de tamizaje son más sencillos; en general solo evalúan por conducción aérea en frecuencias seleccionadas."
+   ]
+  },
+  {
+   "id": "kulaklik",
+   "bolum_no": "PARTE 2",
+   "bolum": "El audiómetro",
+   "baslik": "Auriculares supraaurales y *de inserción*",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Supraaurales",
+     "metin": "Fáciles de colocar; más paso transcraneal",
+     "cumle": 1
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "De inserción",
+     "metin": "Mejor aislamiento, mayor atenuación",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Punta de espuma",
+     "metin": "Una nueva para cada paciente",
+     "cumle": 4
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "En Turquía",
+     "metin": "Supraaurales de rutina; inserción para enmascarar",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Para la conducción aérea se usan mucho dos tipos de auriculares, y ambos dan resultados válidos si están calibrados.",
+    "Los auriculares supraaurales se apoyan sobre el pabellón; son fáciles de colocar y fueron el estándar durante muchos años.",
+    "Con estos auriculares, el sonido pasa con más facilidad a través del cráneo al otro oído, lo que aumenta la necesidad de enmascarar.",
+    "Los auriculares de inserción aíslan mejor el ruido ambiental, y su atenuación interaural es mayor.",
+    "Sus puntas de espuma se colocan en el conducto auditivo, y se usa una punta nueva para cada paciente.",
+    "En Turquía, muchas clínicas usan auriculares supraaurales de rutina, mientras que los de inserción dan una clara ventaja al enmascarar."
+   ]
+  },
+  {
+   "id": "timpanometre",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Equipos de pruebas objetivas",
+   "baslik": "El *timpanómetro*: cómo se mueve el oído medio",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 1
+   },
+   "notlar": [
+    {
+     "metin": "Sonda: altavoz, micrófono, _bomba_",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Resultado: el _timpanograma_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "También mide el reflejo acústico",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El segundo equipo básico es el timpanómetro; en la clínica también se le llama inmitanciómetro o impedanciómetro."
+    },
+    "La sonda, sellada herméticamente en el conducto auditivo, contiene un altavoz diminuto, un micrófono y una bomba de aire.",
+    "Al cambiar la presión en el conducto, mide con qué facilidad el oído medio transmite el sonido y traza un timpanograma.",
+    "En adultos se usa un tono de sonda de doscientos veintiséis hertz, y en lactantes pequeños se prefiere uno de mil hertz.",
+    "El mismo equipo mide también el reflejo acústico, y así informa rápidamente sobre el oído medio y la vía del reflejo."
+   ],
+   "etiketler": [
+    {
+     "parca": "prob_hoparlor",
+     "metin": "altavoz",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "micrófono",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_pompa",
+     "metin": "bomba de aire",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "membrana timpánica",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 2
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Equipos de pruebas objetivas",
+   "baslik": "El equipo de *OEA*: ¿responde la cóclea?",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "Estímulo",
+     "cumle": 1
+    },
+    {
+     "parca": "yanit",
+     "metin": "Respuesta coclear",
+     "cumle": 2
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Piso de ruido",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Rápida, _sin respuesta_ del paciente",
+     "cumle": 4,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Se usa en el _tamizaje_ neonatal",
+     "cumle": 4,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "Un equipo de otoemisiones acústicas (OEA) registra los sonidos muy débiles que produce la cóclea en respuesta al sonido.",
+    "Una sonda colocada en el conducto auditivo envía sonidos breves o dos tonos distintos.",
+    "Un micrófono sensible en la sonda capta la respuesta generada por la actividad de las células ciliadas externas.",
+    "Si la respuesta es claramente mayor que el ruido de la sala y del paciente, se considera que la emisión está presente.",
+    "La prueba es rápida y no requiere respuesta del paciente; por eso también se usa mucho en el tamizaje auditivo neonatal en Turquía."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Equipos de pruebas objetivas",
+   "baslik": "El sistema de *PEATC*: registrar la vía nerviosa",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0,
+    "i_v_uzama": 0
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Onda I",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Onda V",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Electrodos de superficie_ en la cabeza",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Quieto o _dormido_",
+     "cumle": 3,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "_Estimación del umbral_ en lactantes",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Un sistema de potenciales evocados auditivos de tronco cerebral (PEATC) registra la respuesta eléctrica del nervio auditivo y del tronco cerebral al sonido.",
+    "Se colocan pequeños electrodos de superficie en la cabeza, y se limpia la piel para mantener baja la impedancia de los electrodos.",
+    "El sonido suele enviarse con auriculares de inserción, y el sistema promedia muchas respuestas para hacer visibles las ondas.",
+    "Durante el registro, el paciente debe estar quieto o dormido; los lactantes suelen evaluarse en sueño natural.",
+    "Los PEATC se usan para estimar los umbrales en lactantes que no pueden hacer pruebas conductuales y para evaluar la vía nerviosa."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Otras salas",
+   "baslik": "El laboratorio *vestibular*",
+   "cizim": "vestibuler_laboratuvar",
+   "notlar": [
+    {
+     "metin": "_VNG_ y pruebas calóricas",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_vHIT_: los seis canales",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "_VEMP_: utrículo y sáculo",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Para el mareo y los problemas de equilibrio, la clínica cuenta con un laboratorio vestibular aparte.",
+    "Aquí se registran los movimientos oculares con videogafas infrarrojas; este sistema se llama videonistagmografía (VNG).",
+    "En las pruebas calóricas, aire o agua tibia y fría en el conducto auditivo estimula por separado cada canal lateral.",
+    "La prueba de impulso cefálico con video (vHIT) puede evaluar los seis canales semicirculares con movimientos rápidos de la cabeza.",
+    "Los potenciales evocados miogénicos vestibulares (VEMP) informan sobre la función del utrículo y del sáculo.",
+    "El laboratorio también tiene una camilla donde se puede acostar al paciente con seguridad para las pruebas posicionales."
+   ],
+   "ayar": {
+    "cumleler": {
+     "vng": 1,
+     "kalorik": 2,
+     "vhit": 3,
+     "vemp": 4,
+     "masa": 5
+    }
+   }
+  },
+  {
+   "id": "uygulama",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Otras salas",
+   "baslik": "La sala de *adaptación* de audífonos",
+   "cizim": "rem_duzenegi",
+   "etiketler": [
+    {
+     "parca": "isitme_cihazi",
+     "metin": "Audífono",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_tupu",
+     "metin": "Tubo de sonda",
+     "cumle": 2
+    },
+    {
+     "parca": "hoparlor",
+     "metin": "Altavoz",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob_tupu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Software_ de programación",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Medición en _oído real_",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "_Caja de pruebas_",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    "Para la adaptación de audífonos e implantes se usa una sala de adaptación aparte.",
+    "Aquí los audífonos se ajustan a cada persona con una computadora y un software de programación.",
+    "En un sistema de medición en oído real, se coloca un tubo de sonda fino en el conducto para medir el sonido que el audífono produce en el oído.",
+    "La caja de pruebas verifica el rendimiento técnico del audífono fuera del oído, en una configuración estándar.",
+    "Los materiales para tomar impresiones de oído y un otoscopio también son equipos básicos de esta sala."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "PARTE 4",
+   "bolum": "Otras salas",
+   "baslik": "Consejo clínico",
+   "metin": "Cada mañana, antes del primer paciente, revisar el equipo con los propios oídos: cables, canales, vibrador óseo. Hacer la calibración completa con regularidad.",
+   "cumleler": [
+    "Un consejo de la práctica: cada mañana, antes del primer paciente, escuchen ustedes mismos el audiómetro unos momentos para revisarlo.",
+    "Presten atención a chasquidos en los cables de los auriculares, diafonía entre canales o distorsión en el vibrador óseo.",
+    "Este control de escucha diario no reemplaza la calibración completa, que se hace con regularidad, por lo general una vez al año.",
+    "Pero detecta una falla antes de evaluar a un paciente; también es buena práctica dejar visible la fecha de calibración en los registros."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "La cabina reduce el _ruido ambiental_",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Audiómetro: umbrales _aéreos y óseos_",
+     "cumle": 1,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Timpanómetro, OEA, PEATC: medidas _objetivas_",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Laboratorio vestibular y _sala de adaptación_",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "La cabina sonoamortiguada reduce al mínimo el ruido ambiental que altera los umbrales; se usan diseños de una y de dos salas.",
+    "El audiómetro es el equipo básico para medir los umbrales de conducción aérea y ósea y para las pruebas de habla.",
+    "Los timpanómetros y los sistemas de OEA y PEATC hacen mediciones que no requieren respuesta del paciente.",
+    "El laboratorio vestibular se ocupa del sistema del equilibrio, y la sala de adaptación, de la adaptación de audífonos."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Qué umbrales afecta más el ruido ambiental?",
+   "secenekler": [
+    "Umbrales en frecuencias agudas",
+    "Umbrales en frecuencias graves",
+    "Solo el umbral de 4000 Hz",
+    "Ninguno"
+   ],
+   "dogru": 1,
+   "aciklama": "El ruido ambiental es sobre todo grave, y los auriculares supraaurales _aíslan menos_ en las frecuencias graves.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿en qué frecuencias altera más los umbrales el ruido ambiental de la cabina?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la B: los umbrales en frecuencias graves."
+    },
+    "La mayor parte de la energía del ruido ambiental está en las frecuencias graves, y en esa región los auriculares supraaurales aíslan menos."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Batería de pruebas *audiológicas*: qué aporta cada una",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo las pruebas hechas con estos equipos se combinan en una batería, y qué muestra cada prueba.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

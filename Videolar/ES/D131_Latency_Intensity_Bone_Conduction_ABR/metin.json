@@ -1,0 +1,1002 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D131_Latency_Intensity_Bone_Conduction_ABR_ES",
+ "kapak": {
+  "ust": "LECCIÓN 131",
+  "baslik": "Latencia-intensidad y<br>*vía ósea*",
+  "alt": "Patrones latencia-intensidad y PEATC por vía ósea",
+  "cizim": "abr",
+  "ayar": {
+   "latans_kayma": 0.8
+  }
+ },
+ "youtube": {
+  "baslik": "Función latencia-intensidad y PEATC por vía ósea | Lección 131 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos cómo cambia la función latencia-intensidad de los potenciales evocados auditivos de tronco cerebral (PEATC) en la pérdida auditiva conductiva, coclear y retrococlear, y cómo los PEATC por vía ósea ayudan a identificar el tipo de pérdida. Con ejemplos, vemos la colocación del vibrador, los límites técnicos y la interpretación en bebés.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; BSA, Recommended Procedure: Auditory Brainstem Response Testing in Babies; Stapells, bone-conduction tone burst ABR studies.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "PEATC",
+   "audicion"
+  ],
+  "etiketler": [
+   "función latencia-intensidad",
+   "curva latencia-intensidad",
+   "PEATC por vía ósea",
+   "patrón de reclutamiento",
+   "hipoacusia conductiva",
+   "PEATC en bebés",
+   "potenciales evocados auditivos de tronco cerebral",
+   "latencia de la onda V",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 131",
+   "baslik": "Latencia-intensidad y *vía ósea*",
+   "alt": "Patrones latencia-intensidad y PEATC por vía ósea",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos la función latencia-intensidad y la evaluación por vía ósea en los potenciales evocados auditivos de tronco cerebral (PEATC, en inglés ABR).",
+    "Veremos cómo estas dos herramientas nos ayudan a distinguir los patrones conductivo, coclear y retrococlear."
+   ]
+  },
+  {
+   "id": "lif",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Latencia-intensidad",
+   "baslik": "La *función* latencia-intensidad",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Intensidad (dB nHL)"
+    },
+    "y": {
+     "min": 5,
+     "max": 9,
+     "adim": 1,
+     "ad": "Latencia de la onda V (ms)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        20,
+        7.9
+       ],
+       [
+        30,
+        7.4
+       ],
+       [
+        40,
+        6.9
+       ],
+       [
+        50,
+        6.5
+       ],
+       [
+        60,
+        6.1
+       ],
+       [
+        70,
+        5.8
+       ],
+       [
+        80,
+        5.6
+       ],
+       [
+        90,
+        5.45
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "normal",
+      "cumle": 1,
+      "etiket_konum": [
+       90,
+       5.45
+      ],
+      "etiket_dy": -16,
+      "etiket_dx": -6
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yuksek",
+      "x": 80,
+      "y": 5.6,
+      "etiket": "unos 5,6 ms",
+      "cumle": 2,
+      "dy": 34,
+      "renk": "lacivert"
+     },
+     {
+      "ad": "esik",
+      "x": 20,
+      "y": 7.9,
+      "etiket": "cerca del umbral",
+      "cumle": 3,
+      "dy": -22,
+      "renk": "lacivert"
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Menor intensidad, _mayor latencia_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Cada clínica grafica _sus propias normas_",
+     "cumle": 5,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La función latencia-intensidad es un gráfico que muestra cómo cambia la latencia de la onda V con la intensidad."
+    },
+    {
+     "yazi": "La intensidad está en el eje horizontal y la latencia de la onda V en el vertical; al disminuir la intensidad, aumenta la latencia."
+    },
+    {
+     "yazi": "En un adulto con audición normal, con un clic a 80 dB nHL, es decir, de nivel de audición normalizado, la onda V aparece a unos 5,6 milisegundos.",
+     "ses": "En un adulto con audición normal, con un clic a 80 dB nHL, es decir, de nivel de audición normalizado, la onda V aparece a unos cinco coma seis milisegundos."
+    },
+    {
+     "yazi": "A intensidades bajas, cerca del umbral, la latencia aumenta a unos 7,5 a 8 milisegundos.",
+     "ses": "A intensidades bajas, cerca del umbral, la latencia aumenta a unos siete coma cinco a ocho milisegundos."
+    },
+    "Como ya registramos a distintas intensidades durante la búsqueda del umbral, este gráfico no requiere una prueba adicional.",
+    "Cada clínica traza en este gráfico el rango normal obtenido con su propio equipo y estímulo para poder comparar."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Latencia-intensidad",
+   "baslik": "¿Por qué *aumenta* la latencia?",
+   "maddeler": [
+    {
+     "metin": "Alta intensidad: también responde la _base_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Baja intensidad: excitación _hacia el ápice_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "La onda viajera llega al ápice _más tarde_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "El disparo sináptico también _se enlentece_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "koklea_acik",
+    "cumle": 0,
+    "ayar": {
+     "frekans": 1000
+    },
+    "vurgula": [
+     {
+      "parca": "taban",
+      "cumle": 0
+     },
+     {
+      "parca": "yuruyen_dalga",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "A alta intensidad, el clic estimula con fuerza también la base de la cóclea, que responde rápido, y la respuesta llega temprano.",
+    "Al disminuir la intensidad, la respuesta empieza a provenir de regiones más sensibles de la cóclea, más cercanas al ápice.",
+    "Como la onda viajera llega más tarde a estas regiones, la latencia total aumenta.",
+    "Además, a baja intensidad, el disparo a nivel de la célula ciliada y de la sinapsis también ocurre un poco más tarde.",
+    "El daño coclear altera este equilibrio, por lo que la forma de la curva nos da una pista sobre el sitio de la pérdida."
+   ]
+  },
+  {
+   "id": "desenler",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Patrones",
+   "baslik": "Cuatro patrones *latencia-intensidad*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Intensidad (dB nHL)"
+    },
+    "y": {
+     "min": 5,
+     "max": 9,
+     "adim": 1,
+     "ad": "Latencia de la onda V (ms)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        20,
+        7.9
+       ],
+       [
+        30,
+        7.4
+       ],
+       [
+        40,
+        6.9
+       ],
+       [
+        50,
+        6.5
+       ],
+       [
+        60,
+        6.1
+       ],
+       [
+        70,
+        5.8
+       ],
+       [
+        80,
+        5.6
+       ],
+       [
+        90,
+        5.45
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "normal",
+      "cumle": 0,
+      "etiket_konum": [
+       20,
+       7.9
+      ],
+      "etiket_dy": 26,
+      "etiket_dx": -4
+     },
+     {
+      "ad": "iletim",
+      "noktalar": [
+       [
+        50,
+        7.9
+       ],
+       [
+        60,
+        7.4
+       ],
+       [
+        70,
+        6.9
+       ],
+       [
+        80,
+        6.5
+       ],
+       [
+        90,
+        6.1
+       ]
+      ],
+      "renk": "turuncu",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "conductivo",
+      "cumle": 1,
+      "etiket_konum": [
+       50,
+       7.9
+      ],
+      "etiket_dy": -14,
+      "etiket_dx": -30
+     },
+     {
+      "ad": "koklear",
+      "noktalar": [
+       [
+        60,
+        7.1
+       ],
+       [
+        70,
+        6.0
+       ],
+       [
+        80,
+        5.7
+       ],
+       [
+        90,
+        5.5
+       ]
+      ],
+      "renk": "yesil",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "coclear",
+      "cumle": 3,
+      "etiket_konum": [
+       60,
+       7.1
+      ],
+      "etiket_dy": -14,
+      "etiket_dx": -20
+     },
+     {
+      "ad": "retrokoklear",
+      "noktalar": [
+       [
+        40,
+        8.0
+       ],
+       [
+        50,
+        7.6
+       ],
+       [
+        60,
+        7.2
+       ],
+       [
+        70,
+        6.9
+       ],
+       [
+        80,
+        6.7
+       ],
+       [
+        90,
+        6.55
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "retrococlear",
+      "cumle": 5,
+      "etiket_konum": [
+       90,
+       6.55
+      ],
+      "etiket_dy": -16,
+      "etiket_dx": -70,
+      "kesik": true
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Conductivo: desplazamiento _paralelo_ a la derecha",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Coclear: pendiente _pronunciada_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Retrococlear: latencia _larga_ a toda intensidad",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Ahora comparemos cuatro curvas de ejemplo en el mismo gráfico; la curva azul muestra un oído con audición normal.",
+    "La curva naranja representa una pérdida conductiva; conserva la forma de la curva normal, pero se desplaza a la derecha, hacia intensidades más altas.",
+    "Esto se debe a que un problema en el oído externo o medio reduce en la misma medida, a cualquier intensidad, el sonido que llega a la cóclea.",
+    "La curva verde muestra una pérdida coclear; el umbral está elevado, pero al aumentar la intensidad, la latencia se acerca rápidamente a lo normal.",
+    {
+     "yazi": "Esta pendiente pronunciada también se llama patrón de reclutamiento, porque se parece al rápido crecimiento de la sonoridad en una cóclea dañada."
+    },
+    "La curva roja discontinua representa un patrón retrococlear; la latencia es más larga de lo normal a cualquier intensidad.",
+    "Estas curvas son ejemplos; en los registros reales, los patrones pueden superponerse, y las pérdidas mixtas producen formas intermedias."
+   ]
+  },
+  {
+   "id": "iletim",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Patrones",
+   "baslik": "El *patrón* conductivo",
+   "maddeler": [
+    {
+     "metin": "Todas las ondas retrasadas, _incluida la I_",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Intervalos interpico _normales_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "La curva se desplaza _en paralelo_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Desplazamiento: _idea aproximada_ de la pérdida",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "ayar": {
+     "latans_kayma": 0.8
+    },
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 0
+     },
+     {
+      "parca": "latans_I_V",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En una pérdida conductiva, el sonido llega más débil a la cóclea, por lo que todas las ondas, incluida la onda I, se retrasan."
+    },
+    {
+     "yazi": "Pero como la conducción en el nervio y el tronco cerebral está intacta, el intervalo I-V se mantiene normal."
+    },
+    "La curva latencia-intensidad se desplaza a la derecha, en paralelo a la curva normal.",
+    "La magnitud del desplazamiento da una idea aproximada del tamaño de la brecha aéreo-ósea, pero para una medida exacta se necesitan PEATC por vía ósea.",
+    "En bebés, el líquido en el oído medio es una de las causas más frecuentes de este patrón, por lo que se consideran también los resultados de la timpanometría."
+   ]
+  },
+  {
+   "id": "koklear",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Patrones",
+   "baslik": "El *patrón* coclear",
+   "maddeler": [
+    {
+     "metin": "Umbral de PEATC _elevado_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Cerca del umbral, latencia _relativamente larga_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "A alta intensidad, latencia _casi normal_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Pérdida en agudos: onda V _algo_ tardía",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        35,
+        50,
+        60,
+        65
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sag",
+       "tip": "kemik",
+       "degerler": [
+        20,
+        25,
+        35,
+        50,
+        60
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "En una pérdida coclear, es decir, neurosensorial, el umbral de PEATC sube de acuerdo con el grado de la pérdida.",
+    {
+     "yazi": "A intensidades cercanas al umbral, la latencia de la onda V es relativamente larga."
+    },
+    "Pero al aumentar la intensidad, la latencia se acorta rápidamente y alcanza valores casi normales a intensidades altas.",
+    "Como muestra el audiograma de ejemplo en pantalla, la situación cambia algo si hay una pérdida marcada en las frecuencias agudas.",
+    {
+     "yazi": "Como está dañada la región que más aporta a la respuesta al clic, la onda V puede retrasarse un poco incluso a alta intensidad."
+    }
+   ]
+  },
+  {
+   "id": "retro",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Patrones",
+   "baslik": "El *patrón* retrococlear",
+   "maddeler": [
+    {
+     "metin": "Latencia _larga_ a cualquier intensidad",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Intervalo I-V _prolongado_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "La forma de onda _puede degradarse_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "El hallazgo requiere _derivación al médico_",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "ayar": {
+     "i_v_uzama": 0.8
+    },
+    "vurgula": [
+     {
+      "parca": "latans_I_V",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "En el patrón retrococlear, la latencia de la onda V supera el rango normal a cualquier intensidad, y la curva se ve desplazada hacia arriba."
+    },
+    {
+     "yazi": "Si la onda I es visible, se observa un intervalo I-V prolongado; esto muestra que el retraso está en la conducción del tronco cerebral."
+    },
+    "Las ondas también pueden volverse más pequeñas, más anchas o perder su reproducibilidad.",
+    "Este patrón se evalúa junto con los criterios de los PEATC neurodiagnósticos de las lecciones anteriores y requiere derivación al médico."
+   ]
+  },
+  {
+   "id": "ky_neden",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "PEATC por vía ósea",
+   "baslik": "¿Por qué PEATC por *vía ósea*?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Bebé",
+     "metin": "Sin vía ósea conductual",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Tipo de pérdida",
+     "metin": "¿Conductiva o neurosensorial?",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Directo a la cóclea",
+     "metin": "Evita el oído externo y medio",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Derivación correcta",
+     "metin": "Médica o audiológica",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En un bebé pequeño no es posible obtener umbrales conductuales por vía ósea.",
+    "Cuando los umbrales de PEATC por vía aérea salen elevados, necesitamos saber si la pérdida es conductiva o neurosensorial.",
+    "Los PEATC por vía ósea llevan el sonido directamente al cráneo con un vibrador óseo, evitando en gran parte el oído externo y medio.",
+    "Juntos, los umbrales de PEATC por vía aérea y por vía ósea revelan una brecha aéreo-ósea estimada en el bebé.",
+    "Esta distinción determina directamente si el bebé se deriva primero a una evaluación médica o a una adaptación temprana de audífonos."
+   ]
+  },
+  {
+   "id": "yerlesim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "PEATC por vía ósea",
+   "baslik": "¿*Dónde* va el vibrador?",
+   "cizim": "elektrot_yerlesimi",
+   "vurgula": [
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "Vibrador óseo",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Hueso temporal, _sin tocar el pabellón_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Fuerza constante: _banda o mano_",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Referencia: _lóbulo_ o nuca",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Los PEATC por vía ósea usan un vibrador óseo similar al que usamos en audiometría.",
+    "En bebés, el vibrador se coloca sobre el hueso temporal, cerca de la parte posterosuperior del pabellón auricular, sin tocarlo.",
+    "El vibrador se sostiene con una fuerza constante y suficiente, ya sea con una banda elástica o con la mano del evaluador.",
+    "Un cambio de fuerza puede modificar la intensidad del estímulo, por lo que es importante que se mantenga igual durante todo el registro.",
+    "El electrodo de referencia no debe quedar bajo el vibrador, por lo que puede elegirse un sitio como el lóbulo de la oreja o la nuca.",
+    "En bebés, colocar el vibrador sobre el hueso temporal y no en la frente suele dar respuestas mayores."
+   ],
+   "ayar": {
+    "mod": "kemik_bebek",
+    "goster": {
+     "aralik": 1,
+     "bant": 2,
+     "aktif": 4,
+     "referans": 4,
+     "ense": 4,
+     "toprak": 4
+    }
+   }
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "PEATC por vía ósea",
+   "baslik": "*Límites* técnicos",
+   "maddeler": [
+    {
+     "metin": "Límite superior: unos _50 a 55 dB nHL_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Gran _artefacto del estímulo_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "La polaridad alternante _ayuda_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Normas de latencia _propias_ de vía ósea",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PRECAUCIÓN",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "gurultu",
+      "baslik": "Artefacto",
+      "metin": "El vibrador emite un campo intenso",
+      "cumle": 1
+     },
+     {
+      "ikon": "tablo",
+      "baslik": "Normas",
+      "metin": "Específicas de la vía ósea",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Un vibrador óseo no puede producir intensidades altas sin distorsión; el nivel máximo suele limitarse a unos 50 a 55 dB nHL."
+    },
+    "Como el vibrador emite un campo electromagnético intenso, puede aparecer un gran artefacto del estímulo en el registro.",
+    "La polaridad alternante y mantener el cable del vibrador lejos de los cables de los electrodos reducen este artefacto.",
+    "En los PEATC por vía ósea, las latencias y los umbrales difieren de los de la vía aérea, por lo que solo se interpretan con normas de vía ósea.",
+    "En bebés, los umbrales por vía ósea pueden ser mejores que en adultos, sobre todo en las frecuencias graves, lo que exige normas específicas para la edad."
+   ]
+  },
+  {
+   "id": "normlar",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación",
+   "baslik": "Vía ósea en bebés: criterios de *ejemplo*",
+   "sutunlar": [
+    "Tone burst",
+    "Se considera normal",
+    "Nota"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "20 dB nHL: presente",
+      "Protocolo de ejemplo"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "30 dB nHL: presente",
+      "Protocolo de ejemplo"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Algunos protocolos de PEATC en bebés recomiendan buscar respuestas por vía ósea en unos pocos niveles.",
+    {
+     "yazi": "En un protocolo, una respuesta a un tone burst de 500 Hz por vía ósea a 20 dB nHL sugiere una sensibilidad coclear casi normal."
+    },
+    {
+     "yazi": "En el mismo protocolo, este nivel es de 30 dB nHL para 2000 Hz."
+    },
+    "Estos valores varían según el equipo, el estímulo y el protocolo usados; aquí se dan solo como ejemplo.",
+    "Si los umbrales por vía aérea están elevados pero hay respuestas por vía ósea en estos niveles, es probable un componente conductivo."
+   ]
+  },
+  {
+   "id": "hangi_koklea",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación",
+   "baslik": "¿Qué cóclea *responde*?",
+   "maddeler": [
+    {
+     "metin": "El vibrador puede estimular _ambas cócleas_",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Los bebés tienen _más_ atenuación interaural",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Onda V ipsilateral _más temprana y mayor_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Si hace falta, _enmascarar_ el oído opuesto",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "dalga_V",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dalga_V",
+      "metin": "prominente en el canal ipsilateral",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "En la vía ósea, el cráneo vibra en su conjunto, por lo que el vibrador puede estimular ambas cócleas a la vez.",
+    "En los bebés, los huesos del cráneo aún no están totalmente fusionados, por lo que la atenuación interaural por vía ósea es mayor que en adultos.",
+    {
+     "yazi": "Además, en un registro de dos canales, la onda V suele ser más temprana y mayor en el canal ipsilateral, del lado de la cóclea que responde."
+    },
+    {
+     "yazi": "En el canal contralateral, la onda V es más pequeña y algo más tardía; esta asimetría indica de qué lado proviene la respuesta."
+    },
+    "Si estas pistas no bastan, se presenta ruido de enmascaramiento en el oído opuesto para confirmar el origen de la respuesta."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación",
+   "baslik": "Dos bebés de *ejemplo*",
+   "sutunlar": [
+    "Bebé",
+    "Vía aérea, 2000 Hz",
+    "Vía ósea, 2000 Hz",
+    "Tipo probable"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Ejemplo A",
+      "Umbral 50 dB nHL",
+      "30 dB nHL: presente",
+      "Componente conductivo"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Ejemplo B",
+      "Umbral 50 dB nHL",
+      "30 dB nHL: ausente",
+      "Neurosensorial"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Ahora integremos la interpretación con dos bebés de ejemplo, totalmente inventados.",
+    {
+     "yazi": "En el ejemplo A, el umbral de PEATC por vía aérea a 2000 Hz es de 50 dB nHL, pero hay una respuesta clara por vía ósea a 30 dB nHL."
+    },
+    "Este cuadro sugiere que la sensibilidad coclear está relativamente conservada y que la pérdida es en gran parte conductiva; a esto se suma la timpanometría.",
+    {
+     "yazi": "En el ejemplo B, con el mismo umbral por vía aérea, no hay respuesta por vía ósea a 30 dB nHL."
+    },
+    "En este caso se piensa que la pérdida tiene un componente neurosensorial; una evaluación definitiva requiere la batería completa de pruebas y un examen médico."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En vía ósea, sostener el vibrador con fuerza constante, sin tocar el pabellón y con el cable lejos de los electrodos; ante la duda, enmascarar el oído opuesto.",
+   "cumleler": [
+    "Un consejo clínico: el error más frecuente en los PEATC por vía ósea es que el vibrador se deslice o que cambie su fuerza.",
+    "Sostengan el vibrador con la misma fuerza durante todo el registro, sin dejar que toque el pabellón auricular.",
+    "Mantengan el cable del vibrador lejos de los cables de los electrodos; esto reduce claramente el artefacto del estímulo.",
+    "Si no están seguros de qué cóclea proviene la respuesta, no duden en presentar ruido de enmascaramiento en el oído opuesto."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Latencia-intensidad: a menor nivel, _onda V tardía_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Conductivo: desplazamiento _paralelo_, I-V normal",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Coclear: pendiente _pronunciada_; retrococlear: siempre larga",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "La vía ósea identifica el _tipo de pérdida_",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La función latencia-intensidad muestra cómo aumenta la latencia de la onda V al disminuir la intensidad."
+    },
+    "En una pérdida conductiva, la curva se desplaza a la derecha en paralelo, y los intervalos interpico se mantienen normales.",
+    "En una pérdida coclear la pendiente es pronunciada; en el patrón retrococlear, la latencia es larga a cualquier intensidad.",
+    "Los PEATC por vía ósea ayudan a saber si la pérdida de un bebé es conductiva o neurosensorial."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Todas las ondas retrasadas, I-V normal. ¿Patrón más probable?",
+   "secenekler": [
+    "Conductivo",
+    "Retrococlear",
+    "Audición normal"
+   ],
+   "dogru": 0,
+   "aciklama": "En una pérdida conductiva se retrasan todas las ondas, _incluida la onda I_, mientras la conducción del tronco cerebral se mantiene normal.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: todas las ondas, incluida la onda I, están retrasadas, y el intervalo I-V es normal. ¿Cuál es el patrón más probable?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: un patrón conductivo.",
+    {
+     "yazi": "El retraso se debe a que llega menos sonido a la cóclea; como la conducción del tronco cerebral está intacta, el intervalo I-V es normal."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Artefactos* en PEATC y solución de problemas",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos los artefactos que alteran los registros de PEATC y cómo podemos solucionarlos.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

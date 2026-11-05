@@ -1,0 +1,107 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R101_One_Test_Is_Not_Enough_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #101",
+  "baslik": "Una prueba *no basta*",
+  "alt": "Cada prueba mira una parte de la vía",
+  "cizim": "kulak_kesit",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Por qué no basta con una sola prueba auditiva? #shorts",
+  "aciklama": "En audiología, ninguna conclusión se basa en una sola prueba: la timpanometría evalúa el oído medio; las otoemisiones acústicas, la cóclea; y los potenciales evocados auditivos de tronco cerebral, la vía neural. Según el principio de verificación cruzada descrito por Jerger y Hayes en 1976, un resultado no se acepta como definitivo hasta que otra prueba independiente lo confirma.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "pruebaauditiva",
+   "datoscuriosos"
+  ],
+  "etiketler": [
+   "batería de pruebas",
+   "principio de verificación cruzada",
+   "timpanometría",
+   "otoemisiones acústicas",
+   "PEATC",
+   "Jerger",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Por qué no basta con una sola prueba auditiva?",
+  "bilgiler": [
+   "Cada prueba mira una parte distinta de la vía auditiva.",
+   "La timpanometría evalúa el oído medio; las OEA, la cóclea; los PEATC, la vía neural.",
+   "Verificación cruzada (Jerger y Hayes, 1976): otra prueba confirma el resultado."
+  ],
+  "hashtag": [
+   "audiologia",
+   "pruebaauditiva",
+   "datoscuriosos"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #101",
+   "metin": "¿Por qué no basta con *una sola prueba?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Por qué no basta con una sola prueba auditiva?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Cada prueba evalúa *una parte*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Oído medio",
+     "tr": "timpanometría",
+     "cumle": 1
+    },
+    {
+     "ad": "Cóclea",
+     "tr": "OEA",
+     "cumle": 1,
+     "gecikme": 1.3
+    },
+    {
+     "ad": "Vía neural",
+     "tr": "PEATC",
+     "cumle": 1,
+     "gecikme": 2.4
+    }
+   ],
+   "alt": "_Verificación cruzada_: las pruebas se confirman entre sí.",
+   "alt_cumle": 2,
+   "cumleler": [
+    "La audición es una cadena que va del oído externo a la corteza.",
+    "La timpanometría evalúa el oído medio; las OEA, la cóclea; y los PEATC, la vía neural.",
+    {
+     "yazi": "En 1976, Jerger y Hayes describieron el principio de verificación cruzada."
+    },
+    "Ningún resultado es definitivo hasta que una prueba independiente lo confirma."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D008",
+ "kaynak_baslik": "Batería de pruebas audiológicas: qué aporta cada una"
+}

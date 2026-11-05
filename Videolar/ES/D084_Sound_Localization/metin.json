@@ -1,0 +1,671 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D084_Sound_Localization_ES",
+ "kapak": {
+  "ust": "LECCIÓN 84",
+  "baslik": "*Localizar* el sonido",
+  "alt": "Teoría dúplex, efecto de precedencia y BMLD",
+  "cizim": "isitme_yolu",
+  "vurgula": [
+   "superior_oliver"
+  ]
+ },
+ "youtube": {
+  "baslik": "Localización sonora y percepción binaural | Lección 84 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo encuentra el cerebro de dónde viene un sonido? En esta lección vemos la diferencia entre lateralización y localización, el ángulo mínimo audible, las bases psicoacústicas de la teoría dúplex, el efecto de precedencia, la diferencia de nivel de enmascaramiento binaural y la importancia clínica de la liberación espacial del enmascaramiento.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Mills (1958), On the minimum audible angle, Journal of the Acoustical Society of America; Litovsky y cols. (1999), The precedence effect, Journal of the Acoustical Society of America; Blauert, Spatial Hearing; Moore, An Introduction to the Psychology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "psicoacustica",
+   "audicionbinaural"
+  ],
+  "etiketler": [
+   "localización sonora",
+   "lateralización",
+   "ángulo mínimo audible",
+   "teoría dúplex",
+   "efecto de precedencia",
+   "diferencia de nivel de enmascaramiento binaural",
+   "BMLD",
+   "liberación espacial del enmascaramiento",
+   "diferencia interaural de tiempo",
+   "psicoacústica",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 84",
+   "baslik": "Localización sonora y percepción *binaural*",
+   "alt": "Teoría dúplex, efecto de precedencia y BMLD",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos, desde la psicoacústica, cómo encuentra el cerebro de dónde viene un sonido.",
+    "Con ejemplos clínicos, veremos la teoría dúplex, el efecto de precedencia y la diferencia de nivel de enmascaramiento binaural."
+   ]
+  },
+  {
+   "id": "lateral",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 1",
+   "bolum": "Percibir la dirección",
+   "baslik": "¿Lateralización o *localización*?",
+   "sol": {
+    "ust": "Lateralización",
+    "maddeler": [
+     {
+      "metin": "Con auriculares, se oye _dentro de la cabeza_",
+      "cumle": 0
+     },
+     {
+      "metin": "La imagen sonora se _desplaza_ a un lado",
+      "cumle": 1
+     },
+     {
+      "metin": "Las claves se _estudian_ una por una",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Localización",
+    "maddeler": [
+     {
+      "metin": "En campo libre, se oye _fuera_",
+      "cumle": 3
+     },
+     {
+      "metin": "Dirección y distancia a la vez",
+      "cumle": 4
+     },
+     {
+      "metin": "Todas las claves actúan _juntas_",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Al escuchar con auriculares, los sonidos suelen oírse dentro de la cabeza, en una línea entre los dos oídos; esto se llama lateralización.",
+    "Si se agrega una pequeña diferencia de tiempo o de nivel al sonido que va a cada oído, la imagen sonora se desplaza hacia un lado.",
+    "Los experimentos de lateralización permiten separar las claves y estudiarlas una por una.",
+    "En campo libre, oímos el sonido fuera de la cabeza, en un punto del espacio; esto se llama localización.",
+    "La localización juzga a la vez la dirección horizontal, la elevación y la distancia.",
+    "En los entornos reales, todas las claves actúan al mismo tiempo, y el cerebro las combina."
+   ]
+  },
+  {
+   "id": "aci",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Percibir la dirección",
+   "baslik": "¿*Cuántos grados* puede resolver el oído?",
+   "maddeler": [
+    {
+     "metin": "Menor ángulo al frente: _cerca de 1 grado_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "A los lados, el ángulo _crece notablemente_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "1500 a 2000 Hz: región _más débil_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "MILLS 1958",
+    "metin": "El ángulo mínimo audible es menor *al frente*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "La precisión de la percepción de la dirección se mide con el ángulo mínimo audible.",
+    {
+     "yazi": "En 1958, Mills mostró que, para tonos que llegan de frente, este ángulo es de alrededor de un grado en la mejor condición."
+    },
+    "Esto significa que podemos distinguir con facilidad cuál de dos personas a pocos metros está hablando.",
+    "A medida que la fuente se desplaza hacia un lado, el ángulo crece notablemente; ubicamos los sonidos laterales con menos precisión.",
+    "En los tonos puros, la región de mil quinientos a dos mil hertz es donde la discriminación de la dirección es más débil.",
+    "La teoría dúplex explica el motivo de esta debilidad."
+   ]
+  },
+  {
+   "id": "kuram",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "La teoría dúplex",
+   "baslik": "Dos claves, *dos núcleos*",
+   "cizim": "isitme_yolu",
+   "yakinlastir": [
+    {
+     "parca": "superior_oliver",
+     "cumle": 1,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "superior_oliver",
+     "cumle": 1
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "superior_oliver",
+     "metin": "MSO: tiempo, LSO: nivel",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "En la lección sobre audición binaural conocimos las dos claves principales: la diferencia interaural de tiempo y la diferencia interaural de nivel.",
+    "Estas claves se comparan por primera vez en el complejo olivar superior.",
+    "La oliva superior medial evalúa la diferencia de tiempo, y la oliva superior lateral, la diferencia de nivel.",
+    "Según la teoría dúplex de Lord Rayleigh, en los sonidos graves predominan las diferencias de tiempo y en los agudos, las de nivel.",
+    "Esta información se combina en el colículo inferior y se convierte en una percepción única de la dirección del sonido.",
+    "La corteza auditiva también es necesaria; se ha descrito que una lesión cortical de un lado altera la localización en el lado opuesto."
+   ]
+  },
+  {
+   "id": "sayilar",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "La teoría dúplex",
+   "baslik": "Las claves en *números*",
+   "sutunlar": [
+    "Clave",
+    "Magnitud",
+    "Mínima diferencia detectable"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Diferencia de tiempo (ITD)",
+      "0,6 a 0,7 ms",
+      "10 a 20 microsegundos"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Diferencia de nivel (ILD)",
+      "Agudos: >20 dB",
+      "Alrededor de 1 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Límite de la ITD",
+      "Hasta unos 1500 Hz",
+      "Estructura fina"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La diferencia interaural de tiempo (ITD) es como máximo de unos 0,6 a 0,7 milisegundos en un adulto cuando el sonido llega directamente desde un costado."
+    },
+    "Aun así, en las mejores condiciones se detectan diferencias de diez a veinte microsegundos, que equivalen a un cambio de dirección de alrededor de un grado.",
+    {
+     "yazi": "La diferencia interaural de nivel (ILD) puede superar los veinte decibeles en las frecuencias agudas por la sombra de la cabeza."
+    },
+    "Una diferencia de nivel entre los dos oídos puede detectarse incluso cuando es de alrededor de un decibel.",
+    "Una diferencia de tiempo en la estructura fina de la onda es una clave confiable por debajo de unos mil quinientos hertz.",
+    "Por encima de esa frecuencia, la longitud de onda se acerca al ancho de la cabeza y deja de estar claro qué picos de la onda se corresponden."
+   ]
+  },
+  {
+   "id": "ek_ipuclari",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "La teoría dúplex",
+   "baslik": "*Más allá* de la teoría dúplex",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "ITD de la envolvente",
+     "metin": "En sonidos agudos complejos",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Pabellón auricular",
+     "metin": "Elevación, delante y detrás",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Movimiento de la cabeza",
+     "metin": "Resuelve la ambigüedad",
+     "cumle": 5
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Distancia",
+     "metin": "Nivel y relación con la reverberación",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "La teoría dúplex es un marco importante, pero no explica toda la percepción de la dirección.",
+    "En los sonidos agudos pero complejos, pueden usarse las diferencias de tiempo de la envolvente del sonido en lugar de las de la estructura fina.",
+    "El pabellón auricular filtra las frecuencias agudas de manera distinta según la dirección de la que llega el sonido.",
+    "Esta clave espectral monoaural nos permite encontrar la elevación de un sonido y distinguir entre delante y detrás.",
+    {
+     "yazi": "El conjunto de este efecto de filtrado se llama función de transferencia relacionada con la cabeza (HRTF)."
+    },
+    "Girar levemente la cabeza cambia las diferencias entre los dos oídos y resuelve rápidamente la confusión entre delante y detrás.",
+    "Estimamos la distancia a partir del nivel del sonido, la pérdida de componentes agudos y la relación entre el sonido directo y la reverberación."
+   ]
+  },
+  {
+   "id": "oncelik",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "El efecto de precedencia",
+   "baslik": "Gana el *primer* sonido",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Sonido directo",
+     "metin": "Llega primero al oído",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Reflexión",
+     "metin": "Llega milisegundos después",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Fusión",
+     "metin": "Un sonido, primera dirección",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Umbral de eco",
+     "metin": "Retardo mayor: un eco",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En una sala cerrada, un sonido y sus copias reflejadas en las paredes llegan al oído en momentos distintos.",
+    "El sonido directo llega primero al oído, porque recorre el camino más corto.",
+    "Las reflexiones llegan desde otras direcciones, entre unos pocos milisegundos y unas decenas de milisegundos más tarde.",
+    "Cuando el retardo es corto, la reflexión no se oye como un sonido aparte; se fusiona con el primero, que define la dirección percibida.",
+    {
+     "yazi": "Esto se llama efecto de precedencia; Wallach y colaboradores lo estudiaron en detalle en 1949, y Haas en 1951."
+    },
+    "A medida que el retardo aumenta, la reflexión empieza a oírse como un eco aparte; este límite se llama umbral de eco.",
+    "El umbral de eco es de unos cinco milisegundos para sonidos cortos como los clics, y de unas decenas de milisegundos para el habla y la música."
+   ]
+  },
+  {
+   "id": "oncelik_klinik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "El efecto de precedencia",
+   "baslik": "El efecto de precedencia en la vida *diaria*",
+   "maddeler": [
+    {
+     "metin": "_Se conserva la dirección_ en salas reverberantes",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Sistemas de sonido ajustados _con retardo_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Puede _debilitarse_ con la pérdida auditiva",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EJEMPLO",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "kalabalik",
+      "baslik": "Sala de conferencias",
+      "metin": "El sonido viene del escenario",
+      "cumle": 1
+     },
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Dos dispositivos",
+      "metin": "La sincronización importa",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Gracias al efecto de precedencia, ubicamos correctamente a quien habla incluso en una sala reverberante.",
+    "En las salas de conferencias se agrega un pequeño retardo a los altavoces traseros, para que el sonido amplificado siga pareciendo venir del escenario.",
+    "En ciertas condiciones, el sonido retardado puede ser hasta unos diez decibeles más fuerte y aun así dejar la dirección al primer sonido.",
+    "Se ha descrito que el efecto de precedencia se debilita con la pérdida auditiva y el envejecimiento, lo que aumenta la dificultad en lugares reverberantes.",
+    "Por eso también, con audífonos o implantes bilaterales, importa que los retardos de procesamiento de ambos lados sean similares."
+   ]
+  },
+  {
+   "id": "bmld",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Enmascaramiento binaural",
+   "baslik": "Diferencia de nivel de *enmascaramiento binaural*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "N0S0",
+     "metin": "Todo idéntico en ambos oídos",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "N0Sπ",
+     "metin": "Tono con fase invertida en un oído",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Diferencia",
+     "metin": "12 a 15 dB en 500 Hz",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La fuerza del procesamiento binaural se mide con la diferencia de nivel de enmascaramiento binaural (BMLD)."
+    },
+    "Primero, el ruido y el tono se presentan exactamente iguales en ambos oídos, y se busca el umbral del tono en el ruido.",
+    "Luego, mientras el ruido se mantiene igual, se invierte la fase del tono en un solo oído.",
+    "Ahora el tono se oye a través del ruido con mucha más facilidad; en quinientos hertz, el umbral mejora unos doce a quince decibeles.",
+    "La mejora es grande en las frecuencias graves; por encima de unos mil quinientos hertz, baja a unos pocos decibeles.",
+    "La diferencia se produce porque el tronco encefálico usa pequeñas diferencias de tiempo y de fase entre los oídos para separar la señal del ruido."
+   ]
+  },
+  {
+   "id": "bmld_klinik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Enmascaramiento binaural",
+   "baslik": "La BMLD *en la clínica*",
+   "maddeler": [
+    {
+     "metin": "_Refleja_ el procesamiento del tronco encefálico",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Puede _bajar_ con lesiones del tronco",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "La pérdida asimétrica también la _reduce_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Parte_ de la batería de pruebas",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "superior_oliver",
+      "metin": "Complejo olivar superior",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "La BMLD refleja el procesamiento en el nivel del tronco encefálico donde se compara por primera vez la información de los dos oídos."
+    },
+    {
+     "yazi": "Se ha descrito que la BMLD baja con lesiones que afectan el tronco encefálico, por ejemplo en la esclerosis múltiple."
+    },
+    {
+     "yazi": "Sin embargo, la BMLD también baja con pérdidas periféricas que presentan una clara diferencia de umbrales entre los dos oídos."
+    },
+    "Por eso el resultado se interpreta junto con los umbrales tonales de ambos oídos.",
+    {
+     "yazi": "La BMLD también puede medirse con estímulos de habla; en ese caso, la ganancia suele ser menor que con tonos puros."
+    },
+    {
+     "yazi": "En la evaluación auditiva central, la BMLD no se usa de forma aislada, sino como parte de la batería de pruebas."
+    }
+   ]
+  },
+  {
+   "id": "uzamsal",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Enmascaramiento binaural",
+   "baslik": "*Liberación* espacial",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Misma dirección",
+     "metin": "Habla y ruido al frente",
+     "cumle": 0
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Direcciones separadas",
+     "metin": "El ruido se desplaza",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Sombra de la cabeza",
+     "metin": "Ganancia física",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Procesamiento binaural",
+     "metin": "Ganancia central",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Cuando el habla y el ruido llegan desde la misma dirección, se necesita cierta relación señal-ruido para entender el habla.",
+    "Cuando el ruido se desplaza hacia un lado, la misma habla se entiende con una relación menor; esto se llama liberación espacial del enmascaramiento.",
+    "Parte de esta ganancia proviene de la sombra de la cabeza, es decir, del oído que está físicamente mejor ubicado.",
+    "Otra parte proviene de que el cerebro aprovecha las diferencias entre los dos oídos, es decir, del procesamiento binaural.",
+    {
+     "yazi": "Para medirla en niños existen pruebas como Listening in Spatialized Noise Sentences (LiSN-S), de Cameron y Dillon."
+    },
+    "En estas pruebas, una ganancia espacial baja puede explicar por qué un niño con un audiograma normal tiene dificultades en ruido."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Enmascaramiento binaural",
+   "baslik": "La pérdida auditiva y la *dirección*",
+   "maddeler": [
+    {
+     "metin": "Pérdida unilateral: las claves se _alteran_",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Micrófono retroauricular: se pierde la _clave del pabellón_",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "La adaptación bilateral puede _ayudar_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Implantes: clave de ITD _limitada_",
+     "cumle": 4,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        10,
+        15,
+        15,
+        20
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        45,
+        50,
+        55,
+        60,
+        65,
+        70
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "En la pérdida unilateral o claramente asimétrica, la información de tiempo y de nivel que llega a los dos oídos se altera, y localizar se vuelve más difícil.",
+    "En este ejemplo, la pérdida del oído izquierdo puede hacer que los sonidos parezcan venir siempre de la derecha.",
+    "En los dispositivos retroauriculares, el micrófono queda sobre el pabellón, así que se pierden sus claves espectrales y puede aumentar la confusión delante-detrás.",
+    "En la pérdida bilateral, adaptar dispositivos en ambos oídos puede ayudar a conservar las claves interaurales.",
+    "Los usuarios de implantes cocleares bilaterales, en cambio, localizan sobre todo por diferencias de nivel; las claves temporales finas siguen limitadas."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Comparen los umbrales de ambos oídos antes de interpretar las pruebas binaurales. Una pérdida periférica asimétrica puede parecer un problema central en la BMLD y en las pruebas de localización.",
+   "cumleler": [
+    "Un consejo clínico: comparen siempre los umbrales tonales de ambos oídos antes de interpretar las pruebas binaurales.",
+    {
+     "yazi": "Si hay una clara diferencia de umbrales entre los oídos, un puntaje bajo en la BMLD o en las pruebas de localización puede parecer un problema central."
+    },
+    "Estas pruebas dan la información más confiable en personas con umbrales normales o simétricos.",
+    "Pregunten también a los pacientes con problemas de localización dónde tienen dificultades en la vida diaria; junto con las pruebas, esto los orientará."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Ángulo al frente: _cerca de 1 grado_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Graves: tiempo; agudos: diferencia de _nivel_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Efecto de precedencia: gana el _primer_ sonido",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "BMLD: _12 a 15 dB_ en 500 Hz",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Para los sonidos que llegan de frente, el ángulo mínimo audible es de alrededor de un grado; a los lados, crece notablemente.",
+    "Según la teoría dúplex, en los graves predominan las claves de tiempo y en los agudos las de nivel; el pabellón aporta claves de elevación y de delante-detrás.",
+    "Gracias al efecto de precedencia, en una sala reverberante un sonido se oye en la dirección de la primera onda que llega.",
+    {
+     "yazi": "La BMLD muestra una ganancia binaural de unos doce a quince decibeles en quinientos hertz y refleja el procesamiento del tronco encefálico."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "¿Qué nos permite oír un sonido en la dirección de su fuente en una sala reverberante?",
+   "secenekler": [
+    "La sombra de la cabeza",
+    "El efecto de precedencia",
+    "La suma binaural",
+    "La integración temporal"
+   ],
+   "dogru": 1,
+   "aciklama": "Las reflexiones con retardo corto se fusionan con el primer sonido; la dirección la define _el primer sonido que llega_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué fenómeno nos permite oír un sonido en la dirección de su fuente en una sala reverberante?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: el efecto de precedencia.",
+    "Las reflexiones que llegan con un retardo corto se fusionan con el primer sonido, y el cerebro define la dirección según el primer sonido que llega."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Daño coclear y percepción: el *reclutamiento*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo el daño coclear cambia la percepción y conoceremos el fenómeno del reclutamiento.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,887 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D127_ABR_Waves_ES",
+ "kapak": {
+  "ust": "LECCIÓN 127",
+  "baslik": "Ondas de los *PEATC*<br>y latencias",
+  "alt": "Ondas I a V: generadores y valores normales",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "Ondas I a V de los PEATC: generadores y latencias | Lección 127 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos de dónde provienen los picos de la onda I a la onda V de los potenciales evocados auditivos de tronco cerebral (PEATC) y cuáles son las latencias absolutas e interpico normales en adultos. También vemos, con ejemplos, el marcado de las ondas, la relación de amplitud V/I y los factores que afectan la latencia.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "PEATC",
+   "audicion"
+  ],
+  "etiketler": [
+   "PEATC",
+   "potenciales evocados auditivos de tronco cerebral",
+   "ondas de los PEATC",
+   "onda V",
+   "latencia interpico",
+   "latencia absoluta",
+   "generadores de los PEATC",
+   "BERA",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 127",
+   "baslik": "Ondas I a V de los PEATC y *latencias*",
+   "alt": "Generadores y valores normales de latencia",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos las ondas de los potenciales evocados auditivos de tronco cerebral (PEATC, en inglés ABR), de dónde provienen y sus valores normales de latencia.",
+    "En la lección anterior colocamos los electrodos; ahora aprenderemos a leer el registro en la pantalla."
+   ]
+  },
+  {
+   "id": "abr_nedir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Bases de los PEATC",
+   "baslik": "¿Qué registran los *PEATC*?",
+   "maddeler": [
+    {
+     "metin": "Respuesta eléctrica _sincronizada_ con el sonido",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Primeros _10 ms_ tras el estímulo",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Muy pequeña: suele ser _menor de 1 microvoltio_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Promedio de cientos o miles de _barridos_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PROMEDIACIÓN",
+    "metin": "La respuesta se mantiene, el *ruido* aleatorio se cancela",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Los PEATC son el registro de la actividad eléctrica del nervio auditivo y del tronco cerebral en respuesta al sonido.",
+    "Esta respuesta aparece aproximadamente en los primeros diez milisegundos inmediatamente después del estímulo.",
+    "Su amplitud es muy pequeña, por lo general menor de un microvoltio, y queda oculta en la actividad de fondo del EEG.",
+    "Por eso se presenta el mismo estímulo muchas veces, y a menudo se promedian de mil a dos mil barridos.",
+    "Con la promediación, la respuesta sincronizada con el estímulo se mantiene, mientras que el ruido aleatorio se va cancelando."
+   ]
+  },
+  {
+   "id": "adlandirma",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Bases de los PEATC",
+   "baslik": "Cómo se *nombran* las ondas",
+   "cizim": "abr",
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_III",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Onda I",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_III",
+     "metin": "Onda III",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Onda V: la más robusta",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Picos en _números romanos_: I a VII",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Descritos primero por _Jewett y Williston_",
+     "cumle": 1,
+     "ikon": "okul"
+    },
+    {
+     "metin": "Onda IV a menudo _fusionada con la V_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Los picos del registro se numeran con números romanos, del I al VII.",
+     "ses": "Los picos del registro se numeran con números romanos, del uno al siete."
+    },
+    "Esta nomenclatura se basa en el trabajo de Jewett y Williston, que describieron la respuesta en humanos a principios de la década de mil novecientos setenta.",
+    {
+     "yazi": "En la clínica se usan sobre todo las ondas I, III y V, porque son los picos que se registran de forma más constante."
+    },
+    {
+     "yazi": "Las ondas II y IV son más variables; en particular, la onda IV suele fusionarse con la onda V en un solo complejo."
+    },
+    {
+     "yazi": "La onda V es la más grande y robusta; al bajar la intensidad, las demás desaparecen, pero ella puede seguirse hasta cerca del umbral."
+    }
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Bases de los PEATC",
+   "baslik": "¿*Dónde* se usan los PEATC?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Estimación del umbral",
+     "metin": "Bebés y niños pequeños",
+     "cumle": 0
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Tamizaje neonatal",
+     "metin": "PEATC automatizados",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Retrococlear",
+     "metin": "Nervio y tronco cerebral",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Monitoreo quirúrgico",
+     "metin": "Función del nervio auditivo",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Neuropatía auditiva",
+     "metin": "Junto con las OEA",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los PEATC se usan para estimar los umbrales auditivos en bebés y niños pequeños que no pueden realizar pruebas conductuales.",
+    "Los equipos de PEATC automatizados (PEATC-A) se usan ampliamente en el tamizaje auditivo, sobre todo en recién nacidos con antecedente de cuidados intensivos.",
+    "Las latencias de las ondas ayudan a evaluar problemas a nivel del nervio auditivo y del tronco cerebral, es decir, problemas retrococleares.",
+    "En algunas cirugías de oído y de cerebro, el registro de PEATC se mantiene para monitorear la función del nervio auditivo.",
+    "Interpretados junto con las otoemisiones acústicas (OEA), también permiten reconocer el trastorno del espectro de la neuropatía auditiva.",
+    "En esta lección nos centramos en la estructura de las ondas y sus latencias, la base de todos estos usos."
+   ]
+  },
+  {
+   "id": "kaynaklar",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Generadores de las ondas",
+   "baslik": "¿De *dónde* provienen las ondas?",
+   "cizim": "isitme_yolu",
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "Ondas I y II: nervio auditivo",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "Onda III: núcleo coclear",
+     "cumle": 3
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "Onda IV: complejo olivar superior",
+     "cumle": 4
+    },
+    {
+     "parca": "lateral_lemniskus",
+     "metin": "Onda V: lemnisco lateral",
+     "cumle": 5
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "Onda V: entrada al colículo inferior",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Demostrado con registros intraoperatorios",
+     "cumle": 6,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    "Las ondas de los PEATC siguen, paso a paso, el recorrido del sonido desde la cóclea hasta el tronco cerebral.",
+    {
+     "yazi": "La onda I se origina en el extremo distal del nervio auditivo, la porción cercana a la cóclea."
+    },
+    {
+     "yazi": "La onda II proviene de la porción proximal del nervio auditivo, donde este entra en el tronco cerebral."
+    },
+    {
+     "yazi": "El principal generador de la onda III es el núcleo coclear, en la parte baja de la protuberancia."
+    },
+    {
+     "yazi": "La onda IV se origina en gran parte en el complejo olivar superior."
+    },
+    {
+     "yazi": "La onda V se origina donde el lemnisco lateral llega al colículo inferior."
+    },
+    "Estas relaciones se demostraron en gran parte con registros directos realizados durante neurocirugías."
+   ]
+  },
+  {
+   "id": "katki",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Generadores de las ondas",
+   "baslik": "No fuentes únicas, sino *aportes*",
+   "maddeler": [
+    {
+     "metin": "Ondas I y II: nervio _del mismo lado_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Ondas tardías: aportes _bilaterales_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Cada pico: suma de _varias_ estructuras",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Onda I periferia, V _tronco cerebral_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Las ondas I y II provienen del nervio auditivo del lado del oído estimulado, por lo que son específicas de ese oído."
+    },
+    "Más arriba en el tronco cerebral, las vías se cruzan, y las ondas tardías reciben aportes de ambos lados.",
+    {
+     "yazi": "Además, cada pico posterior a la onda I no surge de un solo núcleo, sino de la actividad combinada de varias estructuras."
+    },
+    "Por eso, la lista de generadores debe verse como una simplificación útil para la interpretación clínica.",
+    {
+     "yazi": "Lo más importante en la clínica es que la onda I representa la periferia, y la onda V, el tronco cerebral alto."
+    },
+    "Así, el tiempo entre estas dos ondas muestra con qué rapidez viaja la señal por el tronco cerebral.",
+    "Este tiempo también se llama tiempo de conducción del tronco cerebral, y en breve veremos sus valores normales."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 0
+     },
+     {
+      "parca": "dalga_V",
+      "cumle": 4
+     },
+     {
+      "parca": "latans_I_V",
+      "cumle": 5
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "latans_I_V",
+      "metin": "tiempo de conducción del tronco",
+      "cumle": 6
+     }
+    ]
+   }
+  },
+  {
+   "id": "ecoli",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Generadores de las ondas",
+   "baslik": "Una ayuda para recordar: *E COLI*",
+   "adimlar": [
+    {
+     "ikon": "noron",
+     "baslik": "E: eighth (octavo par)",
+     "metin": "Nervio auditivo",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "C: núcleo coclear",
+     "metin": "Protuberancia baja",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "O: complejo olivar",
+     "metin": "Complejo olivar superior",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "L: lemnisco lateral",
+     "metin": "Vía ascendente",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "I: colículo inferior",
+     "metin": "Mesencéfalo",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Para recordar el orden de los generadores, pueden usar la regla mnemotécnica E COLI.",
+     "ses": "Para recordar el orden de los generadores, pueden usar la regla mnemotécnica e coli."
+    },
+    "La letra E viene de eighth, octavo en inglés: el octavo par craneal, es decir, el nervio auditivo.",
+    {
+     "yazi": "La C corresponde al núcleo coclear, y la O, al complejo olivar superior."
+    },
+    {
+     "yazi": "La L corresponde al lemnisco lateral y a la onda V, y la última letra, la i, al colículo inferior, clásicamente las ondas VI y VII."
+    },
+    "Este orden también resume el camino que sigue la señal por el tronco cerebral, de abajo hacia arriba."
+   ]
+  },
+  {
+   "id": "mutlak",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Latencias normales",
+   "baslik": "*Latencia* absoluta",
+   "cizim": "abr",
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Onda I: unos 1,6 ms",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_III",
+     "metin": "Onda III: unos 3,7 ms",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Onda V: unos 5,6 ms",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Adulto, clic de alta intensidad",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Valores aproximados, varían según la clínica",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "La latencia absoluta es el tiempo que transcurre desde que se presenta el estímulo hasta el pico de una onda.",
+    {
+     "yazi": "En adultos, con un clic de alta intensidad, la onda I suele verse a unos 1,5 a 1,7 milisegundos.",
+     "ses": "En adultos, con un clic de alta intensidad, la onda I suele verse a unos uno coma cinco a uno coma siete milisegundos."
+    },
+    {
+     "yazi": "La onda III aparece a unos 3,7 milisegundos.",
+     "ses": "La onda III aparece a unos tres coma siete milisegundos."
+    },
+    {
+     "yazi": "La onda V se sitúa entre unos 5,5 y 6 milisegundos.",
+     "ses": "La onda V se sitúa entre unos cinco coma cinco y seis milisegundos."
+    },
+    "Estos valores son ejemplos; cada clínica debe usar normas obtenidas con su propio equipo y protocolo.",
+    {
+     "yazi": "Alta intensidad suele significar un clic de unos 70 a 80 dB nHL."
+    }
+   ]
+  },
+  {
+   "id": "ipl",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Latencias normales",
+   "baslik": "*Latencia* interpico",
+   "sutunlar": [
+    "Intervalo",
+    "Valor aproximado",
+    "Región que refleja"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "I-III",
+      "unos 2 ms",
+      "Nervio y protuberancia baja"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "III-V",
+      "unos 2 ms",
+      "Tronco cerebral alto"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "I-V",
+      "unos 4 ms",
+      "Conducción total del tronco"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "La latencia interpico (IPL) es el tiempo entre los picos de dos ondas.",
+    {
+     "yazi": "El intervalo I-III dura unos 2 milisegundos y refleja la conducción desde el nervio auditivo hasta la parte baja de la protuberancia."
+    },
+    {
+     "yazi": "El intervalo III-V también dura unos 2 milisegundos y refleja la conducción en el tronco cerebral alto."
+    },
+    {
+     "yazi": "El intervalo I-V dura unos 4 milisegundos y es la medida más usada del tiempo de conducción del tronco cerebral."
+    },
+    {
+     "yazi": "En adultos, el límite superior del intervalo I-V suele situarse en torno a 4,4 a 4,5 milisegundos.",
+     "ses": "En adultos, el límite superior del intervalo I-V suele situarse en torno a cuatro coma cuatro a cuatro coma cinco milisegundos."
+    },
+    "La fortaleza de las latencias interpico es que casi no se ven afectadas por los problemas del oído externo y medio.",
+    "Esto se debe a que una pérdida conductiva retrasa todas las ondas a la vez, por lo que el tiempo entre ellas apenas cambia."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Latencias normales",
+   "baslik": "Factores que *afectan* la latencia",
+   "maddeler": [
+    {
+     "metin": "_Intensidad_: menor nivel, mayor latencia",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "_Edad_: latencias más largas en bebés",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "_Sexo_: algo más cortas en mujeres",
+     "cumle": 4,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Temperatura corporal_: la hipotermia prolonga la latencia",
+     "cumle": 5,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "_Tasa de estimulación_: más rápida, mayor latencia",
+     "cumle": 6,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "Las latencias no son fijas; al disminuir la intensidad, aumenta la latencia de todas las ondas.",
+    {
+     "yazi": "Por ejemplo, cerca del umbral, la onda V puede retrasarse hasta unos 7 a 8 milisegundos."
+    },
+    "En los recién nacidos, las latencias, y sobre todo los intervalos interpico, son más largas que en los adultos.",
+    "A medida que maduran las vías del tronco cerebral, estos valores se acortan y suelen acercarse a los del adulto hacia los dos años de edad.",
+    "Las latencias suelen ser algo más cortas en las mujeres que en los hombres.",
+    "El descenso de la temperatura corporal, o hipotermia, prolonga las latencias; esto importa en los registros en cuidados intensivos y en el quirófano.",
+    {
+     "yazi": "Al aumentar la tasa de estimulación, aumenta sobre todo la latencia de la onda V, y disminuye la amplitud de las ondas tempranas."
+    },
+    "El sueño y la sedación no afectan de forma significativa a los PEATC; esta es la principal razón por la que el método puede usarse en bebés."
+   ]
+  },
+  {
+   "id": "bebek_yetiskin",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Latencias normales",
+   "baslik": "PEATC del recién nacido y del *adulto*",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Recién nacido a término",
+     "metin": "Latencias más largas, I-V unos 5 ms",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Adulto",
+     "metin": "Latencias más cortas, I-V unos 4 ms",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Hay diferencias claras entre los registros del recién nacido y los del adulto.",
+    {
+     "yazi": "En un recién nacido a término, el intervalo I-V dura unos 5 milisegundos; en adultos, unos 4 milisegundos."
+    },
+    {
+     "yazi": "En los recién nacidos, la onda I puede ser relativamente prominente y la onda V más pequeña, por lo que la relación V/I no se juzga con criterios de adulto.",
+     "ses": "En los recién nacidos, la onda I puede ser relativamente prominente y la onda V más pequeña, por lo que la relación entre la onda cinco y la onda uno no se juzga con criterios de adulto."
+    },
+    "En los prematuros, las latencias son aún más largas, y se usan normas según la edad corregida.",
+    "Por eso, los registros de bebés siempre deben compararse con normas adecuadas para la edad."
+   ]
+  },
+  {
+   "id": "isaretleme",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Lectura del registro",
+   "baslik": "¿Cómo se *marca* la onda V?",
+   "cizim": "abr",
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "Pico antes de la pendiente negativa",
+     "cumle": 4
+    },
+    {
+     "parca": "dalga_I",
+     "metin": "Primer pico positivo claro",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Al menos dos registros replicados",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Al marcar las ondas, primero comprobamos si el registro es reproducible.",
+    "Para ello, se hacen al menos dos registros separados en las mismas condiciones y se superponen.",
+    "Solo se acepta como respuesta verdadera un pico que aparece en el mismo lugar en ambos registros.",
+    {
+     "yazi": "Las ondas IV y V a menudo forman un complejo combinado."
+    },
+    {
+     "yazi": "La onda V se marca en el pico que está justo antes de la clara pendiente negativa que sigue a este complejo."
+    },
+    {
+     "yazi": "La onda I es el primer pico positivo claro; puede reducirse o desaparecer con una pérdida conductiva o de frecuencias agudas."
+    }
+   ]
+  },
+  {
+   "id": "ayarlar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Lectura del registro",
+   "baslik": "*Parámetros* de registro",
+   "maddeler": [
+    {
+     "metin": "Ventana de análisis: _10 a 15 ms_",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Filtro, por ejemplo: _100 a 3000 Hz_",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "_1000 a 2000_ barridos, al menos dos registros",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tasa no entera, por ejemplo _21,1/s_",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "En los registros neurológicos con clic, la ventana de análisis suele ser de diez a quince milisegundos.",
+    "En bebés y a intensidades bajas, las latencias son más largas, por lo que esta ventana se amplía.",
+    "El registro usa un filtro que deja pasar aproximadamente de cien a tres mil hertz; en bebés, el límite inferior puede ajustarse más bajo.",
+    "Cada registro suele promediar de mil a dos mil barridos, y se repite al menos una vez.",
+    {
+     "yazi": "La tasa de estimulación se fija en un valor no entero, como 21,1 por segundo, para que no coincida con la frecuencia de la red eléctrica.",
+     "ses": "La tasa de estimulación se fija en un valor no entero, como veintiuno coma uno por segundo, para que no coincida con la frecuencia de la red eléctrica."
+    },
+    "Detalles como el tipo de estímulo y la polaridad los veremos en la próxima lección."
+   ]
+  },
+  {
+   "id": "genlik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Lectura del registro",
+   "baslik": "Amplitud y *relación V/I*",
+   "maddeler": [
+    {
+     "metin": "Amplitud: del pico al _valle_ siguiente",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La amplitud es _más variable_ que la latencia",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "En adultos, la onda V suele ser _mayor_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "V/I claramente baja: señal de _alerta_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La amplitud es la diferencia de voltaje entre el pico de una onda y el valle que la sigue, y se mide en microvoltios.",
+    "Como la amplitud varía tanto entre personas, tiene menos peso que la latencia en la interpretación.",
+    {
+     "yazi": "Aun así, la relación es útil: en adultos, la amplitud de la onda V suele ser mayor que la de la onda I."
+    },
+    {
+     "yazi": "Una relación de amplitud V/I claramente baja puede indicar un problema a nivel del tronco cerebral.",
+     "ses": "Una relación de amplitud entre la onda cinco y la onda uno claramente baja puede indicar un problema a nivel del tronco cerebral."
+    },
+    "Esta relación por sí sola no permite llegar a una conclusión; se evalúa junto con los hallazgos de latencia y otras pruebas."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 2
+     },
+     {
+      "parca": "dalga_V",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dalga_I",
+      "metin": "onda I",
+      "cumle": 2
+     },
+     {
+      "parca": "dalga_V",
+      "metin": "onda V",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si la onda I es débil, probar un electrodo de conducto auditivo (tiptrodo); la onda I se aclara y puede medirse el intervalo I-V.",
+   "cumleler": [
+    {
+     "yazi": "Un consejo clínico: en personas con pérdida auditiva en frecuencias agudas, la onda I suele ser pequeña y poco clara."
+    },
+    {
+     "yazi": "En estos casos, en lugar de un electrodo en el lóbulo, puede usarse un electrodo de conducto auditivo de espuma recubierta con lámina de oro, el tiptrodo."
+    },
+    {
+     "yazi": "Como el electrodo está más cerca de la cóclea, aumenta la amplitud de la onda I."
+    },
+    {
+     "yazi": "Así, el intervalo I-V se vuelve medible y la interpretación es más sólida."
+    }
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Lectura del registro",
+   "baslik": "¿Qué nos *dicen* los hallazgos?",
+   "maddeler": [
+    {
+     "metin": "Todas tardías, intervalos normales: _periférico_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "I-V largo: conducción del _tronco cerebral_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Onda I presente, V ausente: _más estudios_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Diferencia interaural de onda V: _asimetría_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Si todas las ondas están retrasadas pero los intervalos interpico son normales, el retraso suele tener un origen periférico.",
+    "Este cuadro se ve sobre todo en la pérdida auditiva conductiva.",
+    {
+     "yazi": "Un intervalo I-V prolongado sugiere que la señal viaja lentamente por el tronco cerebral y obliga a prestar atención a lo retrococlear."
+    },
+    {
+     "yazi": "Que la onda I esté presente mientras la onda V no se registra en absoluto también es un hallazgo que requiere más estudios."
+    },
+    {
+     "yazi": "También es importante una diferencia clara de latencia de la onda V entre ambos oídos; la veremos en la lección de PEATC neurodiagnósticos."
+    },
+    "Las interpretaciones de aquí son ejemplos; el diagnóstico siempre se basa en la evaluación médica y en una batería de pruebas."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Ondas I y II: _nervio auditivo_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Onda III núcleo coclear, V _lemnisco lateral_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Onda V a unos _5,5 a 6 ms_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Intervalo I-V de unos _4 ms_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Las ondas I y II se originan en el nervio auditivo."
+    },
+    {
+     "yazi": "La onda III refleja el núcleo coclear, y la onda V, la región del lemnisco lateral y el colículo inferior."
+    },
+    {
+     "yazi": "En adultos, a alta intensidad, la onda V aparece a unos 5,5 a 6 milisegundos.",
+     "ses": "En adultos, a alta intensidad, la onda V aparece a unos cinco coma cinco a seis milisegundos."
+    },
+    {
+     "yazi": "El intervalo I-V dura unos 4 milisegundos y muestra la conducción del tronco cerebral."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "En adultos, ¿cuántos ms dura aproximadamente la latencia interpico I-V normal?",
+   "secenekler": [
+    "Cerca de 1 ms",
+    "Cerca de 2 ms",
+    "Cerca de 4 ms",
+    "Cerca de 8 ms"
+   ],
+   "dogru": 2,
+   "aciklama": "El intervalo I-V dura unos _4 ms_; los intervalos I-III y III-V duran unos 2 ms cada uno.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en adultos, ¿cuántos milisegundos dura aproximadamente la latencia interpico I-V normal?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: unos cuatro milisegundos.",
+    {
+     "yazi": "Dos milisegundos corresponden a cada uno de los intervalos I-III y III-V."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Estímulos para PEATC: *clics*, tone bursts y chirps",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección compararemos los estímulos clic, tone burst y chirp que se usan en los PEATC.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

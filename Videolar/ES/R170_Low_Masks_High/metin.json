@@ -1,0 +1,105 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R170_Low_Masks_High_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #170",
+  "baslik": "Lo grave *enmascara* lo agudo",
+  "alt": "Propagación ascendente del enmascaramiento",
+  "cizim": "koklea_acik",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Por qué los sonidos graves enmascaran más a los agudos? #shorts",
+  "aciklama": "La onda viajera siempre avanza desde la base de la cóclea hacia el ápice; un sonido grave atraviesa las regiones de frecuencias altas antes de llegar a su propio lugar y también las hace vibrar. Por eso un sonido grave enmascara a uno agudo con mucha más fuerza que a la inversa; esto se llama propagación ascendente del enmascaramiento.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "acustica",
+   "ruido"
+  ],
+  "etiketler": [
+   "enmascaramiento",
+   "propagación ascendente del enmascaramiento",
+   "onda viajera",
+   "banda crítica",
+   "habla en ruido",
+   "psicoacústica",
+   "cóclea",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Por qué los sonidos graves tapan más a los agudos?",
+  "bilgiler": [
+   "Un sonido grave enmascara a uno agudo mucho más que a la inversa.",
+   "La onda viajera pasa por la base, de frecuencias altas, antes de llegar a su lugar.",
+   "Por eso el ruido grave tapa las consonantes agudas del habla."
+  ],
+  "hashtag": [
+   "audiologia",
+   "acustica",
+   "ruido"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #170",
+   "metin": "¿Por qué lo grave enmascara *más?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Por qué los sonidos graves enmascaran más a los agudos?"
+   ]
+  },
+  {
+   "id": "yayilim",
+   "tur": "zincir",
+   "baslik": "Propagación *ascendente*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Sonido grave",
+     "tr": "entra por la base",
+     "cumle": 0
+    },
+    {
+     "ad": "Regiones agudas",
+     "tr": "también vibran",
+     "cumle": 1
+    },
+    {
+     "ad": "Después",
+     "tr": "se extingue rápido",
+     "cumle": 2
+    }
+   ],
+   "alt": "_Propagación ascendente_: de grave a agudo",
+   "alt_cumle": 3,
+   "cumleler": [
+    "La onda viajera siempre avanza desde la base de la cóclea hacia el ápice.",
+    "Un sonido grave atraviesa primero las regiones de frecuencias altas y también las hace vibrar.",
+    "Tras su pico, la onda se extingue rápido y no se extiende hacia frecuencias más bajas.",
+    "Así, lo grave enmascara a lo agudo mucho más que lo agudo a lo grave.",
+    "Ruidos graves como el del aire acondicionado tapan las consonantes agudas del habla."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D082",
+ "kaynak_baslik": "El enmascaramiento y la banda crítica"
+}
