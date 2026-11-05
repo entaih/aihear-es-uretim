@@ -19,6 +19,20 @@ import subprocess
 import numpy as np
 
 ESIK = 0.80
+# Whisper kısa İspanyolca cümlelerde dili düşük olasılıkla bulur ya da İtalyanca/Portekizce sanır (Kokoro sesi doğru
+# okusa da). İspanyolcada daha düşük eşik; dil yine de tutmazsa, dil zorlanarak yazıya dökülen metin cümleyle
+# karşılaştırılır ve yeterince benziyorsa cümle geçer.
+ESIK_DIL = {'es': 0.50}
+BENZERLIK = 0.85
+
+
+def sade(metin):
+    return ' '.join(''.join(ch if ch.isalnum() else ' ' for ch in metin.lower()).split())
+
+
+def benzerlik(a, b):
+    import difflib
+    return difflib.SequenceMatcher(None, sade(a), sade(b)).ratio()
 
 
 def main(klasor):
@@ -43,7 +57,13 @@ def main(klasor):
             ses_dizisi = np.frombuffer(ham, dtype=np.float32)
             # yalnız dil tespiti (kodlayıcı); tam yazıya dökme yalnız şüpheli cümlede, ne duyulduğunu göstermek için
             dil_bulunan, olasilik, _ = model.detect_language(ses_dizisi)
-            iyi = dil_bulunan == dil and olasilik >= ESIK
+            iyi = dil_bulunan == dil and olasilik >= ESIK_DIL.get(dil, ESIK)
+            if not iyi and dil in ESIK_DIL:
+                parcalar, _ = model.transcribe(ses_dizisi, beam_size=1, language=dil)
+                duyulan = ' '.join(p.text.strip() for p in parcalar)
+                oran = benzerlik(duyulan, sm)
+                if oran >= BENZERLIK:
+                    print(f"tamam  {dil_bulunan} {olasilik:.2f}  {yazi[:58]}  (metin eşleşti {oran:.2f})"); continue
             sorunlu += not iyi
             print(f"{'tamam' if iyi else 'SORUN'}  {dil_bulunan} {olasilik:.2f}  {yazi[:58]}")
             if not iyi:
