@@ -23,6 +23,8 @@ ESIK = 0.80
 # okusa da). İspanyolcada daha düşük eşik; dil yine de tutmazsa, dil zorlanarak yazıya dökülen metin cümleyle
 # karşılaştırılır ve yeterince benziyorsa cümle geçer.
 ESIK_DIL = {'es': 0.50}
+# Bu gevşetme yalnız yakın dillerle karışmada geçerlidir: İngilizce (ya da başka) algılanan cümle hiçbir koşulda geçmez.
+YAKIN_DIL = {'es': {'es', 'it', 'pt', 'gl', 'ca'}}
 BENZERLIK = 0.85
 
 
@@ -58,7 +60,7 @@ def main(klasor):
             # yalnız dil tespiti (kodlayıcı); tam yazıya dökme yalnız şüpheli cümlede, ne duyulduğunu göstermek için
             dil_bulunan, olasilik, _ = model.detect_language(ses_dizisi)
             iyi = dil_bulunan == dil and olasilik >= ESIK_DIL.get(dil, ESIK)
-            if not iyi and dil in ESIK_DIL:
+            if not iyi and dil_bulunan in YAKIN_DIL.get(dil, ()):
                 parcalar, _ = model.transcribe(ses_dizisi, beam_size=1, language=dil)
                 duyulan = ' '.join(p.text.strip() for p in parcalar)
                 oran = benzerlik(duyulan, sm)
