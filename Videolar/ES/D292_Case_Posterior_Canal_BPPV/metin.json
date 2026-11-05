@@ -1,0 +1,983 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D292_Case_Posterior_Canal_BPPV_ES",
+ "kapak": {
+  "ust": "LECCIÓN 292",
+  "baslik": "Caso: VPPB del<br>canal *posterior*",
+  "alt": "Dix-Hallpike y después de la maniobra",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Caso: vértigo al levantarse de la cama (VPPB) | Lección 292 | AIHEAR Academia de Audiología",
+  "aciklama": "En un caso ficticio de una adulta evaluamos el VPPB del canal posterior: la anamnesis y los signos de alarma, el nistagmo con latencia, vertical superior y torsional en la maniobra de Dix-Hallpike, la identificación del lado y del canal afectados, la maniobra de Epley y la reevaluación después de la maniobra.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Bhattacharyya et al., Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update), Otolaryngology-Head and Neck Surgery, 2017; Barany Society, Benign Paroxysmal Positional Vertigo: Diagnostic Criteria (2015); Jacobson y Shepard, Balance Function Assessment and Management.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "VPPB",
+   "casoclinico"
+  ],
+  "etiketler": [
+   "VPPB",
+   "VPPB del canal posterior",
+   "maniobra de Dix-Hallpike",
+   "nistagmo torsional",
+   "maniobra de Epley",
+   "reposicionamiento de canalitos",
+   "vértigo posicional",
+   "canalitiasis",
+   "caso vestibular",
+   "caso clínico de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 292",
+   "baslik": "Caso: vértigo al *levantarse*",
+   "alt": "Dix-Hallpike, lado afectado, después de la maniobra",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección evaluamos paso a paso a una adulta que se marea al levantarse de la cama y al girarse en ella.",
+    "Veremos la anamnesis, el hallazgo en la maniobra de Dix-Hallpike, cómo identificar el canal y el lado afectados, y la reevaluación tras la maniobra."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis",
+   "baslik": "Caso de ejemplo: *anamnesis*",
+   "maddeler": [
+    {
+     "metin": "Mujer de ejemplo, sesenta y cuatro años",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Vértigo al girar a la derecha",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Cada crisis dura menos de medio minuto",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "También al mirar hacia arriba",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Sin quejas auditivas ni neurológicas",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "Duración",
+      "metin": "Segundos",
+      "cumle": 2
+     },
+     {
+      "ikon": "bas_donmesi",
+      "baslik": "Desencadenante",
+      "metin": "Girar en la cama",
+      "cumle": 1
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Síntomas asociados",
+      "metin": "Ninguno",
+      "cumle": 4
+     }
+    ],
+    "ust": "ANAMNESIS"
+   },
+   "cumleler": [
+    "Nuestro caso es totalmente ficticio: una mujer de sesenta y cuatro años consulta por crisis de mareo en los últimos cinco días.",
+    "Cuenta que la habitación gira violentamente cuando se levanta de la cama por la mañana, y sobre todo cuando se gira a la derecha en la cama.",
+    "Cada crisis dura menos de medio minuto; entre las crisis solo hay una leve inestabilidad y algo de náuseas.",
+    "Tuvo una crisis parecida cuando inclinó la cabeza hacia atrás para alcanzar algo en un estante alto.",
+    "No tiene cambios en la audición, ni tinnitus, dolor de cabeza o visión doble, ni dificultad para hablar o tragar.",
+    "Con sus crisis breves desencadenadas por la posición de la cabeza, esta historia sugiere un vértigo posicional paroxístico benigno, o VPPB."
+   ]
+  },
+  {
+   "id": "bayrak",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis",
+   "baslik": "Primero, los *signos de alarma*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Visión y habla",
+     "metin": "Visión doble, habla arrastrada",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Entumecimiento, debilidad",
+     "metin": "Cara, brazo, pierna",
+     "cumle": 1
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Cefalea súbita",
+     "metin": "O dolor de cuello",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Vértigo constante",
+     "metin": "No puede mantenerse de pie",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Antes de las pruebas posicionales se pregunta por signos que sugieren una causa central: visión doble y problemas para hablar o tragar.",
+    "También se pregunta por entumecimiento y debilidad en la cara, el brazo o la pierna.",
+    "Un dolor de cabeza o de cuello súbito e intenso es un signo de alarma importante.",
+    "Un mareo que continúa con la cabeza quieta y la incapacidad de mantenerse de pie sugieren que el cuadro no es un VPPB.",
+    "Si hay alguno de estos signos, no se hacen las pruebas; la persona se deriva para una evaluación médica urgente."
+   ]
+  },
+  {
+   "id": "mekanizma",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis",
+   "baslik": "¿Por qué la *posición de la cabeza*?",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "Utrículo",
+     "cumle": 0
+    },
+    {
+     "parca": "posterior_kanal",
+     "metin": "Canal posterior",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 0
+    },
+    {
+     "parca": "posterior_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En el VPPB, las otoconias, que son cristales de carbonato de calcio, se desprenden del utrículo y entran en un canal semicircular.",
+    "El canal al que se llega más fácilmente en la dirección de la gravedad es el posterior, por eso es el que se afecta con más frecuencia.",
+    "Cuando la cabeza llega a cierta posición, los cristales se deslizan dentro del canal y arrastran el líquido.",
+    "El flujo del líquido desvía la cúpula, lo que produce una sensación de giro breve pero intensa y un nistagmo.",
+    "Cuando los cristales se detienen, el flujo y los síntomas también se detienen; por eso las crisis son breves."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas posicionales",
+   "baslik": "*Preparar* la prueba",
+   "maddeler": [
+    {
+     "metin": "Sin nistagmo espontáneo ni evocado por la mirada",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Preguntar por el cuello y la espalda",
+     "cumle": 1,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Los lentes de video eliminan la fijación",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Explicar a la paciente qué pasará",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Audiograma: acorde a la edad, simétrico",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 4,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        15,
+        15,
+        20,
+        25,
+        35,
+        45
+       ],
+       "cumle": 4
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        15,
+        20,
+        20,
+        25,
+        35,
+        45
+       ],
+       "cumle": 4
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Sentada, se la examina con lentes de video: no hay nistagmo espontáneo ni nistagmo evocado por la mirada.",
+    "Se pregunta por dolor de cuello, cirugías de cuello o espalda y limitación del movimiento; no hay contraindicaciones.",
+    "Los lentes de video eliminan la fijación visual, así que sobre todo el componente torsional se ve mucho más fácilmente.",
+    "Se le explica que puede sentir un giro breve, que se la sostendrá para que no se caiga y que debe mantener los ojos abiertos.",
+    "El audiograma muestra una pérdida leve en agudos, simétrica y acorde a la edad en ambos oídos; no hay una pérdida unilateral nueva."
+   ]
+  },
+  {
+   "id": "duzlem",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas posicionales",
+   "baslik": "¿Por qué *cuarenta y cinco* grados?",
+   "cizim": "kanal_duzlemleri",
+   "ayar": {
+    "goster": [
+     "larp"
+    ],
+    "cift_cumleleri": {
+     "larp": 1
+    },
+    "donus": 45,
+    "donus_cumle": 2
+   },
+   "cumleler": [
+    "El canal posterior está en un plano inclinado unos cuarenta y cinco grados respecto de la línea media de la cabeza.",
+    "El canal posterior derecho está en el mismo plano que el canal anterior izquierdo; esto se llama plano LARP.",
+    "Con la cabeza girada cuarenta y cinco grados a la derecha, el plano del canal posterior derecho se alinea con el plano anteroposterior del cuerpo.",
+    "Cuando se recuesta al paciente en esta posición, el canal gira por completo en la dirección de la gravedad y los cristales se mueven.",
+    "En la maniobra de Dix-Hallpike se evalúa el canal posterior del oído que queda abajo."
+   ]
+  },
+  {
+   "id": "dix",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas posicionales",
+   "baslik": "*Dix-Hallpike* derecha",
+   "cumleler": [
+    "El paciente se sienta en la camilla con las piernas extendidas.",
+    "Se gira la cabeza cuarenta y cinco grados a la derecha.",
+    "Se recuesta rápidamente al paciente; la cabeza se sostiene unos veinte grados por debajo del borde de la camilla.",
+    "Se observan y registran los ojos durante al menos treinta segundos o, si aparece nistagmo, hasta que la respuesta termine.",
+    "Luego se lleva al paciente lentamente a la posición sentada y se vuelven a observar los ojos."
+   ],
+   "cizim": "dix_hallpike",
+   "ayar": {
+    "taraf": "sag",
+    "donus_cumle": 1,
+    "yatis_cumle": 2,
+    "goz_cumle": 3,
+    "oturma_cumle": 4
+   }
+  },
+  {
+   "id": "bulgu",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas posicionales",
+   "baslik": "Nistagmo *con latencia* a la derecha",
+   "cizim": "goz_nistagmus",
+   "ayar": {
+    "dikey": "yukari",
+    "torsiyon": "sag",
+    "kulak": "sag",
+    "dikey_cumle": 2,
+    "torsiyon_cumle": 2,
+    "kulak_cumle": 2,
+    "grafik": {
+     "x": {
+      "min": 0,
+      "max": 45,
+      "ad": "Tiempo (s)",
+      "isaretler": [
+       0,
+       10,
+       20,
+       30,
+       40
+      ]
+     },
+     "y": {
+      "min": -10,
+      "max": 30,
+      "adim": 10,
+      "ad": "Velocidad de la fase lenta (°/s)"
+     },
+     "seriler": [
+      {
+       "ad": "nistagmus",
+       "noktalar": [
+        [
+         0,
+         0
+        ],
+        [
+         3,
+         0
+        ],
+        [
+         4,
+         6
+        ],
+        [
+         6,
+         18
+        ],
+        [
+         8,
+         24
+        ],
+        [
+         10,
+         22
+        ],
+        [
+         13,
+         15
+        ],
+        [
+         17,
+         7
+        ],
+        [
+         21,
+         2
+        ],
+        [
+         24,
+         0
+        ]
+       ],
+       "renk": "kirmizi",
+       "yumusak": true,
+       "kalin": true,
+       "etiket": "vertical superior y torsional",
+       "cumle": 2
+      },
+      {
+       "ad": "oturma",
+       "noktalar": [
+        [
+         30,
+         0
+        ],
+        [
+         32,
+         -6
+        ],
+        [
+         35,
+         -4
+        ],
+        [
+         39,
+         0
+        ],
+        [
+         45,
+         0
+        ]
+       ],
+       "renk": "lacivert",
+       "yumusak": true,
+       "kesik": true,
+       "etiket": "al sentarse: invertido",
+       "cumle": 5
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "yatis",
+       "x": 0,
+       "y": 0,
+       "cizgi": "dikey",
+       "etiket": "cabeza colgando",
+       "cumle": 0
+      },
+      {
+       "ad": "oturus",
+       "x": 30,
+       "y": 0,
+       "cizgi": "dikey",
+       "etiket": "al sentarse",
+       "cumle": 5
+      }
+     ],
+     "araliklar": [
+      {
+       "ad": "latans",
+       "x": [
+        0,
+        3
+       ],
+       "y": 26,
+       "etiket": "latencia",
+       "cumle": 1
+      },
+      {
+       "ad": "sure",
+       "x": [
+        3,
+        24
+       ],
+       "y": 28,
+       "etiket": "unos 20 s",
+       "cumle": 3
+      }
+     ]
+    }
+   },
+   "notlar": [
+    {
+     "metin": "Latencia: _unos tres segundos_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Dirección: _hacia arriba y torsional_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Duración: _menos de un minuto_",
+     "cumle": 3,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "El nistagmo no empieza en cuanto ella llega a la posición de Dix-Hallpike derecha.",
+    "Aparece tras un retardo de unos tres segundos, que se llama latencia.",
+    "La fase rápida bate hacia arriba, hacia la frente; en el componente torsional, el polo superior del ojo bate hacia el oído derecho, que está abajo.",
+    "El nistagmo primero aumenta, luego disminuye y se apaga en unos veinte segundos; ella siente el giro durante el mismo tiempo.",
+    "En el gráfico vemos esta evolución como el cambio de la velocidad de la fase lenta en el tiempo.",
+    "Cuando se sienta, se ve un nistagmo breve y más débil en la dirección opuesta.",
+    "La latencia, la corta duración y una evolución que primero aumenta y luego disminuye son típicas de la canalitiasis del canal posterior."
+   ]
+  },
+  {
+   "id": "taraf",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Pruebas posicionales",
+   "baslik": "¿Qué *canal*, qué lado?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Dix-Hallpike derecha",
+     "metin": "Respuesta típica, vértigo",
+     "cumle": 0
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Dix-Hallpike izquierda",
+     "metin": "Sin nistagmo",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Giro en supino",
+     "metin": "Sin nistagmo horizontal",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Conclusión",
+     "metin": "Canal posterior derecho",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La maniobra de Dix-Hallpike derecha muestra una respuesta típica con vértigo.",
+    "La Dix-Hallpike izquierda, hecha tras una pausa suficiente, no muestra nistagmo.",
+    "La prueba de giro cefálico en decúbito supino, que evalúa los canales laterales, no muestra nistagmo horizontal.",
+    "Los hallazgos son compatibles con un VPPB del canal posterior derecho de tipo canalitiasis; el diagnóstico lo hace el médico.",
+    "No hay que repetir las pruebas una tras otra demasiado rápido; por la fatiga, la respuesta puede desaparecer en la segunda prueba."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Alerta clínica",
+   "metin": "Confirmen el nistagmo torsional breve con un registro en video. Si la respuesta no es típica, no hagan la maniobra; deriven al médico.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: la dirección de un nistagmo torsional breve se ve mucho mejor en un registro; si es posible, graben la prueba en video.",
+    "El registro respalda la decisión sobre el lado afectado y las comparaciones posteriores.",
+    "Si el nistagmo no tiene latencia, no se fatiga o es vertical inferior puro, el cuadro no corresponde a un VPPB típico.",
+    "En ese caso no se hace ninguna maniobra; se registran los hallazgos y se deriva al paciente para una evaluación médica."
+   ]
+  },
+  {
+   "id": "epley",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Maniobra",
+   "baslik": "Maniobra de *Epley* derecha",
+   "adimlar": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Cabeza a la derecha",
+     "metin": "Posición de Dix-Hallpike",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Cabeza a la izquierda",
+     "metin": "Noventa grados",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Girar sobre el lado izquierdo",
+     "metin": "Cara hacia el suelo",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Sentarse despacio",
+     "metin": "Mentón algo hacia abajo",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "En cada posición",
+     "metin": "Hasta que cese el nistagmo",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Una maniobra de reposicionamiento de canalitos busca sacar los cristales del canal y devolverlos al utrículo.",
+    "El primer paso de la maniobra de Epley es la posición de Dix-Hallpike derecha; se espera hasta que pasen el nistagmo y el giro.",
+    "Luego, manteniendo la cabeza en extensión, se la gira lentamente noventa grados hacia la izquierda.",
+    "Después el paciente gira sobre su lado izquierdo y la cabeza se gira otros noventa grados, de modo que la cara mire al suelo.",
+    "Por último se lleva al paciente lentamente a la posición sentada; en cada posición se espera hasta que cese el nistagmo.",
+    "Quién realiza la maniobra varía según el país; la hace un profesional autorizado y capacitado, en pacientes adecuados."
+   ]
+  },
+  {
+   "id": "gozlem",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Maniobra",
+   "baslik": "Observación *durante* la maniobra",
+   "maddeler": [
+    {
+     "metin": "Nistagmo en igual dirección en la segunda posición",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Invertido: los cristales pueden retroceder",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Cambio de tipo: conversión de canal",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Paciente sostenido en todo momento",
+     "cumle": 4,
+     "ikon": "dokunma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "crus_commune",
+      "metin": "Pilar común",
+      "cumle": 1
+     },
+     {
+      "parca": "utrikul",
+      "metin": "Utrículo",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "posterior_kanal",
+      "cumle": 0
+     },
+     {
+      "parca": "crus_commune",
+      "cumle": 1
+     },
+     {
+      "parca": "utrikul",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Durante la maniobra se siguen observando los ojos con lentes de video; en nuestro caso, también se ve un nistagmo breve en la segunda posición.",
+    "Se ha descrito que un nistagmo en la misma dirección que en la primera posición indica que los cristales avanzan en el sentido correcto.",
+    "Un nistagmo en la dirección opuesta puede sugerir que los cristales retroceden hacia la ampolla.",
+    "Si cambia el tipo de nistagmo, los cristales pueden haber entrado en otro canal; es una conversión de canal y se identifica el nuevo canal.",
+    "Durante toda la maniobra se sostiene al paciente para que no se caiga y se le pregunta por las náuseas."
+   ]
+  },
+  {
+   "id": "sonra",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Reevaluación",
+   "baslik": "*Después* de la maniobra",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Repetir la prueba",
+     "metin": "En la misma sesión o después",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Restricciones",
+     "metin": "No de rutina",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Inestabilidad leve",
+     "metin": "Puede durar días",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Control",
+     "metin": "En aproximadamente un mes",
+     "cumle": 3
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Recurrencia",
+     "metin": "Puede volver",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Tras una breve pausa se repite la Dix-Hallpike derecha; no hay nistagmo ni vértigo, y el resultado se registra.",
+    {
+     "yazi": "La guía de 2017 de la American Academy of Otolaryngology no recomienda restricciones posturales de rutina tras una maniobra del canal posterior."
+    },
+    "Se le explica que, incluso después de una maniobra exitosa, puede quedar una inestabilidad leve durante días o algunas semanas.",
+    "La guía recomienda reevaluar al paciente en aproximadamente un mes después del tratamiento inicial.",
+    "También se le dice que el VPPB puede reaparecer y que puede volver si tiene una nueva crisis."
+   ]
+  },
+  {
+   "id": "duzelmezse",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Reevaluación",
+   "baslik": "¿*Qué* pasa si no se resuelve?",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Repetir la prueba",
+     "metin": "¿Lado y canal correctos?",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Otro canal",
+     "metin": "Posible conversión de canal",
+     "cumle": 1
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Médico",
+     "metin": "Buscar una causa central",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Rehabilitación",
+     "metin": "Para la inestabilidad residual",
+     "cumle": 3
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Riesgo de caídas",
+     "metin": "Seguridad en el hogar",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Si las quejas persisten en el control al mes, primero se repiten las pruebas posicionales y se revisan el lado y el canal.",
+    "Si el tipo de nistagmo cambió, puede estar afectado otro canal y se elige la maniobra correspondiente.",
+    "Si el cuadro es atípico o no responde a maniobras repetidas, el paciente se deriva al médico para buscar causas centrales.",
+    "Si la inestabilidad persiste después de que se resuelve el nistagmo posicional, la rehabilitación vestibular puede ayudar.",
+    "En los pacientes mayores se evalúa el riesgo de caídas y se conversa sobre medidas de seguridad en el hogar."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Reevaluación",
+   "baslik": "Ejemplo de *redacción* del informe",
+   "maddeler": [
+    {
+     "metin": "Sin nistagmo espontáneo ni evocado por la mirada",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Dix-Hallpike derecha: respuesta típica",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Izquierda y giro en supino negativos",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Epley derecha, luego prueba negativa",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Control en un mes",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 0,
+      "max": 45,
+      "ad": "Tiempo (s)",
+      "isaretler": [
+       0,
+       10,
+       20,
+       30,
+       40
+      ]
+     },
+     "y": {
+      "min": -10,
+      "max": 30,
+      "adim": 10,
+      "ad": "Velocidad de la fase lenta (°/s)"
+     },
+     "seriler": [
+      {
+       "ad": "nistagmus",
+       "noktalar": [
+        [
+         0,
+         0
+        ],
+        [
+         3,
+         0
+        ],
+        [
+         4,
+         6
+        ],
+        [
+         6,
+         18
+        ],
+        [
+         8,
+         24
+        ],
+        [
+         10,
+         22
+        ],
+        [
+         13,
+         15
+        ],
+        [
+         17,
+         7
+        ],
+        [
+         21,
+         2
+        ],
+        [
+         24,
+         0
+        ]
+       ],
+       "renk": "kirmizi",
+       "yumusak": true,
+       "kalin": true,
+       "etiket": "vertical superior y torsional",
+       "cumle": 2
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "yatis",
+       "x": 0,
+       "y": 0,
+       "cizgi": "dikey",
+       "etiket": "cabeza colgando",
+       "cumle": 0
+      }
+     ],
+     "araliklar": [
+      {
+       "ad": "latans",
+       "x": [
+        0,
+        3
+       ],
+       "y": 26,
+       "etiket": "latencia",
+       "cumle": 1
+      },
+      {
+       "ad": "sure",
+       "x": [
+        3,
+        24
+       ],
+       "y": 28,
+       "etiket": "unos 20 s",
+       "cumle": 3
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Ejemplo de redacción: con lentes de video no se encontró nistagmo espontáneo ni evocado por la mirada.",
+    "La Dix-Hallpike derecha mostró nistagmo vertical superior y torsional, con unos tres segundos de latencia y unos veinte de duración, con vértigo.",
+    "La Dix-Hallpike izquierda y el giro en supino no mostraron nistagmo; hallazgos compatibles con VPPB del canal posterior derecho.",
+    "Se realizó una maniobra de Epley derecha; la Dix-Hallpike derecha repetida no mostró nistagmo.",
+    "Se recomienda reevaluar en aproximadamente un mes; se le pidió volver antes si los síntomas cambian."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Crisis posicionales breves: pensar en VPPB",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Nistagmo con latencia, vertical superior, torsional",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "El oído de abajo es el afectado",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Repetir la prueba tras la maniobra, seguimiento",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Crisis de segundos al girar en la cama o al levantarse sugieren un VPPB del canal posterior; primero se pregunta por los signos de alarma.",
+    "En la Dix-Hallpike, el hallazgo típico es un nistagmo vertical superior y torsional, con unos segundos de latencia y que dura menos de un minuto.",
+    "En la prueba con la respuesta típica, el oído de abajo es el lado afectado; la torsión también bate hacia ese oído.",
+    "Tras la maniobra se repite la prueba, no se recomiendan restricciones de rutina y se reevalúa en aproximadamente un mes."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "La Dix-Hallpike izquierda da respuesta típica. ¿Qué canal?",
+   "secenekler": [
+    "Posterior derecho",
+    "Posterior izquierdo",
+    "Lateral izquierdo",
+    "Anterior derecho"
+   ],
+   "dogru": 1,
+   "aciklama": "La Dix-Hallpike evalúa el canal posterior _del oído de abajo_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: la Dix-Hallpike izquierda muestra nistagmo con latencia, vertical superior y torsional. ¿Qué canal se sospecha?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: el canal posterior izquierdo.",
+    "Esta prueba evalúa el canal posterior del oído de abajo; el nistagmo vertical superior y torsional apunta al canal posterior."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Caso: síndrome vestibular agudo *¿periférico o central?*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En el próximo caso examinaremos un mareo que empieza de golpe y dura días, y cómo se distinguen las causas periféricas de las centrales.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

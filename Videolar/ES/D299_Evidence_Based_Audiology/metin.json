@@ -1,0 +1,947 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D299_Evidence_Based_Audiology_ES",
+ "kapak": {
+  "ust": "LECCIÓN 299",
+  "baslik": "Leer revisiones<br>*sistemáticas*",
+  "alt": "PICO, metaanálisis, diagrama de bosque",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -4,
+    "max": 14,
+    "adim": 2,
+    "ad": "Diferencia de medias (puntos); a la derecha, a favor del dispositivo"
+   },
+   "y": {
+    "min": 0,
+    "max": 7,
+    "adim": 1,
+    "ters": true,
+    "yazilar": {
+     "1": "Estudio A",
+     "2": "Estudio B",
+     "3": "Estudio C",
+     "4": "Estudio D",
+     "5": "Estudio E",
+     "6": "Global"
+    }
+   },
+   "seriler": [
+    {
+     "ad": "a",
+     "noktalar": [
+      [
+       1,
+       1
+      ],
+      [
+       7,
+       1
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "b",
+     "noktalar": [
+      [
+       2.5,
+       2
+      ],
+      [
+       9.5,
+       2
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "c",
+     "noktalar": [
+      [
+       -2,
+       3
+      ],
+      [
+       6,
+       3
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 3
+    },
+    {
+     "ad": "d",
+     "noktalar": [
+      [
+       3,
+       4
+      ],
+      [
+       7,
+       4
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "e",
+     "noktalar": [
+      [
+       1,
+       5
+      ],
+      [
+       13,
+       5
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "tahminler",
+     "tur": "nokta",
+     "noktalar": [
+      [
+       4,
+       1
+      ],
+      [
+       6,
+       2
+      ],
+      [
+       2,
+       3
+      ],
+      [
+       5,
+       4
+      ],
+      [
+       7,
+       5
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 1
+    },
+    {
+     "ad": "elmas",
+     "noktalar": [
+      [
+       3.4,
+       6
+      ],
+      [
+       4.8,
+       5.7
+      ],
+      [
+       6.2,
+       6
+      ],
+      [
+       4.8,
+       6.3
+      ],
+      [
+       3.4,
+       6
+      ]
+     ],
+     "renk": "sari",
+     "dolgu": true,
+     "cumle": 5
+    }
+   ],
+   "bolgeler": [],
+   "isaretler": [
+    {
+     "ad": "sifir",
+     "x": 0,
+     "cizgi": "dikey",
+     "etiket": "sin efecto",
+     "cumle": 2
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Audiología basada en la evidencia: revisiones | Lección 299 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Cómo se lee una revisión sistemática y un metaanálisis? En esta lección vemos cómo plantear una pregunta clínica con PICO, los niveles de evidencia, los pasos de una revisión sistemática y el diagrama de flujo PRISMA, el riesgo de sesgo, el metaanálisis, el diagrama de bosque (forest plot), la heterogeneidad, la certeza de la evidencia con GRADE y cómo usar las guías de práctica clínica.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Higgins JPT et al. (eds.) Cochrane Handbook for Systematic Reviews of Interventions; Page MJ et al. The PRISMA 2020 statement. BMJ (2021); Guyatt GH et al. GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. BMJ (2008); OCEBM Levels of Evidence Working Group, The Oxford 2011 Levels of Evidence; NICE, Hearing loss in adults: assessment and management (NG98, 2018); Joint Committee on Infant Hearing, Year 2019 Position Statement.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "practicabasadaenlaevidencia",
+   "metaanalisis"
+  ],
+  "etiketler": [
+   "audiología basada en la evidencia",
+   "práctica basada en la evidencia",
+   "revisión sistemática",
+   "metaanálisis",
+   "forest plot",
+   "PICO",
+   "GRADE",
+   "PRISMA",
+   "riesgo de sesgo",
+   "heterogeneidad",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 299",
+   "baslik": "Audiología basada en la evidencia: *revisiones sistemáticas*",
+   "alt": "PICO, niveles de evidencia, diagrama de bosque, guías",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección recordaremos cómo plantear una pregunta clínica con el formato PICO y veremos cómo se hace una revisión sistemática.",
+    "Paso a paso, leeremos metaanálisis, diagramas de bosque, la certeza de la evidencia y las guías de práctica clínica."
+   ]
+  },
+  {
+   "id": "pico",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La pregunta",
+   "baslik": "La *pregunta* con PICO",
+   "adimlar": [
+    {
+     "ikon": "yasli",
+     "baslik": "P: Paciente",
+     "metin": "Pérdida leve a moderada",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "I: Intervención",
+     "metin": "Audífono",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "C: Comparación",
+     "metin": "Sin audífono",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "O: Resultado",
+     "metin": "Calidad de vida",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la lección sobre la lectura de artículos científicos vimos el formato PICO para estructurar una pregunta clínica.",
+    "En esta lección, los pacientes de nuestra pregunta de ejemplo serán adultos con pérdida auditiva leve a moderada.",
+    "La intervención es el uso de audífonos.",
+    "La comparación es no usar audífonos, o estar en lista de espera.",
+    "El resultado es el cambio de puntaje en una escala de calidad de vida relacionada con la audición.",
+    "Además del tratamiento, las preguntas pueden tratar sobre diagnóstico, tamizaje y pronóstico; cada tipo de pregunta tiene su propio diseño de estudio ideal."
+   ]
+  },
+  {
+   "id": "duzey",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "La pregunta",
+   "baslik": "Niveles de *evidencia*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Revisión sistemática",
+     "metin": "De ensayos aleatorizados",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "ECA",
+     "metin": "Grupos al azar",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Cohorte",
+     "metin": "Estudio de seguimiento",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Serie de casos",
+     "metin": "Observación sin control",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Mecanismo",
+     "metin": "Razonamiento fisiológico",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En los niveles de Oxford, el nivel más alto para las preguntas de tratamiento es la revisión sistemática de ensayos aleatorizados.",
+    {
+     "yazi": "Le sigue un único ensayo controlado aleatorizado (ECA)."
+    },
+    "Luego vienen los estudios de cohorte o de seguimiento sin asignación aleatoria.",
+    "Las series de casos y los estudios de casos y controles están en niveles más bajos.",
+    "En la base está el razonamiento a partir de la fisiología.",
+    "Pero el nivel es solo un punto de partida: una revisión mal hecha también engaña, así que aprenderemos a leer cómo se hizo."
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Revisión sistemática",
+   "baslik": "¿Revisión o *revisión sistemática?*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Revisión narrativa",
+     "metin": "Fuentes elegidas por el autor",
+     "cumle": 0
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Protocolo",
+     "metin": "Escrito y registrado antes",
+     "cumle": 1
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Búsqueda exhaustiva",
+     "metin": "Varias bases de datos",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Criterios explícitos",
+     "metin": "Inclusión, exclusión",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Calidad",
+     "metin": "Evaluación del riesgo de sesgo",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En una revisión narrativa tradicional, el autor resume los estudios que conoce o elige; a menudo la selección no es transparente.",
+    "Una revisión sistemática, en cambio, parte de un protocolo escrito de antemano y que a menudo se inscribe en un registro.",
+    "Se hace una búsqueda exhaustiva en varias bases de datos con palabras clave definidas de antemano.",
+    "Qué estudios se incluirán o excluirán se define de antemano con criterios explícitos.",
+    "La calidad de cada estudio incluido, o su riesgo de sesgo, se evalúa con herramientas estandarizadas.",
+    "Estos pasos permiten que otro investigador repita la misma revisión; la transparencia es la esencia de una revisión sistemática."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Revisión sistemática",
+   "baslik": "Los *pasos* de una revisión sistemática",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Pregunta y protocolo",
+     "metin": "PICO, criterios",
+     "cumle": 0
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Búsqueda",
+     "metin": "Bases de datos, registros",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Selección",
+     "metin": "Dos revisores independientes",
+     "cumle": 2
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Extracción de datos",
+     "metin": "Formulario estándar",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Síntesis",
+     "metin": "Narrativa o metaanálisis",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "El proceso comienza con un protocolo que contiene la pregunta PICO y los criterios de inclusión.",
+    "La búsqueda no se limita a PubMed; también se buscan otras bases de datos, registros de ensayos clínicos y estudios no publicados.",
+    "Dos revisores examinan de forma independiente los títulos, los resúmenes y los textos completos; los desacuerdos se resuelven mediante discusión.",
+    "De cada estudio se extraen, con un formulario estándar, el número de participantes y los datos de la intervención y de los resultados.",
+    "El último paso es la síntesis: si los estudios son bastante similares, se combinan numéricamente; si no, los resultados se resumen de forma narrativa.",
+    {
+     "yazi": "Para informar estos pasos se usa una lista de verificación llamada PRISMA, que se actualizó en 2020."
+    }
+   ]
+  },
+  {
+   "id": "prisma",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Revisión sistemática",
+   "baslik": "El *diagrama de flujo* PRISMA",
+   "cumleler": [
+    "Toda revisión sistemática tiene un diagrama de flujo que muestra cómo se fueron descartando estudios; aquí las cifras son solo ejemplos.",
+    "Primero se reúnen los registros encontrados en todas las bases de datos y se eliminan los duplicados que aparecen en más de una.",
+    "En la selección por título y resumen se excluyen los estudios que no tienen relación con la pregunta.",
+    "Se leen los textos completos de los estudios restantes, y cada exclusión se registra con su motivo.",
+    "Por último, se indica el número de estudios incluidos en la revisión y, si lo hay, en el metaanálisis.",
+    "Como lectores, este diagrama nos permite ver qué tan exhaustiva fue la búsqueda y qué se excluyó y por qué."
+   ],
+   "cizim": "prisma_akisi",
+   "ayar": {
+    "cumleler": {
+     "tanimlama": 1,
+     "tarama": 2,
+     "tam_metin": 3,
+     "dahil": 4
+    },
+    "ornek": true
+   }
+  },
+  {
+   "id": "yanlilik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Revisión sistemática",
+   "baslik": "Riesgo de *sesgo*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Selección",
+     "metin": "¿La asignación fue aleatoria?",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Cegamiento",
+     "metin": "¿Quién lo sabía?",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Datos faltantes",
+     "metin": "¿Quién abandonó?",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Informe selectivo",
+     "metin": "¿Qué resultado se informó?",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Sesgo de publicación",
+     "metin": "¿Quedaron sin publicar los negativos?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En el sesgo de selección, la forma de armar los grupos afecta el resultado; preguntamos si la asignación aleatoria se hizo bien y se ocultó.",
+    "Si los participantes o los evaluadores conocen el grupo, los resultados subjetivos como los cuestionarios pueden verse afectados; es un problema de cegamiento.",
+    "Si abandonan más participantes de un grupo que del otro, el resultado puede ser engañoso.",
+    "Informar solo los resultados significativos en lugar de los prometidos en el protocolo es un informe selectivo de resultados.",
+    "Que los estudios con resultados negativos se publiquen menos se llama sesgo de publicación; puede desplazar todo el resultado de una revisión.",
+    "Herramientas estándar, como la herramienta de riesgo de sesgo de Cochrane, califican estos dominios como riesgo bajo, incierto o alto en cada estudio."
+   ]
+  },
+  {
+   "id": "meta",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Metaanálisis",
+   "baslik": "¿Qué es el *metaanálisis?*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Combinación",
+     "metin": "Resumen estadístico de resultados",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Medida del efecto",
+     "metin": "Diferencia de medias, razón de riesgos",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Peso",
+     "metin": "Los estudios precisos pesan más",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Modelo",
+     "metin": "Fijo o aleatorio",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El metaanálisis combina estadísticamente los resultados de varios estudios para obtener una única estimación combinada.",
+    "Los resultados se expresan con una medida del efecto común: por ejemplo, la diferencia de medias para resultados continuos y la razón de riesgos para los binarios.",
+    "Cada estudio recibe un peso; los estudios grandes y con estimaciones precisas aportan más al resultado.",
+    "Un modelo de efecto fijo supone un único efecto verdadero, mientras que uno de efectos aleatorios admite diferencias reales entre los estudios.",
+    "Un metaanálisis vale lo que valen los estudios que combina; juntar estudios débiles puede dar un resultado preciso pero erróneo.",
+    "Por eso, el resultado de un metaanálisis debe leerse junto con el riesgo de sesgo y la coherencia entre los estudios."
+   ]
+  },
+  {
+   "id": "orman",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Metaanálisis",
+   "baslik": "El *diagrama* de bosque",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -4,
+     "max": 14,
+     "adim": 2,
+     "ad": "Diferencia de medias (puntos); a la derecha, a favor del dispositivo"
+    },
+    "y": {
+     "min": 0,
+     "max": 7,
+     "adim": 1,
+     "ters": true,
+     "yazilar": {
+      "1": "Estudio A",
+      "2": "Estudio B",
+      "3": "Estudio C",
+      "4": "Estudio D",
+      "5": "Estudio E",
+      "6": "Global"
+     }
+    },
+    "seriler": [
+     {
+      "ad": "a",
+      "noktalar": [
+       [
+        1,
+        1
+       ],
+       [
+        7,
+        1
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 1
+     },
+     {
+      "ad": "b",
+      "noktalar": [
+       [
+        2.5,
+        2
+       ],
+       [
+        9.5,
+        2
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 1
+     },
+     {
+      "ad": "c",
+      "noktalar": [
+       [
+        -2,
+        3
+       ],
+       [
+        6,
+        3
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 3
+     },
+     {
+      "ad": "d",
+      "noktalar": [
+       [
+        3,
+        4
+       ],
+       [
+        7,
+        4
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 1
+     },
+     {
+      "ad": "e",
+      "noktalar": [
+       [
+        1,
+        5
+       ],
+       [
+        13,
+        5
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 1
+     },
+     {
+      "ad": "tahminler",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        4,
+        1
+       ],
+       [
+        6,
+        2
+       ],
+       [
+        2,
+        3
+       ],
+       [
+        5,
+        4
+       ],
+       [
+        7,
+        5
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 1
+     },
+     {
+      "ad": "elmas",
+      "noktalar": [
+       [
+        3.4,
+        6
+       ],
+       [
+        4.8,
+        5.7
+       ],
+       [
+        6.2,
+        6
+       ],
+       [
+        4.8,
+        6.3
+       ],
+       [
+        3.4,
+        6
+       ]
+      ],
+      "renk": "sari",
+      "dolgu": true,
+      "cumle": 5
+     }
+    ],
+    "bolgeler": [],
+    "isaretler": [
+     {
+      "ad": "sifir",
+      "x": 0,
+      "cizgi": "dikey",
+      "etiket": "sin efecto",
+      "cumle": 2
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "elmas",
+     "metin": "estimación combinada",
+     "cumle": 5
+    },
+    {
+     "parca": "c",
+     "metin": "intervalo que cruza el cero",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "c",
+     "cumle": 3
+    },
+    {
+     "parca": "elmas",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El resultado de un metaanálisis se muestra con un diagrama de bosque, o forest plot; el de la pantalla es un ejemplo didáctico.",
+    "Cada fila es un estudio: el punto muestra la estimación de ese estudio, y la línea horizontal, su intervalo de confianza del noventa y cinco por ciento.",
+    "La línea vertical del centro es la línea de ausencia de efecto; para una diferencia de medias, este valor es cero.",
+    "El intervalo de confianza del estudio C cruza la línea del cero, así que este estudio, por sí solo, no mostró una diferencia significativa.",
+    "Los estudios con intervalos estrechos son más precisos y pesan más en el metaanálisis; la mayoría de los diagramas lo muestran con un cuadrado más grande.",
+    "El rombo de abajo es la estimación combinada: su centro muestra el efecto global, y sus dos extremos, el intervalo de confianza.",
+    "En este ejemplo, el rombo no cruza el cero y queda por completo a favor del dispositivo, así que la evidencia combinada sugiere un beneficio.",
+    "Por último, si esta diferencia es clínicamente relevante se juzga frente a la diferencia mínima importante de la lección de estadística."
+   ]
+  },
+  {
+   "id": "heterojenlik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Metaanálisis",
+   "baslik": "*Heterogeneidad*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Control visual",
+     "metin": "¿Se superponen los intervalos?",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Estadístico I²",
+     "metin": "Porcentaje de la variación",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "I² alto",
+     "metin": "Interpretar con cautela",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Causas",
+     "metin": "Pacientes, dispositivos, medidas",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Hay heterogeneidad cuando los resultados difieren más de lo que el azar puede explicar; primero se revisa en el diagrama si los intervalos se superponen.",
+    {
+     "yazi": "Como medida numérica se da el estadístico I², que indica en porcentaje cuánto de la variación se debe a diferencias reales.",
+     "ses": "Como medida numérica se da el estadístico i cuadrado, que indica en porcentaje cuánto de la variación se debe a diferencias reales."
+    },
+    {
+     "yazi": "Según el Cochrane Handbook, un I² menor del cuarenta por ciento a menudo puede no ser importante; estos límites son una guía aproximada.",
+     "ses": "Según el Cochrane Handbook, un i cuadrado menor del cuarenta por ciento a menudo puede no ser importante; estos límites son una guía aproximada."
+    },
+    {
+     "yazi": "Un I² mayor del setenta y cinco por ciento se interpreta como heterogeneidad muy alta y pone en duda un único resultado combinado.",
+     "ses": "Un i cuadrado mayor del setenta y cinco por ciento se interpreta como heterogeneidad muy alta y pone en duda un único resultado combinado."
+    },
+    "En audiología, los distintos grados de pérdida, las distintas tecnologías de los dispositivos y las distintas escalas son causas frecuentes de heterogeneidad.",
+    "Una buena revisión explora la causa de la heterogeneidad con análisis de subgrupos, y el lector lo busca en la discusión."
+   ]
+  },
+  {
+   "id": "grade",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Metaanálisis",
+   "baslik": "*Certeza* de la evidencia: GRADE",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Alta",
+     "metin": "Nuevos estudios no la cambiarán",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Moderada",
+     "metin": "Puede cambiar",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Baja",
+     "metin": "Probablemente cambie",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Muy baja",
+     "metin": "Muy incierta",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Factores que la bajan",
+     "metin": "Sesgo, inconsistencia, imprecisión",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "El sistema GRADE se usa ampliamente para calificar qué tan confiable es la evidencia.",
+    "GRADE clasifica la certeza de la evidencia en cuatro niveles: alta, moderada, baja y muy baja.",
+    "La evidencia de ensayos aleatorizados parte de certeza alta y se rebaja por sesgo, inconsistencia, evidencia indirecta, imprecisión y sesgo de publicación.",
+    "La evidencia indirecta significa que los pacientes o los resultados de los estudios difieren de nuestra pregunta; por ejemplo, estudios solo con pérdida severa.",
+    "La imprecisión significa un intervalo de confianza muy amplio, de modo que el efecto verdadero podría ser importante o trivial.",
+    "Revisar este nivel de certeza para cada resultado en la tabla resumen de una revisión es uno de los pasos de lectura más rápidos y valiosos."
+   ]
+  },
+  {
+   "id": "kilavuz",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Metaanálisis",
+   "baslik": "*Guías* de práctica clínica",
+   "adimlar": [
+    {
+     "ikon": "kitap",
+     "baslik": "Evidencia",
+     "metin": "Revisiones sistemáticas",
+     "cumle": 0
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Panel",
+     "metin": "Expertos y pacientes",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Recomendación",
+     "metin": "Fuerte o condicional",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Evaluar",
+     "metin": "Métodos, vigencia, intereses",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Adaptar",
+     "metin": "Condiciones locales",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Una guía de práctica clínica es un documento que ofrece recomendaciones para la práctica basadas en revisiones sistemáticas.",
+    "Una buena guía la elabora un panel de distintos especialistas y representantes de los pacientes.",
+    "Cada recomendación se califica como fuerte o condicional, según la certeza de la evidencia y el balance entre beneficios y daños.",
+    "El lector revisa los métodos de la guía, su vigencia y las declaraciones de conflicto de intereses de los autores; para ello existen herramientas estándar.",
+    {
+     "yazi": "La guía británica sobre pérdida auditiva en adultos y la declaración de 2019 del Comité Conjunto de Audición Infantil (JCIH) son ejemplos muy citados."
+    },
+    "Una guía elaborada en otro país se usa después de adaptarla al sistema de salud, la normativa y las necesidades de los pacientes de Turquía."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Alerta clínica",
+   "metin": "En una revisión sistemática, mira primero la tabla de resumen de resultados: allí aparecen juntos, para cada resultado, el tamaño del efecto, el intervalo de confianza y la certeza.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo de la clínica: si tienes poco tiempo, ve directo a la tabla de resumen de resultados de la revisión sistemática.",
+    "Esta tabla da, para cada resultado, el tamaño del efecto, el intervalo de confianza, el número de participantes y la certeza de la evidencia.",
+    "Luego comprueba si los pacientes incluidos se parecen a tu propio paciente.",
+    "Estos tres datos suelen mostrar cuánto debe influir la revisión en tu decisión clínica."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "PICO: guía para preguntar, buscar y leer",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Revisión sistemática: protocolo, búsqueda, transparencia",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Diagrama de bosque: punto, intervalo, rombo",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Certeza con GRADE, recomendaciones en guías",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Una pregunta planteada con PICO determina la estrategia de búsqueda y qué evidencia es adecuada.",
+    "Una revisión sistemática se diferencia de una narrativa por su protocolo, su búsqueda exhaustiva, sus criterios explícitos y la evaluación del riesgo de sesgo.",
+    {
+     "yazi": "En un diagrama de bosque, cada estudio aparece como un punto con un intervalo y el resultado combinado como un rombo; la heterogeneidad se sigue con el I².",
+     "ses": "En un diagrama de bosque, cada estudio aparece como un punto con un intervalo y el resultado combinado como un rombo; la heterogeneidad se sigue con el i cuadrado."
+    },
+    "GRADE califica la certeza de la evidencia en cuatro niveles; las guías convierten esa evidencia en recomendaciones adaptadas a las condiciones locales."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿El rombo cruza el cero?",
+   "secenekler": [
+    "Un beneficio seguro",
+    "No se demostró una diferencia significativa",
+    "Los estudios tienen fallas",
+    "No hay heterogeneidad"
+   ],
+   "dogru": 1,
+   "aciklama": "Si el intervalo de confianza combinado incluye el valor de _ausencia de efecto_, no se ha demostrado una diferencia significativa.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en un diagrama de bosque, el rombo de la estimación combinada cruza la línea de ausencia de efecto. ¿Qué significa?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: el resultado combinado no mostró una diferencia estadísticamente significativa.",
+    "Tampoco significa que el efecto no exista; la evidencia puede ser insuficiente, así que fíjate en qué tan amplio es el intervalo."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Carrera profesional* y emprendimiento en audiología",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección, la última de nuestro plan de lecciones, veremos las trayectorias profesionales y el emprendimiento en audiología.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

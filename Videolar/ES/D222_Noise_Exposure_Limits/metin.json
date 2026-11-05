@@ -1,0 +1,843 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D222_Noise_Exposure_Limits_ES",
+ "kapak": {
+  "ust": "LECCIÓN 222",
+  "baslik": "*80, 85, 87*<br>dB(A)",
+  "alt": "Límites de exposición al ruido",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "Límites de exposición al ruido: 80, 85 y 87 dB(A) | Lección 222 | AIHEAR Academia de Audiología",
+  "aciklama": "¿A partir de qué nivel el ruido laboral exige tomar medidas? En esta lección comparamos los valores de acción y el valor límite de la Directiva 2003/10/CE de la Unión Europea y del reglamento de ruido de 2013 de Turquía, los valores pico (135, 137 y 140 dB(C)), la exposición semanal, la diferencia entre las tasas de intercambio de 3 dB y de 5 dB, y los criterios de NIOSH y OSHA.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Parlamento Europeo y Consejo, Directive 2003/10/EC on noise; Regulation on the Protection of Employees from Noise-Related Risks, Turquía, Boletín Oficial 28.07.2013, n.º 28721; NIOSH, Criteria for a Recommended Standard: Occupational Noise Exposure (1998); OSHA, 29 CFR 1910.95; ISO 1999, Acoustics: Estimation of noise-induced hearing loss.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "saludocupacional",
+   "ruido"
+  ],
+  "etiketler": [
+   "límites de exposición al ruido",
+   "valor inferior de exposición",
+   "valor superior de exposición",
+   "valor límite de exposición",
+   "tasa de intercambio",
+   "principio de igual energía",
+   "nivel de presión acústica pico",
+   "NIOSH",
+   "OSHA",
+   "normativa de ruido laboral",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 222",
+   "baslik": "Límites de exposición: *80, 85 y 87* dB(A)",
+   "alt": "Valores de acción, valores pico y tasa de intercambio",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos los valores de acción y los valores límite, que fijan a qué niveles de ruido hay que actuar en el trabajo.",
+    "También compararemos los valores pico, la exposición semanal y la diferencia entre las tasas de intercambio de 3 y de 5 decibeles."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Valores de acción y valor límite",
+   "baslik": "¿Por qué un *valor límite?*",
+   "maddeler": [
+    {
+     "metin": "Fija con números cuándo actuar",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Estudios de exposición a largo plazo",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "ISO 1999: predecir la pérdida esperada",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "No elimina todo el riesgo",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "trafik",
+      "cumle": 0
+     },
+     {
+      "parca": "konser",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Los valores límite fijan con números cuándo el ruido de un lugar de trabajo exige tomar medidas.",
+    "Estos valores se basan en estudios sobre el riesgo de pérdida auditiva en trabajadores expuestos al ruido durante muchos años.",
+    {
+     "yazi": "La norma internacional ISO 1999 ofrece un método para predecir la pérdida auditiva esperada a partir del nivel y la duración de la exposición."
+    },
+    "Ningún valor límite reduce el riesgo a cero; solo lo lleva a un nivel aceptable.",
+    "Por eso, mantenerse por debajo del límite no hace innecesarias las medidas de protección.",
+    "En esta lección primero comparamos los valores de Europa y de Turquía, y luego dos enfoques distintos de los Estados Unidos."
+   ]
+  },
+  {
+   "id": "uc_esik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Valores de acción y valor límite",
+   "baslik": "Tres *umbrales*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 1,
+     "yazilar": {
+      "0.5": "nivel diario"
+     },
+     "isaretler": [
+      0.5
+     ],
+     "ad": "LEX,8h"
+    },
+    "y": {
+     "min": 75,
+     "max": 90,
+     "adim": 5,
+     "ad": "dB(A)"
+    },
+    "bolgeler": [
+     {
+      "ad": "alt_eylem",
+      "y": [
+       80,
+       85
+      ],
+      "renk": "sari",
+      "etiket": "valor inferior de acción: 80",
+      "cumle": 2
+     },
+     {
+      "ad": "ust_eylem",
+      "y": [
+       85,
+       87
+      ],
+      "renk": "turuncu",
+      "etiket": "valor superior de acción: 85",
+      "cumle": 3
+     },
+     {
+      "ad": "sinir",
+      "y": [
+       87,
+       90
+      ],
+      "renk": "kirmizi",
+      "etiket": "valor límite: 87",
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "cizgi80",
+      "x": 0,
+      "y": 80,
+      "cizgi": "yatay",
+      "etiket": "80",
+      "cumle": 2
+     },
+     {
+      "ad": "cizgi85",
+      "x": 0,
+      "y": 85,
+      "cizgi": "yatay",
+      "etiket": "85",
+      "cumle": 3
+     },
+     {
+      "ad": "cizgi87",
+      "x": 0,
+      "y": 87,
+      "cizgi": "yatay",
+      "etiket": "87",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Directiva de la UE y Turquía: iguales",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Nivel en una jornada de ocho horas",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "El valor límite incluye el protector",
+     "cumle": 6,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La directiva de ruido de 2003 de la Unión Europea y el reglamento de 2013 de Turquía usan los mismos tres valores."
+    },
+    "Los valores se expresan como nivel de exposición diaria al ruido, el nivel promedio normalizado a una jornada laboral de ocho horas.",
+    {
+     "yazi": "El valor inferior de exposición que da lugar a una acción es de 80 dB(A)."
+    },
+    {
+     "yazi": "El valor superior de exposición que da lugar a una acción es de 85 dB(A)."
+    },
+    {
+     "yazi": "El valor límite de exposición es de 87 dB(A), y no debe superarse."
+    },
+    "En la normativa se llaman valor inferior y valor superior de exposición que dan lugar a una acción, y valor límite de exposición.",
+    "El valor límite tiene una diferencia importante: se evalúa teniendo en cuenta la protección que da el protector auditivo."
+   ]
+  },
+  {
+   "id": "yukumluluk",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Valores de acción y valor límite",
+   "baslik": "¿Qué ocurre *en cada umbral?*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "80 dB(A)",
+     "metin": "Protectores disponibles, capacitación",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "85 dB(A)",
+     "metin": "Uso obligatorio, señalización, pruebas",
+     "cumle": 3
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "87 dB(A)",
+     "metin": "Nunca se supera, ni con protectores",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Cada umbral impone obligaciones distintas al empleador.",
+    {
+     "yazi": "Por encima de 80 dB(A), se ponen protectores auditivos a disposición y los trabajadores reciben información y capacitación."
+    },
+    "A este nivel también pueden ofrecerse pruebas auditivas si la evaluación de riesgos muestra un riesgo para la salud.",
+    {
+     "yazi": "Desde 85 dB(A), se asegura y se exige el uso de protectores auditivos."
+    },
+    "A este nivel se señalizan las zonas de trabajo, se aplican medidas para reducir el ruido y el empleador organiza pruebas auditivas.",
+    {
+     "yazi": "Y 87 dB(A) es el límite superior que la exposición en el oído no debe superar, incluso con los protectores puestos."
+    },
+    "Si se supera este límite, el empleador actúa de inmediato, identifica la causa y hace cambios para que no vuelva a ocurrir."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Valores de acción y valor límite",
+   "baslik": "Ejemplo: protectores y *valor límite*",
+   "ogeler": [
+    {
+     "ikon": "fabrika",
+     "baslik": "Lugar de trabajo",
+     "metin": "Nivel diario de 95 dB(A)",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Protector",
+     "metin": "Atenuación real de 12 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "En el oído",
+     "metin": "Unos 83 dB(A)",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Valor de acción",
+     "metin": "Las obligaciones siguen vigentes",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Veamos un ejemplo de cómo se evalúa el valor límite junto con el protector.",
+    {
+     "yazi": "Supongamos que el nivel de exposición diaria de un trabajador es de 95 dB(A)."
+    },
+    "Supongamos que el protector le da a este trabajador unos 12 decibeles de atenuación en el uso real.",
+    {
+     "yazi": "El nivel efectivo en el oído es entonces de unos 83 dB(A), que queda por debajo del valor límite de 87 dB(A)."
+    },
+    {
+     "yazi": "Sin embargo, los valores de acción se evalúan sin el protector, así que las obligaciones de 85 dB(A) siguen aplicándose a este trabajador."
+    },
+    "Es decir, el uso de protectores es obligatorio, se hacen pruebas auditivas y continúa el trabajo de reducción del ruido."
+   ]
+  },
+  {
+   "id": "tepe",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Valores pico y semanales",
+   "baslik": "*Valores pico* del ruido impulsivo",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "135 dB(C)",
+     "metin": "Valor inferior de acción",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "137 dB(C)",
+     "metin": "Valor superior de acción",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "140 dB(C)",
+     "metin": "Valor límite",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En el ruido impulsivo no basta el nivel promedio; la presión acústica pico, muy breve, también se limita por separado.",
+    "Los valores pico se miden con ponderación C, porque la ponderación C atenúa las bajas frecuencias mucho menos que la ponderación A.",
+    {
+     "yazi": "El límite pico es de 135 dB(C) para el valor inferior de acción y de 137 dB(C) para el valor superior de acción."
+    },
+    {
+     "yazi": "El límite pico del valor límite de exposición es de 140 dB(C)."
+    },
+    "En trabajos como prensas, remachado, voladuras y tiro, los valores pico pueden acercarse a estos límites.",
+    "Los valores pico importan por sí mismos, porque incluso un solo impulso muy intenso puede causar un trauma acústico."
+   ]
+  },
+  {
+   "id": "haftalik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Valores pico y semanales",
+   "baslik": "¿Diario o *semanal?*",
+   "maddeler": [
+    {
+     "metin": "Si la exposición varía cada día",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Puede usarse el nivel semanal",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cinco días de ocho horas",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "87 dB(A) sigue sin poder superarse",
+     "cumle": 3,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SEMANA DE EJEMPLO",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "fabrika",
+      "baslik": "Día intenso",
+      "metin": "Exposición alta",
+      "cumle": 4
+     },
+     {
+      "ikon": "is_yeri",
+      "baslik": "Días tranquilos",
+      "metin": "Exposición baja",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "En algunos trabajos, la exposición al ruido varía mucho de un día a otro.",
+    "En ese caso, la normativa permite usar el nivel de exposición semanal al ruido en lugar del nivel diario.",
+    "El nivel semanal es un promedio basado en una semana laboral de cinco días con ocho horas diarias.",
+    {
+     "yazi": "Sin embargo, el nivel semanal tampoco puede superar el valor límite de 87 dB(A), y se toman medidas para reducir el riesgo."
+    },
+    "Así, la carga de un día intenso se compensa con los demás días de la semana, pero el límite se respeta.",
+    "Si se usa el nivel semanal, las mediciones deben planificarse de modo que representen toda la semana."
+   ]
+  },
+  {
+   "id": "degisim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tasa de intercambio",
+   "baslik": "¿3 dB o *5 dB?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 84,
+     "max": 106,
+     "adim": 2,
+     "ad": "Nivel (dB(A))"
+    },
+    "y": {
+     "min": 0,
+     "max": 9,
+     "adim": 1,
+     "ad": "Tiempo permitido (horas)"
+    },
+    "seriler": [
+     {
+      "ad": "uc_db",
+      "noktalar": [
+       [
+        85,
+        8
+       ],
+       [
+        88,
+        4
+       ],
+       [
+        91,
+        2
+       ],
+       [
+        94,
+        1
+       ],
+       [
+        97,
+        0.5
+       ],
+       [
+        100,
+        0.25
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "yumusak": true,
+      "etiket": "regla de 3 dB",
+      "cumle": 3
+     },
+     {
+      "ad": "bes_db",
+      "noktalar": [
+       [
+        90,
+        8
+       ],
+       [
+        95,
+        4
+       ],
+       [
+        100,
+        2
+       ],
+       [
+        105,
+        1
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "isaretli": true,
+      "yumusak": true,
+      "etiket": "regla de 5 dB (OSHA)",
+      "cumle": 5
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark_100",
+      "y": [
+       0.25,
+       2
+      ],
+      "xk": 100,
+      "etiket": "100 dB(A): 15 min frente a 2 horas",
+      "cumle": 6
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "UE, Turquía, ISO, NIOSH: 3 dB",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "OSHA: 5 dB, 90 dB(A)",
+     "cumle": 4,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "La regla de 5 dB protege menos",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La tasa de intercambio indica cuántos decibeles debe subir el nivel para que el tiempo permitido se reduzca a la mitad.",
+    {
+     "yazi": "Europa, Turquía, ISO 1999 y NIOSH, el instituto de investigación en salud ocupacional de Estados Unidos, usan una tasa de 3 decibeles."
+    },
+    "Esta tasa se basa en el principio de igual energía: cuando el sonido sube 3 decibeles, su energía se duplica.",
+    {
+     "yazi": "En la curva azul, 85 dB(A) permite 8 horas, 88 permite 4 horas, 91 permite 2 horas y 94 permite 1 hora."
+    },
+    {
+     "yazi": "OSHA, el organismo regulador de Estados Unidos, usa una tasa de intercambio de 5 decibeles y un límite permitido de 90 dB(A)."
+    },
+    {
+     "yazi": "En la línea discontinua, 90 dB(A) permite 8 horas, 95 permite 4 horas y 100 permite 2 horas."
+    },
+    {
+     "yazi": "Por ejemplo, a 100 dB(A) la regla de 3 decibeles permite solo 15 minutos, mientras que la regla de 5 decibeles permite 2 horas."
+    }
+   ]
+  },
+  {
+   "id": "neden_3db",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Tasa de intercambio",
+   "baslik": "¿Por qué *3 dB?*",
+   "maddeler": [
+    {
+     "metin": "5 dB: supone recuperación en pausas",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "La evidencia apoya la igual energía",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "NIOSH 1998: 85 dB(A), 3 dB",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Riesgo: cerca del 8 % a 85 dB(A)",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "NIOSH: EXCESO DE RIESGO",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "grafik",
+      "baslik": "85 dB(A)",
+      "metin": "Cerca de 8 %",
+      "cumle": 3
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "90 dB(A)",
+      "metin": "Cerca de 25 %",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "La regla de 5 decibeles supone que el oído se recupera en parte durante las pausas silenciosas de la jornada.",
+    "Sin embargo, este supuesto no se cumple en todos los lugares de trabajo, y la evidencia científica apoya sobre todo el principio de igual energía.",
+    {
+     "yazi": "En su documento de criterios de 1998, NIOSH adoptó un límite recomendado de 85 dB(A) y una tasa de intercambio de 3 decibeles."
+    },
+    {
+     "yazi": "Según NIOSH, incluso con 85 dB(A) durante 40 años de vida laboral hay un exceso de riesgo de pérdida auditiva de cerca del 8 por ciento."
+    },
+    {
+     "yazi": "Según el mismo documento, este riesgo sube a cerca del 25 por ciento a 90 dB(A)."
+    },
+    "Estas cifras muestran claramente que mantenerse por debajo del valor límite no elimina el riesgo."
+   ]
+  },
+  {
+   "id": "tablo",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Comparación",
+   "baslik": "Normativas *lado a lado*",
+   "sutunlar": [
+    "Fuente",
+    "Criterio de 8 horas",
+    "Tasa de intercambio",
+    "Límite pico"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "UE y Turquía",
+      "80, 85, 87 dB(A)",
+      "3 dB",
+      "140 dB(C)"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "NIOSH (recomendación)",
+      "85 dB(A)",
+      "3 dB",
+      "140 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "OSHA (legal)",
+      "85 acción, 90 límite",
+      "5 dB",
+      "140 dB"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Esta tabla muestra lado a lado las principales normativas.",
+    {
+     "yazi": "Europa y Turquía usan umbrales de 80, 85 y 87 dB(A) y una tasa de intercambio de 3 decibeles."
+    },
+    {
+     "yazi": "NIOSH recomienda 85 dB(A) y 3 decibeles; es una recomendación científica, no una ley."
+    },
+    {
+     "yazi": "Para OSHA, 85 dB(A) es el nivel de acción que inicia un programa de conservación auditiva, y 90 dB(A) es el límite legal."
+    },
+    "Para el ruido impulsivo, las tres fuentes usan un valor pico de 140 decibeles como límite superior."
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Comparación",
+   "baslik": "¿Cómo se *aplican* los valores?",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Medir",
+     "metin": "Nivel diario y pico",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Comparar",
+     "metin": "80, 85, 87",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Actuar",
+     "metin": "Según el umbral",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Vigilar",
+     "metin": "Audiometría y nueva medición",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Resumamos en un flujo cómo se usan los valores en el trabajo.",
+    "Primero se mide el ruido, y se obtienen el nivel de exposición diaria y el valor pico de cada trabajador.",
+    "Los resultados se comparan con los valores de acción y el valor límite.",
+    "Según el umbral que se supere, se aplican protectores, señalización, capacitación y medidas de reducción del ruido.",
+    "Por último, se realiza la vigilancia audiométrica, y las mediciones se repiten cuando cambia el entorno de trabajo.",
+    "En la próxima lección veremos en detalle los métodos de medición y la dosimetría."
+   ]
+  },
+  {
+   "id": "sinir_alti",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Comparación",
+   "baslik": "Riesgo *por debajo* del límite",
+   "maddeler": [
+    {
+     "metin": "El ruido fuera del trabajo se suma",
+     "cumle": 0,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Conciertos, reproductores, herramientas de hobby",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "La susceptibilidad individual varía",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Vigilancia y capacitación siguen importando",
+     "cumle": 3,
+     "ikon": "okul"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "konser",
+      "metin": "concierto",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "konser",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Los valores límite están pensados para la exposición laboral; el ruido de la vida diaria también suma al riesgo total.",
+    "Los conciertos, los reproductores de música personales y las herramientas de hobby son fuentes importantes de ruido fuera del trabajo.",
+    "Algunas personas son más susceptibles al ruido que otras; la misma exposición puede causar distintos grados de pérdida.",
+    "Por eso la vigilancia audiométrica y la capacitación son valiosas incluso por debajo de los valores de acción.",
+    "Si la vigilancia muestra un cambio significativo del umbral, las medidas se revisan aunque la exposición esté por debajo de los límites.",
+    "Veremos consejos de escucha segura en la lección sobre ruido recreativo."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Al evaluar el valor límite, no confíes en el valor del envase del protector; la atenuación en el uso real suele ser menor.",
+   "cumleler": [
+    {
+     "yazi": "Un consejo clínico: al evaluar el valor límite de 87 dB(A), no se fíen del valor impreso en el envase del protector."
+    },
+    "En el uso real, la atenuación que dan los protectores suele ser menor que la que indica la etiqueta.",
+    "Si es posible, hagan una prueba de ajuste individual al trabajador, o usen una corrección realista.",
+    "Veremos en detalle la selección de protectores y la prueba de ajuste en una lección posterior."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Acción: 80 y 85; límite: 87 dB(A)",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Pico: 135, 137, 140 dB(C)",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "El límite incluye el protector",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "La regla de 3 dB protege más",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En Turquía y en Europa, los valores de acción son 80 y 85, y el valor límite de exposición es de 87 dB(A)."
+    },
+    {
+     "yazi": "Para el ruido impulsivo, los valores pico son 135, 137 y 140 dB(C)."
+    },
+    "El valor límite se evalúa teniendo en cuenta la protección que da el protector auditivo.",
+    "La regla de 3 decibeles, basada en el principio de igual energía, protege más que la regla de 5 decibeles de OSHA."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cuál es el valor límite de exposición diaria en Turquía?",
+   "secenekler": [
+    "80 dB(A)",
+    "85 dB(A)",
+    "87 dB(A)",
+    "90 dB(A)"
+   ],
+   "dogru": 2,
+   "aciklama": "87 dB(A) se evalúa _con el protector_ incluido.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: según el reglamento de ruido de Turquía, ¿cuál es el valor límite de exposición diaria?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "La respuesta correcta es la C: 87 dB(A)."
+    },
+    {
+     "yazi": "80 y 85 dB(A) son valores de acción; 87 dB(A) es el límite que no debe superarse ni siquiera con protectores puestos."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Medición del ruido y *dosimetría*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo se mide el ruido, la ponderación en frecuencia y la dosimetría personal.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,842 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D277_Case_Pseudohypacusis_ES",
+ "kapak": {
+  "ust": "LECCIÓN 277",
+  "baslik": "Caso: respuestas<br>*inconsistentes*",
+  "alt": "Seudohipoacusia y confirmación",
+  "cizim": "oae"
+ },
+ "youtube": {
+  "baslik": "Caso: respuestas inconsistentes y seudohipoacusia | Lección 277 | AIHEAR Academia de Audiología",
+  "aciklama": "En un caso ficticio de un adulto, aplicamos los pasos para reconocer y confirmar una pérdida auditiva no orgánica: umbrales que cambian al repetir la prueba, la discrepancia entre el URP y el promedio de tonos puros, un reflejo acústico en el umbral declarado, la prueba de Stenger, las otoemisiones acústicas y la estimación objetiva del umbral. También vemos un abordaje ético y sin juicios, y la redacción del informe.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Determining Threshold Level for Speech; Martin and Clark, Introduction to Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "seudohipoacusia",
+   "casoclinico"
+  ],
+  "etiketler": [
+   "seudohipoacusia",
+   "prueba de Stenger",
+   "simulación auditiva",
+   "pérdida auditiva no orgánica",
+   "pérdida auditiva funcional",
+   "reflejo acústico",
+   "otoemisiones acústicas",
+   "umbral de recepción de la palabra",
+   "caso clínico de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 277",
+   "baslik": "Caso: respuestas *inconsistentes*",
+   "alt": "Seudohipoacusia: pistas y confirmación",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección analizamos el caso de un adulto cuyas respuestas en las pruebas no concuerdan entre sí.",
+    "Sin juzgar, veremos la discrepancia entre la logoaudiometría y los tonos puros, la pista del reflejo, la prueba de Stenger y la confirmación con otoemisiones."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis y observación",
+   "baslik": "Caso de ejemplo: *anamnesis*",
+   "maddeler": [
+    {
+     "metin": "Una persona de ejemplo, de 29 años",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Tras una explosión en el trabajo",
+     "cumle": 1,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Dice que el oído izquierdo _no oye nada_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Derivación para un informe",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "En la entrevista sigue la conversación fácilmente",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "is_yeri",
+      "baslik": "Evento",
+      "metin": "Ruido de explosión",
+      "cumle": 0
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Motivo",
+      "metin": "Informe y documentación",
+      "cumle": 2
+     },
+     {
+      "ikon": "goz",
+      "baslik": "Observación",
+      "metin": "Sigue la conversación fácilmente",
+      "cumle": 3
+     }
+    ],
+    "ust": "CONTEXTO"
+   },
+   "cumleler": [
+    "Nuestro caso es ficticio: una persona de veintinueve años consulta después de que explotara cerca de ella un cilindro a presión en el trabajo.",
+    "Pasaron unos dos meses desde el evento, y la persona dice que el oído izquierdo casi no oye nada.",
+    "Fue derivada por el médico laboral para documentar su audición y preparar un informe.",
+    "Durante la entrevista, aun con el audiólogo sentado a su izquierda, la persona entiende las preguntas fácilmente y sigue la conversación.",
+    "Esta observación por sí sola no prueba nada; pero se anota, para valorarla junto con los hallazgos de las pruebas.",
+    "Recuerden: una explosión también puede causar un daño coclear real; nuestro objetivo es encontrar el verdadero nivel de audición."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis y observación",
+   "baslik": "¿Qué *es* la seudohipoacusia?",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Seudohipoacusia",
+     "metin": "Respuestas peores que la audición real",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Causas",
+     "metin": "Conscientes o inconscientes",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Simulación",
+     "metin": "Consciente, por beneficio; no la juzga el audiólogo",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La seudohipoacusia significa que las respuestas de una persona en las pruebas muestran una pérdida peor que su verdadero nivel de audición.",
+    "Para el mismo cuadro también se usan los nombres de pérdida auditiva no orgánica o funcional.",
+    "La causa puede ser una expectativa consciente de obtener un beneficio, o factores psicológicos de los que la persona no es consciente.",
+    "La exageración consciente para obtener un beneficio se llama simulación; pero juzgar la intención no es tarea del audiólogo.",
+    "Los procesos de indemnización o de informes son contextos típicos para esto; aun así, el contexto por sí solo no significa seudohipoacusia.",
+    "La tarea del audiólogo es encontrar el verdadero nivel de audición con la mayor exactitud posible e informar los hallazgos con imparcialidad."
+   ]
+  },
+  {
+   "id": "davranis",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis y observación",
+   "baslik": "Pistas de *conducta* durante la prueba",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Fluidez en la entrevista",
+     "metin": "El audiograma indica pérdida severa",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Escucha exagerada",
+     "metin": "Mano detrás de la oreja",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Respuestas tardías",
+     "metin": "Responde o no al mismo nivel",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Medias palabras",
+     "metin": "Solo la mitad de la palabra",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La primera pista suele aparecer antes de la prueba: la persona sigue la conversación fácilmente, pero el audiograma muestra una pérdida severa.",
+    "También pueden destacar conductas de escucha exageradas, como poner la mano detrás de la oreja o inclinarse en exceso hacia quien habla.",
+    "Durante la prueba, las respuestas pueden ser tardías y dudosas, dadas en una presentación y no en la siguiente al mismo nivel.",
+    "Repetir solo la mitad de las palabras bisílabas en la logoaudiometría es otra pista que se describe con frecuencia.",
+    "Estas observaciones no llevan por sí solas a una conclusión; se registran y se valoran junto con los hallazgos de las pruebas."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos inconsistentes",
+   "baslik": "Primera prueba: la pérdida *declarada*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía aérea enmascarada",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Izquierdo_: vía ósea enmascarada",
+     "cumle": 2
+    },
+    {
+     "isaret": "!",
+     "renk": "sag",
+     "metin": "Cambio de _15 dB_ al repetir",
+     "cumle": 4
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       65,
+       70,
+       70,
+       75,
+       75,
+       80
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       null,
+       60,
+       65,
+       70,
+       65
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "La otoscopia y los timpanogramas son normales en ambos oídos; los umbrales del oído derecho están dentro de los límites normales.",
+    "En el oído izquierdo, las respuestas obtenidas con el oído derecho enmascarado muestran una pérdida de entre 65 y 80 decibeles.",
+    "La vía ósea izquierda se superpone a la vía aérea; a primera vista, el cuadro parece una pérdida neurosensorial severa.",
+    "Pero las respuestas son tardías y dudosas; al mismo nivel, la persona a veces responde y a veces no.",
+    "En 1000 hertz, tres mediciones dieron 70, 55 y 70 decibeles; en la pérdida orgánica, las repeticiones suelen coincidir con un margen de 5.",
+    "Este cambio es una alerta; pero no lleva por sí solo a una conclusión y se valora junto con las demás pruebas."
+   ]
+  },
+  {
+   "id": "srt",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos inconsistentes",
+   "baslik": "URP y tonos puros *no concuerdan*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "PTP",
+      "2": "URP"
+     },
+     "ad": "Oído izquierdo"
+    },
+    "y": {
+     "min": 0,
+     "max": 80,
+     "adim": 20,
+     "ad": "dB HL",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "pta",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        70
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 1
+     },
+     {
+      "ad": "srt_sol",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        30
+       ]
+      ],
+      "renk": "sari",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       30,
+       70
+      ],
+      "xk": 2.5,
+      "etiket": "40 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Concordancia esperada: _unos 10 dB_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Diferencia en este caso: _40 dB_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "En las pérdidas orgánicas, el umbral de recepción de la palabra (URP) y el promedio de tonos puros (PTP) suelen coincidir con un margen de unos 10 decibeles.",
+    "El promedio de tonos puros del oído izquierdo en 500, 1000 y 2000 hertz es de unos 70 decibeles.",
+    "Sin embargo, el URP izquierdo es de 30 dB HL; la persona repite palabras muy por debajo del nivel en el que dice no oír los tonos puros.",
+    "Esta diferencia de 40 decibeles sugiere con fuerza un componente no orgánico.",
+    "Una razón es que mantener un umbral falso consistente es más difícil con el habla que con los tonos puros.",
+    "En el oído derecho, el URP es de 10 dB HL y concuerda con el promedio de tonos puros."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Hallazgos inconsistentes",
+   "baslik": "La *pista* del umbral del reflejo",
+   "sutunlar": [
+    "Estímulo izquierdo",
+    "Umbral declarado",
+    "Umbral del reflejo"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "70 dB HL",
+      "70 dB HL"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "70 dB HL",
+      "70 dB HL"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "75 dB HL",
+      "75 dB HL"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "El reflejo acústico aparece cuando un sonido está bastante por encima del umbral auditivo.",
+    "En personas con audición normal, los umbrales del reflejo suelen estar entre 70 y 100 dB HL.",
+    "Con el estímulo en el oído izquierdo, hay reflejos a 70 dB HL en 500 y 1000 hertz.",
+    "Es decir, el reflejo aparece al mismo nivel en el que la persona dice no oír el sonido.",
+    "Si el reflejo aparece a un nivel igual o mejor que el umbral declarado, el umbral declarado no puede ser real.",
+    "Pero un reflejo ausente también puede deberse a problemas del oído medio o del nervio; su ausencia por sí sola no es una prueba."
+   ]
+  },
+  {
+   "id": "stenger",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Confirmación",
+   "baslik": "La *prueba* de Stenger",
+   "adimlar": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Umbrales",
+     "metin": "Diferencia de al menos 20 dB",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Mejor oído",
+     "metin": "Umbral más 10 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Peor oído",
+     "metin": "Umbral declarado menos 10",
+     "cumle": 3
+    },
+    {
+     "ikon": "soru",
+     "baslik": "¿Responde?",
+     "metin": "Positiva si deja de responder",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Nivel mínimo",
+     "metin": "Cerca del umbral real",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "La prueba de Stenger se usa ante una pérdida declarada unilateral o claramente asimétrica.",
+    "Para que funcione, la diferencia entre los oídos suele tener que ser de al menos 20 decibeles; aquí es de 60 decibeles.",
+    "En 1000 hertz, un tono a 20 dB HL, 10 por encima del umbral, va al mejor oído, el derecho; la persona responde sin dificultad.",
+    "Al mismo tiempo, se agrega el mismo tono en el oído izquierdo a 60 dB HL, 10 decibeles por debajo del umbral declarado.",
+    "La persona deja de responder, porque el tono se percibe más fuerte en el oído izquierdo y se oye solo en ese oído.",
+    "Este resultado se llama Stenger positivo; significa que el oído izquierdo oye un sonido por debajo del umbral declarado.",
+    "El tono izquierdo se baja paso a paso hasta hallar el nivel más bajo en el que la persona deja de responder; aquí, 30 dB HL.",
+    "Este nivel se llama nivel mínimo de interferencia contralateral, y da una estimación aproximada del umbral real."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Confirmación",
+   "baslik": "OEA: responden las *células ciliadas externas*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "oído izquierdo: respuesta presente",
+     "cumle": 1
+    },
+    {
+     "parca": "gurultu",
+     "metin": "piso de ruido",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 1
+    },
+    {
+     "parca": "gurultu",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Respuesta: _clara_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_No concuerda_ con lo declarado",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "No excluye una pérdida neural",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Las otoemisiones acústicas (OEA) son una prueba objetiva que muestra que las células ciliadas externas funcionan.",
+    "Aquí se registran otoemisiones acústicas transitorias (OEAT) en el oído izquierdo, en un amplio rango de frecuencias y claramente sobre el piso de ruido.",
+    "En un oído con una supuesta pérdida coclear de 70 decibeles, unas OEA tan claras no concuerdan con lo declarado.",
+    "Pero unas OEA normales no excluyen pérdidas neurales; por eso se interpretan con los demás hallazgos, no de forma aislada.",
+    "La prueba de OEA es rápida y no depende de la colaboración; cuando se sospecha una inconsistencia, conviene incluirla temprano en la batería."
+   ]
+  },
+  {
+   "id": "objektif",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Confirmación",
+   "baslik": "*Estimación* objetiva del umbral",
+   "maddeler": [
+    {
+     "metin": "PEATC o PEAEE: sin colaboración",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Para informes, _respaldo objetivo_",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Umbral real a menudo cercano o mejor",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Este caso: compatible con pérdida _leve_",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "abr",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "dalga_V",
+      "metin": "onda V",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "dalga_V",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Los potenciales evocados auditivos de tronco cerebral (PEATC) y de estado estable (PEAEE) estiman umbrales sin colaboración.",
+    "Sobre todo en evaluaciones que respaldarán un informe, los umbrales conductuales deben confirmarse con un método objetivo.",
+    "Las pruebas objetivas muestran un límite superior de la audición real; el umbral real suele estar cerca de esta estimación o ser mejor.",
+    "En este caso, los umbrales estimados con PEATC en el oído izquierdo fueron compatibles con una pérdida leve en frecuencias agudas.",
+    "Qué prueba objetiva hacer lo decide el protocolo del centro y, cuando hace falta, la solicitud del médico."
+   ]
+  },
+  {
+   "id": "gercek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 4",
+   "bolum": "Abordaje e informe",
+   "baslik": "El *oído izquierdo* con nuevas instrucciones",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: nuevos umbrales",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Concuerdan_ con URP, reflejo y OEA",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       20,
+       25,
+       25,
+       30,
+       35
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Al final, se repitieron las instrucciones con calma y se buscaron los umbrales izquierdos con un método ascendente, partiendo del silencio.",
+    "Esta vez el oído izquierdo dio respuestas consistentes entre 20 y 35 decibeles; las repeticiones coincidieron con un margen de 5 decibeles.",
+    "Los nuevos umbrales muestran una pérdida leve en agudos; esto podría concordar con un daño real por el ruido de la explosión.",
+    "Ahora estos umbrales concuerdan con el URP, los umbrales del reflejo, las OEA y la estimación por PEATC.",
+    "Así, un componente no orgánico no descarta una pérdida real, aunque más leve, en el mismo oído.",
+    "La diferencia entre los primeros umbrales y los finales se muestra con claridad en el informe."
+   ]
+  },
+  {
+   "id": "etik",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Abordaje e informe",
+   "baslik": "Un abordaje ético y *sin juicios*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Hablar sin culpar",
+     "metin": "Repetir las instrucciones con sencillez",
+     "cumle": 0
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Dejar una salida",
+     "metin": "Decir intentemos de nuevo",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Escribir el hallazgo",
+     "metin": "No la intención",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Apoyo si hace falta",
+     "metin": "Médico, salud mental",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Ante respuestas inconsistentes, no usamos un tono acusador; las instrucciones se repiten con calma y con sencillez.",
+    "Se le recuerda a la persona que responda incluso a los sonidos más débiles que oiga.",
+    "Una frase como \"las mediciones no son consistentes, intentemos de nuevo juntos\" le deja a la persona una salida digna.",
+    "El informe describe los hallazgos; no opina sobre la intención de la persona ni registra un juicio como simulación.",
+    "Como un componente no orgánico también puede deberse a factores inconscientes, tratar a la persona con respeto siempre es lo correcto.",
+    "Si hace falta, se considera la derivación al médico y el apoyo de salud mental; esta decisión se toma en equipo."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Ante respuestas inconsistentes, prueba un método ascendente, repite las instrucciones y suma pronto el reflejo y las OEA.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: en la búsqueda del umbral, un método ascendente, partiendo del silencio, puede dificultar mantener un nivel de respuesta falso.",
+    "Medir primero el URP también puede ayudar, porque es difícil mantener un umbral falso consistente para el habla.",
+    "Suma pronto a la batería los reflejos acústicos y las OEA; ninguno de los dos depende de la colaboración de la persona.",
+    "Anota cada inconsistencia, con el momento y las condiciones en que se midió."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Abordaje e informe",
+   "baslik": "Ejemplo de redacción del *informe*",
+   "maddeler": [
+    {
+     "metin": "Primeros umbrales: confiabilidad _baja_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "40 dB entre URP y tonos puros",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Reflejo en el umbral declarado, OEA presentes",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Stenger positivo",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Umbrales finales: pérdida leve, izquierda",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 4,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        10,
+        15,
+        15,
+        20
+       ],
+       "cumle": 4
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        20,
+        25,
+        25,
+        30,
+        35
+       ],
+       "cumle": 4
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "El informe indica primero que las primeras mediciones tienen baja confiabilidad; los resultados inconsistentes no se presentan como umbrales reales.",
+    "Luego se describe cada inconsistencia: una diferencia de 40 decibeles entre el URP y el promedio de tonos puros.",
+    "Reflejos acústicos a niveles iguales a los umbrales declarados, y otoemisiones acústicas registradas en el oído izquierdo.",
+    "Una prueba de Stenger positiva en 1000 hertz, y el nivel mínimo de interferencia contralateral.",
+    "Por último, los umbrales consistentes obtenidos con nuevas instrucciones y la estimación por PEATC; la recomendación incluye revisión médica si hace falta."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Umbrales que cambian al repetir: alerta",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "URP mucho mejor que los tonos: pista fuerte",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Reflejo, Stenger, OEA: confirmación",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Escribir hallazgos, no juzgar la intención",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Los umbrales que cambian más de 5 decibeles al repetir la medición, y las respuestas dudosas, son la primera alerta.",
+    "Un URP claramente mejor que el promedio de tonos puros es una pista fuerte.",
+    "Un reflejo en el umbral declarado, un Stenger positivo y unas OEA normales confirman que la audición real es mejor.",
+    "El audiólogo escribe los hallazgos con imparcialidad, no opina sobre la intención y respalda el umbral real con pruebas objetivas."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "En una prueba de Stenger, la persona deja de responder. ¿Resultado?",
+   "secenekler": [
+    "Stenger negativo",
+    "Stenger positivo",
+    "Prueba no válida",
+    "Pérdida severa real"
+   ],
+   "dogru": 1,
+   "aciklama": "El peor oído oye un sonido _por debajo_ del umbral declarado.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en una prueba de Stenger, se agrega al peor oído un tono bajo el umbral declarado y la persona deja de responder. ¿Resultado?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: un Stenger positivo.",
+    "La persona percibe el sonido en el peor oído, por debajo del umbral declarado; esto muestra un componente no orgánico."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Caso: audiogramas *anuales* de un trabajador con ruido",
+   "cikis": 2.5,
+   "cumleler": [
+    "En el próximo caso compararemos los audiogramas anuales de una persona que trabaja en un lugar ruidoso.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

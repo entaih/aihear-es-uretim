@@ -1,0 +1,255 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R510_I_Squared_and_Heterogeneity_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #510",
+  "baslik": "¿Los estudios *coinciden?*",
+  "alt": "Heterogeneidad e I²",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -4,
+    "max": 14,
+    "adim": 2,
+    "ad": "Diferencia de medias (puntos); a la derecha, a favor del dispositivo"
+   },
+   "y": {
+    "min": 0,
+    "max": 7,
+    "adim": 1,
+    "ters": true,
+    "yazilar": {
+     "1": "Estudio A",
+     "2": "Estudio B",
+     "3": "Estudio C",
+     "4": "Estudio D",
+     "5": "Estudio E",
+     "6": "Global"
+    }
+   },
+   "seriler": [
+    {
+     "ad": "a",
+     "noktalar": [
+      [
+       1,
+       1
+      ],
+      [
+       7,
+       1
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "b",
+     "noktalar": [
+      [
+       2.5,
+       2
+      ],
+      [
+       9.5,
+       2
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "c",
+     "noktalar": [
+      [
+       -2,
+       3
+      ],
+      [
+       6,
+       3
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 3
+    },
+    {
+     "ad": "d",
+     "noktalar": [
+      [
+       3,
+       4
+      ],
+      [
+       7,
+       4
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "e",
+     "noktalar": [
+      [
+       1,
+       5
+      ],
+      [
+       13,
+       5
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "tahminler",
+     "tur": "nokta",
+     "noktalar": [
+      [
+       4,
+       1
+      ],
+      [
+       6,
+       2
+      ],
+      [
+       2,
+       3
+      ],
+      [
+       5,
+       4
+      ],
+      [
+       7,
+       5
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 1
+    },
+    {
+     "ad": "elmas",
+     "noktalar": [
+      [
+       3.4,
+       6
+      ],
+      [
+       4.8,
+       5.7
+      ],
+      [
+       6.2,
+       6
+      ],
+      [
+       4.8,
+       6.3
+      ],
+      [
+       3.4,
+       6
+      ]
+     ],
+     "renk": "sari",
+     "dolgu": true,
+     "cumle": 5
+    }
+   ],
+   "bolgeler": [],
+   "isaretler": [
+    {
+     "ad": "sifir",
+     "x": 0,
+     "cizgi": "dikey",
+     "etiket": "sin efecto",
+     "cumle": 2
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Cómo se mide la concordancia entre los estudios de un metaanálisis? #shorts",
+  "aciklama": "La heterogeneidad significa que los resultados de los estudios de un metaanálisis difieren más de lo que el azar puede explicar. Como medida numérica se informa el estadístico I², que indica, en porcentaje, qué parte de la variación se debe a diferencias reales. Según el Cochrane Handbook, un I² inferior al 40 % a menudo puede no ser importante, mientras que uno superior al 75 % se interpreta como heterogeneidad muy alta y pone en duda un único resultado combinado; estos límites son una guía aproximada.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "basadaenevidencia",
+   "investigacion"
+  ],
+  "etiketler": [
+   "metaanálisis",
+   "heterogeneidad",
+   "I cuadrado",
+   "Cochrane",
+   "revisión sistemática",
+   "audiología basada en la evidencia",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Cómo se mide la concordancia entre los estudios de un metaanálisis?",
+  "bilgiler": [
+   "La heterogeneidad es una variación que el azar no puede explicar.",
+   "Un I² inferior al 40 % a menudo puede no ser importante.",
+   "Por encima del 75 %, la heterogeneidad es muy alta."
+  ],
+  "hashtag": [
+   "audiologia",
+   "basadaenevidencia",
+   "investigacion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #510",
+   "metin": "¿Cuánta *concordancia?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Cómo se mide la concordancia entre los estudios de un metaanálisis?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Heterogeneidad *muy alta*",
+   "sayi": "75",
+   "birim": "%",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "La heterogeneidad significa que los resultados difieren más de lo que el azar puede explicar.",
+    {
+     "yazi": "Su medida es el estadístico I²: la parte que se debe a diferencias reales.",
+     "ses": "Su medida es el estadístico i cuadrado: la parte que se debe a diferencias reales."
+    },
+    "Según el Cochrane Handbook, por debajo del cuarenta por ciento a menudo puede no ser importante.",
+    "Por encima del setenta y cinco por ciento es muy alta y cuestiona un único resultado combinado."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D299",
+ "kaynak_baslik": "Audiología basada en la evidencia: revisiones"
+}

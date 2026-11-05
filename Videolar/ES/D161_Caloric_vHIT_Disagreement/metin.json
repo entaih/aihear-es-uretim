@@ -1,0 +1,719 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D161_Caloric_vHIT_Disagreement_ES",
+ "kapak": {
+  "ust": "LECCIÓN 161",
+  "baslik": "Prueba calórica<br>y *vHIT*",
+  "alt": "¿Por qué pueden discrepar?",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "¿Por qué discrepan la prueba calórica y el vHIT? | Lección 161 | AIHEAR Academia de Audiología",
+  "aciklama": "Esta lección explica por qué la prueba calórica y la prueba de impulso cefálico con video (vHIT) pueden dar resultados distintos. Vemos el rango de frecuencias del RVO, las diferencias de estímulo y de canales entre ambas pruebas, la disociación entre prueba calórica y vHIT en la enfermedad de Ménière, las causas técnicas y el enfoque de batería de pruebas.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Jacobson and Shepard, Balance Function Assessment and Management; McGarvie et al., What does the head impulse test versus caloric dissociation reveal about vestibular dysfunction in Ménière's disease?, Annals of the New York Academy of Sciences (2015); Tamanini et al., Dissociation between video head impulse test and caloric test: a marker of Ménière's disease? A systematic review and meta-analysis, Brazilian Journal of Otorhinolaryngology (2023); Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "vHIT",
+   "vestibular"
+  ],
+  "etiketler": [
+   "prueba calórica",
+   "vHIT",
+   "prueba de impulso cefálico con video",
+   "rango de frecuencias del RVO",
+   "disociación calórica vHIT",
+   "enfermedad de Ménière",
+   "batería de pruebas vestibulares",
+   "VEMP",
+   "silla rotatoria",
+   "evaluación vestibular",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 161",
+   "baslik": "Disociación entre prueba calórica y *vHIT*",
+   "alt": "¿Por qué pueden diferir los resultados?",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos por qué la prueba calórica y la prueba de impulso cefálico con video, o vHIT, pueden dar resultados distintos.",
+    "Trataremos el rango de frecuencias del reflejo vestíbulo-ocular, o RVO, la disociación en la enfermedad de Ménière y el principio de la batería de pruebas."
+   ]
+  },
+  {
+   "id": "frekans",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Frecuencias distintas",
+   "baslik": "El rango de *frecuencias* del RVO",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.001,
+     "max": 10,
+     "log": true,
+     "ad": "Frecuencia del estímulo (Hz)",
+     "isaretler": [
+      0.001,
+      0.01,
+      0.1,
+      1,
+      10
+     ],
+     "yazilar": {
+      "0.001": "0,001",
+      "0.01": "0,01",
+      "0.1": "0,1",
+      "1": "1",
+      "10": "10"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 4,
+     "adim": 1,
+     "ad": "",
+     "yazilar": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+     }
+    },
+    "bolgeler": [
+     {
+      "ad": "kalorik",
+      "x": [
+       0.002,
+       0.005
+      ],
+      "renk": "mavi",
+      "etiket": "calórica",
+      "cumle": 1
+     },
+     {
+      "ad": "sandalye",
+      "x": [
+       0.01,
+       0.64
+      ],
+      "renk": "gri",
+      "etiket": "silla rotatoria",
+      "cumle": 2
+     },
+     {
+      "ad": "vhit",
+      "x": [
+       3,
+       5
+      ],
+      "renk": "kirmizi",
+      "etiket": "vHIT",
+      "cumle": 3
+     },
+     {
+      "ad": "gunluk",
+      "x": [
+       0.5,
+       6
+      ],
+      "renk": "sari",
+      "opak": 0.25,
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "gunluk_yazi",
+      "x": 1.73,
+      "y": 2,
+      "etiket": "movimientos cotidianos",
+      "nokta": false,
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Calórica: frecuencia _muy baja_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "vHIT: frecuencia _alta_",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "cumleler": [
+    "El reflejo vestíbulo-ocular, o RVO, funciona en un rango amplio, desde movimientos de cabeza muy lentos hasta muy rápidos.",
+    {
+     "yazi": "La prueba calórica explora el extremo más bajo de este rango; su estímulo equivale a una rotación muy lenta de unos 0,003 hertz.",
+     "ses": "La prueba calórica explora el extremo más bajo de este rango; su estímulo equivale a una rotación muy lenta de unos cero coma cero cero tres hertz."
+    },
+    {
+     "yazi": "La silla rotatoria suele evaluar las frecuencias bajas y medias, entre unos 0,01 y 0,64 hertz.",
+     "ses": "La silla rotatoria suele evaluar las frecuencias bajas y medias, entre unos cero coma cero uno y cero coma sesenta y cuatro hertz."
+    },
+    "El vHIT, con sus impulsos cefálicos breves y muy rápidos, explora las frecuencias altas, de unos tres a cinco hertz según la fuente.",
+    "Los movimientos cotidianos que hacemos al caminar y al girar la cabeza se sitúan sobre todo en esta región de alta frecuencia.",
+    "Así, ambas pruebas miran rangos de trabajo distintos del mismo reflejo; esta es la primera y más básica explicación de la disociación."
+   ]
+  },
+  {
+   "id": "farklar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Frecuencias distintas",
+   "baslik": "¿En *qué* se diferencian ambas pruebas?",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Estímulo",
+     "metin": "Calórica: temperatura; vHIT: movimiento de la cabeza.",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Oído",
+     "metin": "Calórica: cada oído aparte; vHIT: sobre todo el canal estimulado.",
+     "cumle": 2
+    },
+    {
+     "ikon": "vertigo",
+     "baslik": "Canales",
+     "metin": "Calórica: solo el lateral; vHIT: seis canales.",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Medida",
+     "metin": "Calórica: velocidad de la fase lenta; vHIT: ganancia.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Además de la frecuencia, hay otras diferencias entre ambas pruebas.",
+    "La prueba calórica estimula el canal con una diferencia de temperatura, mientras que el vHIT usa un movimiento real y rápido de la cabeza.",
+    "La calórica estimula cada oído por separado; en el vHIT ambos lados se mueven juntos, pero la respuesta refleja sobre todo el canal estimulado.",
+    "La prueba calórica solo puede explorar el canal lateral, mientras que el vHIT puede explorar los seis canales.",
+    "El resultado calórico se expresa como velocidad de la fase lenta y comparación entre oídos; el del vHIT, como ganancia y sacadas.",
+    "Por estas diferencias, no se espera que una prueba reemplace a la otra; se complementan."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Patrones de disociación",
+   "baslik": "Cuatro *resultados* posibles",
+   "sutunlar": [
+    "Calórica",
+    "vHIT",
+    "Ejemplo de afección"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal",
+      "Normal",
+      "Sin pérdida canalicular"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Alterada",
+      "Alterado",
+      "Pérdida canalicular marcada"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Alterada",
+      "Normal",
+      "Enfermedad de Ménière"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Normal",
+      "Alterado",
+      "Afectación de canal vertical"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En conjunto, los resultados de ambas pruebas pueden combinarse de cuatro formas distintas.",
+    "Si ambas pruebas son normales, no se espera una pérdida canalicular marcada; aun así, los órganos otolíticos y las vías centrales se evalúan aparte.",
+    "Si ambas pruebas están alteradas, como por ejemplo en la neuritis vestibular aguda, hay una pérdida canalicular marcada.",
+    "Una respuesta calórica reducida con un vHIT normal es la disociación más discutida; este cuadro es frecuente en la enfermedad de Ménière.",
+    "La disociación inversa, una calórica normal con un vHIT alterado, es menos frecuente.",
+    "Como la calórica mide solo el canal lateral, un problema aislado del canal posterior puede dar una calórica normal y un vHIT alterado."
+   ]
+  },
+  {
+   "id": "meniere",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Patrones de disociación",
+   "baslik": "Disociación en la enfermedad de *Ménière*",
+   "cizim": "vestibuler",
+   "ayar": {
+    "akuadukt": true,
+    "akuadukt_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "lateral_kanal",
+     "metin": "Canal lateral",
+     "cumle": 0
+    },
+    {
+     "parca": "endolenfatik_kese",
+     "metin": "Saco endolinfático",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "metin": "Ampolla y cúpula",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "lateral_kanal",
+     "cumle": 0
+    },
+    {
+     "parca": "endolenfatik_kese",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Calórica reducida, _vHIT normal_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Causa posible: _hidrops_",
+     "cumle": 2,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "En la enfermedad de Ménière, la respuesta calórica suele estar reducida en el oído afectado, pero la ganancia del vHIT en ese oído puede seguir normal.",
+    "En un metaanálisis, esta disociación se informó en alrededor de la mitad de los pacientes con enfermedad de Ménière.",
+    "La explicación más aceptada se relaciona con el hidrops endolinfático, es decir, un aumento del volumen de endolinfa.",
+    "En el hidrops, el flujo térmico en el canal membranoso dilatado puede circular y disiparse sin desplazar lo suficiente la cúpula.",
+    "En un movimiento rápido de la cabeza, en cambio, el mecanismo que desplaza la cúpula se conserva, y el vHIT sigue normal.",
+    "También se han propuesto otras explicaciones, así que la disociación no es diagnóstica, pero junto con la historia clínica es una pista valiosa."
+   ]
+  },
+  {
+   "id": "anlam",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Patrones de disociación",
+   "baslik": "¿Qué nos *dice* la disociación?",
+   "maddeler": [
+    {
+     "metin": "Muestra la _región de frecuencia_ afectada",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "vHIT normal: _estabilización de la mirada_ conservada",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Puede _no haber_ oscilopsia",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Calórica: asimetría en _baja frecuencia_",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Aporta _información_ en el seguimiento",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "faz_egrileri",
+    "cumle": 1,
+    "ayar": {
+     "faz": 0,
+     "kazanc": 0.95,
+     "bas_cumle": 1,
+     "goz_cumle": 1
+    },
+    "etiketler": [
+     {
+      "parca": "bas_hizi",
+      "metin": "Velocidad cefálica",
+      "cumle": 1
+     },
+     {
+      "parca": "goz_hizi",
+      "metin": "Velocidad ocular",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "La disociación nos indica qué región de frecuencias afecta la pérdida vestibular.",
+    "Si el vHIT es normal, la estabilización de la mirada durante los movimientos rápidos de la cabeza está en gran parte conservada.",
+    "Por eso estos pacientes no suelen referir que la imagen se deslice al mover la cabeza, es decir, oscilopsia.",
+    "La asimetría calórica, en cambio, muestra una diferencia entre ambos oídos en la respuesta de baja frecuencia.",
+    "En el seguimiento, los cambios de ambas pruebas con el tiempo pueden aportar información adicional sobre la evolución de la enfermedad.",
+    "Esta información también orienta al médico y al equipo en la planificación de la rehabilitación."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Patrones de disociación",
+   "baslik": "Otras *disociaciones*",
+   "maddeler": [
+    {
+     "metin": "Pérdida parcial: primero la _baja frecuencia_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La ganancia puede _recuperarse_ con el tiempo",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Migraña vestibular: _a menudo_ normal",
+     "cumle": 3,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Canal vertical: _solo el vHIT_ lo muestra",
+     "cumle": 4,
+     "ikon": "vertigo"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "grafik",
+      "baslik": "Pérdida parcial",
+      "metin": "Calórica más sensible",
+      "cumle": 0
+     },
+     {
+      "ikon": "vertigo",
+      "baslik": "Canal vertical",
+      "metin": "Solo el vHIT",
+      "cumle": 4
+     }
+    ],
+    "ust": "EJEMPLOS"
+   },
+   "cumleler": [
+    "En las pérdidas canaliculares parciales, la respuesta de baja frecuencia puede fallar antes que la de alta; entonces la calórica puede ser más sensible.",
+    "En las pérdidas marcadas, ambas pruebas suelen estar alteradas.",
+    "En el seguimiento tras una pérdida unilateral, ambas pruebas pueden recuperarse a ritmos distintos.",
+    "En la migraña vestibular, ambas pruebas suelen ser normales; algunos pacientes muestran hallazgos leves y variables.",
+    "Un problema que afecta solo al canal anterior o al posterior solo puede mostrarse con el vHIT.",
+    "Estos patrones son una guía; la misma enfermedad puede dar hallazgos distintos, y enfermedades distintas pueden dar hallazgos similares."
+   ]
+  },
+  {
+   "id": "teknik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "La batería de pruebas",
+   "baslik": "Primero, las causas *técnicas*",
+   "maddeler": [
+    {
+     "metin": "Calórica: ¿_llegó_ bien el estímulo?",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Anatomía del conducto y del _oído medio_",
+     "cumle": 1,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Paciente distraído: respuesta _suprimida_",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "vHIT: _deslizamiento de las gafas_",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "vHIT: impulsos cefálicos _lentos_",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Ante una disociación, cuestionen primero la calidad del registro; un error técnico puede crear una disociación falsa.",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Antes de interpretar una disociación, asegúrense de que ambas pruebas se hicieron correctamente desde el punto de vista técnico.",
+    "En la calórica, si el agua o el aire no llegaron al fondo del conducto, o si este es estrecho o curvo, la respuesta puede ser falsamente pequeña.",
+    "Un paciente distraído o somnoliento durante la calórica también puede suprimir el nistagmo y crear una falsa paresia.",
+    "En el vHIT, el deslizamiento de las gafas puede dar una ganancia falsamente alta o baja.",
+    "Los impulsos cefálicos que no son lo bastante rápidos pueden hacer que un lado débil parezca normal.",
+    "Por eso, ante una disociación, primero se revisan los registros y, si hace falta, se repite la prueba dudosa."
+   ]
+  },
+  {
+   "id": "tamamlayici",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "La batería de pruebas",
+   "baslik": "Cada prueba es *una ventana*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Calórica",
+     "metin": "Canal lateral, muy baja frecuencia, cada oído aparte.",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "vHIT",
+     "metin": "Seis canales, alta frecuencia.",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "VEMP",
+     "metin": "Órganos otolíticos: sáculo y utrículo.",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Silla rotatoria",
+     "metin": "Frecuencias medias, pérdida bilateral.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En el enfoque de batería de pruebas, cada prueba es como una ventana a una parte distinta del sistema vestibular.",
+    "La prueba calórica evalúa por separado el canal lateral de cada oído en una frecuencia muy baja.",
+    "El vHIT muestra la función de los seis canales en alta frecuencia.",
+    "Las pruebas de potenciales evocados miogénicos vestibulares, o VEMP, no exploran los canales sino los órganos otolíticos: el sáculo y el utrículo.",
+    "La silla rotatoria evalúa las frecuencias medias y es especialmente valiosa para confirmar las pérdidas bilaterales.",
+    "Ninguna prueba muestra por sí sola todo el sistema vestibular, por eso las pruebas se interpretan en conjunto."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "La batería de pruebas",
+   "baslik": "*Planificación* de la batería",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Historia clínica",
+     "metin": "Definir la pregunta",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Audición",
+     "metin": "Audiograma, inmitancia",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Canales",
+     "metin": "vHIT y calórica",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Otolitos",
+     "metin": "cVEMP y oVEMP",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Interpretación conjunta",
+     "metin": "Informar el patrón",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La batería de pruebas comienza con la historia clínica; la pregunta que se quiere responder determina qué pruebas elegir.",
+    "Se necesitan los hallazgos del audiograma y de la inmitancia, sobre todo en la enfermedad de Ménière y para interpretar los VEMP.",
+    "Para la función canalicular se usan juntos el vHIT y la prueba calórica; una disociación es un hallazgo en sí misma.",
+    "La función otolítica se evalúa además con las pruebas VEMP; si hace falta, también se planifican la silla rotatoria y la posturografía.",
+    "Por último, los hallazgos no se informan uno por uno sino como un patrón, y la interpretación se comparte con el médico."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "La batería de pruebas",
+   "baslik": "*Hallazgos* de ejemplo",
+   "sutunlar": [
+    "Prueba",
+    "Derecho",
+    "Izquierdo"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Respuesta calórica",
+      "Normal",
+      "Paresia del 40 %"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Ganancia lateral del vHIT",
+      "0,95",
+      "0,92"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Audiograma",
+      "Normal",
+      "Pérdida en graves"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "cVEMP",
+      "Normal",
+      "Normal"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Veamos ahora los hallazgos de un paciente puramente de ejemplo.",
+    "La prueba calórica muestra una paresia canalicular del cuarenta por ciento en el oído izquierdo.",
+    {
+     "yazi": "En el mismo paciente, la ganancia lateral del vHIT es normal en ambos lados: 0,95 a la derecha y 0,92 a la izquierda.",
+     "ses": "En el mismo paciente, la ganancia lateral del vHIT es normal en ambos lados: cero coma noventa y cinco a la derecha y cero coma noventa y dos a la izquierda."
+    },
+    "El audiograma muestra una hipoacusia neurosensorial en frecuencias graves en el oído izquierdo.",
+    "Junto con la historia clínica, este patrón corresponde a un cuadro en el que debe evaluarse una posible enfermedad de Ménière.",
+    "Las decisiones de diagnóstico y tratamiento corresponden al médico; la tarea del audiólogo es informar este patrón de forma clara y completa."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si la calórica y el vHIT discrepan, no den por errónea ninguna de las dos. Verifiquen primero la técnica y luego informen la disociación como hallazgo.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: cuando los resultados de la calórica y del vHIT difieren, no se pregunten cuál de los dos es el correcto.",
+    "Si ambas pruebas se hicieron bien, las dos son correctas; simplemente miden frecuencias distintas.",
+    "Después de descartar las causas técnicas, indiquen la disociación con claridad en el informe.",
+    "Esta información es una pista importante para que el médico valore las posibles causas."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Calórica, baja; vHIT, _alta_ frecuencia",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Calórica reducida, vHIT normal: frecuente en _Ménière_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Descartar primero las causas _técnicas_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Las pruebas se _complementan_",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "La prueba calórica explora el RVO en muy baja frecuencia y el vHIT en alta frecuencia, por eso sus resultados pueden diferir.",
+    "Una respuesta calórica reducida con un vHIT normal es una disociación frecuente en la enfermedad de Ménière.",
+    "Antes de interpretar una disociación, se verifica la calidad técnica de ambas pruebas.",
+    "La prueba calórica, el vHIT y los VEMP no se reemplazan entre sí; se interpretan juntos como una batería de pruebas."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Calórica reducida, vHIT normal: ¿en qué afección es más frecuente?",
+   "secenekler": [
+    "Enfermedad de Ménière",
+    "Vestibulopatía bilateral",
+    "Neuritis vestibular aguda"
+   ],
+   "dogru": 0,
+   "aciklama": "En la enfermedad de Ménière, la respuesta calórica suele estar reducida, mientras que el _vHIT_ suele seguir normal.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿en qué afección se ve con más frecuencia una respuesta calórica reducida con un vHIT normal?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: la enfermedad de Ménière.",
+    "En la pérdida bilateral y en la neuritis aguda, ambas pruebas suelen estar alteradas a la vez."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Silla rotatoria y posturografía *computarizada*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección conoceremos la prueba de silla rotatoria y la posturografía dinámica computarizada.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,268 @@
+{
+ "dil": "es",
+ "bicim": "reels",
+ "dosya": "R509_The_Diamond_in_a_Forest_Plot_ES",
+ "kapak": {
+  "ust": "DATO RÁPIDO #509",
+  "baslik": "Qué significa *el rombo*",
+  "alt": "Cómo leer un diagrama de bosque",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -4,
+    "max": 14,
+    "adim": 2,
+    "ad": "Diferencia de medias (puntos); a la derecha, a favor del dispositivo"
+   },
+   "y": {
+    "min": 0,
+    "max": 7,
+    "adim": 1,
+    "ters": true,
+    "yazilar": {
+     "1": "Estudio A",
+     "2": "Estudio B",
+     "3": "Estudio C",
+     "4": "Estudio D",
+     "5": "Estudio E",
+     "6": "Global"
+    }
+   },
+   "seriler": [
+    {
+     "ad": "a",
+     "noktalar": [
+      [
+       1,
+       1
+      ],
+      [
+       7,
+       1
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "b",
+     "noktalar": [
+      [
+       2.5,
+       2
+      ],
+      [
+       9.5,
+       2
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "c",
+     "noktalar": [
+      [
+       -2,
+       3
+      ],
+      [
+       6,
+       3
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 3
+    },
+    {
+     "ad": "d",
+     "noktalar": [
+      [
+       3,
+       4
+      ],
+      [
+       7,
+       4
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "e",
+     "noktalar": [
+      [
+       1,
+       5
+      ],
+      [
+       13,
+       5
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "tahminler",
+     "tur": "nokta",
+     "noktalar": [
+      [
+       4,
+       1
+      ],
+      [
+       6,
+       2
+      ],
+      [
+       2,
+       3
+      ],
+      [
+       5,
+       4
+      ],
+      [
+       7,
+       5
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 1
+    },
+    {
+     "ad": "elmas",
+     "noktalar": [
+      [
+       3.4,
+       6
+      ],
+      [
+       4.8,
+       5.7
+      ],
+      [
+       6.2,
+       6
+      ],
+      [
+       4.8,
+       6.3
+      ],
+      [
+       3.4,
+       6
+      ]
+     ],
+     "renk": "sari",
+     "dolgu": true,
+     "cumle": 5
+    }
+   ],
+   "bolgeler": [],
+   "isaretler": [
+    {
+     "ad": "sifir",
+     "x": 0,
+     "cizgi": "dikey",
+     "etiket": "sin efecto",
+     "cumle": 2
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "¿Qué muestra el rombo al pie de un diagrama de bosque? #shorts",
+  "aciklama": "El resultado de un metaanálisis se muestra con un diagrama de bosque (forest plot). Cada fila es un estudio: el punto muestra la estimación de ese estudio y la línea horizontal, su intervalo de confianza del 95 %; la línea vertical del centro es la línea de no efecto, que vale cero para una diferencia de medias. El rombo de abajo es la estimación combinada: su centro muestra el efecto global y sus dos extremos, el intervalo de confianza. En el ejemplo didáctico, el rombo no cruza el cero y la evidencia combinada sugiere un beneficio; que la diferencia sea clínicamente relevante es otra cuestión.",
+  "kapanis_metni": "Sigue a AIHEAR Academia de Audiología para más datos breves.",
+  "hashtag": [
+   "shorts",
+   "audiologia",
+   "basadaenevidencia",
+   "investigacion"
+  ],
+  "etiketler": [
+   "metaanálisis",
+   "forest plot",
+   "intervalo de confianza",
+   "estimación combinada",
+   "revisión sistemática",
+   "audiología basada en la evidencia",
+   "audiología",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "¿Qué muestra el rombo al pie de un diagrama de bosque?",
+  "bilgiler": [
+   "El punto es la estimación del estudio; la línea, su intervalo de confianza.",
+   "Si el intervalo cruza el cero, ese estudio solo no muestra diferencia significativa.",
+   "El rombo muestra la estimación combinada y su intervalo."
+  ],
+  "hashtag": [
+   "audiologia",
+   "basadaenevidencia",
+   "investigacion"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "DATO RÁPIDO #509",
+   "metin": "¿Qué *muestra?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "¿Qué muestra el rombo al pie de un diagrama de bosque?"
+   ]
+  },
+  {
+   "id": "grafik",
+   "tur": "zincir",
+   "baslik": "El diagrama *de bosque*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Punto",
+     "tr": "estimación del estudio",
+     "cumle": 0
+    },
+    {
+     "ad": "Línea",
+     "tr": "intervalo de confianza",
+     "cumle": 0,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Rombo",
+     "tr": "resultado combinado",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Cada fila es un estudio: el punto es la estimación y la línea, el intervalo de confianza.",
+    "Un estudio cuyo intervalo cruza el cero no muestra, por sí solo, una diferencia significativa.",
+    "El rombo de abajo es la estimación combinada; sus extremos muestran el intervalo.",
+    "Si el rombo no cruza el cero, la evidencia combinada sugiere un beneficio."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Síguenos para más",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Sigue a AIHEAR Academia de Audiología para más datos breves."
+   ]
+  }
+ ],
+ "kaynak_ders": "D299",
+ "kaynak_baslik": "Audiología basada en la evidencia: revisiones"
+}

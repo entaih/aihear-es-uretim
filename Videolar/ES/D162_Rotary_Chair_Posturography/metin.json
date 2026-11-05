@@ -1,0 +1,817 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D162_Rotary_Chair_Posturography_ES",
+ "kapak": {
+  "ust": "LECCIÓN 162",
+  "baslik": "Silla y<br>*posturografía*",
+  "alt": "Silla rotatoria y SOT",
+  "cizim": "denge_durus"
+ },
+ "youtube": {
+  "baslik": "Silla rotatoria y posturografía computarizada | Lección 162 | AIHEAR Academia de Audiología",
+  "aciklama": "¿Qué miden la silla rotatoria y la posturografía dinámica computarizada? En esta lección vemos la prueba de aceleración armónica sinusoidal, la ganancia, la fase y la simetría, su valor en la hipofunción vestibular bilateral, las seis condiciones de la prueba de organización sensorial, la puntuación de equilibrio y los cocientes de análisis sensorial.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Jacobson and Shepard, Balance Function Assessment and Management; Strupp et al., Bilateral vestibulopathy: Diagnostic criteria (Journal of Vestibular Research, 2017) and corrigendum (2023); Nashner, Computerized dynamic posturography; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "vestibular",
+   "equilibrio"
+  ],
+  "etiketler": [
+   "silla rotatoria",
+   "prueba rotatoria",
+   "aceleración armónica sinusoidal",
+   "ganancia del RVO",
+   "adelanto de fase",
+   "posturografía dinámica computarizada",
+   "prueba de organización sensorial",
+   "SOT",
+   "puntuación de equilibrio",
+   "vestibulopatía bilateral",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 162",
+   "baslik": "Silla y *posturografía*",
+   "alt": "La prueba SHA y la prueba de organización sensorial",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos dos pruebas avanzadas de la batería vestibular: la silla rotatoria y la posturografía dinámica computarizada.",
+    "Veremos la prueba de aceleración armónica sinusoidal, la ganancia, la fase y la simetría, y las seis condiciones de la prueba de organización sensorial."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "La silla rotatoria",
+   "baslik": "La silla estimula *ambos canales* a la vez",
+   "cizim": "kanal_duzlemleri",
+   "ayar": {
+    "goster": [
+     "lateral"
+    ],
+    "cift_cumleleri": {
+     "lateral": 2
+    },
+    "donus": 45,
+    "donus_cumle": 3
+   },
+   "vurgula": [
+    {
+     "parca": "lateral_cift",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "La silla rotatoria es una silla motorizada y controlada por computadora que hace girar a la persona alrededor de un eje vertical.",
+    "La persona se sienta a oscuras y los movimientos oculares se registran con videogafas; la cabeza está fijada a la silla.",
+    "Con la cabeza ligeramente inclinada hacia adelante, los dos canales laterales quedan aproximadamente en el plano de rotación.",
+    "Cuando la silla gira hacia un lado, el canal lateral de un lado se excita y el del otro lado se inhibe.",
+    "Así, a diferencia de la prueba calórica, la silla estimula ambos laberintos al mismo tiempo y en conjunto.",
+    "Esta es a la vez la mayor fortaleza de la prueba y su limitación más importante; veremos ambas en breve."
+   ]
+  },
+  {
+   "id": "sha",
+   "tur": "akis",
+   "bolum_no": "PARTE 1",
+   "bolum": "La silla rotatoria",
+   "baslik": "Aceleración armónica *sinusoidal*",
+   "adimlar": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Oscilación",
+     "metin": "Rotación sinusoidal, izquierda y derecha",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Frecuencias",
+     "metin": "De 0,01 a 0,64 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Velocidad",
+     "metin": "Pico de unos 50°/s",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Registro",
+     "metin": "Velocidad ocular a oscuras",
+     "cumle": 4
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Alerta",
+     "metin": "Tareas mentales",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "El protocolo más usado es la prueba de aceleración armónica sinusoidal, o SHA.",
+    "La silla oscila como un péndulo; la mayoría de los protocolos usa siete frecuencias, de cero coma cero uno a cero coma sesenta y cuatro hertz.",
+    "En la frecuencia más lenta, un ciclo completo dura cien segundos; en la más rápida, alrededor de un segundo y medio.",
+    "En la mayoría de los protocolos, la velocidad máxima de la silla es de unos cincuenta o sesenta grados por segundo.",
+    "En cada frecuencia, la velocidad ocular de la fase lenta se compara con la velocidad de la silla.",
+    "Para que el reflejo vestíbulo-ocular, o RVO, no se atenúe en la oscuridad, la persona se mantiene alerta con tareas mentales como contar."
+   ]
+  },
+  {
+   "id": "olcu",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ganancia, fase, simetría",
+   "baslik": "Tres medidas: *ganancia, fase, simetría*",
+   "cizim": "faz_egrileri",
+   "ayar": {
+    "faz": 30,
+    "kazanc": 0.6,
+    "bas_cumle": 1,
+    "goz_cumle": 1,
+    "faz_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "faz_farki",
+     "metin": "adelanto de fase",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Aquí calculamos, por separado en cada frecuencia, las dos medidas que vimos en la lección sobre el reflejo vestíbulo-ocular.",
+    "La ganancia es la relación entre la velocidad ocular de la fase lenta y la de la silla; indica cuánto compensan los ojos el movimiento cefálico.",
+    "La fase es la relación temporal entre la respuesta ocular y la silla; en frecuencias bajas los ojos se adelantan, lo que se llama adelanto de fase.",
+    "En los trastornos vestibulares periféricos, el adelanto de fase es mayor de lo normal, sobre todo en las frecuencias bajas.",
+    "La simetría compara las respuestas oculares que producen las rotaciones hacia la derecha y hacia la izquierda.",
+    "La asimetría muestra que la respuesta es más fuerte en una dirección, pero no siempre indica de forma confiable qué oído está afectado.",
+    "Como ambos laberintos se estimulan juntos, una pérdida aguda y una pérdida compensada pueden dar asimetrías en direcciones distintas."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ganancia, fase, simetría",
+   "baslik": "Ejemplo: pérdida *bilateral*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.008,
+     "max": 0.8,
+     "log": true,
+     "ad": "Frecuencia de rotación (Hz)",
+     "isaretler": [
+      0.01,
+      0.02,
+      0.04,
+      0.08,
+      0.16,
+      0.32,
+      0.64
+     ],
+     "yazilar": {
+      "0.01": "0,01",
+      "0.02": "0,02",
+      "0.04": "0,04",
+      "0.08": "0,08",
+      "0.16": "0,16",
+      "0.32": "0,32",
+      "0.64": "0,64"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 1.0,
+     "adim": 0.2,
+     "ad": "Ganancia del RVO",
+     "ond": 1
+    },
+    "bolgeler": [
+     {
+      "ad": "normal_bolge",
+      "y": [
+       0.35,
+       0.8
+      ],
+      "renk": "yesil",
+      "etiket": "rango normal de ejemplo",
+      "cumle": 1
+     }
+    ],
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0.01,
+        0.45
+       ],
+       [
+        0.02,
+        0.5
+       ],
+       [
+        0.04,
+        0.55
+       ],
+       [
+        0.08,
+        0.58
+       ],
+       [
+        0.16,
+        0.6
+       ],
+       [
+        0.32,
+        0.6
+       ],
+       [
+        0.64,
+        0.6
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "ejemplo normal",
+      "cumle": 2
+     },
+     {
+      "ad": "iki_tarafli",
+      "noktalar": [
+       [
+        0.01,
+        0.02
+       ],
+       [
+        0.02,
+        0.03
+       ],
+       [
+        0.04,
+        0.04
+       ],
+       [
+        0.08,
+        0.06
+       ],
+       [
+        0.16,
+        0.07
+       ],
+       [
+        0.32,
+        0.09
+       ],
+       [
+        0.64,
+        0.12
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "ejemplo de pérdida bilateral",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "barany",
+      "x": 0.1,
+      "y": 0.1,
+      "etiket": "0,1 en 0,1 Hz",
+      "dus": "xy",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normas propias de cada laboratorio",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Ganancia baja en todas las frecuencias",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Mide la función residual",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Este gráfico es un ejemplo esquemático de la ganancia del RVO en función de la frecuencia.",
+    "La banda verde muestra un rango normal de ejemplo; las normas reales las fija cada laboratorio según el equipo, el protocolo y la edad.",
+    "La línea azul muestra a una persona normal; la ganancia es algo menor en las frecuencias bajas y mayor en las medias.",
+    "En la línea roja, la ganancia es muy baja en todas las frecuencias; este patrón es compatible con una hipofunción vestibular bilateral.",
+    "En un paciente sin respuesta calórica en ningún lado, la silla muestra si queda alguna función, y cuánta.",
+    "Un criterio de Bárány para la vestibulopatía bilateral es una ganancia de cero coma uno o menos a cero coma un hertz, con mayor adelanto de fase.",
+    "Vigilar la función residual muestra su cambio con el tiempo, sobre todo en personas que reciben fármacos ototóxicos."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ganancia, fase, simetría",
+   "baslik": "*Otras* pruebas en la silla",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Escalón de velocidad",
+     "metin": "Arranque y frenado bruscos",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "RVO visual",
+     "metin": "Rotación con luz",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Supresión por fijación",
+     "metin": "Rotación mirando un objetivo",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la prueba de escalón de velocidad, la silla alcanza rápido una velocidad constante, gira un tiempo y luego se detiene de golpe.",
+    "Se mide cuánto tarda en desaparecer el nistagmo tras el arranque y tras la detención; esto se llama constante de tiempo.",
+    "En la pérdida periférica, la constante de tiempo se acorta; comparar las rotaciones a la derecha y a la izquierda informa sobre la asimetría.",
+    "En la prueba de RVO visual, se gira con luz; la visión y el sistema vestibular trabajan juntos, y la ganancia normalmente se acerca a uno.",
+    "En la prueba de supresión por fijación, la persona mira una luz que gira con la silla; un cerebelo sano suprime claramente el RVO.",
+    "Una supresión alterada puede sugerir un problema central que afecta al cerebelo."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Ganancia, fase, simetría",
+   "baslik": "¿*Dónde* aporta valor la silla?",
+   "maddeler": [
+    {
+     "metin": "Confirmar la pérdida bilateral",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Vigilar la función residual",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Niños pequeños: en brazos de mamá o papá",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Seguir la compensación",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Limitada para mostrar el lado",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kanal_duzlemleri",
+    "cumle": 0,
+    "ayar": {
+     "goster": [
+      "lateral"
+     ]
+    }
+   },
+   "cumleler": [
+    "La silla rotatoria es una de las pruebas más sólidas para confirmar una hipofunción vestibular bilateral.",
+    "También es valiosa para vigilar la función residual con el tiempo, como en el uso de fármacos ototóxicos.",
+    "Los niños pequeños que no toleran la prueba calórica pueden evaluarse en la silla, en brazos de su madre o su padre.",
+    "Tras una pérdida unilateral, seguir la fase y la simetría aporta información sobre la compensación central.",
+    "Sin embargo, la silla no muestra qué oído tiene una pérdida unilateral con la claridad de la prueba calórica, y es un equipo costoso.",
+    "Por eso la silla no reemplaza a la prueba calórica ni a la prueba de impulso cefálico con video; las complementa."
+   ]
+  },
+  {
+   "id": "cdp",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Posturografía",
+   "baslik": "Posturografía dinámica *computarizada*",
+   "cizim": "posturografi",
+   "etiketler": [
+    {
+     "parca": "agirlik_merkezi",
+     "metin": "centro de gravedad",
+     "cumle": 3
+    },
+    {
+     "parca": "destek_yuzeyi",
+     "metin": "plataforma móvil",
+     "cumle": 4
+    },
+    {
+     "parca": "kemer",
+     "metin": "arnés de seguridad",
+     "cumle": 2
+    },
+    {
+     "parca": "gorsel_cevre",
+     "metin": "entorno visual",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "agirlik_merkezi",
+     "cumle": 3
+    },
+    {
+     "parca": "salinim",
+     "cumle": 3
+    },
+    {
+     "parca": "destek_yuzeyi",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "En la lección sobre cómo funciona el equilibrio, vimos que este depende de la información visual, somatosensorial y vestibular.",
+    "La posturografía dinámica computarizada es un sistema que mide cuánto aporta cada uno de estos tres sentidos al equilibrio.",
+    "La persona se para sobre una plataforma con sensores de fuerza, con un arnés de seguridad que la protege de las caídas.",
+    "La plataforma mide de forma continua el balanceo hacia adelante y hacia atrás del centro de gravedad.",
+    "Su característica clave es que el piso y el entorno visual pueden moverse con el balanceo de la persona; esto se llama referencia al balanceo.",
+    "Cuando el piso se inclina con el balanceo, la información de los tobillos se vuelve engañosa; si el entorno visual lo acompaña, también la visión."
+   ],
+   "ayar": {
+    "platform_cumle": 2,
+    "kemer_cumle": 2,
+    "salinim_cumle": 3,
+    "bagla_cumle": 4
+   }
+  },
+  {
+   "id": "sot",
+   "tur": "tablo",
+   "bolum_no": "PARTE 3",
+   "bolum": "Posturografía",
+   "baslik": "Prueba de organización sensorial: *seis condiciones*",
+   "sutunlar": [
+    "Condición",
+    "Visión",
+    "Piso",
+    "Sentido disponible"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1",
+      "Ojos abiertos",
+      "Fijo",
+      "Los tres"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2",
+      "Ojos cerrados",
+      "Fijo",
+      "Somatosensorial, vestibular"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "3",
+      "Referenciada al balanceo",
+      "Fijo",
+      "Somatosensorial, vestibular"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "4",
+      "Ojos abiertos",
+      "Referenciado al balanceo",
+      "Visual, vestibular"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "5",
+      "Ojos cerrados",
+      "Referenciado al balanceo",
+      "Vestibular"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "6",
+      "Referenciada al balanceo",
+      "Referenciado al balanceo",
+      "Vestibular"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "La prueba central de la posturografía es la prueba de organización sensorial, o SOT; tiene seis condiciones.",
+    "En la condición uno, los ojos están abiertos y el piso y el entorno visual están fijos; los tres sentidos dan información correcta.",
+    "En la condición dos, los ojos están cerrados; el equilibrio queda a cargo de la información somatosensorial y del sistema vestibular.",
+    "En la condición tres, los ojos están abiertos, pero el entorno visual está referenciado al balanceo; la visión es engañosa.",
+    "En la condición cuatro, el piso está referenciado al balanceo; la información somatosensorial engaña, y quedan la visión y el sistema vestibular.",
+    "En las condiciones cinco y seis, el piso es engañoso y la visión falta o engaña; el equilibrio queda a cargo del sistema vestibular.",
+    "Cada condición suele durar veinte segundos y se repite tres veces."
+   ]
+  },
+  {
+   "id": "sot_ornek",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación de la SOT",
+   "baslik": "Ejemplo: un patrón *vestibular*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 6.6,
+     "adim": 1,
+     "yazilar": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6"
+     },
+     "ad": "Condición de la SOT"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Puntuación de equilibrio"
+    },
+    "seriler": [
+     {
+      "ad": "kosul_1_4",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        94
+       ],
+       [
+        2,
+        91
+       ],
+       [
+        3,
+        89
+       ],
+       [
+        4,
+        80
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "1 a 4: casi normal",
+      "cumle": 3
+     },
+     {
+      "ad": "kosul_5_6",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        5,
+        28
+       ],
+       [
+        6,
+        22
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "5 y 6: baja",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Puntuación: balanceo / 12,5°",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "1 a 4: casi normal",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "5 y 6: baja",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "En cada ensayo se calcula una puntuación de equilibrio, que va de cero a cien.",
+    "La puntuación compara el ángulo de balanceo anteroposterior con un límite teórico de caída de unos doce grados y medio.",
+    "Por ejemplo, un balanceo de dos grados y medio da una puntuación de ochenta; una caída o apoyarse en el arnés puntúa cero.",
+    "En este ejemplo, las puntuaciones de las condiciones uno a cuatro son casi normales.",
+    "En las condiciones cinco y seis, las puntuaciones son claramente bajas, y la persona se apoya en el arnés.",
+    "Es decir, el equilibrio se mantiene cuando puede usarse la visión o la información somatosensorial, pero falla cuando solo queda la vestibular.",
+    "Esto se llama patrón de disfunción vestibular; los límites normales varían con la edad."
+   ]
+  },
+  {
+   "id": "oranlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación de la SOT",
+   "baslik": "Cocientes de *análisis* sensorial",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Somatosensorial",
+     "metin": "Condición 2 / condición 1",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Visual",
+     "metin": "Condición 4 / condición 1",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Vestibular",
+     "metin": "Condición 5 / condición 1",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Preferencia visual",
+     "metin": "(3+6) / (2+5)",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los cocientes entre condiciones muestran qué sentido no aporta lo suficiente al equilibrio.",
+    "El cociente somatosensorial es la puntuación de la condición dos dividida entre la de la condición uno.",
+    "El cociente visual es la condición cuatro entre la condición uno.",
+    "El cociente vestibular es la condición cinco entre la condición uno; es bajo en el patrón vestibular.",
+    "El cociente de preferencia visual muestra la resistencia a la visión engañosa: la suma de tres y seis dividida entre la suma de dos y cinco.",
+    "Una persona con una puntuación baja de preferencia visual tiende a perder el equilibrio en un entorno visual en movimiento."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación de la SOT",
+   "baslik": "Lo que la posturografía *no nos dice*",
+   "maddeler": [
+    {
+     "metin": "No muestra el sitio ni el lado",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Cuantifica la función",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Valiosa en el seguimiento de la rehabilitación",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Patrón no fisiológico: inconsistencia",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "denge_durus",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "salinim",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "La posturografía no muestra qué oído, ni qué parte del sistema nervioso, tiene el problema.",
+    "Lo que muestra es qué tan bien usa la persona sus sentidos para el equilibrio en condiciones parecidas a las de la vida diaria.",
+    "Por eso es valiosa para seguir el cambio funcional antes y después de la rehabilitación vestibular.",
+    "El sistema incluye además otras pruebas, como la prueba de control motor, que mide las respuestas motoras a movimientos bruscos de la plataforma.",
+    "Los patrones fisiológicamente inesperados, como rendir peor en las condiciones fáciles que en las difíciles, sugieren respuestas inconsistentes.",
+    "Un patrón así no basta por sí solo para una interpretación; se valora junto con los hallazgos de otras pruebas."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En la posturografía, anoten la historia y el nivel de miedo de la persona; el miedo a caer puede afectar las puntuaciones, sobre todo en las condiciones 5 y 6.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: la posturografía mide el rendimiento de la persona en ese momento; la ansiedad y el cansancio afectan el resultado.",
+    "Una persona con miedo a caer puede tensarse demasiado en las condiciones cinco y seis, o apoyarse en el arnés demasiado pronto.",
+    "Antes de la prueba, muestren el arnés de seguridad, hagan un ensayo de práctica y anoten la ansiedad de la persona.",
+    "En la prueba de silla, mantengan las tareas mentales en cada frecuencia para que la persona siga alerta; un paciente somnoliento puede dar una ganancia falsamente baja."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "La silla estimula ambos canales laterales _a la vez_",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Se miden ganancia, fase y simetría",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "SOT: tres sentidos en seis condiciones",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Bajas en 5 y 6: patrón vestibular",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La silla rotatoria estimula juntos ambos canales laterales; es sólida para confirmar la pérdida bilateral y seguir la función residual.",
+    "La prueba de aceleración armónica sinusoidal mide ganancia, fase y simetría por frecuencia; en la pérdida periférica aumenta el adelanto de fase.",
+    "La prueba de organización sensorial mide, en seis condiciones, cómo contribuyen al equilibrio la visión, la información somatosensorial y la vestibular.",
+    "Las puntuaciones bajas solo en las condiciones cinco y seis forman el patrón de disfunción vestibular; la posturografía no muestra el sitio de la lesión."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Puntuaciones bajas solo en las condiciones 5 y 6 de la SOT?",
+   "secenekler": [
+    "Problema de preferencia visual",
+    "Problema somatosensorial",
+    "Patrón vestibular",
+    "Resultado normal"
+   ],
+   "dogru": 2,
+   "aciklama": "En estas condiciones, el equilibrio depende sobre todo de la información _vestibular_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en la prueba de organización sensorial, solo las condiciones cinco y seis tienen puntuaciones bajas. ¿Qué patrón es este?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: el patrón de disfunción vestibular.",
+    "En estas dos condiciones, la visión y la información somatosensorial faltan o engañan; el equilibrio queda a cargo del sistema vestibular."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Introducción a la audiología *pediátrica*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección comenzaremos la sección de evaluación pediátrica y veremos por qué un niño no es un adulto pequeño.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

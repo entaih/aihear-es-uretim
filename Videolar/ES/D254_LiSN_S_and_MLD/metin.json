@@ -1,0 +1,822 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D254_LiSN_S_and_MLD_ES",
+ "kapak": {
+  "ust": "LECCIÓN 254",
+  "baslik": "*LiSN-S*<br>y MLD",
+  "alt": "Escuchar en ruido con dos oídos",
+  "cizim": "bas_ustten",
+  "ayar": {
+   "mod": "golge"
+  }
+ },
+ "youtube": {
+  "baslik": "Procesamiento binaural y espacial: LiSN-S y MLD | Lección 254 | AIHEAR Academia de Audiología",
+  "aciklama": "Algunos niños tienen dificultades para escuchar entre varios hablantes aunque su audiograma sea normal. En esta lección vemos el trastorno del procesamiento espacial, las cuatro condiciones y las medidas de ventaja de la prueba de escucha en ruido espacializado (LiSN-S), la prueba de diferencia de nivel de enmascaramiento (MLD) y cómo se interpretan ambas pruebas juntas en la clínica.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Cameron and Dillon, Development of the Listening in Spatialized Noise-Sentences Test (LISN-S), Ear and Hearing (2007); Cameron and Dillon, The Listening in Spatialized Noise-Sentences Test (LISN-S): comparison to the prototype LISN and results from children with either a suspected (central) auditory processing disorder or a confirmed language disorder, Journal of the American Academy of Audiology (2008); Pillsbury, Grose and Hall, Otitis media with effusion in children: binaural hearing before and after corrective surgery, Archives of Otolaryngology Head and Neck Surgery (1991); Hogan, Meyer and Moore, Binaural unmasking returns to normal in teenagers who had otitis media in infancy, Audiology and Neuro-Otology (1996); Musiek and Chermak, Handbook of Central Auditory Processing Disorder; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "procesamientoauditivo",
+   "audicionbinaural"
+  ],
+  "etiketler": [
+   "LiSN-S",
+   "escucha en ruido espacializado",
+   "trastorno del procesamiento espacial",
+   "diferencia de nivel de enmascaramiento",
+   "MLD",
+   "liberación espacial del enmascaramiento",
+   "audición binaural",
+   "enmascaramiento informacional",
+   "trastorno del procesamiento auditivo",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 254",
+   "baslik": "Procesamiento espacial: *LiSN-S* y MLD",
+   "alt": "Cómo trabajan juntos los dos oídos",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección conoceremos pruebas que miden cómo trabajan juntos los dos oídos y la capacidad de separar los sonidos en el espacio.",
+    "Veremos el trastorno del procesamiento espacial, la prueba de escucha en ruido espacializado y la prueba de diferencia de nivel de enmascaramiento."
+   ]
+  },
+  {
+   "id": "uzamsal",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Procesamiento espacial",
+   "baslik": "Habla al frente, ruido al *costado*",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "lisn",
+    "gurultu": "sag",
+    "kosul_cumle": 1
+   },
+   "vurgula": [
+    {
+     "parca": "konusma",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "cumle": 1
+    },
+    {
+     "parca": "bas_golgesi",
+     "cumle": 3
+    },
+    {
+     "parca": "iyi_kulak",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "konusma",
+     "metin": "Habla: desde el frente",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Ruido: desde el costado",
+     "cumle": 1
+    },
+    {
+     "parca": "iyi_kulak",
+     "metin": "Oído alejado del ruido",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sombra de la cabeza: ganancia _física_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Procesamiento binaural: ganancia _central_",
+     "cumle": 4,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Separar_ la voz del docente",
+     "cumle": 6,
+     "ikon": "okul"
+    }
+   ],
+   "cumleler": [
+    "Comprender a un hablante en un ambiente ruidoso depende en gran medida de que el habla y el ruido lleguen desde direcciones distintas.",
+    "Cuando el ruido se desplaza al costado, la misma habla se comprende con una relación señal-ruido más baja.",
+    "Esta ganancia se llama liberación espacial del enmascaramiento.",
+    "Parte de esta ganancia proviene de la sombra de la cabeza, es decir, de la ventaja física del oído alejado del ruido.",
+    "Otra parte proviene de que el tronco cerebral aprovecha las diferencias de tiempo y de nivel entre los dos oídos.",
+    "El procesamiento espacial es la capacidad de usar estas claves para separar el sonido que se escucha de los demás sonidos.",
+    "Poder ignorar la conversación de los compañeros mientras se escucha al docente es la forma cotidiana de esta habilidad."
+   ]
+  },
+  {
+   "id": "maskeleme",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Procesamiento espacial",
+   "baslik": "Dos tipos de *enmascaramiento*",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Enmascaramiento energético",
+     "cumle": 0,
+     "metin": "El ruido tapa la señal"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Enmascaramiento informacional",
+     "cumle": 2,
+     "metin": "Otra habla capta la atención"
+    }
+   ],
+   "cumleler": [
+    "Cuando un sonido tapa a otro hablamos de enmascaramiento, y en la vida diaria adopta dos formas.",
+    "En el enmascaramiento energético, un ruido en la misma región de frecuencias que el habla se impone sobre ella.",
+    "En el enmascaramiento informacional, el sonido de fondo también es habla con significado; el problema es la separación y la atención, no la audibilidad.",
+    "En un aula llena, la conversación de los niños es un enmascarador informacional típico para la voz del docente.",
+    "Las claves espaciales son especialmente valiosas para superar el enmascaramiento informacional.",
+    "Por eso, las pruebas de procesamiento espacial suelen usar habla competitiva de fondo en lugar de ruido."
+   ]
+  },
+  {
+   "id": "upb",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Procesamiento espacial",
+   "baslik": "*Trastorno* del procesamiento espacial",
+   "maddeler": [
+    {
+     "metin": "Audiograma _normal_, dificultad en ruido",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Poco beneficio_ de las claves espaciales",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Descrito por Cameron y Dillon",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Ligado a antecedentes de líquido en oído medio",
+     "cumle": 4,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Se propone entrenamiento específico",
+     "cumle": 5,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        5,
+        10,
+        5,
+        10,
+        10
+       ]
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        5,
+        10,
+        5,
+        10,
+        5,
+        10
+       ]
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25,
+      "etiket": "Normal"
+     }
+    }
+   },
+   "cumleler": [
+    "Algunos niños tienen un audiograma normal, pero les cuesta escuchar, sobre todo donde hablan varias personas.",
+    "Algunos de estos niños no pueden usar las claves de la dirección del sonido tan bien como sus pares.",
+    "Los investigadores australianos Cameron y Dillon describieron este cuadro como trastorno del procesamiento espacial.",
+    "El término señala un subgrupo específico dentro del trastorno del procesamiento auditivo y una habilidad medible.",
+    "Se ha descrito con más frecuencia en niños con antecedentes de líquido en el oído medio prolongado o frecuente en la primera infancia.",
+    "El mismo grupo de investigación desarrolló también un programa de entrenamiento auditivo por computadora dirigido a esta habilidad."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "La prueba LiSN-S",
+   "baslik": "Cuatro *condiciones de escucha*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Misma voz, al frente",
+     "cumle": 2,
+     "metin": "Menos claves"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Voces distintas, al frente",
+     "cumle": 3,
+     "metin": "Solo diferencia de voz"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Misma voz, a los lados",
+     "cumle": 4,
+     "metin": "Solo diferencia de dirección"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Voces distintas, a los lados",
+     "cumle": 5,
+     "metin": "Ambas claves juntas"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "La prueba de escucha de oraciones en ruido espacializado, o LiSN-S, fue publicada por Cameron y Dillon en 2007."
+    },
+    "El niño repite oraciones objetivo que parecen venir de frente; de fondo, dos personas narran historias sin parar.",
+    "En la primera condición, las historias distractoras tienen la misma voz que el objetivo y vienen de la misma dirección, el frente.",
+    "En la segunda condición, las historias vienen del frente, pero con voces distintas de la del objetivo.",
+    "En la tercera condición, la voz es la misma, pero las historias vienen de la derecha y de la izquierda, es decir, a noventa grados a los lados.",
+    "En la cuarta condición, las voces son distintas y las historias vienen de los lados; es la condición más fácil.",
+    "Las direcciones no salen de altavoces reales: se crea un espacio virtual por auriculares con funciones de transferencia relacionadas con la cabeza."
+   ]
+  },
+  {
+   "id": "lisn_ornek",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "La prueba LiSN-S",
+   "baslik": "Ejemplo: poca *ganancia espacial*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 4.6,
+     "isaretler": [
+      1.5,
+      3.5
+     ],
+     "yazilar": {
+      "1.5": "niño 1",
+      "3.5": "niño 2"
+     },
+     "ad": "Niños de ejemplo"
+    },
+    "y": {
+     "min": -16,
+     "max": 2,
+     "adim": 4,
+     "ad": "Umbral de ejemplo (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "zor1",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        -1
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "misma voz, al frente",
+      "cumle": 2
+     },
+     {
+      "ad": "kolay1",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        -12
+       ]
+      ],
+      "renk": "yesil",
+      "etiket": "clave espacial",
+      "cumle": 3
+     },
+     {
+      "ad": "zor2",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        3,
+        -1
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "misma voz, al frente",
+      "cumle": 4
+     },
+     {
+      "ad": "kolay2",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        4,
+        -4
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "clave espacial",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Umbral más bajo: _mejor_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Poca ganancia_ con la clave espacial",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Los valores son _ejemplos_",
+     "cumle": 2,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "En cada condición se busca de forma adaptativa el umbral de recepción de la palabra, en el que el niño repite bien la mitad de las oraciones.",
+    "El umbral es una relación señal-ruido en decibeles; un valor más bajo indica un mejor rendimiento.",
+    "El gráfico muestra los umbrales de dos niños de ejemplo en la condición más difícil y en la condición con la misma voz desde los lados.",
+    "En el primer niño, el umbral mejora claramente cuando las historias vienen de los lados; esa es la ventaja espacial.",
+    "En el segundo niño, el umbral en la condición más difícil es similar, pero la mejora con la clave espacial es muy pequeña.",
+    "Si la ventaja del hablante de este niño es normal, puede distinguir las voces, pero no aprovecha lo suficiente la diferencia de dirección.",
+    "Este patrón se considera típico del trastorno del procesamiento espacial."
+   ]
+  },
+  {
+   "id": "turetilmis",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "La prueba LiSN-S",
+   "baslik": "*Medidas* derivadas",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Ventaja del hablante",
+     "cumle": 1,
+     "metin": "Ganancia por diferencia de voz"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Ventaja espacial",
+     "cumle": 2,
+     "metin": "Ganancia por diferencia de dirección"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Ventaja total",
+     "cumle": 3,
+     "metin": "Ambas claves juntas"
+    }
+   ],
+   "cumleler": [
+    "Las medidas de ventaja se calculan comparando los umbrales de las cuatro condiciones.",
+    "La ventaja del hablante es la ganancia que aportan las voces distintas en las historias, en comparación con la condición más difícil.",
+    "La ventaja espacial es la ganancia que aporta que las historias vengan de los lados, y es la medida clave de la prueba.",
+    "La ventaja total muestra la ganancia de ambas claves juntas.",
+    "Como son diferencias entre dos condiciones, las medidas de ventaja se ven menos afectadas por factores generales como la atención y el lenguaje."
+   ]
+  },
+  {
+   "id": "lisn_yorum",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "La prueba LiSN-S",
+   "baslik": "Cómo *leer* un resultado de LiSN-S",
+   "maddeler": [
+    {
+     "metin": "Solo medidas espaciales bajas: patrón _espacial_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Todo bajo: considerar factores generales",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Normas según la edad",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Importa la versión del idioma",
+     "cumle": 4,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Umbrales normales y simétricos",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "PATRÓN",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "hoparlor",
+      "baslik": "Espacial baja",
+      "cumle": 0,
+      "metin": "Problema con la clave espacial"
+     },
+     {
+      "ikon": "dikkat",
+      "baslik": "Todo bajo",
+      "cumle": 1,
+      "metin": "Factores generales"
+     }
+    ]
+   },
+   "cumleler": [
+    "Si las medidas que incluyen la clave espacial son bajas y la ventaja del hablante es normal, el patrón sugiere un trastorno del procesamiento espacial.",
+    "Si todas las medidas son bajas a la vez, se exploran por separado factores más generales como la atención, el lenguaje, la memoria o la audición.",
+    "La prueba se desarrolló originalmente para niños de unos seis a once años, y el rendimiento mejora con la edad.",
+    "Por eso, los resultados siempre deben compararse con normas adecuadas para la edad del niño.",
+    "La prueba se construyó con oraciones en inglés; existen versiones para distintos países, y su uso en otros idiomas requiere adaptación.",
+    "Como una pérdida periférica asimétrica ya alteraría las claves espaciales, antes de la prueba se verifican los umbrales de ambos oídos."
+   ]
+  },
+  {
+   "id": "mld",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "La prueba MLD",
+   "baslik": "¿*Cómo* se mide la diferencia de nivel de enmascaramiento?",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "En fase",
+     "cumle": 1,
+     "metin": "Tono y ruido iguales en ambos oídos"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Primer umbral",
+     "cumle": 2,
+     "metin": "Umbral del tono en ruido"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Fase invertida",
+     "cumle": 3,
+     "metin": "Tono invertido en un oído"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Diferencia",
+     "cumle": 4,
+     "metin": "Diferencia entre ambos umbrales"
+    }
+   ],
+   "cumleler": [
+    "La diferencia de nivel de enmascaramiento, o MLD, es una prueba que conocimos en la lección sobre audición binaural.",
+    "Primero se presentan a ambos oídos, completamente en fase, un ruido de banda estrecha y un tono grave, por lo general de quinientos hertz.",
+    "En esta condición se determina el umbral del tono en el ruido.",
+    "Luego, sin cambiar el ruido, se invierte la fase del tono en un oído y se vuelve a medir el umbral.",
+    "La diferencia entre ambos umbrales es la MLD; en normoyentes suele ser de unos diez a quince decibeles en quinientos hertz.",
+    "En la práctica clínica, esta medición puede hacerse rápidamente con tonos y ruido grabados."
+   ]
+  },
+  {
+   "id": "mld_ornek",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "La prueba MLD",
+   "baslik": "Un ejemplo de resultado de *MLD*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 2.6,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "persona 1",
+      "2": "persona 2"
+     },
+     "ad": "Ejemplo"
+    },
+    "y": {
+     "min": 0,
+     "max": 16,
+     "adim": 4,
+     "ad": "MLD (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "mld1",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        13
+       ]
+      ],
+      "renk": "yesil",
+      "etiket": "13 dB",
+      "cumle": 1
+     },
+     {
+      "ad": "mld2",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        3
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "3 dB",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "tipik",
+      "y": [
+       10,
+       15
+      ],
+      "renk": "yesil",
+      "etiket": "rango típico",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal: _unos 10 a 15 dB_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "MLD pequeña: pensar en el _tronco cerebral_",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Comparar primero los umbrales",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Este gráfico muestra los resultados de MLD de dos personas de ejemplo.",
+    "En la primera persona, el umbral mejora unos trece decibeles cuando se invierte el tono; es una ganancia binaural normal.",
+    "En la segunda persona, el mismo cambio mejora el umbral solo unos pocos decibeles.",
+    "Una MLD pequeña sugiere que la información de fase de los dos oídos no se compara lo suficientemente bien en el tronco cerebral.",
+    "Sin embargo, el resultado no se interpreta sin tener en cuenta también los umbrales tonales de ambos oídos."
+   ]
+  },
+  {
+   "id": "mld_klinik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "La prueba MLD",
+   "baslik": "La MLD *en la clínica*",
+   "maddeler": [
+    {
+     "metin": "_Sensible_ al tronco cerebral bajo",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Puede reducirse en la esclerosis múltiple",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Puede seguir _baja_ tras líquido en oído medio",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "La pérdida asimétrica también la reduce",
+     "cumle": 4,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "A menudo normal en lesiones corticales",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "superior_oliver",
+      "metin": "Complejo olivar superior",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "La MLD es sensible al procesamiento en el complejo olivar superior, donde se compara por primera vez la información de ambos oídos.",
+    "Se ha descrito una MLD reducida en trastornos que afectan el tronco cerebral, como la esclerosis múltiple.",
+    "En niños con tubos de ventilación por líquido en el oído medio, la MLD siguió pequeña un tiempo, aun después de normalizarse la audición.",
+    "Sin embargo, estudios en la adolescencia informaron que esta diferencia se había cerrado en gran parte.",
+    "La MLD también disminuye en las pérdidas periféricas con una clara diferencia de umbrales entre los oídos.",
+    "En las lesiones limitadas a la corteza, la MLD suele mantenerse normal; esto ayuda a pensar en el nivel de la lesión."
+   ]
+  },
+  {
+   "id": "iki_test",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Leer las dos pruebas juntas",
+   "baslik": "LiSN-S y MLD *juntas*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "LiSN-S",
+     "cumle": 0,
+     "metin": "Habla, historias competitivas"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "MLD",
+     "cumle": 2,
+     "metin": "Tono, ruido, diferencia de fase"
+    }
+   ],
+   "cumleler": [
+    "La prueba de escucha en ruido espacializado mide la capacidad global de usar las claves espaciales, con una tarea cercana a la vida real.",
+    "Además del procesamiento binaural en el tronco cerebral, esta tarea también involucra la atención y procesos de separación de nivel superior.",
+    "La MLD, en cambio, mide el procesamiento binaural del tronco cerebral a un nivel más básico, con un tono y ruido.",
+    "Usadas juntas, las dos pruebas pueden orientar sobre si el problema está en el nivel binaural básico o en la escucha de nivel superior.",
+    "Ambas forman parte de la batería; ninguna establece el diagnóstico por sí sola."
+   ]
+  },
+  {
+   "id": "vaka",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Leer las dos pruebas juntas",
+   "baslik": "Ejemplo: un niño con dificultades *en clase*",
+   "adimlar": [
+    {
+     "ikon": "okul",
+     "baslik": "Anamnesis",
+     "cumle": 0,
+     "metin": "Dificultad en un aula ruidosa"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Audiograma",
+     "cumle": 1,
+     "metin": "Ambos oídos normales"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "LiSN-S",
+     "cumle": 2,
+     "metin": "Ventaja espacial baja"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Equipo",
+     "cumle": 4,
+     "metin": "Recomendaciones y seguimiento"
+    }
+   ],
+   "cumleler": [
+    "Como ejemplo, pensemos en un niño de nueve años cuyo docente comenta que a menudo parece distraído en clase.",
+    "El audiograma, la timpanometría y los reflejos acústicos son normales en ambos oídos.",
+    "En la prueba de escucha en ruido espacializado, la ventaja del hablante es normal, pero la espacial está claramente bajo la norma para su edad.",
+    "En los antecedentes hay episodios recurrentes de líquido en el oído medio en la primera infancia.",
+    "El equipo analiza los hallazgos junto con las evaluaciones del lenguaje y de la atención, y se conversan cambios en el entorno.",
+    "Este ejemplo muestra que el audiograma por sí solo puede no explicar las dificultades de escucha cotidianas de un niño."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Nota clínica",
+   "metin": "Compara los umbrales de ambos oídos antes de las pruebas binaurales. Una pérdida asimétrica puede hacer que los resultados de LiSN-S y MLD parezcan un problema central.",
+   "cumleler": [
+    "Un consejo de la clínica: antes de interpretar las pruebas binaurales, compara siempre los umbrales tonales de ambos oídos.",
+    "Si hay una diferencia clara entre los oídos, una ventaja espacial baja o una MLD pequeña pueden tener una explicación periférica.",
+    "Haz la timpanometría antes de la prueba; el líquido en el oído medio presente ese día puede alterar fácilmente el resultado.",
+    "Verifica que los auriculares estén en el oído correcto y bien orientados; el espacio virtual depende de esta colocación."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Procesamiento espacial: separar con _claves de dirección_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "LiSN-S: cuatro condiciones, _ventaja espacial_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "MLD: la fase en el _tronco cerebral_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Verificar primero que los umbrales sean simétricos",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "El procesamiento espacial es la capacidad de separar el habla de los sonidos competitivos con claves de dirección; su trastorno no se ve en el audiograma.",
+    "La prueba de escucha en ruido espacializado mide la ventaja del hablante y la espacial con cuatro condiciones que varían la voz y la dirección.",
+    "La MLD mide cuánto mejora el umbral al invertir la fase del tono en un oído, y es sensible al tronco cerebral bajo.",
+    "Ambas pruebas dan la información más confiable cuando los umbrales de los dos oídos son normales o simétricos."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Cuál es el patrón típico de LiSN-S en el trastorno del procesamiento espacial?",
+   "secenekler": [
+    "Todos los umbrales normales",
+    "Ventaja espacial baja",
+    "Solo ventaja del hablante baja",
+    "Todas las medidas bajas"
+   ],
+   "dogru": 1,
+   "aciklama": "Lo típico es una _ventaja espacial_ baja con ventaja del hablante normal.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿cuál es el patrón típico en la prueba de escucha en ruido espacializado en el trastorno del procesamiento espacial?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: ventaja espacial baja.",
+    "El niño puede distinguir las voces de los hablantes, pero no se beneficia tanto como sus pares cuando las historias vienen de los lados."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Tamizaje* del TPA y cuestionarios para niños",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo tamizar el trastorno del procesamiento auditivo en niños: pruebas y formularios para docentes y padres.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

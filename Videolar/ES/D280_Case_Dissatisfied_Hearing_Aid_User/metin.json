@@ -319,9 +319,6 @@
       3
      ],
      "yazilar": {
-      "1": "Quiet",
-      "2": "Speech",
-      "3": "Speech in noise",
       "1": "Silencio",
       "2": "Habla",
       "3": "Habla en ruido"
@@ -680,7 +677,7 @@
     ]
    },
    "cumleler": [
-    "Para la comprensión en ruido se aplica la prueba Quick Speech-in-Noise, o QuickSIN; la pérdida de relación señal-ruido es de nueve decibeles.",
+    "Para la comprensión en ruido se aplica la prueba Quick Speech-in-Noise, o QuickSIN; la pérdida de relación señal-ruido, o pérdida de SNR, es de nueve decibeles.",
     "Según el manual de la prueba, esta es una pérdida de SNR moderada.",
     "Es decir, para entender en ruido, la persona necesita una relación señal-ruido, o SNR, más alta que las personas con audición normal.",
     "Subir a la vez el habla y el ruido no cambia la relación; por eso subir el volumen no es, por sí solo, una solución.",

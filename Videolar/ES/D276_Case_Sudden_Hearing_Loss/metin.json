@@ -1,0 +1,936 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D276_Case_Sudden_Hearing_Loss_ES",
+ "kapak": {
+  "ust": "LECCIÓN 276",
+  "baslik": "Caso: sordera<br>*súbita*",
+  "alt": "Documentar y derivar el mismo día",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "hava_maskeli",
+     "degerler": [
+      60,
+      65,
+      70,
+      70,
+      75,
+      80
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Caso: un paciente con sordera súbita | Lección 276 | AIHEAR Academia de Audiología",
+  "aciklama": "En un caso ficticio de un adulto, evaluamos paso a paso la hipoacusia neurosensorial súbita: una anamnesis focalizada y los signos de alarma, cómo descartar causas conductivas con otoscopia y timpanometría, la vía aérea y ósea enmascaradas, la aplicación de la definición de la AAO-HNSF de 2019, la derivación al otorrinolaringólogo el mismo día y cómo clasificar la recuperación en los audiogramas de control.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Chandrasekhar et al., Clinical Practice Guideline: Sudden Hearing Loss (Update), Otolaryngology-Head and Neck Surgery, 2019; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "sorderasubita",
+   "casoclinico"
+  ],
+  "etiketler": [
+   "sordera súbita",
+   "hipoacusia neurosensorial súbita",
+   "hipoacusia súbita",
+   "derivación urgente",
+   "audiograma de control",
+   "enmascaramiento",
+   "prueba de Weber",
+   "recuperación auditiva",
+   "caso clínico de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 276",
+   "baslik": "Caso: sordera *súbita*",
+   "alt": "Evaluación rápida, derivación el mismo día",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección seguimos paso a paso a un paciente con sordera súbita, desde que entra a la clínica hasta los audiogramas de control.",
+    "Veremos una evaluación rápida pero completa, la derivación urgente al otorrinolaringólogo y cómo interpretar los audiogramas de control."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Consulta",
+   "baslik": "Caso de ejemplo: *anamnesis*",
+   "maddeler": [
+    {
+     "metin": "Una persona de ejemplo, de 38 años",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Oído derecho tapado_ al despertar ayer",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Tinnitus nuevo en el mismo oído",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Esperó, creyendo que era cerumen",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Sin vértigo ni síntomas neurológicos",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "Inicio",
+      "metin": "Ayer por la mañana, al despertar",
+      "cumle": 1
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Lado",
+      "metin": "Derecho, unilateral",
+      "cumle": 0
+     },
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Asociado",
+      "metin": "Tinnitus nuevo",
+      "cumle": 2
+     }
+    ],
+    "ust": "ANAMNESIS"
+   },
+   "cumleler": [
+    "Nuestro caso es ficticio: una persona de treinta y ocho años llega a la clínica porque siente tapado el oído derecho.",
+    "La molestia comenzó ayer por la mañana, al despertar; la noche anterior, ambos oídos estaban normales.",
+    "En el mismo oído apareció un tinnitus que antes no tenía, y la persona está claramente preocupada.",
+    "Creyendo que era un tapón de cerumen, esperó un día y usó gotas óticas, pero nada mejoró.",
+    "No hay vértigo, debilidad facial, problemas del habla ni cefalea súbita; el oído izquierdo oye con normalidad.",
+    "Un oído tapado puede parecer algo común, pero si es unilateral y súbito, siempre debemos pensar en una hipoacusia neurosensorial súbita."
+   ]
+  },
+  {
+   "id": "bayrak",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Consulta",
+   "baslik": "Primero, los *signos de alarma*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Pérdida bilateral",
+     "metin": "Causa sistémica o neurológica",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Síntoma neurológico",
+     "metin": "Cara, habla, cefalea",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Desequilibrio marcado",
+     "metin": "No puede caminar, caídas",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Crisis recurrentes",
+     "metin": "Sugieren otras condiciones",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Una pérdida súbita en ambos oídos a la vez sugiere causas sistémicas o neurológicas y requiere una evaluación más urgente.",
+    "Preguntamos por síntomas neurológicos como debilidad facial, problemas del habla, una cefalea intensa y súbita o visión doble.",
+    "Estos síntomas pueden indicar una causa que pone en riesgo la vida, como un accidente cerebrovascular.",
+    "Un desequilibrio marcado y no poder caminar importan por la misma razón.",
+    "Si hay alguno de ellos, se ayuda a la persona a llegar a urgencias sin esperar las pruebas y sin perder tiempo.",
+    "Las crisis recurrentes de pérdida súbita pueden sugerir otras condiciones, como la enfermedad de Ménière; esto también se anota en la nota de derivación."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Evaluación rápida",
+   "baslik": "Rápida pero *completa*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Anamnesis focalizada",
+     "metin": "¿Cuándo? ¿Qué oído?",
+     "cumle": 0
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoscopia",
+     "metin": "Cerumen, líquido, perforación",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometría",
+     "metin": "¿Oído medio normal?",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Tonos puros",
+     "metin": "Vía aérea y ósea enmascaradas",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Logoaudiometría",
+     "metin": "URP y reconocimiento",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La evaluación comienza con una anamnesis breve y focalizada: momento de inicio, lado, síntomas asociados y signos de alarma.",
+    "En la otoscopia buscamos causas conductivas, como un tapón de cerumen, líquido en el oído medio o una perforación.",
+    "La timpanometría muestra el estado del oído medio; nos ayuda a saber si la sensación súbita de oído tapado viene del oído medio.",
+    "En la audiometría tonal se miden la vía aérea y la vía ósea en ambos oídos, con el enmascaramiento necesario.",
+    "Cuando es posible, se agregan el umbral de recepción de la palabra (URP) y el reconocimiento de palabras; también se usan en el seguimiento.",
+    "Ser rápido no significa medir menos; un primer audiograma exacto es la base de todas las comparaciones posteriores."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Evaluación rápida",
+   "baslik": "Otoscopia y *timpanograma*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 1,
+      "kulak": "sag"
+     },
+     {
+      "tip": "A",
+      "cumle": 1,
+      "kulak": "sol"
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Otoscopia: _normal_",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Ambos oídos: _tipo A_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Siguiente paso: _tonos puros_",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "En este caso, la otoscopia es normal en ambos oídos; el conducto está libre, el tímpano íntegro y no hay signos de líquido detrás.",
+    "Los timpanogramas son tipo A en ambos oídos; la presión y la altura del pico están dentro del rango normal.",
+    "Por lo tanto, no hay un problema del oído externo ni del oído medio que explique la sensación de oído tapado.",
+    "Un oído tapado con otoscopia normal y timpanograma tipo A nos lleva directamente a la audiometría tonal."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Evaluación rápida",
+   "baslik": "Pérdida neurosensorial *súbita* derecha",
+   "lejant": [
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "△",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea enmascarada",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Derecho_: vía ósea enmascarada",
+     "cumle": 4
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "hava_maskeli",
+      "degerler": [
+       60,
+       65,
+       70,
+       70,
+       75,
+       80
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       50,
+       65,
+       65,
+       70,
+       65
+      ],
+      "cumle": 4
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Los umbrales del oído izquierdo están dentro de los límites normales.",
+    "Los umbrales por vía aérea del oído derecho están entre 60 y 80 decibeles.",
+    "Como en una pérdida unilateral severa puede haber audición cruzada, se enmascaró el oído izquierdo al medir la vía aérea.",
+    "Los umbrales por vía aérea enmascarados del oído derecho se marcan con el símbolo del triángulo.",
+    "La vía ósea derecha también se midió con el oído izquierdo enmascarado y se superpone a la vía aérea; así que la pérdida es neurosensorial.",
+    "Sin enmascaramiento, las respuestas de la cóclea izquierda normal podrían mostrar una falsa brecha aéreo-ósea en el oído derecho.",
+    "El promedio de tonos puros del oído derecho es de unos 68 decibeles; el cuadro corresponde a una pérdida moderadamente severa.",
+    "El audiograma se registra con fecha y hora, porque las mediciones de control posteriores se compararán con este primer valor."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Evaluación rápida",
+   "baslik": "*Aplicar* la definición",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Tiempo",
+     "metin": "Se instala en 72 horas",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Grado",
+     "metin": "30 dB en tres frecuencias consecutivas",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Comparación",
+     "metin": "Con el otro oído",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "En este caso",
+     "metin": "Diferencia de al menos 50 dB",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Según la guía de 2019 de la Academia Estadounidense de Otorrinolaringología, la hipoacusia neurosensorial súbita se instala en setenta y dos horas."
+    },
+    "El criterio audiométrico más usado es una pérdida de 30 decibeles o más en al menos tres frecuencias consecutivas.",
+    "Como a menudo no se conoce un audiograma previo de la persona, la comparación se hace con los umbrales del otro oído.",
+    "En nuestro caso, la diferencia entre los oídos es de 50 decibeles o más en todas las frecuencias consecutivas; el criterio se cumple claramente.",
+    "En la clínica, las pérdidas súbitas menores de 30 decibeles también se toman en serio; la definición es un lenguaje común, no un límite inferior."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Evaluación rápida",
+   "baslik": "Logoaudiometría y *Weber*",
+   "maddeler": [
+    {
+     "metin": "URP derecho 65 dB HL, izquierdo enmascarado",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Reconocimiento derecho: 44 %",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Izquierdo: URP 10, reconocimiento 100 %",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Weber a la _izquierda_: patrón neurosensorial",
+     "cumle": 3,
+     "ikon": "diyapazon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "diyapazon",
+    "cumle": 3,
+    "ayar": {
+     "test": "weber"
+    },
+    "vurgula": [
+     {
+      "parca": "alin",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "El URP del oído derecho fue de 65 dB HL con el oído izquierdo enmascarado; concuerda con el promedio de tonos puros.",
+    "El reconocimiento de palabras derecho es del 44 por ciento a 90 dB HL; este resultado también servirá para valorar la recuperación.",
+    "En el oído izquierdo, el URP es de 10 dB HL y el reconocimiento de palabras es del 100 por ciento.",
+    "En la prueba de Weber con diapasón, el sonido se lateraliza al oído izquierdo, el que oye mejor; esto concuerda con una pérdida neurosensorial.",
+    "Pruebas como los reflejos acústicos y las otoemisiones acústicas aportan información, pero no deben retrasar la derivación."
+   ]
+  },
+  {
+   "id": "yonlendir",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Derivación urgente",
+   "baslik": "Derivación el *mismo día*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Documentar",
+     "metin": "Umbrales enmascarados, reconocimiento",
+     "cumle": 0
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Avisar",
+     "metin": "Contactar al ORL",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Redactar una nota",
+     "metin": "Hallazgos e inicio",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "El mismo día",
+     "metin": "Al otorrinolaringólogo",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En cuanto los resultados están listos, la pérdida se documenta con los umbrales enmascarados y la logoaudiometría.",
+    "Según el funcionamiento de la clínica, se avisa al otorrinolaringólogo (ORL) por teléfono o por el sistema; la persona no queda en lista de espera.",
+    "Se prepara una nota de derivación escrita y también se le entrega una copia a la persona.",
+    "La persona se deriva al otorrinolaringólogo el mismo día.",
+    "El médico evalúa las opciones de tratamiento y su momento; la guía destaca el período temprano, sobre todo las dos primeras semanas.",
+    "El audiólogo no recomienda tratamientos, pero explica claramente a la persona por qué importa no demorarse."
+   ]
+  },
+  {
+   "id": "not",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Derivación urgente",
+   "baslik": "La *nota* de derivación",
+   "maddeler": [
+    {
+     "metin": "Fecha y hora de inicio",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Lado y síntomas asociados",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Umbrales enmascarados, PTP, reconocimiento",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Timpanograma y otoscopia",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Nota: _evaluación el mismo día_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 2,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava_maskeli",
+       "degerler": [
+        60,
+        65,
+        70,
+        70,
+        75,
+        80
+       ],
+       "cumle": 2
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        10,
+        15,
+        15,
+        20
+       ],
+       "cumle": 2
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "La nota indica primero la fecha de inicio y, si es posible, la hora; la evaluación se basa en ese momento.",
+    "Luego indica brevemente el lado, y si hay tinnitus, vértigo o signos de alarma.",
+    "Los resultados tonales se presentan con los umbrales enmascarados, el promedio de tonos puros y el reconocimiento de palabras; se adjunta el audiograma.",
+    "Los resultados de la otoscopia y la timpanometría muestran que no se encontró una causa conductiva.",
+    "La última línea pide claramente una evaluación el mismo día, porque los hallazgos concuerdan con una hipoacusia neurosensorial súbita."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si alguien con el oído tapado tiene otoscopia normal y timpanograma tipo A, no lo despidas sin medir la vía ósea.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: ten presente la hipoacusia neurosensorial súbita en toda persona que llega diciendo que siente el oído tapado.",
+    "Si la otoscopia es normal y el timpanograma es tipo A, la sensación de oído tapado puede no venir del oído medio.",
+    "En esa persona, haz la audiometría tonal el mismo día y mide siempre la vía ósea con enmascaramiento.",
+    "Si encuentras una pérdida neurosensorial, deriva al médico el mismo día, sin dejar a la persona en lista de espera."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento",
+   "baslik": "*Audiogramas* de control",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 20,
+     "ad": "Nivel de audición (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        15
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "gri",
+      "isaretli": true,
+      "etiket": "oído izquierdo",
+      "cumle": 1,
+      "kesik": true
+     },
+     {
+      "ad": "ilk",
+      "noktalar": [
+       [
+        250,
+        60
+       ],
+       [
+        500,
+        65
+       ],
+       [
+        1000,
+        70
+       ],
+       [
+        2000,
+        70
+       ],
+       [
+        4000,
+        75
+       ],
+       [
+        8000,
+        80
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "derecho: primera",
+      "cumle": 1
+     },
+     {
+      "ad": "iki_hafta",
+      "noktalar": [
+       [
+        250,
+        45
+       ],
+       [
+        500,
+        45
+       ],
+       [
+        1000,
+        50
+       ],
+       [
+        2000,
+        55
+       ],
+       [
+        4000,
+        65
+       ],
+       [
+        8000,
+        75
+       ]
+      ],
+      "renk": "turuncu",
+      "isaretli": true,
+      "etiket": "derecho: semana 2",
+      "cumle": 2
+     },
+     {
+      "ad": "uc_ay",
+      "noktalar": [
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        30
+       ],
+       [
+        1000,
+        35
+       ],
+       [
+        2000,
+        45
+       ],
+       [
+        4000,
+        60
+       ],
+       [
+        8000,
+        70
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "derecho: mes 3",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "iyilesme",
+      "y": [
+       70,
+       35
+      ],
+      "xk": 1000,
+      "etiket": "35 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Después de la evaluación médica, las mediciones de control documentan la recuperación de forma objetiva.",
+    "La línea roja muestra la primera medición del oído derecho, y la línea gris discontinua, el oído izquierdo sano.",
+    "La línea naranja es el control dos semanas después; los umbrales en graves y medios mejoraron entre 15 y 20 decibeles.",
+    "La línea verde es la medición tres meses después; la recuperación total en 1000 hertz es de 35 decibeles.",
+    "Pero los umbrales siguen siendo claramente peores que los del oído izquierdo; en los agudos hay poco cambio.",
+    "El reconocimiento de palabras también subió del 44 por ciento al 88 por ciento.",
+    "Cada vez, las mediciones usan el mismo método, los mismos auriculares y las mismas reglas de enmascaramiento."
+   ]
+  },
+  {
+   "id": "kategori",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento",
+   "baslik": "¿*Cómo* se clasifica la recuperación?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Recuperación completa",
+     "metin": "A 10 dB o menos del oído sano",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Recuperación parcial",
+     "metin": "Mejora de más de 10 dB",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Sin recuperación",
+     "metin": "Cambio menor de 10 dB",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Según la guía, la recuperación completa significa que los umbrales vuelven a unos 10 decibeles del oído sano, con un reconocimiento similar.",
+    "Una mejora de más de 10 decibeles que no llega a ser completa se llama recuperación parcial.",
+    "Un cambio de menos de 10 decibeles se define como ausencia de recuperación.",
+    "En nuestro caso, el promedio de tonos puros mejoró unos 30 decibeles, pero no está a 10 del oído sano; es una recuperación parcial.",
+    "La guía recomienda una audiometría de control al final del tratamiento y dentro de los seis meses posteriores a su finalización."
+   ]
+  },
+  {
+   "id": "destek",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento",
+   "baslik": "*Apoyo* ante la pérdida persistente",
+   "maddeler": [
+    {
+     "metin": "Orientación sobre el tinnitus",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Opciones de audífono o _CROS_",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Impacto emocional: ansiedad, inseguridad",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Estudio retrococlear a cargo del médico",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Tinnitus",
+      "metin": "Orientación",
+      "cumle": 0
+     },
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Audición",
+      "metin": "Audífono, CROS",
+      "cumle": 1
+     },
+     {
+      "ikon": "hekim",
+      "baslik": "Seguimiento",
+      "metin": "Con el médico",
+      "cumle": 3
+     }
+    ],
+    "ust": "DESPUÉS"
+   },
+   "cumleler": [
+    "Si la recuperación es incompleta, el tinnitus suele seguir siendo la molestia principal y requiere orientación.",
+    "Según la audición restante, se consideran opciones como un audífono o los sistemas CROS, que envían el sonido al lado opuesto.",
+    "Una pérdida súbita en un oído puede causar ansiedad e inseguridad; este impacto emocional también se aborda en la sesión.",
+    "La guía recomienda buscar causas retrococleares; elegir imágenes u otros métodos para ello le corresponde al médico.",
+    "Tengan en cuenta que, en algunas personas, la causa solo se aclara durante el seguimiento a largo plazo."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Oído tapado: pensar en sordera súbita",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Descartar lo conductivo, enmascarar la vía ósea",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "ORL el mismo día; el tratamiento, del médico",
+     "cumle": 2,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Control en las mismas condiciones",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Ante una sensación de oído tapado unilateral y súbita, siempre pensamos en una hipoacusia neurosensorial súbita.",
+    "Las causas conductivas se descartan con otoscopia y timpanometría; la vía aérea y la ósea se miden con el enmascaramiento necesario.",
+    "Si la pérdida cumple el criterio, la persona se deriva al otorrinolaringólogo el mismo día; el tratamiento es decisión del médico.",
+    "Los audiogramas de control se hacen en las mismas condiciones que el primero, y la recuperación se clasifica con las definiciones de la guía."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Otoscopia normal, tipo A, pérdida súbita derecha. ¿Y ahora?",
+   "secenekler": [
+    "Repetir en dos semanas",
+    "Derivar al ORL el mismo día",
+    "Sugerir gotas óticas",
+    "Probar un audífono"
+   ],
+   "dogru": 1,
+   "aciklama": "En la hipoacusia neurosensorial súbita, la derivación al médico se hace _el mismo día_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: la otoscopia es normal, el timpanograma es tipo A y hay una pérdida neurosensorial derecha que cumple el criterio. ¿Qué sigue?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: derivar a la persona con los hallazgos al otorrinolaringólogo el mismo día.",
+    "Como el médico evalúa pronto las opciones de tratamiento, no corresponde esperar ni posponer la cita."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Caso: respuestas *inconsistentes* y seudohipoacusia",
+   "cikis": 2.5,
+   "cumleler": [
+    "En el próximo caso veremos a un adulto cuyas respuestas no concuerdan entre sí, y los pasos para confirmar una seudohipoacusia.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

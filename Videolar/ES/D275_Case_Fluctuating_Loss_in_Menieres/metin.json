@@ -1,0 +1,1099 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D275_Case_Fluctuating_Loss_in_Menieres_ES",
+ "kapak": {
+  "ust": "LECCIÓN 275",
+  "baslik": "Caso: enfermedad<br>de *Ménière*",
+  "alt": "Pérdida fluctuante en graves",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      45,
+      45,
+      35,
+      25,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      40,
+      40,
+      30,
+      25,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Caso: hipoacusia fluctuante en graves y Ménière | Lección 275 | AIHEAR Academia de Audiología",
+  "aciklama": "En un caso ficticio de un adulto, analizamos paso a paso los hallazgos audiológicos de la enfermedad de Ménière: la pérdida neurosensorial en frecuencias graves, el criterio audiométrico de la Sociedad Bárány, la comparación de audiogramas seriados, la relación PS/PA en la ECochG, la disociación entre la prueba calórica y el vHIT, los VEMP y el papel del audiólogo en la orientación y el informe.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Lopez-Escamez et al., Diagnostic criteria for Meniere's disease (Journal of Vestibular Research, 2015); Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses; Jacobson and Shepard, Balance Function Assessment and Management.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "meniere",
+   "casoclinico"
+  ],
+  "etiketler": [
+   "enfermedad de Ménière",
+   "hidrops endolinfático",
+   "audiogramas seriados",
+   "potencial de suma",
+   "electrococleografía",
+   "prueba calórica",
+   "vHIT",
+   "VEMP",
+   "hipoacusia en frecuencias graves",
+   "caso clínico de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 275",
+   "baslik": "Caso: una pérdida *fluctuante* en graves",
+   "alt": "Audiogramas seriados en la enfermedad de Ménière",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección analizamos el caso de un adulto con crisis de vértigo recurrentes y una pérdida auditiva fluctuante en el oído derecho.",
+    "Compararemos audiogramas seriados, veremos los hallazgos de las pruebas electrofisiológicas y vestibulares, y el papel del audiólogo."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis",
+   "baslik": "Caso de ejemplo: *anamnesis*",
+   "maddeler": [
+    {
+     "metin": "Una persona de ejemplo, de 45 años",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Tres _crisis rotatorias_ en seis meses",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Cada crisis dura de una a tres horas",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Plenitud y _zumbido grave_ a la derecha",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "La audición baja durante las crisis",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bas_donmesi",
+      "baslik": "Crisis de vértigo",
+      "metin": "De minutos a horas",
+      "cumle": 1
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Pérdida fluctuante",
+      "metin": "En el mismo oído",
+      "cumle": 4
+     },
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "Plenitud, zumbido",
+      "metin": "Aumentan antes de las crisis",
+      "cumle": 3
+     }
+    ],
+    "ust": "TRES SÍNTOMAS"
+   },
+   "cumleler": [
+    "Nuestro caso es ficticio: una persona de cuarenta y cinco años, derivada por un otorrinolaringólogo (ORL) por crisis de mareo recurrentes.",
+    "En los últimos seis meses tuvo tres crisis rotatorias espontáneas, con náuseas y vómitos.",
+    "Cada crisis duró de una a tres horas; entre las crisis, la persona se siente bastante bien.",
+    "Antes de las crisis, aumentan en el oído derecho la plenitud y un tinnitus grave, como un zumbido.",
+    "La persona cuenta que la audición del oído derecho baja durante y después de una crisis, y luego se recupera en parte.",
+    "No hay cefalea, sensibilidad a la luz ni síntomas neurológicos; estos datos se registran para el diagnóstico diferencial."
+   ]
+  },
+  {
+   "id": "hidrops",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis",
+   "baslik": "*Hidrops* endolinfático",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_media",
+     "metin": "rampa media: aumenta la endolinfa",
+     "cumle": 1
+    },
+    {
+     "parca": "reissner_membrani",
+     "metin": "membrana de Reissner",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "scala_media",
+     "cumle": 1
+    },
+    {
+     "parca": "reissner_membrani",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "La endolinfa _aumenta_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Primero la región de _frecuencias graves_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Hidrops _no es lo mismo_ que Ménière",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "El cambio estructural que se cree que está detrás de estos síntomas es el hidrops endolinfático.",
+    "En el hidrops aumenta la endolinfa de la rampa media, y la membrana de Reissner se abomba hacia la rampa vestibular.",
+    "El hidrops suele afectar primero la región cercana al ápice de la cóclea, es decir, la región de las frecuencias graves.",
+    "Esto explica por qué la pérdida en la enfermedad de Ménière a menudo comienza en las frecuencias graves.",
+    "Pero el hidrops también puede existir sin síntomas; el hidrops y la enfermedad de Ménière no son el mismo concepto."
+   ]
+  },
+  {
+   "id": "odyo1",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 2",
+   "bolum": "Primer audiograma",
+   "baslik": "Primera prueba: pérdida en *graves*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Derecho_: vía aérea",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Derecho_: vía ósea enmascarada",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Izquierdo_: normal",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       45,
+       45,
+       35,
+       25,
+       25,
+       30
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       40,
+       40,
+       30,
+       25,
+       25
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 3
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "La primera prueba se hace dos días después de la última crisis; la otoscopia es normal en ambos oídos.",
+    "El oído derecho tiene una pérdida de 45 decibeles en 250 y 500 hertz, y de 35 decibeles en 1000 hertz.",
+    "La vía ósea derecha, medida con el oído izquierdo enmascarado, se superpone a la vía aérea; la pérdida es neurosensorial.",
+    "Desde 2000 hertz hacia arriba, los umbrales derechos son casi normales; vemos una pérdida que sube hacia los agudos.",
+    "El oído izquierdo está dentro de los límites normales en todas las frecuencias; la vía ósea izquierda también ronda los 10 decibeles.",
+    "Los timpanogramas son tipo A en ambos oídos; por lo tanto, no hay un problema de oído medio que explique esta pérdida.",
+    "El reconocimiento de palabras derecho es del 88 por ciento; como la pérdida está en los graves, el resultado se conserva relativamente bien."
+   ]
+  },
+  {
+   "id": "barany",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Primer audiograma",
+   "baslik": "*Aplicar* el criterio de Bárány",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Dos frecuencias contiguas",
+     "metin": "Por debajo de 2000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Diferencia en vía ósea",
+     "metin": "Al menos 30 frente al otro oído",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "En este caso",
+     "metin": "250 y 500 Hz: 30 dB",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Los criterios de la Sociedad Bárány exigen una pérdida documentada con audiometría en dos frecuencias contiguas por debajo de 2000 hertz.",
+    "En esa pérdida, el umbral por vía ósea del oído afectado debe ser al menos 30 decibeles peor que el del otro oído.",
+    "En nuestro caso, en 250 y 500 hertz, la vía ósea derecha está en 40 decibeles y la izquierda en 10; una diferencia de 30.",
+    "Por lo tanto, el criterio audiométrico se cumple; para esta comparación, la vía ósea debe estar bien enmascarada.",
+    "La enfermedad de Ménière definida también exige al menos dos crisis espontáneas de vértigo que duren de veinte minutos a doce horas.",
+    "Valorar los criterios en conjunto y hacer el diagnóstico es tarea del médico; el audiólogo aporta la evidencia audiométrica."
+   ]
+  },
+  {
+   "id": "seri",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "Audiogramas seriados",
+   "baslik": "*Audiogramas* seriados",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frecuencia (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 80,
+     "adim": 20,
+     "ad": "Nivel de audición (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        15
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "gri",
+      "isaretli": true,
+      "etiket": "oído izquierdo",
+      "cumle": 4,
+      "kesik": true
+     },
+     {
+      "ad": "ilk",
+      "noktalar": [
+       [
+        250,
+        45
+       ],
+       [
+        500,
+        45
+       ],
+       [
+        1000,
+        35
+       ],
+       [
+        2000,
+        25
+       ],
+       [
+        4000,
+        25
+       ],
+       [
+        8000,
+        30
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "derecho: primera",
+      "cumle": 1
+     },
+     {
+      "ad": "ikinci",
+      "noktalar": [
+       [
+        250,
+        25
+       ],
+       [
+        500,
+        25
+       ],
+       [
+        1000,
+        20
+       ],
+       [
+        2000,
+        20
+       ],
+       [
+        4000,
+        20
+       ],
+       [
+        8000,
+        30
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "derecho: semana 3",
+      "cumle": 2
+     },
+     {
+      "ad": "ucuncu",
+      "noktalar": [
+       [
+        250,
+        55
+       ],
+       [
+        500,
+        50
+       ],
+       [
+        1000,
+        40
+       ],
+       [
+        2000,
+        30
+       ],
+       [
+        4000,
+        25
+       ],
+       [
+        8000,
+        30
+       ]
+      ],
+      "renk": "mor",
+      "isaretli": true,
+      "etiket": "derecho: mes 2",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "pes",
+      "x": [
+       220,
+       1100
+      ],
+      "renk": "sari",
+      "etiket": "región fluctuante",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Anotar el _momento_ respecto de la crisis",
+     "cumle": 6,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Uno de los rasgos más característicos de la enfermedad de Ménière es que la audición fluctúa con el tiempo.",
+    "La línea roja muestra la primera medición, dos días después de la última crisis.",
+    "La línea verde es un control tres semanas después, en un período sin crisis; los umbrales en graves mejoraron 20 decibeles.",
+    "La línea violeta es una prueba dos meses después, justo tras una nueva crisis; la pérdida en graves volvió, y es más profunda.",
+    "La línea gris discontinua muestra el oído izquierdo sano; en ese oído no hay cambios.",
+    "Un único audiograma no puede mostrar esta fluctuación; por eso los audiogramas seriados son tan valiosos.",
+    "También se registra el momento de cada medición respecto de la crisis, porque los umbrales cambian según su cercanía a ella."
+   ]
+  },
+  {
+   "id": "kurallar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Audiogramas seriados",
+   "baslik": "*Reglas* para las pruebas seriadas",
+   "maddeler": [
+    {
+     "metin": "Mismo audiómetro, mismos auriculares",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Mismo método, mismas reglas de enmascaramiento",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Momento respecto de la crisis, síntomas",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Vía ósea medida cada vez",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Mostrar comparaciones en el gráfico",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        25,
+        25,
+        20,
+        20,
+        20,
+        30
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sag",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        20,
+        20,
+        20,
+        20,
+        20
+       ],
+       "cumle": 3
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Para que las mediciones seriadas sean comparables, se usan en lo posible el mismo audiómetro y el mismo tipo de auriculares.",
+    "El método de umbral y las reglas de enmascaramiento se mantienen iguales en cada medición.",
+    "En cada prueba se anotan brevemente cuándo fue la última crisis y la plenitud y el tinnitus de ese día.",
+    "La vía ósea se mide con enmascaramiento cada vez; es necesaria para documentar que el cambio es neurosensorial.",
+    "En el informe, los resultados se muestran junto a las mediciones anteriores; el médico ve la evolución de un vistazo."
+   ]
+  },
+  {
+   "id": "anlamli",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Audiogramas seriados",
+   "baslik": "¿El cambio es *significativo*?",
+   "maddeler": [
+    {
+     "metin": "Diferencia test-retest: _unos 5 dB_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_10 dB o más_ en frecuencias contiguas",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "¿La vía ósea cambia igual?",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "También se compara el reconocimiento de palabras",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "La cercanía a la crisis cambia la interpretación",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "5 dB",
+      "metin": "Variabilidad de la medición",
+      "cumle": 0
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Más de 10 dB",
+      "metin": "Frecuencias contiguas, repetido",
+      "cumle": 1
+     }
+    ],
+    "ust": "DIFERENCIA"
+   },
+   "cumleler": [
+    "Las mediciones repetidas en la misma persona suelen diferir en 5 decibeles o menos; esas pequeñas diferencias no cuentan como fluctuación.",
+    "Los cambios repetidos de 10 decibeles o más, en la misma dirección y en frecuencias contiguas, indican con más fuerza una fluctuación real.",
+    "Que la vía ósea cambie en la misma dirección que la vía aérea confirma que el cambio es neurosensorial.",
+    "Comparar el reconocimiento de palabras con la medición anterior también ayuda a entender la evolución.",
+    "Se espera que una prueba hecha cerca de una crisis muestre peores resultados; por eso no se compara nada sin saber el momento de la medición."
+   ]
+  },
+  {
+   "id": "ecochg",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 4",
+   "bolum": "Pruebas complementarias",
+   "baslik": "ECochG: la relación *PS/PA*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Derecho",
+      "2": "Izquierdo"
+     },
+     "ad": "Oído"
+    },
+    "y": {
+     "min": 0,
+     "max": 0.8,
+     "adim": 0.2,
+     "ad": "Relación PS/PA",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "oran",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        0.6
+       ],
+       [
+        2,
+        0.3
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "artmis",
+      "y": [
+       0.5,
+       0.8
+      ],
+      "renk": "sari",
+      "etiket": "sobre el límite del laboratorio",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Derecho: _0,60_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Izquierdo: _0,30_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Una relación normal no excluye el hidrops",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Para obtener más información, el médico solicitó una electrococleografía (ECochG)."
+    },
+    {
+     "yazi": "El potencial de suma (PS) aumenta en el hidrops; el potencial de acción (PA) no aumenta en la misma medida."
+    },
+    {
+     "yazi": "En este ejemplo, la relación PS/PA es de 0,60 en el oído derecho y de 0,30 en el izquierdo.",
+     "ses": "En este ejemplo, la relación PS sobre PA es de cero coma sesenta en el oído derecho y de cero coma treinta en el izquierdo."
+    },
+    {
+     "yazi": "En el ejemplo, el límite superior normal del laboratorio es de 0,50; por eso, la relación del oído derecho se considera aumentada.",
+     "ses": "En el ejemplo, el límite superior normal del laboratorio es de cero coma cincuenta; por eso, la relación del oído derecho se considera aumentada."
+    },
+    "Una relación aumentada, junto con la anamnesis y el audiograma, apoya la idea de un hidrops endolinfático.",
+    "Pero una relación normal no excluye el hidrops; muchas personas con enfermedad de Ménière tienen una relación normal."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Pruebas complementarias",
+   "baslik": "Disociación entre calórica y *vHIT*",
+   "ogeler": [
+    {
+     "ikon": "vertigo",
+     "baslik": "Prueba calórica",
+     "metin": "Paresia canalicular derecha del 40 %",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "vHIT",
+     "metin": "Ganancia normal en ambos lados",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "VEMP",
+     "metin": "Hallazgos variables",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Las pruebas vestibulares también pueden mostrar un patrón típico de esta enfermedad.",
+    "La prueba calórica muestra una paresia canalicular derecha del 40 por ciento; más del 20 a 25 por ciento suele ser significativo.",
+    "En cambio, en la prueba de impulso cefálico con video (vHIT), la ganancia de ambos canales laterales es normal y no hay sacadas correctoras.",
+    "Esta disociación, calórica reducida con vHIT normal, se describe a menudo en la enfermedad de Ménière; el hidrops es una explicación propuesta.",
+    "Las respuestas de los potenciales evocados miogénicos vestibulares (VEMP) también pueden alterarse, pero los hallazgos varían de una persona a otra.",
+    "Ninguna de estas pruebas hace el diagnóstico por sí sola; el diagnóstico se basa en criterios clínicos."
+   ]
+  },
+  {
+   "id": "ayirici",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Pruebas complementarias",
+   "baslik": "El *diagnóstico* diferencial",
+   "ogeler": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Migraña vestibular",
+     "metin": "No se espera pérdida persistente",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Causa retrococlear",
+     "metin": "Se investiga en pérdidas unilaterales",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Pérdida súbita en graves",
+     "metin": "Sin vértigo, episodio único",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La migraña vestibular también puede causar crisis y síntomas óticos, pero no se espera una pérdida auditiva clara y persistente.",
+    "Por eso se pregunta por separado sobre antecedentes de migraña, cefalea y sensibilidad a la luz.",
+    "Una pérdida neurosensorial unilateral con vértigo puede requerir que el médico investigue también causas retrococleares.",
+    "Una pérdida en graves que aparece como un episodio único y sin vértigo se considera un cuadro diferente.",
+    "El cuadro no debe explicarse mejor por otro diagnóstico vestibular; esta distinción la hace el médico.",
+    "El aporte del audiólogo aquí es registrar la anamnesis completa y presentar con claridad el hallazgo audiométrico."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "PARTE 5",
+   "bolum": "El papel del audiólogo",
+   "baslik": "Las *tareas* del audiólogo",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Documentar",
+     "metin": "Medición enmascarada y seriada",
+     "cumle": 0
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Batería de pruebas",
+     "metin": "ECochG, VEMP, calórica, vHIT",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Informe",
+     "metin": "Gráfico comparativo",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Comunicación",
+     "metin": "Continua, con ORL",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Orientación",
+     "metin": "Crisis, tinnitus, audición",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La primera tarea del audiólogo es documentar correctamente la pérdida, con umbrales enmascarados y mediciones seriadas.",
+    {
+     "yazi": "Las pruebas que solicita el médico, como la ECochG, los VEMP, las pruebas calóricas y el vHIT, se hacen con protocolos estándar."
+    },
+    "En el informe, las mediciones se presentan una junto a otra y se anota el momento de cada una respecto de la crisis.",
+    "Diagnóstico y tratamiento son decisiones del médico; el audiólogo no sugiere fármacos, dietas ni procedimientos, pero se mantiene en contacto con el ORL.",
+    "El audiólogo también orienta a la persona sobre el tinnitus y la audición y, si hace falta, conversa sobre opciones de apoyo auditivo.",
+    "Si aparece una nueva pérdida que parece persistente, o una crisis de otro tipo, se aconseja a la persona consultar al médico sin demora."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "En una pérdida fluctuante, no te bases en una sola medición; anota en cada prueba el momento respecto de la crisis y mantén las mismas condiciones.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: en una pérdida fluctuante, no tomes decisiones mirando un solo audiograma.",
+    "En cada prueba, registra cuándo fue la última crisis y qué tan tapado siente el oído ese día.",
+    "Usa los mismos auriculares y el mismo método que en la medición anterior; si no, el origen de una diferencia queda poco claro.",
+    "No omitas los 250 hertz, para no pasar por alto pequeños cambios en las frecuencias graves."
+   ]
+  },
+  {
+   "id": "danisma",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "El papel del audiólogo",
+   "baslik": "*Hablar* con la persona",
+   "maddeler": [
+    {
+     "metin": "Sentarse en un lugar seguro durante las crisis",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Diario de crisis: fecha, duración, síntomas",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Tinnitus y ansiedad: _hay apoyo_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Apoyo auditivo: ajustado a la fluctuación",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "takvim",
+      "baslik": "Diario de crisis",
+      "metin": "Llevarlo al médico",
+      "cumle": 1
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Orientación",
+      "metin": "Tinnitus y ansiedad",
+      "cumle": 2
+     }
+    ],
+    "ust": "CONSEJOS"
+   },
+   "cumleler": [
+    "Se aconseja a la persona sentarse o acostarse en un lugar seguro apenas comienza una crisis, por el riesgo de caídas.",
+    "Un diario con la fecha y la duración de las crisis y los síntomas óticos que las acompañan ayuda mucho a la evaluación del médico.",
+    "La incertidumbre y las crisis pueden causar ansiedad; es importante explicar que existen orientación y apoyo para el tinnitus y la ansiedad.",
+    "No saber cuándo llegará una crisis dificulta la vida diaria; incluso tomar en serio esta queja ya trae alivio.",
+    "Si la pérdida se vuelve permanente, puede considerarse un audífono; con umbrales fluctuantes, puede ser necesario revisar los ajustes con regularidad."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 5",
+   "bolum": "El papel del audiólogo",
+   "baslik": "Ejemplo de redacción del *informe*",
+   "maddeler": [
+    {
+     "metin": "Derecho: pérdida neurosensorial en graves",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Cambio respecto de la medición anterior",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "PS/PA aumentada a la derecha",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Paresia canalicular derecha, vHIT normal",
+     "cumle": 3,
+     "ikon": "vertigo"
+    },
+    {
+     "metin": "Recomendación: control con ORL, audiogramas seriados",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava_maskeli",
+       "degerler": [
+        55,
+        50,
+        40,
+        30,
+        25,
+        30
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        10,
+        15,
+        15,
+        20
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Tonos puros: hipoacusia neurosensorial leve a moderada en el oído derecho, más marcada en las frecuencias graves.",
+    "Evolución: unos 25 a 30 decibeles peor que antes en 250 y 500 hertz; prueba hecha justo después de una crisis.",
+    {
+     "yazi": "ECochG: relación PS/PA del oído derecho por encima del límite del laboratorio.",
+     "ses": "ECochG: relación PS sobre PA del oído derecho por encima del límite del laboratorio."
+    },
+    "Pruebas vestibulares: paresia canalicular derecha en la prueba calórica, ganancias del vHIT normales en ambos lados.",
+    "Recomendación: remitir al otorrinolaringólogo con los hallazgos; audiometrías seriadas a los intervalos que indique el médico."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Pérdida neurosensorial fluctuante en graves",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Los audiogramas seriados documentan la fluctuación",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "PS/PA aumentada, disociación calórica y vHIT",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Diagnóstico médico, criterios de Bárány",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "En la enfermedad de Ménière, la pérdida a menudo comienza en las frecuencias graves y fluctúa con las crisis.",
+    "Los audiogramas seriados se hacen en las mismas condiciones y documentan la fluctuación; una sola medición no puede mostrarla.",
+    {
+     "yazi": "Una relación PS/PA aumentada y una paresia canalicular con vHIT normal pueden apoyar el cuadro, pero no hacen el diagnóstico por sí solas.",
+     "ses": "Una relación PS sobre PA aumentada y una paresia canalicular con vHIT normal pueden apoyar el cuadro, pero no hacen el diagnóstico por sí solas."
+    },
+    "El médico hace el diagnóstico con los criterios de Bárány; el audiólogo aporta mediciones, informes y orientación."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Condición audiométrica de los criterios de Bárány?",
+   "secenekler": [
+    "15 dB en cualquier frecuencia",
+    "30 dB en dos frecuencias graves contiguas",
+    "30 dB solo en 4 kHz",
+    "Una brecha aéreo-ósea"
+   ],
+   "dogru": 1,
+   "aciklama": "La vía ósea es al menos 30 dB peor que la del otro oído en _dos frecuencias contiguas_ por debajo de 2000 Hz.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en los criterios de Bárány, ¿cuál es la condición audiométrica para la enfermedad de Ménière definida?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: al menos 30 decibeles peor que el otro oído, en dos frecuencias contiguas por debajo de 2000 hertz.",
+    "La comparación se hace con los umbrales por vía ósea; por eso, enmascarar correctamente la vía ósea es esencial."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Caso: un paciente con sordera *súbita*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En el próximo caso veremos a un paciente que consulta por una sordera súbita y debe ser evaluado el mismo día.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

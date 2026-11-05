@@ -1,0 +1,1167 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D293_Case_Acute_Vestibular_Syndrome_ES",
+ "kapak": {
+  "ust": "LECCIÓN 293",
+  "baslik": "¿Periférico o<br>*central*?",
+  "alt": "Caso: síndrome vestibular agudo",
+  "cizim": "beyin_sapi_vestibuler"
+ },
+ "youtube": {
+  "baslik": "Caso: síndrome vestibular agudo ¿periférico o central? | Lección 293 | AIHEAR Academia de Audiología",
+  "aciklama": "En un caso ficticio de un adulto evaluamos el síndrome vestibular agudo: los signos de alarma, el HINTS (impulso cefálico, nistagmo y prueba de desviación oblicua) y el HINTS plus, la comparación de los patrones periférico y central, los pasos de la derivación urgente y la identificación de la división nerviosa afectada con vHIT, prueba calórica y VEMP.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Kattah et al., HINTS to Diagnose Stroke in the Acute Vestibular Syndrome, Stroke, 2009; Barany Society, Vestibular Neuritis: Diagnostic Criteria (2022); Jacobson y Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "HINTS",
+   "casoclinico"
+  ],
+  "etiketler": [
+   "síndrome vestibular agudo",
+   "SVA",
+   "HINTS",
+   "prueba de impulso cefálico",
+   "desviación oblicua",
+   "accidente cerebrovascular",
+   "vHIT",
+   "prueba calórica",
+   "neuritis vestibular",
+   "derivación urgente",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 293",
+   "baslik": "Caso: síndrome *vestibular* agudo",
+   "alt": "¿Periférico o central? HINTS y derivación urgente",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección evaluamos paso a paso a un paciente con un mareo intenso que empezó de golpe y no se ha detenido.",
+    "Aplicaremos los hallazgos de impulso cefálico, nistagmo y desviación oblicua, el vHIT y la prueba calórica, y los criterios de derivación urgente."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis y primera observación",
+   "baslik": "Caso de ejemplo: *anamnesis*",
+   "maddeler": [
+    {
+     "metin": "Hombre de ejemplo, cincuenta y dos años",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Vértigo _constante_ desde ayer por la mañana",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Náuseas, vómitos, empeora con el movimiento",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Un resfriado hace una semana",
+     "cumle": 3,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "Antecedente de hipertensión arterial",
+     "cumle": 4,
+     "ikon": "kalp"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "Inicio",
+      "metin": "Ayer por la mañana",
+      "cumle": 1
+     },
+     {
+      "ikon": "bas_donmesi",
+      "baslik": "Evolución",
+      "metin": "Constante",
+      "cumle": 1
+     },
+     {
+      "ikon": "kalp",
+      "baslik": "Riesgo",
+      "metin": "Hipertensión arterial",
+      "cumle": 4
+     }
+    ],
+    "ust": "ANAMNESIS"
+   },
+   "cumleler": [
+    "Nuestro caso es totalmente ficticio: un hombre de cincuenta y dos años llega a audiología derivado por su médico de familia para pruebas de equilibrio.",
+    "El vértigo empezó al despertar ayer por la mañana y no se ha detenido desde entonces; es constante, no en crisis.",
+    "Ha tenido náuseas y vomitó varias veces; cada movimiento de la cabeza lo empeora.",
+    "Tuvo un resfriado hace una semana.",
+    "Está en control por hipertensión arterial; esto también obliga a pensar en una posible causa vascular.",
+    "La hora en que empezaron los síntomas se anota de inmediato, porque más adelante puede ser decisiva."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis y primera observación",
+   "baslik": "Síndrome vestibular *agudo*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Inicio súbito",
+     "metin": "En cuestión de horas",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Constante",
+     "metin": "Dura días",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Nistagmo",
+     "metin": "Presente en el examen",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Inestabilidad",
+     "metin": "Evidente al caminar",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "El síndrome vestibular agudo, o SVA, es un mareo intenso que empieza de golpe y continúa sin detenerse."
+    },
+    "Los síntomas no se limitan a horas; suelen durar días.",
+    "En el examen suele verse un nistagmo espontáneo.",
+    "Se acompaña de una inestabilidad evidente al caminar.",
+    "Los criterios diagnósticos de la neuritis vestibular exigen un mareo constante de al menos veinticuatro horas.",
+    "La causa más común es periférica, como la neuritis vestibular, pero un accidente cerebrovascular (ACV) cerebeloso o del tronco puede presentarse igual."
+   ]
+  },
+  {
+   "id": "bayrak",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Anamnesis y primera observación",
+   "baslik": "Primero, los *signos de alarma*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Visión doble",
+     "metin": "Pérdida de visión",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Habla, deglución",
+     "metin": "Habla arrastrada",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Entumecimiento, debilidad",
+     "metin": "Cara, brazo, pierna",
+     "cumle": 2
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Cefalea súbita",
+     "metin": "O dolor de cuello",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "No se mantiene en pie",
+     "metin": "Ni siquiera con ayuda",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Pérdida auditiva nueva",
+     "metin": "Unilateral",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Antes de cualquier prueba se pregunta y se observa si hay signos de alarma; el primero es la visión doble o la pérdida de visión.",
+    "Se pregunta por problemas para hablar o tragar, y se escucha cómo habla.",
+    "Se pregunta por entumecimiento, debilidad y torpeza en la cara, el brazo o la pierna.",
+    "Un dolor de cabeza o de cuello súbito e intenso es un signo de alarma importante.",
+    "Un paciente que no puede mantenerse de pie ni siquiera con ayuda se evalúa con urgencia, sean cuales sean los demás hallazgos.",
+    "Una pérdida auditiva nueva con mareo agudo también requiere evaluación urgente por un posible infarto de la arteria que irriga el oído interno."
+   ]
+  },
+  {
+   "id": "nistagmus",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "HINTS",
+   "baslik": "Nistagmo: *una sola dirección*",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sol",
+    "tur": "sicramali",
+    "yavas_cumle": 1,
+    "hizli_cumle": 1,
+    "baslik": "Nistagmo que bate a la izquierda"
+   },
+   "notlar": [
+    {
+     "metin": "Dirección: _izquierda_, fija",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "No cambia con la mirada",
+     "cumle": 2,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Nuestro paciente no tiene ninguno de estos signos de alarma; se mantiene de pie sin apoyo, pero se tambalea al caminar.",
+    "Mirando al frente con lentes de video, se ve un nistagmo horizontal que bate a la izquierda, con un leve componente torsional.",
+    "El nistagmo aumenta al mirar a la izquierda y disminuye al mirar a la derecha, pero no cambia de dirección; esto concuerda con la ley de Alexander.",
+    "El nistagmo periférico suele batir hacia el oído sano; un nistagmo que bate a la izquierda puede indicar un problema del lado derecho.",
+    "Si el nistagmo cambiara de dirección con la mirada, o fuera puramente vertical o puramente torsional, sospecharíamos una causa central.",
+    "El nistagmo periférico disminuye claramente con la fijación visual, así que se observa con lentes de video, que eliminan la fijación."
+   ]
+  },
+  {
+   "id": "hit",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "HINTS",
+   "baslik": "Impulso cefálico: sacada a la *derecha*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 400,
+     "ad": "Tiempo (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 260,
+     "adim": 50,
+     "ad": "Velocidad (°/s)"
+    },
+    "seriler": [
+     {
+      "ad": "bas",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        40,
+        60
+       ],
+       [
+        80,
+        180
+       ],
+       [
+        110,
+        220
+       ],
+       [
+        140,
+        170
+       ],
+       [
+        180,
+        60
+       ],
+       [
+        220,
+        5
+       ],
+       [
+        260,
+        0
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "cabeza",
+      "cumle": 1
+     },
+     {
+      "ad": "sol_itme",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        45,
+        55
+       ],
+       [
+        85,
+        172
+       ],
+       [
+        115,
+        210
+       ],
+       [
+        145,
+        160
+       ],
+       [
+        185,
+        55
+       ],
+       [
+        225,
+        4
+       ],
+       [
+        265,
+        0
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "ojo: impulso a la izquierda",
+      "cumle": 2
+     },
+     {
+      "ad": "sag_itme",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        45,
+        25
+       ],
+       [
+        85,
+        70
+       ],
+       [
+        115,
+        90
+       ],
+       [
+        145,
+        70
+       ],
+       [
+        185,
+        30
+       ],
+       [
+        215,
+        10
+       ],
+       [
+        235,
+        150
+       ],
+       [
+        255,
+        200
+       ],
+       [
+        275,
+        120
+       ],
+       [
+        300,
+        10
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "ojo: impulso a la derecha",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "sakkad_bolgesi",
+      "x": [
+       215,
+       300
+      ],
+      "renk": "sari",
+      "etiket": "sacada correctora",
+      "cumle": 4
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "sakkad_bolgesi",
+     "metin": "Sacada correctora",
+     "cumle": 4,
+     "yer": "ust"
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Impulso a la izquierda: _normal_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Impulso a la derecha: _sacada_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "La prueba de impulso cefálico evalúa por separado cada lado del reflejo vestíbulo-ocular, o RVO; antes se descartaron problemas de cuello.",
+    "La línea azul marino muestra la velocidad de la cabeza durante un impulso cefálico rápido.",
+    "Con un impulso hacia la izquierda, el ojo gira casi a la misma velocidad que la cabeza; el RVO izquierdo es adecuado.",
+    "En cambio, con un impulso hacia la derecha, la velocidad del ojo queda muy por detrás de la cabeza y la mirada se desvía del objetivo.",
+    "El paciente hace una sacada correctora para volver a captar el objetivo; es decir, el RVO derecho está debilitado.",
+    "En el síndrome vestibular agudo, un impulso cefálico alterado concuerda con una causa periférica, porque el problema está en el laberinto o el nervio."
+   ]
+  },
+  {
+   "id": "skew",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "HINTS",
+   "baslik": "Desviación oblicua: sin *desplazamiento vertical*",
+   "cizim": "goz_kapatma",
+   "notlar": [
+    {
+     "metin": "Prueba de oclusión alterna",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Corrección vertical: _ninguna_",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "El tercer paso es la prueba de desviación oblicua, que se hace con la prueba de oclusión alterna.",
+    "Mientras el paciente mira al frente, se cubre un ojo y luego la mano pasa rápidamente al otro ojo.",
+    "Observamos si el ojo que se descubre hace una corrección hacia arriba o hacia abajo para captar el objetivo.",
+    "Nuestro paciente no muestra ningún movimiento corrector vertical, así que no hay desviación oblicua.",
+    "La desviación oblicua sugiere que está afectada la parte de la vía otolítica en el tronco cerebral; su presencia es un signo central."
+   ],
+   "ayar": {
+    "sapma": false,
+    "kapat_cumle": 1,
+    "duzeltme_cumle": 3
+   }
+  },
+  {
+   "id": "hints",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "HINTS",
+   "baslik": "HINTS: un patrón *periférico*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Impulso cefálico",
+     "metin": "Alterado: sacada a la derecha",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Nistagmo",
+     "metin": "Unidireccional, a la izquierda",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Desviación oblicua",
+     "metin": "Sin desplazamiento vertical",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Audición",
+     "metin": "Sin pérdida nueva",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Leamos juntos el HINTS, es decir, impulso cefálico, nistagmo y desviación oblicua: el impulso cefálico está alterado a la derecha.",
+    "El nistagmo bate en una sola dirección y no cambia con la mirada.",
+    "No hay desviación oblicua.",
+    "Un simple frote de dedos tampoco muestra pérdida auditiva nueva; el cuarto componente del HINTS plus también concuerda con el patrón periférico.",
+    "Los tres componentes deben concordar con el patrón periférico; un solo hallazgo central ya sugiere una causa central."
+   ]
+  },
+  {
+   "id": "ornek_b",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "HINTS",
+   "baslik": "Ejemplo B: un patrón *central*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Impulso cefálico",
+     "metin": "Normal: sin sacada",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Nistagmo",
+     "metin": "Cambia con la mirada",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Desviación oblicua",
+     "metin": "Hay corrección vertical",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Decisión",
+     "metin": "Médico de urgencias",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Veamos ahora otro ejemplo con las mismas quejas: esta vez el impulso cefálico es normal en ambos lados.",
+    "El nistagmo bate a la derecha al mirar a la derecha y a la izquierda al mirar a la izquierda; cambia de dirección con la mirada.",
+    "En la oclusión alterna, un ojo hace una corrección hacia arriba desde abajo; hay desviación oblicua.",
+    "En este contexto, un impulso cefálico normal no tranquiliza; en la mayoría de los ACV la vía del RVO se conserva y la prueba es normal.",
+    "Basta uno solo de estos hallazgos para detener las pruebas y derivar sin demora al paciente a una evaluación médica de urgencia."
+   ]
+  },
+  {
+   "id": "acil",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Derivación y seguimiento",
+   "baslik": "Pasos de la *derivación* urgente",
+   "adimlar": [
+    {
+     "ikon": "uyari",
+     "baslik": "Detener las pruebas",
+     "metin": "Batería en pausa",
+     "cumle": 0
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Anotar la hora",
+     "metin": "Inicio o último momento asintomático",
+     "cumle": 1
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Vía de urgencia",
+     "metin": "Según el protocolo local",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Resumen breve",
+     "metin": "Hallazgos y video",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Sin demora",
+     "metin": "Al médico de urgencias",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Si hay un patrón central o un signo de alarma, la batería de pruebas prevista se suspende de inmediato.",
+    "Se registra la hora de inicio, o la última vez que se lo vio sin síntomas; algunos tratamientos del ACV solo son posibles en las primeras horas.",
+    "Se usa la vía de derivación urgente del centro; el paciente no se va solo ni conduciendo.",
+    "Se entrega un resumen breve y claro de los hallazgos, si es posible con un video de los movimientos oculares.",
+    "La duda basta para pedir una evaluación urgente; una derivación innecesaria siempre es mejor que un ACV que pasa inadvertido."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Alerta clínica",
+   "metin": "Un patrón periférico no reemplaza la evaluación médica. El HINTS es una herramienta de derivación, no un diagnóstico.",
+   "cumle": 0,
+   "cumleler": [
+    "Un consejo clínico: aun con un patrón periférico, un paciente con síndrome vestibular agudo que no vio a un médico debe verlo ese mismo día.",
+    "La alta precisión del HINTS se demostró en los primeros estudios, con examinadores expertos y en pacientes con alto riesgo de ACV.",
+    "La precisión puede bajar claramente cuando el examen lo hacen personas con poca formación.",
+    "Así que registren sus hallazgos y dejen las decisiones de diagnóstico y tratamiento al médico."
+   ]
+  },
+  {
+   "id": "vhit",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "vHIT y prueba calórica",
+   "baslik": "vHIT: *seis canales*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 6.6,
+     "ad": "Canal",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "yazilar": {
+      "1": "Lateral der.",
+      "2": "Anterior der.",
+      "3": "Posterior der.",
+      "4": "Lateral izq.",
+      "5": "Anterior izq.",
+      "6": "Posterior izq."
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Ganancia del vHIT"
+    },
+    "seriler": [
+     {
+      "ad": "dusuk",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        0.42
+       ],
+       [
+        2,
+        0.55
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "baja, con sacadas",
+      "cumle": 2
+     },
+     {
+      "ad": "normal",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        3,
+        0.86
+       ],
+       [
+        4,
+        0.95
+       ],
+       [
+        5,
+        0.9
+       ],
+       [
+        6,
+        0.88
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "normal",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinir",
+      "x": 3.5,
+      "y": 0.8,
+      "cizgi": "yatay",
+      "etiket": "unos 0,8 en el lateral",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Lateral derecho: _0,42_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Anterior derecho: _0,55_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Posterior derecho: _conservado_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Nuestro paciente fue visto por un médico en urgencias ese mismo día y volvió dos semanas después para pruebas vestibulares detalladas.",
+    {
+     "yazi": "En la prueba de impulso cefálico con video, o vHIT, la ganancia es normal en los tres canales izquierdos y en el posterior derecho."
+    },
+    "El lateral derecho tiene una ganancia de cero coma cuarenta y dos y el anterior derecho, de cero coma cincuenta y cinco; ambos con sacadas repetibles.",
+    "Algunas son sacadas encubiertas, que ocurren durante el movimiento de la cabeza; no pueden verse a simple vista junto a la camilla.",
+    "La afectación de los canales lateral y anterior con el posterior conservado sugiere que está afectada la división superior del nervio vestibular.",
+    "La ganancia siempre se interpreta junto con las sacadas; el número solo no basta."
+   ]
+  },
+  {
+   "id": "kalorik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "vHIT y prueba calórica",
+   "baslik": "Prueba calórica: debilidad a la *derecha*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 4.6,
+     "ad": "Irrigación",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "yazilar": {
+      "1": "OD caliente",
+      "2": "OD fría",
+      "3": "OI caliente",
+      "4": "OI fría"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 30,
+     "adim": 5,
+     "ad": "Velocidad de la fase lenta (°/s)"
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        6
+       ],
+       [
+        2,
+        5
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "derecho: débil",
+      "cumle": 1
+     },
+     {
+      "ad": "sol",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        3,
+        26
+       ],
+       [
+        4,
+        22
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "izquierdo",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Derecho: _claramente reducido_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Paresia: _cerca del 63 por ciento_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Concuerda_ con el vHIT",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Cuando las náuseas ceden, se hace una prueba calórica bitérmica.",
+    "Las velocidades de la fase lenta con las irrigaciones caliente y fría del oído derecho están claramente reducidas.",
+    "Las respuestas del oído izquierdo están en el nivel esperado.",
+    "Por la fórmula de Jongkees, la paresia canalicular derecha ronda el sesenta y tres por ciento; más del veinte a veinticinco por ciento suele ser significativo.",
+    {
+     "yazi": "La prueba calórica evalúa el canal lateral a una frecuencia muy baja, mientras que el vHIT evalúa los seis canales a alta frecuencia."
+    },
+    "Aquí ambas pruebas apuntan en la misma dirección: una pérdida clara en la vía del canal lateral derecho."
+   ]
+  },
+  {
+   "id": "vemp",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 3",
+   "bolum": "vHIT y prueba calórica",
+   "baslik": "¿Qué *división* está afectada?",
+   "cizim": "ic_kulak_yolu_dibi",
+   "ayar": {
+    "sinirler": true,
+    "sinir_cumle": 0
+   },
+   "etiketler": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "metin": "División superior: oVEMP ausente",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "División inferior: cVEMP presente",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "La división superior inerva los canales lateral y anterior, el utrículo y parte del sáculo; la inferior, el resto.",
+    {
+     "yazi": "El potencial evocado miogénico vestibular ocular, u oVEMP, está ausente a la derecha; se relaciona con el utrículo y la división superior."
+    },
+    {
+     "yazi": "El VEMP cervical, o cVEMP, es normal en ambos lados; el sáculo y la división inferior parecen conservados."
+    },
+    "El audiograma es normal en ambos oídos, lo que es importante para descartar una laberintitis y un infarto de la arteria que irriga el oído interno.",
+    "Todos los hallazgos concuerdan con una pérdida vestibular periférica de la división vestibular superior derecha; el diagnóstico lo hace el médico."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Derivación y seguimiento",
+   "baslik": "Seguimiento y *rehabilitación*",
+   "maddeler": [
+    {
+     "metin": "Continúa el seguimiento médico",
+     "cumle": 0,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Derivación a rehabilitación vestibular",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "No evitar el movimiento",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "vHIT y cuestionario en el control",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Síntomas nuevos: consultar de inmediato",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "denge",
+      "baslik": "Rehabilitación",
+      "metin": "Programa de ejercicios",
+      "cumle": 1
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Seguimiento",
+      "metin": "vHIT y cuestionario",
+      "cumle": 3
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Advertencia",
+      "metin": "Urgencia ante síntomas nuevos",
+      "cumle": 5
+     }
+    ],
+    "ust": "DESPUÉS"
+   },
+   "cumleler": [
+    "Las decisiones de diagnóstico, tratamiento y medicación corresponden al médico; el audiólogo informa los resultados y sus observaciones.",
+    "Si los síntomas ceden en reposo pero la inestabilidad persiste con los movimientos de la cabeza, puede derivarse a rehabilitación vestibular.",
+    "Se le explica al paciente que evitar mover la cabeza puede retrasar la compensación central.",
+    {
+     "yazi": "En los controles, el vHIT, el Dizziness Handicap Inventory y la observación del equilibrio muestran la evolución."
+    },
+    "Las quejas pueden disminuir durante la compensación aunque la ganancia siga baja; con el tiempo, las sacadas también pueden volverse encubiertas.",
+    "Se le indica por escrito que acuda de inmediato a urgencias si aparecen síntomas neurológicos nuevos, pérdida auditiva o un dolor de cabeza intenso."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Derivación y seguimiento",
+   "baslik": "Ejemplo de *redacción* del informe",
+   "maddeler": [
+    {
+     "metin": "Nistagmo espontáneo: izquierdo, unidireccional",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Impulso cefálico alterado a la derecha, sin desviación",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "vHIT: lateral y anterior derechos bajos",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Calórica: paresia derecha del 63 por ciento",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "oVEMP ausente a la derecha, cVEMP normal",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 2,
+    "ayar": {
+     "x": {
+      "min": 0.4,
+      "max": 6.6,
+      "ad": "Canal",
+      "isaretler": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6
+      ],
+      "yazilar": {
+       "1": "Lateral der.",
+       "2": "Anterior der.",
+       "3": "Posterior der.",
+       "4": "Lateral izq.",
+       "5": "Anterior izq.",
+       "6": "Posterior izq."
+      }
+     },
+     "y": {
+      "min": 0,
+      "max": 1.2,
+      "adim": 0.2,
+      "ond": 1,
+      "ad": "Ganancia del vHIT"
+     },
+     "seriler": [
+      {
+       "ad": "dusuk",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         1,
+         0.42
+        ],
+        [
+         2,
+         0.55
+        ]
+       ],
+       "renk": "kirmizi",
+       "etiket": "baja, con sacadas",
+       "cumle": 2
+      },
+      {
+       "ad": "normal",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         3,
+         0.86
+        ],
+        [
+         4,
+         0.95
+        ],
+        [
+         5,
+         0.9
+        ],
+        [
+         6,
+         0.88
+        ]
+       ],
+       "renk": "mavi",
+       "etiket": "normal",
+       "cumle": 1
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "sinir",
+       "x": 3.5,
+       "y": 0.8,
+       "cizgi": "yatay",
+       "etiket": "unos 0,8 en el lateral",
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Ejemplo de redacción: en la primera visita se observó nistagmo espontáneo a la izquierda que no cambia con la mirada; no hubo desviación oblicua.",
+    "El impulso cefálico junto a la camilla estuvo alterado a la derecha; el paciente se derivó ese mismo día a evaluación médica de urgencia.",
+    {
+     "yazi": "En la segunda semana, el vHIT muestra ganancias bajas con sacadas en los canales lateral y anterior derechos; los demás canales son normales."
+    },
+    "La prueba calórica mostró una paresia canalicular derecha de cerca del sesenta y tres por ciento.",
+    {
+     "yazi": "El oVEMP derecho estuvo ausente y el cVEMP fue normal en ambos lados; hallazgos compatibles con afectación de la división vestibular superior derecha."
+    }
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Primero preguntar y observar los signos de alarma",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Periférico: impulso alterado, nistagmo unidireccional",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Impulso normal, desviación oblicua: central",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "vHIT, calórica y VEMP muestran la afectación",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "En el síndrome vestibular agudo, primero se pregunta y se observa si hay signos de alarma; si hay alguno, se deriva con urgencia.",
+    "En el patrón periférico, el impulso cefálico está alterado, el nistagmo bate en una sola dirección y no hay desviación oblicua.",
+    "Impulso cefálico normal, nistagmo que cambia de dirección, desviación oblicua o pérdida auditiva nueva sugieren causa central y exigen derivación urgente.",
+    {
+     "yazi": "Tras la fase aguda, el vHIT, la prueba calórica y los VEMP muestran la división afectada y el grado de la pérdida."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "En un mareo constante, ¿qué hallazgo sugiere causa central?",
+   "secenekler": [
+    "Sacada correctora a la derecha",
+    "Nistagmo unidireccional",
+    "Impulso cefálico normal",
+    "Paresia canalicular"
+   ],
+   "dogru": 2,
+   "aciklama": "En la mayoría de los ACV _la vía del RVO se conserva_; el impulso cefálico es normal.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en un paciente con mareo agudo y constante, ¿qué hallazgo sugiere una causa central?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la C: un impulso cefálico normal.",
+    "En una pérdida periférica el impulso cefálico está alterado; en la mayoría de los ACV cerebelosos o del tronco se conserva la vía del RVO y la prueba es normal."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Teleaudiología: evaluación y adaptación *a distancia*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección pasamos a temas actuales y conoceremos la teleaudiología, es decir, la evaluación y la adaptación a distancia.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}
