@@ -261,10 +261,12 @@
     "La ganancia del RVO es la relación entre la velocidad de los ojos y la velocidad de la cabeza.",
     "Si los ojos compensan por completo el movimiento de la cabeza, la ganancia es cercana a uno.",
     {
-     "yazi": "En el canal lateral, normalmente se espera una ganancia mayor de alrededor de 0,8."
+     "yazi": "En el canal lateral, normalmente se espera una ganancia mayor de alrededor de 0,8.",
+     "ses": "En el canal lateral, normalmente se espera una ganancia mayor de alrededor de cero coma ocho."
     },
     {
-     "yazi": "En los canales verticales, el punto de corte normal suele ser más bajo, por ejemplo, alrededor de 0,7."
+     "yazi": "En los canales verticales, el punto de corte normal suele ser más bajo, por ejemplo, alrededor de 0,7.",
+     "ses": "En los canales verticales, el punto de corte normal suele ser más bajo, por ejemplo, alrededor de cero coma siete."
     },
     "Algunos equipos calculan la ganancia con el área bajo la curva y otros con velocidades en momentos fijos; por eso se usan normas propias del equipo.",
     "La ganancia sola no basta; siempre se interpreta junto con las sacadas."
@@ -311,11 +313,13 @@
    "cumleler": [
     "Veamos ahora una tabla de resultados puramente de ejemplo.",
     {
-     "yazi": "En este ejemplo, la ganancia del canal lateral derecho es de 0,95, mientras que la del canal lateral izquierdo es de 0,52."
+     "yazi": "En este ejemplo, la ganancia del canal lateral derecho es de 0,95, mientras que la del canal lateral izquierdo es de 0,52.",
+     "ses": "En este ejemplo, la ganancia del canal lateral derecho es de cero coma noventa y cinco, mientras que la del canal lateral izquierdo es de cero coma cincuenta y dos."
     },
     "La ganancia del canal lateral izquierdo es claramente baja, y además se ven sacadas correctoras en los impulsos hacia la izquierda.",
     {
-     "yazi": "La ganancia del canal anterior izquierdo también es baja, de 0,55."
+     "yazi": "La ganancia del canal anterior izquierdo también es baja, de 0,55.",
+     "ses": "La ganancia del canal anterior izquierdo también es baja, de cero coma cincuenta y cinco."
     },
     "El canal posterior izquierdo, en cambio, está dentro de los límites normales.",
     "Este patrón es compatible con una afectación de los canales que inerva el nervio vestibular superior, con la división inferior preservada."
@@ -754,7 +758,8 @@
    "cumleler": [
     "La ganancia del RVO es la relación entre la velocidad de los ojos y la de la cabeza, y su valor ideal es cercano a uno.",
     {
-     "yazi": "La ganancia del canal lateral normalmente supera alrededor de 0,8; en los canales verticales, el punto de corte suele ser más bajo."
+     "yazi": "La ganancia del canal lateral normalmente supera alrededor de 0,8; en los canales verticales, el punto de corte suele ser más bajo.",
+     "ses": "La ganancia del canal lateral normalmente supera alrededor de cero coma ocho; en los canales verticales, el punto de corte suele ser más bajo."
     },
     "Las sacadas encubiertas ocurren durante el movimiento de la cabeza, y las manifiestas, después de que la cabeza se detuvo.",
     "Los seis canales se exploran por separado en los planos lateral, LARP y RALP."

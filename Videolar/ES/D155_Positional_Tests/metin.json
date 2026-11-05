@@ -1,0 +1,828 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D155_Positional_Tests_ES",
+ "kapak": {
+  "ust": "LECCIÓN 155",
+  "baslik": "Dix-Hallpike y<br>*giro en supino*",
+  "alt": "Interpretar el nistagmo posicional",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Pruebas posicionales: Dix-Hallpike y giro en supino | Lección 155 | AIHEAR Academia de Audiología",
+  "aciklama": "Esta lección explica las pruebas posicionales: la maniobra de Dix-Hallpike para el canal posterior y la prueba de giro cefálico en decúbito supino para el canal lateral. Vemos cómo se interpretan la dirección, la latencia y la duración del nistagmo, comparamos el nistagmo geotrópico y el apogeotrópico, y repasamos los signos de alarma centrales.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Jacobson and Shepard, Balance Function Assessment and Management; von Brevern et al., Benign Paroxysmal Positional Vertigo: Diagnostic Criteria, Journal of Vestibular Research (2015); AAO-HNS, Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (2017).\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "vertigo",
+   "VPPB"
+  ],
+  "etiketler": [
+   "Dix-Hallpike",
+   "prueba de giro en supino",
+   "pruebas posicionales",
+   "nistagmo posicional",
+   "diagnóstico de VPPB",
+   "VPPB",
+   "nistagmo geotrópico",
+   "nistagmo apogeotrópico",
+   "evaluación vestibular",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 155",
+   "baslik": "Pruebas *posicionales*",
+   "alt": "Dix-Hallpike y giro en supino",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos las pruebas posicionales: la maniobra de Dix-Hallpike y la prueba de giro cefálico en decúbito supino.",
+    "Veremos cómo se realizan las pruebas y cómo se interpretan la dirección, la latencia y la duración del nistagmo."
+   ]
+  },
+  {
+   "id": "temel",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Lo básico",
+   "baslik": "¿*Por qué* hacer pruebas posicionales?",
+   "maddeler": [
+    {
+     "metin": "_Vértigo_ desencadenado por la posición cefálica",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Causa más frecuente: _VPPB_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Objetivo: _qué canal_, qué lado",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Observar: las características del _nistagmo_",
+     "cumle": 4,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 3,
+    "etiketler": [
+     {
+      "parca": "posterior_kanal",
+      "metin": "canal posterior",
+      "cumle": 3
+     },
+     {
+      "parca": "lateral_kanal",
+      "metin": "canal lateral",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "yarim_daire_kanallari",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Un giro breve que empieza al acostarse, al darse vuelta en la cama o al mirar hacia arriba es la historia típica del vértigo posicional.",
+    "La causa más frecuente de esta queja es el vértigo posicional paroxístico benigno (VPPB, en inglés BPPV).",
+    "El VPPB se verá en detalle en una lección posterior; aquí nos centramos en las pruebas que lo revelan.",
+    "Las pruebas posicionales buscan identificar qué canal semicircular está afectado, y de qué lado.",
+    "Para ello, se mueve la cabeza rápidamente en el plano de un canal determinado y se observa el nistagmo resultante."
+   ]
+  },
+  {
+   "id": "otokonya",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "Lo básico",
+   "baslik": "Cuando las *otoconias* entran en un canal",
+   "cizim": "vestibuler",
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 0
+    },
+    {
+     "parca": "posterior_kanal",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "Utrículo: lugar de las otoconias",
+     "cumle": 0
+    },
+    {
+     "parca": "posterior_kanal",
+     "metin": "Canal posterior: el más afectado",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "metin": "Ampolla y cúpula",
+     "cumle": 3
+    },
+    {
+     "parca": "lateral_kanal",
+     "metin": "Canal lateral",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Canal lateral menos, canal anterior rara vez",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "posterior_kanal",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Los cristales de carbonato de calcio del utrículo, las otoconias, llamadas popularmente piedritas del oído, pueden desprenderse.",
+    "Cuando estas partículas entran en un canal semicircular, se deslizan dentro del canal por la gravedad al mover la cabeza.",
+    "El canal posterior es el más bajo tanto de pie como acostado, por eso también es el canal afectado con más frecuencia.",
+    "Las partículas en movimiento arrastran la endolinfa, desvían la cúpula de la ampolla y producen un nistagmo breve.",
+    "El canal lateral se afecta con menos frecuencia, y el canal anterior, muy rara vez.",
+    "Las partículas pueden flotar libres en el canal o adherirse a la cúpula; enseguida distinguiremos estos dos mecanismos."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "*Preparar* la prueba",
+   "maddeler": [
+    {
+     "metin": "Historia: _qué movimiento_, cuánto dura",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Primero buscar nistagmo _espontáneo_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Lentes de video o de _Frenzel_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Camilla segura y un _asistente_",
+     "cumle": 3,
+     "ikon": "hasta"
+    }
+   ],
+   "cumleler": [
+    "Primero tomen la historia: pregunten qué movimiento inicia el giro y cuánto dura.",
+    "Antes de las pruebas posicionales, busquen nistagmo espontáneo en posición sentada y en decúbito supino.",
+    "Usen lentes de video o lentes de Frenzel, porque la fijación visual suprime el nistagmo de origen periférico.",
+    "Tengan una camilla que sostenga con seguridad la cabeza del paciente y, si hace falta, un asistente.",
+    "Si usan lentes de video, retiren los anteojos del paciente y comprueben que la imagen de la cámara sea nítida.",
+    "Adviertan al paciente de antemano que puede sentir náuseas, y tengan una palangana a mano."
+   ]
+  },
+  {
+   "id": "dix_hallpike",
+   "tur": "akis",
+   "bolum_no": "PARTE 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "Cómo realizar la *Dix-Hallpike*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Sentado",
+     "metin": "Cabeza a 45 grados hacia el oído evaluado",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Supino rápido",
+     "metin": "Cabeza unos 20 grados atrás",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Observar",
+     "metin": "Al menos 30 segundos",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Sentarse",
+     "metin": "Se observan de nuevo los ojos",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Otro lado",
+     "metin": "Se repiten los pasos",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "La maniobra de Dix-Hallpike es la prueba estándar para revelar el VPPB del canal posterior.",
+    "El paciente se sienta en la camilla y se gira la cabeza unos cuarenta y cinco grados hacia el oído que se evalúa.",
+    "Luego se lleva rápidamente al paciente a decúbito supino, con la cabeza colgando unos veinte grados por debajo del borde de la camilla.",
+    "En esta posición se observan los ojos durante al menos treinta segundos, o hasta que termine cualquier nistagmo.",
+    "Después se vuelve a sentar al paciente lentamente y se observan de nuevo los ojos; en este momento el nistagmo puede invertirse.",
+    "El procedimiento se repite con el otro oído; el oído que queda abajo es el oído evaluado."
+   ]
+  },
+  {
+   "id": "kirk_bes",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "¿Por qué *45 grados?*",
+   "cizim": "kanal_duzlemleri",
+   "vurgula": [
+    {
+     "parca": "donus",
+     "cumle": 0
+    },
+    {
+     "parca": "sag_arka_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "hareket_duzlemi",
+     "cumle": 2
+    },
+    {
+     "parca": "larp",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "45 grados: canal posterior en el plano del movimiento",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Posterior derecho y anterior izquierdo: mismo plano",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "sag_arka_kanal",
+     "metin": "Canal posterior derecho",
+     "cumle": 1
+    },
+    {
+     "parca": "hareket_duzlemi",
+     "metin": "Plano del movimiento cefálico",
+     "cumle": 1
+    },
+    {
+     "parca": "sol_on_kanal",
+     "metin": "Canal anterior izquierdo",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Hay una razón para girar la cabeza cuarenta y cinco grados.",
+    "Este giro alinea aproximadamente el canal posterior del lado evaluado con el plano en que la cabeza se mueve hacia atrás.",
+    "Así, al bajar la cabeza, las partículas del canal posterior del oído inferior se desplazan a lo largo del canal por la gravedad.",
+    "Como el canal posterior derecho y el anterior izquierdo están en el mismo plano, en esta prueba también puede aparecer una afectación del canal anterior.",
+    "Hacer la maniobra con decisión ayuda a poner en movimiento las partículas y hace más clara la respuesta."
+   ],
+   "ayar": {
+    "donus": 45,
+    "donus_cumle": 0,
+    "goster": [
+     "larp"
+    ],
+    "cift_cumleleri": {
+     "larp": 3
+    }
+   }
+  },
+  {
+   "id": "arka_kanal",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "La *respuesta* del canal posterior",
+   "maddeler": [
+    {
+     "metin": "_Latencia_: de uno a varios segundos",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Dirección: _hacia arriba_ y torsional",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Polo superior bate hacia _el oído inferior_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Duración: en general _menos de 1 minuto_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Se invierte al sentarse, _fatigable_ al repetir",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "En la canalolitiasis del canal posterior, el nistagmo suele empezar tras una latencia de uno a varios segundos una vez alcanzada la posición.",
+    "La fase rápida bate hacia arriba, hacia la frente, junto con un componente torsional.",
+    "En el componente torsional, el polo superior del ojo bate hacia el oído que queda abajo.",
+    "La respuesta suele durar menos de un minuto; su intensidad primero aumenta y luego disminuye.",
+    "Al sentarse, el nistagmo puede invertirse brevemente; una respuesta más débil al repetir la prueba se llama fatigabilidad.",
+    "En conjunto, estas características forman el cuadro típico de afectación del canal posterior de ese lado."
+   ]
+  },
+  {
+   "id": "yorum_olcutleri",
+   "tur": "tablo",
+   "bolum_no": "PARTE 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "*Interpretar* la respuesta",
+   "sutunlar": [
+    "Característica",
+    "Canal posterior típico",
+    "Requiere atención"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Latencia",
+      "Unos segundos",
+      "Sin latencia"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Duración",
+      "Menos de 1 minuto",
+      "Persistente, no decrece"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Dirección",
+      "Hacia arriba y torsional",
+      "Hacia abajo puro"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Vértigo",
+      "Junto con el nistagmo",
+      "Nistagmo sin vértigo"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Repetición",
+      "Se fatiga",
+      "No se fatiga"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Miren primero la latencia; una respuesta típica tiene unos segundos de latencia, y un nistagmo que empieza de inmediato requiere atención.",
+    "Luego miren la duración; un nistagmo que dura más de un minuto y no decrece sugiere causas distintas de la canalolitiasis.",
+    "Miren la dirección; un nistagmo puro hacia abajo, sin torsión, es importante al considerar causas centrales.",
+    "Comprueben que el vértigo coincida con el nistagmo; un nistagmo claro sin ningún mareo es poco habitual.",
+    "Por último, miren la repetición; una respuesta típica se debilita al repetirla, mientras que el nistagmo central no suele cambiar.",
+    "Estos criterios son orientativos; el diagnóstico y las decisiones de tratamiento son responsabilidad del médico."
+   ]
+  },
+  {
+   "id": "guvenlik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "*Seguridad* y alternativas",
+   "maddeler": [
+    {
+     "metin": "_Preguntar_ por problemas de cuello y espalda",
+     "cumle": 0,
+     "ikon": "agri"
+    },
+    {
+     "metin": "_Precaución_ en enfermedades vasculares y cardíacas",
+     "cumle": 1,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Alternativa: la prueba en _decúbito lateral_",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "No levantarse _enseguida_ después",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Antes de empezar, pregunten siempre por problemas de cuello, de la espalda alta y de la zona lumbar.",
+    "En casos como una enfermedad cervical seria o ciertos problemas vasculares y cardíacos, decidan junto con el médico.",
+    "En los pacientes que no pueden extender el cuello, la prueba en decúbito lateral puede evaluar el canal posterior de forma similar.",
+    "En esta prueba el paciente se sienta, se gira la cabeza cuarenta y cinco grados hacia el lado contrario y se lo acuesta rápido sobre el lado evaluado.",
+    "Después de la prueba no se pone de pie al paciente enseguida; pídanle que siga sentado hasta recuperar el equilibrio."
+   ]
+  },
+  {
+   "id": "supine_roll",
+   "tur": "akis",
+   "bolum_no": "PARTE 3",
+   "bolum": "Giro en supino",
+   "baslik": "La prueba de *giro en supino*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Supino",
+     "metin": "Cabeza flexionada unos 30 grados",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Hacia un lado",
+     "metin": "Cabeza rápido a 90 grados",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Vuelta al centro",
+     "metin": "Cuando la respuesta se apaga",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Hacia el otro lado",
+     "metin": "Se comparan las respuestas",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "La prueba de giro cefálico en decúbito supino, también llamada maniobra de McClure-Pagnini, se usa para evaluar el VPPB del canal lateral.",
+    "El paciente se acuesta boca arriba con la cabeza flexionada unos treinta grados, lo que acerca los canales laterales al plano vertical.",
+    "Se gira la cabeza rápidamente unos noventa grados hacia un lado y se observan los ojos.",
+    "Cuando la respuesta se apaga, se vuelve la cabeza al centro y se espera un momento.",
+    "Luego se gira la cabeza hacia el otro lado y se comparan las respuestas de ambos lados.",
+    "En esta prueba el nistagmo es horizontal y puede aparecer al girar hacia cualquiera de los lados; la interpretación se basa en la diferencia entre lados."
+   ]
+  },
+  {
+   "id": "geotropik",
+   "tur": "karsilastir",
+   "bolum_no": "PARTE 3",
+   "bolum": "Giro en supino",
+   "baslik": "*Geotrópico* y apogeotrópico",
+   "sol": {
+    "ust": "Geotrópico",
+    "maddeler": [
+     {
+      "metin": "Hacia el oído inferior, el suelo",
+      "cumle": 1
+     },
+     {
+      "metin": "Sobre todo canalolitiasis",
+      "cumle": 2
+     },
+     {
+      "metin": "El lado más intenso es el afectado",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Apogeotrópico",
+    "maddeler": [
+     {
+      "metin": "Hacia el oído superior, lejos del suelo",
+      "cumle": 3
+     },
+     {
+      "metin": "Cupulolitiasis o partículas junto a la cúpula",
+      "cumle": 4
+     },
+     {
+      "metin": "El lado más débil es el afectado",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "En la afectación del canal lateral, hacia cualquier lado que se gire la cabeza, se ve un nistagmo horizontal que cambia de dirección.",
+    "Si en ambos lados el nistagmo bate hacia el oído inferior, es decir, hacia el suelo, se llama nistagmo geotrópico.",
+    "El tipo geotrópico se debe sobre todo a canalolitiasis, y el lado con el nistagmo más intenso suele ser el afectado.",
+    "Si en ambos lados el nistagmo bate hacia el oído superior, lejos del suelo, es un nistagmo apogeotrópico.",
+    "El tipo apogeotrópico se asocia a cupulolitiasis o a partículas cerca de la cúpula, y en general el lado más débil es el afectado.",
+    "La segunda ley de Ewald explica esta inversión: en el canal lateral, el flujo hacia la ampolla da una respuesta más intensa."
+   ]
+  },
+  {
+   "id": "kupulolitiazis",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Giro en supino",
+   "baslik": "Duración y *mecanismo*",
+   "maddeler": [
+    {
+     "metin": "Canalolitiasis: _menos de 1 minuto_",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Cupulolitiasis: nistagmo _persistente_",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Cupulolitiasis: latencia _breve o ausente_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Puede haber _conversión_ entre tipos",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "ampulla",
+      "metin": "cúpula en la ampolla",
+      "cumle": 1
+     },
+     {
+      "parca": "lateral_kanal",
+      "metin": "libres en el canal",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 0
+     },
+     {
+      "parca": "ampulla",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "En la canalolitiasis las partículas se mueven libremente en el canal, así que el nistagmo es breve y se apaga.",
+    "En la cupulolitiasis las partículas se adhieren a la cúpula y la hacen más pesada, así que el nistagmo persiste mientras se mantiene la posición.",
+    "En este tipo, la latencia suele ser breve o nula, y el nistagmo puede durar más de un minuto.",
+    "Así, la duración y la latencia ayudan a entender no solo el canal sino también el mecanismo probable.",
+    "Como las partículas pueden desplazarse con el tiempo, puede haber conversión entre tipos; por eso importan las pruebas de control."
+   ]
+  },
+  {
+   "id": "kanal_ozet",
+   "tur": "tablo",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación y alertas",
+   "baslik": "*Resumen* por canal",
+   "sutunlar": [
+    "Canal",
+    "Prueba",
+    "Nistagmo típico"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Canal posterior",
+      "Dix-Hallpike",
+      "Hacia arriba y torsional"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Canal lateral",
+      "Giro en supino",
+      "Horizontal, cambia de dirección"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Canal anterior",
+      "Dix-Hallpike",
+      "Hacia abajo y torsional"
+     ],
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "En la afectación del canal posterior, se espera que la Dix-Hallpike muestre un nistagmo hacia arriba y torsional.",
+    "En la afectación del canal lateral, la prueba de giro en supino muestra un nistagmo horizontal que cambia de dirección.",
+    "En la rara afectación del canal anterior, aparece un nistagmo hacia abajo con un componente torsional.",
+    "Como el nistagmo hacia abajo también puede tener causas centrales, la interpretación del canal anterior requiere especial cuidado.",
+    "Un paciente con afectación del canal lateral también puede mostrar un nistagmo horizontal durante la Dix-Hallpike.",
+    "Por eso las dos pruebas suelen hacerse juntas y los resultados se interpretan en conjunto."
+   ]
+  },
+  {
+   "id": "santral",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación y alertas",
+   "baslik": "Signos de alarma *centrales*",
+   "maddeler": [
+    {
+     "metin": "Nistagmo puro _hacia abajo_ sin torsión",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sin latencia, _no decrece_, no se fatiga",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Dirección _que no coincide_ con el canal",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Signos _neurológicos_ acompañantes",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Cuadro persistente o _muy recurrente_",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Un nistagmo posicional puro hacia abajo, sin componente torsional, debe hacer sospechar un problema del tronco cerebral o del cerebelo.",
+    "Un nistagmo sin latencia, que no decrece mientras se mantiene la posición y no se fatiga, también requiere atención.",
+    "Una dirección del nistagmo que no se explica por el plano del canal estimulado no es compatible con una causa periférica.",
+    "Signos como cefalea, visión doble, alteración del habla o pérdida de coordinación requieren una evaluación médica urgente.",
+    "Los casos que no mejoran tras las maniobras de reposicionamiento, o que recurren a menudo, también deben derivarse al médico.",
+    "En estas situaciones, el papel del audiólogo es registrar sus observaciones en detalle y derivar al paciente sin demora."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Interpretación y alertas",
+   "baslik": "*Registrar* los hallazgos",
+   "maddeler": [
+    {
+     "metin": "Prueba, lado y _posición_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Latencia, dirección y _duración_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Inversión al sentarse y _fatigabilidad_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Vértigo y _náuseas_ acompañantes",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "cumleler": [
+    "En cada prueba posicional, registren con claridad qué prueba se hizo y de qué lado.",
+    "Anoten por separado la latencia, la dirección, el componente torsional y la duración del nistagmo.",
+    "Anoten también si hubo inversión al volver a sentarse y si la respuesta se fatigó al repetirla.",
+    "Anoten si el paciente tuvo vértigo y náuseas durante la prueba.",
+    "Adjunten al informe cualquier grabación de video, para que el médico y el próximo examinador puedan revisar las mismas imágenes."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "Si la Dix-Hallpike muestra un nistagmo horizontal, agreguen la prueba de giro en supino; el cuadro puede deberse a una afectación del canal lateral.",
+   "cumleler": [
+    "Un consejo clínico: si durante la Dix-Hallpike ven un nistagmo horizontal en lugar de torsional, no den la prueba por terminada.",
+    "Puede ser un signo de afectación del canal lateral; agreguen la prueba de giro en supino.",
+    "Además, no repitan las pruebas demasiado rápido una tras otra; por la fatigabilidad, la respuesta puede desaparecer en la segunda prueba.",
+    "Si es posible, graben la respuesta con lentes de video; la grabación permite revisar luego con cuidado la dirección y la duración."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Canal posterior: _Dix-Hallpike_",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Nistagmo hacia arriba, torsional y _breve_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Canal lateral: _giro en supino_",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Signos centrales: _derivar al médico_",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "La maniobra de Dix-Hallpike evalúa el canal posterior, y la prueba de giro en supino evalúa el canal lateral.",
+    "La afectación del canal posterior muestra un nistagmo hacia arriba y torsional, con latencia, que dura menos de un minuto.",
+    "El canal lateral muestra un nistagmo horizontal geotrópico o apogeotrópico; el lado se determina comparando ambos lados.",
+    "Un nistagmo sin latencia, que no decrece o que es puramente hacia abajo exige derivar para descartar causas centrales."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "Dix-Hallpike derecha: nistagmo con latencia, hacia arriba, torsional y breve. ¿Qué canal?",
+   "secenekler": [
+    "Canal posterior derecho",
+    "Canal posterior izquierdo",
+    "Canal lateral derecho",
+    "Canal anterior izquierdo"
+   ],
+   "dogru": 0,
+   "aciklama": "Se evalúa el oído que queda abajo; el nistagmo hacia arriba y torsional indica el _canal posterior_.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: en la Dix-Hallpike derecha, ¿qué canal sugiere un nistagmo con latencia, hacia arriba, torsional y breve?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la A: el canal posterior derecho.",
+    "En la Dix-Hallpike, el oído que queda abajo es el evaluado, y el nistagmo hacia arriba y torsional indica el canal posterior."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*VNG* y ENG: cómo se registran los movimientos oculares",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo se registran los movimientos oculares con la VNG y la ENG.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

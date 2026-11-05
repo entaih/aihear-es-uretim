@@ -1,0 +1,675 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D169_Unilateral_And_Mild_Loss_In_Children_ES",
+ "kapak": {
+  "ust": "LECCIÓN 169",
+  "baslik": "Pérdida pequeña,<br>impacto *grande*",
+  "alt": "Pérdida auditiva unilateral y leve",
+  "cizim": "bas_ustten",
+  "ayar": {
+   "mod": "golge"
+  }
+ },
+ "youtube": {
+  "baslik": "Por qué importa la pérdida unilateral o leve en niños | Lección 169 | AIHEAR Academia de Audiología",
+  "aciklama": "Las pérdidas auditivas unilaterales, leves y de alta frecuencia pueden pasar inadvertidas en una sala silenciosa. En esta lección vemos la dificultad para entender el habla en ruido y para localizar el sonido, los efectos en el rendimiento escolar y en el esfuerzo auditivo, cómo se planifica el seguimiento y las opciones de intervención.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Bess, Dodd-Murphy and Parker, Children with minimal sensorineural hearing loss, Ear and Hearing (1998); Bess and Tharpe, Case history data on unilaterally hearing-impaired children, Ear and Hearing (1986); American Academy of Audiology, Clinical Practice Guidelines: Pediatric Amplification (2013); American Academy of Audiology, Childhood Hearing Screening Guidelines (2011); Joint Committee on Infant Hearing, Year 2019 Position Statement; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "hipoacusiaunilateral",
+   "audiologiapediatrica"
+  ],
+  "etiketler": [
+   "pérdida auditiva unilateral",
+   "hipoacusia mínima",
+   "hipoacusia leve en niños",
+   "esfuerzo auditivo",
+   "fatiga auditiva",
+   "efecto sombra de la cabeza",
+   "micrófono remoto",
+   "CROS",
+   "audiología pediátrica",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 169",
+   "baslik": "Pérdida *unilateral* y leve",
+   "alt": "¿Por qué importa en un niño una pérdida que parece pequeña?",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección veremos cómo la pérdida auditiva unilateral y la leve pueden afectar el desarrollo y la vida escolar de un niño.",
+    "Luego daremos un vistazo general a cómo se planifica el seguimiento y qué opciones de intervención existen."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definiciones y prevalencia",
+   "baslik": "*Tres formas* de pérdida mínima",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Unilateral",
+     "cumle": 1,
+     "metin": "Un oído normal, el otro con pérdida"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Bilateral leve",
+     "cumle": 3,
+     "metin": "Unos 20 a 40 dB HL"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Alta frecuencia",
+     "cumle": 5,
+     "metin": "Pérdida clara sobre 2000 Hz"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Un estudio de 1998 de Bess y colaboradores definió la hipoacusia neurosensorial mínima en tres grupos."
+    },
+    "El primer grupo es la pérdida auditiva unilateral: un oído oye con normalidad y el otro tiene una pérdida.",
+    "Una pérdida unilateral puede ser leve, o puede ser profunda en un oído.",
+    {
+     "yazi": "El segundo grupo es la pérdida bilateral leve; en este estudio, el promedio de tonos puros se definió entre 20 y 40 dB HL."
+    },
+    "Estos niños a menudo entienden bien el habla en una sala silenciosa, por lo que la pérdida pasa fácilmente inadvertida.",
+    {
+     "yazi": "El tercer grupo es la pérdida de alta frecuencia, con umbrales mayores de 25 dB HL en dos o más frecuencias por encima de 2000 Hz."
+    },
+    "Las definiciones varían un poco entre estudios; lo que tienen en común es que estas pérdidas se subestiman fácilmente en la vida diaria."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definiciones y prevalencia",
+   "baslik": "Ejemplo: pérdida *unilateral*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: pérdida moderada",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: dentro de lo normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Rango normal",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       45,
+       50,
+       55,
+       55,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "Este audiograma de ejemplo muestra una pérdida moderada en el oído derecho.",
+    "Los umbrales del oído izquierdo están dentro de los límites normales en todas las frecuencias.",
+    "En una sala silenciosa, este niño puede entender el habla con facilidad gracias al buen oído izquierdo.",
+    "Por eso, la familia y los maestros a menudo no notan ningún problema.",
+    "Para definir el tipo de pérdida se necesitan la vía ósea y, cuando corresponde, el enmascaramiento; aquí solo miramos la vía aérea.",
+    "Veamos ahora, paso a paso, dónde causa dificultades este tipo de pérdida en la vida diaria."
+   ]
+  },
+  {
+   "id": "siklik",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 1",
+   "bolum": "Definiciones y prevalencia",
+   "baslik": "¿Qué tan *frecuente* es?",
+   "maddeler": [
+    {
+     "metin": "Alrededor del _5 %_ en edad escolar",
+     "cumle": 0,
+     "ikon": "okul"
+    },
+    {
+     "metin": "La prevalencia aumenta con la edad",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "La pérdida leve puede pasar el tamizaje",
+     "cumle": 3,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "La pérdida unilateral puede aparecer después",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Recién nacido",
+      "cumle": 3,
+      "metin": "La pérdida leve puede escaparse"
+     },
+     {
+      "ikon": "cocuk",
+      "baslik": "Edad escolar",
+      "cumle": 2,
+      "metin": "La prevalencia aumenta"
+     }
+    ],
+    "ust": "¿POR QUÉ SE ESCAPA?"
+   },
+   "cumleler": [
+    {
+     "yazi": "Bess y colaboradores hallaron una prevalencia de pérdida mínima de alrededor del 5,4 por ciento en alumnos de tercero, sexto y noveno grado."
+    },
+    "Es decir, en una escuela grande puede haber uno o dos de estos niños en cada aula.",
+    "La prevalencia de la pérdida auditiva permanente aumenta de forma constante desde el período neonatal hasta la edad escolar.",
+    {
+     "yazi": "El tamizaje neonatal suele estar diseñado para detectar pérdidas mayores de unos 30 a 40 decibeles en el rango del habla."
+    },
+    "Por eso, las pérdidas más leves pueden pasar el tamizaje.",
+    "Una pérdida unilateral también puede no estar presente al nacer y aparecer más tarde, o puede progresar con el tiempo."
+   ]
+  },
+  {
+   "id": "golge",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Impacto en la vida diaria",
+   "baslik": "Un oído *en ruido*",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "golge",
+    "gurultu_yonu": "sag",
+    "yol_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "iyi_kulak",
+     "metin": "oído bueno",
+     "cumle": 1
+    },
+    {
+     "parca": "kotu_kulak",
+     "metin": "oído con pérdida",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "bas_golgesi",
+     "cumle": 3
+    },
+    {
+     "parca": "iyi_kulak",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Entender en ruido se vuelve difícil",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Las consonantes agudas se debilitan",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Se necesita una mejor SNR",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "El efecto más claro de la pérdida unilateral aparece en ambientes ruidosos.",
+    "Si el habla llega por el lado del oído bueno y el ruido por el lado del oído peor, el niño tiene relativa suerte.",
+    "En este caso, la cabeza bloquea el ruido y crea una sombra acústica que lo debilita en el oído bueno.",
+    "El efecto sombra de la cabeza es mayor en las frecuencias agudas; si el habla llega por el lado peor, la sombra debilita las consonantes agudas.",
+    "Una persona que oye con ambos oídos se beneficia usando el oído del lado opuesto al ruido.",
+    "Un niño que oye con un solo oído no tiene esa opción y necesita una mejor relación señal-ruido para lograr el mismo rendimiento."
+   ]
+  },
+  {
+   "id": "zorluklar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Impacto en la vida diaria",
+   "baslik": "Dificultades *cotidianas*",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Localización",
+     "cumle": 0,
+     "metin": "No es claro de dónde viene el sonido"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Conversación en grupo",
+     "cumle": 2,
+     "metin": "Cuesta seguir a varios hablantes"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Habla a distancia",
+     "cumle": 3,
+     "metin": "Se pierden los sonidos suaves"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Seguridad",
+     "cumle": 5,
+     "metin": "Tránsito y sonidos de alerta"
+    }
+   ],
+   "cumleler": [
+    "Localizar un sonido depende de las diferencias de tiempo y de nivel entre los sonidos que llegan a ambos oídos.",
+    "Con un solo oído no se pueden comparar estas diferencias, por eso al niño puede costarle saber de dónde viene un sonido.",
+    "En una conversación animada, darse cuenta de quién habla y pasar de un hablante a otro también resulta agotador.",
+    "En la pérdida bilateral leve, el problema principal es que no se oye el habla suave a distancia ni el habla cercana al susurro.",
+    "Los niños pequeños también aprenden lenguaje al escuchar las conversaciones que los rodean; estas pérdidas pueden reducir esa oportunidad.",
+    "No poder localizar los sonidos de alerta en entornos como el tránsito también es importante para la seguridad."
+   ]
+  },
+  {
+   "id": "sinif",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Impacto en la vida diaria",
+   "baslik": "*Distancia* y reverberación en el aula",
+   "cizim": "oda_plani",
+   "ayar": {
+    "mod": "kritik_mesafe",
+    "kritik_mesafe_m": 1.5,
+    "oda": [
+     9,
+     7
+    ],
+    "halka_cumle": 2
+   },
+   "vurgula": [
+    {
+     "parca": "ogretmen",
+     "cumle": 1
+    },
+    {
+     "parca": "dogrudan_alan",
+     "cumle": 2
+    },
+    {
+     "parca": "yankilanan_alan",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "La distancia debilita la señal",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Atrás predomina la reverberación",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "También se evalúa la acústica",
+     "cumle": 5,
+     "ikon": "okul"
+    }
+   ],
+   "cumleler": [
+    "El aula es uno de los entornos de escucha más difíciles para un niño con pérdida mínima.",
+    "A medida que la voz del docente recorre más distancia, se debilita y se mezcla con las reflexiones.",
+    "Los alumnos que están dentro de la distancia crítica oyen con más fuerza el sonido directo.",
+    "En las filas de atrás, el sonido reverberante y el ruido de fondo pasan a primer plano.",
+    "Cuando el docente se gira hacia el pizarrón o camina por el aula, la señal que recibe el niño cambia constantemente.",
+    "Por eso, para estos niños, la acústica del aula y la distancia al docente importan tanto como el umbral auditivo."
+   ]
+  },
+  {
+   "id": "okul",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Escuela y esfuerzo auditivo",
+   "baslik": "*Rendimiento* escolar",
+   "maddeler": [
+    {
+     "metin": "Más repetición de grado descrita",
+     "cumle": 0,
+     "ikon": "okul"
+    },
+    {
+     "metin": "Posibles dificultades de lenguaje y atención",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Puede confundirse con problemas de conducta",
+     "cumle": 4,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "No todos los niños se ven afectados",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "okul",
+      "baslik": "Académico",
+      "cumle": 0,
+      "metin": "Riesgo de repetir grado"
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Lenguaje",
+      "cumle": 3,
+      "metin": "Puntajes más bajos"
+     },
+     {
+      "ikon": "dikkat",
+      "baslik": "Conducta",
+      "cumle": 4,
+      "metin": "Puede malinterpretarse"
+     }
+    ],
+    "ust": "EFECTOS DESCRITOS"
+   },
+   "cumleler": [
+    {
+     "yazi": "En un estudio de 1986 de Bess y Tharpe, alrededor de un tercio de los niños con pérdida unilateral había repetido un grado."
+    },
+    {
+     "yazi": "En el estudio de 1998 de Bess y colaboradores, esta proporción fue del 37 por ciento en los niños con pérdida mínima."
+    },
+    "El mismo estudio halló que estos niños también tenían más dificultades en áreas como la energía, el estrés y la autoestima.",
+    "Estudios más recientes también han mostrado que, en promedio, los puntajes de lenguaje pueden ser más bajos en niños con pérdida unilateral.",
+    "Un niño que se pierde lo que se dice en clase puede parecer distraído, desinteresado o con un problema de atención.",
+    "Por eso, si no se conoce la situación auditiva del niño, su dificultad puede malinterpretarse.",
+    "Por otro lado, no todos los niños con estas pérdidas tienen dificultades escolares; el riesgo es real, pero los resultados varían de un niño a otro."
+   ]
+  },
+  {
+   "id": "efor",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 3",
+   "bolum": "Escuela y esfuerzo auditivo",
+   "baslik": "*Esfuerzo* auditivo y fatiga",
+   "maddeler": [
+    {
+     "metin": "Completar una señal incompleta exige esfuerzo",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Fatiga auditiva_ al final del día",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Menos recursos para aprender",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Retraimiento en la interacción social",
+     "cumle": 5,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "sosyal_izolasyon",
+    "cumle": 0,
+    "ayar": {
+     "yalniz_cumle": 5
+    },
+    "vurgula": [
+     {
+      "parca": "yalniz_kisi",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "El esfuerzo mental que se dedica a completar por el contexto los sonidos no oídos se llama esfuerzo auditivo.",
+    "Un niño con pérdida mínima puede gastar más atención y memoria que sus compañeros para entender lo que se dice en clase.",
+    "Cuando este esfuerzo extra se mantiene todo el día, puede provocar fatiga auditiva.",
+    "Los recursos que se gastan en escuchar son recursos que quedan menos para aprender y recordar.",
+    "Algunos niños describen un cansancio marcado y desgano al volver a casa de la escuela.",
+    "Con el tiempo, también pueden aparecer la evitación de las actividades en grupo y el retraimiento social."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento e intervención",
+   "baslik": "Pasos del *seguimiento*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Confirmar el diagnóstico",
+     "cumle": 0,
+     "metin": "Evaluación por oído"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Buscar la causa",
+     "cumle": 2,
+     "metin": "Evaluación médica"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Seguimiento regular",
+     "cumle": 3,
+     "metin": "Progresión y el otro oído"
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Trabajar con la escuela",
+     "cumle": 5,
+     "metin": "Informar al docente"
+    }
+   ],
+   "cumleler": [
+    "El primer paso es confirmar la pérdida con pruebas por oído y por frecuencia.",
+    "En los niños pequeños, esto se logra combinando pruebas conductuales adecuadas a la edad con pruebas objetivas.",
+    "La causa la investiga un médico; las imágenes, el citomegalovirus congénito y la evaluación genética pueden formar parte de este proceso.",
+    "Algunas pérdidas unilaterales progresan con el tiempo, y en algunos niños también puede aparecer una pérdida en el otro oído.",
+    "Por eso es importante controlar ambos oídos a intervalos regulares.",
+    "A la familia y al docente se les explica claramente qué significa la pérdida y qué entornos son difíciles.",
+    "El desarrollo del lenguaje y el rendimiento escolar también forman parte del seguimiento y se evalúan con otros especialistas cuando es necesario."
+   ]
+  },
+  {
+   "id": "secenekler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Seguimiento e intervención",
+   "baslik": "*Opciones* de intervención",
+   "ogeler": [
+    {
+     "ikon": "okul",
+     "baslik": "Adecuación del aula",
+     "cumle": 0,
+     "metin": "Ubicación, acústica"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Micrófono remoto",
+     "cumle": 1,
+     "metin": "Lleva la voz del docente"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Audífono",
+     "cumle": 3,
+     "metin": "Si la pérdida es amplificable"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "CROS",
+     "cumle": 4,
+     "metin": "Lleva el sonido al oído bueno"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Dispositivo de conducción ósea",
+     "cumle": 6,
+     "metin": "Transmisión a través del hueso"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Implante coclear",
+     "cumle": 7,
+     "metin": "En pérdidas unilaterales severas seleccionadas"
+    }
+   ],
+   "cumleler": [
+    "La ubicación preferencial y las mejoras acústicas en el aula son un primer paso a considerar para todo niño.",
+    "Un sistema de micrófono remoto lleva la voz del docente directamente al oído del niño y mejora la relación señal-ruido.",
+    "La guía de amplificación pediátrica de 2013 de la American Academy of Audiology aconseja considerar micrófonos remotos en la pérdida mínima.",
+    "La misma guía recomienda que los niños con una pérdida unilateral amplificable sean evaluados como candidatos a audífono.",
+    "Si un oído tiene una pérdida profunda, puede considerarse un sistema CROS, que capta el sonido de ese lado y lo envía al oído bueno.",
+    "Pero en clase, el CROS también puede llevar ruido al oído bueno, por eso importan la edad del niño y su capacidad de controlar el entorno.",
+    "Los dispositivos de conducción ósea también transmiten el sonido a través del cráneo a la cóclea que oye mejor.",
+    "En algunos países, el implante coclear también es una opción en pérdidas unilaterales severas seleccionadas; la decisión la toma un equipo."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "No subestimes la pérdida leve o unilateral. Explica a la familia y al docente qué entornos son difíciles, y da una cita de seguimiento clara.",
+   "cumleler": [
+    "Un consejo de la práctica: al explicar a la familia una pérdida leve o unilateral, evita frases como \"un oído está bien, así que no hay problema\".",
+    "En cambio, usa ejemplos concretos de dónde puede tener dificultades el niño: un aula ruidosa, una mesa familiar llena de gente, el patio de recreo.",
+    "Una breve nota informativa para el docente evita que la dificultad del niño se confunda con falta de atención.",
+    "Fija la fecha de la cita de seguimiento antes de que termine la consulta, porque la pérdida puede progresar.",
+    "Anota también las observaciones de la familia; los cambios en la escuela y en casa suelen ser la primera pista."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "Unilateral, leve y de alta frecuencia",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Cuesta entender en ruido y localizar",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Pueden afectarse el rendimiento y el esfuerzo",
+     "cumle": 2,
+     "ikon": "okul"
+    },
+    {
+     "metin": "Seguimiento regular, intervención individual",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "En esta lección vimos que la pérdida mínima puede presentarse de tres formas: unilateral, bilateral leve y de alta frecuencia.",
+    "Estos niños pueden entender bien en silencio, pero se les dificulta entender en ruido y localizar el sonido.",
+    "Las investigaciones muestran un mayor riesgo en el rendimiento escolar, el esfuerzo auditivo y la fatiga.",
+    "El seguimiento debe ser regular, y el equipo evalúa las opciones de intervención según la pérdida, la edad y los entornos del niño."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Dónde le cuesta más a un niño con pérdida unilateral?",
+   "secenekler": [
+    "Charla uno a uno en una sala silenciosa",
+    "Charla grupal en un aula ruidosa",
+    "Sonido del lado del oído bueno",
+    "Conversación cercana cara a cara"
+   ],
+   "dogru": 1,
+   "aciklama": "Con un solo oído no se puede aprovechar la _sombra de la cabeza_; en ruido se necesita una mejor SNR.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿en qué entorno tiene más dificultades un niño con pérdida auditiva unilateral?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: una conversación en grupo en un aula ruidosa.",
+    "Un niño que oye con un solo oído no puede aprovechar la sombra de la cabeza y le cuesta encontrar a quien habla, por eso el ruido lo afecta más."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cómo comunicar el diagnóstico auditivo a la *familia*",
+   "cikis": 2.5,
+   "cumleler": [
+    "En la próxima lección veremos cómo comunicar a la familia un diagnóstico de pérdida auditiva y cómo planificar la primera reunión.",
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}

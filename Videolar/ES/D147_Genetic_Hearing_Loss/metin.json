@@ -1,0 +1,800 @@
+{
+ "dil": "es",
+ "bicim": "ders",
+ "dosya": "D147_Genetic_Hearing_Loss_ES",
+ "kapak": {
+  "ust": "LECCIÓN 147",
+  "baslik": "Hipoacusia<br>*genética*",
+  "alt": "Sindrómica y no sindrómica",
+  "cizim": "stereosil_demeti",
+  "vurgula": [
+   "uc_baglantisi"
+  ]
+ },
+ "youtube": {
+  "baslik": "Hipoacusia genética: sindrómica y no sindrómica | Lección 147 | AIHEAR Academia de Audiología",
+  "aciklama": "Explicamos por qué más de la mitad de la hipoacusia congénita es genética, la diferencia entre la pérdida sindrómica y la no sindrómica, y los nombres de locus DFNB, DFNA y DFNX. También vemos los patrones de herencia, el proceso de evaluación genética y el papel del audiólogo en él.\n\nAIHEAR Academia de Audiología crea lecciones breves y claras para estudiantes y profesionales de la audiología.\n\nFuentes: Shearer et al., Genetic Hearing Loss Overview, GeneReviews; Hereditary Hearing Loss Homepage; Joint Committee on Infant Hearing, Year 2019 Position Statement; Katz, Handbook of Clinical Audiology.\n\nEste video tiene fines educativos y no reemplaza el diagnóstico ni el tratamiento.",
+  "kapanis_metni": "Suscríbete para no perderte ninguna lección.",
+  "hashtag": [
+   "audiologia",
+   "genetica",
+   "hipoacusia"
+  ],
+  "etiketler": [
+   "hipoacusia genética",
+   "hipoacusia no sindrómica",
+   "hipoacusia sindrómica",
+   "DFNB",
+   "DFNA",
+   "autosómica recesiva",
+   "autosómica dominante",
+   "estudio genético",
+   "sordera hereditaria",
+   "clases de audiología",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "LECCIÓN 147",
+   "baslik": "Hipoacusia *genética*",
+   "alt": "Pérdida sindrómica y no sindrómica",
+   "cumleler": [
+    "Hola, y bienvenidos a la Academia de Audiología AIHEAR.",
+    "En esta lección haremos un repaso general de la hipoacusia genética.",
+    "Veremos la diferencia entre la pérdida sindrómica y la no sindrómica, los patrones de herencia, los nombres de locus y el proceso de evaluación genética."
+   ]
+  },
+  {
+   "id": "buyuk_resim",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 1",
+   "bolum": "El panorama general",
+   "baslik": "¿*Cuánta* pérdida es genética?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Pérdida congénita",
+     "metin": "Cerca de 1 a 2 por 1000",
+     "cumle": 0
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genética",
+     "metin": "Más de la mitad",
+     "cumle": 1
+    },
+    {
+     "ikon": "virus",
+     "baslik": "Ambiental",
+     "metin": "Sobre todo el CMV",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "No sindrómica",
+     "metin": "Alrededor del 70 %",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Sindrómica",
+     "metin": "Alrededor del 30 %",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "La hipoacusia congénita permanente se presenta en uno a dos de cada mil recién nacidos, aproximadamente.",
+    "En los países desarrollados, se considera que más de la mitad de las pérdidas congénitas son genéticas.",
+    "El resto tiene causas ambientales; la principal es el citomegalovirus congénito (CMV), que vimos en lecciones anteriores.",
+    "Alrededor del setenta por ciento de las pérdidas genéticas son no sindrómicas, y el treinta por ciento, sindrómicas.",
+    "En la pérdida no sindrómica, la hipoacusia es el único hallazgo; en la sindrómica, también hay otros órganos afectados.",
+    "Esta distinción determina qué estudios se solicitan y a qué especialistas se deriva a la familia."
+   ]
+  },
+  {
+   "id": "kalitim_grafik",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El panorama general",
+   "baslik": "No sindrómica: *herencia*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 4.5,
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "yazilar": {
+      "1": "Recessive",
+      "2": "Dominant",
+      "3": "X-linked",
+      "4": "Mitochondrial",
+      "1": "Recesiva",
+      "2": "Dominante",
+      "3": "Ligada al X",
+      "4": "Mitocondrial"
+     },
+     "ad": "Patrón de herencia"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Proporción aproximada (%)"
+    },
+    "seriler": [
+     {
+      "ad": "resesif",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        77
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "75 a 80 %",
+      "cumle": 1
+     },
+     {
+      "ad": "dominant",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        20
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "cerca del 20 %",
+      "cumle": 2
+     },
+     {
+      "ad": "x",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        3,
+        2
+       ]
+      ],
+      "renk": "sari",
+      "etiket": "1 a 2 %",
+      "cumle": 3
+     },
+     {
+      "ad": "mito",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        4,
+        1
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "menos del 1 %",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Veamos cómo se distribuyen las pérdidas genéticas no sindrómicas según el patrón de herencia.",
+    "Entre el setenta y cinco y el ochenta por ciento, aproximadamente, son autosómicas recesivas.",
+    "Alrededor del veinte por ciento son autosómicas dominantes.",
+    "La herencia ligada al X representa cerca del uno al dos por ciento, y la mitocondrial, menos del uno por ciento.",
+    "Las pérdidas recesivas son en su mayoría congénitas, severas y prelinguales.",
+    "Las pérdidas dominantes, en cambio, suelen comenzar después del desarrollo del lenguaje y progresan con el tiempo."
+   ]
+  },
+  {
+   "id": "kalitim",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 1",
+   "bolum": "El panorama general",
+   "baslik": "*Patrones* de herencia",
+   "cumleler": [
+    "En la herencia autosómica recesiva, un niño se afecta solo si recibe una copia alterada del gen de cada progenitor.",
+    "Los padres suelen ser portadores oyentes, por lo que puede no haber otros casos de pérdida auditiva en la familia.",
+    "En la herencia autosómica dominante basta una copia alterada; cada hijo de un progenitor afectado tiene un riesgo del cincuenta por ciento.",
+    "En la herencia ligada al X, los varones se afectan con más frecuencia y gravedad; las madres portadoras suelen ser normales o leves.",
+    "En la herencia mitocondrial, el cambio pasa a los hijos solo por la madre."
+   ],
+   "cizim": "pedigri",
+   "ayar": {
+    "tip": "dort",
+    "cumleler": [
+     0,
+     2,
+     3,
+     4
+    ]
+   }
+  },
+  {
+   "id": "lokus",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Nomenclatura",
+   "baslik": "Nombres de *locus*",
+   "cumleler": [
+    "En la pérdida no sindrómica, las regiones donde se ubican los genes se llaman loci y reciben nombres sistemáticos.",
+    {
+     "yazi": "Las letras DFN al inicio del nombre vienen de la palabra inglesa deafness, que significa sordera.",
+     "ses": "Las letras de efe ene al inicio del nombre vienen de la palabra inglesa déafness, que significa sordera."
+    },
+    {
+     "yazi": "DFNB indica herencia autosómica recesiva; DFNA, autosómica dominante, y DFNX, ligada al X."
+    },
+    {
+     "yazi": "El número tras la letra indica el orden en que se describió el locus; por ejemplo, DFNB1 es el primer locus recesivo descrito."
+    },
+    {
+     "yazi": "El gen GJB2, en el locus DFNB1, es la causa genética más frecuente y el tema de la próxima lección."
+    },
+    "Hoy se han identificado más de cien genes asociados a la hipoacusia no sindrómica."
+   ],
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "DFNB",
+     "metin": "Autosómica recesiva; DFNB1: GJB2",
+     "cumle": 2
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "DFNA",
+     "metin": "Autosómica dominante; DFNA9: COCH",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "DFNX",
+     "metin": "Ligada al X; DFNX2: POU3F4",
+     "cumle": 2
+    }
+   ]
+  },
+  {
+   "id": "sik_genler",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 2",
+   "bolum": "Nomenclatura",
+   "baslik": "*Genes* frecuentes",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "GJB2",
+     "metin": "Primera causa de pérdida recesiva",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "SLC26A4",
+     "metin": "EVA y Pendred",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "OTOF",
+     "metin": "Neuropatía auditiva",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Genes dominantes",
+     "metin": "Pérdida progresiva en adultos",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Aunque hay más de cien genes, algunos aparecen mucho más a menudo en la clínica.",
+    {
+     "yazi": "GJB2 es la causa más frecuente de pérdida autosómica recesiva en muchas poblaciones."
+    },
+    {
+     "yazi": "SLC26A4 se asocia al acueducto vestibular dilatado y al síndrome de Pendred."
+    },
+    {
+     "yazi": "El gen OTOF, que codifica la otoferlina, se asocia a la neuropatía auditiva, con otoemisiones presentes pero PEATC ausentes."
+    },
+    "Con algunos genes dominantes, la pérdida comienza en la adultez y progresa; algunos también se acompañan de problemas de equilibrio.",
+    "Conocer el gen ayuda a prever la evolución de la pérdida y a adaptar el plan de seguimiento a la persona."
+   ]
+  },
+  {
+   "id": "gen_yeri",
+   "tur": "gorsel",
+   "bolum_no": "PARTE 2",
+   "bolum": "Nomenclatura",
+   "baslik": "¿*Dónde* actúan los genes?",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "stereosil",
+     "metin": "Haz de estereocilios",
+     "cumle": 1
+    },
+    {
+     "parca": "destek_hucreleri",
+     "metin": "Células de sostén",
+     "cumle": 2
+    },
+    {
+     "parca": "tektoryal_membran",
+     "metin": "Membrana tectoria",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Sinapsis y nervio",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "stereosil",
+     "cumle": 1
+    },
+    {
+     "parca": "destek_hucreleri",
+     "cumle": 2
+    },
+    {
+     "parca": "tektoryal_membran",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 4
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Haz y _canal de transducción_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Reciclaje_ de potasio",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Sinapsis: _otoferlina_",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Una forma de entender la pérdida genética es mirar en qué parte de la cóclea hacen su trabajo los genes.",
+    "Un grupo de genes actúa en la estructura del haz de estereocilios de las células ciliadas y en el canal de transducción.",
+    "Otro grupo actúa en las uniones en hendidura y en los transportadores de iones que sostienen el reciclaje de potasio.",
+    "También hay genes que codifican proteínas de la estructura de la membrana tectoria.",
+    "Algunos genes actúan en la sinapsis entre la célula ciliada interna y el nervio; la otoferlina es un ejemplo.",
+    "Saber dónde actúa un gen ayuda a aclarar el tipo de pérdida y qué rehabilitación puede ser más útil."
+   ]
+  },
+  {
+   "id": "mito",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 2",
+   "bolum": "Nomenclatura",
+   "baslik": "*Susceptibilidad* mitocondrial",
+   "maddeler": [
+    {
+     "metin": "Ejemplo: el cambio _m.1555A&gt;G_",
+     "cumle": 0,
+     "ikon": "dna"
+    },
+    {
+     "metin": "Hipersensibilidad a los _aminoglucósidos_",
+     "cumle": 1,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Importan los antecedentes _maternos_",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Diabetes y pérdida pueden darse _juntas_",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SE TRANSMITE POR LA MADRE",
+    "metin": "Riesgo de *pérdida severa* tras aminoglucósidos",
+    "cumle": 1
+   },
+   "cumleler": [
+    {
+     "yazi": "El ejemplo mitocondrial más importante en audiología es el cambio en la posición 1555 del gen MT-RNR1."
+    },
+    "En las personas portadoras de este cambio, los antibióticos aminoglucósidos pueden causar una pérdida severa incluso en dosis habituales.",
+    "Como el cambio se transmite por la madre, los antecedentes de pérdida auditiva por fármacos en parientes maternos son especialmente importantes.",
+    "En algunos cuadros mitocondriales, la diabetes y la pérdida auditiva se presentan juntas.",
+    "Veremos los fármacos ototóxicos en detalle más adelante, en una lección aparte."
+   ]
+  },
+  {
+   "id": "sendromik_ipuclari",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 3",
+   "bolum": "Pérdida sindrómica",
+   "baslik": "Hallazgos que *sugieren* un síndrome",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Ojos",
+     "metin": "Ceguera nocturna: Usher",
+     "cumle": 1
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Riñones",
+     "metin": "Sangre en la orina: Alport",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Pigmento",
+     "metin": "Mechón blanco: Waardenburg",
+     "cumle": 3
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Tiroides",
+     "metin": "Bocio: Pendred",
+     "cumle": 4
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Corazón",
+     "metin": "Desmayos: trastorno del ritmo",
+     "cumle": 5
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Oído externo",
+     "metin": "Fositas, quistes: BOR",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Para reconocer una pérdida sindrómica, hay que buscar hallazgos más allá de la audición.",
+    "La ceguera nocturna y un campo visual que se estrecha pueden sugerir el síndrome de Usher.",
+    "Hallazgos renales como la sangre en la orina pueden hacer pensar en el síndrome de Alport.",
+    "Un mechón de pelo blanco o los ojos de dos colores distintos sugieren el síndrome de Waardenburg.",
+    "Una tiroides agrandada y un acueducto vestibular ancho son signos del síndrome de Pendred.",
+    "Los desmayos sugieren trastornos del ritmo cardíaco, y las fositas preauriculares y los quistes cervicales, el síndrome branquio-oto-renal."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "PARTE 3",
+   "bolum": "Pérdida sindrómica",
+   "baslik": "*Pistas* en el audiograma",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Oído derecho_: vía aérea",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Oído izquierdo_: vía aérea",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: hasta 25 dB HL",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       30,
+       50,
+       50,
+       30,
+       20
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       25,
+       30,
+       50,
+       55,
+       35,
+       25
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Algunas pérdidas genéticas pueden producir formas características en el audiograma.",
+    "En este ejemplo, ambos oídos muestran una pérdida simétrica más marcada en las frecuencias medias, llamada en galleta mordida.",
+    "Esta forma se ha descrito en algunas familias con herencia dominante.",
+    "Las pérdidas que comienzan en las frecuencias graves y mejoran hacia los agudos también se ven en algunas familias dominantes.",
+    "Una pérdida simétrica en ambos oídos y familiares con audiogramas similares sugieren una causa genética.",
+    "Aun así, la forma del audiograma por sí sola no da un diagnóstico genético; solo ofrece una pista."
+   ]
+  },
+  {
+   "id": "surec",
+   "tur": "akis",
+   "bolum_no": "PARTE 4",
+   "bolum": "Evaluación genética",
+   "baslik": "*Evaluación* genética",
+   "adimlar": [
+    {
+     "ikon": "ev",
+     "baslik": "Antecedentes familiares",
+     "metin": "Árbol de tres generaciones",
+     "cumle": 1
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Exploración",
+     "metin": "Ojos, riñones, corazón",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Panel de genes",
+     "metin": "Muchos genes",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Exoma",
+     "metin": "Si el panel no basta",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Asesoramiento",
+     "metin": "Resultado explicado a la familia",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Encontrar la causa genética ayuda a la familia y al médico de muchas maneras.",
+    "El primer paso es una anamnesis familiar detallada y un árbol genealógico de al menos tres generaciones.",
+    "Luego el médico busca hallazgos más allá de la audición; si hace falta, se solicitan evaluaciones oftalmológicas, renales y cardíacas.",
+    "El estudio suele usar los genes frecuentes o paneles que analizan muchos genes a la vez.",
+    "Si el panel no da respuesta, puede hacerse la secuenciación del exoma, que analiza las regiones codificantes de todos los genes.",
+    "Los resultados siempre se explican a la familia junto con el asesoramiento genético."
+   ]
+  },
+  {
+   "id": "yararlar",
+   "tur": "ikonlar",
+   "bolum_no": "PARTE 4",
+   "bolum": "Evaluación genética",
+   "baslik": "¿Qué *aporta* un diagnóstico?",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Evolución",
+     "metin": "Se puede prever la progresión",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Prevención",
+     "metin": "Ojos, riñones, corazón",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Explicación",
+     "metin": "Evita estudios innecesarios",
+     "cumle": 2
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Familia",
+     "metin": "Riesgo de recurrencia",
+     "cumle": 3
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Rehabilitación",
+     "metin": "Orienta las expectativas",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Un diagnóstico genético puede dar una idea de si la pérdida va a progresar.",
+    "Si se encuentra pronto una causa sindrómica, los problemas oculares, renales o cardíacos pueden atenderse a tiempo.",
+    "Ayuda a evitar otros estudios innecesarios y ofrece a la familia una explicación en lugar de incertidumbre.",
+    "Se puede estimar el riesgo de recurrencia para futuros hijos de la familia.",
+    "Para algunos genes, también orienta las expectativas sobre los resultados del implante coclear y de los audífonos."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Consejo clínico",
+   "metin": "No preguntes por los antecedentes familiares solo con sí o no: ¿qué familiar, a qué edad, uno o ambos oídos? Pregunta también con tacto si los padres son parientes.",
+   "cumleler": [
+    "Un consejo clínico: no pregunten por los antecedentes familiares solo con un sí o un no.",
+    "Pregunten qué familiar tiene la pérdida, a qué edad empezó, si es en uno o ambos oídos y si usa algún dispositivo auditivo.",
+    "Pregunten también con tacto si los padres son parientes; es un dato importante para la herencia recesiva.",
+    "Cuando corresponda, evaluar también la audición de los padres puede revelar pérdidas leves que pasaron inadvertidas."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "PARTE 4",
+   "bolum": "Evaluación genética",
+   "baslik": "Los *límites* de los resultados",
+   "maddeler": [
+    {
+     "metin": "Resultado negativo: no significa _no genética_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Variantes de _significado incierto_",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "_Reclasificación_ con el tiempo",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Interpretación: equipo de _genética médica_",
+     "cumle": 3,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Audiólogo: _detectar y derivar_",
+     "cumle": 4,
+     "ikon": "odyolog"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "RESULTADO",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Explicativo",
+      "metin": "Causa hallada",
+      "cumle": 0
+     },
+     {
+      "ikon": "soru",
+      "baslik": "Incierto",
+      "metin": "No se usa para decidir",
+      "cumle": 1
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Negativo",
+      "metin": "No descarta la causa",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Un estudio genético negativo no significa que la pérdida no sea genética.",
+    "El significado de algunos cambios aún no se conoce; se llaman variantes de significado incierto.",
+    "A medida que crece el conocimiento, algunas de estas variantes pueden reclasificarse, por lo que los resultados se revisan con el tiempo.",
+    "Interpretar los resultados es tarea del médico genetista y del asesor genético.",
+    "El papel del audiólogo es reconocer a las familias indicadas, derivarlas y compartir por completo los hallazgos auditivos."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Resumen y prueba",
+   "baslik": "Lo que *aprendimos*",
+   "maddeler": [
+    {
+     "metin": "_Más de la mitad_ de la pérdida congénita es genética",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "70 % _no sindrómica_, 30 % sindrómica",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Recesiva_ más frecuente, dominante progresiva",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "DFNB, DFNA, DFNX: _nombres de locus_",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "Más de la mitad de las hipoacusias congénitas tienen una causa genética.",
+    "Alrededor del setenta por ciento de las pérdidas genéticas son no sindrómicas, y el treinta por ciento, sindrómicas.",
+    "La mayoría de las pérdidas no sindrómicas son autosómicas recesivas; las dominantes suelen comenzar más tarde y progresar.",
+    {
+     "yazi": "En los nombres de locus, DFNB indica herencia recesiva; DFNA, dominante, y DFNX, ligada al X."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Resumen y prueba",
+   "soru": "¿Qué herencia indica un locus DFNA?",
+   "secenekler": [
+    "Autosómica recesiva",
+    "Autosómica dominante",
+    "Ligada al X",
+    "Mitocondrial"
+   ],
+   "dogru": 1,
+   "aciklama": "Después de DFN, _A indica autosómica dominante_; B, recesiva, y X, ligada al X.",
+   "cumleler": [
+    {
+     "yazi": "Pon a prueba lo aprendido: ¿qué patrón de herencia indica un locus llamado DFNA?",
+     "sonra_bekle": 5
+    },
+    "La respuesta correcta es la B: autosómica dominante.",
+    {
+     "yazi": "DFNB indica herencia recesiva, y DFNX, herencia ligada al X."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*GJB2* y conexina 26: la causa genética más frecuente",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "En la próxima lección estudiaremos GJB2, la causa genética más frecuente, y la conexina veintiséis."
+    },
+    "Suscríbanse al canal para no perderse ninguna lección. ¡Hasta pronto!"
+   ]
+  }
+ ]
+}
